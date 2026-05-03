@@ -3,46 +3,44 @@
         {
             "topic": "site",
             "title": "Modern Warfare section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=169",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=169"
         },
         {
             "topic": "site",
             "title": "Halo section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=168",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=168"
         },
         {
             "topic": "site",
             "title": "Multiple DDoS attempts mitigated; service restored quickly.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Pruning of private messages for regular members older than 6 months.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

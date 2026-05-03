@@ -3,84 +3,86 @@
         {
             "topic": "site",
             "title": "Contests section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=155",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=155"
         },
         {
             "topic": "users",
             "title": "--([-S7N-])-- was appointed to staff.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "--([-S7N-])--"
+            "users": [
+                {
+                    "username": "--([-S7N-])--",
+                    "uid": "110893"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Member profile contact details removed from profiles.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=433590",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Several datacenters (ThePlanet, SharkTech, FDC, Hurricane Electric) blocked.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=428354",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "threads",
             "title": "HackForum's first userscript releases - HackForums Toolbar released (by Delphinum).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=432450",
-            "related_users": [
-                "Delphinum"
+            "users": [
+                {
+                    "username": "Delphinum",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Psyk was banned for scamming.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Psyk"
+            "users": [
+                {
+                    "username": "Psyk",
+                    "uid": "52160"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "--([-S7N-])--",
-            "uid": 110893
-        },
-        {
-            "username": "Delphinum",
-            "uid": null
-        },
-        {
-            "username": "Psyk",
-            "uid": 52160
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

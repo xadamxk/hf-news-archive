@@ -40,8 +40,7 @@
     {
       "category": "site",
       "description": "More theme changes were rolled out: postbit buttons and tabs were replaced with newer professional designs.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
@@ -315,128 +314,6 @@
           "uid": "946680"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "30595",
-      "username": "The Rated R Superstar"
-    },
-    {
-      "uid": "32695",
-      "username": "Etheryte"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "89554",
-      "username": "RRain"
-    },
-    {
-      "uid": "93419",
-      "username": "Minnesota Nice"
-    },
-    {
-      "uid": "129812",
-      "username": "Peter Chao"
-    },
-    {
-      "uid": "175033",
-      "username": "xerotic"
-    },
-    {
-      "uid": "298746",
-      "username": "Grammar Rays"
-    },
-    {
-      "uid": "303649",
-      "username": "DaL33t"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "366559",
-      "username": "Daniel Faraday"
-    },
-    {
-      "uid": "406243",
-      "username": "WiFi."
-    },
-    {
-      "uid": "415606",
-      "username": "Storm Watch"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "565350",
-      "username": "Reported"
-    },
-    {
-      "uid": "570186",
-      "username": "TheHackersLove"
-    },
-    {
-      "uid": "620668",
-      "username": "iKraZee"
-    },
-    {
-      "uid": "622763",
-      "username": "WiFi."
-    },
-    {
-      "uid": "657392",
-      "username": "Astonish is NJ"
-    },
-    {
-      "uid": "717382",
-      "username": "John*"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "744040",
-      "username": "ASM"
-    },
-    {
-      "uid": "780686",
-      "username": "Arsenal FC"
-    },
-    {
-      "uid": "809615",
-      "username": "Jellyrolls"
-    },
-    {
-      "uid": "817877",
-      "username": "Guess Who Is Back"
-    },
-    {
-      "uid": "827003",
-      "username": "dolphinman"
-    },
-    {
-      "uid": "946680",
-      "username": "Ignite."
-    },
-    {
-      "uid": "955612",
-      "username": "90k"
-    },
-    {
-      "uid": "961270",
-      "username": "Ƨhadow"
     }
   ]
 }

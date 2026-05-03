@@ -3,75 +3,80 @@
         {
             "topic": "site",
             "title": "Considering Liberty Reserve as primary marketplace currency; community poll opened.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1465358",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Liberty Reserve community poll and discussion.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1465665",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Judge Dredd posts 'a message for you'.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1475299",
-            "related_users": [
-                "Judge Dredd"
+            "users": [
+                {
+                    "username": "Judge Dredd",
+                    "uid": "4066"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "xerotic shares daily routine and seeks advice.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1466490",
-            "related_users": [
-                "xerotic"
+            "users": [
+                {
+                    "username": "xerotic",
+                    "uid": "175033"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "Reviewers: -BoodyE- promoted to co-leader.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "-BoodyE-"
+            "users": [
+                {
+                    "username": "-BoodyE-",
+                    "uid": "115612"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Atthackers (The Informers leader) banned 7 days.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Atthackers"
+            "users": [
+                {
+                    "username": "Atthackers",
+                    "uid": "616850"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "Groups recruiting: The Alliance, Graphic Masters, RATs Crew, Reverence, The Wraith.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=52",
-            "related_users": []
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Judge Dredd",
-            "uid": 4066
-        },
-        {
-            "username": "-BoodyE-",
-            "uid": 115612
-        },
-        {
-            "username": "Atthackers",
-            "uid": 616850
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=52"
         }
     ]
 }
-

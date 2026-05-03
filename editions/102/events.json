@@ -14,20 +14,17 @@
     {
       "category": "site",
       "description": "Hack Forums set a new record of 2,885 members online at one moment.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
       "description": "Illuminati changed its userbar; opinions in the community were divided over readability versus the original style.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
       "description": "Coders changed its name to Logic and adjusted its associated topic; the group is now invite only with recruitment possibly opening soon.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -326,168 +323,6 @@
           "role": "Proofreader"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "65141",
-      "username": "bellita"
-    },
-    {
-      "uid": "80754",
-      "username": "Reminiscent"
-    },
-    {
-      "uid": "113705",
-      "username": "php"
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "115612",
-      "username": "-BoodyE-"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "298746",
-      "username": "Grammar Rays"
-    },
-    {
-      "uid": "301731",
-      "username": "echo.phyber"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "398007",
-      "username": "Apathy"
-    },
-    {
-      "uid": "398783",
-      "username": "inxy"
-    },
-    {
-      "uid": "434812",
-      "username": "Bay"
-    },
-    {
-      "uid": "454666",
-      "username": "adampelletgun"
-    },
-    {
-      "uid": "458073",
-      "username": "Chief."
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "516470",
-      "username": "SoulZeh"
-    },
-    {
-      "uid": "524451",
-      "username": "Yellows"
-    },
-    {
-      "uid": "536965",
-      "username": "TM™"
-    },
-    {
-      "uid": "580684",
-      "username": "RDCA"
-    },
-    {
-      "uid": "600771",
-      "username": "Αnonymous"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "700572",
-      "username": "Configuration"
-    },
-    {
-      "uid": "723110",
-      "username": "Justintr4in"
-    },
-    {
-      "uid": "816875",
-      "username": "Daring"
-    },
-    {
-      "uid": "848947",
-      "username": "KillzyazMadness"
-    },
-    {
-      "uid": "903914",
-      "username": "ρяιη¢є"
-    },
-    {
-      "uid": "929501",
-      "username": "The Goon"
-    },
-    {
-      "uid": "1011113",
-      "username": "Dan."
-    },
-    {
-      "uid": "1018876",
-      "username": "Phytrix"
-    },
-    {
-      "uid": "1072161",
-      "username": "Somerset West"
-    },
-    {
-      "uid": "1089669",
-      "username": "video de cul"
-    },
-    {
-      "uid": "1090659",
-      "username": "Argoi"
-    },
-    {
-      "uid": "1114432",
-      "username": "PyroStorm"
-    },
-    {
-      "uid": "1115097",
-      "username": "TheVortex"
-    },
-    {
-      "uid": "1119610",
-      "username": "Winner"
-    },
-    {
-      "uid": "1220481",
-      "username": "☆ Mark I. Mcclam ☆"
-    },
-    {
-      "uid": "1230572",
-      "username": "Diji"
-    },
-    {
-      "uid": "1323486",
-      "username": "AvidWB"
     }
   ]
 }

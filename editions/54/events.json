@@ -44,14 +44,12 @@
     {
       "category": "site",
       "description": "As a result of post count being enabled in all sections, the minimum post length was raised from 25 to 50 characters and the LQP warning was raised from 10 to 25 points per month.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "Changes were made to warning levels.",
-      "thread": "http://hackforums.net/showthread.php?tid=1589913",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1589913"
     },
     {
       "category": "site",
@@ -100,8 +98,7 @@
     {
       "category": "site",
       "description": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing sub-forum under Marketplace Discussions.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -422,160 +419,6 @@
           "role": "Graphical Editor"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "2103",
-      "username": "Crow"
-    },
-    {
-      "uid": "58683",
-      "username": "Zeon"
-    },
-    {
-      "uid": "79121",
-      "username": "Richie"
-    },
-    {
-      "uid": "100071",
-      "username": "cobija"
-    },
-    {
-      "uid": "101228",
-      "username": "Tate"
-    },
-    {
-      "uid": "103669",
-      "username": "Factor8™"
-    },
-    {
-      "uid": "111287",
-      "username": "xvisceral"
-    },
-    {
-      "uid": "115612",
-      "username": "-BoodyE-"
-    },
-    {
-      "uid": "123584",
-      "username": "C4Vendetta"
-    },
-    {
-      "uid": "126243",
-      "username": "Decoy"
-    },
-    {
-      "uid": "128873",
-      "username": "T3h Hack3r"
-    },
-    {
-      "uid": "132817",
-      "username": "S70N3R"
-    },
-    {
-      "uid": "175033",
-      "username": "xerotic"
-    },
-    {
-      "uid": "183072",
-      "username": "Mr.Kewl"
-    },
-    {
-      "uid": "234024",
-      "username": "Deities"
-    },
-    {
-      "uid": "277712",
-      "username": "Cobalt+"
-    },
-    {
-      "uid": "295848",
-      "username": "Qwazz"
-    },
-    {
-      "uid": "320970",
-      "username": "HakkuR"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "345697",
-      "username": "kyoutu"
-    },
-    {
-      "uid": "355307",
-      "username": "chocothunda"
-    },
-    {
-      "uid": "458069",
-      "username": "Ethereal"
-    },
-    {
-      "uid": "458073",
-      "username": "Mike."
-    },
-    {
-      "uid": "545127",
-      "username": "Joey Tribbiani"
-    },
-    {
-      "uid": "556984",
-      "username": "Puppy™"
-    },
-    {
-      "uid": "566671",
-      "username": "panDa."
-    },
-    {
-      "uid": "588781",
-      "username": "Hуѕтєяιa X™"
-    },
-    {
-      "uid": "616850",
-      "username": "Atthackers"
-    },
-    {
-      "uid": "619030",
-      "username": "iNviZ"
-    },
-    {
-      "uid": "625689",
-      "username": "A N D R E W"
-    },
-    {
-      "uid": "640322",
-      "username": "Brawl"
-    },
-    {
-      "uid": "648463",
-      "username": "Figaro"
-    },
-    {
-      "uid": "657392",
-      "username": "Astonish is NJ"
-    },
-    {
-      "uid": "675453",
-      "username": "Cyber-Security"
-    },
-    {
-      "uid": "754586",
-      "username": "Oxid"
-    },
-    {
-      "uid": "766449",
-      "username": "BlackChaos"
-    },
-    {
-      "uid": "827711",
-      "username": "DΣxus"
     }
   ]
 }

@@ -3,75 +3,80 @@
         {
             "topic": "site",
             "title": "Planned new DB server and MyBB 1.6 upgrade discussed.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=864282",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "The Elite steps down as HF News leader.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=867317",
-            "related_users": [
-                "The Elite"
+            "users": [
+                {
+                    "username": "The Elite",
+                    "uid": "136025"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "N3w_2_H@Ck1n™ steps down from staff (activity).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=846935",
-            "related_users": [
-                "N3w_2_H@Ck1n™"
+            "users": [
+                {
+                    "username": "N3w_2_H@Ck1n™",
+                    "uid": "49806"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Solidify permanently banned and account deleted.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Solidify"
+            "users": [
+                {
+                    "username": "Solidify",
+                    "uid": "176679"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Cybr banned 3 months after rep-demand quote.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Cybr"
+            "users": [
+                {
+                    "username": "Cybr",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Luchien Lachance removed as section moderator (multiple accounts).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Luchien Lachance"
+            "users": [
+                {
+                    "username": "Luchien Lachance",
+                    "uid": "52868"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Wikileaks US diplomatic cables spark forum discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=864618",
-            "related_users": []
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "The Elite",
-            "uid": 136025
-        },
-        {
-            "username": "N3w_2_H@Ck1n™",
-            "uid": 49806
-        },
-        {
-            "username": "Luchien Lachance",
-            "uid": 52868
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=864618"
         }
     ]
 }
-

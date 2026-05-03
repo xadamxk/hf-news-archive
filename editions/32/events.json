@@ -3,65 +3,74 @@
         {
             "topic": "site",
             "title": "‘Dead Group’ created for permanently disabled accounts.",
+            "description": "",
             "url": "http://twitter.com/HackForumsNet/statuses/27462312101158913",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Hanzo: How to avoid getting repfucked and banned.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1012384",
-            "related_users": [
-                "Hanzo"
+            "users": [
+                {
+                    "username": "Hanzo",
+                    "uid": "4066"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "MySQL 5.5 upgrade stabilizes DB; HTTP server upgrade planned.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "ShareCash experiment proposed (awards/upgrades for tasks).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Thread IDs surpass 1,000,000.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "The Elite"
+            "users": [
+                {
+                    "username": "The Elite",
+                    "uid": "136025"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "WIZCRAFT permanently banned for scamming.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "WIZCRAFT"
+            "users": [
+                {
+                    "username": "WIZCRAFT",
+                    "uid": null
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Hanzo",
-            "uid": 4066
-        },
-        {
-            "username": "The Elite",
-            "uid": 136025
         }
     ]
 }
-

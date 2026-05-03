@@ -18,20 +18,17 @@
     {
       "category": "site",
       "description": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a staff userbar can have their profile activity viewed.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "Min.us image host has been blocked from HF after Avast added the domain to its blacklist.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "The HF News team is recruiting for the first time; only two interviewer positions are open.",
-      "thread": "http://hackforums.net/showthread.php?tid=1825326",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1825326"
     },
     {
       "category": "interviews",
@@ -61,24 +58,6 @@
           "username": "Quantum."
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "4066",
-      "username": "Judge Dredd"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "565350",
-      "username": "Reported"
     }
   ]
 }

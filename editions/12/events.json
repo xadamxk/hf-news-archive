@@ -3,22 +3,20 @@
         {
             "topic": "threads",
             "title": "No news events this week.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

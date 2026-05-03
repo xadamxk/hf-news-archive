@@ -17,8 +17,7 @@
     {
       "category": "groups",
       "description": "The Minecrafters group was suspended at the owner's request, likely due to owner inactivity. The BlackShades team purchased a new group for customer support and Blackshades discussion.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
@@ -59,8 +58,7 @@
     {
       "category": "site",
       "description": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory websites; alternate domains have been recommended.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -334,136 +332,6 @@
           "role": "Interviewer"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "4066",
-      "username": "Judge Dredd"
-    },
-    {
-      "uid": "25053",
-      "username": "Hawkins"
-    },
-    {
-      "uid": "67727",
-      "username": "єץє"
-    },
-    {
-      "uid": "81075",
-      "username": "Robbieava"
-    },
-    {
-      "uid": "87114",
-      "username": "Reptar ツ"
-    },
-    {
-      "uid": "91473",
-      "username": "Coffee"
-    },
-    {
-      "uid": "94732",
-      "username": "*Drew Pickles*™"
-    },
-    {
-      "uid": "123584",
-      "username": "C4Vendetta"
-    },
-    {
-      "uid": "126704",
-      "username": "Rhythm"
-    },
-    {
-      "uid": "128873",
-      "username": "T3h Hack3r"
-    },
-    {
-      "uid": "355307",
-      "username": "Chocothunda"
-    },
-    {
-      "uid": "398194",
-      "username": "туℓєя"
-    },
-    {
-      "uid": "398532",
-      "username": "Skirex"
-    },
-    {
-      "uid": "421232",
-      "username": "Flashy."
-    },
-    {
-      "uid": "426299",
-      "username": "Oldskool."
-    },
-    {
-      "uid": "458073",
-      "username": "Chief."
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "524451",
-      "username": "Yellows"
-    },
-    {
-      "uid": "526511",
-      "username": "[M]"
-    },
-    {
-      "uid": "651773",
-      "username": "Vitani's Mate"
-    },
-    {
-      "uid": "656453",
-      "username": "ReactioNz"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "762646",
-      "username": "Døn"
-    },
-    {
-      "uid": "790138",
-      "username": "!stric_tags($userName)"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "964299",
-      "username": "Purple Haze."
-    },
-    {
-      "uid": "1011113",
-      "username": "Dan."
-    },
-    {
-      "uid": "1021104",
-      "username": "Mich@ael"
-    },
-    {
-      "uid": "1052197",
-      "username": "Damn."
-    },
-    {
-      "uid": "1155615",
-      "username": "bmendo"
     }
   ]
 }

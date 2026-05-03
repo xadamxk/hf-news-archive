@@ -3,44 +3,37 @@
     {
       "category": "site",
       "description": "The ban on Runescape discussions has been lifted; a Runescape sub-forum was reopened with new rules.",
-      "thread": "http://hackforums.net/showthread.php?tid=1734800",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1734800"
     },
     {
       "category": "site",
       "description": "A forum rules compilation page was created listing all forum-specific rules.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban; a new 'Not In Marketplace' report option was added.",
-      "thread": "http://hackforums.net/showthread.php?tid=1735211",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1735211"
     },
     {
       "category": "site",
       "description": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts a member has in individual sections.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "A Hackintosh Help sub-forum was added under Apple Mac and OS X for setup help and build guides.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "A Partnerships, Hiring, and Personnel sub-forum was added under Service Offerings.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW equipment, and similar items; account trading is not allowed there.",
-      "thread": "http://hackforums.net/showthread.php?tid=1735211",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1735211"
     },
     {
       "category": "users",
@@ -147,48 +140,6 @@
           "username": "DiscipLe"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "47970",
-      "username": "Rusty_v"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "361543",
-      "username": "Scooter"
-    },
-    {
-      "uid": "574192",
-      "username": "Defcon."
-    },
-    {
-      "uid": "651773",
-      "username": "Vitani's Mate"
-    },
-    {
-      "uid": "728613",
-      "username": "Avante"
-    },
-    {
-      "uid": "729921",
-      "username": "тнєJσкєя"
-    },
-    {
-      "uid": "740858",
-      "username": "Poliice"
-    },
-    {
-      "uid": "766442",
-      "username": "SeaNanners™"
     }
   ]
 }

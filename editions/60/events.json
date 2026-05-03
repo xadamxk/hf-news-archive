@@ -14,20 +14,17 @@
     {
       "category": "site",
       "description": "The Mentors usergroup now moderates more subforums.",
-      "thread": "http://hackforums.net/showthread.php?tid=1749008",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1749008"
     },
     {
       "category": "site",
       "description": "Administrator profile activity is now hidden; visitors only see 'Unknown location' on admin profiles.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "Non-upgraded members can no longer use images in their signatures; l33t or Ub3r is required.",
-      "thread": "http://hackforums.net/showthread.php?tid=1739748",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1739748"
     },
     {
       "category": "site",
@@ -65,24 +62,6 @@
           "username": "Sir"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "126704",
-      "username": "Rhythm"
-    },
-    {
-      "uid": "277712",
-      "username": "Cobalt+"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
     }
   ]
 }

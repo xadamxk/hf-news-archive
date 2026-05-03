@@ -3,75 +3,80 @@
         {
             "topic": "site",
             "title": "Admin statement on WikiLeaks discussions and prohibitions.",
+            "description": "",
             "url": "http://hackforums.net/announcements.php?aid=9",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "phire nuk3r promoted to staff.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "phire nuk3r"
+            "users": [
+                {
+                    "username": "phire nuk3r",
+                    "uid": "46373"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "The Elite steps down as HF News head writer; replacement speculated.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=886101",
-            "related_users": [
-                "The Elite"
+            "users": [
+                {
+                    "username": "The Elite",
+                    "uid": "136025"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "New MySQL server deployed; downtime explanations posted.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=892163",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Lounge reached 100,000 threads.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "threads",
             "title": "‘Taking Back Hacker’ campaign highlighted.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=889555",
-            "related_users": [
-                "Crow"
+            "users": [
+                {
+                    "username": "Crow",
+                    "uid": "2103"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Increase internet speed guide by Omniscient.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=884082",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "The Elite",
-            "uid": 136025
-        },
-        {
-            "username": "phire nuk3r",
-            "uid": 46373
-        },
-        {
-            "username": "Crow",
-            "uid": 2103
         }
     ]
 }
-

@@ -3,79 +3,98 @@
         {
             "topic": "groups",
             "title": "Gamers Crew removed; new Gamers Lounge section created.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=65",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=65"
         },
         {
             "topic": "groups",
             "title": "Philker official group removed.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1424284",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Mandatory password reset for l33t/ub3r after DB issue.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Proposal: encrypted secondary emails for account recovery.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1423989",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Omni’s “I love SPAM” post about forum spam.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1413983",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "Reverence and Informers leadership changes; section moderators added.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "xerotic",
-                "Astonish is nj",
-                "Atthackers",
-                "Valik",
-                "Qwazz",
-                "Hуѕтєяιa X™",
-                "Wolves"
+            "users": [
+                {
+                    "username": "xerotic",
+                    "uid": "175033"
+                },
+                {
+                    "username": "Astonish is nj",
+                    "uid": "657392"
+                },
+                {
+                    "username": "Atthackers",
+                    "uid": "616850"
+                },
+                {
+                    "username": "Valik",
+                    "uid": null
+                },
+                {
+                    "username": "Qwazz",
+                    "uid": "295848"
+                },
+                {
+                    "username": "Hуѕтєяιa X™",
+                    "uid": "588781"
+                },
+                {
+                    "username": "Wolves",
+                    "uid": "651051"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "The Alliance opens recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=1421354",
-            "related_users": []
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "xerotic",
-            "uid": 175033
-        },
-        {
-            "username": "Atthackers",
-            "uid": 616850
-        },
-        {
-            "username": "Astonish is nj",
-            "uid": 657392
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=1421354"
         }
     ]
 }
-

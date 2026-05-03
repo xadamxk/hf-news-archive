@@ -5,7 +5,10 @@
       "description": "Omniscient disabled post counting in the Rate My Graphic section to prevent low-quality comments.",
       "thread": "http://hackforums.net/showthread.php?tid=1523439",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ]
     },
     {
@@ -13,7 +16,10 @@
       "description": "Omniscient added a feature allowing members to filter their reputation by positives, negatives, and neutrals via User CP.",
       "thread": null,
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ]
     },
     {
@@ -21,7 +27,10 @@
       "description": "xerotic was recently SWAT'd, though his activity has not been affected.",
       "thread": null,
       "users": [
-        { "uid": "175033", "username": "xerotic" }
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
       ]
     },
     {
@@ -29,8 +38,14 @@
       "description": "Qwazz is stepping down as publisher of HF News and as moderator of the section, choosing Cobalt+ as his successor.",
       "thread": null,
       "users": [
-        { "uid": "295848", "username": "Qwazz" },
-        { "uid": "277712", "username": "Cobalt+" }
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        },
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        }
       ]
     },
     {
@@ -38,8 +53,14 @@
       "description": "Deities was promoted from leader to moderator of The Alliance sub-forum, while Paradoxum is still considered the group's owner.",
       "thread": null,
       "users": [
-        { "uid": "234024", "username": "Deities" },
-        { "uid": "70881", "username": "Paradoxum" }
+        {
+          "uid": "234024",
+          "username": "Deities"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        }
       ]
     },
     {
@@ -47,7 +68,10 @@
       "description": "๖ۣۜPink ๖ۣۜFloyd was promoted to moderator of the Minecraft section after suggesting improvements and a new sub-forum.",
       "thread": "http://hackforums.net/showthread.php?tid=1526218",
       "users": [
-        { "uid": "215614", "username": "๖ۣۜPink ๖ۣۜFloyd" }
+        {
+          "uid": "215614",
+          "username": "๖ۣۜPink ๖ۣۜFloyd"
+        }
       ]
     },
     {
@@ -55,7 +79,10 @@
       "description": "panDa. was repfucked for allegedly attempting to bribe a staff member, though it appears to be a misunderstanding.",
       "thread": null,
       "users": [
-        { "uid": "566671", "username": "panDa." }
+        {
+          "uid": "566671",
+          "username": "panDa."
+        }
       ]
     },
     {
@@ -63,7 +90,10 @@
       "description": "A new official group called Marketers was established, led by Codevade, focused on improving HF quality, decreasing scams, and selling better products.",
       "thread": null,
       "users": [
-        { "uid": "209490", "username": "Codevade" }
+        {
+          "uid": "209490",
+          "username": "Codevade"
+        }
       ]
     },
     {
@@ -71,8 +101,14 @@
       "description": "Lemonade and McFlurry were promoted to co-leaders of Reverence.",
       "thread": null,
       "users": [
-        { "uid": "731778", "username": "Lemonade" },
-        { "uid": "725160", "username": "McFlurry" }
+        {
+          "uid": "731778",
+          "username": "Lemonade"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        }
       ]
     },
     {
@@ -80,7 +116,10 @@
       "description": "-BoodyE- received the Star Award.",
       "thread": null,
       "users": [
-        { "uid": "115612", "username": "-BoodyE-" }
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
       ]
     },
     {
@@ -88,7 +127,10 @@
       "description": "Deities was given full ownership of the HackForums YouTube channel and hit the 1,000 reputation milestone.",
       "thread": null,
       "users": [
-        { "uid": "234024", "username": "Deities" }
+        {
+          "uid": "234024",
+          "username": "Deities"
+        }
       ]
     },
     {
@@ -96,8 +138,14 @@
       "description": "Blackshadow was removed from the Member of the Month nominations because someone was vote-farming for him; it is unknown if he was involved.",
       "thread": null,
       "users": [
-        { "uid": "63387", "username": "Blackshadow" },
-        { "uid": "4066", "username": "Judge Dredd" }
+        {
+          "uid": "63387",
+          "username": "Blackshadow"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
       ]
     },
     {
@@ -105,7 +153,10 @@
       "description": "Fabiolin created a comprehensive guide on how to play the shaman role in Transformice.",
       "thread": "http://hackforums.net/showthread.php?tid=1519477",
       "users": [
-        { "uid": "413885", "username": "Fabiolin" }
+        {
+          "uid": "413885",
+          "username": "Fabiolin"
+        }
       ]
     },
     {
@@ -113,7 +164,10 @@
       "description": "Atthackers was granted the Golden Upload award for his line of popular products on Hack Forums.",
       "thread": null,
       "users": [
-        { "uid": "616850", "username": "Atthackers" }
+        {
+          "uid": "616850",
+          "username": "Atthackers"
+        }
       ]
     },
     {
@@ -121,7 +175,10 @@
       "description": "nofear1999 released a new shell checker tool for booter creators to verify whether their shells are private or public.",
       "thread": "http://hackforums.net/showthread.php?tid=1506803",
       "users": [
-        { "uid": "64677", "username": "nofear1999" }
+        {
+          "uid": "64677",
+          "username": "nofear1999"
+        }
       ]
     },
     {
@@ -129,7 +186,10 @@
       "description": "Boxing was repfucked for abusing his reputation-giving abilities.",
       "thread": null,
       "users": [
-        { "uid": "137080", "username": "Boxing" }
+        {
+          "uid": "137080",
+          "username": "Boxing"
+        }
       ]
     },
     {
@@ -137,7 +197,10 @@
       "description": "Kick Buttowski has been banned for threatening members in reputation.",
       "thread": null,
       "users": [
-        { "uid": "407835", "username": "Kick Buttowski" }
+        {
+          "uid": "407835",
+          "username": "Kick Buttowski"
+        }
       ]
     },
     {
@@ -145,7 +208,10 @@
       "description": "Baked has been banned for payment reversal after his PayPal was limited.",
       "thread": null,
       "users": [
-        { "uid": "37251", "username": "Baked" }
+        {
+          "uid": "37251",
+          "username": "Baked"
+        }
       ]
     },
     {
@@ -153,8 +219,14 @@
       "description": "Interview with Black Shadow conducted by Astonish is NJ; covers his joining HF, awards, and time on the forum.",
       "thread": null,
       "users": [
-        { "uid": "657392", "username": "Astonish is NJ" },
-        { "uid": "63387", "username": "Black Shadow" }
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
       ]
     },
     {
@@ -162,8 +234,13 @@
       "description": "Interview with Skill conducted by Astonish is NJ; discusses founding The Alliance, leading Reviewers, and his Staff role.",
       "thread": null,
       "users": [
-        { "uid": "657392", "username": "Astonish is NJ" },
-        { "username": "Skill" }
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "username": "Skill"
+        }
       ]
     },
     {
@@ -171,48 +248,72 @@
       "description": "Contributors to this edition.",
       "thread": null,
       "users": [
-        { "uid": "295848", "username": "Qwazz", "role": "Publisher & Head Writer" },
-        { "uid": "175033", "username": "xerotic", "role": "Publisher's Assistant" },
-        { "uid": "277712", "username": "Cobalt", "role": "Writer" },
-        { "uid": "545127", "username": "Joey Tribbiani", "role": "Writer" },
-        { "uid": "656453", "username": "ReactioNz", "role": "Head Reporter" },
-        { "uid": "129444", "username": "3x0r_$c0rPi0n", "role": "Reporter" },
-        { "uid": "355307", "username": "chocothunda", "role": "Reporter" },
-        { "uid": "126243", "username": "Decoy", "role": "Reporter" },
-        { "uid": "115612", "username": "-BoodyE-", "role": "Reporter" },
-        { "uid": "657392", "username": "Astonish is NJ", "role": "Interviewer" },
-        { "uid": "70881", "username": "Paradoxum", "role": "Editor" },
-        { "uid": "234024", "username": "Deities", "role": "Editor" },
-        { "uid": "566671", "username": "panDa.", "role": "Graphic Designer" }
+        {
+          "uid": "295848",
+          "username": "Qwazz",
+          "role": "Publisher & Head Writer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Publisher's Assistant"
+        },
+        {
+          "uid": "277712",
+          "username": "Cobalt",
+          "role": "Writer"
+        },
+        {
+          "uid": "545127",
+          "username": "Joey Tribbiani",
+          "role": "Writer"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Head Reporter"
+        },
+        {
+          "uid": "129444",
+          "username": "3x0r_$c0rPi0n",
+          "role": "Reporter"
+        },
+        {
+          "uid": "355307",
+          "username": "chocothunda",
+          "role": "Reporter"
+        },
+        {
+          "uid": "126243",
+          "username": "Decoy",
+          "role": "Reporter"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-",
+          "role": "Reporter"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum",
+          "role": "Editor"
+        },
+        {
+          "uid": "234024",
+          "username": "Deities",
+          "role": "Editor"
+        },
+        {
+          "uid": "566671",
+          "username": "panDa.",
+          "role": "Graphic Designer"
+        }
       ]
     }
-  ],
-  "users": [
-    { "uid": "1", "username": "Omniscient" },
-    { "uid": "4066", "username": "Judge Dredd" },
-    { "uid": "37251", "username": "Baked" },
-    { "uid": "63387", "username": "Blackshadow" },
-    { "uid": "64677", "username": "nofear1999" },
-    { "uid": "70881", "username": "Paradoxum" },
-    { "uid": "115612", "username": "-BoodyE-" },
-    { "uid": "126243", "username": "Decoy" },
-    { "uid": "129444", "username": "3x0r_$c0rPi0n" },
-    { "uid": "137080", "username": "Boxing" },
-    { "uid": "175033", "username": "xerotic" },
-    { "uid": "209490", "username": "Codevade" },
-    { "uid": "215614", "username": "๖ۣۜPink ๖ۣۜFloyd" },
-    { "uid": "234024", "username": "Deities" },
-    { "uid": "277712", "username": "Cobalt+" },
-    { "uid": "295848", "username": "Qwazz" },
-    { "uid": "355307", "username": "chocothunda" },
-    { "uid": "407835", "username": "Kick Buttowski" },
-    { "uid": "413885", "username": "Fabiolin" },
-    { "uid": "545127", "username": "Joey Tribbiani" },
-    { "uid": "566671", "username": "panDa." },
-    { "uid": "616850", "username": "Atthackers" },
-    { "uid": "656453", "username": "ReactioNz" },
-    { "uid": "657392", "username": "Astonish is NJ" },
-    { "uid": "725160", "username": "McFlurry" },
-    { "uid": "731778", "username": "Lemonade" }
   ]
 }

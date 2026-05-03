@@ -14,8 +14,7 @@
     {
       "category": "site",
       "description": "The automatic marketplace violation ban for posting marketplace-style threads outside the Marketplace was reduced from seven days to three days.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
@@ -42,8 +41,7 @@
     {
       "category": "site",
       "description": "The Rules, Announcements, News and Feedback subforum reached 400,000 posts.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -366,200 +364,6 @@
           "role": "Proofreader"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "70881",
-      "username": "Paradoxum"
-    },
-    {
-      "uid": "74674",
-      "username": "Blazin"
-    },
-    {
-      "uid": "83317",
-      "username": "Automatic Coding"
-    },
-    {
-      "uid": "107085",
-      "username": "Cloud9™"
-    },
-    {
-      "uid": "121196",
-      "username": "Natha"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "146557",
-      "username": "Skywalker"
-    },
-    {
-      "uid": "183072",
-      "username": "Mr Kewl"
-    },
-    {
-      "uid": "190854",
-      "username": "CarrotMilk"
-    },
-    {
-      "uid": "398007",
-      "username": "Apathy"
-    },
-    {
-      "uid": "458073",
-      "username": "Chief."
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "524451",
-      "username": "Yellows"
-    },
-    {
-      "uid": "533443",
-      "username": "Mirai Nikki"
-    },
-    {
-      "uid": "589027",
-      "username": "Stay Plural"
-    },
-    {
-      "uid": "624699",
-      "username": "๖ۣۜ‍Sheepıı"
-    },
-    {
-      "uid": "632426",
-      "username": "+Awesome"
-    },
-    {
-      "uid": "651051",
-      "username": "Wolves"
-    },
-    {
-      "uid": "672987",
-      "username": "Abuser™"
-    },
-    {
-      "uid": "752389",
-      "username": "eiqhtworks"
-    },
-    {
-      "uid": "763021",
-      "username": "Retribute"
-    },
-    {
-      "uid": "766855",
-      "username": "Anxtrist"
-    },
-    {
-      "uid": "792136",
-      "username": "Krew"
-    },
-    {
-      "uid": "827711",
-      "username": "+Entity"
-    },
-    {
-      "uid": "856824",
-      "username": "AnonyWS™"
-    },
-    {
-      "uid": "863752",
-      "username": "Hexicidal"
-    },
-    {
-      "uid": "900087",
-      "username": "Starstruck"
-    },
-    {
-      "uid": "903914",
-      "username": "Prince"
-    },
-    {
-      "uid": "923197",
-      "username": "KyleWTF"
-    },
-    {
-      "uid": "944024",
-      "username": "Neal Caffrey"
-    },
-    {
-      "uid": "950102",
-      "username": "Bullet."
-    },
-    {
-      "uid": "992333",
-      "username": "Accident"
-    },
-    {
-      "uid": "992967",
-      "username": "Rakshasa"
-    },
-    {
-      "uid": "1007091",
-      "username": "Vlad1k"
-    },
-    {
-      "uid": "1087815",
-      "username": "#Nate"
-    },
-    {
-      "uid": "1108450",
-      "username": "BagHead"
-    },
-    {
-      "uid": "1118446",
-      "username": "Kenn."
-    },
-    {
-      "uid": "1121679",
-      "username": "SkyGuy"
-    },
-    {
-      "uid": "1172544",
-      "username": "Cody‍"
-    },
-    {
-      "uid": "1209782",
-      "username": "iKLUTCH"
-    },
-    {
-      "uid": "1220287",
-      "username": "ↂ Rozyn ↂ"
-    },
-    {
-      "uid": "1233686",
-      "username": "Sandshrew"
-    },
-    {
-      "uid": "1237688",
-      "username": "Hefto"
-    },
-    {
-      "uid": "1306528",
-      "username": "xadamxk"
-    },
-    {
-      "uid": "1339897",
-      "username": "Vitani"
-    },
-    {
-      "uid": "1403633",
-      "username": "Vandal"
-    },
-    {
-      "uid": "1468706",
-      "username": "Apple J4ck."
     }
   ]
 }

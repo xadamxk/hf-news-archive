@@ -3,48 +3,50 @@
         {
             "topic": "site",
             "title": "HackForums reaches 4,000,000 posts.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "site",
             "title": "New rule: no donation begging (signatures allowed with discretion).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=487418",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Sports World subforum created.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=167",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=167"
         },
         {
             "topic": "site",
             "title": "Switched CDN to Amazon Web Services cloud hosting.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

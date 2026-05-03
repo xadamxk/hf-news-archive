@@ -3,43 +3,44 @@
         {
             "topic": "site",
             "title": "Difference between Dead and Banned groups clarified by Omniscient.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1079358",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "xerotic promoted to staff; congrats thread posted.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1082594",
-            "related_users": [
-                "xerotic"
+            "users": [
+                {
+                    "username": "xerotic",
+                    "uid": "175033"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "D.S. Inc recruiting; Reviewers recruiting (UB3R only).",
-            "url": "http://hackforums.net/showthread.php?tid=1073637",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=1073637"
         },
         {
             "topic": "site",
             "title": "24 Feb downtime due to loose LAN to MySQL; resolved.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1086906",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "xerotic",
-            "uid": 175033
         }
     ]
 }
-

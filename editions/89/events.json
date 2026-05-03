@@ -14,14 +14,12 @@
     {
       "category": "site",
       "description": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link that leads to a phishing login page.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
       "description": "TechSperts launched a new mentoring program with public classrooms; lessons are posted publicly afterward.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -247,120 +245,6 @@
           "role": "Graphical Editor"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "45246",
-      "username": "Valiant"
-    },
-    {
-      "uid": "264993",
-      "username": "Opulence"
-    },
-    {
-      "uid": "274613",
-      "username": "Яǝʌǝɹsǝ"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "355307",
-      "username": "Chocothunda"
-    },
-    {
-      "uid": "402384",
-      "username": "Riggs"
-    },
-    {
-      "uid": "451192",
-      "username": "Existence"
-    },
-    {
-      "uid": "510569",
-      "username": "SWAGSTER"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "646916",
-      "username": "Genuine"
-    },
-    {
-      "uid": "656453",
-      "username": "ReactioNz"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "762646",
-      "username": "Døn"
-    },
-    {
-      "uid": "769614",
-      "username": "Waleed"
-    },
-    {
-      "uid": "871604",
-      "username": "Phismatic"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "900087",
-      "username": "Starstruck"
-    },
-    {
-      "uid": "964299",
-      "username": "Purple Haze."
-    },
-    {
-      "uid": "1007343",
-      "username": "BELLAGIO"
-    },
-    {
-      "uid": "1011113",
-      "username": "Dan."
-    },
-    {
-      "uid": "1042274",
-      "username": "-๖ۣۜDivine-"
-    },
-    {
-      "uid": "1058203",
-      "username": "Netflix"
-    },
-    {
-      "uid": "1067987",
-      "username": "Grammar Hax1n"
-    },
-    {
-      "uid": "1115097",
-      "username": "TheVortex"
-    },
-    {
-      "uid": "1159829",
-      "username": "Subscription"
-    },
-    {
-      "uid": "1260135",
-      "username": "Marine"
     }
   ]
 }

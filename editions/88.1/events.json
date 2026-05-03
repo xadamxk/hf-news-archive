@@ -5,11 +5,11 @@
       "description": "Notice from the HF News team: HF News will now be released on Fridays going forward.",
       "thread": null,
       "users": [
-        { "uid": "515249", "username": "Sir" }
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
       ]
     }
-  ],
-  "users": [
-    { "uid": "515249", "username": "Sir" }
   ]
 }

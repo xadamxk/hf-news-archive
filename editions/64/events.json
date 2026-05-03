@@ -14,26 +14,22 @@
     {
       "category": "site",
       "description": "New Ebook Bazaar rule: members are no longer allowed to ask for vouches or review copies.",
-      "thread": "http://hackforums.net/showthread.php?tid=1838556",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1838556"
     },
     {
       "category": "site",
       "description": "Strict new rule for the Hacking Tutorials section: members can no longer ask, PM, or post about eBooks there.",
-      "thread": "http://hackforums.net/showthread.php?tid=1852486",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1852486"
     },
     {
       "category": "site",
       "description": "A new 'Free Money Making Ebooks' section was added under Monetizing Techniques, with rules forbidding referral links, marketplace selling, asking for reps, and illegal-activity ebooks.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "HF News editions have been combined; the regular news and user news now ship together.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -205,68 +201,6 @@
           "uid": "565350"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1191",
-      "username": "Krew"
-    },
-    {
-      "uid": "101228",
-      "username": "Tate"
-    },
-    {
-      "uid": "175033",
-      "username": "xerotic"
-    },
-    {
-      "uid": "234024",
-      "username": "Deities"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "333869",
-      "username": "Fanatic"
-    },
-    {
-      "uid": "416897",
-      "username": "Ron Paul 2012"
-    },
-    {
-      "uid": "450827",
-      "username": "The Holy"
-    },
-    {
-      "uid": "565350",
-      "username": "Reported"
-    },
-    {
-      "uid": "604554",
-      "username": "Sync™"
-    },
-    {
-      "uid": "678298",
-      "username": "Kamz89"
-    },
-    {
-      "uid": "725526",
-      "username": "One-Armed-Pirate"
-    },
-    {
-      "uid": "726582",
-      "username": "Captain Hood"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "847499",
-      "username": "Brandenx781"
     }
   ]
 }

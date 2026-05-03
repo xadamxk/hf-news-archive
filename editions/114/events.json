@@ -25,8 +25,7 @@
     {
       "category": "site",
       "description": "A new 'Premium Hacking Tutorials' section was created under the Hacking tab; only Staff can move threads into it to highlight quality tutorials.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
@@ -224,100 +223,6 @@
           "role": "Graphical Editor"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "83317",
-      "username": "Automatic Coding"
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "316828",
-      "username": "BlackCap"
-    },
-    {
-      "uid": "329361",
-      "username": "Valik ϟ"
-    },
-    {
-      "uid": "398007",
-      "username": "Apathy"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "524451",
-      "username": "Yellows"
-    },
-    {
-      "uid": "660659",
-      "username": "-Analog-"
-    },
-    {
-      "uid": "661940",
-      "username": "bugga"
-    },
-    {
-      "uid": "675453",
-      "username": "Cyber-Security"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "817663",
-      "username": "νιятυαℓнα¢кєя"
-    },
-    {
-      "uid": "827711",
-      "username": "+Entity"
-    },
-    {
-      "uid": "847197",
-      "username": "Control Panel"
-    },
-    {
-      "uid": "903914",
-      "username": "Prince™"
-    },
-    {
-      "uid": "1011113",
-      "username": "Dan."
-    },
-    {
-      "uid": "1018876",
-      "username": "Phytrix"
-    },
-    {
-      "uid": "1044864",
-      "username": "malichi"
-    },
-    {
-      "uid": "1137768",
-      "username": "Kohsti"
-    },
-    {
-      "uid": "1323486",
-      "username": "AvidWB"
-    },
-    {
-      "uid": "1326923",
-      "username": "Strokes"
     }
   ]
 }

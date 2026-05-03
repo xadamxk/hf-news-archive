@@ -36,8 +36,7 @@
     {
       "category": "groups",
       "description": "iNviZ and TheHackersLove ran an Infamous Coats-For-Kids charity selling group spots and raised over $4,000 for children's winter clothing.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -233,136 +232,6 @@
           "role": "Proofreader"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "44755",
-      "username": "'Snorlax"
-    },
-    {
-      "uid": "44921",
-      "username": "Tommy"
-    },
-    {
-      "uid": "56088",
-      "username": "tux1"
-    },
-    {
-      "uid": "139340",
-      "username": "Poseidon"
-    },
-    {
-      "uid": "207739",
-      "username": "Jire"
-    },
-    {
-      "uid": "434812",
-      "username": "Bay"
-    },
-    {
-      "uid": "491392",
-      "username": "Avaswift"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "524451",
-      "username": "Yellows"
-    },
-    {
-      "uid": "585389",
-      "username": "+mK"
-    },
-    {
-      "uid": "692131",
-      "username": "Yuzuha"
-    },
-    {
-      "uid": "752389",
-      "username": "eiqhtworks"
-    },
-    {
-      "uid": "766855",
-      "username": "Baghead"
-    },
-    {
-      "uid": "770060",
-      "username": "Invisus"
-    },
-    {
-      "uid": "787112",
-      "username": "Saturday"
-    },
-    {
-      "uid": "827711",
-      "username": "D3xus"
-    },
-    {
-      "uid": "879431",
-      "username": "Pali"
-    },
-    {
-      "uid": "884903",
-      "username": "Unreputed"
-    },
-    {
-      "uid": "1021070",
-      "username": "#Thunder"
-    },
-    {
-      "uid": "1028345",
-      "username": "Ass Man"
-    },
-    {
-      "uid": "1082656",
-      "username": "Mohatu"
-    },
-    {
-      "uid": "1134079",
-      "username": "Kangaroo"
-    },
-    {
-      "uid": "1148878",
-      "username": "Clique"
-    },
-    {
-      "uid": "1172544",
-      "username": "awhty"
-    },
-    {
-      "uid": "1402183",
-      "username": "Claptrap™"
-    },
-    {
-      "uid": "1645227",
-      "username": "Lovol"
-    },
-    {
-      "uid": "1653635",
-      "username": "Clark"
-    },
-    {
-      "uid": "1659032",
-      "username": "Cyph Jr"
-    },
-    {
-      "uid": "1693297",
-      "username": ".Alerion"
-    },
-    {
-      "uid": "1837949",
-      "username": "Angry Grаndpa"
-    },
-    {
-      "uid": "1844212",
-      "username": "Bull™"
     }
   ]
 }

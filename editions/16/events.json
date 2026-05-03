@@ -3,172 +3,160 @@
         {
             "topic": "users",
             "title": "Kutmuskaturt was demoted from staff (reason speculated as inactivity).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Kutmuskaturt"
+            "users": [
+                {
+                    "username": "Kutmuskaturt",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "VipVince was demoted from staff (reason speculated as inactivity).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "VipVince"
+            "users": [
+                {
+                    "username": "VipVince",
+                    "uid": "7807"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Kewlhotrod was demoted from staff (reason speculated as inactivity).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Kewlhotrod"
+            "users": [
+                {
+                    "username": "Kewlhotrod",
+                    "uid": "82773"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Yin was demoted from Moderator.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Hanzo was demoted from administrator (reason speculated as inactivity).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Hanzo"
+            "users": [
+                {
+                    "username": "Hanzo",
+                    "uid": "4066"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Kr4z1 promoted to Super Moderator.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Kr4z1"
+            "users": [
+                {
+                    "username": "Kr4z1",
+                    "uid": "143654"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Reviewers: Taserz and The Elite appointed as leaders.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Taserz",
-                "The Elite"
+            "users": [
+                {
+                    "username": "Taserz",
+                    "uid": "30413"
+                },
+                {
+                    "username": "The Elite",
+                    "uid": "136025"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Amnesty granted to many banned members.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=685697",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Cobija celebrates one-year anniversary on HF.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=682872",
-            "related_users": [
-                "Cobija"
+            "users": [
+                {
+                    "username": "Cobija",
+                    "uid": "100071"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Interview with iBruteforce.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=692675",
-            "related_users": [
-                "iBruteforce"
+            "users": [
+                {
+                    "username": "iBruteforce",
+                    "uid": "33279"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
-            "url": "http://hackforums.net/showthread.php?tid=653939",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=653939"
         },
         {
             "topic": "news",
             "title": "Yin steps away from Hack Forums. The Elite takes his place as head HF News writer.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "The Elite",
-                "Nicodemus-"
+            "users": [
+                {
+                    "username": "The Elite",
+                    "uid": "136025"
+                },
+                {
+                    "username": "Nicodemus-",
+                    "uid": "47360"
+                }
             ]
         },
         {
             "topic": "interviews",
             "title": "Interview with N3w_2_H@Ck1n™.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=692675",
-            "related_users": [
-                "N3w_2_H@Ck1n™"
+            "users": [
+                {
+                    "username": "N3w_2_H@Ck1n™",
+                    "uid": "49806"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Yin",
-            "uid": 74244
-        },
-        {
-            "username": "Hanzo",
-            "uid": null
-        },
-        {
-            "username": "Kr4z1",
-            "uid": 143654
-        },
-        {
-            "username": "Taserz",
-            "uid": 30413
-        },
-        {
-            "username": "The Elite",
-            "uid": 136025
-        },
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "ViRuzz™",
-            "uid": 209986
-        },
-        {
-            "username": "Cobija",
-            "uid": 100071
-        },
-        {
-            "username": "Kn1ght",
-            "uid": 11960
-        },
-        {
-            "username": "iBruteforce",
-            "uid": 33279
-        },
-        {
-            "username": "Nicodemus-",
-            "uid": 47360
-        },
-        {
-            "username": "Kutmuskaturt",
-            "uid": null
-        },
-        {
-            "username": "VipVince",
-            "uid": null
-        },
-        {
-            "username": "Kewlhotrod",
-            "uid": null
-        },
-        {
-            "username": "The Elite",
-            "uid": 136025
-        },
-        {
-            "username": "N3w_2_H@Ck1n™",
-            "uid": 49806
         }
     ]
 }

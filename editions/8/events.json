@@ -3,47 +3,48 @@
         {
             "topic": "users",
             "title": "AsSaSs@iN stepped down as Super Moderator; remains HJT Teacher/Analyzer.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "AsSaSs@iN"
+            "users": [
+                {
+                    "username": "AsSaSs@iN",
+                    "uid": "70909"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Signature of the Week (SoTW) in introduced in Graphics section.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=157",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=157"
         },
         {
             "topic": "site",
             "title": "Reviewers group updates in progress.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin",
-                "Skill"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                },
+                {
+                    "username": "Skill",
+                    "uid": "65581"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "AsSaSs@iN",
-            "uid": null
-        },
-        {
-            "username": "Skill",
-            "uid": null
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

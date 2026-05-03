@@ -3,41 +3,38 @@
         {
             "topic": "site",
             "title": "DB tables corrupted; multiple rollbacks to Monday 4am backup.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1109867",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Smiley set changed after recovery; users notified.",
-            "url": "http://hackforums.net/showthread.php?tid=1113469",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=1113469"
         },
         {
             "topic": "site",
             "title": "Some l33t upgrades denied due to IP/billing mismatch.",
-            "url": "http://hackforums.net/showthread.php?tid=1116625",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=1116625"
         },
         {
             "topic": "threads",
             "title": "Hanzo clarifies when to PM about reputation abuse.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1120960",
-            "related_users": [
-                "Hanzo"
+            "users": [
+                {
+                    "username": "Hanzo",
+                    "uid": "4066"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Hanzo",
-            "uid": 4066
         }
     ]
 }
-

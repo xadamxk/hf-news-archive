@@ -14,14 +14,12 @@
     {
       "category": "site",
       "description": "On December 10, Hack Forums reached its two-millionth thread.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
       "description": "The unofficial group Team Qwazz reached 1,000 posts in their recruitment thread, one of the first unofficial groups to do so.",
-      "thread": "http://hackforums.net/showthread.php?tid=1258349",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1258349"
     },
     {
       "category": "users",
@@ -285,120 +283,6 @@
           "uid": "946680"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "11953",
-      "username": "Nyx-"
-    },
-    {
-      "uid": "30595",
-      "username": "The Rated R Superstar"
-    },
-    {
-      "uid": "33279",
-      "username": "iBruteforce"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "123584",
-      "username": "C4Vendetta"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "366559",
-      "username": "Daniel Faraday"
-    },
-    {
-      "uid": "377103",
-      "username": "»Pandox"
-    },
-    {
-      "uid": "401423",
-      "username": "ComX"
-    },
-    {
-      "uid": "402384",
-      "username": "Riggs"
-    },
-    {
-      "uid": "405420",
-      "username": "Bradshly"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "529870",
-      "username": "+Pirate"
-    },
-    {
-      "uid": "570186",
-      "username": "TheHackersLove"
-    },
-    {
-      "uid": "622763",
-      "username": "alabama"
-    },
-    {
-      "uid": "651773",
-      "username": "Vitani's Mate"
-    },
-    {
-      "uid": "657392",
-      "username": "Astonish is NJ"
-    },
-    {
-      "uid": "661940",
-      "username": "bugga"
-    },
-    {
-      "uid": "673593",
-      "username": "Lucidity"
-    },
-    {
-      "uid": "678298",
-      "username": "Kamz89"
-    },
-    {
-      "uid": "680029",
-      "username": "iTzL1GhTs0uT"
-    },
-    {
-      "uid": "717382",
-      "username": "John*"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "803276",
-      "username": "_0xE2"
-    },
-    {
-      "uid": "888979",
-      "username": "Zombot"
-    },
-    {
-      "uid": "891268",
-      "username": "0OTF"
-    },
-    {
-      "uid": "946680",
-      "username": "Ignite."
     }
   ]
 }

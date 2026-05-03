@@ -3,71 +3,80 @@
         {
             "topic": "users",
             "title": "Saged reinstated to staff.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=811161",
-            "related_users": [
-                "Saged"
+            "users": [
+                {
+                    "username": "Saged",
+                    "uid": "47360"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Soldier of Fortune demoted from Forum Management.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=806857",
-            "related_users": [
-                "Soldier of Fortune"
+            "users": [
+                {
+                    "username": "Soldier of Fortune",
+                    "uid": "8480"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Ongoing uptime/server issues; new $300 server discussed.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=805047&pid=7601002#pid7601002",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "HF News Crew formed (non-recruiting).",
-            "url": "http://hackforums.net/showthread.php?tid=799449",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=799449"
         },
         {
             "topic": "site",
             "title": "UB3R-only Negative Reputation Log added.",
-            "url": "http://hackforums.net/showthread.php?tid=811622",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=811622"
         },
         {
             "topic": "users",
             "title": "Solidify banned for controversial staff threads.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=804347",
-            "related_users": [
-                "Solidify"
+            "users": [
+                {
+                    "username": "Solidify",
+                    "uid": "176679"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Tinychat unbanned for HF room.",
-            "url": "http://hackforums.net/showthread.php?tid=814419",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=814419"
         },
         {
             "topic": "threads",
             "title": "Omniscient addresses staff criticism.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=817057",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Saged",
-            "uid": 47360
         }
     ]
 }
-

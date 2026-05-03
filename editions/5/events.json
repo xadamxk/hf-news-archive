@@ -3,102 +3,104 @@
         {
             "topic": "users",
             "title": "XCH4NG3 appointed to staff.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "XCH4NG3"
+            "users": [
+                {
+                    "username": "XCH4NG3",
+                    "uid": "65784"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Rusty_V appointed to staff.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Rusty_V"
+            "users": [
+                {
+                    "username": "Rusty_V",
+                    "uid": "47970"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Good Will Monday introduced (annual HF holiday for positivity).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=466320",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Marketplace Discussions section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=163",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=163"
         },
         {
             "topic": "site",
             "title": "Virtual Machines section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=165",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=165"
         },
         {
             "topic": "site",
             "title": "CyberGate section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=166",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=166"
         },
         {
             "topic": "site",
             "title": "Banned topic: Zeus (financial malware).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=474743",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Fusion banned for being disrespectful.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Fusion"
+            "users": [
+                {
+                    "username": "Fusion",
+                    "uid": "112997"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Korrupt banned for infecting members.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Korrupt"
+            "users": [
+                {
+                    "username": "Korrupt",
+                    "uid": "130373"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "XCH4NG3",
-            "uid": 65784
-        },
-        {
-            "username": "Rusty_V",
-            "uid": 47970
-        },
-        {
-            "username": "Fusion",
-            "uid": 112997
-        },
-        {
-            "username": "Korrupt",
-            "uid": 130373
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

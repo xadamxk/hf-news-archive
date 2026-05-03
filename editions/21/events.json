@@ -3,98 +3,102 @@
         {
             "topic": "site",
             "title": "3–4 hours downtime due to DDOS; Apache crashed and restored.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=779366",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Short database outage due to load; resolved.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Kewlhotrod and VipVince reinstated as staff.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Kewlhotrod",
-                "VipVince"
+            "users": [
+                {
+                    "username": "Kewlhotrod",
+                    "uid": "82773"
+                },
+                {
+                    "username": "VipVince",
+                    "uid": "7807"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Halloween banner deployed; connectivity issues reported.",
-            "url": "http://hackforums.net/showthread.php?tid=779711",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=779711"
         },
         {
             "topic": "groups",
             "title": "Mendacious removed as Gamers leader after starting off-site forum; farewell posted.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=767987",
-            "related_users": [
-                "Mendacious"
+            "users": [
+                {
+                    "username": "Mendacious",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Yin banned for scamming/infecting; report thread.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=759721",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Zach attending court after school prank.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=778111",
-            "related_users": [
-                "Zach"
+            "users": [
+                {
+                    "username": "Zach",
+                    "uid": "200751"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Omniscient on Tinychat video (drunk, vomiting into bucket).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=762765",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "YouTuber claims he’ll set himself on fire at 10k subs (Arruke thread).",
-            "url": "http://hackforums.net/showthread.php?tid=780919",
-            "related_users": []
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Kewlhotrod",
-            "uid": 82773
-        },
-        {
-            "username": "VipVince",
-            "uid": 7807
-        },
-        {
-            "username": "Mendacious",
-            "uid": null
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
-        },
-        {
-            "username": "Zach",
-            "uid": null
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=780919"
         }
     ]
 }
-

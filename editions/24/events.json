@@ -3,52 +3,78 @@
         {
             "topic": "site",
             "title": "New DB server planned; ‘strict robot staff week’ warning spike.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=824662",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Checkster permanently banned; Mia banned for evasion (caught by Saged).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Checkster",
-                "Mia",
-                "Saged"
+            "users": [
+                {
+                    "username": "Checkster",
+                    "uid": null
+                },
+                {
+                    "username": "Mia",
+                    "uid": null
+                },
+                {
+                    "username": "Saged",
+                    "uid": "47360"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Verdande unbanned after appeals; Solidify returns from 1-week ban; Nofear1999 unbanned.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Verdande",
-                "Sold",
-                "EctoPlasm",
-                "Solidify",
-                "Nofear1999"
+            "users": [
+                {
+                    "username": "Verdande",
+                    "uid": "117387"
+                },
+                {
+                    "username": "Sold",
+                    "uid": null
+                },
+                {
+                    "username": "EctoPlasm",
+                    "uid": "416897"
+                },
+                {
+                    "username": "Solidify",
+                    "uid": "176679"
+                },
+                {
+                    "username": "Nofear1999",
+                    "uid": "64677"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Tutorials: reporting posts (Deities); securing TeamViewer (Catch-22™).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=811458",
-            "related_users": [
-                "Deities",
-                "Catch-22™"
+            "users": [
+                {
+                    "username": "Deities",
+                    "uid": "234024"
+                },
+                {
+                    "username": "Catch-22™",
+                    "uid": "154374"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Saged",
-            "uid": 47360
         }
     ]
 }
-

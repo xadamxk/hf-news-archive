@@ -25,20 +25,17 @@
     {
       "category": "site",
       "description": "The postbit buttons were converted to CSS to improve thread loading times.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
       "description": "The Reverence group dropped the Coders section completely, attributed to lack of commitment from the coders.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the longest in a long time.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -246,92 +243,6 @@
           "uid": "946680"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "47962",
-      "username": "Spafic"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "101228",
-      "username": "Tate"
-    },
-    {
-      "uid": "126243",
-      "username": "Decoy"
-    },
-    {
-      "uid": "151894",
-      "username": "Vanadium"
-    },
-    {
-      "uid": "229123",
-      "username": "CM Punk"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "366559",
-      "username": "Daniel Faraday"
-    },
-    {
-      "uid": "454600",
-      "username": "VeNoMz"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "570186",
-      "username": "TheHackersLove"
-    },
-    {
-      "uid": "617612",
-      "username": "clectric"
-    },
-    {
-      "uid": "646916",
-      "username": "Genuine"
-    },
-    {
-      "uid": "651051",
-      "username": "Wolves"
-    },
-    {
-      "uid": "657392",
-      "username": "Astonish is NJ"
-    },
-    {
-      "uid": "679685",
-      "username": "Bentley"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "767002",
-      "username": "Bytes"
-    },
-    {
-      "uid": "864621",
-      "username": "treestompz"
-    },
-    {
-      "uid": "946680",
-      "username": "Ignite."
     }
   ]
 }

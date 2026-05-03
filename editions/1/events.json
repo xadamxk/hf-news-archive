@@ -3,83 +3,84 @@
         {
             "topic": "site",
             "title": "Official Wikipedia page effort stalled due to Omniscient and Ph!sh disagreement.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=423334",
-            "related_users": [
-                "Omniscient",
-                "Ph!sh"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                },
+                {
+                    "username": "Ph!sh",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Hack Forums upgraded to 4 servers.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "site",
             "title": "PHP forum added following member request.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=409832",
-            "related_users": [
-                "ROTFL2"
+            "users": [
+                {
+                    "username": "ROTFL2",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Minimum character limit for posts increased from 20 to 25 characters.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "site",
             "title": "Non-upgraded members limited to 10 posts in the Lounge per day.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "users",
             "title": "Wazakindjes was banned for trolling.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Wazakindjes"
+            "users": [
+                {
+                    "username": "Wazakindjes",
+                    "uid": "83269"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Anthony accused of scamming; post attempting to prove innocence.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=398937",
-            "related_users": [
-                "Anthony"
+            "users": [
+                {
+                    "username": "Anthony",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Ph!sh",
-            "uid": null
-        },
-        {
-            "username": "Wazakindjes",
-            "uid": "83269"
-        },
-        {
-            "username": "ROTFL2",
-            "uid": null
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

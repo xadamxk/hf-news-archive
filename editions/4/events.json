@@ -3,52 +3,50 @@
         {
             "topic": "site",
             "title": "LUA Coding section created.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=161",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=161"
         },
         {
             "topic": "site",
             "title": "Hacking Tutorials reaches 8,000 threads.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=47",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=47"
         },
         {
             "topic": "site",
             "title": "Luchien Lachance was appointed Moderator of Science, Religion, and Politics.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Luchien Lachance"
+            "users": [
+                {
+                    "username": "Luchien Lachance",
+                    "uid": "52868"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Soul Collector was banned for scamming.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Soul Collector"
+            "users": [
+                {
+                    "username": "Soul Collector",
+                    "uid": "63671"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Luchien Lachance",
-            "uid": 52868
-        },
-        {
-            "username": "Soul Collector",
-            "uid": 63671
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

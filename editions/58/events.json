@@ -14,8 +14,7 @@
     {
       "category": "site",
       "description": "An official 9/11 memorial thread was created for members to share stories or condolences.",
-      "thread": "http://hackforums.net/showthread.php?tid=1708645",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1708645"
     },
     {
       "category": "site",
@@ -35,14 +34,12 @@
     {
       "category": "site",
       "description": "Members must now have a reputation greater than 0 to post in the Marketplace (excluding Marketplace Discussions). The change is intended to reduce scammers, sales trashers, and ban evaders.",
-      "thread": "http://hackforums.net/showthread.php?tid=1691787",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1691787"
     },
     {
       "category": "site",
       "description": "Only l33ts and ub3rs may now post threads in the Gamertags section, and Gamertags may not be offered in any other section.",
-      "thread": "http://hackforums.net/showthread.php?tid=1691662",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1691662"
     },
     {
       "category": "groups",
@@ -62,20 +59,17 @@
     {
       "category": "site",
       "description": "Egypt is now country-blocked from HackForums.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "Double Posting was removed from the list of report options.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "The group named Dead has been renamed to Closed.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -146,56 +140,6 @@
           "uid": "622763"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "4066",
-      "username": "Judge Dredd"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "115612",
-      "username": "-BoodyE-"
-    },
-    {
-      "uid": "126704",
-      "username": "Rhythm"
-    },
-    {
-      "uid": "188472",
-      "username": "Cam G"
-    },
-    {
-      "uid": "215614",
-      "username": "๖ۣۜPink ๖ۣۜFloyd"
-    },
-    {
-      "uid": "277712",
-      "username": "Cobalt+"
-    },
-    {
-      "uid": "559352",
-      "username": "Dylan"
-    },
-    {
-      "uid": "622763",
-      "username": "alabama"
-    },
-    {
-      "uid": "682150",
-      "username": "Sтяιdєя"
-    },
-    {
-      "uid": "847488",
-      "username": "Deltron"
     }
   ]
 }

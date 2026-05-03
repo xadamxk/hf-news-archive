@@ -51,8 +51,7 @@
     {
       "category": "groups",
       "description": "Illuminati announced that all invites will now be sent via Twitter and that no invites will go out from August 21 to September 11.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
@@ -68,8 +67,7 @@
     {
       "category": "groups",
       "description": "The Alliance was forced to remove the animation from their userbar to meet the maximum file size requirement.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -337,156 +335,6 @@
           "role": "Proofreader"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "65784",
-      "username": "Xch4ng3"
-    },
-    {
-      "uid": "70881",
-      "username": "Paradoxum"
-    },
-    {
-      "uid": "97205",
-      "username": "ZayPoly"
-    },
-    {
-      "uid": "103669",
-      "username": "Factor8™"
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "120028",
-      "username": "JustHayden"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "384745",
-      "username": "Ui Hirasawa"
-    },
-    {
-      "uid": "434812",
-      "username": "Bay"
-    },
-    {
-      "uid": "492095",
-      "username": "Levi"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "580684",
-      "username": "RDCA"
-    },
-    {
-      "uid": "615882",
-      "username": "Kitten"
-    },
-    {
-      "uid": "619030",
-      "username": "iNviZ"
-    },
-    {
-      "uid": "627531",
-      "username": "Dеcerto"
-    },
-    {
-      "uid": "646916",
-      "username": "Genuine"
-    },
-    {
-      "uid": "651337",
-      "username": "Tibit"
-    },
-    {
-      "uid": "651773",
-      "username": "Nord"
-    },
-    {
-      "uid": "656453",
-      "username": "Chris"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "737867",
-      "username": "The Inferno"
-    },
-    {
-      "uid": "740425",
-      "username": "DeMoNi"
-    },
-    {
-      "uid": "816875",
-      "username": "Daring"
-    },
-    {
-      "uid": "852296",
-      "username": "νεпσм"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "903914",
-      "username": "ρяιη¢є"
-    },
-    {
-      "uid": "949857",
-      "username": "Thrust"
-    },
-    {
-      "uid": "969142",
-      "username": "Triple H"
-    },
-    {
-      "uid": "1028372",
-      "username": "Rowen"
-    },
-    {
-      "uid": "1077919",
-      "username": "Zuey"
-    },
-    {
-      "uid": "1114432",
-      "username": "PyroStorm"
-    },
-    {
-      "uid": "1115097",
-      "username": "TheHackersLove"
-    },
-    {
-      "uid": "1146815",
-      "username": "EKNOZ"
-    },
-    {
-      "uid": "1172544",
-      "username": "Cody"
-    },
-    {
-      "uid": "1206954",
-      "username": "Nickelodeon"
-    },
-    {
-      "uid": "1323486",
-      "username": "AvidWB"
     }
   ]
 }

@@ -3,56 +3,50 @@
         {
             "topic": "site",
             "title": "Video Editing section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=160",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=160"
         },
         {
             "topic": "users",
             "title": "Braco22 was appointed Moderator of Video Editing section.",
+            "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=160",
-            "related_users": [
-                "Braco22"
+            "users": [
+                {
+                    "username": "Braco22",
+                    "uid": "277061"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Batch coding subforum moved from Hacking to Coding.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=49",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=49"
         },
         {
             "topic": "users",
             "title": "Crust was banned for trolling.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Crust"
+            "users": [
+                {
+                    "username": "Crust",
+                    "uid": "70346"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Braco22",
-            "uid": 277061
-        },
-        {
-            "username": "Crust",
-            "uid": 70346
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

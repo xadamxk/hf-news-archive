@@ -3,62 +3,66 @@
         {
             "topic": "users",
             "title": "Solidify promoted to Lounge moderator; receives all Lounge reports.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=734566&pid=7176904#pid7176904",
-            "related_users": [
-                "Solidify",
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Solidify",
+                    "uid": "176679"
+                },
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Help docs updated: When to Contact Staff and Who is on staff.",
-            "url": "http://hackforums.net/misc.php?action=help&hid=27",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/misc.php?action=help&hid=27"
         },
         {
             "topic": "site",
             "title": "Crackdown on low quality posting in The Lounge.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "site",
             "title": "Account 'tester' added as Lounge moderator (testing).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "tester"
+            "users": [
+                {
+                    "username": "tester",
+                    "uid": "42221"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Community discussion about Solidify's moderation.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=759241",
-            "related_users": [
-                "Solidify"
+            "users": [
+                {
+                    "username": "Solidify",
+                    "uid": "176679"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Mentors confirmed to be implemented.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "threads",
             "title": "HF News invites member submissions for Misc edition.",
-            "url": "http://hackforums.net/showthread.php?tid=752356",
-            "related_users": []
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Solidify",
-            "uid": 176679
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=752356"
         }
     ]
 }
-

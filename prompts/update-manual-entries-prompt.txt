@@ -1,0 +1,7 @@
+This project contains posts.json objects for each edition of the Hack Forums news. 
+Posts correspond to the raw data while the events.json corresponds to parsed events from each edition. 
+Editions 1-50 were created manually.
+
+Issues to resolve:
+1. The related_users include a username, but not the ideal object of uid and username like later events.json use. I want to fix this - parse each posts.json for these editions to find the corresponding UID of the username, and update the related users.
+2. Add a "description" property to any event missing it, it can be empty ("") if it does not exist

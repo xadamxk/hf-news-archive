@@ -14,8 +14,7 @@
     {
       "category": "groups",
       "description": "Two new groups, Brotherhood and Propitious, are in talks; neither has been fully paid for. Propitious is planned to open recruitment on January 10.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -240,108 +239,6 @@
           "role": "Reporter"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "13351",
-      "username": "Ampix0"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "63387",
-      "username": "Black Shadow"
-    },
-    {
-      "uid": "140749",
-      "username": "Poppins"
-    },
-    {
-      "uid": "175033",
-      "username": "xerotic"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "371170",
-      "username": "OVO™"
-    },
-    {
-      "uid": "402384",
-      "username": "Riggs"
-    },
-    {
-      "uid": "447912",
-      "username": "the professional hacker"
-    },
-    {
-      "uid": "450827",
-      "username": "The Holy"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "555364",
-      "username": "EatSleepCode"
-    },
-    {
-      "uid": "570186",
-      "username": "TheHackersLove"
-    },
-    {
-      "uid": "589027",
-      "username": "Stay Plural"
-    },
-    {
-      "uid": "656453",
-      "username": "ReactioNz"
-    },
-    {
-      "uid": "661940",
-      "username": "bugga"
-    },
-    {
-      "uid": "723224",
-      "username": "h3x3n"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "762646",
-      "username": "Døn"
-    },
-    {
-      "uid": "813594",
-      "username": "Mr. Sky"
-    },
-    {
-      "uid": "891268",
-      "username": "0OTF"
-    },
-    {
-      "uid": "911957",
-      "username": "JustinH"
-    },
-    {
-      "uid": "916706",
-      "username": "Kottonmouth."
-    },
-    {
-      "uid": "946680",
-      "username": "Ignite."
     }
   ]
 }

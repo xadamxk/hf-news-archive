@@ -3,8 +3,7 @@
     {
       "category": "site",
       "description": "HF News added a new 'Gaming News' section, with a layout update planned to include a section bar.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
@@ -222,108 +221,6 @@
           "role": "Graphical Editor"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "43337",
-      "username": "iPlay"
-    },
-    {
-      "uid": "86914",
-      "username": "Vito Scaletta"
-    },
-    {
-      "uid": "89623",
-      "username": "Mark Webber"
-    },
-    {
-      "uid": "126704",
-      "username": "Rhythm"
-    },
-    {
-      "uid": "128873",
-      "username": "T3h Hack3r"
-    },
-    {
-      "uid": "203626",
-      "username": "Nubby"
-    },
-    {
-      "uid": "275104",
-      "username": "Delicious"
-    },
-    {
-      "uid": "355307",
-      "username": "Chocothunda"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "526511",
-      "username": "[M]"
-    },
-    {
-      "uid": "566671",
-      "username": "panDa."
-    },
-    {
-      "uid": "572367",
-      "username": "The MammoTh"
-    },
-    {
-      "uid": "594159",
-      "username": "Rawr!"
-    },
-    {
-      "uid": "656453",
-      "username": "ReactioNz"
-    },
-    {
-      "uid": "735315",
-      "username": "Michael Westen"
-    },
-    {
-      "uid": "738154",
-      "username": "MLD"
-    },
-    {
-      "uid": "762646",
-      "username": "Døn"
-    },
-    {
-      "uid": "829359",
-      "username": "eXawn"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "900087",
-      "username": "Starstruck"
-    },
-    {
-      "uid": "944024",
-      "username": "Neal Caffrey"
-    },
-    {
-      "uid": "964299",
-      "username": "Purple Haze."
-    },
-    {
-      "uid": "1042274",
-      "username": "-Divine-"
-    },
-    {
-      "uid": "1247066",
-      "username": "Burst"
     }
   ]
 }

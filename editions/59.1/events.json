@@ -92,8 +92,7 @@
     {
       "category": "site",
       "description": "Staff are cracking down on the new 'Non-Marketplace Post' rule with a wave of bans.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "threads",
@@ -209,8 +208,7 @@
     {
       "category": "site",
       "description": "Mentors have been promoted to Super Mods with significantly more power.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -289,96 +287,6 @@
           "username": "Fireren"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "33574",
-      "username": "Itachi Uchiha"
-    },
-    {
-      "uid": "46373",
-      "username": "phire_nuk3r"
-    },
-    {
-      "uid": "62795",
-      "username": "Tasemu"
-    },
-    {
-      "uid": "92059",
-      "username": "Taylor Gang™"
-    },
-    {
-      "uid": "132817",
-      "username": "Stoner"
-    },
-    {
-      "uid": "153686",
-      "username": "Fireren"
-    },
-    {
-      "uid": "161601",
-      "username": "The Bawss"
-    },
-    {
-      "uid": "178268",
-      "username": "Taylor Gang"
-    },
-    {
-      "uid": "246042",
-      "username": "Rockstar"
-    },
-    {
-      "uid": "275104",
-      "username": "Delicious"
-    },
-    {
-      "uid": "326128",
-      "username": "Time"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "371188",
-      "username": "ϟ!RespectIsEarned!ϟ"
-    },
-    {
-      "uid": "444249",
-      "username": "-paradox-"
-    },
-    {
-      "uid": "454600",
-      "username": "VeNoMz"
-    },
-    {
-      "uid": "565350",
-      "username": "Reported"
-    },
-    {
-      "uid": "573368",
-      "username": "bckc"
-    },
-    {
-      "uid": "646916",
-      "username": "Genuine"
-    },
-    {
-      "uid": "675453",
-      "username": "Cyber-Security"
-    },
-    {
-      "uid": "766442",
-      "username": "SeaNanners™"
-    },
-    {
-      "uid": "817858",
-      "username": "Frida"
     }
   ]
 }

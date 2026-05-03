@@ -36,14 +36,12 @@
     {
       "category": "groups",
       "description": "Techsperts has been revamped into 'Rhythm', a unique music-themed group.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "groups",
       "description": "The Coders group leaders finally paid off the remaining group payments.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -320,128 +318,6 @@
           "role": "Proofreader"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "4066",
-      "username": "Judge Dredd"
-    },
-    {
-      "uid": "65167",
-      "username": "Horkos"
-    },
-    {
-      "uid": "74244",
-      "username": "Yin"
-    },
-    {
-      "uid": "87114",
-      "username": "Reptar ツ"
-    },
-    {
-      "uid": "101228",
-      "username": "Tate Sr."
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "170785",
-      "username": "Infallible"
-    },
-    {
-      "uid": "175033",
-      "username": "xerotic"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "358978",
-      "username": "Zуνoχ™"
-    },
-    {
-      "uid": "414404",
-      "username": "Musky"
-    },
-    {
-      "uid": "434812",
-      "username": "Bay"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "516470",
-      "username": "SoulZeh"
-    },
-    {
-      "uid": "580684",
-      "username": "RDCA"
-    },
-    {
-      "uid": "651773",
-      "username": "Vitani's Mate"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "731778",
-      "username": "Lemonade"
-    },
-    {
-      "uid": "863752",
-      "username": "Hexicidal"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "903914",
-      "username": "ρяιη¢є"
-    },
-    {
-      "uid": "1018876",
-      "username": "Phytrix"
-    },
-    {
-      "uid": "1053743",
-      "username": "Protein"
-    },
-    {
-      "uid": "1087815",
-      "username": "BasedGod"
-    },
-    {
-      "uid": "1114432",
-      "username": "PyroStorm"
-    },
-    {
-      "uid": "1115097",
-      "username": "TheVortex"
-    },
-    {
-      "uid": "1323486",
-      "username": "AvidWB"
-    },
-    {
-      "uid": "1340433",
-      "username": "HC"
     }
   ]
 }

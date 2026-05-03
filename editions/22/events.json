@@ -3,80 +3,98 @@
         {
             "topic": "users",
             "title": "VipVince and KewlHotRod demoted again.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "VipVince",
-                "KewlHotRod"
+            "users": [
+                {
+                    "username": "VipVince",
+                    "uid": "7807"
+                },
+                {
+                    "username": "KewlHotRod",
+                    "uid": "82773"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "mKn1ght distributed infected OpenVPN; Paradoxum posts removal guide.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=789958",
-            "related_users": [
-                "mKn1ght",
-                "Paradoxum"
+            "users": [
+                {
+                    "username": "mKn1ght",
+                    "uid": "139769"
+                },
+                {
+                    "username": "Paradoxum",
+                    "uid": "70881"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Ongoing DB anomalies until new server acquired.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Verdande banned one month (scam); Ectoplasm rep-hit after protest thread.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=788737",
-            "related_users": [
-                "Verdande",
-                "Ectoplasm"
+            "users": [
+                {
+                    "username": "Verdande",
+                    "uid": "117387"
+                },
+                {
+                    "username": "Ectoplasm",
+                    "uid": "416897"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "OG iFuck banned for multiple scam reports.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "OG iFuck"
+            "users": [
+                {
+                    "username": "OG iFuck",
+                    "uid": "59160"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Marik™ publishes multiple HQ guides (incl. HF fully explained).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=784767",
-            "related_users": [
-                "Marik™"
+            "users": [
+                {
+                    "username": "Marik™",
+                    "uid": "496620"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Malware Boss explains HF awards; self-nomination thread referenced.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=795033",
-            "related_users": [
-                "Malware Boss"
+            "users": [
+                {
+                    "username": "Malware Boss",
+                    "uid": "141530"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "VipVince",
-            "uid": 7807
-        },
-        {
-            "username": "KewlHotRod",
-            "uid": 82773
-        },
-        {
-            "username": "Paradoxum",
-            "uid": 70881
         }
     ]
 }
-

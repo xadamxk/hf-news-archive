@@ -3,97 +3,112 @@
         {
             "topic": "site",
             "title": "Hanzo returns as Admin; handles reputation abuse.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Hanzo",
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Hanzo",
+                    "uid": "4066"
+                },
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Brief exposure of Staff/Junk/private group threads; postmortem.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=979417",
-            "related_users": [
-                "Crow"
+            "users": [
+                {
+                    "username": "Crow",
+                    "uid": "2103"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "HF surpasses 8,000,000 posts.",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "groups",
             "title": "Red Lions recruitment thread open (rotating slots).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=965097",
-            "related_users": [
-                "Tєchnology"
+            "users": [
+                {
+                    "username": "Tєchnology",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Official Facebook page and social connections help doc.",
-            "url": "http://hackforums.net/misc.php?action=help&hid=28",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/misc.php?action=help&hid=28"
         },
         {
             "topic": "groups",
             "title": "Reviewers applications re-opened (UB3R only).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=977663",
-            "related_users": [
-                "Skill"
+            "users": [
+                {
+                    "username": "Skill",
+                    "uid": "65581"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Community troll: Nowaythen fears FBI after clicking link.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=987813",
-            "related_users": [
-                "Nowaythen"
+            "users": [
+                {
+                    "username": "Nowaythen",
+                    "uid": "498453"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Scam report against WIZCRAFT (Maniac Booter).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=987477",
-            "related_users": [
-                "WIZCRAFT",
-                "Binahu"
+            "users": [
+                {
+                    "username": "WIZCRAFT",
+                    "uid": null
+                },
+                {
+                    "username": "Binahu",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Lounge rating system removed (performance).",
-            "url": "",
-            "related_users": []
+            "description": "",
+            "url": ""
         },
         {
             "topic": "site",
             "title": "Conspiracy threads temporarily banned in SRPP.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=989584",
-            "related_users": [
-                "Saged"
+            "users": [
+                {
+                    "username": "Saged",
+                    "uid": "47360"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Hanzo",
-            "uid": 4066
-        },
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Crow",
-            "uid": 2103
-        },
-        {
-            "username": "Skill",
-            "uid": 65581
         }
     ]
 }
-

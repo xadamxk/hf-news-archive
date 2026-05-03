@@ -3,105 +3,154 @@
         {
             "topic": "users",
             "title": "[MBAMFan!] - Sync™ accused of distributing backdoored OpenVPN; perm ban briefly lifted.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1177831",
-            "related_users": [
-                "[MBAMFan!] - Sync™",
-                "Zach"
+            "users": [
+                {
+                    "username": "[MBAMFan!] - Sync™",
+                    "uid": null
+                },
+                {
+                    "username": "Zach",
+                    "uid": "200751"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "нα¢кєя awarded $500 and Google Hall of Fame listing after Google deface finding.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1194628",
-            "related_users": [
-                "нα¢кєя"
+            "users": [
+                {
+                    "username": "нα¢кєя",
+                    "uid": "58642"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Master Donator awardees (>$500): Cняιs ★ Hуѕтєяια X™, Deities, iolaka.",
+            "description": "",
             "url": "http://hackforums.net/myawards.php?awid=50",
-            "related_users": [
-                "Cняιs ★ Hуѕтєяια X™",
-                "Deities",
-                "iolaka"
+            "users": [
+                {
+                    "username": "Cняιs ★ Hуѕтєяια X™",
+                    "uid": null
+                },
+                {
+                    "username": "Deities",
+                    "uid": "234024"
+                },
+                {
+                    "username": "iolaka",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Multiple 4-day bans issued for lounge flamefest (Mar 10).",
+            "description": "",
             "url": "http://hackforums.net/bans.php",
-            "related_users": [
-                "Glamour",
-                "Taiga",
-                "Time",
-                "Sin ♥"
+            "users": [
+                {
+                    "username": "Glamour",
+                    "uid": null
+                },
+                {
+                    "username": "Taiga",
+                    "uid": null
+                },
+                {
+                    "username": "Time",
+                    "uid": "326128"
+                },
+                {
+                    "username": "Sin ♥",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "mothered surpasses 20,000 posts.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "mothered"
+            "users": [
+                {
+                    "username": "mothered",
+                    "uid": "137645"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "Black Knights leaders S70N3R and Happeh removed after conflict with founder.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "S70N3R",
-                "Happeh",
-                "hackdeveto"
+            "users": [
+                {
+                    "username": "S70N3R",
+                    "uid": "132817"
+                },
+                {
+                    "username": "Happeh",
+                    "uid": "279955"
+                },
+                {
+                    "username": "hackdeveto",
+                    "uid": null
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Qwazz wins March Member of the Month.",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Qwazz"
+            "users": [
+                {
+                    "username": "Qwazz",
+                    "uid": "295848"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Compiled reputable shell booters list (Tyler777).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1119831",
-            "related_users": [
-                "Tyler777"
+            "users": [
+                {
+                    "username": "Tyler777",
+                    "uid": "168826"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "ProKill teases Justin Bieber hack; prior Selena Gomez hack referenced.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=973000",
-            "related_users": [
-                "ProKill"
+            "users": [
+                {
+                    "username": "ProKill",
+                    "uid": "629212"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Mike. banned two weeks (“Whatever fag”).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Mike."
+            "users": [
+                {
+                    "username": "Mike.",
+                    "uid": "458073"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Zach",
-            "uid": 200751
-        },
-        {
-            "username": "mothered",
-            "uid": 137645
-        },
-        {
-            "username": "Qwazz",
-            "uid": 295848
         }
     ]
 }
-

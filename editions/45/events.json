@@ -3,78 +3,90 @@
         {
             "topic": "site",
             "title": "Good Will Monday returns; members encouraged to give 5 positive reps.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1354903",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Awards Story thread launched; creative award-icon stories rewarded.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1356705",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Crackdown on 'final blaze of glory' rant threads.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1356147",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "All stickies reset; new policy: only Omni selects stickies; new Sticky Man award added.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1358781",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Server moved to improve latency.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1346927",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "New MapleStory subforum created.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=197",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=197"
         },
         {
             "topic": "users",
             "title": "Qwazz Star award introduced (exclusive by Qwazz); first recipient: xerotic.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1346143",
-            "related_users": [
-                "Qwazz",
-                "xerotic"
+            "users": [
+                {
+                    "username": "Qwazz",
+                    "uid": "295848"
+                },
+                {
+                    "username": "xerotic",
+                    "uid": "175033"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "RATs Crew launches weekly 'Tips n’ Tricks' series.",
-            "url": "http://hackforums.net/showthread.php?tid=1326112",
-            "related_users": []
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Qwazz",
-            "uid": 295848
-        },
-        {
-            "username": "xerotic",
-            "uid": 175033
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=1326112"
         }
     ]
 }
-

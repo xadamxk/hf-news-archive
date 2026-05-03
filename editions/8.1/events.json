@@ -3,48 +3,50 @@
         {
             "topic": "site",
             "title": "UB3R security word feature added to prevent account hacks.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=528977",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "VPN Hosting and Services section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=171",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=171"
         },
         {
             "topic": "site",
             "title": "Website Showcase and Reviews section added.",
-            "url": "http://hackforums.net/forumdisplay.php?fid=172",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/forumdisplay.php?fid=172"
         },
         {
             "topic": "site",
             "title": "Website Showcase and Reviews rules posted by Omniscient.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=535289",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Yin"
+            "users": [
+                {
+                    "username": "Yin",
+                    "uid": "74244"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Yin",
-            "uid": 74244
         }
     ]
 }

@@ -3,78 +3,90 @@
         {
             "topic": "site",
             "title": "New DB server specs outlined; future plans (MyBB 1.6, HTTP server).",
+            "description": "",
             "url": "",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Teen ‘Asus’ arrested over CoD booting tool; discussion thread.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=883833",
-            "related_users": [
-                "Asus"
+            "users": [
+                {
+                    "username": "Asus",
+                    "uid": "292686"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "+ad.QnA reported deceased after crash.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=897005",
-            "related_users": [
-                "+ad.QnA"
+            "users": [
+                {
+                    "username": "+ad.QnA",
+                    "uid": "152441"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Omniscient’s Wikileaks discussion thread (single thread rule).",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=883667",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "SRPP rules clarification by Saged.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=901604",
-            "related_users": [
-                "Saged"
+            "users": [
+                {
+                    "username": "Saged",
+                    "uid": "47360"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Financial hardship thread by Kewlhotrod.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=899733",
-            "related_users": [
-                "Kewlhotrod"
+            "users": [
+                {
+                    "username": "Kewlhotrod",
+                    "uid": "82773"
+                }
             ]
         },
         {
             "topic": "threads",
             "title": "Jenni* reputation issue addressed by Crow.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=891380",
-            "related_users": [
-                "Crow",
-                "Jenni*"
+            "users": [
+                {
+                    "username": "Crow",
+                    "uid": "2103"
+                },
+                {
+                    "username": "Jenni*",
+                    "uid": null
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Saged",
-            "uid": 47360
-        },
-        {
-            "username": "Kewlhotrod",
-            "uid": 82773
-        },
-        {
-            "username": "Crow",
-            "uid": 2103
         }
     ]
 }
-

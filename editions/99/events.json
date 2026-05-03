@@ -3,8 +3,7 @@
     {
       "category": "groups",
       "description": "Blackshades was renamed Valor, an official group focused on networking, marketing, and other topics.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -20,14 +19,12 @@
     {
       "category": "groups",
       "description": "Propitious leaders did a full group reformation, kicking many members; the group's userbar was changed and it was renamed 'Infamous'.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "The Hacking Tools and Programs forum reached 1,000,000 total posts.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -253,120 +250,6 @@
           "role": "Proofreader"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "295848",
-      "username": "Qwazz"
-    },
-    {
-      "uid": "309536",
-      "username": "Verilog"
-    },
-    {
-      "uid": "398007",
-      "username": "Apathy"
-    },
-    {
-      "uid": "434812",
-      "username": "Bay"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "516470",
-      "username": "SoulZeh"
-    },
-    {
-      "uid": "580684",
-      "username": "RDCA"
-    },
-    {
-      "uid": "646916",
-      "username": "Genuine"
-    },
-    {
-      "uid": "667703",
-      "username": "Asthima"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "729494",
-      "username": "Grumpy"
-    },
-    {
-      "uid": "795825",
-      "username": "Dr.Quickmodz"
-    },
-    {
-      "uid": "828184",
-      "username": "Airon"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "903914",
-      "username": "ρяιη¢є"
-    },
-    {
-      "uid": "931610",
-      "username": "Hello Friends"
-    },
-    {
-      "uid": "1018876",
-      "username": "Phytrix"
-    },
-    {
-      "uid": "1061502",
-      "username": "Mαѕтєямιη∂"
-    },
-    {
-      "uid": "1114432",
-      "username": "PyroStorm"
-    },
-    {
-      "uid": "1115097",
-      "username": "TheVortex"
-    },
-    {
-      "uid": "1125749",
-      "username": "Kray"
-    },
-    {
-      "uid": "1172544",
-      "username": "Cоdy"
-    },
-    {
-      "uid": "1316890",
-      "username": "Oats"
-    },
-    {
-      "uid": "1323486",
-      "username": "AvidWB"
-    },
-    {
-      "uid": "1326923",
-      "username": "Mᴏzzie"
     }
   ]
 }

@@ -25,8 +25,7 @@
     {
       "category": "site",
       "description": "The 'Tinychat and other chat invites' section was renamed to 'Tinychat, Join.me, Skype and Other Chat Invites'.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -253,124 +252,6 @@
           "role": "Graphical Editor"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "33279",
-      "username": "iBruteforce"
-    },
-    {
-      "uid": "111287",
-      "username": "xvisceral"
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "183072",
-      "username": "Mr Kewl"
-    },
-    {
-      "uid": "246178",
-      "username": "67-bit"
-    },
-    {
-      "uid": "260570",
-      "username": "Fetus Flipper"
-    },
-    {
-      "uid": "298746",
-      "username": "Grammar Rays"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "355307",
-      "username": "Chocothunda"
-    },
-    {
-      "uid": "434812",
-      "username": "Bay"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "516470",
-      "username": "SoulZeh"
-    },
-    {
-      "uid": "600771",
-      "username": "Αnonymous"
-    },
-    {
-      "uid": "646916",
-      "username": "Genuine"
-    },
-    {
-      "uid": "651051",
-      "username": "Wolves"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "725160",
-      "username": "McFlurry"
-    },
-    {
-      "uid": "731778",
-      "username": "Lemonade"
-    },
-    {
-      "uid": "797403",
-      "username": "630"
-    },
-    {
-      "uid": "805825",
-      "username": "- Sam -"
-    },
-    {
-      "uid": "817877",
-      "username": "Guess Who Is Back"
-    },
-    {
-      "uid": "891268",
-      "username": "OnTheFly"
-    },
-    {
-      "uid": "989666",
-      "username": "Gpizzle"
-    },
-    {
-      "uid": "1044864",
-      "username": "malichi"
-    },
-    {
-      "uid": "1059931",
-      "username": "Pepsi"
-    },
-    {
-      "uid": "1115097",
-      "username": "TheVortex"
-    },
-    {
-      "uid": "1125749",
-      "username": "Walking Paradox"
-    },
-    {
-      "uid": "1236861",
-      "username": "Askaa"
     }
   ]
 }

@@ -3,57 +3,62 @@
         {
             "topic": "site",
             "title": "Thanksgiving banner deployed.",
-            "url": "http://hackforums.net/showthread.php?tid=845534",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=845534"
         },
         {
             "topic": "site",
             "title": "Lengthy downtime; funding and plan for DB slave server explained.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=852122",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "DNS issues cause access problems; guidance threads posted.",
-            "url": "http://hackforums.net/showthread.php?tid=854831",
-            "related_users": []
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=854831"
         },
         {
             "topic": "site",
             "title": "Staff profiles: reputation quick link hidden when Staff bar present.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=844472&pid=7897763#pid7897763",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Solidify set to be permanently banned after sticky expiry.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=852739&pid=7960472#pid7960472",
-            "related_users": [
-                "Solidify"
+            "users": [
+                {
+                    "username": "Solidify",
+                    "uid": "176679"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "N3w_2_H@Ck1n™ resigns from staff.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=846935",
-            "related_users": [
-                "N3w_2_H@Ck1n™"
+            "users": [
+                {
+                    "username": "N3w_2_H@Ck1n™",
+                    "uid": "49806"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "N3w_2_H@Ck1n™",
-            "uid": 49806
         }
     ]
 }
-

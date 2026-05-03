@@ -29,8 +29,7 @@
     {
       "category": "groups",
       "description": "Multiple groups opened recruitment, including Graphic Masters, Respawn, HF Wiki team, HF News, The Alliance, and InFaMoUs.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -254,112 +253,6 @@
           "role": "Graphical Editor"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "4066",
-      "username": "Judge Dredd"
-    },
-    {
-      "uid": "89623",
-      "username": "Mark Webber"
-    },
-    {
-      "uid": "114319",
-      "username": "Mr. Anderson"
-    },
-    {
-      "uid": "138559",
-      "username": "MarkMare"
-    },
-    {
-      "uid": "143654",
-      "username": "Kr4z1"
-    },
-    {
-      "uid": "180711",
-      "username": "Strange Leader"
-    },
-    {
-      "uid": "183072",
-      "username": "Mr Kewl"
-    },
-    {
-      "uid": "285508",
-      "username": "Pocky"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "398007",
-      "username": "Apathy"
-    },
-    {
-      "uid": "454666",
-      "username": "adampelletgun"
-    },
-    {
-      "uid": "485087",
-      "username": "ChRoNiC™"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "687297",
-      "username": "Barneyyz™"
-    },
-    {
-      "uid": "797403",
-      "username": "630"
-    },
-    {
-      "uid": "827711",
-      "username": "+Entity"
-    },
-    {
-      "uid": "869669",
-      "username": "nickpick41"
-    },
-    {
-      "uid": "923197",
-      "username": "KyleWTF"
-    },
-    {
-      "uid": "949857",
-      "username": "Thrust"
-    },
-    {
-      "uid": "1004046",
-      "username": "Isolate"
-    },
-    {
-      "uid": "1018876",
-      "username": "Phytrix"
-    },
-    {
-      "uid": "1072161",
-      "username": "mybboss"
-    },
-    {
-      "uid": "1326923",
-      "username": "Strokes"
-    },
-    {
-      "uid": "1450962",
-      "username": "Reptar ツ"
-    },
-    {
-      "uid": "1455348",
-      "username": "d3vill0ck"
     }
   ]
 }

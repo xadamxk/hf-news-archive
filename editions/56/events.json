@@ -25,14 +25,12 @@
     {
       "category": "site",
       "description": "Dynamic images are no longer allowed in signatures or avatars.",
-      "thread": "http://hackforums.net/showthread.php?tid=1638851",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1638851"
     },
     {
       "category": "site",
       "description": "Minimum post length lowered from 40 to 35 characters; PM box capacity for regular members lowered from 100 to 50 to keep the table manageable.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
@@ -246,80 +244,6 @@
           "username": "iNviZ"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "71381",
-      "username": "Sparky"
-    },
-    {
-      "uid": "133256",
-      "username": "Oldies"
-    },
-    {
-      "uid": "178268",
-      "username": "Taylor Gang"
-    },
-    {
-      "uid": "188472",
-      "username": "Cam G"
-    },
-    {
-      "uid": "189241",
-      "username": "Not Here"
-    },
-    {
-      "uid": "215614",
-      "username": "๖ۣۜPink ๖ۣۜFloyd"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "326128",
-      "username": "Time"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "363909",
-      "username": "๖ۣۜΗ α x O r ♥"
-    },
-    {
-      "uid": "420630",
-      "username": "Cute"
-    },
-    {
-      "uid": "427899",
-      "username": "iZan"
-    },
-    {
-      "uid": "522041",
-      "username": "BaussHacker"
-    },
-    {
-      "uid": "580204",
-      "username": "n4z1"
-    },
-    {
-      "uid": "601003",
-      "username": "Ruggish"
-    },
-    {
-      "uid": "604554",
-      "username": "Sync™"
-    },
-    {
-      "uid": "619030",
-      "username": "iNviZ"
     }
   ]
 }

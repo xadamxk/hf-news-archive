@@ -25,26 +25,22 @@
     {
       "category": "site",
       "description": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups works.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "site",
       "description": "The thread rating system was disabled forum-wide as it was found not useful.",
-      "thread": "http://hackforums.net/showthread.php?tid=1616863",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1616863"
     },
     {
       "category": "site",
       "description": "CloudFlare services are now being tested on HackForums to help thwart larger DDoS attacks.",
-      "thread": "http://hackforums.net/showthread.php?tid=1602484",
-      "users": []
+      "thread": "http://hackforums.net/showthread.php?tid=1602484"
     },
     {
       "category": "site",
       "description": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50 posts; minimum post length lowered from 50 to 40 characters.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -86,8 +82,7 @@
     {
       "category": "groups",
       "description": "Three official groups are now recruiting: Red Lions, Black Knights, and Reverence.",
-      "thread": null,
-      "users": []
+      "thread": null
     },
     {
       "category": "users",
@@ -344,132 +339,6 @@
           "uid": "345697"
         }
       ]
-    }
-  ],
-  "users": [
-    {
-      "uid": "1",
-      "username": "Omniscient"
-    },
-    {
-      "uid": "58683",
-      "username": "Zeon"
-    },
-    {
-      "uid": "100071",
-      "username": "cobija"
-    },
-    {
-      "uid": "115612",
-      "username": "-BoodyE-"
-    },
-    {
-      "uid": "120522",
-      "username": "Volenar"
-    },
-    {
-      "uid": "126243",
-      "username": "Decoy"
-    },
-    {
-      "uid": "133256",
-      "username": "Oldies"
-    },
-    {
-      "uid": "175033",
-      "username": "xerotic"
-    },
-    {
-      "uid": "183072",
-      "username": "Mr.Kewl"
-    },
-    {
-      "uid": "229123",
-      "username": "CM Punk"
-    },
-    {
-      "uid": "277712",
-      "username": "Cobalt+"
-    },
-    {
-      "uid": "303649",
-      "username": "DaL33T"
-    },
-    {
-      "uid": "323740",
-      "username": "Positive"
-    },
-    {
-      "uid": "330676",
-      "username": "Diabolic"
-    },
-    {
-      "uid": "345697",
-      "username": "kyoutu"
-    },
-    {
-      "uid": "355307",
-      "username": "chocothunda"
-    },
-    {
-      "uid": "385801",
-      "username": "Indirect"
-    },
-    {
-      "uid": "465769",
-      "username": "Boots"
-    },
-    {
-      "uid": "496906",
-      "username": "Amp™"
-    },
-    {
-      "uid": "515249",
-      "username": "Sir"
-    },
-    {
-      "uid": "545127",
-      "username": "Joey Tribbiani"
-    },
-    {
-      "uid": "556984",
-      "username": "Puppy™"
-    },
-    {
-      "uid": "572367",
-      "username": "«MammoTh™"
-    },
-    {
-      "uid": "580204",
-      "username": "n4z1"
-    },
-    {
-      "uid": "648463",
-      "username": "Figaro"
-    },
-    {
-      "uid": "657392",
-      "username": "Astonish is NJ"
-    },
-    {
-      "uid": "675453",
-      "username": "Cyber-Security"
-    },
-    {
-      "uid": "729921",
-      "username": "тнє Jσкєя"
-    },
-    {
-      "uid": "766442",
-      "username": "SeaNanners™"
-    },
-    {
-      "uid": "766449",
-      "username": "BlackChaos"
-    },
-    {
-      "uid": "827711",
-      "username": "DΣxus"
     }
   ]
 }

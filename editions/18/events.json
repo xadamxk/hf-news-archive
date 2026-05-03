@@ -3,93 +3,102 @@
         {
             "topic": "users",
             "title": "Prettykitty removed from Reviews for selling for selling group slots.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=718386",
-            "related_users": [
-                "Prettykitty",
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Prettykitty",
+                    "uid": "49365"
+                },
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "groups",
             "title": "20+ Reviewers removed; Skill assures reinstatement for legitimate members.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=718386&pid=6833148#pid6833148",
-            "related_users": [
-                "Skill"
+            "users": [
+                {
+                    "username": "Skill",
+                    "uid": "65581"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "iBruteforce steps down as Administrator. Crow steps up.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=713257",
-            "related_users": [
-                "iBruteforce"
+            "users": [
+                {
+                    "username": "iBruteforce",
+                    "uid": "33279"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Crow is promoted to Administrator. ",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=713257",
-            "related_users": [
-                "Crow"
+            "users": [
+                {
+                    "username": "Crow",
+                    "uid": "2103"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Added YouTube award.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=719856",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "site",
             "title": "Added Fish Err Man award.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=719856",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "users",
             "title": "Omniscient SWATted at home; asks communityfor any information.",
+            "description": "",
             "url": "http://hackforums.net/showthread.php?tid=722403",
-            "related_users": [
-                "Omniscient"
+            "users": [
+                {
+                    "username": "Omniscient",
+                    "uid": "1"
+                }
             ]
         },
         {
             "topic": "news",
             "title": "",
+            "description": "",
             "url": "",
-            "related_users": [
-                "The Elite"
+            "users": [
+                {
+                    "username": "The Elite",
+                    "uid": "136025"
+                }
             ]
-        }
-    ],
-    "users": [
-        {
-            "username": "The Elite",
-            "uid": 136025
-        },
-        {
-            "username": "Omniscient",
-            "uid": 1
-        },
-        {
-            "username": "Skill",
-            "uid": null
-        },
-        {
-            "username": "iBruteforce",
-            "uid": 33279
-        },
-        {
-            "username": "Crow",
-            "uid": null
-        },
-        {
-            "username": "Prettykitty",
-            "uid": null
         }
     ]
 }
