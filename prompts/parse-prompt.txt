@@ -17,8 +17,8 @@ Events should have the following properties:
 
 Individual events need to be labeled by category: 
 - site: Headlines/Site News - events related to the site (which is HackForums) or the owner (Omniscient)
-- users: User News / Bans / vacation bans / closures/ receiving Awards/ RepFucks (RKOs) - should always be associated to a user
+- users: User News / Bans / vacation bans / closures/ receiving Awards/ RepFucks (RKOs) - should always be associated to a user. Each user event, even if multiple users had the same type of event, should have their own event entry.
 - groups: Group News - anything relating to groups, like being sold, created, or recruitment related threads
 - threads: Notable Threads - must be under a notable threads section, otherwise dont include them
 - news: The list of users that contributed to that edition (each edition should have 1 event for this category)
-- interviews: an interview entry for each member interviewed in an HF News edition
+- interviews: an interview entry for each member interviewed in an HF News edition - only the user BEING interviewed should be included in users. The interviewer should not be included as long as they are referenced in the news category of that edition.
