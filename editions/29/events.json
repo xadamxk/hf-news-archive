@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1293258070
+      "date": 1293258070,
+      "edition": 29
     },
     {
       "category": "site",
@@ -24,14 +25,16 @@
           "uid": "1"
         }
       ],
-      "date": 1293258070
+      "date": 1293258070,
+      "edition": 29
     },
     {
       "category": "site",
       "title": "Member of the Month award reinstated.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=920442",
-      "date": 1293258070
+      "date": 1293258070,
+      "edition": 29
     },
     {
       "category": "threads",
@@ -44,7 +47,8 @@
           "uid": "245853"
         }
       ],
-      "date": 1293258070
+      "date": 1293258070,
+      "edition": 29
     }
   ]
 }

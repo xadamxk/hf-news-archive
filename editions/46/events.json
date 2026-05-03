@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1308329637
+      "date": 1308329637,
+      "edition": 46
     },
     {
       "category": "site",
@@ -24,14 +25,16 @@
           "uid": "1"
         }
       ],
-      "date": 1308329637
+      "date": 1308329637,
+      "edition": 46
     },
     {
       "category": "site",
       "title": "Welcome-back username now links to profile; portal.php removed.",
       "description": "",
       "url": "",
-      "date": 1308329637
+      "date": 1308329637,
+      "edition": 46
     },
     {
       "category": "users",
@@ -52,7 +55,8 @@
           "uid": null
         }
       ],
-      "date": 1308329637
+      "date": 1308329637,
+      "edition": 46
     }
   ]
 }

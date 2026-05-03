@@ -11,7 +11,8 @@
           "uid": "65784"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "users",
@@ -24,7 +25,8 @@
           "uid": "47970"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "site",
@@ -37,28 +39,32 @@
           "uid": "1"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "site",
       "title": "Marketplace Discussions section added.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=163",
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "site",
       "title": "Virtual Machines section added.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=165",
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "site",
       "title": "CyberGate section added.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=166",
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "site",
@@ -71,7 +77,8 @@
           "uid": "1"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "users",
@@ -84,7 +91,8 @@
           "uid": "112997"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "users",
@@ -97,7 +105,8 @@
           "uid": "130373"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     },
     {
       "category": "news",
@@ -110,7 +119,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1276377365
+      "date": 1276377365,
+      "edition": 5
     }
   ]
 }

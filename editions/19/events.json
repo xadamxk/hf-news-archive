@@ -11,7 +11,8 @@
           "uid": null
         }
       ],
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     },
     {
       "category": "site",
@@ -24,7 +25,8 @@
           "uid": "1"
         }
       ],
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     },
     {
       "category": "site",
@@ -37,7 +39,8 @@
           "uid": "1"
         }
       ],
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     },
     {
       "category": "users",
@@ -50,7 +53,8 @@
           "uid": "43626"
         }
       ],
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     },
     {
       "category": "threads",
@@ -63,7 +67,8 @@
           "uid": "70346"
         }
       ],
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     },
     {
       "category": "site",
@@ -76,14 +81,16 @@
           "uid": "1"
         }
       ],
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     },
     {
       "category": "threads",
       "title": "Eurospeak recruiting for ethical hacking courses.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=738810",
-      "date": 1287134029
+      "date": 1287134029,
+      "edition": 19
     }
   ]
 }

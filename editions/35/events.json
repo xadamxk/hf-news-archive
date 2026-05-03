@@ -11,21 +11,24 @@
           "uid": "1"
         }
       ],
-      "date": 1298235722
+      "date": 1298235722,
+      "edition": 35
     },
     {
       "category": "site",
       "title": "Smiley set changed after recovery; users notified.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1113469",
-      "date": 1298235722
+      "date": 1298235722,
+      "edition": 35
     },
     {
       "category": "site",
       "title": "Some l33t upgrades denied due to IP/billing mismatch.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1116625",
-      "date": 1298235722
+      "date": 1298235722,
+      "edition": 35
     },
     {
       "category": "threads",
@@ -38,7 +41,8 @@
           "uid": "4066"
         }
       ],
-      "date": 1298235722
+      "date": 1298235722,
+      "edition": 35
     }
   ]
 }

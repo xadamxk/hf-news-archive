@@ -15,14 +15,16 @@
           "uid": null
         }
       ],
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "site",
       "title": "Hack Forums upgraded to 4 servers.",
       "description": "",
       "url": "",
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "site",
@@ -35,21 +37,24 @@
           "uid": null
         }
       ],
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "site",
       "title": "Minimum character limit for posts increased from 20 to 25 characters.",
       "description": "",
       "url": "",
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "site",
       "title": "Non-upgraded members limited to 10 posts in the Lounge per day.",
       "description": "",
       "url": "",
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "users",
@@ -62,7 +67,8 @@
           "uid": "83269"
         }
       ],
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "users",
@@ -75,7 +81,8 @@
           "uid": null
         }
       ],
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     },
     {
       "category": "news",
@@ -88,7 +95,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1273993936
+      "date": 1273993936,
+      "edition": 1
     }
   ]
 }

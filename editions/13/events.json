@@ -11,14 +11,16 @@
           "uid": "1"
         }
       ],
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     },
     {
       "category": "site",
       "title": "HF officially #1 MyBB forum by activity.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=653939",
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     },
     {
       "category": "threads",
@@ -31,7 +33,8 @@
           "uid": "1"
         }
       ],
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     },
     {
       "category": "users",
@@ -48,7 +51,8 @@
           "uid": "295518"
         }
       ],
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     },
     {
       "category": "users",
@@ -61,7 +65,8 @@
           "uid": "63387"
         }
       ],
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     },
     {
       "category": "users",
@@ -74,7 +79,8 @@
           "uid": "110746"
         }
       ],
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     },
     {
       "category": "news",
@@ -87,7 +93,8 @@
           "uid": "311070"
         }
       ],
-      "date": 1284375010
+      "date": 1284375010,
+      "edition": 13
     }
   ]
 }

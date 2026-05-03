@@ -11,7 +11,8 @@
           "uid": "47360"
         }
       ],
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "users",
@@ -24,7 +25,8 @@
           "uid": "8480"
         }
       ],
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "site",
@@ -37,21 +39,24 @@
           "uid": "1"
         }
       ],
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "news",
       "title": "HF News Crew formed (non-recruiting).",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=799449",
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "site",
       "title": "UB3R-only Negative Reputation Log added.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=811622",
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "users",
@@ -64,14 +69,16 @@
           "uid": "176679"
         }
       ],
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "threads",
       "title": "Tinychat unbanned for HF room.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=814419",
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     },
     {
       "category": "threads",
@@ -84,7 +91,8 @@
           "uid": "1"
         }
       ],
-      "date": 1289730709
+      "date": 1289730709,
+      "edition": 23
     }
   ]
 }

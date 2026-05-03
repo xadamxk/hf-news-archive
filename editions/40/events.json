@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1304562780
+      "date": 1304562780,
+      "edition": 40
     },
     {
       "category": "users",
@@ -24,14 +25,16 @@
           "uid": "175033"
         }
       ],
-      "date": 1304562780
+      "date": 1304562780,
+      "edition": 40
     },
     {
       "category": "groups",
       "title": "D.S. Inc recruiting; Reviewers recruiting (UB3R only).",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1073637",
-      "date": 1304562780
+      "date": 1304562780,
+      "edition": 40
     },
     {
       "category": "site",
@@ -44,7 +47,8 @@
           "uid": "1"
         }
       ],
-      "date": 1304562780
+      "date": 1304562780,
+      "edition": 40
     }
   ]
 }

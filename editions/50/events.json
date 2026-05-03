@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     },
     {
       "category": "threads",
@@ -24,7 +25,8 @@
           "uid": "1"
         }
       ],
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     },
     {
       "category": "threads",
@@ -37,7 +39,8 @@
           "uid": "4066"
         }
       ],
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     },
     {
       "category": "threads",
@@ -50,7 +53,8 @@
           "uid": "175033"
         }
       ],
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     },
     {
       "category": "groups",
@@ -63,7 +67,8 @@
           "uid": "115612"
         }
       ],
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     },
     {
       "category": "users",
@@ -76,14 +81,16 @@
           "uid": "616850"
         }
       ],
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     },
     {
       "category": "groups",
       "title": "Groups recruiting: The Alliance, Graphic Masters, RATs Crew, Reverence, The Wraith.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=52",
-      "date": 1310663107
+      "date": 1310663107,
+      "edition": 50
     }
   ]
 }

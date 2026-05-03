@@ -5,7 +5,8 @@
       "title": "Video Editing section added.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=160",
-      "date": 1275252847
+      "date": 1275252847,
+      "edition": 3
     },
     {
       "category": "users",
@@ -18,14 +19,16 @@
           "uid": "277061"
         }
       ],
-      "date": 1275252847
+      "date": 1275252847,
+      "edition": 3
     },
     {
       "category": "site",
       "title": "Batch coding subforum moved from Hacking to Coding.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=49",
-      "date": 1275252847
+      "date": 1275252847,
+      "edition": 3
     },
     {
       "category": "users",
@@ -38,7 +41,8 @@
           "uid": "70346"
         }
       ],
-      "date": 1275252847
+      "date": 1275252847,
+      "edition": 3
     },
     {
       "category": "news",
@@ -51,7 +55,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1275252847
+      "date": 1275252847,
+      "edition": 3
     }
   ]
 }

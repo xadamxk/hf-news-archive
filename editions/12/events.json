@@ -5,7 +5,8 @@
       "title": "No news events this week.",
       "description": "",
       "url": "",
-      "date": 1281937142
+      "date": 1281937142,
+      "edition": 12
     },
     {
       "category": "news",
@@ -18,7 +19,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1281937142
+      "date": 1281937142,
+      "edition": 12
     }
   ]
 }

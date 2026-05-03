@@ -15,28 +15,32 @@
           "username": "Omniscient"
         }
       ],
-      "date": 1318822932
+      "date": 1318822932,
+      "edition": 63
     },
     {
       "category": "site",
       "title": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a...",
       "description": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a staff userbar can have their profile activity viewed.",
       "url": "",
-      "date": 1318822932
+      "date": 1318822932,
+      "edition": 63
     },
     {
       "category": "site",
       "title": "Min.us image host has been blocked from HF after Avast added the domain to its blacklist.",
       "description": "",
       "url": "",
-      "date": 1318822932
+      "date": 1318822932,
+      "edition": 63
     },
     {
       "category": "site",
       "title": "The HF News team is recruiting for the first time; only two interviewer positions are open.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1825326",
-      "date": 1318822932
+      "date": 1318822932,
+      "edition": 63
     },
     {
       "category": "interviews",
@@ -53,7 +57,8 @@
           "uid": "62795"
         }
       ],
-      "date": 1318822932
+      "date": 1318822932,
+      "edition": 63
     },
     {
       "category": "interviews",
@@ -69,7 +74,8 @@
           "username": "Quantum."
         }
       ],
-      "date": 1318822932
+      "date": 1318822932,
+      "edition": 63
     }
   ]
 }

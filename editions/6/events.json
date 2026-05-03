@@ -5,7 +5,8 @@
       "title": "HackForums reaches 4,000,000 posts.",
       "description": "",
       "url": "",
-      "date": 1276981587
+      "date": 1276981587,
+      "edition": 6
     },
     {
       "category": "site",
@@ -18,14 +19,16 @@
           "uid": "1"
         }
       ],
-      "date": 1276981587
+      "date": 1276981587,
+      "edition": 6
     },
     {
       "category": "site",
       "title": "Sports World subforum created.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=167",
-      "date": 1276981587
+      "date": 1276981587,
+      "edition": 6
     },
     {
       "category": "site",
@@ -38,7 +41,8 @@
           "uid": "1"
         }
       ],
-      "date": 1276981587
+      "date": 1276981587,
+      "edition": 6
     },
     {
       "category": "news",
@@ -51,7 +55,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1276981587
+      "date": 1276981587,
+      "edition": 6
     }
   ]
 }

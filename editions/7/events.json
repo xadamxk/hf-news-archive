@@ -5,14 +5,16 @@
       "title": "Modern Warfare section added.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=169",
-      "date": 1277591947
+      "date": 1277591947,
+      "edition": 7
     },
     {
       "category": "site",
       "title": "Halo section added.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=168",
-      "date": 1277591947
+      "date": 1277591947,
+      "edition": 7
     },
     {
       "category": "site",
@@ -25,14 +27,16 @@
           "uid": "1"
         }
       ],
-      "date": 1277591947
+      "date": 1277591947,
+      "edition": 7
     },
     {
       "category": "site",
       "title": "Pruning of private messages for regular members older than 6 months.",
       "description": "",
       "url": "",
-      "date": 1277591947
+      "date": 1277591947,
+      "edition": 7
     },
     {
       "category": "news",
@@ -45,7 +49,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1277591947
+      "date": 1277591947,
+      "edition": 7
     }
   ]
 }

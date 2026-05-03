@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "site",
@@ -24,14 +25,16 @@
           "uid": "1"
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "site",
       "title": "Official TinyChat plugin removed (impersonation, flaming).",
       "description": "",
       "url": "",
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "threads",
@@ -44,7 +47,8 @@
           "uid": "1"
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "threads",
@@ -57,7 +61,8 @@
           "uid": "2103"
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "users",
@@ -70,7 +75,8 @@
           "uid": "65784"
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "threads",
@@ -83,7 +89,8 @@
           "uid": "46373"
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     },
     {
       "category": "groups",
@@ -108,7 +115,8 @@
           "uid": null
         }
       ],
-      "date": 1302737368
+      "date": 1302737368,
+      "edition": 37
     }
   ]
 }

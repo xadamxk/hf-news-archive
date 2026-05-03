@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "site",
@@ -24,7 +25,8 @@
           "uid": "1"
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "users",
@@ -41,14 +43,16 @@
           "uid": "7807"
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "site",
       "title": "Halloween banner deployed; connectivity issues reported.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=779711",
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "groups",
@@ -61,7 +65,8 @@
           "uid": null
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "users",
@@ -74,7 +79,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "users",
@@ -87,7 +93,8 @@
           "uid": "200751"
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "threads",
@@ -100,14 +107,16 @@
           "uid": "1"
         }
       ],
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     },
     {
       "category": "threads",
       "title": "YouTuber claims he’ll set himself on fire at 10k subs (Arruke thread).",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=780919",
-      "date": 1288556020
+      "date": 1288556020,
+      "edition": 21
     }
   ]
 }

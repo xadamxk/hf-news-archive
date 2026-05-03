@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     },
     {
       "category": "news",
@@ -24,7 +25,8 @@
           "uid": "136025"
         }
       ],
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     },
     {
       "category": "users",
@@ -37,7 +39,8 @@
           "uid": "49806"
         }
       ],
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     },
     {
       "category": "users",
@@ -50,7 +53,8 @@
           "uid": "176679"
         }
       ],
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     },
     {
       "category": "users",
@@ -63,7 +67,8 @@
           "uid": null
         }
       ],
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     },
     {
       "category": "users",
@@ -76,14 +81,16 @@
           "uid": "52868"
         }
       ],
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     },
     {
       "category": "threads",
       "title": "Wikileaks US diplomatic cables spark forum discussion.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=864618",
-      "date": 1291489302
+      "date": 1291489302,
+      "edition": 26
     }
   ]
 }

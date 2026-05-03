@@ -11,7 +11,8 @@
           "uid": "1"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "site",
@@ -24,7 +25,8 @@
           "uid": "1"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "site",
@@ -37,7 +39,8 @@
           "uid": "1"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "site",
@@ -50,7 +53,8 @@
           "uid": "1"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "users",
@@ -63,7 +67,8 @@
           "uid": "4066"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "users",
@@ -76,7 +81,8 @@
           "uid": "175033"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "groups",
@@ -89,21 +95,24 @@
           "uid": "30595"
         }
       ],
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "groups",
       "title": "Red Lions re-open recruitment.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1314549",
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     },
     {
       "category": "news",
       "title": "HF News begins paid ads; proceeds donated to HF.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1313298",
-      "date": 1306376000
+      "date": 1306376000,
+      "edition": 43
     }
   ]
 }

@@ -15,21 +15,24 @@
           "uid": "1"
         }
       ],
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     },
     {
       "category": "site",
       "title": "Help docs updated: When to Contact Staff and Who is on staff.",
       "description": "",
       "url": "http://hackforums.net/misc.php?action=help&hid=27",
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     },
     {
       "category": "site",
       "title": "Crackdown on low quality posting in The Lounge.",
       "description": "",
       "url": "",
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     },
     {
       "category": "site",
@@ -42,7 +45,8 @@
           "uid": "42221"
         }
       ],
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     },
     {
       "category": "threads",
@@ -55,21 +59,24 @@
           "uid": "176679"
         }
       ],
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     },
     {
       "category": "site",
       "title": "Mentors confirmed to be implemented.",
       "description": "",
       "url": "",
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     },
     {
       "category": "threads",
       "title": "HF News invites member submissions for Misc edition.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=752356",
-      "date": 1287805036
+      "date": 1287805036,
+      "edition": 20
     }
   ]
 }

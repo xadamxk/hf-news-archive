@@ -11,7 +11,8 @@
           "uid": null
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -24,7 +25,8 @@
           "uid": "7807"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -37,7 +39,8 @@
           "uid": "82773"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -50,7 +53,8 @@
           "uid": "74244"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -63,7 +67,8 @@
           "uid": "4066"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -76,7 +81,8 @@
           "uid": "143654"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -93,7 +99,8 @@
           "uid": "136025"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "site",
@@ -106,7 +113,8 @@
           "uid": "1"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "users",
@@ -119,7 +127,8 @@
           "uid": "100071"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "threads",
@@ -132,14 +141,16 @@
           "uid": "33279"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "site",
       "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=653939",
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "news",
@@ -156,7 +167,8 @@
           "uid": "47360"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     },
     {
       "category": "interviews",
@@ -169,7 +181,8 @@
           "uid": "49806"
         }
       ],
-      "date": 1285142926
+      "date": 1285142926,
+      "edition": 16
     }
   ]
 }
