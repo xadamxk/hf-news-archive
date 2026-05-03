@@ -1,0 +1,529 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Omniscient deleted the official Malware Removal Team and its trainee group, citing failure to grow beyond 9 members and disagreement over educative vs restrictive operation; the MRT subforum was junked, and posts were merged into a renamed White Hat Malware, Virus, and Rat Removal Help forum.",
+      "thread": "http://hackforums.net/showthread.php?tid=4555769",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient extended HF IM XMPP access to L33T members (previously EP1C+UB3R only) and announced plans for further integration including profile data and statistics.",
+      "thread": "http://hackforums.net/showthread.php?tid=4556423",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "November Member of the Month voting opened, hosted by Froggy, closing on December 5th.",
+      "thread": "http://hackforums.net/showthread.php?tid=4564245",
+      "users": [
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Black Soul hit 10,000 posts; vurezo and zSerity hit 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1117229",
+          "username": "Black Soul"
+        },
+        {
+          "uid": "1918708",
+          "username": "vurezo"
+        },
+        {
+          "uid": "1327245",
+          "username": "zSerity"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ryderstorm was banned and repfucked for hosting a fake contest; ๖ۣۜStitch was banned and repfucked for severe rep abuse; Veezon was banned and repfucked for ban evasion; Wool was banned and repfucked for proxy selling; Childish Gambino™, Google Expert, and Not.Operation were repfucked; ᷾᷾Faker and Zabuza had their accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1695295",
+          "username": "ryderstorm"
+        },
+        {
+          "uid": "2067010",
+          "username": "๖ۣۜStitch"
+        },
+        {
+          "uid": "2435078",
+          "username": "Veezon"
+        },
+        {
+          "uid": "1268105",
+          "username": "Wool"
+        },
+        {
+          "uid": "2378766",
+          "username": "Childish Gambino™"
+        },
+        {
+          "uid": "1617327",
+          "username": "Google Expert"
+        },
+        {
+          "uid": "1035997",
+          "username": "Not.Operation"
+        },
+        {
+          "uid": "1914868",
+          "username": "᷾᷾Faker"
+        },
+        {
+          "uid": "1281649",
+          "username": "Zabuza"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Honey Singh donated for Bitcoinage and Master Donator and received the Cool award; Understalker received the Jokester award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4561795",
+      "users": [
+        {
+          "uid": "1443720",
+          "username": "Honey Singh"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vinnie completed the rebrand of Instinct into Nightfall, a more private gaming-focused community with two private subforums for Console and PC Gaming; Nightfall is the fifth iteration of the original Eminence group.",
+      "thread": "http://hackforums.net/showthread.php?tid=4546784",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Robust became a leader of Polymath; Tweety became a leader of Studio.",
+      "thread": "http://hackforums.net/showthread.php?tid=4533438",
+      "users": [
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        },
+        {
+          "uid": "1234585",
+          "username": "Tweety"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Reset conducted by 630; covers his role as HackerCraft Admin alongside Robust and Froggy, his furry art and comics, his planned travel to Spain, and the server's overhaul away from the HC award farming model.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "417076",
+          "username": "Reset"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with zSerity conducted by Justin Timberlake; covers his homework service business, his planned social media product, his Nightfall membership, and his Canadian shopping trips across the US border.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake"
+        },
+        {
+          "uid": "1327245",
+          "username": "zSerity"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "1st Editor / Podcast"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2181647",
+          "username": "Turtle",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "969003",
+          "username": "Troye",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News) / Overseer"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Task Manager"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "777",
+      "username": "Cooligan"
+    },
+    {
+      "uid": "44755",
+      "username": "Snorlax'"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "370475",
+      "username": "Vegas"
+    },
+    {
+      "uid": "417076",
+      "username": "Reset"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "969003",
+      "username": "Troye"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1035997",
+      "username": "Not.Operation"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1117229",
+      "username": "Black Soul"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1166170",
+      "username": "zасh"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1205532",
+      "username": "Robust"
+    },
+    {
+      "uid": "1234585",
+      "username": "Tweety"
+    },
+    {
+      "uid": "1256441",
+      "username": "Abraham Lincoln"
+    },
+    {
+      "uid": "1268105",
+      "username": "Wool"
+    },
+    {
+      "uid": "1281649",
+      "username": "Zabuza"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1327245",
+      "username": "zSerity"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1443720",
+      "username": "Honey Singh"
+    },
+    {
+      "uid": "1446355",
+      "username": "Trust"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1617327",
+      "username": "Google Expert"
+    },
+    {
+      "uid": "1695295",
+      "username": "ryderstorm"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1914868",
+      "username": "᷾᷾Faker"
+    },
+    {
+      "uid": "1918708",
+      "username": "vurezo"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "2015410",
+      "username": "ӍeshCollider"
+    },
+    {
+      "uid": "2067010",
+      "username": "๖ۣۜStitch"
+    },
+    {
+      "uid": "2181647",
+      "username": "Turtle"
+    },
+    {
+      "uid": "2378766",
+      "username": "Childish Gambino™"
+    },
+    {
+      "uid": "2435078",
+      "username": "Veezon"
+    }
+  ]
+}

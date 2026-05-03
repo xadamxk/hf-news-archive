@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient changed the minimum username length from 3 to 4 characters; existing 3-character usernames are now considered rare.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Wraith group has been retired as official after declining to pay to stay; the group is continuing on WizardForums (run by retired admin Crow).",
+      "thread": "http://hackforums.net/showthread.php?tid=2341177",
+      "users": [
+        {
+          "uid": "2103",
+          "username": "Crow"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "After the free-group payment deadline, Omniscient raised the group price to $2,500 (+$500 per new group sold) and now charges $250 for leadership changes to encourage stable leadership.",
+      "thread": "http://hackforums.net/showthread.php?tid=2347521",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Black Shadow reached 2,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=2334347",
+      "users": [
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Canon was repfucked for giving a ban evader positive reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "68378",
+          "username": "Canon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Emily was banned for low-quality posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "535046",
+          "username": "Emily"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "King Messias was banned for being annoying.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1169208",
+          "username": "King Messias"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Blunt was banned for advertising a social engineering site.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "453509",
+          "username": "Blunt"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Hacking Thread: Black Shadow's announcement of his upcoming proxy-exploit invisible server.",
+      "thread": "http://hackforums.net/showthread.php?tid=2334347",
+      "users": [
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Award Thread: Alphonse's announcement that Omniscient is no longer giving out the Support Feather award on HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=2340970",
+      "users": [
+        {
+          "uid": "1133490",
+          "username": "Alphonse"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Kewl Thread: Mr Kewl's 'Get to know Mr Kewl [Edition 1]' autobiographical series.",
+      "thread": "http://hackforums.net/showthread.php?tid=2333064",
+      "users": [
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Smoking Thread: Relapse™'s 'I'm 14 and am thinking of taking up smoking, can anyone recommend some good brands?' — used to gauge member reactions to cigarettes.",
+      "thread": "http://hackforums.net/showthread.php?tid=2341931",
+      "users": [
+        {
+          "uid": "92059",
+          "username": "Relapse™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hades received the Cat Lover award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "920387",
+          "username": "Hades"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Mark Webber and Delicious were promoted to leaders of Techsperts; Legacy. was promoted to leader of Respawn.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "89623",
+          "username": "Mark Webber"
+        },
+        {
+          "uid": "275104",
+          "username": "Delicious"
+        },
+        {
+          "uid": "942724",
+          "username": "Legacy."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Sai conducted by Rhythm; covers his takeover of Graphic Masters and plans to revive the group with tournaments and SOTW.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "126704",
+          "username": "Rhythm"
+        },
+        {
+          "username": "Sai"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Inspector Gadget conducted by Michael Westen; covers his ~$10,000 in online earnings, motorbike hobby, and friendship with bugga.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "username": "Inspector Gadget"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze.",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "126704",
+          "username": "Rhythm",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "2103",
+      "username": "Crow"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "68378",
+      "username": "Canon"
+    },
+    {
+      "uid": "89623",
+      "username": "Mark Webber"
+    },
+    {
+      "uid": "92059",
+      "username": "Relapse™"
+    },
+    {
+      "uid": "126704",
+      "username": "Rhythm"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "453509",
+      "username": "Blunt"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "535046",
+      "username": "Emily"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "920387",
+      "username": "Hades"
+    },
+    {
+      "uid": "942724",
+      "username": "Legacy."
+    },
+    {
+      "uid": "964299",
+      "username": "Purple Haze."
+    },
+    {
+      "uid": "1133490",
+      "username": "Alphonse"
+    },
+    {
+      "uid": "1169208",
+      "username": "King Messias"
+    }
+  ]
+}

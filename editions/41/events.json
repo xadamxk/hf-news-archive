@@ -1,0 +1,39 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Omniscient confirms DB failures and rollbacks; multiple disaster threads.",
+            "url": "http://hackforums.net/showthread.php?tid=1109867",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Smiley changes reported; additional glitches noted.",
+            "url": "http://hackforums.net/showthread.php?tid=1113469",
+            "related_users": []
+        },
+        {
+            "topic": "users",
+            "title": "Upgrade payments to l33t denied due to IP/billing mismatches.",
+            "url": "http://hackforums.net/showthread.php?tid=1116625",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "Reputation bypass method discussed (already known).",
+            "url": "http://hackforums.net/showthread.php?tid=1114319",
+            "related_users": [
+                "VanCliffe"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        }
+    ]
+}
+

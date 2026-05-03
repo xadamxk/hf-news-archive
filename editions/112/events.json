@@ -1,0 +1,365 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient created the new 'Rap Battles and Hip Hop' subforum after positive feedback; ran a contest for users to write the section description.",
+      "thread": "http://hackforums.net/showthread.php?tid=2909362",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient rearranged group forums to be listed by post count and popularity; Group and Crews General Discussions held the top spot, with Positive's Rhythm in close second.",
+      "thread": "http://hackforums.net/showthread.php?tid=2909362",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Multiple groups opened recruitment, including Graphic Masters, Respawn, HF Wiki team, HF News, The Alliance, and InFaMoUs.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Pocky was repfucked (largest repfuck ever per Omniscient, over 2000 rep) and banned for 3 months for Marketplace violations.",
+      "thread": "http://hackforums.net/showthread.php?tid=2909362",
+      "users": [
+        {
+          "uid": "285508",
+          "username": "Pocky"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "630 reached 1,000 reputation; Mr Kewl was promoted to Mentor; adampelletgun reached 10,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Isolate, mybboss, and Reptar ツ were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1004046",
+          "username": "Isolate"
+        },
+        {
+          "uid": "1072161",
+          "username": "mybboss"
+        },
+        {
+          "uid": "1450962",
+          "username": "Reptar ツ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "mybboss was banned for trolling; Reptar ツ was banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1072161",
+          "username": "mybboss"
+        },
+        {
+          "uid": "1450962",
+          "username": "Reptar ツ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sir and Judge Dredd received the Diamond award; Mark Webber received the Da Bomb award; Strange Leader received the Master Donator and Ass Kisser awards.",
+      "thread": "http://hackforums.net/showthread.php?tid=2916002",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "89623",
+          "username": "Mark Webber"
+        },
+        {
+          "uid": "180711",
+          "username": "Strange Leader"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "KyleWTF is now a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=2915681",
+      "users": [
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'How Romney Failed the Entire Presidential Debate'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2915681",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: d3vill0ck's 'Men or Machine to lead your country?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2919135",
+      "users": [
+        {
+          "uid": "1455348",
+          "username": "d3vill0ck"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: ChRoNiC™'s 'Can someone explain to me why America is such a good nation?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2921291",
+      "users": [
+        {
+          "uid": "485087",
+          "username": "ChRoNiC™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: nickpick41's 'My teacher mind fucked me. Is it true?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2918808",
+      "users": [
+        {
+          "uid": "869669",
+          "username": "nickpick41"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Thrust conducted by +Entity; covers his Vitality group, friendships with Glassy and Cody, time in official groups including Propitious, and his perm-decline from Ub3r.",
+      "thread": "http://hackforums.net/showthread.php?tid=2918808",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "949857",
+          "username": "Thrust"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Kr4z1 conducted by Phytrix; covers his Staff invitation by Jesse, his role exposing Yin as a scammer with F8, and reflections on old vs current HF.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "143654",
+          "username": "Kr4z1"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Tech News"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Journalist (Headlines) / Interviewer / Proofreader"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "89623",
+      "username": "Mark Webber"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "143654",
+      "username": "Kr4z1"
+    },
+    {
+      "uid": "180711",
+      "username": "Strange Leader"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "285508",
+      "username": "Pocky"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "485087",
+      "username": "ChRoNiC™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "869669",
+      "username": "nickpick41"
+    },
+    {
+      "uid": "923197",
+      "username": "KyleWTF"
+    },
+    {
+      "uid": "949857",
+      "username": "Thrust"
+    },
+    {
+      "uid": "1004046",
+      "username": "Isolate"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1072161",
+      "username": "mybboss"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1450962",
+      "username": "Reptar ツ"
+    },
+    {
+      "uid": "1455348",
+      "username": "d3vill0ck"
+    }
+  ]
+}

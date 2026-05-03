@@ -1,0 +1,447 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Hack Forums was breached via Witza (the upgrade payment processor); Omniscient's HF and Minecraft accounts were compromised through password resets and the hackers tampered with the MOTM votes giving Ninetales over 100; the breach was contained without admin or staff section access, MOTM was reset, and Omniscient retaliated against Witza.",
+      "thread": "http://hackforums.net/showthread.php?tid=3967707",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1812679",
+          "username": "Ninetales."
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new rule banning Ponzi-scheme-style ebooks (ebooks about making money by selling an ebook to make money); the policy is retroactive and offending threads will be junked.",
+      "thread": "http://hackforums.net/showthread.php?tid=3967473",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new 'Cryptography and Encryption' subforum was created in the Premium Sellers section to consolidate marketplace-style threads on the topic.",
+      "thread": "http://hackforums.net/showthread.php?tid=3967707",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tiszy hit 2,000 reputation; ℓιикℓαи¢є hit 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "931798",
+          "username": "Tiszy"
+        },
+        {
+          "uid": "1347815",
+          "username": "ℓιикℓαи¢є"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Orgy and Diabolic were repfucked when Omniscient's account was compromised during the breach.",
+      "thread": "http://hackforums.net/showthread.php?tid=3960467",
+      "users": [
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Stamp was repfucked and banned ('End of the line for you. Bye.'); Zanelot was repfucked and banned for harassing members; ᴀpex was banned for scamming; Fictional was banned for being under 13; Bull™ was banned for account sharing; Baghead was banned for impersonating members; Aѕtro was banned for not fulfilling their contest; .Pastebin was banned for multiple accounts; Panik was banned for posting members' personal information.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1425566",
+          "username": "Stamp"
+        },
+        {
+          "uid": "1028401",
+          "username": "Zanelot"
+        },
+        {
+          "uid": "829359",
+          "username": "ᴀpex"
+        },
+        {
+          "uid": "1039681",
+          "username": "Fictional"
+        },
+        {
+          "uid": "1844212",
+          "username": "Bull™"
+        },
+        {
+          "uid": "766855",
+          "username": "Baghead"
+        },
+        {
+          "uid": "1660802",
+          "username": "Aѕtro"
+        },
+        {
+          "uid": "1503439",
+          "username": ".Pastebin"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Puggelicious's account was closed; FedEx was repfucked and had their account closed.",
+      "thread": "http://hackforums.net/showthread.php?tid=3934123",
+      "users": [
+        {
+          "uid": "1352449",
+          "username": "Puggelicious"
+        },
+        {
+          "uid": "1354556",
+          "username": "FedEx"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Polymath 1.0 won MOTM December 2013; Froggy, Ninetales., and Teh Afro received Sticky Man awards; Kill Joy donated for Master Donator and received Gamer; Orgy received two Asswipe awards; Christy and Diabolic both received the Diamond award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3934123",
+      "users": [
+        {
+          "uid": "480271",
+          "username": "Polymath 1.0"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "1812679",
+          "username": "Ninetales."
+        },
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        },
+        {
+          "uid": "659087",
+          "username": "Kill Joy"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "746038",
+          "username": "Christy"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Control Panel and I Am JT became leaders of Innovation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3967707",
+      "users": [
+        {
+          "uid": "847197",
+          "username": "Control Panel"
+        },
+        {
+          "uid": "860481",
+          "username": "I Am JT"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Ink Heart conducted by Clique; covers his return from a four-week trip in the Congo jungle, his vector graphics work, his SRPP origins, and his irreverent take on HF.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1691178",
+          "username": "Ink Heart"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Basics. conducted by Clark; covers his discovery of HF via a RAT distribution site, his past memberships in Red Lions, Eminence, Writ3rs, and Techsperts, and his co-leadership of Eminence with WiFi.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "580204",
+          "username": "Basics."
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Yuzuha became Headlines / World News / Music News journalist; MarkMare returned to Gaming News; Harlem returned to Tech News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News) / Journalist (Music News) / Journalist (Headlines)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "480271",
+      "username": "Polymath 1.0"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "580204",
+      "username": "Basics."
+    },
+    {
+      "uid": "659087",
+      "username": "Kill Joy"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "746038",
+      "username": "Christy"
+    },
+    {
+      "uid": "766855",
+      "username": "Baghead"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "829359",
+      "username": "ᴀpex"
+    },
+    {
+      "uid": "847197",
+      "username": "Control Panel"
+    },
+    {
+      "uid": "860481",
+      "username": "I Am JT"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "931798",
+      "username": "Tiszy"
+    },
+    {
+      "uid": "1028401",
+      "username": "Zanelot"
+    },
+    {
+      "uid": "1039681",
+      "username": "Fictional"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1347815",
+      "username": "ℓιикℓαи¢є"
+    },
+    {
+      "uid": "1352449",
+      "username": "Puggelicious"
+    },
+    {
+      "uid": "1354556",
+      "username": "FedEx"
+    },
+    {
+      "uid": "1425566",
+      "username": "Stamp"
+    },
+    {
+      "uid": "1503439",
+      "username": ".Pastebin"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1660802",
+      "username": "Aѕtro"
+    },
+    {
+      "uid": "1691178",
+      "username": "Ink Heart"
+    },
+    {
+      "uid": "1812679",
+      "username": "Ninetales."
+    },
+    {
+      "uid": "1844212",
+      "username": "Bull™"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "A new country was added to the HF block list with no public reason given; The Holy posted a thread sharing his thoughts on the situation.",
+      "thread": "http://hackforums.net/showthread.php?tid=1860097",
+      "users": [
+        {
+          "uid": "450827",
+          "username": "The Holy"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "New Ebook Bazaar rule: members are no longer allowed to ask for vouches or review copies.",
+      "thread": "http://hackforums.net/showthread.php?tid=1838556",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Strict new rule for the Hacking Tutorials section: members can no longer ask, PM, or post about eBooks there.",
+      "thread": "http://hackforums.net/showthread.php?tid=1852486",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "A new 'Free Money Making Ebooks' section was added under Monetizing Techniques, with rules forbidding referral links, marketplace selling, asking for reps, and illegal-activity ebooks.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "HF News editions have been combined; the regular news and user news now ship together.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Brandenx781 was promoted to undergraduate status in the HJT team.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Brandenx781",
+          "uid": "847499"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sync™ regained control of his account.",
+      "thread": "http://hackforums.net/showthread.php?tid=1841608&pid=16757931#pid16757931",
+      "users": [
+        {
+          "username": "Sync™",
+          "uid": "604554"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ron Paul 2012 requested a one-year ban with no clear reason; many doubt he will return.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Ron Paul 2012",
+          "uid": "416897"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Krew hit his four-year anniversary on Hack Forums; he is one of the few remaining members with a UID in the thousands.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Krew",
+          "uid": "1191"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Helpful Thread: xerotic's HF Scripts greasemonkey plugin, expanding capabilities for HF members.",
+      "thread": "http://hackforums.net/showthread.php?tid=1854775",
+      "users": [
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "eWhoring Thread: Kamz89's tutorial on eWhoring, including blackmail with pictures.",
+      "thread": "http://hackforums.net/showthread.php?tid=1759279",
+      "users": [
+        {
+          "username": "Kamz89",
+          "uid": "678298"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: EyeOfTheTiger's tutorial on speeding up your computer by disabling Core Parking.",
+      "thread": "http://hackforums.net/showthread.php?tid=1659646",
+      "users": [
+        {
+          "username": "EyeOfTheTiger"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Interesting Debate: Tate's 'Without religion there would be no schools' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1861061",
+      "users": [
+        {
+          "uid": "101228",
+          "username": "Tate"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Discussion Topic: One-Armed-Pirate's Ron Paul discussion thread, ahead of the upcoming GOP primary.",
+      "thread": "http://hackforums.net/showthread.php?tid=1860416",
+      "users": [
+        {
+          "username": "One-Armed-Pirate",
+          "uid": "725526"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Interesting Idea: Captain Hood's 'HF Products' suggestion thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1855787",
+      "users": [
+        {
+          "username": "Captain Hood",
+          "uid": "726582"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Successful Sales Thread: Fanatic's RebelSecurity Booter, with positive feedback for stability and unlimited attacks.",
+      "thread": "http://hackforums.net/showthread.php?tid=1798581",
+      "users": [
+        {
+          "username": "Fanatic",
+          "uid": "333869"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Positive was made leader of Techsperts.",
+      "thread": "http://hackforums.net/showthread.php?tid=1812957",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "DragScope received the Businessman award.",
+      "thread": null,
+      "users": [
+        {
+          "username": "DragScope"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Deities conducted by Reported; covers his Alliance leadership, recruitment, and personal life.",
+      "thread": "http://hackforums.net/showthread.php?tid=1829232",
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "uid": "234024",
+          "username": "Deities"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Reported conducted by Michael Westen; covers his joining HF, role as Writers interview lead, and Reverence membership.",
+      "thread": "http://hackforums.net/showthread.php?tid=1829232",
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        },
+        {
+          "username": "Reported",
+          "uid": "565350"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1191",
+      "username": "Krew"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "234024",
+      "username": "Deities"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "333869",
+      "username": "Fanatic"
+    },
+    {
+      "uid": "416897",
+      "username": "Ron Paul 2012"
+    },
+    {
+      "uid": "450827",
+      "username": "The Holy"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "604554",
+      "username": "Sync™"
+    },
+    {
+      "uid": "678298",
+      "username": "Kamz89"
+    },
+    {
+      "uid": "725526",
+      "username": "One-Armed-Pirate"
+    },
+    {
+      "uid": "726582",
+      "username": "Captain Hood"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "847499",
+      "username": "Brandenx781"
+    }
+  ]
+}

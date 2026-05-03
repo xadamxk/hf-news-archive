@@ -1,0 +1,571 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient changed the main banner to 'Real Niggas Welcome' in response to WiFi.'s thread complaining HF was full of 'wannabes,' sparking a viral discussion about forum quality.",
+      "thread": "http://hackforums.net/showthread.php?tid=3792412",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient restricted thread creation in the Online Accounts and Gamertags sections to Ub3r members only, in order to cut down on scams and ban evasion.",
+      "thread": "http://hackforums.net/showthread.php?tid=3789339",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient officially opened the HackerCraft award for purchase via the in-game /buyaward command at a cost of 50,000 EM.",
+      "thread": "http://hackforums.net/showthread.php?tid=3783785",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The vouch counter under member post dates in the Marketplace was replaced with a reputation counter to make trader feedback easier to assess.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient flushed all permanent Ub3r denials, giving previously denied members another chance at the Ub3r upgrade.",
+      "thread": "http://hackforums.net/showthread.php?tid=3792412",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mohatu and Αlien hit 1,000 reputation; Saturday hit 10,000 posts; 630 hit 20,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3616471",
+      "users": [
+        {
+          "uid": "1082656",
+          "username": "Mohatu"
+        },
+        {
+          "uid": "952870",
+          "username": "Αlien"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Guide was repfucked with the reason 'Dox yourself you a-hole'; #Sultan was banned and repfucked for 'Accounts not Transferable'; Chuck Norris . was repfucked for harassing members and later had his account closed for failing to disclose information on Sh1eld's alleged ebook scam; Vinnie' was banned for being drunk; 24/7 Exchange was banned as possibly compromised.",
+      "thread": "http://hackforums.net/showthread.php?tid=3149475",
+      "users": [
+        {
+          "uid": "911880",
+          "username": "Guide"
+        },
+        {
+          "uid": "1364125",
+          "username": "#Sultan"
+        },
+        {
+          "uid": "953350",
+          "username": "Chuck Norris ."
+        },
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie'"
+        },
+        {
+          "uid": "923962",
+          "username": "24/7 Exchange"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Black Hole received the Sticky Man award for an Anime Adventures thread; WiFi. received the Jokester and Award Whore awards for his headlining thread; Mohatu received the MOTM award for September; Darkwin received the Speaker of the House award; SkullTraill received the DaBomb award; numerous members purchased the new HackerCraft award including 'Snorlax, Emylbus, Sudsy, Lovol, Doctor Blue, - Sam -, Penar, Dan., Mael, iNviZ, Conan', Peter™, I Am JT, and SoulZeh.",
+      "thread": "http://hackforums.net/showthread.php?tid=3149475",
+      "users": [
+        {
+          "uid": "822216",
+          "username": "Black Hole"
+        },
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu"
+        },
+        {
+          "uid": "181208",
+          "username": "Darkwin"
+        },
+        {
+          "uid": "33319",
+          "username": "SkullTraill"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        },
+        {
+          "uid": "1650008",
+          "username": "Sudsy"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "1118885",
+          "username": "Penar"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        },
+        {
+          "uid": "1314004",
+          "username": "Mael"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "1642011",
+          "username": "Conan'"
+        },
+        {
+          "uid": "1342759",
+          "username": "Peter™"
+        },
+        {
+          "uid": "860481",
+          "username": "I Am JT"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Хypher became a leader of the group Skill.",
+      "thread": "http://hackforums.net/showthread.php?tid=3768495",
+      "users": [
+        {
+          "uid": "133256",
+          "username": "Хypher"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Debra Morgan's 'HF Rules Quiz #2'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3768495",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Debra Morgan"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group Thread: Yellows's '143 - One Year Anniversary'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3779348",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "World of Warcraft Thread: #Nate's 'Skill Presents: Ultimate World of Warcraft Game Guide [Updated to 5.4]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3784480",
+      "users": [
+        {
+          "uid": "1087815",
+          "username": "#Nate"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "HackerCraft news: the HackerCraft website was revamped; iNviZ, Mohatu, and Morchid built a new PVP arena accessible via /arena; mobs per chunk were limited after a mob grinder AFK exploit; Kray found a /trade duplication exploit which Omniscient patched.",
+      "thread": "http://hackforums.net/showthread.php?tid=3792412",
+      "users": [
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        },
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Morchid conducted by Debra Morgan; covers his 2009 keylogger origins, his Mentor promotion linked to HackerCraft Admin work, his memberships in Dynasty, Red Lions, Infamous, Void, Writers, and MRT Trainees, and his goal of becoming Staff.",
+      "thread": "http://hackforums.net/showthread.php?tid=3779348",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Debra Morgan"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cloudy conducted by Saturday; covers his arrival from TTG, his time in Respawn/Legacy/Skill/Instinct/Void gaming groups, his 7+ years skateboarding, and the origin of his name from MLG Halo pro Cloudy cLoUd.",
+      "thread": "http://hackforums.net/showthread.php?tid=3616471",
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "734329",
+          "username": "Cloudy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Harlem conducted by Clique; covers his 2011 registration to buy/sell gamertags, his Tech News Writ3rs role, his interest in JDM cars and supercars, and his goal to become an engineer.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Mohatu joined as Headlines journalist, and Clique and Debra Morgan joined the interviewer team.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid",
+          "role": "Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Debra Morgan",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "33319",
+      "username": "SkullTraill"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "133256",
+      "username": "Хypher"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "181208",
+      "username": "Darkwin"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie'"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "734329",
+      "username": "Cloudy"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "822216",
+      "username": "Black Hole"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "860481",
+      "username": "I Am JT"
+    },
+    {
+      "uid": "911880",
+      "username": "Guide"
+    },
+    {
+      "uid": "923962",
+      "username": "24/7 Exchange"
+    },
+    {
+      "uid": "952870",
+      "username": "Αlien"
+    },
+    {
+      "uid": "953350",
+      "username": "Chuck Norris ."
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1087815",
+      "username": "#Nate"
+    },
+    {
+      "uid": "1118885",
+      "username": "Penar"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1314004",
+      "username": "Mael"
+    },
+    {
+      "uid": "1342759",
+      "username": "Peter™"
+    },
+    {
+      "uid": "1364125",
+      "username": "#Sultan"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1642011",
+      "username": "Conan'"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1650008",
+      "username": "Sudsy"
+    },
+    {
+      "uid": "1653635",
+      "username": "Debra Morgan"
+    }
+  ]
+}

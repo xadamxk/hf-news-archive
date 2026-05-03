@@ -1,0 +1,462 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient handed out the YouTube award en masse to any member who fulfilled simple requirements; the awards will no longer be given out as of today.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient changed his avatar to a thin cartoonish replica of himself to ring in the new year, replacing the previous serious-toned face.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient's HFOMNI Skype account was stolen via an exploit on Skype's end; the account was inactive but he is working with Skype to retrieve it.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The site's server was upgraded to 48 GB of memory after weeks of unusually long downtime; downtime has since become minimal.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "zombiehacker, phybeя, Яǝʌǝɹsǝ, and Chief. all reached 10,000 posts; 'Snorlax reached 1,000 reputation points; phybeя reached 2,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "442514",
+          "username": "zombiehacker"
+        },
+        {
+          "uid": "195796",
+          "username": "phybeя"
+        },
+        {
+          "uid": "274613",
+          "username": "Яǝʌǝɹsǝ"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Jare was repfucked and had his account closed; Paul Gower and Razοr were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "489017",
+          "username": "Jare"
+        },
+        {
+          "uid": "1298575",
+          "username": "Paul Gower"
+        },
+        {
+          "uid": "1243825",
+          "username": "Razοr"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Paul Gower and Control Panel were banned; Cali was banned for low quality posting; Reminiscent was banned for cross posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1298575",
+          "username": "Paul Gower"
+        },
+        {
+          "uid": "847197",
+          "username": "Control Panel"
+        },
+        {
+          "uid": "834989",
+          "username": "Cali"
+        },
+        {
+          "uid": "80754",
+          "username": "Reminiscent"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "PubMaster received the Sticky Man and YouTube awards; T3h Hack3r received the White Hat Helper award; Chief. received the Brony award; Repeat received the Master Donator and Alien awards; many other members received YouTube awards as part of the YouTube award frenzy.",
+      "thread": "http://hackforums.net/showthread.php?tid=3133537",
+      "users": [
+        {
+          "uid": "67718",
+          "username": "PubMaster"
+        },
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "82508",
+          "username": "Repeat"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "PubMaster became a leader of Respawn.",
+      "thread": "http://hackforums.net/showthread.php?tid=3133537",
+      "users": [
+        {
+          "uid": "67718",
+          "username": "PubMaster"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: -๖ۣۜDivine-'s '[TuT] Metasploit Ultimate [TuT]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3120895",
+      "users": [
+        {
+          "uid": "1539015",
+          "username": "-๖ۣۜDivine-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Teh Afro's 'Respawn Presents: The Ultimate Counter Strike Source Thread'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3128882",
+      "users": [
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: darkpool's 'Me and my bud saw omni'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3133537",
+      "users": [
+        {
+          "uid": "1296092",
+          "username": "darkpool"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with PubMaster conducted by +Entity; covers his New Year's resolutions, swimming background, joining Respawn after a HF break, and earning leadership through tutorials and giveaways.",
+      "thread": "http://hackforums.net/showthread.php?tid=3133537",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "67718",
+          "username": "PubMaster"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Multi-faction HackerCraft interview by Phytrix with Genuine, Bay (TheCompany), Le Pie, EpicXXCrushor, Rage™ (Wolves), Skeetz (Sinister), Yuno (NeonBible), Sacred™, and The Milkshake Man (Mist); covers faction strategies, Omni's HC admin work, and server economy.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay"
+        },
+        {
+          "uid": "935282",
+          "username": "Le Pie"
+        },
+        {
+          "uid": "874827",
+          "username": "EpicXXCrushor"
+        },
+        {
+          "uid": "1183390",
+          "username": "Rage™"
+        },
+        {
+          "uid": "721655",
+          "username": "Skeetz"
+        },
+        {
+          "uid": "1124239",
+          "username": "Yuno"
+        },
+        {
+          "uid": "1262623",
+          "username": "Sacred™"
+        },
+        {
+          "uid": "569625",
+          "username": "The Milkshake Man"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1326923",
+          "username": "Wishkah",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "67718",
+      "username": "PubMaster"
+    },
+    {
+      "uid": "80754",
+      "username": "Reminiscent"
+    },
+    {
+      "uid": "82508",
+      "username": "Repeat"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "195796",
+      "username": "phybeя"
+    },
+    {
+      "uid": "274613",
+      "username": "Яǝʌǝɹsǝ"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "442514",
+      "username": "zombiehacker"
+    },
+    {
+      "uid": "458073",
+      "username": "Chief."
+    },
+    {
+      "uid": "489017",
+      "username": "Jare"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "569625",
+      "username": "The Milkshake Man"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "721655",
+      "username": "Skeetz"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "834989",
+      "username": "Cali"
+    },
+    {
+      "uid": "847197",
+      "username": "Control Panel"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "874827",
+      "username": "EpicXXCrushor"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "935282",
+      "username": "Le Pie"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1124239",
+      "username": "Yuno"
+    },
+    {
+      "uid": "1183390",
+      "username": "Rage™"
+    },
+    {
+      "uid": "1243825",
+      "username": "Razοr"
+    },
+    {
+      "uid": "1262623",
+      "username": "Sacred™"
+    },
+    {
+      "uid": "1296092",
+      "username": "darkpool"
+    },
+    {
+      "uid": "1298575",
+      "username": "Paul Gower"
+    },
+    {
+      "uid": "1326923",
+      "username": "Wishkah"
+    },
+    {
+      "uid": "1539015",
+      "username": "-๖ۣۜDivine-"
+    }
+  ]
+}

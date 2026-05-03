@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Judge Dredd's account was compromised; the attacker created an account named 'Judge Dredd Hacked' and posted a thread describing what he did. Omniscient confirmed the account was secured and recovered with no damage to HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=1818530",
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a staff userbar can have their profile activity viewed.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Min.us image host has been blocked from HF after Avast added the domain to its blacklist.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "The HF News team is recruiting for the first time; only two interviewer positions are open.",
+      "thread": "http://hackforums.net/showthread.php?tid=1825326",
+      "users": []
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Tasemu conducted by Reported; covers his graphic design career, AARadio launch, and anime expertise.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "username": "Tasemu",
+          "uid": "62795"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Quantum. conducted by Reported; covers his moderator role, the Asskisser award, and signature advertising rates.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "username": "Quantum."
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    }
+  ]
+}

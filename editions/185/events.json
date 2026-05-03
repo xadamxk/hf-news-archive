@@ -1,0 +1,474 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Interview Requests went live with a new application thread for members to apply for an interview.",
+      "thread": "http://hackforums.net/showthread.php?tid=4110312",
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "The usergroup Respawn returned to the forum led by Astonish and Skitlz, with the group Innovation removed; recruitment focuses on dedicated PC, PlayStation, and Xbox gamers and League of Legends players.",
+      "thread": "http://hackforums.net/showthread.php?tid=4104863",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        },
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mentor Viral Dragon began a second Indie GoGo campaign to help diagnose a 1.3cm brain lesion causing his recurring seizures and other symptoms affecting his culinary classes.",
+      "thread": "http://hackforums.net/showthread.php?tid=4104863",
+      "users": [
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xadamxk was named February 2014's Member of the Month; Aura and Staid hit 1,000 reputation; Freddy Krueger and Greyhat.Infiltrator reached 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=4097347",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        },
+        {
+          "uid": "825700",
+          "username": "Staid"
+        },
+        {
+          "uid": "262695",
+          "username": "Freddy Kruеger"
+        },
+        {
+          "uid": "1264610",
+          "username": "Greyhat.Infiltrator"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Plaтiпuм was banned indefinitely as a precautionary measure; ZUEY and EvilMinD were repfucked.",
+      "thread": "http://hackforums.net/showthread.php?tid=4097347",
+      "users": [
+        {
+          "uid": "1341017",
+          "username": "Plaтiпuм"
+        },
+        {
+          "uid": "1077919",
+          "username": "ZUEY"
+        },
+        {
+          "uid": "711588",
+          "username": "EvilMinD"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Folds, Xylon, Fresh Prince, The Prospect, Good Mood Dude, and Automatic Coding all had their accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1660764",
+          "username": "Folds"
+        },
+        {
+          "uid": "688479",
+          "username": "Xylon"
+        },
+        {
+          "uid": "1043300",
+          "username": "Fresh Prince"
+        },
+        {
+          "uid": "2102397",
+          "username": "The Prospect"
+        },
+        {
+          "uid": "1017442",
+          "username": "Good Mood Dude"
+        },
+        {
+          "uid": "83317",
+          "username": "Automatic Coding"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BoomShot received Rat Expert and donated for Master Donator; syrah received the Qwazz Star.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1124063",
+          "username": "BoomShot"
+        },
+        {
+          "uid": "1763815",
+          "username": "syrah"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Skitlz became a leader of Respawn; bugga became a leader of Infamous; Pеter became a leader of Complexity; xflat became a leader of The Brotherhood.",
+      "thread": "http://hackforums.net/showthread.php?tid=4110312",
+      "users": [
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        },
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "1342759",
+          "username": "Pеter"
+        },
+        {
+          "uid": "797528",
+          "username": "xflat"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Astonish's 'Respawn is back', the famous group's revival announcement.",
+      "thread": "http://hackforums.net/showthread.php?tid=4094990",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Nickelodeon's 'POST A PICTURE OF YOURSELF!', now the largest thread in The Lounge.",
+      "thread": "http://hackforums.net/showthread.php?tid=2751102",
+      "users": [
+        {
+          "uid": "1206954",
+          "username": "Nickelodeon"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Reset conducted by 630; covers his furry artwork career, his original 2009 HF account, his time as HackerCraft moderator under the nickname Yoshi, and his views on group culture.",
+      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "417076",
+          "username": "Reset"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Thousands conducted by Clique; covers his PayPal holding, stresser management, transition from black hat to grey hat, and high school computer repair work.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1852076",
+          "username": "Thousands"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; the team expanded with new specialized sections including Security News, Currency News, Scientific News, and Film News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News) / Proofreader"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1685553",
+          "username": "glockbuster",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Film News)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Rinium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "83317",
+      "username": "Automatic Coding"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "262695",
+      "username": "Freddy Kruеger"
+    },
+    {
+      "uid": "417076",
+      "username": "Reset"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "688479",
+      "username": "Xylon"
+    },
+    {
+      "uid": "711588",
+      "username": "EvilMinD"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "797528",
+      "username": "xflat"
+    },
+    {
+      "uid": "825700",
+      "username": "Staid"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "1017442",
+      "username": "Good Mood Dude"
+    },
+    {
+      "uid": "1043300",
+      "username": "Fresh Prince"
+    },
+    {
+      "uid": "1077919",
+      "username": "ZUEY"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1124063",
+      "username": "BoomShot"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1206954",
+      "username": "Nickelodeon"
+    },
+    {
+      "uid": "1264610",
+      "username": "Greyhat.Infiltrator"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1341017",
+      "username": "Plaтiпuм"
+    },
+    {
+      "uid": "1342759",
+      "username": "Pеter"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1660764",
+      "username": "Folds"
+    },
+    {
+      "uid": "1685553",
+      "username": "glockbuster"
+    },
+    {
+      "uid": "1763815",
+      "username": "syrah"
+    },
+    {
+      "uid": "1775114",
+      "username": "Rinium"
+    },
+    {
+      "uid": "1839274",
+      "username": "Skitlz"
+    },
+    {
+      "uid": "1852076",
+      "username": "Thousands"
+    },
+    {
+      "uid": "2102397",
+      "username": "The Prospect"
+    }
+  ]
+}

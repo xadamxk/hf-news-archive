@@ -1,0 +1,293 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Omniscient repfucked himself and removed access to his reputation page from his profile.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "-mothered- (now posting as Premium(tm)) appeared to return but was soon banned for stolen account; skepticism remained over whether it was actually him.",
+      "thread": null,
+      "users": [
+        {
+          "username": "-mothered-",
+          "uid": "137645"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vanadium, a loyal Reviewer, has finally returned after a two-month ban that was due to a system bug.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "151894",
+          "username": "Vanadium"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Nyx-'s reputation became a battleground with over 54 negatives in the past week, making him the user with the second-highest negative reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "11953",
+          "username": "Nyx-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Heart-Warming Thread: Arruke's 'My thoughts on love, a love story, and some questions.'",
+      "thread": "http://hackforums.net/showthread.php?tid=1752976",
+      "users": [
+        {
+          "username": "Arruke",
+          "uid": "262395"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Musical Thread: alabama's 'Hackforum's Ultimate Playlist,' which received a sticky.",
+      "thread": "http://hackforums.net/showthread.php?tid=1716199",
+      "users": [
+        {
+          "username": "alabama",
+          "uid": "622763"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Funniest Troll: Frida's 'I need some adviceeee' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1758295&pid=15983857#pid15983857",
+      "users": [
+        {
+          "username": "Frida",
+          "uid": "817858"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Replied Debate: c00ldodo's 'Hey Arabs Lets Become Friends With Israel!' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1554995",
+      "users": [
+        {
+          "username": "c00ldodo",
+          "uid": "400204"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Controversial Topic: RobotzInDisguise's 'My philosophical opinion on why abortion is not wrong or murder.'",
+      "thread": "http://hackforums.net/showthread.php?tid=1763541",
+      "users": [
+        {
+          "username": "RobotzInDisguise",
+          "uid": "101651"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Generous Threads: hughappy's various giveaways and contests.",
+      "thread": null,
+      "users": [
+        {
+          "username": "hughappy",
+          "uid": "87114"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Thoughtful Suggestion: Spafic's call for moderation of the HF Gamers Zone section.",
+      "thread": "http://hackforums.net/showthread.php?tid=1647596",
+      "users": [
+        {
+          "username": "Spafic",
+          "uid": "47962"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rusty_v was demoted from Staff to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Rusty_v",
+          "uid": "47970"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Volenar was demoted from Reverence; New 2 Hackin was added to Reverence; Dεlluzion was added to Eminence.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "120522",
+          "username": "Volenar"
+        },
+        {
+          "username": "New 2 Hackin"
+        },
+        {
+          "username": "Dεlluzion"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "alabama received the Sticky Man award after a thread that 'embarrassed the fuck out of Delicious'; Delicious lost his Sticky Man award.",
+      "thread": null,
+      "users": [
+        {
+          "username": "alabama",
+          "uid": "622763"
+        },
+        {
+          "uid": "275104",
+          "username": "Delicious"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Saged received the Frog award ('You're just getting creepy.').",
+      "thread": null,
+      "users": [
+        {
+          "uid": "47360",
+          "username": "Saged"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kustom received the Businessman award ('You're an obviously savvy business man.').",
+      "thread": null,
+      "users": [
+        {
+          "username": "Kustom"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with T3h Hack3r conducted by Reported; covers his joining HF, becoming staff, and his role on the HJT team.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "username": "T3h Hack3r",
+          "uid": "128873"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "'Jokeview' with BV1 conducted by alabama, written up as a joke interview where alabama trolled BV1 with a fake Blackshades application.",
+      "thread": "http://hackforums.net/showthread.php?tid=1716199",
+      "users": [
+        {
+          "username": "alabama",
+          "uid": "622763"
+        },
+        {
+          "uid": "40895",
+          "username": "BV1"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "11953",
+      "username": "Nyx-"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1"
+    },
+    {
+      "uid": "47360",
+      "username": "Saged"
+    },
+    {
+      "uid": "47962",
+      "username": "Spafic"
+    },
+    {
+      "uid": "47970",
+      "username": "Rusty_v"
+    },
+    {
+      "uid": "87114",
+      "username": "hughappy"
+    },
+    {
+      "uid": "101651",
+      "username": "RobotzInDisguise"
+    },
+    {
+      "uid": "120522",
+      "username": "Volenar"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "137645",
+      "username": "-mothered-"
+    },
+    {
+      "uid": "151894",
+      "username": "Vanadium"
+    },
+    {
+      "uid": "262395",
+      "username": "Arruke"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "400204",
+      "username": "c00ldodo"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "622763",
+      "username": "alabama"
+    },
+    {
+      "uid": "817858",
+      "username": "Frida"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Upgraded to MyBB 1.6x; subsequent downtime addressed.",
+            "url": "http://hackforums.net/showthread.php?tid=916346",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Vacation Policy introduced for temporary account closures.",
+            "url": "http://hackforums.net/showthread.php?tid=907436",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Member of the Month award reinstated.",
+            "url": "http://hackforums.net/showthread.php?tid=920442",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "Gabber’s forum feedback thread noted.",
+            "url": "http://hackforums.net/showthread.php?tid=919706",
+            "related_users": [
+                "Gabber"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        }
+    ]
+}
+

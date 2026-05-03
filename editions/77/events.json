@@ -1,0 +1,419 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "The new official group Propitious is finally here; the final payment was made on January 25 by leaders iNviZ and TheHackersLove. Recruitment will open shortly.",
+      "thread": "http://hackforums.net/showthread.php?tid=2120149",
+      "users": [
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient censored the word 'mega-upload' (without hyphen) following the MegaUpload shutdown and the arrest of its owner.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient fixed the PM exporting bug (also affecting other MyBB forums) and asked McAfee to change HF's red rating to yellow.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient has been sick for a week, delaying member upgrades; members are advised to be patient.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new Pentesting and Forensics forum was added under the Hacking tab for server vulnerability discussions and security research; not yet open to new threads.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga reached the 1,000 reputation milestone.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Diabolic was repfucked for the third time for a reputation violation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Plutonium was banned for breaking a rule and then ban-evaded by making a new account.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "127956",
+          "username": "Plutonium"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "WARZONE was banned by Judge Dredd with reason 'Hello darkness, my old friend. I've come to talk with you again.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "707090",
+          "username": "WARZONE"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellows was banned for needlessly grave-digging.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "OVO™, the music news writer, was banned by Omniscient with reason 'Being Reviewed'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "371170",
+          "username": "OVO™"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Ub3r Thread: Verilog's Ub3r Giveaway Program.",
+      "thread": "http://hackforums.net/showthread.php?tid=2016220",
+      "users": [
+        {
+          "uid": "309536",
+          "username": "Verilog"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "YouTube Thread: Coffee's guide on YouTube gaming partnerships.",
+      "thread": "http://hackforums.net/showthread.php?tid=2102747",
+      "users": [
+        {
+          "uid": "91473",
+          "username": "Coffee"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Middleman Thread: Morchid's Red Lions Official Middle Men Team.",
+      "thread": "http://hackforums.net/showthread.php?tid=2051226",
+      "users": [
+        {
+          "uid": "613009",
+          "username": "Morchid"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "FAQ Thread: Kamz89's 'Hackforums FAQs Answered' newbie guide.",
+      "thread": "http://hackforums.net/showthread.php?tid=1978946",
+      "users": [
+        {
+          "uid": "678298",
+          "username": "Kamz89"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Cheat Thread: Wheelz's tested 'How To Cheat On Scantron' guide.",
+      "thread": "http://hackforums.net/showthread.php?tid=2144245",
+      "users": [
+        {
+          "uid": "811057",
+          "username": "Wheelz"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Zach is no longer leader of The RATs Crew or Eminence; Hуѕтєяιa X™ is no longer leader of Red Lions; Morchid and Glassy were promoted to leaders of Red Lions.",
+      "thread": "http://hackforums.net/showthread.php?tid=2051226",
+      "users": [
+        {
+          "uid": "200751",
+          "username": "Zach"
+        },
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        },
+        {
+          "uid": "613009",
+          "username": "Morchid"
+        },
+        {
+          "uid": "734805",
+          "username": "Glassy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Irise conducted by Michael Westen; covers her FuckJagex origin, opinions on government, and favorite sections.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "username": "Irise"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Legacy. conducted by Respect.; covers Reverence, his Gaming Mentor role, and SOPA/PIPA views.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Respect."
+        },
+        {
+          "username": "Legacy.",
+          "uid": "942724"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "371170",
+          "username": "OVO™",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Innocence.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "91473",
+      "username": "Coffee"
+    },
+    {
+      "uid": "127956",
+      "username": "Plutonium"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "200751",
+      "username": "Zach"
+    },
+    {
+      "uid": "309536",
+      "username": "Verilog"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "371170",
+      "username": "OVO™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "588781",
+      "username": "Hуѕтєяιa X™"
+    },
+    {
+      "uid": "613009",
+      "username": "Morchid"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "678298",
+      "username": "Kamz89"
+    },
+    {
+      "uid": "707090",
+      "username": "WARZONE"
+    },
+    {
+      "uid": "734805",
+      "username": "Glassy"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "811057",
+      "username": "Wheelz"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "916706",
+      "username": "Innocence."
+    },
+    {
+      "uid": "942724",
+      "username": "Legacy."
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    }
+  ]
+}

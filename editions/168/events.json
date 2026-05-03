@@ -1,0 +1,456 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Several members opted to have their hard-earned awards removed because they made profiles look too 'flashy'; Black Shadow had 13 awards stripped, while Sh1eld and Saturday also removed portions of their award collections.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        },
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient banned all promotion and discussion of cryptocurrency gambling sites in the Crypto Currency section, with violations punishable by warnings, repfucks, or account closure.",
+      "thread": "http://hackforums.net/showthread.php?tid=3856094",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Connected won November MOTM and received the MOTM award; Krew hit 10,000 posts; PoisonKnife hit 1,000 reputation; Abel hit 2,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3843478",
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "792136",
+          "username": "Krew"
+        },
+        {
+          "uid": "870436",
+          "username": "PoisonKnife"
+        },
+        {
+          "uid": "1043300",
+          "username": "Abel"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Continuum™ was repfucked and closed for scamming; €xploit was repfucked and banned for reputation abuse; -Correct was repfucked and banned for repfuck complaining; `P R O D I G Y™ was repfucked and closed; MHC was repfucked.",
+      "thread": "http://hackforums.net/showthread.php?tid=3851731",
+      "users": [
+        {
+          "uid": "1261919",
+          "username": "Continuum™"
+        },
+        {
+          "uid": "1368133",
+          "username": "€xploit"
+        },
+        {
+          "uid": "1913126",
+          "username": "-Correct"
+        },
+        {
+          "uid": "127732",
+          "username": "`P R O D I G Y™"
+        },
+        {
+          "uid": "1043071",
+          "username": "MHC"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "aSmoo and Swirl were repfucked; -Nas was banned for posting a marketplace-style thread outside the Marketplace; Ravager was banned for discussing PayPal fraud; Dr. Business and 404™ were banned as security precautions for possibly stolen accounts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3843478",
+      "users": [
+        {
+          "uid": "586597",
+          "username": "aSmoo"
+        },
+        {
+          "uid": "1465028",
+          "username": "Swirl"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas"
+        },
+        {
+          "uid": "1586527",
+          "username": "Ravager"
+        },
+        {
+          "uid": "1813300",
+          "username": "Dr. Business"
+        },
+        {
+          "uid": "690666",
+          "username": "404™"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Cyph Jr became a leader of *#@&%! (Instinct); Keeper became a leader of Dynasty.",
+      "thread": "http://hackforums.net/showthread.php?tid=3441765",
+      "users": [
+        {
+          "uid": "1659032",
+          "username": "Cyph Jr"
+        },
+        {
+          "uid": "1114693",
+          "username": "Keeper"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Haste.'s 'Stupidest Thing You've Heard About Computers?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3441765",
+      "users": [
+        {
+          "uid": "875895",
+          "username": "Haste."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: Kn1gh7's 'What makes CoD so attractive?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3844626",
+      "users": [
+        {
+          "uid": "382745",
+          "username": "Kn1gh7"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Hubert's 'Show off your room/setup'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3842030",
+      "users": [
+        {
+          "uid": "687175",
+          "username": "Hubert"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with VipVince conducted by Saturday; covers his 2008 origins after being ratted on a chat site, his status as the very first MOTM winner in 2009, his time as Staff and Mentor, his 8 months total online time, and his thoughts on how MOTM has degraded into a popularity contest.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "7807",
+          "username": "VipVince"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with SkullTraill conducted by Clique; covers his arrival at age 12-13 in 2007, his prolific GFX free-signature thread that propelled him to the 5th highest post count, his 2010 country-wide HF ban, and his nostalgia for the close-knit l33t community of 2008-2009.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "33319",
+          "username": "SkullTraill"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Catalyst conducted by Carson Clark; covers his arrival via RSGP search, his Python section activity and self-taught programming, his Generalized Anxiety and Clinical Depression, and his goal of pursuing a Bachelor's in Software Engineering and possibly a PhD in Computer Science.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Carson Clark"
+        },
+        {
+          "uid": "1579189",
+          "username": "Catalyst"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Carson Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "7807",
+      "username": "VipVince"
+    },
+    {
+      "uid": "33319",
+      "username": "SkullTraill"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "127732",
+      "username": "`P R O D I G Y™"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "382745",
+      "username": "Kn1gh7"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "586597",
+      "username": "aSmoo"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "687175",
+      "username": "Hubert"
+    },
+    {
+      "uid": "690666",
+      "username": "404™"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "792136",
+      "username": "Krew"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "870436",
+      "username": "PoisonKnife"
+    },
+    {
+      "uid": "875895",
+      "username": "Haste."
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1043071",
+      "username": "MHC"
+    },
+    {
+      "uid": "1043300",
+      "username": "Abel"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1114693",
+      "username": "Keeper"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1261919",
+      "username": "Continuum™"
+    },
+    {
+      "uid": "1368133",
+      "username": "€xploit"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1465028",
+      "username": "Swirl"
+    },
+    {
+      "uid": "1579189",
+      "username": "Catalyst"
+    },
+    {
+      "uid": "1586527",
+      "username": "Ravager"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Carson Clark"
+    },
+    {
+      "uid": "1659032",
+      "username": "Cyph Jr"
+    },
+    {
+      "uid": "1813300",
+      "username": "Dr. Business"
+    },
+    {
+      "uid": "1913126",
+      "username": "-Correct"
+    }
+  ]
+}

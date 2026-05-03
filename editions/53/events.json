@@ -1,0 +1,183 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient bought the domain 420forum.com (in addition to 420forum.net and 420forums.net) and is planning to move all weed discussion off Hack Forums.",
+      "thread": "http://hackforums.net/showthread.php?tid=1549577",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cobalt+ is now the leader of the HF News team, taking over as Publisher and Head Writer.",
+      "thread": null,
+      "users": [
+        { "uid": "277712", "username": "Cobalt+" }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The official groups Techsperts and Reviewers have started recruiting again.",
+      "thread": "http://hackforums.net/showthread.php?tid=1278242",
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Hуѕтєяιa X™ was appointed moderator of the Melody, Harmony, Rhythm and MP3 section.",
+      "thread": null,
+      "users": [
+        { "uid": "588781", "username": "Hуѕтєяιa X™" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga suffered a severe car accident on her way to visit The Rated R Superstar; her vehicle flipped multiple times after a truck clipped the attached horse float. She was hospitalized in Sydney with a punctured lung, fractures, and a fractured cheek bone, and is now recovering.",
+      "thread": null,
+      "users": [
+        { "uid": "661940", "username": "bugga" },
+        { "uid": "30595", "username": "The Rated R Superstar" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Black Shadow has been added back to the Master Donator list after having the award previously removed.",
+      "thread": null,
+      "users": [
+        { "uid": "63387", "username": "Black Shadow" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Black Chaos released a song about HF's trolls and flamers.",
+      "thread": "http://hackforums.net/showthread.php?tid=1533978",
+      "users": [
+        { "uid": "766449", "username": "Black Chaos" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "нα¢кєя found vulnerabilities in Facebook, Google, and a Microsoft website.",
+      "thread": "http://hackforums.net/showthread.php?tid=1540179",
+      "users": [
+        { "uid": "58642", "username": "нα¢кєя" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tɦɛ Gʀiɱ reached 1,000 reputation points; only seventeen members in total have achieved this.",
+      "thread": null,
+      "users": [
+        { "uid": "431105", "username": "Tɦɛ Gʀiɱ" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Crayo has been banned.",
+      "thread": null,
+      "users": [
+        { "uid": "344143", "username": "Crayo" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ωмεɢα has been banned for posting a member DOX site.",
+      "thread": null,
+      "users": [
+        { "uid": "542851", "username": "Ωмεɢα" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Paki Hacker has been banned for posting a member DOX site.",
+      "thread": null,
+      "users": [
+        { "uid": "148750", "username": "Paki Hacker" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Orgy has been banned for stating that staff was corrupt.",
+      "thread": null,
+      "users": [
+        { "uid": "182754", "username": "Orgy" }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cobalt+ conducted by Astonish is NJ; covers his joining HF, becoming HF News leader, and graphics work.",
+      "thread": null,
+      "users": [
+        { "uid": "657392", "username": "Astonish is NJ" },
+        { "uid": "277712", "username": "Cobalt+" }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cam G conducted by Astonish is NJ; discusses joining HF, The Wraith, and being one of the longest-serving Reviewers.",
+      "thread": null,
+      "users": [
+        { "uid": "657392", "username": "Astonish is NJ" },
+        { "username": "Cam G" }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Rety'un conducted by Positive; covers his time as staff, mentor role, and HF history.",
+      "thread": null,
+      "users": [
+        { "uid": "323740", "username": "Positive" },
+        { "uid": "47360", "username": "Rety'un" }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        { "uid": "277712", "username": "Cobalt+", "role": "Publisher & Head Journalist" },
+        { "uid": "175033", "username": "xerotic", "role": "Publisher's Assistant" },
+        { "uid": "545127", "username": "Joey Tribbiani", "role": "Journalist (Headlines)" },
+        { "uid": "766449", "username": "BlackChaos", "role": "Journalist (World News)" },
+        { "uid": "355307", "username": "chocothunda", "role": "Journalist (User News)" },
+        { "uid": "657392", "username": "Astonish is NJ", "role": "Journalist (User News)" },
+        { "uid": "129444", "username": "3x0r_$c0rPi0n", "role": "Reporter" },
+        { "uid": "126243", "username": "Decoy", "role": "Reporter" },
+        { "uid": "200751", "username": "Zach", "role": "Reporter" },
+        { "uid": "115612", "username": "-BoodyE-", "role": "Reporter" },
+        { "uid": "657392", "username": "Astonish is NJ", "role": "Interviewer" },
+        { "uid": "70881", "username": "Paradoxum", "role": "Editor-in-Chief" },
+        { "uid": "234024", "username": "Deities", "role": "Editor-in-Chief" },
+        { "uid": "566671", "username": "panDa.", "role": "Graphical Editor" }
+      ]
+    }
+  ],
+  "users": [
+    { "uid": "1", "username": "Omniscient" },
+    { "uid": "30595", "username": "The Rated R Superstar" },
+    { "uid": "47360", "username": "Rety'un" },
+    { "uid": "58642", "username": "нα¢кєя" },
+    { "uid": "63387", "username": "Black Shadow" },
+    { "uid": "70881", "username": "Paradoxum" },
+    { "uid": "115612", "username": "-BoodyE-" },
+    { "uid": "126243", "username": "Decoy" },
+    { "uid": "129444", "username": "3x0r_$c0rPi0n" },
+    { "uid": "148750", "username": "Paki Hacker" },
+    { "uid": "175033", "username": "xerotic" },
+    { "uid": "182754", "username": "Orgy" },
+    { "uid": "200751", "username": "Zach" },
+    { "uid": "234024", "username": "Deities" },
+    { "uid": "277712", "username": "Cobalt+" },
+    { "uid": "323740", "username": "Positive" },
+    { "uid": "344143", "username": "Crayo" },
+    { "uid": "355307", "username": "chocothunda" },
+    { "uid": "431105", "username": "Tɦɛ Gʀiɱ" },
+    { "uid": "542851", "username": "Ωмεɢα" },
+    { "uid": "545127", "username": "Joey Tribbiani" },
+    { "uid": "566671", "username": "panDa." },
+    { "uid": "588781", "username": "Hуѕтєяιa X™" },
+    { "uid": "657392", "username": "Astonish is NJ" },
+    { "uid": "661940", "username": "bugga" },
+    { "uid": "766449", "username": "Black Chaos" }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a rule banning Member Contests that require entrants to post in a separate thread, in response to vouch-spam abuse on Marketplace sales threads.",
+      "thread": "http://hackforums.net/showthread.php?tid=4018769",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient opened a community discussion thread floating a possible new rule banning sales of paid accounts (Netflix, Spotify Premium, etc.); affected shop owners were notified by PM.",
+      "thread": "http://hackforums.net/showthread.php?tid=4016503",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Viral Dragon's brain lesion grew from 1.3cm to the size of a quarter; donations and awareness sharing continued via the Indie GoGo campaign.",
+      "thread": "http://hackforums.net/showthread.php?tid=4016503",
+      "users": [
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SOAP. hit 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4013003",
+      "users": [
+        {
+          "uid": "1386412",
+          "username": "SOAP."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Lord was repfucked and banned for multiple accounts; .Alerion was repfucked and banned for reputation abuse; Lucifer was banned for L33t Reversal; C0rrupted was banned for harassing members; Tiszy was banned for posting a marketplace-styled thread outside the Marketplace.",
+      "thread": "http://hackforums.net/showthread.php?tid=4013003",
+      "users": [
+        {
+          "uid": "1452243",
+          "username": "Lord"
+        },
+        {
+          "uid": "1693297",
+          "username": ".Alerion"
+        },
+        {
+          "uid": "1863921",
+          "username": "Lucifer"
+        },
+        {
+          "uid": "1678290",
+          "username": "C0rrupted"
+        },
+        {
+          "uid": "931798",
+          "username": "Tiszy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "malichi's account was closed; Wallet's and Κeyser's accounts were closed and then unclosed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        },
+        {
+          "uid": "1960131",
+          "username": "Wallet"
+        },
+        {
+          "uid": "1671547",
+          "username": "Κeyser"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Moe' received Gamer; Sh1eld received DaBomb; Bull™ received Award Whore; DOOM! received Diamond; Cancеr donated for Master Donator; Understalker donated for Master Donator and received Rat Expert.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1535763",
+          "username": "Moe'"
+        },
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        },
+        {
+          "uid": "1844212",
+          "username": "Bull™"
+        },
+        {
+          "uid": "40895",
+          "username": "DOOM!"
+        },
+        {
+          "uid": "1797738",
+          "username": "Cancеr"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Camerοn became a leader of Infamous; Pеter stepped down as leader of Complexity and Starstruck became a leader of Complexity; 'Snorlax became a leader of The Brotherhood.",
+      "thread": "http://hackforums.net/showthread.php?tid=4015844",
+      "users": [
+        {
+          "uid": "1990800",
+          "username": "Camerοn"
+        },
+        {
+          "uid": "1342759",
+          "username": "Pеter"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Squidward conducted by Clique; an irreverent conversation covering his Lounge post-whoring habits, Spongebob inspiration, and dislike of the E-Whoring forum.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1320379",
+          "username": "Squidward"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with awhty conducted by Clark; covers his cracked email account and Reddit/Instagram sales business and his Writ3rs role co-handling User News with Yellows.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Jumanji conducted by Saturday; covers his Halo 3 obsession with Rofl Gun, iDul, and Rohz, his cocaine and alcohol overdose, his arrest after smoking weed, and Rofl Gun gifting him an Xbox 360 to return to Halo.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "761719",
+          "username": "Jumanji"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Package took over Proofreader from D3xus.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "1345075",
+          "username": "Package",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "40895",
+      "username": "DOOM!"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "761719",
+      "username": "Jumanji"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "931798",
+      "username": "Tiszy"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1320379",
+      "username": "Squidward"
+    },
+    {
+      "uid": "1342759",
+      "username": "Pеter"
+    },
+    {
+      "uid": "1345075",
+      "username": "Package"
+    },
+    {
+      "uid": "1386412",
+      "username": "SOAP."
+    },
+    {
+      "uid": "1452243",
+      "username": "Lord"
+    },
+    {
+      "uid": "1535763",
+      "username": "Moe'"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1671547",
+      "username": "Κeyser"
+    },
+    {
+      "uid": "1678290",
+      "username": "C0rrupted"
+    },
+    {
+      "uid": "1693297",
+      "username": ".Alerion"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1797738",
+      "username": "Cancеr"
+    },
+    {
+      "uid": "1844212",
+      "username": "Bull™"
+    },
+    {
+      "uid": "1863921",
+      "username": "Lucifer"
+    },
+    {
+      "uid": "1960131",
+      "username": "Wallet"
+    },
+    {
+      "uid": "1990800",
+      "username": "Camerοn"
+    }
+  ]
+}

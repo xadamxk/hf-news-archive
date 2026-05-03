@@ -1,0 +1,354 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient is considering a new POW3R usergroup with a 10,000-message PM box, 5-rep gives at a time, 10 reps/day, and a 10-second flood time. Payments would only be acceptable through Liberty Reserve.",
+      "thread": "http://hackforums.net/showthread.php?tid=2034683",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The Social Engineering section was closed again due to repeated rule violations. A new DREDD section (Decompiling, Reverse Engineering, Disassembly, and Debugging) was opened in its place; Omniscient said he will be very strict about its rules.",
+      "thread": "http://hackforums.net/showthread.php?tid=2034683",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vitani's Mate reached 30,000 posts in just under a year.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "651773",
+          "username": "Vitani's Mate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "HakkuR reached the 1,000 reputation milestone.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "320970",
+          "username": "HakkuR"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "phybeя reached the 1,000 reputation milestone.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "195796",
+          "username": "phybeя"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "h3x3n was repfucked for abusing the reputation system.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "723224",
+          "username": "h3x3n"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "- Sam - and BumperJumper were both banned for Ub3r junk abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "125325",
+          "username": "BumperJumper"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SpK was banned for posting another member's dox.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "119690",
+          "username": "SpK"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Civilizied (formerly Suhinder) had his account hacked; he has since changed his name back to Suhinder.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "869826",
+          "username": "Suhinder"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zach, leader of Eminence and the RATs Crew, was repfucked and given a 3-month ban with reason 'It's when you crack a program.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "200751",
+          "username": "Zach"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "POW3R Thread: Michael Westen's informational thread about the upcoming POW3R upgrade.",
+      "thread": "http://hackforums.net/showthread.php?tid=2027533",
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Funny Thread: Obie Trice's 'All balls itch it's a fact' thread, referring to Omniscient's brief redirect of HackForums.net to allballsitch.ytmnd.com.",
+      "thread": "http://hackforums.net/showthread.php?tid=2034683",
+      "users": [
+        {
+          "uid": "1093031",
+          "username": "Obie Trice"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Rap Thread: WiFi.'s 'Teach Me How To WiFi!?!?!?!' rap.",
+      "thread": "http://hackforums.net/showthread.php?tid=2034808",
+      "users": [
+        {
+          "uid": "622763",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Steam Thread: Razor339's Steam Sales trading thread for the Great Gift Pile event.",
+      "thread": "http://hackforums.net/showthread.php?tid=2028956",
+      "users": [
+        {
+          "uid": "366251",
+          "username": "Razor339"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Coding Thread: xerotic's video tutorial on making userscripts (HF Scripts).",
+      "thread": "http://hackforums.net/showthread.php?tid=2034312",
+      "users": [
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "DragScope received the Grammar Nazi award; Tay received the FPS Gawd award; Team Angeldust™ received the Black Hatter award.",
+      "thread": null,
+      "users": [
+        {
+          "username": "DragScope"
+        },
+        {
+          "username": "Tay"
+        },
+        {
+          "username": "Team Angeldust™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with .Infinity. conducted by Ignite.; covers Rebel booter management, business strategy, and upcoming products.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "946680",
+          "username": "Ignite."
+        },
+        {
+          "username": ".Infinity."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Yellows conducted by Kottonmouth; covers his username origin, right-aligned posting, and views on HF changes.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Kottonmouth"
+        },
+        {
+          "username": "Yellows",
+          "uid": "524451"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": "http://hackforums.net/showthread.php?tid=2027533",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "0OTF",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "119690",
+      "username": "SpK"
+    },
+    {
+      "uid": "125325",
+      "username": "BumperJumper"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "195796",
+      "username": "phybeя"
+    },
+    {
+      "uid": "200751",
+      "username": "Zach"
+    },
+    {
+      "uid": "320970",
+      "username": "HakkuR"
+    },
+    {
+      "uid": "366251",
+      "username": "Razor339"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "622763",
+      "username": "WiFi."
+    },
+    {
+      "uid": "651773",
+      "username": "Vitani's Mate"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "723224",
+      "username": "h3x3n"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "869826",
+      "username": "Suhinder"
+    },
+    {
+      "uid": "891268",
+      "username": "0OTF"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "1093031",
+      "username": "Obie Trice"
+    }
+  ]
+}

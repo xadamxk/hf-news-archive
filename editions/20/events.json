@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "Solidify promoted to Lounge moderator; receives all Lounge reports.",
+            "url": "http://hackforums.net/showthread.php?tid=734566&pid=7176904#pid7176904",
+            "related_users": [
+                "Solidify",
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Help docs updated: When to Contact Staff and Who is on staff.",
+            "url": "http://hackforums.net/misc.php?action=help&hid=27",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Crackdown on low quality posting in The Lounge.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Account 'tester' added as Lounge moderator (testing).",
+            "url": "",
+            "related_users": [
+                "tester"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Community discussion about Solidify's moderation.",
+            "url": "http://hackforums.net/showthread.php?tid=759241",
+            "related_users": [
+                "Solidify"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Mentors confirmed to be implemented.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "HF News invites member submissions for Misc edition.",
+            "url": "http://hackforums.net/showthread.php?tid=752356",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Solidify",
+            "uid": 176679
+        }
+    ]
+}
+

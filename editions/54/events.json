@@ -1,0 +1,581 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Richie and T3h Hack3r were promoted to Probational Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "79121",
+          "username": "Richie"
+        },
+        {
+          "username": "T3h Hack3r",
+          "uid": "128873"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient updated the forum to MyBB 1.6.4 and is also planning to upgrade MySQL to 5.6.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient enabled post count in all sections of HackForums following feedback from Hуѕтєяιa X™.",
+      "thread": "http://hackforums.net/showthread.php?tid=1585794",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "As a result of post count being enabled in all sections, the minimum post length was raised from 25 to 50 characters and the LQP warning was raised from 10 to 25 points per month.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Changes were made to warning levels.",
+      "thread": "http://hackforums.net/showthread.php?tid=1589913",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient introduced new usertitles and post ranks.",
+      "thread": "http://hackforums.net/showthread.php?tid=1589936",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "New rule: no user is allowed to display site goals or achievements (posts, reps, upgrades, group memberships) in their signature.",
+      "thread": "http://hackforums.net/showthread.php?tid=1587185",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The Testing sub-section under Introductions was removed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Crow fixed many of the mistakes members had found in the help documents.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Crow",
+          "uid": "2103"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing sub-forum under Marketplace Discussions.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "After Hуѕтєяιa X™ gave his opinion on post count removal in some sections, Omniscient gave him a post count of 355,323,000 as a joke before removing it; many members rep'd him for it.",
+      "thread": "http://hackforums.net/showthread.php?tid=1585794",
+      "users": [
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "cobija and Factor8™ repfucked each other to test the assumption that staff couldn't repfuck each other; it worked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "100071",
+          "username": "cobija"
+        },
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Omniscient mistakenly repfucked Ethereal while intending to repfuck a different user (Mike.); he made a public apology.",
+      "thread": "http://hackforums.net/showthread.php?tid=1581658",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "username": "Ethereal",
+          "uid": "458069"
+        },
+        {
+          "username": "Mike.",
+          "uid": "458073"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Omniscient gave himself the Asswipe award after the mistaken repfuck of Ethereal.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Qwazz was given the Diamond award, becoming one of only 13 members to receive it.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xvisceral permanently closed his account after resigning from BlackShades.",
+      "thread": null,
+      "users": [
+        {
+          "username": "xvisceral",
+          "uid": "111287"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "C4Vendetta was promoted to leader of Graphic Masters after recovering his account from the dead group.",
+      "thread": null,
+      "users": [
+        {
+          "username": "C4Vendetta",
+          "uid": "123584"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "A N D R E W received the Militant award; only 9 users have ever received it.",
+      "thread": null,
+      "users": [
+        {
+          "username": "A N D R E W",
+          "uid": "625689"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Atthackers received the Gamer award for giving Omniscient a game for his birthday.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "616850",
+          "username": "Atthackers"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iNviZ received the Da Bomb award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Brawl received the Master Donator award for his generous donations.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Brawl",
+          "uid": "640322"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Oxid received the Drunk award from Omniscient shortly after the MyBB 1.6.4 update.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Oxid",
+          "uid": "754586"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mike. was repfucked and then banned for insulting Omniscient.",
+      "thread": "http://hackforums.net/showthread.php?tid=1581658",
+      "users": [
+        {
+          "username": "Mike.",
+          "uid": "458073"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tate has been limited for re-posting threads previously removed by staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "101228",
+          "username": "Tate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "S70N3R was limited for flaming/threatening/harassing and was later banned for hitting a 100% warning level.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "132817",
+          "username": "S70N3R"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "HakkuR was permabanned by Omniscient but was unbanned shortly afterwards.",
+      "thread": null,
+      "users": [
+        {
+          "username": "HakkuR",
+          "uid": "320970"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Richie conducted by Positive; covers his joining HF, GFX work, and recent promotion to Probational Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "79121",
+          "username": "Richie"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+",
+          "role": "Publisher & Head Journalist"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Publisher's Assistant"
+        },
+        {
+          "uid": "545127",
+          "username": "Joey Tribbiani",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "DΣxus",
+          "role": "Journalist (Headlines)",
+          "uid": "827711"
+        },
+        {
+          "uid": "766449",
+          "username": "BlackChaos",
+          "role": "Journalist (World News)"
+        },
+        {
+          "username": "kyoutu",
+          "role": "Journalist (World News)",
+          "uid": "345697"
+        },
+        {
+          "uid": "355307",
+          "username": "chocothunda",
+          "role": "Journalist (User News)"
+        },
+        {
+          "username": "Zeon",
+          "role": "Head Reporter",
+          "uid": "58683"
+        },
+        {
+          "username": "Figaro",
+          "role": "Reporter (Headlines)",
+          "uid": "648463"
+        },
+        {
+          "username": "Mr.Kewl",
+          "role": "Reporter (Headlines)",
+          "uid": "183072"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-",
+          "role": "Reporter (User News)"
+        },
+        {
+          "username": "Puppy™",
+          "role": "Reporter (User News)",
+          "uid": "556984"
+        },
+        {
+          "uid": "126243",
+          "username": "Decoy",
+          "role": "Reporter (World News)"
+        },
+        {
+          "uid": "675453",
+          "username": "Cyber-Security",
+          "role": "Reporter (World News)"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Head Interviewer"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-",
+          "role": "Editor-in-Chief"
+        },
+        {
+          "uid": "234024",
+          "username": "Deities",
+          "role": "Editor-in-Chief"
+        },
+        {
+          "uid": "566671",
+          "username": "panDa.",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "2103",
+      "username": "Crow"
+    },
+    {
+      "uid": "58683",
+      "username": "Zeon"
+    },
+    {
+      "uid": "79121",
+      "username": "Richie"
+    },
+    {
+      "uid": "100071",
+      "username": "cobija"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "111287",
+      "username": "xvisceral"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "123584",
+      "username": "C4Vendetta"
+    },
+    {
+      "uid": "126243",
+      "username": "Decoy"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "132817",
+      "username": "S70N3R"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr.Kewl"
+    },
+    {
+      "uid": "234024",
+      "username": "Deities"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "320970",
+      "username": "HakkuR"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "345697",
+      "username": "kyoutu"
+    },
+    {
+      "uid": "355307",
+      "username": "chocothunda"
+    },
+    {
+      "uid": "458069",
+      "username": "Ethereal"
+    },
+    {
+      "uid": "458073",
+      "username": "Mike."
+    },
+    {
+      "uid": "545127",
+      "username": "Joey Tribbiani"
+    },
+    {
+      "uid": "556984",
+      "username": "Puppy™"
+    },
+    {
+      "uid": "566671",
+      "username": "panDa."
+    },
+    {
+      "uid": "588781",
+      "username": "Hуѕтєяιa X™"
+    },
+    {
+      "uid": "616850",
+      "username": "Atthackers"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "625689",
+      "username": "A N D R E W"
+    },
+    {
+      "uid": "640322",
+      "username": "Brawl"
+    },
+    {
+      "uid": "648463",
+      "username": "Figaro"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "675453",
+      "username": "Cyber-Security"
+    },
+    {
+      "uid": "754586",
+      "username": "Oxid"
+    },
+    {
+      "uid": "766449",
+      "username": "BlackChaos"
+    },
+    {
+      "uid": "827711",
+      "username": "DΣxus"
+    }
+  ]
+}

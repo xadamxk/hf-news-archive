@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Notice from Sir apologizing for a delay of the 100th edition; release pushed to Sunday the 15th.",
+      "thread": null,
+      "users": [
+        { "uid": "515249", "username": "Sir" }
+      ]
+    }
+  ],
+  "users": [
+    { "uid": "515249", "username": "Sir" }
+  ]
+}

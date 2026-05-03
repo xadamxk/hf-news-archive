@@ -1,0 +1,419 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a Skype MyCode that displays a member's Skype online status (with a click-to-chat link).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xvisceral, founder and leader of Blackshades, was arrested for carding and fraud (he was an active member of a carding forum).",
+      "thread": "http://hackforums.net/showthread.php?tid=2623715",
+      "users": [
+        {
+          "uid": "111287",
+          "username": "xvisceral"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cяιмιηαℓ, a notorious scammer, was caught red-handed in the Marketplace; Omniscient stickied a scam report by samirdip.",
+      "thread": "http://hackforums.net/showthread.php?tid=2603489",
+      "users": [
+        {
+          "uid": "729921",
+          "username": "Cяιмιηαℓ"
+        },
+        {
+          "username": "samirdip"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Members can now view their referred members on their profile page.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xerotic announced his unofficial HF scammer database is back online.",
+      "thread": "http://hackforums.net/showthread.php?tid=2399978",
+      "users": [
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Heir was banned for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Heir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "CyberProdigy was banned for making up facts about Omniscient.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "891435",
+          "username": "CyberProdigy"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Se4nH4x and ~NaDe were banned for scamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "372386",
+          "username": "Se4nH4x"
+        },
+        {
+          "uid": "119160",
+          "username": "~NaDe"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Infallible was banned for abusing his power.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "170785",
+          "username": "Infallible"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Apathy's 'A Chilling Rape Story' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2626382",
+      "users": [
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'Money... Or Friends?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2620912",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Bangarang's 'Is it illegal to murder someone on the moon or other planets in space?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2629091",
+      "users": [
+        {
+          "uid": "865083",
+          "username": "Bangarang"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "nigrin's 'Obamacare approved!' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2628619",
+      "users": [
+        {
+          "uid": "1160000",
+          "username": "nigrin"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Αnonymous received the Sticky Man award for a networking thread; Crash™ received the Jokester award for eating cat food and hot sauce.",
+      "thread": "http://hackforums.net/showthread.php?tid=2609029",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "765374",
+          "username": "Crash™"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "xvisceral is no longer a leader of Blackshades.",
+      "thread": "http://hackforums.net/showthread.php?tid=2623715",
+      "users": [
+        {
+          "uid": "111287",
+          "username": "xvisceral"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with [๖ۣۜNoxx]The_Master conducted by SoulZeh; covers his upcoming gaming/GFX/debate group plans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "1222901",
+          "username": "[๖ۣۜNoxx]The_Master"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Existence conducted by RDCA; covers the post-xvisceral state of Blackshades and the planned new whitehat-focused group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "451192",
+          "username": "Existence"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with TheVortex conducted by Phytrix; covers his Rhythm leadership, group memberships, and HF goals.",
+      "thread": "http://hackforums.net/showthread.php?tid=2399978",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)",
+          "uid": "138559"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)",
+          "uid": "903914"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "username": "AvidWB",
+          "role": "Webshow Host",
+          "uid": "1323486"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "111287",
+      "username": "xvisceral"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "119160",
+      "username": "~NaDe"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "170785",
+      "username": "Infallible"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "372386",
+      "username": "Se4nH4x"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "451192",
+      "username": "Existence"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "524451",
+      "username": "Heir"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "600771",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "729921",
+      "username": "Cяιмιηαℓ"
+    },
+    {
+      "uid": "765374",
+      "username": "Crash™"
+    },
+    {
+      "uid": "865083",
+      "username": "Bangarang"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "891435",
+      "username": "CyberProdigy"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1160000",
+      "username": "nigrin"
+    },
+    {
+      "uid": "1222901",
+      "username": "[๖ۣۜNoxx]The_Master"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Rule update: threats (dox, swat, stealing accounts) and flaming prohibited across posts, PMs, profiles.",
+            "url": "http://hackforums.net/showthread.php?tid=1309290",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "All member login keys reset for security.",
+            "url": "http://hackforums.net/showthread.php?tid=1304786",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Apple sales/trades banned in Marketplace due to fraud.",
+            "url": "http://hackforums.net/showthread.php?tid=1304697",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "New Liberty Reserve Head award added (donate $20 via LR).",
+            "url": "http://hackforums.net/myawards.php",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Admin Hanzo renamed to Judge Dredd.",
+            "url": "",
+            "related_users": [
+                "Judge Dredd"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "xerotic compromised via email; temporary ban notice.",
+            "url": "http://hackforums.net/showthread.php?tid=1307160",
+            "related_users": [
+                "xerotic"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "TechSperts first recruitment results posted.",
+            "url": "http://hackforums.net/showthread.php?tid=1278242&pid=11980219#pid11980219",
+            "related_users": [
+                "The Rated R Superstar"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "Red Lions re-open recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=1314549",
+            "related_users": []
+        },
+        {
+            "topic": "news",
+            "title": "HF News begins paid ads; proceeds donated to HF.",
+            "url": "http://hackforums.net/showthread.php?tid=1313298",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Judge Dredd",
+            "uid": 4066
+        },
+        {
+            "username": "xerotic",
+            "uid": 175033
+        }
+    ]
+}
+

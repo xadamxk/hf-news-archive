@@ -1,0 +1,411 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Hack Forums was briefly marked as a potentially harmful site by Google due to a rogue ad network; Omniscient contacted Google and the issue was resolved.",
+      "thread": "http://hackforums.net/showthread.php?tid=2821087",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Microsoft flagged HF's domain MX record IP after the Google malware notification, blocking site emails (registration confirmations, password recoveries) until Omniscient can resolve it with Microsoft.",
+      "thread": "http://hackforums.net/showthread.php?tid=2824899",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient cleared the junked posts section, deleting over 900,000 posts; post counts have not yet been recounted.",
+      "thread": "http://hackforums.net/showthread.php?tid=2821087",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Burn™ and Shekhar reached 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "857963",
+          "username": "Burn™"
+        },
+        {
+          "uid": "559058",
+          "username": "Shekhar"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ัPandaŠec became moderator of the WiFi section.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "516018",
+          "username": "ัPandaŠec"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "DaFreak ツ and єץє were both banned for marketplace violations; Addictionz was banned and repfucked for multiple accounts; Jay-Z™ was banned for infecting members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "681713",
+          "username": "DaFreak ツ"
+        },
+        {
+          "uid": "67727",
+          "username": "єץє"
+        },
+        {
+          "uid": "377103",
+          "username": "Addictionz"
+        },
+        {
+          "uid": "856824",
+          "username": "Jay-Z™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Яǝʌǝɹsǝ was banned for posting etiquette.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "274613",
+          "username": "Яǝʌǝɹsǝ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Аnalog received the Sticky Man award; sea_turtles received the YouTube award; ZooT ツ received the Master Donator and Businessman awards.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "660659",
+          "username": "Аnalog"
+        },
+        {
+          "uid": "1403258",
+          "username": "sea_turtles"
+        },
+        {
+          "uid": "492002",
+          "username": "ZooT ツ"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Diabolic was replaced by Saturday as a leader of Rhythm; ShadowCloud stepped down from Eminence; Existence stepped down as owner of Valor (BV1 ツ took over) and joined The Empire's leadership alongside SoulZeh, replacing Hades; McFlurry and -BoodyE- became leaders of The Reviewers.",
+      "thread": "http://hackforums.net/showthread.php?tid=2829663",
+      "users": [
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "272608",
+          "username": "ShadowCloud"
+        },
+        {
+          "uid": "40895",
+          "username": "Existence"
+        },
+        {
+          "uid": "920387",
+          "username": "Hades"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Radeon HD's 'Do you use Google Chrome? You're now in the botnet.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2829199",
+      "users": [
+        {
+          "uid": "333514",
+          "username": "Radeon HD"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Strokes's 'I Can Prove God Does Not Exist.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2813062",
+      "users": [
+        {
+          "uid": "1326923",
+          "username": "Strokes"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Rexagon.exe's 'Why do you NOT believe God?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2827254",
+      "users": [
+        {
+          "uid": "957278",
+          "username": "Rexagon.exe"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Erudite's 'Where is society going wrong with today's youth?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "users": [
+        {
+          "uid": "325511",
+          "username": "Erudite"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Saturday conducted by Phytrix; covers his XBL Gamertag marketplace history, recent Rhythm leadership promotion, posting from an iPod, and views on legal age limits for voting/drinking/smoking.",
+      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Tibit conducted by Phytrix; covers his Cyber Security competition background, ownership of Empire, upcoming book on Corporate Security, and plans for a Computer Science Doctorate.",
+      "thread": "http://hackforums.net/showthread.php?tid=2829663",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "40895",
+      "username": "Existence"
+    },
+    {
+      "uid": "67727",
+      "username": "єץє"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "272608",
+      "username": "ShadowCloud"
+    },
+    {
+      "uid": "274613",
+      "username": "Яǝʌǝɹsǝ"
+    },
+    {
+      "uid": "325511",
+      "username": "Erudite"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "333514",
+      "username": "Radeon HD"
+    },
+    {
+      "uid": "377103",
+      "username": "Addictionz"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "492002",
+      "username": "ZooT ツ"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516018",
+      "username": "ัPandaŠec"
+    },
+    {
+      "uid": "559058",
+      "username": "Shekhar"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "660659",
+      "username": "Аnalog"
+    },
+    {
+      "uid": "681713",
+      "username": "DaFreak ツ"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "856824",
+      "username": "Jay-Z™"
+    },
+    {
+      "uid": "857963",
+      "username": "Burn™"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "920387",
+      "username": "Hades"
+    },
+    {
+      "uid": "957278",
+      "username": "Rexagon.exe"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1403258",
+      "username": "sea_turtles"
+    }
+  ]
+}

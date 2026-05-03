@@ -1,0 +1,381 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "iScythe++ ran an unprecedented $1,100 giveaway contest to a member he deemed fit, an extraordinary act of generosity by the InFaMoUs member.",
+      "thread": "http://hackforums.net/showthread.php?tid=3059707",
+      "users": [
+        {
+          "uid": "801804",
+          "username": "iScythe++"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Codevade returned to action following his prison release and added Tɦɛ Gʀiɱ as a Marketers leader; 85 paying members (totaling roughly $4,250) were kicked from the group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient ran a one-day Cyber Monday discount coupon offering $3 off the L33T upgrade.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Crow reached 1,000 reputation; adampelletgun was promoted to Mentor; flAmingw0rm reached 10,000 posts; Mr Kewl reached 20,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "2103",
+          "username": "Crow"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "71764",
+          "username": "flAmingw0rm"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Majiη™, WinRAR™, ᴇᴍɪɴᴇɴᴄᴇ, P!nk, MrJin, and ShibbX8 were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "274572",
+          "username": "Majiη™"
+        },
+        {
+          "uid": "962283",
+          "username": "WinRAR™"
+        },
+        {
+          "uid": "923962",
+          "username": "ᴇᴍɪɴᴇɴᴄᴇ"
+        },
+        {
+          "uid": "498988",
+          "username": "P!nk"
+        },
+        {
+          "uid": "1185678",
+          "username": "MrJin"
+        },
+        {
+          "uid": "1049666",
+          "username": "ShibbX8"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "PurpleHaze was banned for flaming staff; Farris spoiler was banned for multiple accounts; Waleed was banned for mass advertising; Tate was banned for being a dumbass.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "27314",
+          "username": "PurpleHaze"
+        },
+        {
+          "uid": "1249198",
+          "username": "Farris spoiler"
+        },
+        {
+          "uid": "769614",
+          "username": "Waleed"
+        },
+        {
+          "uid": "101228",
+          "username": "Tate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "redpois0n received the Sticky Man award; Morchid received the Turkey award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3053818",
+      "users": [
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: Tibit's '[$100] Empire Stresser Contest'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3053818",
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: javaPro's 'Fetus Flipper = Biggest Attention Whore Ever!!!'",
+      "thread": "http://hackforums.net/showthread.php?tid=3063429",
+      "users": [
+        {
+          "uid": "654446",
+          "username": "javaPro"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Grin conducted by +Entity; covers his friendships across the forum, time in Black Knights/Wraiths/Reverence/TechSperts/Serenity/Propitious, current dedication to Root, and his refusal to write tutorials due to community responses.",
+      "thread": "http://hackforums.net/showthread.php?tid=3063429",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with adampelletgun conducted by Hexicidal; covers his promotion to Mentor, learning computer security on HF, gaming background (GTA/COD), and moderating HF from his iPad.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Sir's Second"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1326923",
+          "username": "Vox",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "username": "Retribute",
+          "role": "Proofreader",
+          "uid": "763021"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "2103",
+      "username": "Crow"
+    },
+    {
+      "uid": "27314",
+      "username": "PurpleHaze"
+    },
+    {
+      "uid": "71764",
+      "username": "flAmingw0rm"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "274572",
+      "username": "Majiη™"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "431105",
+      "username": "Tɦɛ Gʀiɱ"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "498988",
+      "username": "P!nk"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "654446",
+      "username": "javaPro"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "769614",
+      "username": "Waleed"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "801804",
+      "username": "iScythe++"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "923962",
+      "username": "ᴇᴍɪɴᴇɴᴄᴇ"
+    },
+    {
+      "uid": "962283",
+      "username": "WinRAR™"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1049662",
+      "username": "redpois0n"
+    },
+    {
+      "uid": "1049666",
+      "username": "ShibbX8"
+    },
+    {
+      "uid": "1185678",
+      "username": "MrJin"
+    },
+    {
+      "uid": "1249198",
+      "username": "Farris spoiler"
+    },
+    {
+      "uid": "1326923",
+      "username": "Vox"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    }
+  ]
+}

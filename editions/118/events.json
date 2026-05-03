@@ -1,0 +1,402 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient warned users (in a thread titled 'HEY YOU FUCKING ASSHOLE') that he would close any account discussing blackhat activity in the Tinychat/Skype/Join.me Invites section.",
+      "thread": "http://hackforums.net/showthread.php?tid=3014583",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Omniscient announced that the HiJackThis Malware Removal Team will be renamed to 'Hackforums' Malware Removal Team' (HF MRT) and opened a thread soliciting new graphics for the rebrand.",
+      "thread": "http://hackforums.net/showthread.php?tid=3021751",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Hack Forums experienced scheduled maintenance downtime mid-week, followed by additional unplanned downtime due to apparent motherboard failure.",
+      "thread": "http://hackforums.net/showthread.php?tid=3021751",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "adampelletgun, BaussHacker, and Mark Webber reached 1,000 reputation; DafuqDude and Grammar Rays reached 10,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "522041",
+          "username": "BaussHacker"
+        },
+        {
+          "uid": "89623",
+          "username": "Mark Webber"
+        },
+        {
+          "uid": "1452467",
+          "username": "DafuqDude"
+        },
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Phytrix was temporarily banned for a Marketplace Violation; Crash-Override was banned for flaming; Fetus Flipper was banned for disobeying Staff; PurpleHaze was banned for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "325600",
+          "username": "Crash-Override"
+        },
+        {
+          "uid": "260570",
+          "username": "Fetus Flipper"
+        },
+        {
+          "uid": "27314",
+          "username": "PurpleHaze"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Taco, Autopost, Mr. Jerkoff, and USMC Chris were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "952310",
+          "username": "Taco"
+        },
+        {
+          "uid": "1180170",
+          "username": "Autopost"
+        },
+        {
+          "uid": "80320",
+          "username": "Mr. Jerkoff"
+        },
+        {
+          "uid": "1246572",
+          "username": "USMC Chris"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "PubMaster received the Gamer award; Yellows lost the 24k award; Яǝʌǝɹsǝ received the Hustler award for the sub-forum description; Aeon ‹3 received Master Donator and Militant; Froggy received the Frog and Cuddly and Cute awards.",
+      "thread": "http://hackforums.net/showthread.php?tid=3024964",
+      "users": [
+        {
+          "uid": "67718",
+          "username": "PubMaster"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "274613",
+          "username": "Яǝʌǝɹsǝ"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Salvatore's 'Spotify Web (Beta)'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3024964",
+      "users": [
+        {
+          "uid": "1138215",
+          "username": "Salvatore"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: Yellows's 'Empire | HF OMGPOP Pool Tournament 7'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3028011",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Winner's 'HF radio [Become a DJ NOW!!]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3027832",
+      "users": [
+        {
+          "uid": "1119610",
+          "username": "Winner"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: xadamxk's 'iDevice/Android Section Changes'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2966445",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Brandenx781 conducted by +Entity; covers his discovery of the HJT Team via Paradoxum, becoming a teacher, and his prolific log analysis work.",
+      "thread": "http://hackforums.net/showthread.php?tid=2966445",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "847499",
+          "username": "Brandenx781"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Hazy conducted by Phytrix; covers his time in seven groups (now only 143), Hackercraft critiques on factions/spawn/staffing, and anticipation for the upcoming P0W3R upgrade.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1251587",
+          "username": "Hazy"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Sir's Second"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "27314",
+      "username": "PurpleHaze"
+    },
+    {
+      "uid": "67718",
+      "username": "PubMaster"
+    },
+    {
+      "uid": "80320",
+      "username": "Mr. Jerkoff"
+    },
+    {
+      "uid": "89623",
+      "username": "Mark Webber"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "260570",
+      "username": "Fetus Flipper"
+    },
+    {
+      "uid": "274613",
+      "username": "Яǝʌǝɹsǝ"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "325600",
+      "username": "Crash-Override"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "522041",
+      "username": "BaussHacker"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "847499",
+      "username": "Brandenx781"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "952310",
+      "username": "Taco"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1119610",
+      "username": "Winner"
+    },
+    {
+      "uid": "1138215",
+      "username": "Salvatore"
+    },
+    {
+      "uid": "1180170",
+      "username": "Autopost"
+    },
+    {
+      "uid": "1246572",
+      "username": "USMC Chris"
+    },
+    {
+      "uid": "1251587",
+      "username": "Hazy"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1452467",
+      "username": "DafuqDude"
+    }
+  ]
+}

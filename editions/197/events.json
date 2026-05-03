@@ -1,0 +1,833 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient announced that reputation abuse reports will trigger a full account investigation, with rule violations leading to closure; the help documents were updated accordingly.",
+      "thread": "http://hackforums.net/showthread.php?tid=4267146",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient broadened the fraud rules to disallow all cryptocurrency-related fraud (previously Bitcoin only), classifying it as financial fraud and banning RAT-based wallet stealing discussion.",
+      "thread": "http://hackforums.net/showthread.php?tid=4265680",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "'Sin reached 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "users": [
+        {
+          "uid": "969003",
+          "username": "'Sin"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Haunter and A‏d‏am were repfucked (A‏d‏am also had account closed for chargeback of $20 sticky purchase); delpai was repfucked and banned for reputation abuse; Tech‏nique was banned with account under investigation; Syrah, Understalker, AXiS, and Pimp of Heimlich County were banned for LQP; Cyrus had an expired ban for LQP; Dillweed and 8gold8 had accounts closed.",
+      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "users": [
+        {
+          "uid": "1635198",
+          "username": "Haunter"
+        },
+        {
+          "uid": "1660795",
+          "username": "A‏d‏am"
+        },
+        {
+          "uid": "1487225",
+          "username": "delpai"
+        },
+        {
+          "uid": "145000",
+          "username": "Tech‏nique"
+        },
+        {
+          "uid": "1763815",
+          "username": "Syrah"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        },
+        {
+          "uid": "1104007",
+          "username": "AXiS"
+        },
+        {
+          "uid": "1695995",
+          "username": "Pimp of Heimlich County"
+        },
+        {
+          "uid": "1671547",
+          "username": "Cyrus"
+        },
+        {
+          "uid": "2074089",
+          "username": "Dillweed"
+        },
+        {
+          "uid": "2197054",
+          "username": "8gold8"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Trafz, HU₵₵I, Haze., !!!! Scorn™ !!!!, Stoke City, Kondry, Komodo, Xerucide, Aviate, PromoRare, Justin Timberlake, Isaac Newton, Florist, Unrep, oz@bsd, E d d i e, Colorado, poLar, and Knar. took vacation bans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "125492",
+          "username": "Trafz"
+        },
+        {
+          "uid": "857878",
+          "username": "HU₵₵I"
+        },
+        {
+          "uid": "1482070",
+          "username": "Haze."
+        },
+        {
+          "uid": "1185801",
+          "username": "!!!! Scorn™ !!!!"
+        },
+        {
+          "uid": "1517518",
+          "username": "Stoke City"
+        },
+        {
+          "uid": "121732",
+          "username": "Kondry"
+        },
+        {
+          "uid": "2119467",
+          "username": "Komodo"
+        },
+        {
+          "uid": "891000",
+          "username": "Xerucide"
+        },
+        {
+          "uid": "1605930",
+          "username": "Aviate"
+        },
+        {
+          "uid": "2015120",
+          "username": "PromoRare"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake"
+        },
+        {
+          "uid": "629871",
+          "username": "Isaac Newton"
+        },
+        {
+          "uid": "714069",
+          "username": "Florist"
+        },
+        {
+          "uid": "884903",
+          "username": "Unrep"
+        },
+        {
+          "uid": "1908096",
+          "username": "oz@bsd"
+        },
+        {
+          "uid": "1958275",
+          "username": "E d d i e"
+        },
+        {
+          "uid": "1350433",
+          "username": "Colorado"
+        },
+        {
+          "uid": "2131401",
+          "username": "poLar"
+        },
+        {
+          "uid": "1753641",
+          "username": "Knar."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "C0NN3X10N received Da Bomb; xVulnerable donated for Master Donator and received Ninja.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "538985",
+          "username": "C0NN3X10N"
+        },
+        {
+          "uid": "1492625",
+          "username": "xVulnerable"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": ".Savage became a leader of The Republic; ~HF~ became a leader of Respawn; Aurora became a leader of Infamous.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1055259",
+          "username": ".Savage"
+        },
+        {
+          "uid": "1042439",
+          "username": "~HF~"
+        },
+        {
+          "uid": "888979",
+          "username": "Aurora"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Sh1eld's report on the OMC theft last week led to ~OMC~'s closure and Tenaxium's month-long ban; Omnicoin rebounded to higher prices, the OMC award price changed to 2,500 OMC to track the price, and several antiviruses began flagging Omnicoin-qt.exe as malware/riskware.",
+      "thread": "http://hackforums.net/showthread.php?tid=4255932",
+      "users": [
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        },
+        {
+          "uid": "1983655",
+          "username": "~OMC~"
+        },
+        {
+          "uid": "1759389",
+          "username": "Tenaxium"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Sanka's 'World Cup 2014 Thread'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4225262",
+      "users": [
+        {
+          "uid": "1003315",
+          "username": "Sanka"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Ridge™'s '[The Brotherhood] $500+ Contest | 1,000 OMC | Upgrade'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4238421",
+      "users": [
+        {
+          "uid": "609911",
+          "username": "Ridge™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: PiraX's 'I got an RFID chip implant'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4245196",
+      "users": [
+        {
+          "uid": "564566",
+          "username": "PiraX"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: ßetrayed's 'Favourite Football Team & Player'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4096244",
+      "users": [
+        {
+          "uid": "2116966",
+          "username": "ßetrayed"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Omniscient's 'Illness and Delays' announcing he would be unavailable while sick.",
+      "thread": "http://hackforums.net/showthread.php?tid=4255932",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Sabre's 'So how much has HackForums made? Find out here!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4262068",
+      "users": [
+        {
+          "uid": "85546",
+          "username": "Sabre"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: FlyersFan28's 'Use Google To Find Any Type Of Account'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3776496",
+      "users": [
+        {
+          "uid": "687175",
+          "username": "FlyersFan28"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: -Hyperion's '[BHCPU] Brotherhood academy lesson 1: Setting up a malware test box'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4260010",
+      "users": [
+        {
+          "uid": "197132",
+          "username": "-Hyperion"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Darkwin conducted by Alien; covers his early monetizing career (PPD/PPC/eWhoring/site flipping), founding Camtrix with Electrode, his successful eWhoring business, his songwriting passion, and his concept for a NetFlirts eWhoring group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "952870",
+          "username": "Alien"
+        },
+        {
+          "uid": "181208",
+          "username": "Darkwin"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with I Will Mashinate conducted by 630; covers his community alert on Instinct leader Craze leading to his removal, his Brotherhood PC Gaming Sector membership, his Norwegian schooling, and his frustration with the LoL section's drophacking and scripts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1832455",
+          "username": "I Will Mashinate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Goodies conducted by Clark; covers his upcoming CCNA test, his networking and security ebook, his transition from Christianity to atheism, his Linux/Debian advocacy, and his quantum mechanics studies.",
+      "thread": "http://hackforums.net/showthread.php?tid=4236797",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Aurora conducted by Clique; covers her new Infamous leadership, her arrival via a Habbo hacker who returned her account, her DotA 2/CS:GO play, her newly picked-up acoustic guitar, and her GCSE Chinese exams.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "888979",
+          "username": "Aurora"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Sir's Second / Opinions / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "751152",
+          "username": "Vazity",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "875895",
+          "username": "Haste.",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1659032",
+          "username": "Cyph Jr",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1469364",
+          "username": "dull",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Journalist (Art Gallery) / Graphical Editor"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952870",
+          "username": "Alien",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1716927",
+          "username": "Fade™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Proofreader"
+        },
+        {
+          "uid": "1161771",
+          "username": "#Beau",
+          "role": "Reserve Writer"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "85546",
+      "username": "Sabre"
+    },
+    {
+      "uid": "121732",
+      "username": "Kondry"
+    },
+    {
+      "uid": "125492",
+      "username": "Trafz"
+    },
+    {
+      "uid": "145000",
+      "username": "Tech‏nique"
+    },
+    {
+      "uid": "181208",
+      "username": "Darkwin"
+    },
+    {
+      "uid": "197132",
+      "username": "-Hyperion"
+    },
+    {
+      "uid": "279955",
+      "username": "Happeh"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "538985",
+      "username": "C0NN3X10N"
+    },
+    {
+      "uid": "564566",
+      "username": "PiraX"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "609911",
+      "username": "Ridge™"
+    },
+    {
+      "uid": "629871",
+      "username": "Isaac Newton"
+    },
+    {
+      "uid": "687175",
+      "username": "FlyersFan28"
+    },
+    {
+      "uid": "714069",
+      "username": "Florist"
+    },
+    {
+      "uid": "751152",
+      "username": "Vazity"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "857878",
+      "username": "HU₵₵I"
+    },
+    {
+      "uid": "875895",
+      "username": "Haste."
+    },
+    {
+      "uid": "884903",
+      "username": "Unrep"
+    },
+    {
+      "uid": "888979",
+      "username": "Aurora"
+    },
+    {
+      "uid": "891000",
+      "username": "Xerucide"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "952870",
+      "username": "Alien"
+    },
+    {
+      "uid": "969003",
+      "username": "'Sin"
+    },
+    {
+      "uid": "1003315",
+      "username": "Sanka"
+    },
+    {
+      "uid": "1042439",
+      "username": "~HF~"
+    },
+    {
+      "uid": "1055259",
+      "username": ".Savage"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1104007",
+      "username": "AXiS"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1161771",
+      "username": "#Beau"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1173142",
+      "username": "Goodies"
+    },
+    {
+      "uid": "1185801",
+      "username": "!!!! Scorn™ !!!!"
+    },
+    {
+      "uid": "1350433",
+      "username": "Colorado"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1469364",
+      "username": "dull"
+    },
+    {
+      "uid": "1482070",
+      "username": "Haze."
+    },
+    {
+      "uid": "1487225",
+      "username": "delpai"
+    },
+    {
+      "uid": "1492625",
+      "username": "xVulnerable"
+    },
+    {
+      "uid": "1517518",
+      "username": "Stoke City"
+    },
+    {
+      "uid": "1605930",
+      "username": "Aviate"
+    },
+    {
+      "uid": "1635198",
+      "username": "Haunter"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1659032",
+      "username": "Cyph Jr"
+    },
+    {
+      "uid": "1660795",
+      "username": "A‏d‏am"
+    },
+    {
+      "uid": "1671547",
+      "username": "Cyrus"
+    },
+    {
+      "uid": "1695995",
+      "username": "Pimp of Heimlich County"
+    },
+    {
+      "uid": "1698590",
+      "username": "Abide"
+    },
+    {
+      "uid": "1716927",
+      "username": "Fade™"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1753641",
+      "username": "Knar."
+    },
+    {
+      "uid": "1759389",
+      "username": "Tenaxium"
+    },
+    {
+      "uid": "1763815",
+      "username": "Syrah"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1832455",
+      "username": "I Will Mashinate"
+    },
+    {
+      "uid": "1908096",
+      "username": "oz@bsd"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "1958275",
+      "username": "E d d i e"
+    },
+    {
+      "uid": "1983655",
+      "username": "~OMC~"
+    },
+    {
+      "uid": "2015120",
+      "username": "PromoRare"
+    },
+    {
+      "uid": "2074089",
+      "username": "Dillweed"
+    },
+    {
+      "uid": "2116966",
+      "username": "ßetrayed"
+    },
+    {
+      "uid": "2119467",
+      "username": "Komodo"
+    },
+    {
+      "uid": "2131401",
+      "username": "poLar"
+    },
+    {
+      "uid": "2197054",
+      "username": "8gold8"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient embedded SoundCloud support; tracks can be added with [soundcloud][/soundcloud] BBCode tags.",
+      "thread": "http://hackforums.net/showthread.php?tid=2314883",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient noted that HF is a business and recently had to pay business taxes.",
+      "thread": null,
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "An old moderator tool was revived: a black-and-red text box appears at the bottom of a post when a user is warned for it.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Hуѕтєяιa X™ was repfucked for the second time after asking for it again.",
+      "thread": null,
+      "users": [
+        { "uid": "588781", "username": "Hуѕтєяιa X™" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Emily was repfucked for attempting to buy an HF account.",
+      "thread": null,
+      "users": [
+        { "uid": "535046", "username": "Emily" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "тнє Jσкєя was banned.",
+      "thread": null,
+      "users": [
+        { "uid": "729921", "username": "тнє Jσкєя" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Peroxide was banned and repfucked for account sharing.",
+      "thread": null,
+      "users": [
+        { "uid": "560013", "username": "Peroxide" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zombot's account was stolen.",
+      "thread": null,
+      "users": [
+        { "uid": "888979", "username": "Zombot" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Scooter was banned for cross-posting.",
+      "thread": null,
+      "users": [
+        { "uid": "361543", "username": "Scooter" }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lucid Thread: codst3r's tutorial on lucid dreaming using WILDs.",
+      "thread": "http://hackforums.net/showthread.php?tid=2188675",
+      "users": [
+        { "uid": "871571", "username": "codst3r" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The MammoTh received the YouTube award.",
+      "thread": null,
+      "users": [
+        { "uid": "572367", "username": "The MammoTh" }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "xerotic was promoted to leader of Techsperts; McFlurry was demoted from leader of Respawn.",
+      "thread": null,
+      "users": [
+        { "uid": "175033", "username": "xerotic" },
+        { "uid": "725160", "username": "McFlurry" }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        { "uid": "515249", "username": "Sir", "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics" },
+        { "uid": "891268", "username": "OnTheFly", "role": "Journalist (Headlines)" },
+        { "uid": "355307", "username": "Chocothunda", "role": "Journalist (World News)" },
+        { "uid": "656453", "username": "ReactioNz", "role": "Journalist (User News)" },
+        { "uid": "762646", "username": "Døn", "role": "Journalist (Tech News)" },
+        { "uid": "964299", "username": "Purple Haze.", "role": "Journalist (Music News)" },
+        { "uid": "735315", "username": "Michael Westen", "role": "Interviewer" },
+        { "uid": "515249", "username": "Sir", "role": "Interviewer / Graphical Editor" },
+        { "uid": "656453", "username": "ReactioNz", "role": "Reporter" }
+      ]
+    }
+  ],
+  "users": [
+    { "uid": "1", "username": "Omniscient" },
+    { "uid": "175033", "username": "xerotic" },
+    { "uid": "355307", "username": "Chocothunda" },
+    { "uid": "361543", "username": "Scooter" },
+    { "uid": "515249", "username": "Sir" },
+    { "uid": "535046", "username": "Emily" },
+    { "uid": "560013", "username": "Peroxide" },
+    { "uid": "572367", "username": "The MammoTh" },
+    { "uid": "588781", "username": "Hуѕтєяιa X™" },
+    { "uid": "656453", "username": "ReactioNz" },
+    { "uid": "725160", "username": "McFlurry" },
+    { "uid": "729921", "username": "тнє Jσкєя" },
+    { "uid": "735315", "username": "Michael Westen" },
+    { "uid": "762646", "username": "Døn" },
+    { "uid": "871571", "username": "codst3r" },
+    { "uid": "888979", "username": "Zombot" },
+    { "uid": "891268", "username": "OnTheFly" },
+    { "uid": "964299", "username": "Purple Haze." }
+  ]
+}

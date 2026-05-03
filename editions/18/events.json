@@ -1,0 +1,95 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "Prettykitty removed from Reviews for selling for selling group slots.",
+            "url": "http://hackforums.net/showthread.php?tid=718386",
+            "related_users": [
+                "Prettykitty",
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "20+ Reviewers removed; Skill assures reinstatement for legitimate members.",
+            "url": "http://hackforums.net/showthread.php?tid=718386&pid=6833148#pid6833148",
+            "related_users": [
+                "Skill"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "iBruteforce steps down as Administrator. Crow steps up.",
+            "url": "http://hackforums.net/showthread.php?tid=713257",
+            "related_users": [
+                "iBruteforce"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Crow is promoted to Administrator. ",
+            "url": "http://hackforums.net/showthread.php?tid=713257",
+            "related_users": [
+                "Crow"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Added YouTube award.",
+            "url": "http://hackforums.net/showthread.php?tid=719856",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Added Fish Err Man award.",
+            "url": "http://hackforums.net/showthread.php?tid=719856",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Omniscient SWATted at home; asks communityfor any information.",
+            "url": "http://hackforums.net/showthread.php?tid=722403",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "The Elite"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "The Elite",
+            "uid": 136025
+        },
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Skill",
+            "uid": null
+        },
+        {
+            "username": "iBruteforce",
+            "uid": 33279
+        },
+        {
+            "username": "Crow",
+            "uid": null
+        },
+        {
+            "username": "Prettykitty",
+            "uid": null
+        }
+    ]
+}

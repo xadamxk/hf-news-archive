@@ -1,0 +1,416 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient created a new 'Non-Free Accounts' marketplace forum permitting sales of paid/subscription accounts including Minecraft after almost two years of disallowance, with sales restricted to per-account pricing and Ub3r-only thread creation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4063140",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The mobile forums were reorganized into a unified 'Smartphone, Mobiles, Apps, and SDK' section with Android and iOS subforums, following a suggestion thread by xadamxk from October.",
+      "thread": "http://hackforums.net/showthread.php?tid=3793542",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'Advanced Hacking' section under the Hacking tab encompassing Botnets/IRC Bots, Cryptography, Pentesting and Forensics, and Decompiling/Reverse Engineering subforums.",
+      "thread": "http://hackforums.net/showthread.php?tid=4063140",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "GeWo, Cloudy, and Elegant reached 10,000 posts; Evangelist hit 1,000 reputation; Automatic Coding received a reputation reset.",
+      "thread": "http://hackforums.net/showthread.php?tid=4055101",
+      "users": [
+        {
+          "uid": "1229273",
+          "username": "GeWo"
+        },
+        {
+          "uid": "734329",
+          "username": "Cloudy"
+        },
+        {
+          "uid": "1134879",
+          "username": "Elegant"
+        },
+        {
+          "uid": "1374951",
+          "username": "Evangelist"
+        },
+        {
+          "uid": "83317",
+          "username": "Automatic Coding"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "halalaboᴏs was banned for harassment; ๖ۣۜNoShame was banned with reason 'Unacceptable'; Understalker was banned for a marketplace violation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4055101",
+      "users": [
+        {
+          "uid": "1105899",
+          "username": "halalaboᴏs"
+        },
+        {
+          "uid": "1508010",
+          "username": "๖ۣۜNoShame"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "'Snorlax was named January 2014's Member of the Month; Perfect received Asskisser; Skitlz received Award Whore; iNviZ received the Diamond; Eeluminati received GFX Guru; mad received the Sticky Man award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4056519",
+      "users": [
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "1327432",
+          "username": "Perfect"
+        },
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "1987673",
+          "username": "Eeluminati"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: mad's '[Tutorial] BTC-E & BitcoinWisdom Explained & Tips On How To Trade And Make Profit'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4056519",
+      "users": [
+        {
+          "uid": "482888",
+          "username": "mad"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: ChRoNiC™'s 'Why it's perfectly rational to be racist, and the illusion of human equality/rules'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4056223",
+      "users": [
+        {
+          "uid": "485087",
+          "username": "ChRoNiC™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Yellows's 'Misconceptions and Mormons'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3945695",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Anima Libera conducted by Clique; covers the origin of his name from a nightcore song, his time in the old Rhythm group, his Xbox Live introduction to HF, and Writ3rs membership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Spyro The Dragon conducted by Saturday; covers his Hackercraft farming, his GCSE exams in Birmingham England, his old Jason1337Bourne username, and his desire to join Instinct.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1743726",
+          "username": "Spyro The Dragon"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with ShadowCloud conducted by Clark; covers his July 2012 MOTM win, his Infamous group SQLi tutorial, his C# development career, and his hacking of the police on national television in Africa.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "272608",
+          "username": "ShadowCloud"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "Xerucide",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "83317",
+      "username": "Automatic Coding"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "272608",
+      "username": "ShadowCloud"
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "485087",
+      "username": "ChRoNiC™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "734329",
+      "username": "Cloudy"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "891000",
+      "username": "Xerucide"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1105899",
+      "username": "halalaboᴏs"
+    },
+    {
+      "uid": "1134879",
+      "username": "Elegant"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1229273",
+      "username": "GeWo"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1327432",
+      "username": "Perfect"
+    },
+    {
+      "uid": "1374951",
+      "username": "Evangelist"
+    },
+    {
+      "uid": "1508010",
+      "username": "๖ۣۜNoShame"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1743726",
+      "username": "Spyro The Dragon"
+    },
+    {
+      "uid": "1839274",
+      "username": "Skitlz"
+    },
+    {
+      "uid": "1987673",
+      "username": "Eeluminati"
+    }
+  ]
+}

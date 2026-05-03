@@ -1,0 +1,342 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient launched HackerCraft, a Minecraft Faction server tied to HF, in open beta with a dedicated subforum and award; entry was free with paid donations and factions.",
+      "thread": "http://hackforums.net/showthread.php?tid=2631046",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Tibit fully paid off The Empire, with Omniscient confirming the $0 balance via Twitter; with new official custom groups no longer being created, this milestone secures the group's place permanently.",
+      "thread": "http://hackforums.net/showthread.php?tid=2925581",
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "T3h Hack3r created the HJT Training Program applications thread as the long-anticipated training course nears launch.",
+      "thread": "http://hackforums.net/showthread.php?tid=2925581",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient implemented a new Hackercraft award; only Third has received it so far for creating the HackerCraft logo.",
+      "thread": "http://hackforums.net/showthread.php?tid=2914416",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1371671",
+          "username": "Third"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Fresh Prince, BELLAGIO, and iDuL reached 1,000 reputation points.",
+      "thread": "http://hackforums.net/showthread.php?tid=2914416",
+      "users": [
+        {
+          "uid": "1043300",
+          "username": "Fresh Prince"
+        },
+        {
+          "uid": "1007343",
+          "username": "BELLAGIO"
+        },
+        {
+          "uid": "187420",
+          "username": "iDuL"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chris resigned from Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "656453",
+          "username": "Chris"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Plutonium was repfucked and banned for reputation abuse; Gabber was repfucked and banned for scamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "127956",
+          "username": "Plutonium"
+        },
+        {
+          "uid": "245853",
+          "username": "Gabber"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Brandenx781 was banned for cross posting in the HJT section; Shekhar was banned for leaking.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "847499",
+          "username": "Brandenx781"
+        },
+        {
+          "uid": "559058",
+          "username": "Shekhar"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Minnesota Nice received the 24k award; Third received the Hackercraft award; Designer and Third received the Graphics Guru award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2914416",
+      "users": [
+        {
+          "uid": "93419",
+          "username": "Minnesota Nice"
+        },
+        {
+          "uid": "1371671",
+          "username": "Third"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'Mitt Romney Leads Us Into An Age Of Stupidity'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2931847",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: The Merovingian's 'Julian Assange running for senator'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2931468",
+      "users": [
+        {
+          "uid": "1011487",
+          "username": "The Merovingian"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: malichi's 'Fact-checking the U.S. vice presidential debate'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2936996",
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Ethereal conducted by Phytrix; covers his C# programming, leadership in The Alliance and Wiki Team (Head Mentor / Head Publisher), past warnings, and views on warning system reforms.",
+      "thread": "http://hackforums.net/showthread.php?tid=2936996",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "458069",
+          "username": "Ethereal"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with -Analog- conducted by +Entity; covers his graphics work and Glassy's PC building sticky he co-wrote, his time in The Alliance and Reviewers, and his name change from Raptured.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Tech News"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Journalist (Headlines) / Interviewer / Proofreader"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "93419",
+      "username": "Minnesota Nice"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "127956",
+      "username": "Plutonium"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "187420",
+      "username": "iDuL"
+    },
+    {
+      "uid": "245853",
+      "username": "Gabber"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "458069",
+      "username": "Ethereal"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "559058",
+      "username": "Shekhar"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "656453",
+      "username": "Chris"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "847499",
+      "username": "Brandenx781"
+    },
+    {
+      "uid": "1007343",
+      "username": "BELLAGIO"
+    },
+    {
+      "uid": "1011487",
+      "username": "The Merovingian"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1043300",
+      "username": "Fresh Prince"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1371671",
+      "username": "Third"
+    }
+  ]
+}

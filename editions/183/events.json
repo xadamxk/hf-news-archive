@@ -1,0 +1,493 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient introduced the new HackerCraft Purple award, removing the chance to obtain the old green award; the new award costs 100,000 EM.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new Hearthstone: Heroes of Warcraft section under the Battle.net forum following members' interest in the new Blizzard card game.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Crypto and his team took over development of Omnicoin, with a planned relaunch making the existing blockchain obsolete; Omniscient stated Omnicoin will eventually be integrated into the forum.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1088934",
+          "username": "Crypto™"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added Microsoft XBOX product sales to the Disallowed BlackHat Activity rules, banning sales of Xbox One consoles, games, Xbox Live points, and MS Points due to heavy fraud, with the announcement threads immediately closed.",
+      "thread": "http://hackforums.net/showthread.php?tid=4075296",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "- Sam - reached 2,000 reputation; 630 reached 24,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=4075307",
+      "users": [
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Number was repfucked and banned for carding; Rasbora was repfucked and banned for using PayPal holders; velox was repfucked and banned for abusing username changes; Natas was banned for carding activity; Stev was repfucked.",
+      "thread": "http://hackforums.net/showthread.php?tid=4071653",
+      "users": [
+        {
+          "uid": "826701",
+          "username": "Number"
+        },
+        {
+          "uid": "1656280",
+          "username": "Rasbora"
+        },
+        {
+          "uid": "1355231",
+          "username": "velox"
+        },
+        {
+          "uid": "1201566",
+          "username": "Natas"
+        },
+        {
+          "uid": "1137768",
+          "username": "Stev"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Acad3m1cM1n3r had their account closed; Fhoto had their account closed for threatening members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1154988",
+          "username": "Acad3m1cM1n3r"
+        },
+        {
+          "uid": "1596117",
+          "username": "Fhoto."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chief received Drunk; 630 received 24k Posts; Understalker received Award Whore; sNize, Cyber CEO, Shockwave™ donated for Master Donator (Shockwave also got Rat Expert); kray received Pizza; Тeen received Master Donator, Pizza, White Hat Helper, and possibly the last Liberty Reserve Head.",
+      "thread": "http://hackforums.net/showthread.php?tid=4071653",
+      "users": [
+        {
+          "uid": "1536004",
+          "username": "Chief"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        },
+        {
+          "uid": "338088",
+          "username": "sNize"
+        },
+        {
+          "uid": "1287489",
+          "username": "Cyber CEO"
+        },
+        {
+          "uid": "741482",
+          "username": "Shockwave™"
+        },
+        {
+          "uid": "1125749",
+          "username": "kray"
+        },
+        {
+          "uid": "1822561",
+          "username": "Тeen"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Acroz became a leader of Legion; Tibit became a leader of Complexity; +Pirate and I Am JT are no longer leaders of Innovation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4073009",
+      "users": [
+        {
+          "uid": "1417555",
+          "username": "Acroz"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        },
+        {
+          "uid": "860481",
+          "username": "I Am JT"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Nick_'s 'FLAPPY HF BIRD MEGATHREAD'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4073009",
+      "users": [
+        {
+          "uid": "1199998",
+          "username": "Nick_"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Eeluminati's '|| ULTIMATE Dota 2 Thread || Beginners guide to the world of Dota 2!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4063226",
+      "users": [
+        {
+          "uid": "1987673",
+          "username": "Eeluminati"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Robust's 'Ultimate Full HackerCraft Guide - All you need to know'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3948517",
+      "users": [
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Saturday conducted by Saturday; a self-interview after the original subjects didn't respond, covering his finding HF via gamertag sales, Writ3rs work, and his Lights fandom blog (lightsarmy.org).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Chief conducted by Clique; covers his White Hat Help section activity, his IT studies, and his dream of becoming an astronaut before settling on software engineering.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1536004",
+          "username": "Chief"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Dragnite conducted by Clark; covers his chef training in Australia, his finding HF via Minecraft hacks, and his school hacking incident that led to job offers from an IT company and Vodaphone.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "867295",
+          "username": "Dragnite"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "Xerucide",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "338088",
+      "username": "sNize"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "741482",
+      "username": "Shockwave™"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "826701",
+      "username": "Number"
+    },
+    {
+      "uid": "860481",
+      "username": "I Am JT"
+    },
+    {
+      "uid": "867295",
+      "username": "Dragnite"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "891000",
+      "username": "Xerucide"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1125749",
+      "username": "kray"
+    },
+    {
+      "uid": "1137768",
+      "username": "Stev"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1154988",
+      "username": "Acad3m1cM1n3r"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1199998",
+      "username": "Nick_"
+    },
+    {
+      "uid": "1201566",
+      "username": "Natas"
+    },
+    {
+      "uid": "1205532",
+      "username": "Robust"
+    },
+    {
+      "uid": "1287489",
+      "username": "Cyber CEO"
+    },
+    {
+      "uid": "1355231",
+      "username": "velox"
+    },
+    {
+      "uid": "1417555",
+      "username": "Acroz"
+    },
+    {
+      "uid": "1536004",
+      "username": "Chief"
+    },
+    {
+      "uid": "1596117",
+      "username": "Fhoto."
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1656280",
+      "username": "Rasbora"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1822561",
+      "username": "Тeen"
+    },
+    {
+      "uid": "1987673",
+      "username": "Eeluminati"
+    }
+  ]
+}

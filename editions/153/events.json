@@ -1,0 +1,453 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Hack Forums was migrated to a new server with avatars temporarily disabled; Omniscient claims DDoS attacks should be virtually impossible from this point on.",
+      "thread": "http://hackforums.net/showthread.php?tid=3632915",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced HackForums.net email forwards have been re-enabled for Ub3r members via a third-party mail server; previous emails were lost.",
+      "thread": "http://hackforums.net/showthread.php?tid=3632915",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient started a thread asking HackForums members why they are addicted to the site, which received significant attention.",
+      "thread": "http://hackforums.net/showthread.php?tid=3632915",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "The HF News team announced significant changes and opened recruitment for the Writ3rs via the W4TCHL1ST.",
+      "thread": "http://hackforums.net/showthread.php?tid=3658776",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Lads, Tiszy, and Delicious hit 1,000 reputation; Mr Kewl was demoted back to Mentor; Kn1ght was promoted to Staff.",
+      "thread": "http://hackforums.net/showthread.php?tid=3318994",
+      "users": [
+        {
+          "uid": "1008927",
+          "username": "Lads"
+        },
+        {
+          "uid": "931798",
+          "username": "Tiszy"
+        },
+        {
+          "uid": "275104",
+          "username": "Delicious"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "11960",
+          "username": "Kn1ght"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "George Zimmerman. was repfucked for reputation abuse; Justice™ was repfucked and banned for selling their account; Frost Byte was banned for selling his account; Tᴇɴᴀxɪᴜᴍ was repfucked, banned, and then unbanned; Unacknowledged was repfucked and banned; Shαdow and TiME FLiES were repfucked and had their accounts closed; NetScope was banned as a precaution after their account was compromised.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1539739",
+          "username": "George Zimmerman."
+        },
+        {
+          "uid": "1702377",
+          "username": "Justice™"
+        },
+        {
+          "uid": "1249103",
+          "username": "Frost Byte"
+        },
+        {
+          "uid": "1759389",
+          "username": "Tᴇɴᴀxɪᴜᴍ"
+        },
+        {
+          "uid": "1341359",
+          "username": "Unacknowledged"
+        },
+        {
+          "uid": "1848922",
+          "username": "Shαdow"
+        },
+        {
+          "uid": "496906",
+          "username": "TiME FLiES"
+        },
+        {
+          "uid": "667703",
+          "username": "NetScope"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The-Ex, Genuine, Retribute, Paranоrmal, and Feynman took vacation bans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "47360",
+          "username": "The-Ex"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute"
+        },
+        {
+          "uid": "1382766",
+          "username": "Paranоrmal"
+        },
+        {
+          "uid": "1371476",
+          "username": "Feynman"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "FroStorm and Tᴇɴᴀxɪᴜᴍ purchased awards (Brony and Master Donator); Canc℮r received the Black Hatter award; Icosahedron received the Sushi Lover award; Connected received the Spy award; Huskers received the Cat Lover award; Razmus received the Pizza award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3640362",
+      "users": [
+        {
+          "uid": "1121674",
+          "username": "FroStorm"
+        },
+        {
+          "uid": "1759389",
+          "username": "Tᴇɴᴀxɪᴜᴍ"
+        },
+        {
+          "uid": "1797738",
+          "username": "Canc℮r"
+        },
+        {
+          "uid": "880484",
+          "username": "Icosahedron"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1777686",
+          "username": "Huskers"
+        },
+        {
+          "uid": "1085827",
+          "username": "Razmus"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Graphic Tutorial: mjaj13's 'Vector Tracing and Coloring Tutorial'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3640362",
+      "users": [
+        {
+          "uid": "1632487",
+          "username": "mjaj13"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Tando's 'Who Would You Want To Meet At An HF IRL Gathering?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3646632",
+      "users": [
+        {
+          "uid": "1113153",
+          "username": "Tando"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Umbrein conducted by D3xus; covers his many friendships across HF, his time leading The Alliance and Black Knights, his relationship with the people who helped him through difficult periods, and his view that Infamous is the second coming of Black Knights.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        },
+        {
+          "uid": "133256",
+          "username": "Umbrein"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Tibit conducted by Connected; covers his decision to leave HF after a one-month vacation, transferring The Empire to xadamxk on August 1st, and his $14,500-15,000 in donations to Omniscient over the years.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Umbrein replaced Retribute as Proofreader.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News) / Journalist (Tech News)"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "133256",
+          "username": "Umbrein",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "11960",
+      "username": "Kn1ght"
+    },
+    {
+      "uid": "47360",
+      "username": "The-Ex"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "133256",
+      "username": "Umbrein"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "496906",
+      "username": "TiME FLiES"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "667703",
+      "username": "NetScope"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "880484",
+      "username": "Icosahedron"
+    },
+    {
+      "uid": "931798",
+      "username": "Tiszy"
+    },
+    {
+      "uid": "1008927",
+      "username": "Lads"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1085827",
+      "username": "Razmus"
+    },
+    {
+      "uid": "1113153",
+      "username": "Tando"
+    },
+    {
+      "uid": "1121674",
+      "username": "FroStorm"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1249103",
+      "username": "Frost Byte"
+    },
+    {
+      "uid": "1341359",
+      "username": "Unacknowledged"
+    },
+    {
+      "uid": "1371476",
+      "username": "Feynman"
+    },
+    {
+      "uid": "1382766",
+      "username": "Paranоrmal"
+    },
+    {
+      "uid": "1539739",
+      "username": "George Zimmerman."
+    },
+    {
+      "uid": "1632487",
+      "username": "mjaj13"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1702377",
+      "username": "Justice™"
+    },
+    {
+      "uid": "1759389",
+      "username": "Tᴇɴᴀxɪᴜᴍ"
+    },
+    {
+      "uid": "1777686",
+      "username": "Huskers"
+    },
+    {
+      "uid": "1797738",
+      "username": "Canc℮r"
+    },
+    {
+      "uid": "1848922",
+      "username": "Shαdow"
+    }
+  ]
+}

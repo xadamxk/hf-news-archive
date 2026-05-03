@@ -1,0 +1,387 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient celebrated his 42nd birthday and is slowly recovering from his hand injury, now able to type with both hands at a mediocre level.",
+      "thread": "http://hackforums.net/showthread.php?tid=2772843",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Eminence began recruiting new members under new leadership with a $35 entry fee.",
+      "thread": "http://hackforums.net/showthread.php?tid=2772843",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Hack Forums was down for 9 hours due to firewall triggers spontaneously blocking everyone, raising fears among Indian members that India was added to the country block list; Omniscient also upgraded the site's Cloudflare service to business.",
+      "thread": "http://hackforums.net/showthread.php?tid=2767202",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iNviZ reached 1,000 reputation points.",
+      "thread": "http://hackforums.net/showthread.php?tid=2767202",
+      "users": [
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "phybeя was briefly demoted to L33t and then promoted back to Ub3r.",
+      "thread": "http://hackforums.net/showthread.php?tid=2767202",
+      "users": [
+        {
+          "uid": "195796",
+          "username": "phybeя"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Wolves was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "651051",
+          "username": "Wolves"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "King Barny reached 10,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "687297",
+          "username": "King Barny"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Omega™ was banned for donation reversal; 'Snorlax was banned for reporting an administrator's post; Justin Bieber was banned for trying to sell his account; Xenochrist was banned for flaming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "661260",
+          "username": "Omega™"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "534712",
+          "username": "Justin Bieber"
+        },
+        {
+          "uid": "119173",
+          "username": "Xenochrist"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "eXero was temporarily banned in a Lounge crackdown.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "113785",
+          "username": "eXero"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kray received Gavel of Dredd; Makaveli The Don received Jokester; Tibit received Master Donator and Rat Expert; iNviZ received Gavel of Dredd.",
+      "thread": "http://hackforums.net/showthread.php?tid=2767202",
+      "users": [
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "509788",
+          "username": "Makaveli The Don"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Call-Me-V became a leader of Logic; Formula1 became a leader of Eminence; bugga was temporarily removed as a leader of Illuminati amid drama that has since been amended.",
+      "thread": "http://hackforums.net/showthread.php?tid=2783983",
+      "users": [
+        {
+          "uid": "1054954",
+          "username": "Call-Me-V"
+        },
+        {
+          "uid": "1033713",
+          "username": "Formula1"
+        },
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'Sexist?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2783983",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Backspacez's 'Best Country in The World?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2776872",
+      "users": [
+        {
+          "uid": "761329",
+          "username": "Backspacez"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Apathy's 'Post a Fact About Evolution.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2777876",
+      "users": [
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Maroon 5's 'When should parents hit their kids?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2775319",
+      "users": [
+        {
+          "uid": "1421660",
+          "username": "Maroon 5"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Pali conducted by Phytrix; covers his marketplace marketing experience, group memberships, government and revenge views, and ideas for stat hiding and the vouch system.",
+      "thread": "http://hackforums.net/showthread.php?tid=2775319",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "879431",
+          "username": "Pali"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Jinu conducted by Phytrix; covers his Red Lions group memberships, contributions to Free Services & Giveaways, RAT setup interest, and views on social networking.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "463848",
+          "username": "Jinu"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Webshow"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Journalist (World News) / Interviewer / Proofreader"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "113785",
+      "username": "eXero"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "119173",
+      "username": "Xenochrist"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "195796",
+      "username": "phybeя"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "463848",
+      "username": "Jinu"
+    },
+    {
+      "uid": "509788",
+      "username": "Makaveli The Don"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "534712",
+      "username": "Justin Bieber"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "661260",
+      "username": "Omega™"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "687297",
+      "username": "King Barny"
+    },
+    {
+      "uid": "761329",
+      "username": "Backspacez"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1033713",
+      "username": "Formula1"
+    },
+    {
+      "uid": "1054954",
+      "username": "Call-Me-V"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1421660",
+      "username": "Maroon 5"
+    }
+  ]
+}

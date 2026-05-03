@@ -1,0 +1,430 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "An old game has Hack Forums staff including Judge Dredd, xerotic, and TsGh Mike addicted.",
+      "thread": "http://hackforums.net/showthread.php?tid=1493812",
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        },
+        {
+          "uid": "81119",
+          "username": "TsGh Mike"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Staff Member AsSaSs@iN requested a vacation ban; due to return 08-08-11.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "70909",
+          "username": "AsSaSs@iN"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Former Staff member Saged changed his alias to Rety'un.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "47360",
+          "username": "Saged"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "New group Eminence appeared, led by WiFi. and Positive; recruiting.",
+      "thread": "http://hackforums.net/showthread.php?tid=1489553",
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Baked is the new leader of The RATs Crew after S70N3R stepped down.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "37251",
+          "username": "Baked"
+        },
+        {
+          "uid": "132817",
+          "username": "S70N3R"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hуѕтєяιa X™, leader of Black Knights and Red Lions, requested a ban.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Black Knights group changed their userbar.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "The Informers group was permanently dismantled after former leader Atthackers was unable to complete payment.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "616850",
+          "username": "Atthackers"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Astonish is NJ and his new group posted The Ultimate Guide to Keyloggers.",
+      "thread": "http://hackforums.net/showthread.php?tid=1501522",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "sol@ris created a dedicated hacker ranking and dueling system.",
+      "thread": "http://hackforums.net/showthread.php?tid=1501310",
+      "users": [
+        {
+          "uid": "126741",
+          "username": "sol@ris"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iceybunneh wrote a detailed guide on keeping a long distance relationship alive.",
+      "thread": "http://hackforums.net/showthread.php?tid=1476029",
+      "users": [
+        {
+          "uid": "620004",
+          "username": "iceybunneh"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga is holding another round of her member upgrade contest with one winner.",
+      "thread": "http://hackforums.net/showthread.php?tid=1498902",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cyber-Security wrote a detailed guide on batch scripting.",
+      "thread": "http://hackforums.net/showthread.php?tid=1472638",
+      "users": [
+        {
+          "uid": "675453",
+          "username": "Cyber-Security"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Delicious created the ultimate guide to staying secure on the internet.",
+      "thread": "http://hackforums.net/showthread.php?tid=1497173",
+      "users": [
+        {
+          "uid": "275104",
+          "username": "Delicious"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Woe Is Me has been limited.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "126524",
+          "username": "Woe Is Me"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Crayo has been repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "344143",
+          "username": "Crayo"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Rusty_v conducted by Astonish is NJ.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "username": "Rusty_v"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with SeaNanners™ conducted by Seductive(TM).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "509788",
+          "username": "Seductive(TM)"
+        },
+        {
+          "username": "SeaNanners™"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz",
+          "role": "Publisher & Head Writer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Publisher's Assistant"
+        },
+        {
+          "uid": "277712",
+          "username": "Cobalt",
+          "role": "Writer (Headlines, Other News)"
+        },
+        {
+          "uid": "545127",
+          "username": "Joey Tribbiani",
+          "role": "Writer (User News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Head Reporter"
+        },
+        {
+          "uid": "129444",
+          "username": "3x0r_$c0rPi0n",
+          "role": "Reporter"
+        },
+        {
+          "uid": "355307",
+          "username": "chocothunda",
+          "role": "Reporter"
+        },
+        {
+          "uid": "126243",
+          "username": "Decoy",
+          "role": "Reporter"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-",
+          "role": "Reporter"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "509788",
+          "username": "Seductive(TM)",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum",
+          "role": "Editor"
+        },
+        {
+          "uid": "234024",
+          "username": "Deities",
+          "role": "Editor"
+        },
+        {
+          "uid": "566671",
+          "username": "panDa.",
+          "role": "Graphic Designer"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "37251",
+      "username": "Baked"
+    },
+    {
+      "uid": "47360",
+      "username": "Saged"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "70909",
+      "username": "AsSaSs@iN"
+    },
+    {
+      "uid": "81119",
+      "username": "TsGh Mike"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "126243",
+      "username": "Decoy"
+    },
+    {
+      "uid": "126524",
+      "username": "Woe Is Me"
+    },
+    {
+      "uid": "126741",
+      "username": "sol@ris"
+    },
+    {
+      "uid": "129444",
+      "username": "3x0r_$c0rPi0n"
+    },
+    {
+      "uid": "132817",
+      "username": "S70N3R"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt"
+    },
+    {
+      "uid": "293484",
+      "username": "A N K E S H"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "344143",
+      "username": "Crayo"
+    },
+    {
+      "uid": "355307",
+      "username": "chocothunda"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "509788",
+      "username": "Seductive(TM)"
+    },
+    {
+      "uid": "545127",
+      "username": "Joey Tribbiani"
+    },
+    {
+      "uid": "566671",
+      "username": "panDa."
+    },
+    {
+      "uid": "588781",
+      "username": "Hуѕтєяιa X™"
+    },
+    {
+      "uid": "616850",
+      "username": "Atthackers"
+    },
+    {
+      "uid": "620004",
+      "username": "iceybunneh"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "675453",
+      "username": "Cyber-Security"
+    }
+  ]
+}

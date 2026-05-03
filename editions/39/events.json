@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Multiple DB rollbacks due to corruption; smiley set changes; upgrade IP/billing mismatches discussed.",
+            "url": "http://hackforums.net/showthread.php?tid=1112579",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "/A/ (Ace) account hijacked twice; warns users.",
+            "url": "http://hackforums.net/showthread.php?tid=1122725",
+            "related_users": [
+                "/A/ (Ace)"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Hanzo clarifies when to PM regarding rep abuse.",
+            "url": "http://hackforums.net/showthread.php?tid=1120960",
+            "related_users": [
+                "Hanzo"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Paramore posts scam report against Tate over ebook; disputed.",
+            "url": "http://hackforums.net/showthread.php?tid=1123143",
+            "related_users": [
+                "Paramore",
+                "Tate"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "Rats Crew leadership change: Qwazz replaces xerotic; Zeus co-leads.",
+            "url": "http://hackforums.net/showthread.php?tid=1104158",
+            "related_users": [
+                "Qwazz",
+                "Zεus",
+                "xerotic"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Zeon repfucked for flaming in rep comments.",
+            "url": "http://hackforums.net/showthread.php?tid=1123637",
+            "related_users": [
+                "Zeon"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Hanzo",
+            "uid": 4066
+        },
+        {
+            "username": "Qwazz",
+            "uid": 295848
+        },
+        {
+            "username": "Zεus",
+            "uid": 384998
+        }
+    ]
+}
+

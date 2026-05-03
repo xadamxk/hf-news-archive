@@ -1,0 +1,105 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "UserCP now shows IP login log for recent account access.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Lounge rule 8 added: No misleading titles or adult-content insinuation.",
+            "url": "http://hackforums.net/showthread.php?tid=1403747",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Admin notice to would-be attackers of HF properties.",
+            "url": "http://hackforums.net/showthread.php?tid=1400120",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Brief downtime on June 17 resolved.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Word filter added for 'Lulz-sec'.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "users",
+            "title": "xerotic returns from vacation.",
+            "url": "",
+            "related_users": [
+                "xerotic"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "New official groups created: Reverence (Astonish is NJ) and The Informers (Atthackers).",
+            "url": "",
+            "related_users": [
+                "Astonish is NJ",
+                "Atthackers"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Hot-thread threshold set to 100 replies or 1000 views.",
+            "url": "",
+            "related_users": [
+                "Cobalt+"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "RATs Crew leadership change: Qwazz steps down; KillαMuvz promoted; recruiting open.",
+            "url": "http://hackforums.net/showthread.php?tid=1406024",
+            "related_users": [
+                "Qwazz",
+                "KillαMuvz"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "RATs subsection description updated.",
+            "url": "",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "xerotic",
+            "uid": 175033
+        },
+        {
+            "username": "Astonish is NJ",
+            "uid": 657392
+        },
+        {
+            "username": "Atthackers",
+            "uid": 616850
+        },
+        {
+            "username": "Qwazz",
+            "uid": 295848
+        }
+    ]
+}
+

@@ -1,0 +1,442 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The Human Manipulation and Social Engineering sub-forum was closed due to its persistent abuse for call-ins and PIDs.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added an Elder Scrolls sub-forum under Computer and Online Gaming after numerous member suggestions.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient tweeted a happy birthday to DaL33t, then warned that anyone else who asks for a birthday tweet will be repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "303649",
+          "username": "DaL33t"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "More theme changes were rolled out: postbit buttons and tabs were replaced with newer professional designs.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient picked xerotic's graphic for the HF Thanksgiving logo from a member submission contest.",
+      "thread": "http://hackforums.net/showthread.php?tid=1944039",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Minnesota Nice reached the 1,000 reputation milestone.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "93419",
+          "username": "Minnesota Nice"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "dolphinman (ChromeWolf) was repfucked after all of his donations to Hack Forums were charged back.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827003",
+          "username": "dolphinman"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Storm Watch was repfucked for calling Deceive a scammer over TinyChat.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "415606",
+          "username": "Storm Watch"
+        },
+        {
+          "username": "Deceive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "WiFi., leader of Eminence, changed his username to MrWiiwifi1.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Staff member The Rated R Superstar changed his username to Grееd.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "30595",
+          "username": "The Rated R Superstar"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Grammar Rays was repfucked and banned until 12-23-11 with the reason 'Easy Decision.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Reported was repfucked twice in two days and moved to the dead group; he then made a new account, which led to his original account being banned with end date 'Never.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Etheryte received the GFX Guru award; Jellyrolls received the Silver Medal; John* received Dabomb; 90k received Dog Lover; Ƨhadow received Gamer; xerotic received The Protector.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "32695",
+          "username": "Etheryte"
+        },
+        {
+          "uid": "809615",
+          "username": "Jellyrolls"
+        },
+        {
+          "uid": "717382",
+          "username": "John*"
+        },
+        {
+          "uid": "955612",
+          "username": "90k"
+        },
+        {
+          "uid": "961270",
+          "username": "Ƨhadow"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "RRain was repfucked, had his award taken away, and his thread un-stickied after Ignite reported the entire thread was leeched.",
+      "thread": "http://hackforums.net/showthread.php?tid=1835125",
+      "users": [
+        {
+          "uid": "89554",
+          "username": "RRain"
+        },
+        {
+          "username": "Ignite.",
+          "uid": "946680"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "WiFi. (formerly alabama) was promoted to leader of Eminence.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "622763",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Reported was briefly promoted to Reverence leader and demoted a day later before being banned. Diabolic was demoted from Reverence leader but may return.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Tutorial Thread: Guess Who Is Back's 'The Ultimate Guide: Proxies & VPNs.'",
+      "thread": "http://hackforums.net/showthread.php?tid=1920299",
+      "users": [
+        {
+          "uid": "817877",
+          "username": "Guess Who Is Back"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Contest Thread: ASM's iCrypt access giveaway, two winners per week.",
+      "thread": "http://hackforums.net/showthread.php?tid=1765331",
+      "users": [
+        {
+          "uid": "744040",
+          "username": "ASM"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Video Thread: iKraZee's HLG Modern Warfare 3 video series, episodes 1 & 2.",
+      "thread": "http://hackforums.net/showthread.php?tid=1950718",
+      "users": [
+        {
+          "uid": "620668",
+          "username": "iKraZee"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: Arsenal FC's compilation thread tracking all Battlefield 3 players on Hack Forums.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "780686",
+          "username": "Arsenal FC"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Peter Chao conducted by Michael Westen; covers his joining HF, becoming staff, HJT membership, and reading interests.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        },
+        {
+          "uid": "129812",
+          "username": "Peter Chao"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "username": "Diabolic",
+          "role": "Journalist (Headlines)",
+          "uid": "330676"
+        },
+        {
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)",
+          "uid": "570186"
+        },
+        {
+          "username": "Michael Westen",
+          "role": "Interviewer",
+          "uid": "735315"
+        },
+        {
+          "username": "Daniel Faraday",
+          "role": "Interviewer",
+          "uid": "366559"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "username": "Tasemu",
+          "role": "Graphical Editor",
+          "uid": "62795"
+        },
+        {
+          "username": "Ignite.",
+          "role": "Reporter",
+          "uid": "946680"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "30595",
+      "username": "The Rated R Superstar"
+    },
+    {
+      "uid": "32695",
+      "username": "Etheryte"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "89554",
+      "username": "RRain"
+    },
+    {
+      "uid": "93419",
+      "username": "Minnesota Nice"
+    },
+    {
+      "uid": "129812",
+      "username": "Peter Chao"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "303649",
+      "username": "DaL33t"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "366559",
+      "username": "Daniel Faraday"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "415606",
+      "username": "Storm Watch"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "620668",
+      "username": "iKraZee"
+    },
+    {
+      "uid": "622763",
+      "username": "WiFi."
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "717382",
+      "username": "John*"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "744040",
+      "username": "ASM"
+    },
+    {
+      "uid": "780686",
+      "username": "Arsenal FC"
+    },
+    {
+      "uid": "809615",
+      "username": "Jellyrolls"
+    },
+    {
+      "uid": "817877",
+      "username": "Guess Who Is Back"
+    },
+    {
+      "uid": "827003",
+      "username": "dolphinman"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "955612",
+      "username": "90k"
+    },
+    {
+      "uid": "961270",
+      "username": "Ƨhadow"
+    }
+  ]
+}

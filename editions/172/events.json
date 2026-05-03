@@ -1,0 +1,394 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a 'Search Your Threads' (SYT) button to forum sections, allowing members to easily browse all their threads in a section regardless of age.",
+      "thread": "http://hackforums.net/showthread.php?tid=3907728",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added [btc] and [ltc] MyCodes allowing members to post BitCoin and LiteCoin payment links that launch wallet applications.",
+      "thread": "http://hackforums.net/showthread.php?tid=3912653",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient clarified that a Pastebin password list claiming to be a Hack Forums leak was fake; only the years-old user table dump (already remediated) was ever leaked.",
+      "thread": "http://hackforums.net/showthread.php?tid=3914584",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Orgy, Calibur, KyleWTF, and Assailant hit 1,000 reputation; Shotta and førgive both hit 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3910479",
+      "users": [
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "166074",
+          "username": "Calibur"
+        },
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        },
+        {
+          "uid": "741039",
+          "username": "Assailant"
+        },
+        {
+          "uid": "46213",
+          "username": "Shotta"
+        },
+        {
+          "uid": "280287",
+          "username": "førgive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Βusiness was banned for failing to fulfill contests; Flask was repfucked and banned with PayPal refunded; Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ was banned for harassing members; DayZ was banned for discussing fraud; giox3 and Carl Sagan were banned for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1705027",
+          "username": "Βusiness"
+        },
+        {
+          "uid": "1993302",
+          "username": "Flask"
+        },
+        {
+          "uid": "1046921",
+          "username": "Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ"
+        },
+        {
+          "uid": "1254330",
+          "username": "DayZ"
+        },
+        {
+          "uid": "1250615",
+          "username": "giox3"
+        },
+        {
+          "uid": "130245",
+          "username": "Carl Sagan"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "MarkMare received the Gamer award for HF Gaming News dedication; Orgy received the Jokester award; Emylbus won MOTM; Lewd received the Gamer award for his love of WoW; Omniscient removed his Militant and Great Thinker awards and gave himself the Drunk award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3910479",
+      "users": [
+        {
+          "uid": "138559",
+          "username": "MarkMare"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        },
+        {
+          "uid": "43337",
+          "username": "Lewd"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Sh1eld became a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3728681",
+      "users": [
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Nate conducted by Clique; covers his migration from TheTechGame, his WoW and Counter Strike obsessions, and his disappointment over The Alliance going up for sale.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1087815",
+          "username": "Nate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Tycoon (formerly H²O) conducted by Clark; covers his upcoming League of Legends product with bam422, his marketplace activity, the dying gamertag market, and his Civil Engineering studies.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1658604",
+          "username": "Tycoon"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Assailant conducted by Saturday; covers his move away from blackhat keylogging and ratting, his recent acceptances into Infamous, The Brotherhood, and Complexity, and his interest in 143.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "741039",
+          "username": "Assailant"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Cody (awhty) replaced Yellows as User News journalist; Unreputed replaced +Awesome as Graphical Editor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "43337",
+      "username": "Lewd"
+    },
+    {
+      "uid": "46213",
+      "username": "Shotta"
+    },
+    {
+      "uid": "130245",
+      "username": "Carl Sagan"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "166074",
+      "username": "Calibur"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "280287",
+      "username": "førgive"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "741039",
+      "username": "Assailant"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "923197",
+      "username": "KyleWTF"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1046921",
+      "username": "Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1087815",
+      "username": "Nate"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1250615",
+      "username": "giox3"
+    },
+    {
+      "uid": "1254330",
+      "username": "DayZ"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1658604",
+      "username": "Tycoon"
+    },
+    {
+      "uid": "1705027",
+      "username": "Βusiness"
+    },
+    {
+      "uid": "1993302",
+      "username": "Flask"
+    }
+  ]
+}

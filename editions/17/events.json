@@ -1,0 +1,71 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "EU users experienced image server outages.",
+            "url": "http://hackforums.net/showthread.php?tid=699249",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Hack Forums reached 6,000,000 posts.",
+            "url": "http://hackforums.net/showthread.php?tid=701893",
+            "related_users": []
+        },
+        {
+            "topic": "groups",
+            "title": "Reviewers applications reopened after a mass removal.",
+            "url": "http://hackforums.net/showthread.php?tid=703353",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "Avatar upload bug reported by multiple users.",
+            "url": "http://hackforums.net/showthread.php?tid=704999",
+            "related_users": []
+        },
+        {
+            "topic": "users",
+            "title": "EctoPlasm added as Reviewer, removed hours later for an improper thread.",
+            "url": "http://hackforums.net/showthread.php?tid=698476",
+            "related_users": [
+                "EctoPlasm",
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "interviews",
+            "title": "Interview with Xch4ng3.",
+            "url": "https://hackforums.net/showthread.php?tid=706863",
+            "related_users": [
+                "Xch4ng3"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "",
+            "url": "",
+            "related_users": [
+                "The Elite"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "The Elite",
+            "uid": 136025
+        },
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "EctoPlasm",
+            "uid": 416897
+        },
+        {
+            "username": "Xch4ng3",
+            "uid": 65784
+        }
+    ]
+}

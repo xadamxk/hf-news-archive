@@ -1,0 +1,366 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "While Omniscient was away at Lake Tahoe, HF was down for 8 hours on the 22nd, the day after the 5th anniversary.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link that leads to a phishing login page.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "TechSperts launched a new mentoring program with public classrooms; lessons are posted publicly afterward.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Riggs reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "402384",
+          "username": "Riggs"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SWAGSTER was repfucked for using an adult image as his avatar.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "510569",
+          "username": "SWAGSTER"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Marine was banned for fraudulent donations.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1260135",
+          "username": "Marine"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Netflix was banned for advertising a social engineering site.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1058203",
+          "username": "Netflix"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "HJT Thread: Valiant's 'Inactivity Purge + Restructuring' explaining the HJT team's situation.",
+      "thread": "http://hackforums.net/showthread.php?tid=2435877",
+      "users": [
+        {
+          "uid": "45246",
+          "username": "Valiant"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Admin Thread: Positive's 'Omniscient was at my house' story with photo proof of meeting the admin.",
+      "thread": "http://hackforums.net/showthread.php?tid=2438646",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Dog Thread: Grammar Hax1n's heartwarming 'Dog dog dog.. Bear Bear Bear' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2340905",
+      "users": [
+        {
+          "uid": "1067987",
+          "username": "Grammar Hax1n"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "RAT Thread: -๖ۣۜDivine-'s TechSperts Lesson One — All about RATs.",
+      "thread": "http://hackforums.net/showthread.php?tid=2429481",
+      "users": [
+        {
+          "uid": "1042274",
+          "username": "-๖ۣۜDivine-"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dan. and Subscription and Яǝʌǝɹsǝ received the YouTube award; Genuine received the Jokester award; Sir received the Speaker of the House award; BELLAGIO received the Businessman award; TheVortex received the Master Donator and The Alien awards.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        },
+        {
+          "uid": "1159829",
+          "username": "Subscription"
+        },
+        {
+          "uid": "274613",
+          "username": "Яǝʌǝɹsǝ"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        },
+        {
+          "uid": "1007343",
+          "username": "BELLAGIO"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Existence was promoted to leader of Blackshades.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "451192",
+          "username": "Existence"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Opulence conducted by Waleed; covers his joining HF for a Windows 7 key, favorite memorable moments, and views on disallowed blackhat activity.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Waleed",
+          "uid": "769614"
+        },
+        {
+          "uid": "264993",
+          "username": "Opulence"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Phismatic conducted by Michael Westen; covers his Ub3r upgrade, views on legalization, and Hack Forums history.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "uid": "871604",
+          "username": "Phismatic"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze.",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "username": "Waleed",
+          "role": "Interviewer",
+          "uid": "769614"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "45246",
+      "username": "Valiant"
+    },
+    {
+      "uid": "264993",
+      "username": "Opulence"
+    },
+    {
+      "uid": "274613",
+      "username": "Яǝʌǝɹsǝ"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "402384",
+      "username": "Riggs"
+    },
+    {
+      "uid": "451192",
+      "username": "Existence"
+    },
+    {
+      "uid": "510569",
+      "username": "SWAGSTER"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "769614",
+      "username": "Waleed"
+    },
+    {
+      "uid": "871604",
+      "username": "Phismatic"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "964299",
+      "username": "Purple Haze."
+    },
+    {
+      "uid": "1007343",
+      "username": "BELLAGIO"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1042274",
+      "username": "-๖ۣۜDivine-"
+    },
+    {
+      "uid": "1058203",
+      "username": "Netflix"
+    },
+    {
+      "uid": "1067987",
+      "username": "Grammar Hax1n"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1159829",
+      "username": "Subscription"
+    },
+    {
+      "uid": "1260135",
+      "username": "Marine"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient increased the in-post avatar display size from 70x70 to 100x100 pixels and recommended members upload higher-resolution avatars (custom uploads now allowed without Gravatar).",
+      "thread": "http://hackforums.net/showthread.php?tid=3868144",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient introduced an 'Extras' page accessible from the navigation bar to consolidate hard-to-find HF tools (Deal Dispute Database, Shell, etc.); the page hinted at a forthcoming 'Ep1c' usergroup.",
+      "thread": "http://hackforums.net/showthread.php?tid=3866496",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient launched a Bitcoin price tracker page (btcv.php) showing last price, bid/ask, and 24-hour low/high/volume data, available to upgraded member groups.",
+      "thread": "http://hackforums.net/showthread.php?tid=3865681",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient raised the minimum-posts-to-PM threshold to 25 to combat low-quality posting, and announced Israel will remain permanently blocked due to ban evaders and scammers.",
+      "thread": "http://hackforums.net/showthread.php?tid=3863817",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Grin reached 1,000 prestige; Goodies hit 10,000 posts; Stay Plural hit 1,000 reputation; Emylbus was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "789677",
+          "username": "Grin"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies"
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rees was repfucked and banned for multiple accounts; BlurredHF was repfucked and banned for vouching for Rees; FiOS was repfucked and banned after his account was stolen; Crumb was repfucked and banned for reporting an admin's post.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1996451",
+          "username": "Rees"
+        },
+        {
+          "uid": "1825653",
+          "username": "BlurredHF"
+        },
+        {
+          "uid": "1876476",
+          "username": "FiOS"
+        },
+        {
+          "uid": "1527120",
+          "username": "Crumb"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Starstruck was banned and demodded for moderation abuse in the Halo section; Cody8295 was banned with the reason 'Mathematical Formula To Get Banned'; TimGotSwag was banned for assisting a ban evader; Armani Exchange was banned after his account was stolen; Wazakindjes was banned for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "uid": "285755",
+          "username": "Cody8295"
+        },
+        {
+          "uid": "1903617",
+          "username": "TimGotSwag"
+        },
+        {
+          "uid": "1505990",
+          "username": "Armani Exchange"
+        },
+        {
+          "uid": "83269",
+          "username": "Wazakindjes"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "webdev77 received the Cool award; Parazyd donated for Master Donator; Tonka received the Diamond award for being a 'super old fag'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "947940",
+          "username": "webdev77"
+        },
+        {
+          "uid": "103609",
+          "username": "Parazyd"
+        },
+        {
+          "uid": "1730",
+          "username": "Tonka"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Хypher stepped down as leader of Skill; xflat became a new leader of The Brotherhood while Abel stepped down.",
+      "thread": "http://hackforums.net/showthread.php?tid=3866244",
+      "users": [
+        {
+          "uid": "133256",
+          "username": "Хypher"
+        },
+        {
+          "uid": "797528",
+          "username": "xflat"
+        },
+        {
+          "uid": "1050193",
+          "username": "Abel"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group Recruitment Thread: Vinnie's '*#@?&%! | Accepting 5-10 members'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3866244",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie'"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: Keeper's 'Security of Virtual Hosts & Traffic cessation'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3858067",
+      "users": [
+        {
+          "uid": "1114693",
+          "username": "Keeper"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Evangelist conducted by Clique; covers his arrival to learn about stressers/booters after being knocked offline on Xbox Live, his SRPP section participation, his Empire leadership, and his work in a paint shop.",
+      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1374951",
+          "username": "Evangelist"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with #Chester conducted by Carson Clark; covers his arrival from TheTechGame via game-modding, his coding hobby, and his ambition to become a prosecutor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Carson Clark"
+        },
+        {
+          "uid": "1234186",
+          "username": "#Chester"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Republic conducted by Saturday; covers his arrival via the Gamertag section, his shift to SRPP and Lounge, his aspiration to join Void, the Sol Republic headphones origin of his name, and his Texas oil-field plans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1605930",
+          "username": "Republic"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; drugs renamed to eiqhtworks.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Carson Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "1730",
+      "username": "Tonka"
+    },
+    {
+      "uid": "83269",
+      "username": "Wazakindjes"
+    },
+    {
+      "uid": "103609",
+      "username": "Parazyd"
+    },
+    {
+      "uid": "133256",
+      "username": "Хypher"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "285755",
+      "username": "Cody8295"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie'"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797528",
+      "username": "xflat"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "947940",
+      "username": "webdev77"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1050193",
+      "username": "Abel"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1114693",
+      "username": "Keeper"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1173142",
+      "username": "Goodies"
+    },
+    {
+      "uid": "1234186",
+      "username": "#Chester"
+    },
+    {
+      "uid": "1374951",
+      "username": "Evangelist"
+    },
+    {
+      "uid": "1505990",
+      "username": "Armani Exchange"
+    },
+    {
+      "uid": "1527120",
+      "username": "Crumb"
+    },
+    {
+      "uid": "1605930",
+      "username": "Republic"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Carson Clark"
+    },
+    {
+      "uid": "1825653",
+      "username": "BlurredHF"
+    },
+    {
+      "uid": "1876476",
+      "username": "FiOS"
+    },
+    {
+      "uid": "1903617",
+      "username": "TimGotSwag"
+    },
+    {
+      "uid": "1996451",
+      "username": "Rees"
+    }
+  ]
+}

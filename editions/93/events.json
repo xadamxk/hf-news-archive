@@ -1,0 +1,445 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Several sections now require l33t or above to post threads (anti-spam/ban-evasion). Omniscient also said 'no post to PM' and 'no post to download' rules are coming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient performed a site reboot for config changes; PM icons were removed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "After the Honor Et Veritas drama, Omniscient sold the Coders group to Hexicidal and promised every former paid member a spot in the revived group.",
+      "thread": "http://hackforums.net/showthread.php?tid=2523157",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "username": "Hexicidal",
+          "uid": "863752"
+        },
+        {
+          "uid": "940577",
+          "username": "Honor Et Veritas"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Hack Forums experienced significant downtime; Omniscient said no evidence of an attack but is considering adding a second web server for 100% uptime.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ABlackFedora was repfucked and permanently banned for attempting to blackmail Sophie986 for erotic pictures.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "359776",
+          "username": "ABlackFedora"
+        },
+        {
+          "uid": "1229886",
+          "username": "Sophie986"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rusty_V is no longer a Mentor; reason has not been disclosed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "47970",
+          "username": "Rusty_V"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Xenochrist reached 10,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "119173",
+          "username": "Xenochrist"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Peter Chao changed his name to Moralitas (Latin for 'morals').",
+      "thread": null,
+      "users": [
+        {
+          "uid": "129812",
+          "username": "Moralitas"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Joseph K0ny was repfucked and banned for complaining about the repfuck.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "73276",
+          "username": "Joseph K0ny"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Amp™ was banned for selling an eBook on how to get free Apple products.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "496906",
+          "username": "Amp™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Blizzard' was banned and repfucked for scamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "249035",
+          "username": "Blizzard'"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Apathy's '5 Year Old Transgender kid' debate thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2523629",
+      "users": [
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Tasemu's 30-day Uberman/polyphasic sleep video diary experiment.",
+      "thread": "http://hackforums.net/showthread.php?tid=2517681",
+      "users": [
+        {
+          "uid": "62795",
+          "username": "Tasemu"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Libertarian's 'Discrimination is a Right, right?' debate thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2514936",
+      "users": [
+        {
+          "uid": "729765",
+          "username": "Libertarian"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Yurippe's controversial 'Why should severely retarded people be allowed to live?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2524443",
+      "users": [
+        {
+          "uid": "519478",
+          "username": "Yurippe"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ŧг๏zєภקlคร๓ค received Sticky Man for a WaterCooling thread; Miah received HJT Graduate; redpois0n received Master Donator, Award Whore, and Brony; Andy™, haz3d, Rhapsody received Brony; Renowned received FPS Gawd; Geezer received The Protector.",
+      "thread": "http://hackforums.net/showthread.php?tid=2498971",
+      "users": [
+        {
+          "uid": "799211",
+          "username": "Ŧг๏zєภקlคร๓ค"
+        },
+        {
+          "uid": "70909",
+          "username": "Miah"
+        },
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        },
+        {
+          "uid": "871364",
+          "username": "Andy™"
+        },
+        {
+          "uid": "751405",
+          "username": "haz3d"
+        },
+        {
+          "uid": "679685",
+          "username": "Rhapsody"
+        },
+        {
+          "uid": "620668",
+          "username": "Renowned"
+        },
+        {
+          "uid": "892183",
+          "username": "Geezer"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Barneyyz™ is now a leader of Graphic Masters.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "687297",
+          "username": "Barneyyz™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Joint interview with Enterprise (founder) and Primal Rage (donor) of the new unofficial group 'Sanctuary' conducted by Starstruck.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "username": "Enterprise",
+          "uid": "793351"
+        },
+        {
+          "username": "Primal Rage"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Dr.Quickmodz conducted by Starstruck; covers his free 'Quick Booter' release for the community.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "uid": "795825",
+          "username": "Dr.Quickmodz"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Webshow"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck",
+          "role": "Journalist (Gaming News) / Interviewer"
+        },
+        {
+          "uid": "762186",
+          "username": "Eruditus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News + Notable Threads) / Reporter"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "47970",
+      "username": "Rusty_V"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "70909",
+      "username": "Miah"
+    },
+    {
+      "uid": "73276",
+      "username": "Joseph K0ny"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "119173",
+      "username": "Xenochrist"
+    },
+    {
+      "uid": "129812",
+      "username": "Moralitas"
+    },
+    {
+      "uid": "249035",
+      "username": "Blizzard'"
+    },
+    {
+      "uid": "359776",
+      "username": "ABlackFedora"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "496906",
+      "username": "Amp™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "519478",
+      "username": "Yurippe"
+    },
+    {
+      "uid": "620668",
+      "username": "Renowned"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "679685",
+      "username": "Rhapsody"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "729765",
+      "username": "Libertarian"
+    },
+    {
+      "uid": "751405",
+      "username": "haz3d"
+    },
+    {
+      "uid": "762186",
+      "username": "Eruditus"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "793351",
+      "username": "Enterprise"
+    },
+    {
+      "uid": "795825",
+      "username": "Dr.Quickmodz"
+    },
+    {
+      "uid": "799211",
+      "username": "Ŧг๏zєภקlคร๓ค"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "871364",
+      "username": "Andy™"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "892183",
+      "username": "Geezer"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "940577",
+      "username": "Honor Et Veritas"
+    },
+    {
+      "uid": "1049662",
+      "username": "redpois0n"
+    },
+    {
+      "uid": "1229886",
+      "username": "Sophie986"
+    }
+  ]
+}

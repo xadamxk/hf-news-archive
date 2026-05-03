@@ -1,0 +1,80 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "New DB server specs outlined; future plans (MyBB 1.6, HTTP server).",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Teen ‘Asus’ arrested over CoD booting tool; discussion thread.",
+            "url": "http://hackforums.net/showthread.php?tid=883833",
+            "related_users": [
+                "Asus"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "+ad.QnA reported deceased after crash.",
+            "url": "http://hackforums.net/showthread.php?tid=897005",
+            "related_users": [
+                "+ad.QnA"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Omniscient’s Wikileaks discussion thread (single thread rule).",
+            "url": "http://hackforums.net/showthread.php?tid=883667",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "SRPP rules clarification by Saged.",
+            "url": "http://hackforums.net/showthread.php?tid=901604",
+            "related_users": [
+                "Saged"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Financial hardship thread by Kewlhotrod.",
+            "url": "http://hackforums.net/showthread.php?tid=899733",
+            "related_users": [
+                "Kewlhotrod"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Jenni* reputation issue addressed by Crow.",
+            "url": "http://hackforums.net/showthread.php?tid=891380",
+            "related_users": [
+                "Crow",
+                "Jenni*"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Saged",
+            "uid": 47360
+        },
+        {
+            "username": "Kewlhotrod",
+            "uid": 82773
+        },
+        {
+            "username": "Crow",
+            "uid": 2103
+        }
+    ]
+}
+

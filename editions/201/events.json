@@ -1,0 +1,623 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "HF experienced about 12 hours of downtime on Saturday due to an Apache failure; Omniscient was away for the holiday and pledged more automated checks in future.",
+      "thread": "http://hackforums.net/showthread.php?tid=4325485",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Judge Dredd put his Official Group Infamous up for sale for $18,000 USD, payable by bank wire, Western Union, or BTC.",
+      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient launched the official HF Fantasy Football League, accepting experienced players for a small for-fun league.",
+      "thread": "http://hackforums.net/showthread.php?tid=4319292",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vegas, King Keef 300, iceybunneh, En1gma, L3n0, and z3roh4x1337 all hit 1,000 reputation; Vitani's Mate hit 3,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4319292",
+      "users": [
+        {
+          "uid": "370475",
+          "username": "Vegas"
+        },
+        {
+          "uid": "1286258",
+          "username": "King Keef 300"
+        },
+        {
+          "uid": "620004",
+          "username": "iceybunneh"
+        },
+        {
+          "uid": "1406237",
+          "username": "En1gma"
+        },
+        {
+          "uid": "2079170",
+          "username": "L3n0"
+        },
+        {
+          "uid": "175359",
+          "username": "z3roh4x1337"
+        },
+        {
+          "uid": "651773",
+          "username": "Vitani's Mate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "DiamondHacking, Tick, and 'Moon were banned and repfucked for discussing gambling; Kenny West and Dr. R were banned for proxy selling; Winners was banned and repfucked for reputation abuse; widd and Tyga were banned and repfucked for LQP; Thatonebin was banned and repfucked; DaloSec and ComStock were banned pending investigation; Kronk was banned for LQP.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1747673",
+          "username": "DiamondHacking"
+        },
+        {
+          "uid": "1965500",
+          "username": "Tick"
+        },
+        {
+          "uid": "2256400",
+          "username": "'Moon"
+        },
+        {
+          "uid": "1256905",
+          "username": "Kenny West"
+        },
+        {
+          "uid": "1844751",
+          "username": "Dr. R"
+        },
+        {
+          "uid": "2253049",
+          "username": "Winners"
+        },
+        {
+          "uid": "1311131",
+          "username": "widd"
+        },
+        {
+          "uid": "1400858",
+          "username": "Tyga"
+        },
+        {
+          "uid": "1447399",
+          "username": "Thatonebin"
+        },
+        {
+          "uid": "1624177",
+          "username": "DaloSec"
+        },
+        {
+          "uid": "1231265",
+          "username": "ComStock"
+        },
+        {
+          "uid": "1245977",
+          "username": "Kronk"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Abraham Lincoln temporarily took Omnichain.info offline after suspicious actions by his partner ʜᴜʀʀʀ, including a $200 scam report, a vacation ban, and a suspicious server password reset request.",
+      "thread": "http://hackforums.net/showthread.php?tid=4321614",
+      "users": [
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln"
+        },
+        {
+          "uid": "1231915",
+          "username": "ʜᴜʀʀʀ"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Viral Dragon stepped down as head of the Wiki Team; Tibit became a leader of 143.",
+      "thread": "http://hackforums.net/showthread.php?tid=4291035",
+      "users": [
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: 'Snorlax's 'Stop using Imgur and find an alternative!' on Imgur ceasing to host images on HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=4302199",
+      "users": [
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Entertaining Thread: Peck's 'Your Purge Loadout'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4305819",
+      "users": [
+        {
+          "uid": "1838191",
+          "username": "Peck"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informational Thread: Null Byte's 'How secure is your password?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3953430",
+      "users": [
+        {
+          "uid": "2068191",
+          "username": "Null Byte"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Miscellaneous Thread: A Fox's '\"My Dead Girlfriend Keeps Messaging Me\" - Scared.', an eerie story about a man receiving Facebook messages from a dead girlfriend.",
+      "thread": "http://hackforums.net/showthread.php?tid=4317868",
+      "users": [
+        {
+          "uid": "1354359",
+          "username": "A Fox"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Fade™ conducted by Clark; covers his designing the new Headlines for the 200th edition, his self-taught design background, and his web development hobby.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "716927",
+          "username": "Fade™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Curt. conducted by Clique; covers his discovering HF via a Cybergate tutorial, his console gaming and Call of Duty habit, and his views on the high prices of official groups.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "530032",
+          "username": "Curt."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Unknown • conducted by 630; covers his memberships in Infamous, The Empire, and The Brotherhood, his piano playing, his anime and Assassin's Creed interests, and his thoughts on the Infamous sale.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1221196",
+          "username": "Unknown •"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Shark conducted by Alien; covers his 2010 arrival via Xbox 360 modded lobbies, his shift to White Hat Help after being scammed by his partner, his Make Me Famous social media service, and his Special Olympics volunteer work.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "952870",
+          "username": "Alien"
+        },
+        {
+          "uid": "393774",
+          "username": "Shark"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Sir's Second / Opinions"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Editor"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Editor"
+        },
+        {
+          "uid": "1964831",
+          "username": "Magicmann",
+          "role": "Editor"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "Editor"
+        },
+        {
+          "uid": "262695",
+          "username": "Freddy Krueger",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1189774",
+          "username": "Bandors",
+          "role": "Compiler"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate",
+          "role": "Compiler"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Compiler"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "969003",
+          "username": "'Sin",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Journalist (Podcast)"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Journalist (Podcast) / Interviewer"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952870",
+          "username": "Alien",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Comics & Art Gallery / Graphical Artist"
+        },
+        {
+          "uid": "1716927",
+          "username": "Fade™",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Graphical Artist"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "175359",
+      "username": "z3roh4x1337"
+    },
+    {
+      "uid": "262695",
+      "username": "Freddy Krueger"
+    },
+    {
+      "uid": "370475",
+      "username": "Vegas"
+    },
+    {
+      "uid": "393774",
+      "username": "Shark"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "530032",
+      "username": "Curt."
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "620004",
+      "username": "iceybunneh"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "651773",
+      "username": "Vitani's Mate"
+    },
+    {
+      "uid": "716927",
+      "username": "Fade™"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "952870",
+      "username": "Alien"
+    },
+    {
+      "uid": "969003",
+      "username": "'Sin"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1189774",
+      "username": "Bandors"
+    },
+    {
+      "uid": "1221196",
+      "username": "Unknown •"
+    },
+    {
+      "uid": "1231265",
+      "username": "ComStock"
+    },
+    {
+      "uid": "1231915",
+      "username": "ʜᴜʀʀʀ"
+    },
+    {
+      "uid": "1245977",
+      "username": "Kronk"
+    },
+    {
+      "uid": "1256441",
+      "username": "Abraham Lincoln"
+    },
+    {
+      "uid": "1256905",
+      "username": "Kenny West"
+    },
+    {
+      "uid": "1286258",
+      "username": "King Keef 300"
+    },
+    {
+      "uid": "1311131",
+      "username": "widd"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1354359",
+      "username": "A Fox"
+    },
+    {
+      "uid": "1400858",
+      "username": "Tyga"
+    },
+    {
+      "uid": "1406237",
+      "username": "En1gma"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1447399",
+      "username": "Thatonebin"
+    },
+    {
+      "uid": "1624177",
+      "username": "DaloSec"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1716927",
+      "username": "Fade™"
+    },
+    {
+      "uid": "1747673",
+      "username": "DiamondHacking"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1838191",
+      "username": "Peck"
+    },
+    {
+      "uid": "1844751",
+      "username": "Dr. R"
+    },
+    {
+      "uid": "1964831",
+      "username": "Magicmann"
+    },
+    {
+      "uid": "1965500",
+      "username": "Tick"
+    },
+    {
+      "uid": "2068191",
+      "username": "Null Byte"
+    },
+    {
+      "uid": "2079170",
+      "username": "L3n0"
+    },
+    {
+      "uid": "2253049",
+      "username": "Winners"
+    },
+    {
+      "uid": "2256400",
+      "username": "'Moon"
+    }
+  ]
+}

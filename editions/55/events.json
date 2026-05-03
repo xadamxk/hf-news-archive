@@ -1,0 +1,475 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient celebrated his 41st birthday on August 18, 2011.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient granted amnesty to banned members on the eve of his birthday, lifting their bans (excluding scammers).",
+      "thread": "http://hackforums.net/showthread.php?tid=1616634",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups works.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "The thread rating system was disabled forum-wide as it was found not useful.",
+      "thread": "http://hackforums.net/showthread.php?tid=1616863",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "CloudFlare services are now being tested on HackForums to help thwart larger DDoS attacks.",
+      "thread": "http://hackforums.net/showthread.php?tid=1602484",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50 posts; minimum post length lowered from 50 to 40 characters.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Staff member cobija requested a vacation ban; due to return 08-25-2011.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "100071",
+          "username": "cobija"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Oldies (formerly Xypher), ex-leader of The Alliance and Black Knights, requested removal of his Master Donator award, the Ub3r usergroup, and the Sapphire of Ub3r award.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Oldies",
+          "uid": "133256"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Volenar was promoted to co-leader of Reverence, and Amp™ was promoted to co-leader of Red Lions and Black Knights.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "120522",
+          "username": "Volenar"
+        },
+        {
+          "username": "Amp™",
+          "uid": "496906"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Three official groups are now recruiting: Red Lions, Black Knights, and Reverence.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Astonish is NJ created a thread congratulating Volenar on getting engaged.",
+      "thread": "http://hackforums.net/showthread.php?tid=1611434",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "uid": "120522",
+          "username": "Volenar"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SeaNanners™ has the second-most reputation of any 2011 joiner; тнє Jσкєя has the most. Both are part of the 21 members above 1,000 reps.",
+      "thread": null,
+      "users": [
+        {
+          "username": "SeaNanners™",
+          "uid": "766442"
+        },
+        {
+          "username": "тнє Jσкєя",
+          "uid": "729921"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Astonish is NJ started a Reverence Xbox 360 Tutorial thread, with many other Reverence members posting their parts.",
+      "thread": "http://hackforums.net/showthread.php?tid=1611434",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Indirect helped Sir root his Android phone, leveraging his Android/rooting knowledge.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Indirect",
+          "uid": "385801"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "CM Punk was demoted to l33t after Omniscient took issue with a comment he made about how easily Ub3r could be obtained.",
+      "thread": "http://hackforums.net/showthread.php?tid=1594482&pid=14596905#pid14596905",
+      "users": [
+        {
+          "username": "CM Punk",
+          "uid": "229123"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Boots was demoted to l33t after the member who bought him Ub3r reversed the payment.",
+      "thread": "http://hackforums.net/showthread.php?tid=1594482&pid=14596905#pid14596905",
+      "users": [
+        {
+          "username": "Boots",
+          "uid": "465769"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "«MammoTh™ received the Master Donator award after many small donations totaling about $500.",
+      "thread": null,
+      "users": [
+        {
+          "username": "«MammoTh™",
+          "uid": "572367"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Positive reached his goal of 9,000 members and an average of 125 daily users on his DDoSing program.",
+      "thread": "http://hackforums.net/showthread.php?tid=1357182",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "n4z1 and the Eminence group created a tutorial on staying anonymous, covering VPNs, proxies, and general operational security.",
+      "thread": "http://hackforums.net/showthread.php?tid=1623742",
+      "users": [
+        {
+          "username": "n4z1",
+          "uid": "580204"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Valiant conducted by Astonish is NJ; covers his joining HF, leadership of the HJT team, and the volunteer training program.",
+      "thread": "http://hackforums.net/showthread.php?tid=1611434",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "username": "Valiant"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Volenar conducted by Diabolic; discusses joining HF, becoming co-leader of Reverence, and the HJT team.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Diabolic",
+          "uid": "330676"
+        },
+        {
+          "uid": "120522",
+          "username": "Volenar"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+",
+          "role": "Publisher & Head Journalist"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Publisher's Assistant"
+        },
+        {
+          "uid": "545127",
+          "username": "Joey Tribbiani",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "DΣxus",
+          "role": "Journalist (Headlines)",
+          "uid": "827711"
+        },
+        {
+          "uid": "766449",
+          "username": "BlackChaos",
+          "role": "Journalist (World News)"
+        },
+        {
+          "username": "kyoutu",
+          "role": "Journalist (World News)",
+          "uid": "345697"
+        },
+        {
+          "uid": "355307",
+          "username": "chocothunda",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Journalist (User News)"
+        },
+        {
+          "username": "Zeon",
+          "role": "Head Reporter",
+          "uid": "58683"
+        },
+        {
+          "username": "Figaro",
+          "role": "Reporter (Headlines)",
+          "uid": "648463"
+        },
+        {
+          "username": "Mr.Kewl",
+          "role": "Reporter (Headlines)",
+          "uid": "183072"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-",
+          "role": "Reporter (User News)"
+        },
+        {
+          "username": "Puppy™",
+          "role": "Reporter (User News)",
+          "uid": "556984"
+        },
+        {
+          "uid": "126243",
+          "username": "Decoy",
+          "role": "Reporter (World News)"
+        },
+        {
+          "uid": "675453",
+          "username": "Cyber-Security",
+          "role": "Reporter (World News)"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Head Interviewer"
+        },
+        {
+          "username": "Diabolic",
+          "role": "Interviewer",
+          "uid": "330676"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-",
+          "role": "Editor-in-Chief"
+        },
+        {
+          "username": "DaL33T",
+          "role": "Editor-in-Chief",
+          "uid": "303649"
+        },
+        {
+          "username": "kyoutu",
+          "role": "Graphical Editor",
+          "uid": "345697"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "58683",
+      "username": "Zeon"
+    },
+    {
+      "uid": "100071",
+      "username": "cobija"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "120522",
+      "username": "Volenar"
+    },
+    {
+      "uid": "126243",
+      "username": "Decoy"
+    },
+    {
+      "uid": "133256",
+      "username": "Oldies"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr.Kewl"
+    },
+    {
+      "uid": "229123",
+      "username": "CM Punk"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "303649",
+      "username": "DaL33T"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "345697",
+      "username": "kyoutu"
+    },
+    {
+      "uid": "355307",
+      "username": "chocothunda"
+    },
+    {
+      "uid": "385801",
+      "username": "Indirect"
+    },
+    {
+      "uid": "465769",
+      "username": "Boots"
+    },
+    {
+      "uid": "496906",
+      "username": "Amp™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "545127",
+      "username": "Joey Tribbiani"
+    },
+    {
+      "uid": "556984",
+      "username": "Puppy™"
+    },
+    {
+      "uid": "572367",
+      "username": "«MammoTh™"
+    },
+    {
+      "uid": "580204",
+      "username": "n4z1"
+    },
+    {
+      "uid": "648463",
+      "username": "Figaro"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "675453",
+      "username": "Cyber-Security"
+    },
+    {
+      "uid": "729921",
+      "username": "тнє Jσкєя"
+    },
+    {
+      "uid": "766442",
+      "username": "SeaNanners™"
+    },
+    {
+      "uid": "766449",
+      "username": "BlackChaos"
+    },
+    {
+      "uid": "827711",
+      "username": "DΣxus"
+    }
+  ]
+}

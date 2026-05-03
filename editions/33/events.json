@@ -1,0 +1,82 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "PRODIGY and xhtmlphp banned amid RuneScape gold scam reports; Red Lions group briefly cleared then restored.",
+            "url": "http://goo.gl/N9pSs",
+            "related_users": [
+                "`P R O D I G Y™",
+                "xhtmlphp™",
+                "Hanzo",
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "OnlineCrypter compromise prompts password change advisory.",
+            "url": "http://goo.gl/pr6ZN",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Consideration to country-ban Albania; ISP blocked.",
+            "url": "http://goo.gl/LqBa4",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "HF Coders official group dismantled due to inactivity.",
+            "url": "http://goo.gl/FTQDl",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "EctoPlasm returns from 2-week ban; steps down from HF News.",
+            "url": "http://hackforums.net/showthread.php?tid=1046837",
+            "related_users": [
+                "EctoPlasm"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "NaDe wins Member of the Month (January).",
+            "url": "http://hackforums.net/showthread.php?tid=1026270",
+            "related_users": [
+                "NaDe"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Hanzo",
+            "uid": 4066
+        },
+        {
+            "username": "`P R O D I G Y™",
+            "uid": 175033
+        },
+        {
+            "username": "xhtmlphp™",
+            "uid": 0
+        },
+        {
+            "username": "NaDe",
+            "uid": 191245
+        },
+        {
+            "username": "EctoPlasm",
+            "uid": 416897
+        }
+    ]
+}
+

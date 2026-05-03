@@ -1,0 +1,449 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Lust. announced the Coders are now invite-only and posted a recruitment thread; Respawn and Eminence also changed userbars.",
+      "thread": "http://hackforums.net/showthread.php?tid=2525886",
+      "users": [
+        {
+          "uid": "877976",
+          "username": "Lust."
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "MyBB.com was attacked by a group called UG Nazis claiming to have obtained their database; Hack Forums uses MyBB software but is not affiliated with mybb.com.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced that under the new Ub3r approval system, less than half of all applicants are being accepted.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Genuine was promoted from Mentor to Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Spreads Like Herpes's account was hacked and used to scam under his name.",
+      "thread": "http://hackforums.net/showthread.php?tid=2544312",
+      "users": [
+        {
+          "uid": "304295",
+          "username": "Spreads Like Herpes"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Honor Et Veritas made three ban-evade accounts which were quickly banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "940577",
+          "username": "Honor Et Veritas"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Guess Who Is Back had his reported posts reset after manipulating a glitch to report a post multiple times; received a 3-day ban (second offense) and ban extended for stealing HF accounts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "817877",
+          "username": "Guess Who Is Back"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ReactioNz changed his name to Chris (his real name).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "656453",
+          "username": "Chris"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Killerpop89 was banned for proxy selling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "57913",
+          "username": "Killerpop89"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Nubby's account was closed for scamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "203626",
+          "username": "Nubby"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Anime Club's Hiroshima & Nagasaki Nuclear Bomb debate thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2542854",
+      "users": [
+        {
+          "uid": "1272696",
+          "username": "Anime Club"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Libertarian's '[Banning Large Soda] Is this where the line should be drawn?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2542982",
+      "users": [
+        {
+          "uid": "729765",
+          "username": "Libertarian"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Cronus-'s thread on the new 'Flame' computer virus described as the most sophisticated cyber weapon to date.",
+      "thread": "http://hackforums.net/showthread.php?tid=2538056",
+      "users": [
+        {
+          "uid": "773223",
+          "username": "Cronus-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "La Fama's thread about a 7 year old who committed suicide due to bullying.",
+      "thread": "http://hackforums.net/showthread.php?tid=2541616",
+      "users": [
+        {
+          "uid": "918986",
+          "username": "La Fama"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "๖ۣۜSkrillex and Confuse received the Brony award; Teflon received Cool; McFlurry received FPS Gawd.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1242852",
+          "username": "๖ۣۜSkrillex"
+        },
+        {
+          "uid": "825741",
+          "username": "Confuse"
+        },
+        {
+          "uid": "187500",
+          "username": "Teflon"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Hexicidal, Lust., Chief., SomeWhiteGuy, and Phenomenal are now group leaders of the Coders. Pepsi and Anxtrist are no longer Techsperts leaders; Vax™ is now a Techsperts leader.",
+      "thread": "http://hackforums.net/showthread.php?tid=2525886",
+      "users": [
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "877976",
+          "username": "Lust."
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "878768",
+          "username": "SomeWhiteGuy"
+        },
+        {
+          "uid": "117245",
+          "username": "Phenomenal"
+        },
+        {
+          "uid": "1059931",
+          "username": "Pepsi"
+        },
+        {
+          "uid": "766855",
+          "username": "Anxtrist"
+        },
+        {
+          "uid": "843689",
+          "username": "Vax™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Chief. conducted by Barneyyz™; covers his return from the dead group, coding interests, and HF history.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "687297",
+          "username": "Barneyyz™"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Robbieava conducted by SoulZeh; covers her 3-year HF anniversary, becoming a Mentor, and personal life turnaround.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "81075",
+          "username": "Robbieava"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition. Eruditus moved to World News, then back to Tech News with TheVortex covering World News; Waleed quit interviewer (replaced by SoulZeh); Genuine quit Music News (replaced by Bay).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Webshow"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "762186",
+          "username": "Eruditus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "57913",
+      "username": "Killerpop89"
+    },
+    {
+      "uid": "81075",
+      "username": "Robbieava"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "117245",
+      "username": "Phenomenal"
+    },
+    {
+      "uid": "187500",
+      "username": "Teflon"
+    },
+    {
+      "uid": "203626",
+      "username": "Nubby"
+    },
+    {
+      "uid": "304295",
+      "username": "Spreads Like Herpes"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "458073",
+      "username": "Chief."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "656453",
+      "username": "Chris"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "729765",
+      "username": "Libertarian"
+    },
+    {
+      "uid": "762186",
+      "username": "Eruditus"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "766855",
+      "username": "Anxtrist"
+    },
+    {
+      "uid": "773223",
+      "username": "Cronus-"
+    },
+    {
+      "uid": "817877",
+      "username": "Guess Who Is Back"
+    },
+    {
+      "uid": "825741",
+      "username": "Confuse"
+    },
+    {
+      "uid": "843689",
+      "username": "Vax™"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "877976",
+      "username": "Lust."
+    },
+    {
+      "uid": "878768",
+      "username": "SomeWhiteGuy"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "918986",
+      "username": "La Fama"
+    },
+    {
+      "uid": "940577",
+      "username": "Honor Et Veritas"
+    },
+    {
+      "uid": "1059931",
+      "username": "Pepsi"
+    },
+    {
+      "uid": "1242852",
+      "username": "๖ۣۜSkrillex"
+    },
+    {
+      "uid": "1272696",
+      "username": "Anime Club"
+    }
+  ]
+}

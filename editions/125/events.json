@@ -1,0 +1,591 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient discovered a huge scammer operating at least 10 accounts after banning him from HackerCraft; all accounts were banned and Omniscient decided to contact the FBI regarding the fraud schemes.",
+      "thread": "http://hackforums.net/showthread.php?tid=3163253",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Dan.'s group Serenity was changed into the Minecraft group Beacon and opened recruitment.",
+      "thread": "http://hackforums.net/showthread.php?tid=3166791",
+      "users": [
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Castle Bravo put Root, one of the most private groups on the forum, up for sale for $4000+.",
+      "thread": "http://hackforums.net/showthread.php?tid=3167724",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient closed the barely active Terraria gaming section, created separate Android and Apple device subforums (per xadamxk's suggestion), and ran a member post recount and database pruning.",
+      "thread": "http://hackforums.net/showthread.php?tid=3177179",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Barneyyz™ changed his avatar; Black Shadow reached 3,000 reputation points.",
+      "thread": "http://hackforums.net/showthread.php?tid=3177179",
+      "users": [
+        {
+          "uid": "687297",
+          "username": "Barneyyz™"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "EKNOZ was repfucked and had his account closed; peek and Thrust were repfucked and banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1146815",
+          "username": "EKNOZ"
+        },
+        {
+          "uid": "57864",
+          "username": "peek"
+        },
+        {
+          "uid": "949857",
+          "username": "Thrust"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Phytrix, Navy SEALs, and RedBaron were repfucked; Phytrix and Navy SEALs were banned for raiding Omniscient's HackerCraft base.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "903902",
+          "username": "Navy SEALs"
+        },
+        {
+          "uid": "839910",
+          "username": "RedBaron"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mr. Minecraft and Hunk were banned for marketplace violations; PATEL was banned for advertising; d4rkJ4y was banned for the elephant in his avatar.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1165309",
+          "username": "Mr. Minecraft"
+        },
+        {
+          "uid": "802597",
+          "username": "Hunk"
+        },
+        {
+          "uid": "857042",
+          "username": "PATEL"
+        },
+        {
+          "uid": "597816",
+          "username": "d4rkJ4y"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "CoBrAxXx, Oldie, Sаturn, zombiehacker, Pineapple, Sᴍᴏᴋᴇʀ, Stay Plural, and Ownage were all banned; Aeon ‹3 was vacation banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1182524",
+          "username": "CoBrAxXx"
+        },
+        {
+          "uid": "1084170",
+          "username": "Oldie"
+        },
+        {
+          "uid": "879232",
+          "username": "Sаturn"
+        },
+        {
+          "uid": "442514",
+          "username": "zombiehacker"
+        },
+        {
+          "uid": "571646",
+          "username": "Pineapple"
+        },
+        {
+          "uid": "1287568",
+          "username": "Sᴍᴏᴋᴇʀ"
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        },
+        {
+          "uid": "1236251",
+          "username": "Ownage"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BV1 ツ, Mr Kewl, and Morchid received the HackerCraft award; Judge Dredd received the Spy award; Kray got an award for kissing Omni's ass; Brief got the Brony award; ReadByte got the YouTube award; RyanC got the Blackhatter award; Paranоrmal got the Master Donator and Cool awards; Vandal got the Brony award; Asylum. got the Master Donator and Businessman awards; many others received YouTube awards.",
+      "thread": "http://hackforums.net/showthread.php?tid=3140986",
+      "users": [
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "1380082",
+          "username": "Brief"
+        },
+        {
+          "uid": "133079",
+          "username": "ReadByte"
+        },
+        {
+          "uid": "1448109",
+          "username": "RyanC"
+        },
+        {
+          "uid": "1382766",
+          "username": "Paranоrmal"
+        },
+        {
+          "uid": "1403633",
+          "username": "Vandal"
+        },
+        {
+          "uid": "141847",
+          "username": "Asylum."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: #Skyline's '#Skyline's RAT Help Desk'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3150317",
+      "users": [
+        {
+          "uid": "1232842",
+          "username": "#Skyline"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Lambasoft's 'Ultimate PPD/CPA/SEO Guide'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3090357",
+      "users": [
+        {
+          "uid": "1128837",
+          "username": "Lambasoft"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Brief's 'Ultimate Diablo 3 Guide ~ Respawn'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3140986",
+      "users": [
+        {
+          "uid": "1380082",
+          "username": "Brief"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Phytrix and coolkilla202 were banned from HackerCraft after raiding Omniscient's handmade base; the faction Wolves was automatically disbanded due to firtlast (Phytrix) being its owner.",
+      "thread": "http://hackforums.net/showthread.php?tid=3164553",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The HackerCraft faction Chad was disbanded after using alts to exploit the new-player IGM bonus; the starting balance was changed from 100IGM to 10IGM and Omniscient updated the starter kit.",
+      "thread": "http://hackforums.net/showthread.php?tid=3147220",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iNviZ was promoted to moderator of the HackerCraft server.",
+      "thread": "http://hackforums.net/showthread.php?tid=3147220",
+      "users": [
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with CarrotMilk conducted by +Entity; covers The Alliance group, web development freelancing, his booter source, and views on quality work and rippers.",
+      "thread": "http://hackforums.net/showthread.php?tid=2635259",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with BagHead conducted by Phytrix; covers the recent disbanding of Wolves, his GFX learning journey, applying for the GraphicMasters student program, and his hobbies.",
+      "thread": "http://hackforums.net/showthread.php?tid=3169758",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (HackerCraft News)"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1 ツ"
+    },
+    {
+      "uid": "57864",
+      "username": "peek"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "133079",
+      "username": "ReadByte"
+    },
+    {
+      "uid": "141847",
+      "username": "Asylum."
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "442514",
+      "username": "zombiehacker"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "571646",
+      "username": "Pineapple"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "597816",
+      "username": "d4rkJ4y"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "802597",
+      "username": "Hunk"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "839910",
+      "username": "RedBaron"
+    },
+    {
+      "uid": "857042",
+      "username": "PATEL"
+    },
+    {
+      "uid": "879232",
+      "username": "Sаturn"
+    },
+    {
+      "uid": "903902",
+      "username": "Navy SEALs"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince"
+    },
+    {
+      "uid": "949857",
+      "username": "Thrust"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1084170",
+      "username": "Oldie"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1128837",
+      "username": "Lambasoft"
+    },
+    {
+      "uid": "1146815",
+      "username": "EKNOZ"
+    },
+    {
+      "uid": "1165309",
+      "username": "Mr. Minecraft"
+    },
+    {
+      "uid": "1182524",
+      "username": "CoBrAxXx"
+    },
+    {
+      "uid": "1232842",
+      "username": "#Skyline"
+    },
+    {
+      "uid": "1236251",
+      "username": "Ownage"
+    },
+    {
+      "uid": "1287568",
+      "username": "Sᴍᴏᴋᴇʀ"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1380082",
+      "username": "Brief"
+    },
+    {
+      "uid": "1382766",
+      "username": "Paranоrmal"
+    },
+    {
+      "uid": "1403633",
+      "username": "Vandal"
+    },
+    {
+      "uid": "1448109",
+      "username": "RyanC"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    }
+  ]
+}

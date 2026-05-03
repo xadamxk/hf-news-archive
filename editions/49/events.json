@@ -1,0 +1,96 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "New rule: Complaining about being repfucked results in 1‑month ban.",
+            "url": "http://hackforums.net/showthread.php?tid=1447558",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Admin warns groups against coordinating reputation abuse ('gang-repping').",
+            "url": "http://hackforums.net/showthread.php?tid=1437921",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Temporary admin vacation announced.",
+            "url": "http://hackforums.net/showthread.php?tid=1442458",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Warez policy updated: torrents/movie downloads and illegal streaming links banned.",
+            "url": "http://hackforums.net/showthread.php?tid=1450743",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "panDa. appointed moderator of Graphics Requests section.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=158",
+            "related_users": [
+                "panDa."
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Display of section moderators re-enabled.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "groups",
+            "title": "Graphic Masters: Buzz Lightyear becomes owner; Etheryte promoted to leader.",
+            "url": "",
+            "related_users": [
+                "Buzz Lightyear",
+                "Etheryte"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "xerotic leaves all groups.",
+            "url": "",
+            "related_users": [
+                "xerotic"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "Techsperts temporarily close recruitment to review applications.",
+            "url": "",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "panDa.",
+            "uid": 566671
+        },
+        {
+            "username": "Buzz Lightyear",
+            "uid": 204984
+        },
+        {
+            "username": "Etheryte",
+            "uid": 32695
+        },
+        {
+            "username": "xerotic",
+            "uid": 175033
+        }
+    ]
+}
+

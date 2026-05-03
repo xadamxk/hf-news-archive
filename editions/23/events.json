@@ -1,0 +1,73 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "Saged reinstated to staff.",
+            "url": "http://hackforums.net/showthread.php?tid=811161",
+            "related_users": [
+                "Saged"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Soldier of Fortune demoted from Forum Management.",
+            "url": "http://hackforums.net/showthread.php?tid=806857",
+            "related_users": [
+                "Soldier of Fortune"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Ongoing uptime/server issues; new $300 server discussed.",
+            "url": "http://hackforums.net/showthread.php?tid=805047&pid=7601002#pid7601002",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "HF News Crew formed (non-recruiting).",
+            "url": "http://hackforums.net/showthread.php?tid=799449",
+            "related_users": []
+        },
+        {
+            "topic": "site",
+            "title": "UB3R-only Negative Reputation Log added.",
+            "url": "http://hackforums.net/showthread.php?tid=811622",
+            "related_users": []
+        },
+        {
+            "topic": "users",
+            "title": "Solidify banned for controversial staff threads.",
+            "url": "http://hackforums.net/showthread.php?tid=804347",
+            "related_users": [
+                "Solidify"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Tinychat unbanned for HF room.",
+            "url": "http://hackforums.net/showthread.php?tid=814419",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "Omniscient addresses staff criticism.",
+            "url": "http://hackforums.net/showthread.php?tid=817057",
+            "related_users": [
+                "Omniscient"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Saged",
+            "uid": 47360
+        }
+    ]
+}
+

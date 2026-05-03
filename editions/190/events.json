@@ -1,0 +1,547 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient promoted Omnicoin's bid to be added to CoinPayments via a vote thread; OMC is being added to less popular exchanges to qualify, and forum integration is expected soon via a JSON API.",
+      "thread": "http://hackforums.net/showthread.php?tid=4170257",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vitani's Mate hit 2,000 prestige; adampelletgun hit 20,000 posts; Аrrow hit 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "651773",
+          "username": "Vitani's Mate"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "1191229",
+          "username": "Аrrow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Eryn was repfucked and banned; AbuseTheSystem and Tracked were repfucked and banned for rep abuse; Maartendo and Victor Von Doom were banned for assisting a ban evader; ƒσяรคкεห™ was banned for encouraging piracy; Odoyle was banned for abuse; ident was repfucked and had account closed; Coffee was repfucked and had account closed; Firе and Schultz were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1906560",
+          "username": "Eryn"
+        },
+        {
+          "uid": "2040433",
+          "username": "AbuseTheSystem"
+        },
+        {
+          "uid": "2031528",
+          "username": "Tracked"
+        },
+        {
+          "uid": "1576816",
+          "username": "Maartendo"
+        },
+        {
+          "uid": "884160",
+          "username": "Victor Von Doom"
+        },
+        {
+          "uid": "1142432",
+          "username": "ƒσяรคкεห™"
+        },
+        {
+          "uid": "1578639",
+          "username": "Odoyle"
+        },
+        {
+          "uid": "511162",
+          "username": "ident"
+        },
+        {
+          "uid": "91473",
+          "username": "Coffee"
+        },
+        {
+          "uid": "397644",
+          "username": "Firе"
+        },
+        {
+          "uid": "2191579",
+          "username": "Schultz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kōtei requested to have their account closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "133256",
+          "username": "Kōtei"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Positive won the Member of the Month award; Maximum, Ty, Σxile, and Eeluminati each donated for Master Donator (also receiving Businessman, Businessman, Cool, and Hotdog awards respectively); Maryland™ received the Silver Medal; ajkaro received the Sticky Man award; multiple users received the new Omnicoin award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4158618",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        },
+        {
+          "uid": "1871421",
+          "username": "Ty ™"
+        },
+        {
+          "uid": "1429872",
+          "username": "Σxile"
+        },
+        {
+          "uid": "1987673",
+          "username": "Eeluminati"
+        },
+        {
+          "uid": "984082",
+          "username": "Maryland™"
+        },
+        {
+          "uid": "949543",
+          "username": "ajkaro"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "iElement is no longer leader of Nexus; Frostix became a leader of Nexus and The Republic; KyleWTF is no longer leader of The Republic.",
+      "thread": "http://hackforums.net/showthread.php?tid=3819819",
+      "users": [
+        {
+          "uid": "879655",
+          "username": "iElement"
+        },
+        {
+          "uid": "992989",
+          "username": "Frostix"
+        },
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Promethazine.'s 'Unofficial HF Skype group'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3952239",
+      "users": [
+        {
+          "uid": "1886302",
+          "username": "Promethazine."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: кrew's '[TUT] How to sniff network traffic for PASSWORDS'.",
+      "thread": "http://hackforums.net/showthread.php?tid=1480569",
+      "users": [
+        {
+          "uid": "1191",
+          "username": "кrew"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: aelocrois's 'Possible to add extra fee for changing display name?', proposing a fee to fight scammers.",
+      "thread": "http://hackforums.net/showthread.php?tid=4168907",
+      "users": [
+        {
+          "uid": "943411",
+          "username": "aelocrois"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Anonymous's 'Legion | AnonWare Contest #3 | $500 Cash Prizes'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4165515",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Craze conducted by 630; covers his semi-pro football for Brentford, his Instinct group leadership, his views on Nexus and Respawn, and his recruitment to HF via Vinnie.",
+      "thread": "http://hackforums.net/showthread.php?tid=3952239",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1216255",
+          "username": "Craze"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with +Cyan conducted by Clark; covers his time on Se7ensis and Sythe, his Halo: Reach modded lobbies, his TAFE/University plans for Computer Science, and his criticism of Judge Dredd owning a usergroup.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "651474",
+          "username": "+Cyan"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Chieftain conducted by Clique; covers his Middle College program studying law, his League of Legends play (Platinum V in Season 4), and his Writ3rs work as Scientific News journalist.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Cody returned on User News, Saturday took over Group News, OnTheFly joined for Notable Threads, Baghead took over Minecraft News, Lovol moved to Proofreader, and the Music News journalist position became vacant.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "944024",
+          "username": "Neal Caffrey",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "1191",
+      "username": "кrew"
+    },
+    {
+      "uid": "91473",
+      "username": "Coffee"
+    },
+    {
+      "uid": "133256",
+      "username": "Kōtei"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "397644",
+      "username": "Firе"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "511162",
+      "username": "ident"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "651474",
+      "username": "+Cyan"
+    },
+    {
+      "uid": "651773",
+      "username": "Vitani's Mate"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "879655",
+      "username": "iElement"
+    },
+    {
+      "uid": "884160",
+      "username": "Victor Von Doom"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "923197",
+      "username": "KyleWTF"
+    },
+    {
+      "uid": "943411",
+      "username": "aelocrois"
+    },
+    {
+      "uid": "944024",
+      "username": "Neal Caffrey"
+    },
+    {
+      "uid": "949543",
+      "username": "ajkaro"
+    },
+    {
+      "uid": "984082",
+      "username": "Maryland™"
+    },
+    {
+      "uid": "992989",
+      "username": "Frostix"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1142432",
+      "username": "ƒσяรคкεห™"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1191229",
+      "username": "Аrrow"
+    },
+    {
+      "uid": "1216255",
+      "username": "Craze"
+    },
+    {
+      "uid": "1238642",
+      "username": "Maximum"
+    },
+    {
+      "uid": "1429872",
+      "username": "Σxile"
+    },
+    {
+      "uid": "1576816",
+      "username": "Maartendo"
+    },
+    {
+      "uid": "1578639",
+      "username": "Odoyle"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1871421",
+      "username": "Ty ™"
+    },
+    {
+      "uid": "1886302",
+      "username": "Promethazine."
+    },
+    {
+      "uid": "1906560",
+      "username": "Eryn"
+    },
+    {
+      "uid": "1987673",
+      "username": "Eeluminati"
+    },
+    {
+      "uid": "2031528",
+      "username": "Tracked"
+    },
+    {
+      "uid": "2040433",
+      "username": "AbuseTheSystem"
+    },
+    {
+      "uid": "2191579",
+      "username": "Schultz"
+    }
+  ]
+}

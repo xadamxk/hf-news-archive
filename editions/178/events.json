@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Mentor Viral Dragon began suffering seizures from a 1.3cm brain lesion; his partner iceybunneh launched an Indie GoGo campaign to raise $13,000 for further diagnosis.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient banned PayPal holding (using or being a holder) as a bannable offence to combat chargeback fraud, encouraging Bitcoin adoption instead.",
+      "thread": "http://hackforums.net/showthread.php?tid=4003472",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ηaze and Google Expert hit 1,000 reputation; Cryptic™ hit 2,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3997585",
+      "users": [
+        {
+          "uid": "1548093",
+          "username": "Ηaze"
+        },
+        {
+          "uid": "1617327",
+          "username": "Google Expert"
+        },
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "IPv6 was repfucked and banned for one month for repfuck complaining; iKLUTCH was repfucked and banned for rep abuse, trolling, and LQP; pashabiceps was banned for harassing members; Sergeant Reaper was banned for trolling; No was banned for bypassing the character limit.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1318896",
+          "username": "IPv6"
+        },
+        {
+          "uid": "1209782",
+          "username": "iKLUTCH"
+        },
+        {
+          "uid": "1379465",
+          "username": "pashabiceps"
+        },
+        {
+          "uid": "2109080",
+          "username": "Sergeant Reaper"
+        },
+        {
+          "uid": "491666",
+          "username": "No"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Diabolic had his Diamond award removed and received DaBomb instead; Acroz donated for Master Donator.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "1417555",
+          "username": "Acroz"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "xflat stepped down as a leader of The Brotherhood.",
+      "thread": "http://hackforums.net/showthread.php?tid=4002649",
+      "users": [
+        {
+          "uid": "797528",
+          "username": "xflat"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Devour conducted by Clique; covers his printer/copier repair work, Saturn group, his 60-hour work weeks, and plans to study network administration.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1568351",
+          "username": "Devour"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Bullet. conducted by Saturday; covers his eBay manipulation business, his time in the legendary Rhythm group, his run in The Empire and Respawn, and his friend's recovery from cancer.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "950102",
+          "username": "Bullet."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Blowin Ounces conducted by Clark; covers his homework writing service, his 2011 registration, currency exchange transactions, and dissatisfaction with the marketplace scamming problem.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "790283",
+          "username": "Blowin Ounces"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "491666",
+      "username": "No"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "716331",
+      "username": "Cryptic™"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "790283",
+      "username": "Blowin Ounces"
+    },
+    {
+      "uid": "797528",
+      "username": "xflat"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "950102",
+      "username": "Bullet."
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1209782",
+      "username": "iKLUTCH"
+    },
+    {
+      "uid": "1318896",
+      "username": "IPv6"
+    },
+    {
+      "uid": "1379465",
+      "username": "pashabiceps"
+    },
+    {
+      "uid": "1417555",
+      "username": "Acroz"
+    },
+    {
+      "uid": "1548093",
+      "username": "Ηaze"
+    },
+    {
+      "uid": "1568351",
+      "username": "Devour"
+    },
+    {
+      "uid": "1617327",
+      "username": "Google Expert"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "2109080",
+      "username": "Sergeant Reaper"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "Vorfin stepped down from staff.",
+            "url": "",
+            "related_users": [
+                "Vorfin"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "MySQL crash caused downtime.",
+            "url": "http://hackforums.net/showthread.php?tid=733042",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Planned DB split to improve performance.",
+            "url": "http://hackforums.net/showthread.php?tid=738481",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Kutmustakurt re-promoted to staff.",
+            "url": "",
+            "related_users": [
+                "Kutmustakurt"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Crust accidentally deleted a 100k-customer forum database.",
+            "url": "http://hackforums.net/showthread.php?tid=739451",
+            "related_users": [
+                "Crust"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Mentors discussed for assisting with LQP; details referenced.",
+            "url": "http://hackforums.net/showthread.php?tid=734566&pid=6982233#pid6982233",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Eurospeak recruiting for ethical hacking courses.",
+            "url": "http://hackforums.net/showthread.php?tid=738810",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Vorfin",
+            "uid": null
+        },
+        {
+            "username": "Kutmustakurt",
+            "uid": 43626
+        },
+        {
+            "username": "Crust",
+            "uid": null
+        }
+    ]
+}
+

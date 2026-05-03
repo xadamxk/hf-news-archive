@@ -1,0 +1,82 @@
+{
+    "events": [
+        {
+            "topic": "users",
+            "title": "VipVince and KewlHotRod demoted again.",
+            "url": "",
+            "related_users": [
+                "VipVince",
+                "KewlHotRod"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "mKn1ght distributed infected OpenVPN; Paradoxum posts removal guide.",
+            "url": "http://hackforums.net/showthread.php?tid=789958",
+            "related_users": [
+                "mKn1ght",
+                "Paradoxum"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Ongoing DB anomalies until new server acquired.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Verdande banned one month (scam); Ectoplasm rep-hit after protest thread.",
+            "url": "http://hackforums.net/showthread.php?tid=788737",
+            "related_users": [
+                "Verdande",
+                "Ectoplasm"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "OG iFuck banned for multiple scam reports.",
+            "url": "",
+            "related_users": [
+                "OG iFuck"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Marik™ publishes multiple HQ guides (incl. HF fully explained).",
+            "url": "http://hackforums.net/showthread.php?tid=784767",
+            "related_users": [
+                "Marik™"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Malware Boss explains HF awards; self-nomination thread referenced.",
+            "url": "http://hackforums.net/showthread.php?tid=795033",
+            "related_users": [
+                "Malware Boss"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "VipVince",
+            "uid": 7807
+        },
+        {
+            "username": "KewlHotRod",
+            "uid": 82773
+        },
+        {
+            "username": "Paradoxum",
+            "uid": 70881
+        }
+    ]
+}
+

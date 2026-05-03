@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The HF News Misc. editions, originally started by www.RuneGear.net (The Elite) and later discontinued, have been brought back by Cobalt+ and Sir. The Misc. editions now bundle Interviews, Notable Account Changes, Notable Threads, and a new HF News Webshow.",
+      "thread": "http://hackforums.net/showthread.php?tid=1719133",
+      "users": [
+        {
+          "uid": "136025",
+          "username": "www.RuneGear.net"
+        },
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Astonish is NJ received the moderator position of the Visual Basic and .NET Framework section.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sтяιdєя, who recently hit 1,000 reputation, was repfucked (losing over 1,300 rep) and was then permanently closed and banned for severe rep abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "682150",
+          "username": "Sтяιdєя"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hуѕтєяιa X™ has gone on vacation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kick Buttowski was permanently banned and repfucked by Omniscient for inability to follow policy.",
+      "thread": "http://hackforums.net/showthread.php?tid=1718049",
+      "users": [
+        {
+          "uid": "407835",
+          "username": "Kick Buttowski"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BlackChaos, the writer of World News for HF News, has gone on vacation and will miss the next couple of editions.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "766449",
+          "username": "BlackChaos"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "cobija left for Dollywood for a vacation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "100071",
+          "username": "cobija"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "D1G1T4LM4N_616's account was permanently closed by Omniscient when he was found to be ban-evading on a new account.",
+      "thread": null,
+      "users": [
+        {
+          "username": "D1G1T4LM4N_616",
+          "uid": "90455"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Replied Debate: HakkuR's '=♣ Official 9/11 Conspiracy Debate Thread ♣=' received the most views, replies, and activity.",
+      "thread": "http://hackforums.net/showthread.php?tid=1708692",
+      "users": [
+        {
+          "username": "HakkuR",
+          "uid": "320970"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Interesting Idea: Clobbersaurus's 'Terrorist America' thread, with strong supporting facts and active debate.",
+      "thread": "http://hackforums.net/showthread.php?tid=1714374",
+      "users": [
+        {
+          "username": "Clobbersaurus",
+          "uid": "882732"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Coolest Contest Thread: SkipEarth giving away the original email Pigs@SlaughterHou.se for his thousandth post.",
+      "thread": "http://hackforums.net/showthread.php?tid=1681641",
+      "users": [
+        {
+          "username": "SkipEarth",
+          "uid": "837830"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Supported Suggestion: Industrialized™'s call to add a Battlefield section in the Gaming forum, especially with the upcoming Battlefield 3 release.",
+      "thread": "http://hackforums.net/showthread.php?tid=1617021",
+      "users": [
+        {
+          "username": "Industrialized™",
+          "uid": "258055"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Good Suggestion: Calculus's proposal for an XSS subforum, which Omniscient acknowledged as 'not a terrible idea' and is considering.",
+      "thread": "http://hackforums.net/showthread.php?tid=1718049",
+      "users": [
+        {
+          "username": "Calculus",
+          "uid": "632426"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Thorough Guide: Eminent's 'How to be a Hacker | The Ultimate Guide,' covering everything one would need to know about hacking.",
+      "thread": "http://hackforums.net/showthread.php?tid=1598616",
+      "users": [
+        {
+          "uid": "430736",
+          "username": "Eminent"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "High Quality Guide: Magnus's 'Wireless - A comprehensive guide about wi-fi hacking,' which received a sticky and earned him the 'sticky man' award.",
+      "thread": "http://hackforums.net/showthread.php?tid=1410937",
+      "users": [
+        {
+          "uid": "807552",
+          "username": "Magnus"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with alabama conducted by Cobalt+; covers his school situation, joining HF, and his alias origin.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "username": "alabama",
+          "uid": "622763"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Dylan conducted by Astonish is NJ; covers his joining HF, ownership of the Minecrafters group, and forum changes.",
+      "thread": "http://hackforums.net/showthread.php?tid=1719133",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "username": "Dylan",
+          "uid": "559352"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Webshow Part Two features a video interview with ๖ۣۜPink ๖ۣۜFloyd.",
+      "thread": "http://hackforums.net/showthread.php?tid=1719133",
+      "users": [
+        {
+          "uid": "215614",
+          "username": "๖ۣۜPink ๖ۣۜFloyd"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "90455",
+      "username": "D1G1T4LM4N_616"
+    },
+    {
+      "uid": "100071",
+      "username": "cobija"
+    },
+    {
+      "uid": "136025",
+      "username": "www.RuneGear.net"
+    },
+    {
+      "uid": "215614",
+      "username": "๖ۣۜPink ๖ۣۜFloyd"
+    },
+    {
+      "uid": "258055",
+      "username": "Industrialized™"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "320970",
+      "username": "HakkuR"
+    },
+    {
+      "uid": "407835",
+      "username": "Kick Buttowski"
+    },
+    {
+      "uid": "430736",
+      "username": "Eminent"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "559352",
+      "username": "Dylan"
+    },
+    {
+      "uid": "588781",
+      "username": "Hуѕтєяιa X™"
+    },
+    {
+      "uid": "622763",
+      "username": "alabama"
+    },
+    {
+      "uid": "632426",
+      "username": "Calculus"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "682150",
+      "username": "Sтяιdєя"
+    },
+    {
+      "uid": "766449",
+      "username": "BlackChaos"
+    },
+    {
+      "uid": "807552",
+      "username": "Magnus"
+    },
+    {
+      "uid": "837830",
+      "username": "SkipEarth"
+    },
+    {
+      "uid": "882732",
+      "username": "Clobbersaurus"
+    }
+  ]
+}

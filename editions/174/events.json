@@ -1,0 +1,466 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The site banner was changed to a Christmas theme; Omniscient launched a contest for members to submit their own banner designs (50KB transparent GIF) and was working on a way to let members opt out of the holiday banner.",
+      "thread": "http://hackforums.net/showthread.php?tid=3940126",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new 'Jailbreak Freak' award was created for Android and iOS hacking, modification, jailbreaking, and rooting topics.",
+      "thread": "http://hackforums.net/showthread.php?tid=3937027",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Aurora and Billym2k launched OmniCoin, a Hack Forums-themed cryptocurrency; Omniscient expressed genuine interest and stated he plans to incorporate it into the forum somehow.",
+      "thread": "http://hackforums.net/showthread.php?tid=3923174",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient accepted Kansas's suggestion to add a MySQL section, promising implementation within fourteen days.",
+      "thread": "http://hackforums.net/showthread.php?tid=3940220",
+      "users": [
+        {
+          "uid": "1812197",
+          "username": "Kansas"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sigma‎‏‍‎‏ ‎‏‍‎ hit 1,000 reputation; Saged' was reinstated as a Mentor; Froggy hit 2,000 reputation; adampelletgun hit 3,000 reputation; Viral Dragon hit 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3940220",
+      "users": [
+        {
+          "uid": "89554",
+          "username": "Sigma‎‏‍‎‏ ‎‏‍‎"
+        },
+        {
+          "uid": "47360",
+          "username": "Saged'"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "eiqhtworks was repfucked for the eighteenth time.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "752389",
+          "username": "eiqhtworks"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dyme was banned for ban evasion; FairTrader was banned for reputation abuse; Orgy₂ was banned for harassment; Zanelot was banned for a marketplace violation; Teh Afro was banned for Amazon financial fraud.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "388214",
+          "username": "Dyme"
+        },
+        {
+          "uid": "1607691",
+          "username": "FairTrader"
+        },
+        {
+          "uid": "1236861",
+          "username": "Orgy₂"
+        },
+        {
+          "uid": "1028401",
+          "username": "Zanelot"
+        },
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Loνe and Emperor had their accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1297917",
+          "username": "Loνe"
+        },
+        {
+          "uid": "873409",
+          "username": "Emperor"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xadamxk received the first Jailbreak Freak award; #Thunder and Leonard Hofstadter received Sticky Man awards; 'Snorlax donated for Master Donator and was given DaBomb; ѕнα∂σω donated for Master Donator and was given Dog Lover.",
+      "thread": "http://hackforums.net/showthread.php?tid=3917229",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        },
+        {
+          "uid": "1021070",
+          "username": "#Thunder"
+        },
+        {
+          "uid": "65178",
+          "username": "Leonard Hofstadter"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "1796284",
+          "username": "ѕнα∂σω"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Kosmos became a leader of Void; Cгaze became a leader of *#@?&%!; Pеter became a leader of Complexity; Snapchat™ stepped down as leader of Void; Sh1eld stepped down as leader of Illuminati.",
+      "thread": "http://hackforums.net/showthread.php?tid=3930448",
+      "users": [
+        {
+          "uid": "878647",
+          "username": "Kosmos"
+        },
+        {
+          "uid": "1216255",
+          "username": "Cгaze"
+        },
+        {
+          "uid": "1342759",
+          "username": "Pеter"
+        },
+        {
+          "uid": "1047311",
+          "username": "Snapchat™"
+        },
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "KyleWTF launched the new official invite-only group The Republic.",
+      "thread": "http://hackforums.net/showthread.php?tid=3930448",
+      "users": [
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Vodge conducted by Clark; covers his RAT and e-whoring beginnings, his Forensic Computing degree plans, his Void and Instinct memberships, and his permanent Ub3r denial.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1308266",
+          "username": "Vodge"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with KyleWTF conducted by Clique; covers his interest in PS3 jailbreaking, his appointment as leader of The Republic by Assault, and his business career aspirations.",
+      "thread": "http://hackforums.net/showthread.php?tid=3923628",
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Invisus replaced MarkMare on Gaming News; Unreputed took over World News from Emylbus.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "770060",
+          "username": "Invisus",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Journalist (World News) / Graphical Editor"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "47360",
+      "username": "Saged'"
+    },
+    {
+      "uid": "65178",
+      "username": "Leonard Hofstadter"
+    },
+    {
+      "uid": "89554",
+      "username": "Sigma‎‏‍‎‏ ‎‏‍‎"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "388214",
+      "username": "Dyme"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "770060",
+      "username": "Invisus"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "873409",
+      "username": "Emperor"
+    },
+    {
+      "uid": "878647",
+      "username": "Kosmos"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "923197",
+      "username": "KyleWTF"
+    },
+    {
+      "uid": "1021070",
+      "username": "#Thunder"
+    },
+    {
+      "uid": "1028401",
+      "username": "Zanelot"
+    },
+    {
+      "uid": "1047311",
+      "username": "Snapchat™"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1216255",
+      "username": "Cгaze"
+    },
+    {
+      "uid": "1236861",
+      "username": "Orgy₂"
+    },
+    {
+      "uid": "1297917",
+      "username": "Loνe"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1308266",
+      "username": "Vodge"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1342759",
+      "username": "Pеter"
+    },
+    {
+      "uid": "1607691",
+      "username": "FairTrader"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1796284",
+      "username": "ѕнα∂σω"
+    },
+    {
+      "uid": "1812197",
+      "username": "Kansas"
+    }
+  ]
+}

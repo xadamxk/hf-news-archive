@@ -1,0 +1,359 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient confirmed a Networking section will be added in the future after a 5-month-old suggestion thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2573045&pid=23432261#pid23432261",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budging.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "The Root group was sold to an unknown buyer for $3,000 in an auction by Castle Bravo; all current members will be kicked when the new leader takes over.",
+      "thread": "http://hackforums.net/showthread.php?tid=2574092",
+      "users": [
+        {
+          "username": "Castle Bravo"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Over one million posts were deleted from the Lounge, likely a routine post prune.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Glassy was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "734805",
+          "username": "Glassy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Scooter, previously a 2,000+ rep member, was repfucked and banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Xenochrist had his account closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "119173",
+          "username": "Xenochrist"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "I Smoke Loud (formerly `P R O D I G Y™) was banned for scamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "127732",
+          "username": "I Smoke Loud"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "malichi's 'Too young for pot?' debate thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2584023",
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "RIPPER's 'Dictatory or democracy' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2578745",
+      "users": [
+        {
+          "uid": "1171778",
+          "username": "RIPPER"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'Tomb Raider sexual assault scene, remove it?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2575842",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Horkos's 'Why our lives are pointless and redundant' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2575429",
+      "users": [
+        {
+          "uid": "65167",
+          "username": "Horkos"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Bok1ca purchased the Brony award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "379282",
+          "username": "Bok1ca"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Jae conducted by SoulZeh; covers his eight-group membership, Lounge raids in TechSperts, and views on Ub3r privilege.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "1099423",
+          "username": "Jae"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Grammar Rays conducted by Phytrix; covers his goals on HF, the Brony award incident, and college plans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Brandenx781 conducted by RDCA; covers his HJT Team training journey from SupportForums to HF and his teaching philosophy.",
+      "thread": null,
+      "users": [
+        {
+          "username": "RDCA",
+          "uid": "580684"
+        },
+        {
+          "uid": "847499",
+          "username": "Brandenx781"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition. New writers added: ρяιη¢є (Tech News), MarkMare (Gaming News); Phytrix and RDCA new interviewers; PyroStorm proofreader; AvidWB webshow host.",
+      "thread": "http://hackforums.net/showthread.php?tid=2575842",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)",
+          "uid": "138559"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)",
+          "uid": "903914"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "username": "AvidWB",
+          "role": "Webshow Host",
+          "uid": "1323486"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "username": "RDCA",
+          "role": "Interviewer",
+          "uid": "580684"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "65167",
+      "username": "Horkos"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "119173",
+      "username": "Xenochrist"
+    },
+    {
+      "uid": "127732",
+      "username": "I Smoke Loud"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "379282",
+      "username": "Bok1ca"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "734805",
+      "username": "Glassy"
+    },
+    {
+      "uid": "847499",
+      "username": "Brandenx781"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1099423",
+      "username": "Jae"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1171778",
+      "username": "RIPPER"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    }
+  ]
+}

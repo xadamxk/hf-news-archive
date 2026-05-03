@@ -1,0 +1,479 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient created a poll on the SRPP section restrictions; after two weeks results are evenly split between keeping normal members out and welcoming them back.",
+      "thread": "http://hackforums.net/showthread.php?tid=4118163",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient indicated he is considering a feature suggested by Ombra to allow comments on reputation left on profiles, useful for explaining false reputation or thanking givers.",
+      "thread": "http://hackforums.net/showthread.php?tid=4139382",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1454187",
+          "username": "Ombra"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SWS. hit 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4138270",
+      "users": [
+        {
+          "uid": "1697806",
+          "username": "SWS."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Alanay was repfucked and had account closed for the second time; Computer Terminal was repfucked for being a 'lying piece of shit'; iJezuz was repfucked and banned for holding a fake contest; ~Tom~ was repfucked and banned for re-posting disallowed threads; Saturn was banned for harassing members; Kurona, Russkiy the Fox, Simply Dope, and Ramisme were banned for low quality posting.",
+      "thread": "http://hackforums.net/showthread.php?tid=4138270",
+      "users": [
+        {
+          "uid": "1596402",
+          "username": "Alanay"
+        },
+        {
+          "uid": "2145715",
+          "username": "Computer Terminal"
+        },
+        {
+          "uid": "1782578",
+          "username": "iJezuz"
+        },
+        {
+          "uid": "263250",
+          "username": "~Tom~"
+        },
+        {
+          "uid": "879232",
+          "username": "Sаturn"
+        },
+        {
+          "uid": "752389",
+          "username": "Kurona"
+        },
+        {
+          "uid": "76474",
+          "username": "Russkiy the Fox"
+        },
+        {
+          "uid": "1534081",
+          "username": "Simply Dope"
+        },
+        {
+          "uid": "1087653",
+          "username": "Ramisme"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xVulnerable received the Cat Lover award; syrah received both the Ninja and Businessman awards.",
+      "thread": "http://hackforums.net/showthread.php?tid=4125531",
+      "users": [
+        {
+          "uid": "1492625",
+          "username": "xVulnerable"
+        },
+        {
+          "uid": "1763815",
+          "username": "syrah"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "-Nas became a leader of The Brotherhood; xflat and Aura are no longer leaders of The Brotherhood; Acroz left Legion to lead Illuminati; Vinnie became a leader of Legion.",
+      "thread": "http://hackforums.net/showthread.php?tid=4135516",
+      "users": [
+        {
+          "uid": "1452196",
+          "username": "-Nas"
+        },
+        {
+          "uid": "797528",
+          "username": "xflat"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        },
+        {
+          "uid": "1417555",
+          "username": "Acroz"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Vinnie's '[ Legion Group Changes | New Leadership ]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4142464",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Skitlz's 'Nexus x5 User Recruitment'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4135516",
+      "users": [
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Fogest's 'AutoIT - Ultimate Beginner Tutorial Series (VIDEO)'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3713010",
+      "users": [
+        {
+          "uid": "380148",
+          "username": "Fogest"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: ๖ۣۜGhost's '[TUTORIAL] How to stay Anonymous'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4142095",
+      "users": [
+        {
+          "uid": "1944390",
+          "username": "๖ۣۜGhost"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: ᾋpthεn's '[TUT] Improve your RAT spreading with worms'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3691712",
+      "users": [
+        {
+          "uid": "1627341",
+          "username": "ᾋpthεn"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Krew conducted by Clique; covers his almost five years on HF, his 143 group involvement, his Business degree studies, and his frustration with the deletion of upgraded member lounges.",
+      "thread": "http://hackforums.net/showthread.php?tid=67721",
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "792136",
+          "username": "Krew"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Skitlz conducted by 630; covers the drama with Astonish that ended his Respawn leadership, his refusal to return to Respawn, his Minecraft service business, and his ub3r denials due to a partner's scam.",
+      "thread": "http://hackforums.net/showthread.php?tid=3713010",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Eeluminati conducted by Clark; covers his graphics service, his ratting-related origin on HF, his time across many groups (Empire being his favorite), and aspirations to join Polymath, Brotherhood, Null, or Writ3rs.",
+      "thread": "http://hackforums.net/showthread.php?tid=4138270",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1987673",
+          "username": "Eeluminati"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News) / Proofreader"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News) / Journalist (Music News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "944024",
+          "username": "Neal Caffrey",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Rinium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "76474",
+      "username": "Russkiy the Fox"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "263250",
+      "username": "~Tom~"
+    },
+    {
+      "uid": "380148",
+      "username": "Fogest"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "752389",
+      "username": "Kurona"
+    },
+    {
+      "uid": "792136",
+      "username": "Krew"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "797528",
+      "username": "xflat"
+    },
+    {
+      "uid": "879232",
+      "username": "Sаturn"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "944024",
+      "username": "Neal Caffrey"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1087653",
+      "username": "Ramisme"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1417555",
+      "username": "Acroz"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1454187",
+      "username": "Ombra"
+    },
+    {
+      "uid": "1492625",
+      "username": "xVulnerable"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1534081",
+      "username": "Simply Dope"
+    },
+    {
+      "uid": "1596402",
+      "username": "Alanay"
+    },
+    {
+      "uid": "1627341",
+      "username": "ᾋpthεn"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1697806",
+      "username": "SWS."
+    },
+    {
+      "uid": "1763815",
+      "username": "syrah"
+    },
+    {
+      "uid": "1775114",
+      "username": "Rinium"
+    },
+    {
+      "uid": "1782578",
+      "username": "iJezuz"
+    },
+    {
+      "uid": "1839274",
+      "username": "Skitlz"
+    },
+    {
+      "uid": "1944390",
+      "username": "๖ۣۜGhost"
+    },
+    {
+      "uid": "1987673",
+      "username": "Eeluminati"
+    },
+    {
+      "uid": "2145715",
+      "username": "Computer Terminal"
+    }
+  ]
+}

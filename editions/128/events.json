@@ -1,0 +1,547 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient announced that the L33T/UB3R orders database (containing names, addresses, emails, phone numbers, and IPs but no passwords or credit card info) was compromised through an exploit at the database host; portions targeting Legion members were leaked from a site associated with Root leader RyanC, whose signature privileges were revoked.",
+      "thread": "http://hackforums.net/showthread.php?tid=3235050",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1448109",
+          "username": "RyanC"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient banned 'Post here and PM me' style threads with an automatic 25% warning, and extended the hide-content feature to allow members to hide content from L33T users (previously Ub3r only).",
+      "thread": "http://hackforums.net/showthread.php?tid=3219429",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Angels group fell into drama after owner Sandshrew amassed over $5,300 in debt from loans to purchase Logic; the Deal Dispute became the largest in that section, and Sandshrew began selling membership spots to repay debts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3226734",
+      "users": [
+        {
+          "uid": "1233686",
+          "username": "Sandshrew"
+        },
+        {
+          "uid": "923753",
+          "username": "Juicy Booty"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Eminence was rebranded by owner WiFi. as 'WiFi Gang,' a music-focused group dedicated to artists, songwriters, producers, and musicians; it launched recruitment and an official site.",
+      "thread": "http://hackforums.net/showthread.php?tid=3220964",
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Special One reached 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1462090",
+          "username": "Special One"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "tdog0403 was repfucked and had his account closed; Callum. and Darken were repfucked and banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1070150",
+          "username": "tdog0403"
+        },
+        {
+          "uid": "772964",
+          "username": "Callum."
+        },
+        {
+          "uid": "1228258",
+          "username": "Darken"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Raspberry Pi, Badass, Imagination., Liquified™, Hentai, and serg06 were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1168835",
+          "username": "Raspberry Pi"
+        },
+        {
+          "uid": "861282",
+          "username": "Badass"
+        },
+        {
+          "uid": "1077925",
+          "username": "Imagination."
+        },
+        {
+          "uid": "904208",
+          "username": "Liquified™"
+        },
+        {
+          "uid": "746220",
+          "username": "Hentai"
+        },
+        {
+          "uid": "1140865",
+          "username": "serg06"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellows and Natha were banned for DDoSing members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "serg06 was banned for being a Grammar Nazi; TxTriton was banned for reporting Omniscient's post.",
+      "thread": "http://hackforums.net/showthread.php?tid=3235050",
+      "users": [
+        {
+          "uid": "1140865",
+          "username": "serg06"
+        },
+        {
+          "uid": "279157",
+          "username": "TxTriton"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "LevelUp, Deanie, Fanatic, La Fama, and ven0m were vacation banned; Reblue was banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1181919",
+          "username": "LevelUp"
+        },
+        {
+          "uid": "432503",
+          "username": "Deanie"
+        },
+        {
+          "uid": "333869",
+          "username": "Fanatic"
+        },
+        {
+          "uid": "918986",
+          "username": "La Fama"
+        },
+        {
+          "uid": "91531",
+          "username": "ven0m"
+        },
+        {
+          "uid": "187420",
+          "username": "Reblue"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Plaтiпuм got the Drunk award after photos of him crossdressing while drunk leaked; Google Expert got the YouTube award; KyleWTF got the Master Donator and Cool awards.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1341017",
+          "username": "Plaтiпuм"
+        },
+        {
+          "uid": "1617327",
+          "username": "Google Expert"
+        },
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Aeon ‹3 is no longer a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3217023",
+      "users": [
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Keeper's 'Antagonism | Network Traffic Flow [Tutorial]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3217023",
+      "users": [
+        {
+          "uid": "1114693",
+          "username": "Keeper"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Blerthotel's '[MUST-SEE] Story behind anon and HF'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3194376",
+      "users": [
+        {
+          "uid": "1416735",
+          "username": "Blerthotel"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: -๖ۣۜDivine-'s '[TuT] Antagonism | File Inclusion [TuT]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3184032",
+      "users": [
+        {
+          "uid": "1539015",
+          "username": "-๖ۣۜDivine-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Kohsti's '[BlackShades] Massive Giveaway $600+ In Prizes [Illuminati]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3218948",
+      "users": [
+        {
+          "uid": "1137768",
+          "username": "Kohsti"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with DaL33t conducted by +Entity; covers his Illuminati membership, leaving the UK for Dubai, his VPN business, and the programming languages he uses.",
+      "thread": "http://hackforums.net/showthread.php?tid=3218948",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "303649",
+          "username": "DaL33t"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Coffee conducted by xadamxk; covers his GFX origins via iPod jailbreaking, the Evasi0n iOS jailbreak release, and plans to rejoin the iOS community.",
+      "thread": "http://hackforums.net/showthread.php?tid=3218214",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        },
+        {
+          "uid": "91473",
+          "username": "Coffee"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "91473",
+      "username": "Coffee"
+    },
+    {
+      "uid": "91531",
+      "username": "ven0m"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "187420",
+      "username": "Reblue"
+    },
+    {
+      "uid": "279157",
+      "username": "TxTriton"
+    },
+    {
+      "uid": "303649",
+      "username": "DaL33t"
+    },
+    {
+      "uid": "333869",
+      "username": "Fanatic"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "432503",
+      "username": "Deanie"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "746220",
+      "username": "Hentai"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "772964",
+      "username": "Callum."
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "861282",
+      "username": "Badass"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince"
+    },
+    {
+      "uid": "904208",
+      "username": "Liquified™"
+    },
+    {
+      "uid": "918986",
+      "username": "La Fama"
+    },
+    {
+      "uid": "923197",
+      "username": "KyleWTF"
+    },
+    {
+      "uid": "923753",
+      "username": "Juicy Booty"
+    },
+    {
+      "uid": "1070150",
+      "username": "tdog0403"
+    },
+    {
+      "uid": "1077925",
+      "username": "Imagination."
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1114693",
+      "username": "Keeper"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1137768",
+      "username": "Kohsti"
+    },
+    {
+      "uid": "1140865",
+      "username": "serg06"
+    },
+    {
+      "uid": "1168835",
+      "username": "Raspberry Pi"
+    },
+    {
+      "uid": "1181919",
+      "username": "LevelUp"
+    },
+    {
+      "uid": "1228258",
+      "username": "Darken"
+    },
+    {
+      "uid": "1233686",
+      "username": "Sandshrew"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1341017",
+      "username": "Plaтiпuм"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1416735",
+      "username": "Blerthotel"
+    },
+    {
+      "uid": "1448109",
+      "username": "RyanC"
+    },
+    {
+      "uid": "1462090",
+      "username": "Special One"
+    },
+    {
+      "uid": "1539015",
+      "username": "-๖ۣۜDivine-"
+    },
+    {
+      "uid": "1617327",
+      "username": "Google Expert"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient announced upcoming features for 2015 including 2 Factor Authentication during a podcast interview.",
+      "thread": "http://hackforums.net/showthread.php?tid=4587062",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Omniscient revoked Robust's HackerCraft license, banned and repfucked him until 01-23-2015 for failing to repay Edward Snowden.'s $1,000 investment plus the 50% profit share; Omniscient is now negotiating a new license agreement with Edward Snowden., though it may take a week or two and the old DNS records were deleted.",
+      "thread": "http://hackforums.net/showthread.php?tid=4599351",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        },
+        {
+          "uid": "1180981",
+          "username": "Edward Snowden."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dex‌ hit 10,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1607053",
+          "username": "Dex‌"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "+Cyan was banned and repfucked for trolling; gudkumar was banned and repfucked for ban evasion; Prince Gumball was banned and repfucked for multi-accounting; Robust was banned and repfucked for the HackerCraft drama; BuyOMC, Ilikebeans, and Proton! were closed for multi-accounting (BuyOMC also repfucked); Achievement Hunter and Powa. were closed; BigDap, Lazy., and YOLOnline were repfucked (YOLOnline for PBD).",
+      "thread": "http://hackforums.net/showthread.php?tid=4587062",
+      "users": [
+        {
+          "uid": "651474",
+          "username": "+Cyan"
+        },
+        {
+          "uid": "2254375",
+          "username": "gudkumar"
+        },
+        {
+          "uid": "2118669",
+          "username": "Prince Gumball"
+        },
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        },
+        {
+          "uid": "67707",
+          "username": "BuyOMC"
+        },
+        {
+          "uid": "1916543",
+          "username": "Ilikebeans"
+        },
+        {
+          "uid": "2424587",
+          "username": "Proton!"
+        },
+        {
+          "uid": "2222622",
+          "username": "Achievement Hunter"
+        },
+        {
+          "uid": "2471108",
+          "username": "Powa."
+        },
+        {
+          "uid": "2020011",
+          "username": "BigDap"
+        },
+        {
+          "uid": "1769039",
+          "username": "Lazy."
+        },
+        {
+          "uid": "1369647",
+          "username": "YOLOnline"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BooGod received the Cool award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1125635",
+          "username": "BooGod"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Λaron conducted by Justin Timberlake; covers his NA Skype group origin, his diverse marketplace offerings (HackForums.Co domain, pesto, Minecraft rank method, GFX, DDoS, BTC<->PayPal), his pilot lessons, and his upcoming San Francisco trip.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake"
+        },
+        {
+          "uid": "2072010",
+          "username": "Λaron"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Raz3d conducted by 630; covers his Nightfall membership, his Habbo origin story, his Politics studies and lawyer aspirations, and his $1,140 in CSGO betting profits.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1229273",
+          "username": "Raz3d"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Hacking/Security/Gaming/Tech News journalists were dropped for the year-end edition while Group/Site/Omnicoin News, Team's Time, and Sir's Second remained on Post Two.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "1st Editor / Podcast"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1860651",
+          "username": "Coppersan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News) / Supervisor"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1469364",
+          "username": "Prada‌",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1775114",
+          "username": "Greed.",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Task Manager"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "777",
+      "username": "Cooligan"
+    },
+    {
+      "uid": "44755",
+      "username": "Snorlax'"
+    },
+    {
+      "uid": "67707",
+      "username": "BuyOMC"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "370475",
+      "username": "Vegas"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "651474",
+      "username": "+Cyan"
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1125635",
+      "username": "BooGod"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1166170",
+      "username": "zасh"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1180981",
+      "username": "Edward Snowden."
+    },
+    {
+      "uid": "1205532",
+      "username": "Robust"
+    },
+    {
+      "uid": "1229273",
+      "username": "Raz3d"
+    },
+    {
+      "uid": "1256441",
+      "username": "Abraham Lincoln"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1369647",
+      "username": "YOLOnline"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1446355",
+      "username": "Trust"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1469364",
+      "username": "Prada‌"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1607053",
+      "username": "Dex‌"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1769039",
+      "username": "Lazy."
+    },
+    {
+      "uid": "1775114",
+      "username": "Greed."
+    },
+    {
+      "uid": "1860651",
+      "username": "Coppersan"
+    },
+    {
+      "uid": "1916543",
+      "username": "Ilikebeans"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "2015410",
+      "username": "ӍeshCollider"
+    },
+    {
+      "uid": "2020011",
+      "username": "BigDap"
+    },
+    {
+      "uid": "2072010",
+      "username": "Λaron"
+    },
+    {
+      "uid": "2118669",
+      "username": "Prince Gumball"
+    },
+    {
+      "uid": "2173791",
+      "username": "Wind Waker"
+    },
+    {
+      "uid": "2222622",
+      "username": "Achievement Hunter"
+    },
+    {
+      "uid": "2254375",
+      "username": "gudkumar"
+    },
+    {
+      "uid": "2424587",
+      "username": "Proton!"
+    },
+    {
+      "uid": "2471108",
+      "username": "Powa."
+    }
+  ]
+}

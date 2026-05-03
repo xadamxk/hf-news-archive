@@ -1,0 +1,347 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient gave out a few YouTube awards for Christmas to members who made a Christmas-wishing video; the award is no longer being given out.",
+      "thread": "http://hackforums.net/showthread.php?tid=2047611",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Two new groups, Brotherhood and Propitious, are in talks; neither has been fully paid for. Propitious is planned to open recruitment on January 10.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Stay Plural was repfucked for giving positive reputation to a ban evader.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "h3x3n received a second repfuck in two weeks, this time for PMing Omniscient a suggestion.",
+      "thread": "http://hackforums.net/showthread.php?tid=2047611",
+      "users": [
+        {
+          "uid": "723224",
+          "username": "h3x3n"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "JustinH was banned for Ub3r Junk Abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "911957",
+          "username": "JustinH"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "the professional hacker was banned for threatening and flaming members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "447912",
+          "username": "the professional hacker"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The Holy was repfucked over suspicions that his Xbox 360 Kinect service was a scam; he was moved from the dead group into the banned account group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "450827",
+          "username": "The Holy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Christmas Thread: Omniscient's 'Merry Christmas HF' thread, used as the entry route for the YouTube award via video response.",
+      "thread": "http://hackforums.net/showthread.php?tid=2047611",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Heartwarming Thread: Black Shadow's effort to help a member reclaim his account from a hacker.",
+      "thread": "http://hackforums.net/showthread.php?tid=2048921",
+      "users": [
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Interesting Thread: Mr. Sky's 'Types Of HF Members' humorous classification thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2046296",
+      "users": [
+        {
+          "uid": "813594",
+          "username": "Mr. Sky"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Scam Thread: bugga's 'Scammer protection' thread covering The Holy's scam history.",
+      "thread": "http://hackforums.net/showthread.php?tid=2057679",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "OVO™ received the Cat Lover award; ReactioNz received the Master Donator and Cool awards; Riggs received the Businessman award; EatSleepCode received the Grammar Nazi award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "371170",
+          "username": "OVO™"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz"
+        },
+        {
+          "uid": "402384",
+          "username": "Riggs"
+        },
+        {
+          "uid": "555364",
+          "username": "EatSleepCode"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ampix0 launched CommonThief.com, a store offering hard-to-find tech items.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "13351",
+          "username": "Ampix0"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Reliable's Mate (Enterprise) conducted by Kottonmouth.; covers his username origin, joining HF for Minecraft, and being in 6 of 14 official groups.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "916706",
+          "username": "Kottonmouth."
+        },
+        {
+          "username": "Reliable's Mate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Q&A interview with Poppins; covers his joining HF, ban history, and HF outlook.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Poppins",
+          "uid": "140749"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "0OTF",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Kottonmouth.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "13351",
+      "username": "Ampix0"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "140749",
+      "username": "Poppins"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "371170",
+      "username": "OVO™"
+    },
+    {
+      "uid": "402384",
+      "username": "Riggs"
+    },
+    {
+      "uid": "447912",
+      "username": "the professional hacker"
+    },
+    {
+      "uid": "450827",
+      "username": "The Holy"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "555364",
+      "username": "EatSleepCode"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "723224",
+      "username": "h3x3n"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "813594",
+      "username": "Mr. Sky"
+    },
+    {
+      "uid": "891268",
+      "username": "0OTF"
+    },
+    {
+      "uid": "911957",
+      "username": "JustinH"
+    },
+    {
+      "uid": "916706",
+      "username": "Kottonmouth."
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    }
+  ]
+}

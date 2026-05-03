@@ -1,0 +1,77 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Admin statement on WikiLeaks discussions and prohibitions.",
+            "url": "http://hackforums.net/announcements.php?aid=9",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "phire nuk3r promoted to staff.",
+            "url": "",
+            "related_users": [
+                "phire nuk3r"
+            ]
+        },
+        {
+            "topic": "news",
+            "title": "The Elite steps down as HF News head writer; replacement speculated.",
+            "url": "http://hackforums.net/showthread.php?tid=886101",
+            "related_users": [
+                "The Elite"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "New MySQL server deployed; downtime explanations posted.",
+            "url": "http://hackforums.net/showthread.php?tid=892163",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Lounge reached 100,000 threads.",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "‘Taking Back Hacker’ campaign highlighted.",
+            "url": "http://hackforums.net/showthread.php?tid=889555",
+            "related_users": [
+                "Crow"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Increase internet speed guide by Omniscient.",
+            "url": "http://hackforums.net/showthread.php?tid=884082",
+            "related_users": [
+                "Omniscient"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "The Elite",
+            "uid": 136025
+        },
+        {
+            "username": "phire nuk3r",
+            "uid": 46373
+        },
+        {
+            "username": "Crow",
+            "uid": 2103
+        }
+    ]
+}
+

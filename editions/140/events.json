@@ -1,0 +1,434 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient temporarily disabled all forms of reputation while reworking the system to use a fixed dropdown of reasons instead of custom comments, aimed at preventing future abuse and flaming.",
+      "thread": "http://hackforums.net/showthread.php?tid=3431258",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Multiple popular HF members including Tibit, iNviZ, and #Skyline had their Skype accounts hijacked through a Skype support social engineering flaw, leaking business logs.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "1232842",
+          "username": "#Skyline"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vіnnie resigned as leader of Legion and was replaced by ัPandaŠec; Αnonymous announced Legion is now open for recruitment.",
+      "thread": "http://hackforums.net/showthread.php?tid=3432815",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vіnnie"
+        },
+        {
+          "uid": "516018",
+          "username": "ัPandaŠec"
+        },
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Administrator Judge Dredd was vacation banned from April 25th to May 5th and had his reputation reset by Omniscient during the rep system rework.",
+      "thread": "http://hackforums.net/showthread.php?tid=3447379",
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga is no longer a Mentor; Froggy was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SonicB00M was repfucked and banned for low quality posting; TreeJay was repfucked and had his account closed; mad was banned for harassment and DDoSing member products; BaussHacker was repfucked; Σntei had her account closed; Accident had his account closed for the third time; 630, Feynman, and Krew were vacation banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1587783",
+          "username": "SonicB00M"
+        },
+        {
+          "uid": "1234186",
+          "username": "TreeJay"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        },
+        {
+          "uid": "522041",
+          "username": "BaussHacker"
+        },
+        {
+          "uid": "1480261",
+          "username": "Σntei"
+        },
+        {
+          "uid": "992333",
+          "username": "Accident"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1371476",
+          "username": "Feynman"
+        },
+        {
+          "uid": "792136",
+          "username": "Krew"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "MineSQL donated for the Master Donator award and received the Cat Lover award; Froggy received the Cool award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1170302",
+          "username": "MineSQL"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Sir's 'The Philosophy of Reputation'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3447379",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: D3xus's 'The Official Groups of Hack Forums [Now with Old Groups!]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3004471",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Αnonymous's 'Legion Recruitment | Official Group Recruitment'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3432815",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: White Wolf™'s 'If you could get rid of 1 thing in the world, what would it be?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3440544",
+      "users": [
+        {
+          "uid": "1671547",
+          "username": "White Wolf™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Aldi's 'List Of Hacked Skype Accounts'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3436882",
+      "users": [
+        {
+          "uid": "621775",
+          "username": "Aldi"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Eminent conducted by CarrotMilk; covers his arrival via a Runescape ban in 2009, work in graphics, observations on HF community shifts, custom usergroups, and the Skype hijacking fiasco.",
+      "thread": "http://hackforums.net/showthread.php?tid=3436882",
+      "users": [
+        {
+          "uid": "190854",
+          "username": "CarrotMilk"
+        },
+        {
+          "uid": "430736",
+          "username": "Eminent"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Froggy conducted by Connected; covers her recent Mentor promotion, Empire and Terror leadership, fan-sign earnings, and her plans to apply for the Malware Removal Team.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Natha returned to Headlines and Apathy returned to World News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "430736",
+      "username": "Eminent"
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516018",
+      "username": "ัPandaŠec"
+    },
+    {
+      "uid": "522041",
+      "username": "BaussHacker"
+    },
+    {
+      "uid": "600771",
+      "username": "Vіnnie"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "621775",
+      "username": "Aldi"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "792136",
+      "username": "Krew"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "992333",
+      "username": "Accident"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1170302",
+      "username": "MineSQL"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1232842",
+      "username": "#Skyline"
+    },
+    {
+      "uid": "1234186",
+      "username": "TreeJay"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1371476",
+      "username": "Feynman"
+    },
+    {
+      "uid": "1480261",
+      "username": "Σntei"
+    },
+    {
+      "uid": "1587783",
+      "username": "SonicB00M"
+    },
+    {
+      "uid": "1671547",
+      "username": "White Wolf™"
+    }
+  ]
+}

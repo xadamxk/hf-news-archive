@@ -1,0 +1,487 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient launched the new 'HF Modern' theme replacing 'HF Oldschool', but pulled the rollout after backlash, saying 'Fuck it. No new theme. Members aren't open it[sic] it and I'm wasting my time'; both themes remain selectable in UCP.",
+      "thread": "http://hackforums.net/showthread.php?tid=3798861",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The maximum password length was raised from 30 to 64 characters following Lakai's suggestion thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=3790714",
+      "users": [
+        {
+          "uid": "341617",
+          "username": "Lakai"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient took HF down for ~2 hours to upgrade to MyBB 1.6.11.",
+      "thread": "http://hackforums.net/showthread.php?tid=3797980",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient swapped in a Halloween-themed animated banner originally created by Etheryte back in 2011.",
+      "thread": "http://hackforums.net/showthread.php?tid=1862797",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "32695",
+          "username": "Etheryte"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "630 and adampelletgun reached 20,000 posts; Teh Afro hit 500 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3753361",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Diligence was repfucked and banned for reputation abuse; TwilightSpurkle was banned and repfucked for trying to sell his account; Verts was closed and repfucked for trying to sell his account; Tate had his account closed for selling his account on another forum.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1810790",
+          "username": "Diligence"
+        },
+        {
+          "uid": "650422",
+          "username": "TwilightSpurkle"
+        },
+        {
+          "uid": "972664",
+          "username": "Verts"
+        },
+        {
+          "uid": "101228",
+          "username": "Tate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Viber was banned as possibly compromised; Black Shadow was banned for posting adult content; Aнонимный (Yck) was closed for harassing other members; Fernandez was repfucked and closed for disobeying the 35-character limit.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "837463",
+          "username": "Viber"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        },
+        {
+          "uid": "12274",
+          "username": "Aнонимный"
+        },
+        {
+          "uid": "87647",
+          "username": "Fernandez"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mohatu received the September MOTM award; WiFi. received Jokester and Award Whore for being a 'real nigga'; SkullTraill received the DaBomb award; Darkwin received the Speaker of the House award; Miki received the Cool award; Trill received the Sushi Lover award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3800652",
+      "users": [
+        {
+          "uid": "1082656",
+          "username": "Mohatu"
+        },
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        },
+        {
+          "uid": "33319",
+          "username": "SkullTraill"
+        },
+        {
+          "uid": "181208",
+          "username": "Darkwin"
+        },
+        {
+          "uid": "1315784",
+          "username": "Miki"
+        },
+        {
+          "uid": "1575886",
+          "username": "Trill"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Soccer's 'What Do You Know About Sushi? [PICS]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3800652",
+      "users": [
+        {
+          "uid": "1055259",
+          "username": "Soccer"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Science, Religion, Philosophy, and Politics Thread: KevinMcCormick's 'Do Aliens Exist?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3803234",
+      "users": [
+        {
+          "uid": "1121653",
+          "username": "KevinMcCormick"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Online Accounts Thread: Omniscient's 'Section Policies, Rules, and Information' for the new Online Accounts subforum.",
+      "thread": "http://hackforums.net/showthread.php?tid=3769994",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "HackerCraft news will be moved to its own dedicated thread in the HackerCraft section to allow expanded coverage with testimonials, build showcases, faction news, and raid reports.",
+      "thread": "http://hackforums.net/showthread.php?tid=3753361",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Omniscient conducted by Connected; covers his revival of HackerCraft through hands-on administration, the 2 million UID milestone, his thoughts on declining post counts being driven by anti-spam policies, his ambivalence over groups, and his work-from-home schedule of up to 16 hour days.",
+      "thread": "http://hackforums.net/showthread.php?tid=3769994",
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with D3xus conducted by Saturday; covers his memberships in The Alliance, Infamous, Wiki Team, and MRT, his recent promotion to full Staff, his iOS/Android usage, and his goal of attending Cornell University.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with webdev77 conducted by Educate; covers his free-hosting support staff role, his engineering major, his bruteforce/word-scramble project that led him to HF in 2011, and his Alliance membership focused on the Computer Hardware sector.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Educate"
+        },
+        {
+          "uid": "947940",
+          "username": "webdev77"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Morchid moved to User News, Cody joined as Reporter alongside Yellows, and Connected joined the interviewer rotation; Debra Morgan changed name to Educate.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Educate",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "12274",
+      "username": "Aнонимный"
+    },
+    {
+      "uid": "32695",
+      "username": "Etheryte"
+    },
+    {
+      "uid": "33319",
+      "username": "SkullTraill"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "87647",
+      "username": "Fernandez"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "181208",
+      "username": "Darkwin"
+    },
+    {
+      "uid": "341617",
+      "username": "Lakai"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "650422",
+      "username": "TwilightSpurkle"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "837463",
+      "username": "Viber"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "947940",
+      "username": "webdev77"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "972664",
+      "username": "Verts"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1055259",
+      "username": "Soccer"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1121653",
+      "username": "KevinMcCormick"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1315784",
+      "username": "Miki"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1575886",
+      "username": "Trill"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Educate"
+    },
+    {
+      "uid": "1810790",
+      "username": "Diligence"
+    }
+  ]
+}

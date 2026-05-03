@@ -1,0 +1,377 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The HF News introduced a new 'News Notables' section recognizing readers via numerical post milestones (1st/50th/100th/etc.), quality posts, debates, or reader referrals.",
+      "thread": "http://hackforums.net/showthread.php?tid=1863762",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The new 'Query Languages and DBMS' section was added under Programming, Coding, and Languages following Kansas's accepted suggestion.",
+      "thread": "http://hackforums.net/showthread.php?tid=3940220",
+      "users": [
+        {
+          "uid": "1812197",
+          "username": "Kansas"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient adjusted the spam filter to allow up to six repeating characters (instead of two), fixing issues with code blocks and long URLs after a suggestion by Mafugsa Bob.",
+      "thread": "http://hackforums.net/showthread.php?tid=3841596",
+      "users": [
+        {
+          "uid": "1603444",
+          "username": "Mafugsa Bob"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The Lounge section reached 5,000,000 posts, accounting for nearly a sixth of all forum posts.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "ℓιикℓαи¢є and Squidward hit 1,000 reputation; Αnonymous hit 2,000 reputation; ajkaro was promoted to moderator of the SQL Injection Attacks section; Richard Grayson (formerly D3xus) stepped down from Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1347815",
+          "username": "ℓιикℓαи¢є"
+        },
+        {
+          "uid": "1320379",
+          "username": "Squidward"
+        },
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "949543",
+          "username": "ajkaro"
+        },
+        {
+          "uid": "827711",
+          "username": "Richard Grayson"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rohz. was repfucked and banned for harassment; Bewbs was repfucked and banned for repfuck complaining; Genocide. was repfucked and banned for misleading staff and scamming; Swirl was banned for poor posting quality.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1259493",
+          "username": "Rohz."
+        },
+        {
+          "uid": "1522714",
+          "username": "Bewbs"
+        },
+        {
+          "uid": "1341052",
+          "username": "Genocide."
+        },
+        {
+          "uid": "1465028",
+          "username": "Swirl"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Αlien received The Alien award; Richard Grayson received the Silver Medal; Realistic received Master Donator and Bronze Tutorial.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "952870",
+          "username": "Αlien"
+        },
+        {
+          "uid": "827711",
+          "username": "Richard Grayson"
+        },
+        {
+          "uid": "798312",
+          "username": "Realistic"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Invisus became a leader of Fly By Night; Phаraoh stepped down as leader of Fly By Night.",
+      "thread": "http://hackforums.net/showthread.php?tid=3984258",
+      "users": [
+        {
+          "uid": "770060",
+          "username": "Invisus"
+        },
+        {
+          "uid": "1008442",
+          "username": "Phаraoh"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Grin conducted by Clark; covers his 34k post count, his conclusion to the 'Gremlin' roommate saga, his iOS and SRPP section participation, and nostalgia for the disbanded Marketers and root.",
+      "thread": "http://hackforums.net/showthread.php?tid=3883420",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Magicmann conducted by Yuzuha; covers his self-taught coding in C++, his bicycling hobby, his family's care of over 50 stray cats, and his aspirations to become a Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "692131",
+          "username": "Yuzuha"
+        },
+        {
+          "uid": "1964831",
+          "username": "Magicmann"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Yuzuha joined the Interviewer team; eiqhtworks returned to Music News; Mohatu resumed Headlines.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News) / Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "770060",
+      "username": "Invisus"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "798312",
+      "username": "Realistic"
+    },
+    {
+      "uid": "827711",
+      "username": "Richard Grayson"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "949543",
+      "username": "ajkaro"
+    },
+    {
+      "uid": "952870",
+      "username": "Αlien"
+    },
+    {
+      "uid": "1008442",
+      "username": "Phаraoh"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1259493",
+      "username": "Rohz."
+    },
+    {
+      "uid": "1320379",
+      "username": "Squidward"
+    },
+    {
+      "uid": "1341052",
+      "username": "Genocide."
+    },
+    {
+      "uid": "1347815",
+      "username": "ℓιикℓαи¢є"
+    },
+    {
+      "uid": "1465028",
+      "username": "Swirl"
+    },
+    {
+      "uid": "1522714",
+      "username": "Bewbs"
+    },
+    {
+      "uid": "1603444",
+      "username": "Mafugsa Bob"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1812197",
+      "username": "Kansas"
+    },
+    {
+      "uid": "1964831",
+      "username": "Magicmann"
+    }
+  ]
+}

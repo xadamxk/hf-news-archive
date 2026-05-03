@@ -1,0 +1,55 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "A proxy killer plug-in was added that blocks proxies for both registration and login.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "A new Graphics Market section was added under Service Offerings for graphics service sales.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Opera Mini has been firewalled because ban evaders and scammers were using it like a VPN.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "An impersonator of Omniscient (@jesselabrocca) is posting infected links on Twitter; the only official HF Twitter is @HackForumsNet.",
+      "thread": null,
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Official mods list page (modlist.php) and staff list page (stafflist.php) were added.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "An official Google +1 button was added to the footer to help with SEO.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Joey Tribbiani conducted by Kyle FYI™; covers his views on the Mentors expansion, the Vouch system, and personal interests.",
+      "thread": null,
+      "users": [
+        { "username": "Kyle FYI™" },
+        { "uid": "545127", "username": "Joey Tribbiani" }
+      ]
+    }
+  ],
+  "users": [
+    { "uid": "1", "username": "Omniscient" },
+    { "uid": "545127", "username": "Joey Tribbiani" }
+  ]
+}

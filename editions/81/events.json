@@ -1,0 +1,212 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "BELLAGIO posted (and later junked) a userbar request thread for a new group; details unconfirmed.",
+      "thread": null,
+      "users": [
+        { "uid": "1007343", "username": "BELLAGIO" }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient reported datacenter issues on Saturday the 25th; they have since been resolved.",
+      "thread": null,
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient posted a thread soliciting member suggestions for HackForums' upcoming 5-year anniversary.",
+      "thread": null,
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "A new (almost-official) invite-only paid group called Illuminati is coming, purchased by BELLAGIO; it focuses on marketing, monetizing, marketplace, currency exchanging, and giveaways.",
+      "thread": "http://hackforums.net/showthread.php?tid=2260457",
+      "users": [
+        { "uid": "1007343", "username": "BELLAGIO" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Glassy reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        { "uid": "734805", "username": "Glassy" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Slayher was repfucked for asking Omniscient if he was approved for Ub3r without waiting 60 days.",
+      "thread": null,
+      "users": [
+        { "uid": "949857", "username": "Slayher" },
+        { "uid": "1", "username": "Omniscient" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Emporer (formerly Storm Watch / Costal Waters) was banned for excessive scam reports.",
+      "thread": null,
+      "users": [
+        { "uid": "415606", "username": "Emporer" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zach requested to have his account closed.",
+      "thread": null,
+      "users": [
+        { "uid": "200751", "username": "Zach" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Old. was banned for multiple accounts.",
+      "thread": null,
+      "users": [
+        { "uid": "394403", "username": "Old." }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mr. Potato Head was banned and repfucked for abusing the reputation system.",
+      "thread": null,
+      "users": [
+        { "uid": "526277", "username": "Mr. Potato Head" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "MLD was banned for repfuck complaining.",
+      "thread": null,
+      "users": [
+        { "uid": "738154", "username": "MLD" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Naxian (formerly Cymraeg) was banned for Ub3r junk abuse.",
+      "thread": null,
+      "users": [
+        { "uid": "762186", "username": "Naxian" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Uzi‍ was banned and repfucked for assisting a ban evader.",
+      "thread": null,
+      "users": [
+        { "uid": "898134", "username": "Uzi‍" }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "AIM Thread: Positive's notice that his AIM account was stolen.",
+      "thread": "http://hackforums.net/showthread.php?tid=2233957",
+      "users": [
+        { "uid": "323740", "username": "Positive" }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Marriage Thread: ven0m's announcement that Crow (ex-admin) got married.",
+      "thread": "http://hackforums.net/showthread.php?tid=2252685",
+      "users": [
+        { "uid": "91531", "username": "ven0m" },
+        { "uid": "2103", "username": "Crow" }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Vulcan Thread: Kill4joy KJ-Vulcan Tools's free high-quality software project (Vulcan Tools).",
+      "thread": null,
+      "users": [
+        { "uid": "422270", "username": "Kill4joy KJ-Vulcan Tools" }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Astonish is NJ received The Protector award; Purple Haze received the Master Donator and RAT Expert awards; -=Conqueror=- received The Protector; BELLAGIO received The Hustler and Master Donator; Minnesota Nice received The Alien.",
+      "thread": null,
+      "users": [
+        { "uid": "657392", "username": "Astonish is NJ" },
+        { "uid": "964299", "username": "Purple Haze" },
+        { "uid": "815887", "username": "-=Conqueror=-" },
+        { "uid": "1007343", "username": "BELLAGIO" },
+        { "uid": "93419", "username": "Minnesota Nice" }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Groove1337 conducted by Michael Westen; covers his joining HF, NetFlirts purchase, e-whoring activity, and rugby.",
+      "thread": null,
+      "users": [
+        { "uid": "735315", "username": "Michael Westen" },
+        { "username": "Groove1337" }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Vizixify conducted by Paradise.; covers his Griefing section activity and Java programming.",
+      "thread": null,
+      "users": [
+        { "uid": "916706", "username": "Paradise." },
+        { "username": "Vizixify" }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        { "uid": "515249", "username": "Sir", "role": "Publisher & Head Journalist / User News / Opinions" },
+        { "uid": "891268", "username": "OnTheFly", "role": "Journalist (Headlines)" },
+        { "uid": "355307", "username": "Chocothunda", "role": "Journalist (World News)" },
+        { "uid": "946680", "username": "Ignite.", "role": "Journalist (User News)" },
+        { "uid": "762646", "username": "Døn", "role": "Journalist (Tech News)" },
+        { "uid": "964299", "username": "Purple Haze", "role": "Journalist (Music News)" },
+        { "uid": "735315", "username": "Michael Westen", "role": "Interviewer" },
+        { "uid": "916706", "username": "Innocence.", "role": "Interviewer" },
+        { "uid": "175033", "username": "xerotic", "role": "Web Show Co-Host" },
+        { "uid": "62795", "username": "Tasemu", "role": "Graphical Editor" },
+        { "uid": "946680", "username": "Ignite.", "role": "Reporter" }
+      ]
+    }
+  ],
+  "users": [
+    { "uid": "1", "username": "Omniscient" },
+    { "uid": "2103", "username": "Crow" },
+    { "uid": "62795", "username": "Tasemu" },
+    { "uid": "91531", "username": "ven0m" },
+    { "uid": "93419", "username": "Minnesota Nice" },
+    { "uid": "175033", "username": "xerotic" },
+    { "uid": "200751", "username": "Zach" },
+    { "uid": "323740", "username": "Positive" },
+    { "uid": "355307", "username": "Chocothunda" },
+    { "uid": "394403", "username": "Old." },
+    { "uid": "415606", "username": "Emporer" },
+    { "uid": "422270", "username": "Kill4joy KJ-Vulcan Tools" },
+    { "uid": "515249", "username": "Sir" },
+    { "uid": "526277", "username": "Mr. Potato Head" },
+    { "uid": "657392", "username": "Astonish is NJ" },
+    { "uid": "734805", "username": "Glassy" },
+    { "uid": "735315", "username": "Michael Westen" },
+    { "uid": "738154", "username": "MLD" },
+    { "uid": "762186", "username": "Naxian" },
+    { "uid": "762646", "username": "Døn" },
+    { "uid": "815887", "username": "-=Conqueror=-" },
+    { "uid": "891268", "username": "OnTheFly" },
+    { "uid": "898134", "username": "Uzi‍" },
+    { "uid": "916706", "username": "Innocence." },
+    { "uid": "946680", "username": "Ignite." },
+    { "uid": "949857", "username": "Slayher" },
+    { "uid": "964299", "username": "Purple Haze" },
+    { "uid": "1007343", "username": "BELLAGIO" }
+  ]
+}

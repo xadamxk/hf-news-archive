@@ -1,0 +1,410 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient is working on a new HF 3p1c usergroup, an add-on group with no requirements that will offer shorter PM/search flood times; expected to cost $10-12 with BTC likely the only accepted currency.",
+      "thread": "http://hackforums.net/showthread.php?tid=3629832",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "42221",
+          "username": "tester"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Xch4ng3 was promoted to Administrator and placed in charge of all account-related issues including the contact form; Judge Dredd was promoted back to Staff after being demoted from Administrator; D3xus was promoted to Probational Staff; The-Ex (formerly Saged) was demoted from Staff to Mentor; Positive was promoted back to Mentor; Clique hit 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3628559",
+      "users": [
+        {
+          "uid": "65784",
+          "username": "Xch4ng3"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        },
+        {
+          "uid": "47360",
+          "username": "The-Ex"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Marketing group Illuminati owner Αnonymous opened recruitment.",
+      "thread": "http://hackforums.net/showthread.php?tid=3628559",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BELLAGIO was repfucked and had their account closed; Poliwag was banned with the reason 'Your dog is ugly.'; Mr Kewl took a vacation ban.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1007343",
+          "username": "BELLAGIO"
+        },
+        {
+          "uid": "1702377",
+          "username": "Poliwag"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Αnonymous and Delicious donated for Bitcoinage; Deployment, Emylbus, Tarn, and Citizen Snips were gifted the Gift award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3628559",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "275104",
+          "username": "Delicious"
+        },
+        {
+          "uid": "1374668",
+          "username": "Deployment"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        },
+        {
+          "uid": "987097",
+          "username": "Tarn"
+        },
+        {
+          "uid": "40895",
+          "username": "Citizen Snips"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Lani and Invisus became leaders of Illuminati; Operate became leader of Void; Makaveli The Don became leader of Complexity; Prox is no longer a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3620042",
+      "users": [
+        {
+          "uid": "42927",
+          "username": "Lani"
+        },
+        {
+          "uid": "770060",
+          "username": "Invisus"
+        },
+        {
+          "uid": "1589910",
+          "username": "Operate"
+        },
+        {
+          "uid": "509788",
+          "username": "Makaveli The Don"
+        },
+        {
+          "uid": "1017396",
+          "username": "Prox"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Helpful Thread: Antigen's '[AV, AM, AS] Security Tools Ultimate Compilation [with Rating] [Mega Thread]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3620042",
+      "users": [
+        {
+          "uid": "1431113",
+          "username": "Antigen"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Helpful Thread: xadamxk's 'The Ultimate Compilation of Hack Forum Userscripts'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3569941",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group Thread: Αnonymous's 'Illuminati | Official Marketing Group | Applications thread'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3628559",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Makaveli The Don conducted by Connected; covers his journey from being a noob, his marketing skills, his promotion to Complexity leader and goals for the group, and his desire for his country to be unbanned from HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=3620042",
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "509788",
+          "username": "Makaveli The Don"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Xch4ng3 conducted by D3xus; covers his promotion to Administrator handling multi-accounters and ban evaders, his closed exchange service, the hacker22 fiasco, and ongoing attacks on HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=3628559",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        },
+        {
+          "uid": "65784",
+          "username": "Xch4ng3"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News) / Journalist (Tech News)"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "40895",
+      "username": "Citizen Snips"
+    },
+    {
+      "uid": "42221",
+      "username": "tester"
+    },
+    {
+      "uid": "42927",
+      "username": "Lani"
+    },
+    {
+      "uid": "47360",
+      "username": "The-Ex"
+    },
+    {
+      "uid": "65784",
+      "username": "Xch4ng3"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "509788",
+      "username": "Makaveli The Don"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "770060",
+      "username": "Invisus"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "987097",
+      "username": "Tarn"
+    },
+    {
+      "uid": "1007343",
+      "username": "BELLAGIO"
+    },
+    {
+      "uid": "1017396",
+      "username": "Prox"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1374668",
+      "username": "Deployment"
+    },
+    {
+      "uid": "1431113",
+      "username": "Antigen"
+    },
+    {
+      "uid": "1589910",
+      "username": "Operate"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1702377",
+      "username": "Poliwag"
+    }
+  ]
+}

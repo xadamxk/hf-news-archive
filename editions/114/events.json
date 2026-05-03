@@ -1,0 +1,323 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient re-implemented the Thread Ratings plugin (Ub3r-only rating, all members can view) despite previous abuse concerns from Marketplace users.",
+      "thread": "http://hackforums.net/showthread.php?tid=2950343",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient activated a Thread Prefixes plugin allowing per-section prefix sets to vaguely categorize threads.",
+      "thread": "http://hackforums.net/showthread.php?tid=2950320",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new 'Premium Hacking Tutorials' section was created under the Hacking tab; only Staff can move threads into it to highlight quality tutorials.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Hackercraft reached its final phase of open beta with continued discussion on paid factions and donations.",
+      "thread": "http://hackforums.net/showthread.php?tid=2938109",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dan. and Kohsti reached 1,000 reputation points.",
+      "thread": "http://hackforums.net/showthread.php?tid=2943634",
+      "users": [
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        },
+        {
+          "uid": "1137768",
+          "username": "Kohsti"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Automatic Coding was repfucked and banned; Valik ϟ was repfucked and his account closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "83317",
+          "username": "Automatic Coding"
+        },
+        {
+          "uid": "329361",
+          "username": "Valik ϟ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "νιятυαℓнα¢кєя was banned for financial fraud.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "817663",
+          "username": "νιятυαℓнα¢кєя"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga received the Dog Lover award; Apathy received the Sticky Man award for a detailed thread on how to debate.",
+      "thread": "http://hackforums.net/showthread.php?tid=2942376",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: BlackCap's 'Online IDE'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2942376",
+      "users": [
+        {
+          "uid": "316828",
+          "username": "BlackCap"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Yellows's '143 [❤] - Emotional Support - Relationship Support - Advice/Input'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2939843",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Control Panel's 'HF Legends, Superstars, Well Known, Semi Well known Members List'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2953843",
+      "users": [
+        {
+          "uid": "847197",
+          "username": "Control Panel"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cyber-Security conducted by +Entity; covers his start with DDoS, batch coding tutorial work, YouTube channel, and helping his school IT department.",
+      "thread": "http://hackforums.net/showthread.php?tid=2953843",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "675453",
+          "username": "Cyber-Security"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Phytrix conducted by malichi; covers his Runescape past, boarding school, loss of Catholic faith, grammar pedantry, group memberships (Writers, Empire, Logic, Rhythm leadership), and US politics.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1323486",
+          "username": "AvidWB",
+          "role": "Webshow"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1044864",
+          "username": "malichi",
+          "role": "Interviewer (Once)"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "83317",
+      "username": "Automatic Coding"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "316828",
+      "username": "BlackCap"
+    },
+    {
+      "uid": "329361",
+      "username": "Valik ϟ"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "675453",
+      "username": "Cyber-Security"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "817663",
+      "username": "νιятυαℓнα¢кєя"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "847197",
+      "username": "Control Panel"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1137768",
+      "username": "Kohsti"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    }
+  ]
+}

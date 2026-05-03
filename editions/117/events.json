@@ -1,0 +1,328 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Hack Forums experienced 36 hours of grueling downtime due to multiple DDoS attacks and subsequent server bugs; Omniscient documented the ordeal in a blog post.",
+      "thread": "http://hackforums.net/showthread.php?tid=3001666",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Multiple users were banned and repfucked for attempted Amazon-related fraud as Omniscient cracked down on fraud across the forum.",
+      "thread": "http://hackforums.net/showthread.php?tid=3001666",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient created a new 'Rewards and Small Favors' Marketplace subsection for services smaller than those in Service Offerings.",
+      "thread": "http://hackforums.net/showthread.php?tid=3001666",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dan. won Member of the Month by a landslide of 108 votes (46-vote margin), the biggest MOTM win this year.",
+      "thread": "http://hackforums.net/showthread.php?tid=2988325",
+      "users": [
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Natha reached 10,000 posts; Kr4z1 is no longer a Mentor.",
+      "thread": "http://hackforums.net/showthread.php?tid=2988325",
+      "users": [
+        {
+          "uid": "121196",
+          "username": "Natha"
+        },
+        {
+          "uid": "143654",
+          "username": "Kr4z1"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Oats‌‌‌, Blazin, Snapback., Aspolale, and USMC Chris were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1316890",
+          "username": "Oats‌‌‌"
+        },
+        {
+          "uid": "74674",
+          "username": "Blazin"
+        },
+        {
+          "uid": "280487",
+          "username": "Snapback."
+        },
+        {
+          "uid": "284171",
+          "username": "Aspolale"
+        },
+        {
+          "uid": "1246572",
+          "username": "USMC Chris"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Nickelodeon received the Brony award; Kool Kid received the Sticky Man award; Juicy Booty received the Cool award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2992802",
+      "users": [
+        {
+          "uid": "1206954",
+          "username": "Nickelodeon"
+        },
+        {
+          "uid": "1270485",
+          "username": "Kool Kid"
+        },
+        {
+          "uid": "923753",
+          "username": "Juicy Booty"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Reptar ツ's 'Windows 8 [Information Thread]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2992802",
+      "users": [
+        {
+          "uid": "1450962",
+          "username": "Reptar ツ"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'Let's create a Virtual Nation for Hack Forums'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3008693",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with iElement conducted by +Entity; covers his promotion to Logic leader after creating the group's graphics with Hexicidal, his graphics work for Rhythm, and Writ3rs regret.",
+      "thread": "http://hackforums.net/showthread.php?tid=3008693",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "879655",
+          "username": "iElement"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with iceybunneh and Viral Dragon conducted by Phytrix; covers their marriage origin via MSN, Viral's leadership of the Wiki Team, icey's Innuendo Queen reputation and editor work, and detailed critique of HackerCraft.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "620004",
+          "username": "iceybunneh"
+        },
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Sir's Second"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "74674",
+      "username": "Blazin"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "143654",
+      "username": "Kr4z1"
+    },
+    {
+      "uid": "280487",
+      "username": "Snapback."
+    },
+    {
+      "uid": "284171",
+      "username": "Aspolale"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "620004",
+      "username": "iceybunneh"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "879655",
+      "username": "iElement"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "923753",
+      "username": "Juicy Booty"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1206954",
+      "username": "Nickelodeon"
+    },
+    {
+      "uid": "1246572",
+      "username": "USMC Chris"
+    },
+    {
+      "uid": "1270485",
+      "username": "Kool Kid"
+    },
+    {
+      "uid": "1316890",
+      "username": "Oats‌‌‌"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1450962",
+      "username": "Reptar ツ"
+    }
+  ]
+}

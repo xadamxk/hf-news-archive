@@ -1,0 +1,329 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "HF News added a new 'Gaming News' section, with a layout update planned to include a section bar.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "Castle Bravo renamed the suspended Minecrafters group to 'Root' — invite-only, focused on all things computer-related, with strict requirements.",
+      "thread": "http://hackforums.net/showthread.php?tid=2386223",
+      "users": [
+        {
+          "username": "Castle Bravo"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced that Ub3r and possibly l33t upgrade prices will change in the coming week, and that he will no longer allow direct normal-to-ub3r upgrades.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rawr! was banned, repfucked, and had his awards removed for being associated with Time and Musky.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "594159",
+          "username": "Rawr!"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "panDa. had his account stolen.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "566671",
+          "username": "panDa."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Nubby, Vito Scaletta, eXawn, and MLD were all banned for trolling/troll-account creation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "203626",
+          "username": "Nubby"
+        },
+        {
+          "uid": "86914",
+          "username": "Vito Scaletta"
+        },
+        {
+          "uid": "829359",
+          "username": "eXawn"
+        },
+        {
+          "uid": "738154",
+          "username": "MLD"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Neal Caffrey was banned for selling outside the Marketplace and had the ban extended after creating another account.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "944024",
+          "username": "Neal Caffrey"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mac Thread: [M]'s 'Create an invisible Folder' tutorial.",
+      "thread": "http://hackforums.net/showthread.php?tid=2379517",
+      "users": [
+        {
+          "uid": "526511",
+          "username": "[M]"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "WoW Thread: iPlay's continually-updated index of premium WoW guides.",
+      "thread": "http://hackforums.net/showthread.php?tid=2377748",
+      "users": [
+        {
+          "uid": "43337",
+          "username": "iPlay"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Scandal Thread: Burst's exposé claiming The MammoTh used a fiverr advertisement to obtain his YouTube award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2386596",
+      "users": [
+        {
+          "uid": "1247066",
+          "username": "Burst"
+        },
+        {
+          "uid": "572367",
+          "username": "The MammoTh"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "XSS Thread: -Divine-'s 'Ultimate XSS Tutorial'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2375454",
+      "users": [
+        {
+          "uid": "1042274",
+          "username": "-Divine-"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "T3h Hack3r received the MOTM award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Delicious and Mark Webber were demoted from leaders of Techsperts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "275104",
+          "username": "Delicious"
+        },
+        {
+          "uid": "89623",
+          "username": "Mark Webber"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with тнє Pυηιѕнєя conducted by Michael Westen; covers his joining HF for Runescape hacks, favorite section (Lounge), and personal views.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "username": "тнє Pυηιѕнєя"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics / Interviewer"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze.",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "126704",
+          "username": "Rhythm",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "43337",
+      "username": "iPlay"
+    },
+    {
+      "uid": "86914",
+      "username": "Vito Scaletta"
+    },
+    {
+      "uid": "89623",
+      "username": "Mark Webber"
+    },
+    {
+      "uid": "126704",
+      "username": "Rhythm"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "203626",
+      "username": "Nubby"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "526511",
+      "username": "[M]"
+    },
+    {
+      "uid": "566671",
+      "username": "panDa."
+    },
+    {
+      "uid": "572367",
+      "username": "The MammoTh"
+    },
+    {
+      "uid": "594159",
+      "username": "Rawr!"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "738154",
+      "username": "MLD"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "829359",
+      "username": "eXawn"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "944024",
+      "username": "Neal Caffrey"
+    },
+    {
+      "uid": "964299",
+      "username": "Purple Haze."
+    },
+    {
+      "uid": "1042274",
+      "username": "-Divine-"
+    },
+    {
+      "uid": "1247066",
+      "username": "Burst"
+    }
+  ]
+}

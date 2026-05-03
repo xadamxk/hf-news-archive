@@ -1,0 +1,201 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient posted his full 9/11 story on his blog Vbum, taking 4 hours to write; members were invited to share their own.",
+      "thread": "http://hackforums.net/showthread.php?tid=1711509",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "An official 9/11 memorial thread was created for members to share stories or condolences.",
+      "thread": "http://hackforums.net/showthread.php?tid=1708645",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "The Premium Ebook Bazaar section is now ready for submissions, moderated by Cam G and -BoodyE-.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Cam G",
+          "uid": "188472"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Members must now have a reputation greater than 0 to post in the Marketplace (excluding Marketplace Discussions). The change is intended to reduce scammers, sales trashers, and ban evaders.",
+      "thread": "http://hackforums.net/showthread.php?tid=1691787",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Only l33ts and ub3rs may now post threads in the Gamertags section, and Gamertags may not be offered in any other section.",
+      "thread": "http://hackforums.net/showthread.php?tid=1691662",
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "A new private group called Minecrafters was created on September 5, 2011, led by Dylan and ๖ۣۜPink ๖ۣۜFloyd.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Dylan",
+          "uid": "559352"
+        },
+        {
+          "uid": "215614",
+          "username": "๖ۣۜPink ๖ۣۜFloyd"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Egypt is now country-blocked from HackForums.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Double Posting was removed from the list of report options.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "The group named Dead has been renamed to Closed.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Sтяιdєя crossed 1,000 reputation, joining the top members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "682150",
+          "username": "Sтяιdєя"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rhythm changed his name to 'Omniscient' and was shortly repfucked, especially after sending PMs inviting people to staff.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Rhythm",
+          "uid": "126704"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Judge Dredd was reportedly repfucking and revenge-repping members who neg-rep him; he also passed 1,000 reputation despite multiple attempts to keep him below it.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tasemu developed the 'Otaku Handbook,' a guide for anyone wishing to learn more about anime or find a new series.",
+      "thread": "http://hackforums.net/showthread.php?tid=1688773",
+      "users": [
+        {
+          "username": "Tasemu",
+          "uid": "62795"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Deltron reached HJT undergraduate status and will continue his training offsite to help HF members.",
+      "thread": "http://hackforums.net/showthread.php?tid=1698427",
+      "users": [
+        {
+          "username": "Deltron",
+          "uid": "847488"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with alabama conducted by Cobalt+; covers his school situation, joining HF, and his alias origin.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "username": "alabama",
+          "uid": "622763"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "126704",
+      "username": "Rhythm"
+    },
+    {
+      "uid": "188472",
+      "username": "Cam G"
+    },
+    {
+      "uid": "215614",
+      "username": "๖ۣۜPink ๖ۣۜFloyd"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "559352",
+      "username": "Dylan"
+    },
+    {
+      "uid": "622763",
+      "username": "alabama"
+    },
+    {
+      "uid": "682150",
+      "username": "Sтяιdєя"
+    },
+    {
+      "uid": "847488",
+      "username": "Deltron"
+    }
+  ]
+}

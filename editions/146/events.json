@@ -1,0 +1,548 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Black Diamonds, an invite-only marketing group owned by [ M ], officially opened, evolving from the previously sold Terror group.",
+      "thread": "http://hackforums.net/showthread.php?tid=3528397",
+      "users": [
+        {
+          "uid": "526511",
+          "username": "[ M ]"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient implemented an NSFW Cname (nsfw.hackforums.net) as a bandwidth-saving alternative for users on slower connections.",
+      "thread": "http://hackforums.net/showthread.php?tid=3528397",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient enabled a thread title filter that strips most special characters from new and edited thread titles.",
+      "thread": "http://hackforums.net/showthread.php?tid=3531763",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient hosted the third annual Good Will Monday, asking members to give five positive reputations and avoid negatives.",
+      "thread": "http://hackforums.net/showthread.php?tid=3525096",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xadamxk hit 10,000 posts; Sir was made moderator of the HF News subforum; T3h Hack3r was removed from staff; Panik hit 1,000 reputation; Vitani's Mate hit 2,000 reputation; adampelletgun was promoted to Mentor again.",
+      "thread": "http://hackforums.net/showthread.php?tid=3525096",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        },
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik"
+        },
+        {
+          "uid": "651773",
+          "username": "Vitani's Mate"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Lesson, the notorious scammer, was repfucked and finally banned with reason 'Your time has come.'; Uncensored was repfucked and had her account closed; BagHead was repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "837472",
+          "username": "Lesson"
+        },
+        {
+          "uid": "1416099",
+          "username": "Uncensored"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Death Disturbance was banned for reporting staff posts; 0mega, _InSiDiOuS_, and aiir were banned for posting Marketplace-style threads outside the Marketplace; Dolan Duck and ‌Castiel‌ were banned for trolling in the Griefing section; QueeN- was banned for multiple accounts; Rubbers was banned for sending an insulting PM to Omniscient; #Skyline and Panik were banned for LQP.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "951772",
+          "username": "Death Disturbance"
+        },
+        {
+          "uid": "58761",
+          "username": "0mega"
+        },
+        {
+          "uid": "1179086",
+          "username": "_InSiDiOuS_"
+        },
+        {
+          "uid": "141275",
+          "username": "aiir"
+        },
+        {
+          "uid": "954577",
+          "username": "Dolan Duck"
+        },
+        {
+          "uid": "1512567",
+          "username": "‌Castiel‌"
+        },
+        {
+          "uid": "1562072",
+          "username": "QueeN-"
+        },
+        {
+          "uid": "988486",
+          "username": "Rubbers"
+        },
+        {
+          "uid": "1232842",
+          "username": "#Skyline"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Emylbus, Derrick Rose, N3oNight, dMDzn, Alakazam, and Sacred™ were vacation banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        },
+        {
+          "uid": "721613",
+          "username": "Derrick Rose"
+        },
+        {
+          "uid": "300035",
+          "username": "N3oNight"
+        },
+        {
+          "uid": "1220475",
+          "username": "dMDzn"
+        },
+        {
+          "uid": "1349466",
+          "username": "Alakazam"
+        },
+        {
+          "uid": "1262623",
+          "username": "Sacred™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "[ M ] donated for the Master Donator and Bitcoinage awards; 'Snorlax received the Cool award; IIMachavelli received the Sticky Man award; Αnonymous won the MOTM award; Fl0werpot donated for the Rich Bitch award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3525922",
+      "users": [
+        {
+          "uid": "526511",
+          "username": "[ M ]"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "1221644",
+          "username": "IIMachavelli"
+        },
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "1323829",
+          "username": "Fl0werpot"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "[ M ] became owner of Black Diamond with VoxaDub as a leader; Madness is now a leader of Innovation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3521192",
+      "users": [
+        {
+          "uid": "526511",
+          "username": "[ M ]"
+        },
+        {
+          "uid": "958628",
+          "username": "VoxaDub"
+        },
+        {
+          "uid": "848947",
+          "username": "Madness"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: SomeWhiteGuy's 'Halo 3 Tournament - Xbox 360.'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3521192",
+      "users": [
+        {
+          "uid": "878768",
+          "username": "SomeWhiteGuy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Robbieava's 'Cold shower 30 day challenge. [100 members + participating]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3528331",
+      "users": [
+        {
+          "uid": "81075",
+          "username": "Robbieava"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Tοny's 'Guardians - Kerbal Space Program - Guide to the basics'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3526436",
+      "users": [
+        {
+          "uid": "1429987",
+          "username": "Tοny"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Peter L conducted by Connected; covers his 2008 join via phishing, his Proxy Project ebook, multi-group memberships, and goals to earn Master Donator and become a Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "7744",
+          "username": "Peter L"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with MuzzyHF conducted by SkyGuy; covers his alias inspired by Monstercat artist Muzzy, joining Void, mentoring in Innovation, and views on the Beginner Hacking section and the Marketers sale.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1121679",
+          "username": "SkyGuy"
+        },
+        {
+          "uid": "1624866",
+          "username": "MuzzyHF"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Sir announced the discontinuation of the Minecraft News column following BagHead's departure from the Writers team.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1108450",
+          "username": "BagHead"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Bad Meets Evil joined as Graphical Editor and Odin the Wanderer also took over Tech News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer",
+          "role": "Journalist (World News) / Journalist (Tech News)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "7744",
+      "username": "Peter L"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "58761",
+      "username": "0mega"
+    },
+    {
+      "uid": "81075",
+      "username": "Robbieava"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "141275",
+      "username": "aiir"
+    },
+    {
+      "uid": "300035",
+      "username": "N3oNight"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "526511",
+      "username": "[ M ]"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651773",
+      "username": "Vitani's Mate"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "721613",
+      "username": "Derrick Rose"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "837472",
+      "username": "Lesson"
+    },
+    {
+      "uid": "848947",
+      "username": "Madness"
+    },
+    {
+      "uid": "878768",
+      "username": "SomeWhiteGuy"
+    },
+    {
+      "uid": "951772",
+      "username": "Death Disturbance"
+    },
+    {
+      "uid": "954577",
+      "username": "Dolan Duck"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "958628",
+      "username": "VoxaDub"
+    },
+    {
+      "uid": "988486",
+      "username": "Rubbers"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1179086",
+      "username": "_InSiDiOuS_"
+    },
+    {
+      "uid": "1220475",
+      "username": "dMDzn"
+    },
+    {
+      "uid": "1221644",
+      "username": "IIMachavelli"
+    },
+    {
+      "uid": "1232842",
+      "username": "#Skyline"
+    },
+    {
+      "uid": "1262623",
+      "username": "Sacred™"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1323829",
+      "username": "Fl0werpot"
+    },
+    {
+      "uid": "1349466",
+      "username": "Alakazam"
+    },
+    {
+      "uid": "1416099",
+      "username": "Uncensored"
+    },
+    {
+      "uid": "1429987",
+      "username": "Tοny"
+    },
+    {
+      "uid": "1512567",
+      "username": "‌Castiel‌"
+    },
+    {
+      "uid": "1562072",
+      "username": "QueeN-"
+    },
+    {
+      "uid": "1624866",
+      "username": "MuzzyHF"
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "The HF Malware Removal Team (formerly HijackThis Team) opened public recruitment for the first time in over a year following a restructuring under leaders T3h Hacker, Paradoxum, and AsSaSs@iN.",
+      "thread": null,
+      "users": [
+        {
+          "username": "T3h Hacker"
+        },
+        {
+          "username": "Paradoxum",
+          "uid": "70881"
+        },
+        {
+          "username": "AsSaSs@iN"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Guardians, formerly Beacon, was officially founded and opened recruitment, led by Plaтiпuм and Morchid.",
+      "thread": "http://hackforums.net/showthread.php?tid=3395221",
+      "users": [
+        {
+          "uid": "1341017",
+          "username": "Plaтiпuм"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient deleted the PS Vita and PSP forums citing inactivity, merging their contents into a new combined Sony Gaming subforum.",
+      "thread": "http://hackforums.net/showthread.php?tid=3395221",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient began experimenting with a Tweet button visible under each thread's showthread.php ID.",
+      "thread": "http://hackforums.net/showthread.php?tid=3408748",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Accident had his account closed and re-opened; Grin was promoted to moderator of the Pet Peeve section; Christy, Impulsee, MeaMeaJ, ViN, and Diabolic hit the 1,000 reputation mark; Sandshrew was demoted to L33T; redpois0n hit the 20,000 post mark.",
+      "thread": "http://hackforums.net/showthread.php?tid=3408748",
+      "users": [
+        {
+          "uid": "992333",
+          "username": "Accident"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin"
+        },
+        {
+          "uid": "746038",
+          "username": "Christy"
+        },
+        {
+          "uid": "663370",
+          "username": "Impulsee"
+        },
+        {
+          "uid": "100824",
+          "username": "MeaMeaJ"
+        },
+        {
+          "uid": "231731",
+          "username": "ViN"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "1233686",
+          "username": "Sandshrew"
+        },
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Maple ‎‎ was repfucked and banned for multiple accounts; Sir Dunya was repfucked twice; Insert Clever Username, Skywalker, and Accident were banned for low quality posting; Positive, Mr. Snow, Harry Dresden, and BloodDrain were vacation banned.",
+      "thread": "http://hackforums.net/showthread.php?tid=3408748",
+      "users": [
+        {
+          "uid": "1040338",
+          "username": "Maple ‎‎"
+        },
+        {
+          "uid": "877949",
+          "username": "Sir Dunya"
+        },
+        {
+          "uid": "1081174",
+          "username": "Insert Clever Username"
+        },
+        {
+          "uid": "146557",
+          "username": "Skywalker"
+        },
+        {
+          "uid": "992333",
+          "username": "Accident"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "133256",
+          "username": "Mr. Snow"
+        },
+        {
+          "uid": "899243",
+          "username": "Harry Dresden"
+        },
+        {
+          "uid": "801804",
+          "username": "BloodDrain"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "mad received the Da Bomb award; Draggin received the Fish Err Man award; Diabolic received the Sticky Man award; OSIRIS Security received the Silver Medal award; Kohsti and #Skyline donated for the Master Donator award; #Skyline also received the Rat Expert award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3393255",
+      "users": [
+        {
+          "uid": "482888",
+          "username": "mad"
+        },
+        {
+          "uid": "194707",
+          "username": "Draggin"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "1759684",
+          "username": "OSIRIS Security"
+        },
+        {
+          "uid": "1137768",
+          "username": "Kohsti"
+        },
+        {
+          "uid": "1232842",
+          "username": "#Skyline"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Black Shadow's '★ ★ ★ Award up for auction The Qwazz Star ★ ★ ★'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3393255",
+      "users": [
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Umbreon's 'Respawn - Ultimate Minecraft Guide'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3356010",
+      "users": [
+        {
+          "uid": "1474343",
+          "username": "Umbreon"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: OSIRIS Security's 'Showing how Carbon's ★FileProtector★ is 100% backdoored.'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3395318",
+      "users": [
+        {
+          "uid": "1759684",
+          "username": "OSIRIS Security"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Miki conducted by Connected; covers his 2009-10 lurking and 2012 registration to learn monetization, Terror group membership, and his RadarScan project.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1315784",
+          "username": "Miki"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with mad conducted by Connected; covers his Marketplace business, The Empire membership, age 26 with a CS engineering degree, and a possible new telephone-company job.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for the winner and $10 each for two runner-ups.",
+      "thread": "http://hackforums.net/showthread.php?tid=3400010",
+      "users": []
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; D3xus joined as Headlines journalist and SkyGuy returned to Music News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News) / Reporter"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "100824",
+      "username": "MeaMeaJ"
+    },
+    {
+      "uid": "133256",
+      "username": "Mr. Snow"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "146557",
+      "username": "Skywalker"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "194707",
+      "username": "Draggin"
+    },
+    {
+      "uid": "231731",
+      "username": "ViN"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "663370",
+      "username": "Impulsee"
+    },
+    {
+      "uid": "746038",
+      "username": "Christy"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "801804",
+      "username": "BloodDrain"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "877949",
+      "username": "Sir Dunya"
+    },
+    {
+      "uid": "899243",
+      "username": "Harry Dresden"
+    },
+    {
+      "uid": "992333",
+      "username": "Accident"
+    },
+    {
+      "uid": "1040338",
+      "username": "Maple ‎‎"
+    },
+    {
+      "uid": "1049662",
+      "username": "redpois0n"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1081174",
+      "username": "Insert Clever Username"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1137768",
+      "username": "Kohsti"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1232842",
+      "username": "#Skyline"
+    },
+    {
+      "uid": "1233686",
+      "username": "Sandshrew"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1315784",
+      "username": "Miki"
+    },
+    {
+      "uid": "1341017",
+      "username": "Plaтiпuм"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1474343",
+      "username": "Umbreon"
+    },
+    {
+      "uid": "1759684",
+      "username": "OSIRIS Security"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient announced that no more new groups will be sold; existing paid groups can still be transferred between owners. He stated groups were losing their rarity, much like awards.",
+      "thread": "http://hackforums.net/showthread.php?tid=2866105",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient implemented a new past-username search feature, allowing Ub3rs to look up old usernames to find profiles of members who have changed names.",
+      "thread": "http://hackforums.net/showthread.php?tid=2825792",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient persuaded AOL to lift its IP ban on HF emails, restoring registration and password recovery for AOL users.",
+      "thread": "http://hackforums.net/showthread.php?tid=2825792",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "monkeytherat won the Hackforums chess tournament.",
+      "thread": "http://hackforums.net/showthread.php?tid=2825792",
+      "users": [
+        {
+          "uid": "688075",
+          "username": "monkeytherat"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Moralitas stepped down as Staff.",
+      "thread": "http://hackforums.net/showthread.php?tid=2825792",
+      "users": [
+        {
+          "uid": "129812",
+          "username": "Moralitas"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chief.'s account was re-opened.",
+      "thread": "http://hackforums.net/showthread.php?tid=2863314",
+      "users": [
+        {
+          "uid": "458073",
+          "username": "Chief."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellows had his post count drastically lowered.",
+      "thread": "http://hackforums.net/showthread.php?tid=2825792",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Paradoxum was promoted to Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Suhinder was banned for multi-accounting; The Goat was banned for trolling; S70N3R was banned for a year again; Cody was banned due to an infection.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "869826",
+          "username": "Suhinder"
+        },
+        {
+          "uid": "65141",
+          "username": "The Goat"
+        },
+        {
+          "uid": "132817",
+          "username": "S70N3R"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Diogenes of Sinope was repfucked and had his account closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "65167",
+          "username": "Diogenes of Sinope"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Blazin received the Brony award for smoking weed and watching MLP.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "74674",
+          "username": "Blazin"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Formula1 stepped down as a leader of Eminence; Chief. and iElement became leaders of Logic.",
+      "thread": "http://hackforums.net/showthread.php?tid=2863314",
+      "users": [
+        {
+          "uid": "1033713",
+          "username": "Formula1"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "879655",
+          "username": "iElement"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Phegget's 'HF OMGPOP Pool Tournament 4 - REGISTER NOW - $105 worth of prizes.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2863314",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Phegget"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: malichi's 'Romney the Liar!'",
+      "thread": "http://hackforums.net/showthread.php?tid=2862049",
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Sherlock Holmes's 'Do you think real Time Travel will ever be possible?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2858776",
+      "users": [
+        {
+          "uid": "767248",
+          "username": "Sherlock Holmes"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: The Elite's 'You are born gay - Only logical arguments.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2857157",
+      "users": [
+        {
+          "uid": "136025",
+          "username": "The Elite"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Group interview with Logic conducted by Phytrix; Hexicidal and members fielded SRPP-style questions on multiple dimensions, political movements, suicide, immortality, ghosts, standardized testing, and consciousness.",
+      "thread": "http://hackforums.net/showthread.php?tid=2851558",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "1091100",
+          "username": "Racutt"
+        },
+        {
+          "uid": "73089",
+          "username": "sylvertech"
+        },
+        {
+          "uid": "1204034",
+          "username": "DeadLine"
+        },
+        {
+          "uid": "849324",
+          "username": "Text"
+        },
+        {
+          "uid": "981500",
+          "username": "zZParadoxZz"
+        },
+        {
+          "uid": "397679",
+          "username": "Anarchy"
+        },
+        {
+          "uid": "567334",
+          "username": "Cyph3rStorm"
+        },
+        {
+          "uid": "839420",
+          "username": "Isaac Asimov"
+        },
+        {
+          "uid": "1160000",
+          "username": "tamilan"
+        },
+        {
+          "uid": "675453",
+          "username": "Cyber-Security"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with zZParadoxZz conducted by Phytrix; covers his RAT/coding origins, religious stance, views on suicide and the death penalty, music tastes, and approval of Omniscient ending paid usergroups.",
+      "thread": "http://hackforums.net/showthread.php?tid=2851558",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "981500",
+          "username": "zZParadoxZz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iElement joined the HF News team as the new World News writer.",
+      "thread": "http://hackforums.net/showthread.php?tid=2863314",
+      "users": [
+        {
+          "uid": "879655",
+          "username": "iElement"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "879655",
+          "username": "iElement",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "65141",
+      "username": "The Goat"
+    },
+    {
+      "uid": "65167",
+      "username": "Diogenes of Sinope"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "73089",
+      "username": "sylvertech"
+    },
+    {
+      "uid": "74674",
+      "username": "Blazin"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "129812",
+      "username": "Moralitas"
+    },
+    {
+      "uid": "132817",
+      "username": "S70N3R"
+    },
+    {
+      "uid": "136025",
+      "username": "The Elite"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "397679",
+      "username": "Anarchy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "458073",
+      "username": "Chief."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "567334",
+      "username": "Cyph3rStorm"
+    },
+    {
+      "uid": "675453",
+      "username": "Cyber-Security"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "688075",
+      "username": "monkeytherat"
+    },
+    {
+      "uid": "767248",
+      "username": "Sherlock Holmes"
+    },
+    {
+      "uid": "839420",
+      "username": "Isaac Asimov"
+    },
+    {
+      "uid": "849324",
+      "username": "Text"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "869826",
+      "username": "Suhinder"
+    },
+    {
+      "uid": "879655",
+      "username": "iElement"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "981500",
+      "username": "zZParadoxZz"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1033713",
+      "username": "Formula1"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1091100",
+      "username": "Racutt"
+    },
+    {
+      "uid": "1160000",
+      "username": "tamilan"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1204034",
+      "username": "DeadLine"
+    }
+  ]
+}

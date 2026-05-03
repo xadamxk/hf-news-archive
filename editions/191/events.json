@@ -1,0 +1,489 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Ty hit 1,000 reputation; Odin the Wanderer hit 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4177118",
+      "users": [
+        {
+          "uid": "1871421",
+          "username": "Ty ™"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Acroz was repfucked and banned over 'Serious Issues' (and scammed Illuminati for $1100); Dillweed was repfucked and banned for excessive reputation abuse; Schultz was repfucked; Ghetto~~ was banned over a possibly compromised account; Tɦɛ Gʀiɱ was banned for threatening members via PM; Kaoxic was banned for sales by proxy; Volim te was banned for low-quality posting; A‏d‏am had an expired ban for idiotic behavior.",
+      "thread": "http://hackforums.net/showthread.php?tid=4171713",
+      "users": [
+        {
+          "uid": "1417555",
+          "username": "Acroz"
+        },
+        {
+          "uid": "2074089",
+          "username": "Dillweed"
+        },
+        {
+          "uid": "2191579",
+          "username": "Schultz"
+        },
+        {
+          "uid": "959991",
+          "username": "Ghetto~~"
+        },
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        },
+        {
+          "uid": "1968914",
+          "username": "Kaoxic"
+        },
+        {
+          "uid": "188730",
+          "username": "Volim te"
+        },
+        {
+          "uid": "1660795",
+          "username": "A‏d‏am"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Renowned, King Zendle, and Dex‌ took vacation bans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "620668",
+          "username": "Renowned"
+        },
+        {
+          "uid": "1082984",
+          "username": "King Zendle"
+        },
+        {
+          "uid": "1607053",
+          "username": "Dex‌"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ignoble was closed; Slanted was closed for being an account thief; MiserAble, a 2009 member, was closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "2221835",
+          "username": "Ignoble"
+        },
+        {
+          "uid": "2223246",
+          "username": "Slanted"
+        },
+        {
+          "uid": "111824",
+          "username": "MiserAble"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Doctor Blue received the Mad Scientist award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Polymath opened its fourth recruitment thread (led by Lani) doubling as an AI bot giveaway with cash, awards, crypto, and upgrades for solving codes.",
+      "thread": "http://hackforums.net/showthread.php?tid=4183984",
+      "users": [
+        {
+          "uid": "42927",
+          "username": "Lani"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Null opened recruitment for coders and product owners (whitehat or blackhat, excluding VPNs and crypters), led by Soccer.",
+      "thread": "http://hackforums.net/showthread.php?tid=4179012",
+      "users": [
+        {
+          "uid": "1055259",
+          "username": "Soccer"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: The Illusionist's '[HOT] Clash of Clans HF Thread'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3627424",
+      "users": [
+        {
+          "uid": "1453525",
+          "username": "The Illusionist"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Tɦɛ Gʀiɱ's 'Scammed by Acroz | Illuminati leader for $1100' exposing the former Illuminati leader.",
+      "thread": "http://hackforums.net/showthread.php?tid=4171713",
+      "users": [
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Designer's '$1,750+ CONTEST! - GamingFan.com' giveaway.",
+      "thread": "http://hackforums.net/showthread.php?tid=3883010",
+      "users": [
+        {
+          "uid": "1290620",
+          "username": "Designer"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Aurа's '[Polymath] Advices, Tips and Tricks to get into Computing & WHH [Video]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4180260",
+      "users": [
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Formula1 conducted by Clark; covers his Yoville origins, his switch from hacking to marketing, his Respawn and Infamous memberships, the Complexity-to-Infamous conversion, and his repfuck over Peter L community alerts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1033713",
+          "username": "Formula1"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Maximum (Junior) conducted by Clique; covers the gamertag market decline since Ub3rs-only threads, his favorite tags (F, GT, Scary), Twitter trading, and his Zero product partnership with Syrah.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Robust conducted by 630; covers his name change from themadman300 (gifted by Diabolic), his computer science studies in northern England, his CloudFrost sysadmin work hosting HackerCraft, and his Polymath membership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; World News and Music News positions vacant with replacement invitations sent.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Reporter"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "42927",
+      "username": "Lani"
+    },
+    {
+      "uid": "111824",
+      "username": "MiserAble"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "188730",
+      "username": "Volim te"
+    },
+    {
+      "uid": "431105",
+      "username": "Tɦɛ Gʀiɱ"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "620668",
+      "username": "Renowned"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "959991",
+      "username": "Ghetto~~"
+    },
+    {
+      "uid": "1033713",
+      "username": "Formula1"
+    },
+    {
+      "uid": "1055259",
+      "username": "Soccer"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1082984",
+      "username": "King Zendle"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1205532",
+      "username": "Robust"
+    },
+    {
+      "uid": "1238642",
+      "username": "Maximum"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1417555",
+      "username": "Acroz"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1453525",
+      "username": "The Illusionist"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1607053",
+      "username": "Dex‌"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1660795",
+      "username": "A‏d‏am"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1871421",
+      "username": "Ty ™"
+    },
+    {
+      "uid": "1968914",
+      "username": "Kaoxic"
+    },
+    {
+      "uid": "2074089",
+      "username": "Dillweed"
+    },
+    {
+      "uid": "2191579",
+      "username": "Schultz"
+    },
+    {
+      "uid": "2221835",
+      "username": "Ignoble"
+    },
+    {
+      "uid": "2223246",
+      "username": "Slanted"
+    }
+  ]
+}

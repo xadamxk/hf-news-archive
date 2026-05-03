@@ -1,0 +1,495 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "A new gaming group Nexus, focused on League of Legends, replaced the retired group Void; leaders include Hexicidal, Phenomenal, iElement, Bandors, Kosmos, and Saturday, with $70 buy-in and a planned partnership with Instinct.",
+      "thread": "http://hackforums.net/showthread.php?tid=4127340",
+      "users": [
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "117245",
+          "username": "Phenomenal"
+        },
+        {
+          "uid": "879655",
+          "username": "iElement"
+        },
+        {
+          "uid": "1189774",
+          "username": "Bandors"
+        },
+        {
+          "uid": "878647",
+          "username": "Kosmos"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mentor Froggy received an additional 9,000 reputation from Omniscient (totaling 10,000 admin rep), surpassing Black Shadow's record; non-positive feedback was removed and Omniscient warned via Twitter that anyone giving Froggy negative rep would be repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Androctonus and Kreature reached 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4122917",
+      "users": [
+        {
+          "uid": "215614",
+          "username": "Androctonus"
+        },
+        {
+          "uid": "1544977",
+          "username": "Kreature"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Gary. and Extrnl were repfucked for leaving Froggy negative reputation; Dillweed was banned for trolling; Cray-Z was banned for discussion of Amazon fraud (expired); Reptar was banned with reason 'You won't be flaming anyone while you're on this site' (expired); Stay Plural was banned for harassment (expired).",
+      "thread": "http://hackforums.net/showthread.php?tid=4122917",
+      "users": [
+        {
+          "uid": "1700066",
+          "username": "Gary."
+        },
+        {
+          "uid": "1655883",
+          "username": "Extrnl"
+        },
+        {
+          "uid": "2074089",
+          "username": "Dillweed"
+        },
+        {
+          "uid": "1811215",
+          "username": "Cray-Z"
+        },
+        {
+          "uid": "1450962",
+          "username": "Reptar"
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dynаsty had account closed; colinf had account closed for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "167287",
+          "username": "Dynаsty"
+        },
+        {
+          "uid": "226677",
+          "username": "colinf"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Positive received the Diamond; White Light received the Sticky Man for his batch tutorial; Kreature donated for Master Donator and received DaBomb; Thyonic received the Silver Medal for his noteworthy feedback thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=4111888",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "317312",
+          "username": "White Light"
+        },
+        {
+          "uid": "1544977",
+          "username": "Kreature"
+        },
+        {
+          "uid": "67412",
+          "username": "Thyonic"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Saturday became a leader of Nexus; Chief is no longer a leader of Empire; Skitlz is no longer a leader of Respawn; #Thunder is no longer a leader of Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=4118896",
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        },
+        {
+          "uid": "1021070",
+          "username": "#Thunder"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Тeen's 'Upgrading 10 members to L33T/UB3R'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4123359",
+      "users": [
+        {
+          "uid": "1822561",
+          "username": "Тeen"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Neal Caffrey conducted by Clark; covers his controversial homosexuality thread, his recent Writ3rs joining, his past as a social media/RAT/currency exchanger making 30k by age 15, and his Commerce studies at the University of Melbourne.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "944024",
+          "username": "Neal Caffrey"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with T3h Hack3r conducted by Clique; covers his ownership of the Null group acquired from Paradoxum, his two staff stints, his MRT leadership, his Computer Science Bachelor's, and Mozilla volunteer work.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Roger Waters conducted by 630; covers his choice of name from the Pink Floyd bassist, his Cisco Networking Academy studies and IT helpdesk job, and his goal of CCNA certification.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Yellows resumed User News, Neal Caffrey took over World News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News) / Proofreader"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "944024",
+          "username": "Neal Caffrey",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Rinium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "67412",
+      "username": "Thyonic"
+    },
+    {
+      "uid": "117245",
+      "username": "Phenomenal"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "167287",
+      "username": "Dynаsty"
+    },
+    {
+      "uid": "215614",
+      "username": "Androctonus"
+    },
+    {
+      "uid": "226677",
+      "username": "colinf"
+    },
+    {
+      "uid": "317312",
+      "username": "White Light"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "458073",
+      "username": "Chief."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "878647",
+      "username": "Kosmos"
+    },
+    {
+      "uid": "879655",
+      "username": "iElement"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "944024",
+      "username": "Neal Caffrey"
+    },
+    {
+      "uid": "1021070",
+      "username": "#Thunder"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1189774",
+      "username": "Bandors"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1450962",
+      "username": "Reptar"
+    },
+    {
+      "uid": "1544977",
+      "username": "Kreature"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1655883",
+      "username": "Extrnl"
+    },
+    {
+      "uid": "1700066",
+      "username": "Gary."
+    },
+    {
+      "uid": "1775114",
+      "username": "Rinium"
+    },
+    {
+      "uid": "1811215",
+      "username": "Cray-Z"
+    },
+    {
+      "uid": "1822561",
+      "username": "Тeen"
+    },
+    {
+      "uid": "1839274",
+      "username": "Skitlz"
+    },
+    {
+      "uid": "2074089",
+      "username": "Dillweed"
+    }
+  ]
+}

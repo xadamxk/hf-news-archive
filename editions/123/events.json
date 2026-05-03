@@ -1,0 +1,504 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Hack Forums entered the Christmas season with a new banner; Omniscient released a jolly YouTube video to celebrate.",
+      "thread": "http://hackforums.net/showthread.php?tid=2878191",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The site continued to face extended downtime, at one point for four hours, due to memory limitations; Omniscient is upgrading servers but waiting for the datacenter to clear up memory.",
+      "thread": "http://hackforums.net/showthread.php?tid=2878191",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient ran site housecleaning, deleting all zero-post members, pruning old PMs, and clearing a month's backlog of UB3R applications (most denied); he revealed averaging 200 PMs per day for the last six months.",
+      "thread": "http://hackforums.net/showthread.php?tid=2878191",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "USMC Chris had his posting privileges removed for one month.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1246572",
+          "username": "USMC Chris"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yurix, Lemur, EKNOZ, Fluorescent, and Zach were all repfucked.",
+      "thread": "http://hackforums.net/showthread.php?tid=3099604",
+      "users": [
+        {
+          "uid": "481087",
+          "username": "Yurix"
+        },
+        {
+          "uid": "1092339",
+          "username": "Lemur"
+        },
+        {
+          "uid": "1146815",
+          "username": "EKNOZ"
+        },
+        {
+          "uid": "503326",
+          "username": "Fluorescent"
+        },
+        {
+          "uid": "200751",
+          "username": "Zach"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Grammar Rays was banned for impersonating staff; Lemur was banned for trolling; RyanC was banned for flaming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        },
+        {
+          "uid": "1092339",
+          "username": "Lemur"
+        },
+        {
+          "uid": "1448109",
+          "username": "RyanC"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Accident, Froggy, and Anxtrist were vacation banned; Yurix, EKNOZ, and Zach were banned; Zuey was banned for low quality posting.",
+      "thread": "http://hackforums.net/showthread.php?tid=3099604",
+      "users": [
+        {
+          "uid": "992333",
+          "username": "Accident"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "766855",
+          "username": "Anxtrist"
+        },
+        {
+          "uid": "481087",
+          "username": "Yurix"
+        },
+        {
+          "uid": "1146815",
+          "username": "EKNOZ"
+        },
+        {
+          "uid": "200751",
+          "username": "Zach"
+        },
+        {
+          "uid": "1077919",
+          "username": "Zuey"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Starstruck received the FPS Gawd and Sticky Man awards for a Halo 4 thread; Judge Dredd received the FPS Gawd award; Cody and Daisy got the Gavel of Dredd; Retribute got the YouTube award; Tibit got the Black Hatter award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3099604",
+      "users": [
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Froggy, Goats, and Baked became leaders of Terror; Pali became a leader of Infamous; Froggy and Aeon ‹3 became leaders of The Empire; Hazy is no longer a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3100972",
+      "users": [
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "182754",
+          "username": "Goats"
+        },
+        {
+          "uid": "37251",
+          "username": "Baked"
+        },
+        {
+          "uid": "879431",
+          "username": "Pali"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        },
+        {
+          "uid": "1251587",
+          "username": "Hazy"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The HackerCraft section was launched in HF News, written by Phytrix; covers Minecraft 1.4.6 plugin troubles and HC server happenings.",
+      "thread": "http://hackforums.net/showthread.php?tid=2878191",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: TechApp's 'Ultimate Guide to HTML Tutorial Part 1'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3100972",
+      "users": [
+        {
+          "uid": "1377865",
+          "username": "TechApp"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Perfect Cell's 'Zombie Timeline. - Where it's been, where it's going.'",
+      "thread": "http://hackforums.net/showthread.php?tid=3104646",
+      "users": [
+        {
+          "uid": "1237824",
+          "username": "Perfect Cell"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Aurora's 'Biggest CPA / PPD Comprehensive Guide with SEO Tips'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3099371",
+      "users": [
+        {
+          "uid": "888979",
+          "username": "Aurora"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Corporation, founded November 29, 2012 by Tibit and Aeon ‹3 after purchasing Rhythm from Positive, became official as a 100% invitation-only marketing group; ownership later passed to Aeon ‹3.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cody conducted by +Entity; covers founding 143 with Daisy, the group's giving philosophy, his long-distance relationship with Daisy, and member selection.",
+      "thread": "http://hackforums.net/showthread.php?tid=2878191",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Joey Tribbiani conducted by Phytrix; covers his TV preferences, leadership of The Reviewers, advice for new HF users, and seizing opportunities.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "545127",
+          "username": "Joey Tribbiani"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1326923",
+          "username": "Flogging Molly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Journalist (HackerCraft News) / Interviewer"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "37251",
+      "username": "Baked"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "182754",
+      "username": "Goats"
+    },
+    {
+      "uid": "200751",
+      "username": "Zach"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "481087",
+      "username": "Yurix"
+    },
+    {
+      "uid": "503326",
+      "username": "Fluorescent"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "545127",
+      "username": "Joey Tribbiani"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "766855",
+      "username": "Anxtrist"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "888979",
+      "username": "Aurora"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "992333",
+      "username": "Accident"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1077919",
+      "username": "Zuey"
+    },
+    {
+      "uid": "1092339",
+      "username": "Lemur"
+    },
+    {
+      "uid": "1146815",
+      "username": "EKNOZ"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1237824",
+      "username": "Perfect Cell"
+    },
+    {
+      "uid": "1246572",
+      "username": "USMC Chris"
+    },
+    {
+      "uid": "1251587",
+      "username": "Hazy"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1326923",
+      "username": "Flogging Molly"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1377865",
+      "username": "TechApp"
+    },
+    {
+      "uid": "1448109",
+      "username": "RyanC"
+    }
+  ]
+}

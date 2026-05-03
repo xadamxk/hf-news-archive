@@ -1,0 +1,480 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient performed maintenance, removed the 'Limited' group (members moved to 'Closed'), and updated the junk-thread warning to discourage mass junk abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient temporarily replaced the HF banner with a festive fireworks design for New Year's, then reverted to the original.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Reports surfaced that ad placements on HF were infecting members; Omniscient said he had no clear evidence to confirm the claims.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The word 'booter-down' (without hyphen) was censored on HF, possibly tied to the ban of Orgy (a main contributor), who was repfucked and stripped of his Ub3r.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Scooter reached 1,500 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": ".Nielz reached the 10,000 posts milestone.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "176753",
+          "username": ".Nielz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "flamingw0rm was banned for 'Selling HF Database' but was later unbanned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "71764",
+          "username": "flamingw0rm"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Orgy was banned and repfucked with reason 'Enough of your nonsense'; he was unbanned early but lost his Businessman award and Ub3r subscription.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BV1 ツ was repfucked for [censored] related reasons; TheHackersLove was repfucked for unknown reasons.",
+      "thread": "http://hackforums.net/showthread.php?tid=2061236",
+      "users": [
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "chocothunda was banned and repfucked for BHP Spamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "355307",
+          "username": "chocothunda"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Futuristic, owner of one of HF's most-sold worms, took a lengthy vacation ban until just before April.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "521076",
+          "username": "Futuristic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cymraeg, an Ub3r member, was banned for not following Marketplace posting rules.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "762186",
+          "username": "Cymraeg"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Evil-Wish was banned and repfucked for advertising and spamming via PMs.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1057515",
+          "username": "Evil-Wish"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Banksy was banned for 'Constant Sales Trashing'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "498184",
+          "username": "Banksy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Amp™, leader of the Black Knights, was banned for DOX/SWAT threats via PM.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "496906",
+          "username": "Amp™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Abuser™ was banned for using the same avatar as Administrator Judge Dredd.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "672987",
+          "username": "Abuser™"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Blackshades Thread: BV1 ツ's information thread regarding the Blackshades hacking/accusations rumor.",
+      "thread": "http://hackforums.net/showthread.php?tid=2061236",
+      "users": [
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Dredd Thread: Coach Dredd's stickied compilation of all DREDD resources, crack-mes, and tutorials.",
+      "thread": "http://hackforums.net/showthread.php?tid=2024936",
+      "users": [
+        {
+          "uid": "174257",
+          "username": "Coach Dredd"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Announcement Thread: Diabolic's 'Propitious | COMING SOON' announcement.",
+      "thread": "http://hackforums.net/showthread.php?tid=2038090",
+      "users": [
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Rap Thread: Riggs's stickied 'The HackForums Rap' in the Lounge.",
+      "thread": "http://hackforums.net/showthread.php?tid=1436482",
+      "users": [
+        {
+          "uid": "402384",
+          "username": "Riggs"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tasemu received the Sticky Man award; -BoodyE- received the Drunk award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "62795",
+          "username": "Tasemu"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Barneyyz™ was promoted to leader of the Minecrafters; Orgy and BV1 ツ were promoted to leaders of the Marketers.",
+      "thread": "http://hackforums.net/showthread.php?tid=2061236",
+      "users": [
+        {
+          "uid": "687297",
+          "username": "Barneyyz™"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with The MammoTh conducted by Innocence.; covers his marketplace activity, the Vouch system, and Crystal Products stresser.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Innocence.",
+          "uid": "916706"
+        },
+        {
+          "username": "The MammoTh",
+          "uid": "572367"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Video interview with Riggs and iNviZ.",
+      "thread": "http://hackforums.net/showthread.php?tid=1436482",
+      "users": [
+        {
+          "uid": "402384",
+          "username": "Riggs"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": "http://hackforums.net/showthread.php?tid=2038090",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "0OTF",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Kottonmouth.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1 ツ"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "71764",
+      "username": "flamingw0rm"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "174257",
+      "username": "Coach Dredd"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "176753",
+      "username": ".Nielz"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "355307",
+      "username": "chocothunda"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "402384",
+      "username": "Riggs"
+    },
+    {
+      "uid": "496906",
+      "username": "Amp™"
+    },
+    {
+      "uid": "498184",
+      "username": "Banksy"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "521076",
+      "username": "Futuristic"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "572367",
+      "username": "The MammoTh"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "672987",
+      "username": "Abuser™"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762186",
+      "username": "Cymraeg"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "891268",
+      "username": "0OTF"
+    },
+    {
+      "uid": "916706",
+      "username": "Kottonmouth."
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "1057515",
+      "username": "Evil-Wish"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "The new Illuminati group opened under BELLAGIO's leadership; invite-only and focused on monetizing and money-making methods.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1007343",
+          "username": "BELLAGIO"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient banned all discussions and sales related to Minecraft accounts forum-wide; previous threads were junked.",
+      "thread": "http://hackforums.net/showthread.php?tid=2260887",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient performed a reputation recount; some reps may have been removed in the process.",
+      "thread": "http://hackforums.net/showthread.php?tid=2260887",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Glassy won Member of the Month in a close race with Viral Dragon.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "734805",
+          "username": "Glassy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hуѕтєяιa X™ was repfucked because he kept asking Judge Dredd to RF him.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "CORPSE. was banned and repfucked for reputation abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "306832",
+          "username": "CORPSE."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "eiqhtworks and Levi were banned for low-quality posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "752389",
+          "username": "eiqhtworks"
+        },
+        {
+          "uid": "492095",
+          "username": "Levi"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xan0nym0usx was banned for Ub3r junk abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "273264",
+          "username": "xan0nym0usx"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Daring was banned and repfucked for assisting a ban evader.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "816875",
+          "username": "Daring"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Application Thread: GamersGodly's discussion of Omniscient's announced HF iPhone application.",
+      "thread": "http://hackforums.net/showthread.php?tid=2260887",
+      "users": [
+        {
+          "uid": "831753",
+          "username": "GamersGodly"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Tutorial Thread: Renowned's HD PVR quality tutorial.",
+      "thread": "http://hackforums.net/showthread.php?tid=2282718",
+      "users": [
+        {
+          "uid": "620668",
+          "username": "Renowned"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "AV Thread: phybeя's Anti-Virus Megathread compilation.",
+      "thread": "http://hackforums.net/showthread.php?tid=2244713",
+      "users": [
+        {
+          "uid": "195796",
+          "username": "phybeя"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Userscript Thread: PyroStorm's 'Post Preset' HF userscript.",
+      "thread": "http://hackforums.net/showthread.php?tid=2282161",
+      "users": [
+        {
+          "uid": "1114432",
+          "username": "PyroStorm"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "T3h Hack3r resigned from staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Positive received the Master Donator and Cool awards; Starstruck received the Frog award; LK) received Master Donator; Ancient Productions received Cool.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "uid": "1092620",
+          "username": "LK)"
+        },
+        {
+          "uid": "749834",
+          "username": "Ancient Productions"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Renowned conducted by Michael Westen; covers his Battlefield 3/MW3 preferences, Respawn membership, and HD PVR work.",
+      "thread": "http://hackforums.net/showthread.php?tid=2282718",
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "uid": "620668",
+          "username": "Renowned"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Innocence.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "195796",
+      "username": "phybeя"
+    },
+    {
+      "uid": "273264",
+      "username": "xan0nym0usx"
+    },
+    {
+      "uid": "306832",
+      "username": "CORPSE."
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "492095",
+      "username": "Levi"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "588781",
+      "username": "Hуѕтєяιa X™"
+    },
+    {
+      "uid": "620668",
+      "username": "Renowned"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "734805",
+      "username": "Glassy"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "749834",
+      "username": "Ancient Productions"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "816875",
+      "username": "Daring"
+    },
+    {
+      "uid": "831753",
+      "username": "GamersGodly"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "916706",
+      "username": "Innocence."
+    },
+    {
+      "uid": "964299",
+      "username": "Purple Haze"
+    },
+    {
+      "uid": "1007343",
+      "username": "BELLAGIO"
+    },
+    {
+      "uid": "1092620",
+      "username": "LK)"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    }
+  ]
+}

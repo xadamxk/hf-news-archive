@@ -1,0 +1,537 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "HF News announced its closure following DMCA and copyright infringement notices from another forum claiming ownership of the news system; this would be the last full edition.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new Sponsored Products and Services marketplace forum where users can purchase their own subforum for $300 USD, allowing up to five stickies per buyer.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced an LQP crackdown in the Minecraft Griefing subforum, which has long been considered low quality.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "A new CPA / PPD Make Money subforum was added for Cost Per Acquisition and Pay Per Download discussions.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "redpois0n hit the 1,000 reputation mark; Qwazz became a Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        },
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vоуαgєяツ was repfucked and banned for upgrading ban evaders; Daring was repfucked and banned for trolling; ._o was repfucked and banned for trolling; νιяυ was banned for assisting ban evaders.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1554535",
+          "username": "Vоуαgєяツ"
+        },
+        {
+          "uid": "816875",
+          "username": "Daring"
+        },
+        {
+          "uid": "1209695",
+          "username": "._o"
+        },
+        {
+          "uid": "496063",
+          "username": "νιяυ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Credit Card and Kom were banned for marketplace violations; Pikachu Packet was banned for trolling; Plaтiпuм, Webster Dictionary, Aeion, v1zion, Kenny West, Pwnyyz, Pinterest, zero5 and Reptar ツ were banned; SomeWhiteGuy, Koala™, Jae‌, Perfect Cell and Hentai were vacation banned; Aeon ‹3 had his vacation ban extended six months; Accident was banned again.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1268770",
+          "username": "Credit Card"
+        },
+        {
+          "uid": "8651",
+          "username": "Kom"
+        },
+        {
+          "uid": "1510907",
+          "username": "Pikachu Packet"
+        },
+        {
+          "uid": "1341017",
+          "username": "Plaтiпuм"
+        },
+        {
+          "uid": "205685",
+          "username": "Webster Dictionary"
+        },
+        {
+          "uid": "1388267",
+          "username": "Aeion"
+        },
+        {
+          "uid": "1487576",
+          "username": "v1zion"
+        },
+        {
+          "uid": "1256905",
+          "username": "Kenny West"
+        },
+        {
+          "uid": "1314004",
+          "username": "Pwnyyz"
+        },
+        {
+          "uid": "416897",
+          "username": "Pinterest"
+        },
+        {
+          "uid": "837500",
+          "username": "zero5"
+        },
+        {
+          "uid": "1450962",
+          "username": "Reptar ツ"
+        },
+        {
+          "uid": "878768",
+          "username": "SomeWhiteGuy"
+        },
+        {
+          "uid": "1569333",
+          "username": "Koala™"
+        },
+        {
+          "uid": "1042869",
+          "username": "Jae‌"
+        },
+        {
+          "uid": "1237824",
+          "username": "Perfect Cell"
+        },
+        {
+          "uid": "746220",
+          "username": "Hentai"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        },
+        {
+          "uid": "992333",
+          "username": "Accident"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Grin received the Cat Lover award; ViN received the FPS Gawd award; Stay Plural received the Jokester award; Baked received the Spy award; many users received the YouTube award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "789677",
+          "username": "Grin"
+        },
+        {
+          "uid": "231731",
+          "username": "ViN"
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        },
+        {
+          "uid": "37251",
+          "username": "Baked"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Kentucky is now a leader of Respawn.",
+      "thread": "http://hackforums.net/showthread.php?tid=3350027",
+      "users": [
+        {
+          "uid": "990748",
+          "username": "Kentucky"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Pali's '[Infamous + Void] Education Help Desk'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3350027",
+      "users": [
+        {
+          "uid": "879431",
+          "username": "Pali"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: webdev77's 'Why do people expect me to give my hard earned money away because I am successful?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3355306",
+      "users": [
+        {
+          "uid": "947940",
+          "username": "webdev77"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Retribute conducted by CarrotMilk; covers his start on HF via a private game server team, his role on the HF News team and The Alliance, writing improvements from the forum, and dislike of YouTube's direction.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "190854",
+          "username": "CarrotMilk"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with iNuke conducted by Connected; covers his French origins, joining HF from a French hacking forum, his French lessons project, e-whoring and PPD, and life on HF as a group member.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1278319",
+          "username": "iNuke"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "EmpireCraft, the official server of The Empire, was featured as Server of the Week, helmed by Tibit and Existence with moderators Judge Dredd and Froggy.",
+      "thread": "http://hackforums.net/showthread.php?tid=3347479",
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "451192",
+          "username": "Existence"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this final full edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News) / Reporter"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "8651",
+      "username": "Kom"
+    },
+    {
+      "uid": "37251",
+      "username": "Baked"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "205685",
+      "username": "Webster Dictionary"
+    },
+    {
+      "uid": "231731",
+      "username": "ViN"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "416897",
+      "username": "Pinterest"
+    },
+    {
+      "uid": "451192",
+      "username": "Existence"
+    },
+    {
+      "uid": "496063",
+      "username": "νιяυ"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "746220",
+      "username": "Hentai"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "816875",
+      "username": "Daring"
+    },
+    {
+      "uid": "837500",
+      "username": "zero5"
+    },
+    {
+      "uid": "878768",
+      "username": "SomeWhiteGuy"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "947940",
+      "username": "webdev77"
+    },
+    {
+      "uid": "990748",
+      "username": "Kentucky"
+    },
+    {
+      "uid": "992333",
+      "username": "Accident"
+    },
+    {
+      "uid": "1042869",
+      "username": "Jae‌"
+    },
+    {
+      "uid": "1049662",
+      "username": "redpois0n"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1209695",
+      "username": "._o"
+    },
+    {
+      "uid": "1237824",
+      "username": "Perfect Cell"
+    },
+    {
+      "uid": "1256905",
+      "username": "Kenny West"
+    },
+    {
+      "uid": "1268770",
+      "username": "Credit Card"
+    },
+    {
+      "uid": "1278319",
+      "username": "iNuke"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1314004",
+      "username": "Pwnyyz"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1341017",
+      "username": "Plaтiпuм"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1388267",
+      "username": "Aeion"
+    },
+    {
+      "uid": "1450962",
+      "username": "Reptar ツ"
+    },
+    {
+      "uid": "1487576",
+      "username": "v1zion"
+    },
+    {
+      "uid": "1510907",
+      "username": "Pikachu Packet"
+    },
+    {
+      "uid": "1554535",
+      "username": "Vоуαgєяツ"
+    },
+    {
+      "uid": "1569333",
+      "username": "Koala™"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient simplified the warning system: Low Quality Posting, Wrong Forum Posting, Cross Posting, and Off Topic warnings were merged into a single 'Posting Etiquette' warning (20%, one-month duration).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient censored the word 'silent-rewards' (without hyphen), likely because the website was fake.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Poppins reached 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "140749",
+          "username": "Poppins"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Diabolic reached 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Defcon was banned for 'Leaking at villainz'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "574192",
+          "username": "Defcon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Nyx- was banned for reputation abuse but reached his goal of -1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "11953",
+          "username": "Nyx-"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Costal Waters (formerly Storm Watch) was confirmed as a scammer, repfucked, and banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "415606",
+          "username": "Costal Waters"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Quiet (formerly alabama) was banned on suspicion that his account had been compromised.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "622763",
+          "username": "Quiet"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "OVO™, the HF News music writer, was repfucked for an l33t reversal.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "371170",
+          "username": "OVO™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "4Chan Thread: Cody8295's coverage of the worldwide cicada treasure-hunt code emerging from a 4chan image; he is reportedly close to cracking it.",
+      "thread": "http://hackforums.net/showthread.php?tid=2097331",
+      "users": [
+        {
+          "uid": "285755",
+          "username": "Cody8295"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Ask Thread: Factor8™'s 'Ask F8 any question' Q&A thread, with over 1,000 replies.",
+      "thread": "http://hackforums.net/showthread.php?tid=1089175",
+      "users": [
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "MOTM Thread: devilpsn's 'MOTM Timeline' tracking past and future Member of the Month threads.",
+      "thread": "http://hackforums.net/showthread.php?tid=2095933",
+      "users": [
+        {
+          "uid": "730111",
+          "username": "devilpsn"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Country Thread: Mr Kewl's thread proposing an island owned by the Hack Forums community.",
+      "thread": "http://hackforums.net/showthread.php?tid=2087795",
+      "users": [
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Swag ♥ received the Dancing Queen award; Diabolic received the Dog Lover award; ReactioNz received the Gamer award; xerotic received the MOTM award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "434812",
+          "username": "Swag ♥"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Diabolic conducted by Innocence.; covers his return after a 2009 hack, Diabolic-Servers business, and Propitious group.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Innocence.",
+          "uid": "916706"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with .Zo conducted by Michael Westen; covers his joining HF, Computer & Online Gaming activity, and views on the Vouch system.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "username": ".Zo"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "0OTF",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "371170",
+          "username": "OVO™",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Kottonmouth.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "11953",
+      "username": "Nyx-"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "140749",
+      "username": "Poppins"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "285755",
+      "username": "Cody8295"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "355307",
+      "username": "chocothunda"
+    },
+    {
+      "uid": "371170",
+      "username": "OVO™"
+    },
+    {
+      "uid": "415606",
+      "username": "Costal Waters"
+    },
+    {
+      "uid": "434812",
+      "username": "Swag ♥"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "574192",
+      "username": "Defcon"
+    },
+    {
+      "uid": "622763",
+      "username": "Quiet"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "730111",
+      "username": "devilpsn"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "891268",
+      "username": "0OTF"
+    },
+    {
+      "uid": "916706",
+      "username": "Kottonmouth."
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    }
+  ]
+}

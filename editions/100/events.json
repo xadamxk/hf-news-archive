@@ -1,0 +1,472 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Coders has been renamed to Logic; the group is scheduled to become official on 7/27 with focuses on philosophical, religious, political, metaphysical, scientific, intellectual, and logical discussion.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Omniscient updated members on his recovery: he can now type with both hands with only slight pain.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Master was scammed during a PayPal-to-Liberty Reserve exchange when paying for the upcoming Noxx group, but the deal partner has since indicated the exchange will still complete and Noxx will become official.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1222901",
+          "username": "The Master"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Positive was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Onetwo reached 10,000 posts in one year.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "889594",
+          "username": "Onetwo"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dеmоn, Chronic., Techno, Samurai, and Justice were all banned for helping the scammer Time ban-evade.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "561336",
+          "username": "Dеmоn"
+        },
+        {
+          "uid": "465728",
+          "username": "Chronic."
+        },
+        {
+          "uid": "126503",
+          "username": "Techno"
+        },
+        {
+          "uid": "1107978",
+          "username": "Samurai"
+        },
+        {
+          "uid": "1086710",
+          "username": "Justice"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "UNSEENz. was repfucked and banned for ripping the Hack Forums theme.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1217160",
+          "username": "UNSEENz."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "єץє was banned for racism; Kitten was banned for PM abuse; Isaac Asimov was temporarily banned for reporting a staff post; Zoidberg was banned for swatting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "67727",
+          "username": "єץє"
+        },
+        {
+          "uid": "615882",
+          "username": "Kitten"
+        },
+        {
+          "uid": "839420",
+          "username": "Isaac Asimov"
+        },
+        {
+          "uid": "1057555",
+          "username": "Zoidberg"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "flAmingw0rm was banned because his account was possibly compromised; Vacation - Oats was banned for account sharing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "71764",
+          "username": "flAmingw0rm"
+        },
+        {
+          "uid": "1316890",
+          "username": "Vacation - Oats"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'Why is America run by ancient white men?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2652072",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Crash-Override's 'Why NASA has never returned to the moon?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2671945",
+      "users": [
+        {
+          "uid": "325600",
+          "username": "Crash-Override"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'Rape Jokes' debate thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2667570",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "AlbinoShadow's 'Noah's Ark - The Genocide of the Ages' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2671970",
+      "users": [
+        {
+          "uid": "371340",
+          "username": "AlbinoShadow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kray received the Businessman award; Cody, ruslimedan, and Daisy purchased the Brony award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        },
+        {
+          "uid": "1331408",
+          "username": "ruslimedan"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with iBruteforce conducted by RDCA; covers his post-HF projects (GFXForums.net, FileHostr), Linux preferences, and reflections on his admin tenure.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "33279",
+          "username": "iBruteforce"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Factor8™ conducted by SoulZeh; covers his journey from member to Staff (2010) to Admin (Feb 2012) and reflections.",
+      "thread": "http://hackforums.net/showthread.php?tid=555750",
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Yin (founder of HF News) conducted by Sir; reflects on the news's origin, his role on HJT, and the evolution of HF.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        },
+        {
+          "uid": "74244",
+          "username": "Yin"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to the 100th edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)",
+          "uid": "138559"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)",
+          "uid": "903914"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "username": "AvidWB",
+          "role": "Webshow Host",
+          "uid": "1323486"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "33279",
+      "username": "iBruteforce"
+    },
+    {
+      "uid": "67727",
+      "username": "єץє"
+    },
+    {
+      "uid": "71764",
+      "username": "flAmingw0rm"
+    },
+    {
+      "uid": "74244",
+      "username": "Yin"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "126503",
+      "username": "Techno"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "325600",
+      "username": "Crash-Override"
+    },
+    {
+      "uid": "371340",
+      "username": "AlbinoShadow"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "465728",
+      "username": "Chronic."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "561336",
+      "username": "Dеmоn"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "615882",
+      "username": "Kitten"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "839420",
+      "username": "Isaac Asimov"
+    },
+    {
+      "uid": "889594",
+      "username": "Onetwo"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1057555",
+      "username": "Zoidberg"
+    },
+    {
+      "uid": "1086710",
+      "username": "Justice"
+    },
+    {
+      "uid": "1107978",
+      "username": "Samurai"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1217160",
+      "username": "UNSEENz."
+    },
+    {
+      "uid": "1222901",
+      "username": "The Master"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1316890",
+      "username": "Vacation - Oats"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    },
+    {
+      "uid": "1331408",
+      "username": "ruslimedan"
+    }
+  ]
+}

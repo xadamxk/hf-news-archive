@@ -1,0 +1,354 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "S70N3R (Stoner) was kicked from The Alliance along with several other members; this came as a surprise given his long tenure with the group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "132817",
+          "username": "S70N3R"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "PRIMAL RAGE was repfucked for reputation abuse after asking Prominent to give someone a negative reputation.",
+      "thread": null,
+      "users": [
+        {
+          "username": "PRIMAL RAGE",
+          "uid": "808681"
+        },
+        {
+          "username": "Prominent",
+          "uid": "493159"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "cobija went on a month-long vacation from October 6 to November 6.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "100071",
+          "username": "cobija"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Witness's account was stolen and his username was changed to 'Just1n'; he posted a thread about it.",
+      "thread": "http://hackforums.net/showthread.php?tid=1800199",
+      "users": [
+        {
+          "username": "Witness",
+          "uid": "391680"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "alabama was banned through the 16th with the reason 'Take a break,' following his decision to stop updating his stickied thread and ask Omniscient to remove his award.",
+      "thread": "http://hackforums.net/showthread.php?tid=1804223",
+      "users": [
+        {
+          "username": "alabama",
+          "uid": "622763"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Graphic Thread: The Flying Dutchman's compilation of helpful Graphic tutorials, constantly updated.",
+      "thread": "http://hackforums.net/showthread.php?tid=1788602",
+      "users": [
+        {
+          "username": "The Flying Dutchman",
+          "uid": "467759"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: Mr. Apple's 'Most revolutionary game ever?' poll-based discussion.",
+      "thread": "http://hackforums.net/showthread.php?tid=1793622",
+      "users": [
+        {
+          "username": "Mr. Apple",
+          "uid": "819696"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: Hуѕтєяιa X™'s 'Suicide - Don't Waste Your Life,' an inspiring suicide-prevention thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1815363",
+      "users": [
+        {
+          "uid": "588781",
+          "username": "Hуѕтєяιa X™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "A Spin Debate: c00ldodo's 'Adolf Hitler The Great' thread offering an interesting backed-up perspective.",
+      "thread": "http://hackforums.net/showthread.php?tid=1748899",
+      "users": [
+        {
+          "username": "c00ldodo",
+          "uid": "400204"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Interesting Topic: thought+inquiry=truth's 'The Holy Bible is morally wrong' thread by a newer member.",
+      "thread": "http://hackforums.net/showthread.php?tid=1765727",
+      "users": [
+        {
+          "username": "thought+inquiry=truth",
+          "uid": "962852"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Well-Thought Suggestion: Scooter's proposal to replace the Forum Team footer link with stafflist.php; accepted by Omniscient.",
+      "thread": "http://hackforums.net/showthread.php?tid=1804223",
+      "users": [
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Successful Sales Thread: Gids's RuneScape gold shop, one of the largest on HF (sold 6b+ / bought 4b+).",
+      "thread": "http://hackforums.net/showthread.php?tid=1761356",
+      "users": [
+        {
+          "username": "Gids",
+          "uid": "67707"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Wolves and Shinkirou were demoted; Paradoxum was promoted; itylernallen left; Peter Chao was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Wolves",
+          "uid": "651051"
+        },
+        {
+          "uid": "56680",
+          "username": "Shinkirou"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        },
+        {
+          "username": "itylernallen",
+          "uid": "43036"
+        },
+        {
+          "uid": "129812",
+          "username": "Peter Chao"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Quantum. received the Asskisser award ('Someone has to get it.').",
+      "thread": null,
+      "users": [
+        {
+          "username": "Quantum."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "VeNoMz received the Master Donator award.",
+      "thread": null,
+      "users": [
+        {
+          "username": "VeNoMz",
+          "uid": "454600"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Atthackers closed his account, renaming it to '_char' before doing so. He was the seller of Attbooter, Attworm (later sold to WiFi.), and Aryan IRC Bot, and was a former leader of The Informers (alongside Valik and Qwazz).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "616850",
+          "username": "Atthackers"
+        },
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        },
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        },
+        {
+          "username": "Valik"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Diabolic conducted by Reported; covers his Reverence co-leadership and his change from black-hat hacking.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "username": "Diabolic",
+          "uid": "330676"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Astonish is NJ conducted by Reported; covers his founding Reverence, becoming a moderator, and views on the rep reset.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "43036",
+      "username": "itylernallen"
+    },
+    {
+      "uid": "56680",
+      "username": "Shinkirou"
+    },
+    {
+      "uid": "67707",
+      "username": "Gids"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "100071",
+      "username": "cobija"
+    },
+    {
+      "uid": "129812",
+      "username": "Peter Chao"
+    },
+    {
+      "uid": "132817",
+      "username": "S70N3R"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "391680",
+      "username": "Witness"
+    },
+    {
+      "uid": "400204",
+      "username": "c00ldodo"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "454600",
+      "username": "VeNoMz"
+    },
+    {
+      "uid": "467759",
+      "username": "The Flying Dutchman"
+    },
+    {
+      "uid": "493159",
+      "username": "Prominent"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "588781",
+      "username": "Hуѕтєяιa X™"
+    },
+    {
+      "uid": "616850",
+      "username": "Atthackers"
+    },
+    {
+      "uid": "622763",
+      "username": "alabama"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "808681",
+      "username": "PRIMAL RAGE"
+    },
+    {
+      "uid": "819696",
+      "username": "Mr. Apple"
+    },
+    {
+      "uid": "962852",
+      "username": "thought+inquiry=truth"
+    }
+  ]
+}

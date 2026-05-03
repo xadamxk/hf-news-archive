@@ -1,0 +1,372 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Blackshades was renamed Valor, an official group focused on networking, marketing, and other topics.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Omniscient broke his knuckle and warned members of delays for PMs and upgrades while he recovers.",
+      "thread": "http://hackforums.net/showthread.php?tid=2637728",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Propitious leaders did a full group reformation, kicking many members; the group's userbar was changed and it was renamed 'Infamous'.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "The Hacking Tools and Programs forum reached 1,000,000 total posts.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Dr.Quickmodz reached 1,000 reputation; Qwazz and Mαѕтєямιη∂ reached 2,000 reputation (3rd and 4th members to do so).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "795825",
+          "username": "Dr.Quickmodz"
+        },
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        },
+        {
+          "uid": "1061502",
+          "username": "Mαѕтєямιη∂"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Asthima was banned for threatening members; Grumpy was banned for reporting an administrator's post.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "667703",
+          "username": "Asthima"
+        },
+        {
+          "uid": "729494",
+          "username": "Grumpy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'I believe in Creationism and Evolution.' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2640161",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mᴏzzie's 'Same-Sex Marriage Ban Unconstitutional?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2648922",
+      "users": [
+        {
+          "uid": "1326923",
+          "username": "Mᴏzzie"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Apathy's 'Torture as a Form of Punishment' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2644293",
+      "users": [
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'Virgin Gamers continue acting like Virgin Gamers' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2652102",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Hello Friends's 'Why is homosexuality \"okay\" but incest is \"wrong\"?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2652694",
+      "users": [
+        {
+          "uid": "931610",
+          "username": "Hello Friends"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kray and Cоdy both received Master Donator on the same day; Kray also received Sushi; RDCA received HJT Graduate; Oats received Da Bomb.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cоdy"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "1316890",
+          "username": "Oats"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Genuine is now a group leader of Valor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Verilog conducted by Phytrix; covers his SEO/marketing work, the Clixors group, and HF group reformations.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "309536",
+          "username": "Verilog"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Airon conducted by RDCA; covers his MOTM lead, generous giveaways, and views on grammar/quality.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "828184",
+          "username": "Airon"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)",
+          "uid": "138559"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)",
+          "uid": "903914"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "username": "AvidWB",
+          "role": "Webshow Host",
+          "uid": "1323486"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "309536",
+      "username": "Verilog"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "667703",
+      "username": "Asthima"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "729494",
+      "username": "Grumpy"
+    },
+    {
+      "uid": "795825",
+      "username": "Dr.Quickmodz"
+    },
+    {
+      "uid": "828184",
+      "username": "Airon"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "931610",
+      "username": "Hello Friends"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1061502",
+      "username": "Mαѕтєямιη∂"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cоdy"
+    },
+    {
+      "uid": "1316890",
+      "username": "Oats"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    },
+    {
+      "uid": "1326923",
+      "username": "Mᴏzzie"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a 'Server Stress Testing' subforum under Premium Sellers; currently closed to new threads.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Theme issues caused by a malfunctioning CDN were fixed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added login security: IPs that repeatedly fail to log in to multiple accounts will be blocked from HF, preventing account brute-forcing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Factor8 (now admin) is in charge of stolen/lost account recovery; questions go to him via PM or the contact form.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Thoth was repfucked for making three threads asking for positive reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "300616",
+          "username": "Thoth"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ß|Λcksí-íΛdΘw™ reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "667183",
+          "username": "ß|Λcksí-íΛdΘw™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Evil. was banned and repfucked for swatting members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "690470",
+          "username": "Evil."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iZan was permanently banned for attempting to steal HF accounts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "427899",
+          "username": "iZan"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Fanatic was banned and repfucked for supporting Cataclysm and giving mfjc positive reputation on his new account.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "333869",
+          "username": "Fanatic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Rowdy was banned and repfucked for reselling for mfjc.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "148750",
+          "username": "Rowdy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "mfjc was repfucked and placed in the dead account group after DOS attacking HF (42,000 page views) and reversing all payments to Omniscient.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1021197",
+          "username": "mfjc"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "MFJC Thread: Omniscient announced that all MFJC sales are banned following the DOS attack and chargebacks.",
+      "thread": "http://hackforums.net/showthread.php?tid=2232752",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Game Thread: Ignite.'s Respawn-hosted Community Playnight (HF vs Respawn) sign-up — typically MW3.",
+      "thread": "http://hackforums.net/showthread.php?tid=2232455",
+      "users": [
+        {
+          "uid": "946680",
+          "username": "Ignite."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mental Thread: Compose's 'The Power Of The Mind' motivational thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2230404",
+      "users": [
+        {
+          "uid": "813594",
+          "username": "Compose"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Crypter Thread: ASM's NG Crypter, billed as the most advanced crypter on HF (creators of iCrypt).",
+      "thread": "http://hackforums.net/showthread.php?tid=2221235",
+      "users": [
+        {
+          "uid": "744040",
+          "username": "ASM"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Ignite. is now the leader of Respawn.",
+      "thread": "http://hackforums.net/showthread.php?tid=2232455",
+      "users": [
+        {
+          "uid": "946680",
+          "username": "Ignite."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Invisus received the Master Donator and FPS Gawd awards; Purple Haze received the Fish Err Man award; Chocothunda received the Gamer award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "770060",
+          "username": "Invisus"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Astonish is NJ conducted by Paradise.; covers the Respawn group, plans for it, and HF community thoughts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "916706",
+          "username": "Paradise."
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with VipVince conducted by Michael Westen; covers Team INTRA, his Drunk award background in Ibiza, and advice for aspiring hackers.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "username": "VipVince",
+          "uid": "7807"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Paradise.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "7807",
+      "username": "VipVince"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "148750",
+      "username": "Rowdy"
+    },
+    {
+      "uid": "300616",
+      "username": "Thoth"
+    },
+    {
+      "uid": "333869",
+      "username": "Fanatic"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "427899",
+      "username": "iZan"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "667183",
+      "username": "ß|Λcksí-íΛdΘw™"
+    },
+    {
+      "uid": "690470",
+      "username": "Evil."
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "744040",
+      "username": "ASM"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "770060",
+      "username": "Invisus"
+    },
+    {
+      "uid": "813594",
+      "username": "Compose"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "916706",
+      "username": "Paradise."
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "964299",
+      "username": "Purple Haze"
+    },
+    {
+      "uid": "1021197",
+      "username": "mfjc"
+    }
+  ]
+}

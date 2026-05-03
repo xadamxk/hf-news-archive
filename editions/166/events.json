@@ -1,0 +1,385 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient relaunched the Modern theme as default with updates to reputation page, member rank colors, stars, staff/admin userbars, a new background, and a new banner reading 'Pimping the purple! Since '07'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3826317",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced every user-owned group can claim a free custom userbar for the Modern theme, breaking from the default-template requirement that had been in place since 2007.",
+      "thread": "http://hackforums.net/showthread.php?tid=3825128",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "VipVince was re-promoted to Mentor; Sir hit 1,000 reputation and 500 prestige.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "7807",
+          "username": "VipVince"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SnowFox was repfucked; ๖ۣۜUltimo was banned for reputation abuse; Black Froggy was banned for harassing members; Kaleb was banned after 'demanding' a quote-notification feature; #Sultan was banned, repfucked, and closed; Lonephenom™ was repfucked and closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1109186",
+          "username": "SnowFox"
+        },
+        {
+          "uid": "1791844",
+          "username": "๖ۣۜUltimo"
+        },
+        {
+          "uid": "766855",
+          "username": "Black Froggy"
+        },
+        {
+          "uid": "144401",
+          "username": "Kaleb"
+        },
+        {
+          "uid": "1364125",
+          "username": "#Sultan"
+        },
+        {
+          "uid": "1122112",
+          "username": "Lonephenom™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Jоey donated over $500 and received Master Donator and Businessman; Saturday donated over $500 and received Master Donator and Dog Lover.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "712376",
+          "username": "Jоey"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "-Nas became a leader of Complexity replacing Makaveli The Don; Evangelist was promoted to leadership within Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3812628",
+      "users": [
+        {
+          "uid": "1452196",
+          "username": "-Nas"
+        },
+        {
+          "uid": "509788",
+          "username": "Makaveli The Don"
+        },
+        {
+          "uid": "1374951",
+          "username": "Evangelist"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Instructional/Educational Thread: Keeper's '[Dynasty] eLSB Steganography' covering steganography, kleptography, and cryptovirology.",
+      "thread": "http://hackforums.net/showthread.php?tid=3812628",
+      "users": [
+        {
+          "uid": "1114693",
+          "username": "Keeper"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Fun Skills Thread: Cody8295's 'Can you solve this puzzle? [HACKER PUZZLE]', a Cicada 3301-like puzzle with only two solvers in over two weeks.",
+      "thread": "http://hackforums.net/showthread.php?tid=3813040",
+      "users": [
+        {
+          "uid": "285755",
+          "username": "Cody8295"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Vade conducted by Clique; covers his pre-HF reverse engineering of Eve Online and Disney MMORPGs in Python, his AIM original-name collecting (bass, hitler, cia, brown, red, blue, four, slash), his Infamous YouTube channel project, and his former alias 'Frenzy'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1289770",
+          "username": "Vade"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Thornzzz conducted by Saturday; covers his recent month-long arrival via MW1 hacks search, his rapid recruitment into Infamous via iNviZ and THL, his role running the Infamous faction on HackerCraft, and his wrestling and Steam gaming hobbies.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1992268",
+          "username": "Thornzzz"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Blazin conducted by Educate; covers his 2009 arrival as a Dell IT technician, his current hosting and computer-repair businesses, his rap interests (Eminem, MGK, Wiz Khalifa, Tupac), his FL Studio beat-making, and his life as a young father.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Educate"
+        },
+        {
+          "uid": "74674",
+          "username": "Blazin"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Yellows resumed User News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Educate",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "7807",
+      "username": "VipVince"
+    },
+    {
+      "uid": "74674",
+      "username": "Blazin"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "144401",
+      "username": "Kaleb"
+    },
+    {
+      "uid": "285755",
+      "username": "Cody8295"
+    },
+    {
+      "uid": "509788",
+      "username": "Makaveli The Don"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "712376",
+      "username": "Jоey"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "766855",
+      "username": "Black Froggy"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1109186",
+      "username": "SnowFox"
+    },
+    {
+      "uid": "1114693",
+      "username": "Keeper"
+    },
+    {
+      "uid": "1122112",
+      "username": "Lonephenom™"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1289770",
+      "username": "Vade"
+    },
+    {
+      "uid": "1364125",
+      "username": "#Sultan"
+    },
+    {
+      "uid": "1374951",
+      "username": "Evangelist"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Educate"
+    },
+    {
+      "uid": "1791844",
+      "username": "๖ۣۜUltimo"
+    },
+    {
+      "uid": "1992268",
+      "username": "Thornzzz"
+    }
+  ]
+}

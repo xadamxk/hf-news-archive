@@ -1,0 +1,504 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a statistics page to the HF IM XMPP showing total accounts, hourly logins, and 24-hour active accounts, plus an HFIM presence widget on profiles with online/away/DND status and an Add option.",
+      "thread": "http://hackforums.net/showthread.php?tid=4564952",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient reported an attempted bruteforce attack using the 2010 password dump against ~1,000 accounts; fewer than 100 (all non-upgraded or closed) were compromised, no Ub3r accounts breached, and two inactive L33t accounts were closed.",
+      "thread": "http://hackforums.net/showthread.php?tid=4565551",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a feature so users on someone's ignore list cannot view that user's profile (and vice-versa).",
+      "thread": "http://hackforums.net/showthread.php?tid=4567790",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chrazy was banned and repfucked for multi-accounting; Horny was banned for leaking; Albus Percival Dumbledore was banned for reputation abuse; iEatNoodlez_ was banned and repfucked for payment reversal; Socrates™ was banned for leaking; Rohz. was banned and repfucked for multi-accounting; Baljeet and Krew were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1246499",
+          "username": "Chrazy"
+        },
+        {
+          "uid": "1827195",
+          "username": "Horny"
+        },
+        {
+          "uid": "1286981",
+          "username": "Albus Percival Dumbledore"
+        },
+        {
+          "uid": "1238164",
+          "username": "iEatNoodlez_"
+        },
+        {
+          "uid": "2195809",
+          "username": "Socrates™"
+        },
+        {
+          "uid": "1259493",
+          "username": "Rohz."
+        },
+        {
+          "uid": "1481632",
+          "username": "Baljeet"
+        },
+        {
+          "uid": "792136",
+          "username": "Krew"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Τrust received the Sushi Lover award; Trisomy 21 received the Jokester award; Aurа received the Sticky Man award; Perfec‪t received the Militant award; phybeя Jr. received the Green Apple award; Roger Waters received the new Royalty award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4557247",
+      "users": [
+        {
+          "uid": "1446355",
+          "username": "Τrust"
+        },
+        {
+          "uid": "1848154",
+          "username": "Trisomy 21"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        },
+        {
+          "uid": "1327432",
+          "username": "Perfec‪t"
+        },
+        {
+          "uid": "1060818",
+          "username": "phybeя Jr."
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Revolution was put up for sale by group owner beslim for $9,000 USD via Bitcoin, Western Union, MoneyGram, or PerfectMoney.",
+      "thread": "http://hackforums.net/showthread.php?tid=4564102",
+      "users": [
+        {
+          "uid": "1777085",
+          "username": "beslim"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Present conducted by 630; covers his discovery of HF through graphics work, his Dutch schooling, his competitive Black Ops 2 league play with the Axora team, and his views on Ub3r-vs-L33t status and the Ebook section.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1968914",
+          "username": "Present"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with -Hyperion conducted by Roger Waters; covers his computer business doing virus removal and pen tests, his Arduino sous-vide cooker project, his White Hat Help tutorials, and the upcoming BHPEN launch.",
+      "thread": "http://hackforums.net/showthread.php?tid=4558828",
+      "users": [
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Coppersan replaced Troye on Headlines, Wind Waker joined Notable Threads, Greed. joined as Graphical Artist, and Clark returned to the interviewer rotation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "1st Editor / Podcast"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2181647",
+          "username": "Turtle",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1860651",
+          "username": "Coppersan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News) / Overseer"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1775114",
+          "username": "Greed.",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Task Manager"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "777",
+      "username": "Cooligan"
+    },
+    {
+      "uid": "44755",
+      "username": "Snorlax'"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "197132",
+      "username": "-Hyperion"
+    },
+    {
+      "uid": "370475",
+      "username": "Vegas"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "792136",
+      "username": "Krew"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1060818",
+      "username": "phybeя Jr."
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1166170",
+      "username": "zасh"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1238164",
+      "username": "iEatNoodlez_"
+    },
+    {
+      "uid": "1246499",
+      "username": "Chrazy"
+    },
+    {
+      "uid": "1256441",
+      "username": "Abraham Lincoln"
+    },
+    {
+      "uid": "1259493",
+      "username": "Rohz."
+    },
+    {
+      "uid": "1286981",
+      "username": "Albus Percival Dumbledore"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1327432",
+      "username": "Perfec‪t"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1446355",
+      "username": "Τrust"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1481632",
+      "username": "Baljeet"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1775114",
+      "username": "Greed."
+    },
+    {
+      "uid": "1777085",
+      "username": "beslim"
+    },
+    {
+      "uid": "1827195",
+      "username": "Horny"
+    },
+    {
+      "uid": "1848154",
+      "username": "Trisomy 21"
+    },
+    {
+      "uid": "1860651",
+      "username": "Coppersan"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "1968914",
+      "username": "Present"
+    },
+    {
+      "uid": "2015410",
+      "username": "ӍeshCollider"
+    },
+    {
+      "uid": "2173791",
+      "username": "Wind Waker"
+    },
+    {
+      "uid": "2181647",
+      "username": "Turtle"
+    },
+    {
+      "uid": "2195809",
+      "username": "Socrates™"
+    }
+  ]
+}

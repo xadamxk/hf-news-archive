@@ -1,0 +1,424 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "HF News underwent a graphical overhaul; Cobalt+ has stepped down and left the news in Sir's hands; editions are now combined with the regular news in the first post and user news in the second.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient took a vacation to Disneyland (his fourth trip there) to spend time with his family; PMs and account upgrades have since been caught up.",
+      "thread": "http://hackforums.net/showthread.php?tid=1875183",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient set new rules for the Hacking Tutorials section regarding eBooks, off-site links, videos, and post format; a new sub-forum for Free Hacking Tutorials eBooks was also added.",
+      "thread": "http://hackforums.net/showthread.php?tid=1852486",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "For Halloween, Etheryte ran a community banner thread; Omniscient chose Emily's banner for the site.",
+      "thread": "http://hackforums.net/showthread.php?tid=1862797",
+      "users": [
+        {
+          "uid": "32695",
+          "username": "Etheryte"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "username": "Emily"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The site suffered several hours of downtime while Omniscient was away on his hiatus; he has stated nothing serious occurred.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Black Knights, led by hackdeveto, Amp™, and Wolves, has reopened recruitment.",
+      "thread": "http://hackforums.net/showthread.php?tid=1873326",
+      "users": [
+        {
+          "username": "hackdeveto"
+        },
+        {
+          "username": "Amp™",
+          "uid": "496906"
+        },
+        {
+          "username": "Wolves",
+          "uid": "651051"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The HF Minecrafters Group, led by Dylan, was made official this week after Dylan paid the final $1,000 to Omniscient — the first ever paid group to become official from a full payment.",
+      "thread": "http://hackforums.net/showthread.php?tid=1873326",
+      "users": [
+        {
+          "username": "Dylan",
+          "uid": "559352"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Qwazz stepped down as moderator of the HF News section.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Soldier of Fortune returned to Hack Forums and has been seen posting in several sections.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Soldier of Fortune",
+          "uid": "8480"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "DiscipLе was banned until 11-09-2011 for several reasons; uncertain whether he will return.",
+      "thread": null,
+      "users": [
+        {
+          "username": "DiscipLе",
+          "uid": "808208"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Alberto was banned until 11-05-11 for scamming Black Shadow out of $700.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Alberto",
+          "uid": "844889"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "-mothered- was finally moved to the dead group after a hacker logged on to his account again.",
+      "thread": "http://hackforums.net/showthread.php?tid=1873326",
+      "users": [
+        {
+          "username": "-mothered-",
+          "uid": "137645"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Helpful Thread: Ignite. and Valik's compiled 'Ultimate Xbox 360 Resource Guide.'",
+      "thread": "http://hackforums.net/showthread.php?tid=1861116",
+      "users": [
+        {
+          "username": "Ignite.",
+          "uid": "946680"
+        },
+        {
+          "username": "Valik"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Blackhat Thread: Suhinder™'s tutorial on setting up a Cythosia HTTP Botnet.",
+      "thread": "http://hackforums.net/showthread.php?tid=1762595",
+      "users": [
+        {
+          "username": "Suhinder™",
+          "uid": "869826"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "TinyChat Thread: Storm Watch's 'Drug Cartel - HF Tinychat,' the largest TinyChat group to date and stickied in its section.",
+      "thread": "http://hackforums.net/showthread.php?tid=1823638",
+      "users": [
+        {
+          "username": "Storm Watch",
+          "uid": "415606"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Member Returning Thread: Prokill's reintroduction thread; he is well known for hacking many social-network accounts of celebrities.",
+      "thread": "http://hackforums.net/showthread.php?tid=1859597",
+      "users": [
+        {
+          "username": "Prokill",
+          "uid": "629212"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Bragging Thread: mrwhich's claim of $63,000 in October 2011 earnings via undisclosed monetizing techniques (with proof).",
+      "thread": "http://hackforums.net/showthread.php?tid=1829330",
+      "users": [
+        {
+          "username": "mrwhich",
+          "uid": "121256"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Helpful Tutorial: Mr. Apple's thread on improving Minecraft frame rates.",
+      "thread": "http://hackforums.net/showthread.php?tid=1870203",
+      "users": [
+        {
+          "username": "Mr. Apple",
+          "uid": "819696"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Rhythm was promoted to leader of Graphics Masters; WiFi. was demoted from leadership of The RATs Crew.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "126704",
+          "username": "Rhythm"
+        },
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mostskillful received the GFX Guru award; The Operator received Speaker of the House; The MammoTh received The Alien; Diabolic received Grammar Nazi; Ignite. received Rat Expert; bugga received the Diamond award; Judge Dredd received Cuddly and Cute; Orgy received Businessman; RRain received Sticky Man.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Mostskillful"
+        },
+        {
+          "username": "The Operator"
+        },
+        {
+          "username": "The MammoTh"
+        },
+        {
+          "username": "Diabolic",
+          "uid": "330676"
+        },
+        {
+          "username": "Ignite.",
+          "uid": "946680"
+        },
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "username": "RRain"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Mark Webber conducted by Michael Westen; covers his Techsperts membership, hardware passion, music career, and Formula 1 fandom.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        },
+        {
+          "username": "Mark Webber",
+          "uid": "89623"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Riggs conducted by Daniel Faraday; covers his views on HF maturity, Marketers group, and forum direction.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Daniel Faraday",
+          "uid": "366559"
+        },
+        {
+          "username": "Riggs"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "8480",
+      "username": "Soldier of Fortune"
+    },
+    {
+      "uid": "32695",
+      "username": "Etheryte"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "89623",
+      "username": "Mark Webber"
+    },
+    {
+      "uid": "121256",
+      "username": "mrwhich"
+    },
+    {
+      "uid": "126704",
+      "username": "Rhythm"
+    },
+    {
+      "uid": "137645",
+      "username": "-mothered-"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "366559",
+      "username": "Daniel Faraday"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "496906",
+      "username": "Amp™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "559352",
+      "username": "Dylan"
+    },
+    {
+      "uid": "629212",
+      "username": "Prokill"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "808208",
+      "username": "DiscipLе"
+    },
+    {
+      "uid": "819696",
+      "username": "Mr. Apple"
+    },
+    {
+      "uid": "844889",
+      "username": "Alberto"
+    },
+    {
+      "uid": "869826",
+      "username": "Suhinder™"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    }
+  ]
+}

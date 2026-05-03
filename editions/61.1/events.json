@@ -1,0 +1,373 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "A new HF News website (hackforumsnews.com) launched as a joint venture by Cobalt+, .edit, and Sir.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "username": ".edit"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cobalt+ is on vacation for the next week; Sir is taking over for him until he returns.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Camden was repfucked for joking about messaging Omniscient regarding group recruitment.",
+      "thread": "http://hackforums.net/showthread.php?tid=1789793&pid=16259472#pid16259472",
+      "users": [
+        {
+          "username": "Camden",
+          "uid": "224766"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Michael Westen returned from a five-day ban that resulted from VPN use triggering his account as stolen.",
+      "thread": "http://hackforums.net/showthread.php?tid=1789111",
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Manipulation was repfucked and banned for severe reputation abuse after ripping another person's work to apply for Graphic Masters.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Manipulation",
+          "uid": "749390"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "THE R BROS, So Fucking Classy, Barneyyz™, Vanquish`, Kantus, Dope., and Cymraeg were all repfucked in connection with Graphic Masters; the reason is unknown but is suspected to be gang-repping.",
+      "thread": "http://hackforums.net/showthread.php?tid=1788405",
+      "users": [
+        {
+          "username": "THE R BROS"
+        },
+        {
+          "username": "So Fucking Classy",
+          "uid": "768941"
+        },
+        {
+          "username": "Barneyyz™"
+        },
+        {
+          "username": "Vanquish`",
+          "uid": "272412"
+        },
+        {
+          "username": "Kantus"
+        },
+        {
+          "username": "Dope."
+        },
+        {
+          "username": "Cymraeg",
+          "uid": "806185"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Nonsense Thread: Bradshly's '[Recruiting] - The Supporters' recruitment thread soliciting donations for a group, which Omniscient publicly suggested might be a scam.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "405420",
+          "username": "Bradshly"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Thoughtful Thread: Michael Westen's 'Being a new member on Hack Forums,' written after returning from a ban.",
+      "thread": "http://hackforums.net/showthread.php?tid=1789111",
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: Codad's 'STAND FOR REVOLUTION!' which is still attracting activity.",
+      "thread": "http://hackforums.net/showthread.php?tid=1733622",
+      "users": [
+        {
+          "username": "Codad",
+          "uid": "354672"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Ridiculous Debate: Skywalker's '9/11 - my teacher said the most ridiculous shit ever' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1790527",
+      "users": [
+        {
+          "username": "Skywalker",
+          "uid": "146557"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Interesting Topic: X2THEONE2X's 'The God Complex' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1781255",
+      "users": [
+        {
+          "uid": "65167",
+          "username": "X2THEONE2X"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Generous Threads: BV1 ツ's Blackshades Sale + Giveaway, with several prizes for members willing to wear a specific signature.",
+      "thread": "http://hackforums.net/showthread.php?tid=1771692",
+      "users": [
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Well-Thought Suggestion: Cymraeg's call for moderation of the Cryptography, Encryption, and Decryption section.",
+      "thread": "http://hackforums.net/showthread.php?tid=1788405",
+      "users": [
+        {
+          "username": "Cymraeg",
+          "uid": "806185"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Richie, cobija, Kr4z1, and kutmustakurt were all demoted from Staff to Mentor, leaving 4 Staff and 14 Mentors.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "79121",
+          "username": "Richie"
+        },
+        {
+          "uid": "100071",
+          "username": "cobija"
+        },
+        {
+          "username": "Kr4z1"
+        },
+        {
+          "username": "kutmustakurt"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "John* received the Dog Award ('Your dog was ugly.').",
+      "thread": null,
+      "users": [
+        {
+          "username": "John*"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "VeNoMz received the Fish Err Man award ('Your tetra's need more cover.').",
+      "thread": null,
+      "users": [
+        {
+          "username": "VeNoMz",
+          "uid": "454600"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Wolves was named Member of the Month for September 2011.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Wolves",
+          "uid": "651051"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Xch4ng3 conducted by Reported; covers his joining HF, becoming staff, and his role on the HJT team.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "uid": "65784",
+          "username": "Xch4ng3"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Nidhish91 conducted by ComX; covers his joining HF, hacking interest, and Vouch system views.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "401423",
+          "username": "ComX"
+        },
+        {
+          "uid": "572087",
+          "username": "Nidhish91"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with ComX conducted by DiscipLe; covers his joining HF, white-hat hacking, and views on the Rep Reset.",
+      "thread": null,
+      "users": [
+        {
+          "username": "DiscipLe"
+        },
+        {
+          "uid": "401423",
+          "username": "ComX"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1 ツ"
+    },
+    {
+      "uid": "65167",
+      "username": "X2THEONE2X"
+    },
+    {
+      "uid": "65784",
+      "username": "Xch4ng3"
+    },
+    {
+      "uid": "79121",
+      "username": "Richie"
+    },
+    {
+      "uid": "100071",
+      "username": "cobija"
+    },
+    {
+      "uid": "146557",
+      "username": "Skywalker"
+    },
+    {
+      "uid": "224766",
+      "username": "Camden"
+    },
+    {
+      "uid": "272412",
+      "username": "Vanquish`"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "354672",
+      "username": "Codad"
+    },
+    {
+      "uid": "401423",
+      "username": "ComX"
+    },
+    {
+      "uid": "405420",
+      "username": "Bradshly"
+    },
+    {
+      "uid": "454600",
+      "username": "VeNoMz"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "572087",
+      "username": "Nidhish91"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "749390",
+      "username": "Manipulation"
+    },
+    {
+      "uid": "768941",
+      "username": "So Fucking Classy"
+    },
+    {
+      "uid": "806185",
+      "username": "Cymraeg"
+    }
+  ]
+}

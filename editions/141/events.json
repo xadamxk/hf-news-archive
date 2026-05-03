@@ -1,0 +1,547 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient implemented a strict new stressers and booters policy: no sale threads outside the Server Stress Testing forum, no advertising in signatures/usertitles/usernames, paid stickies removed elsewhere, and only ub3r members may make threads in the SST subforum.",
+      "thread": "http://hackforums.net/showthread.php?tid=3451922",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Official gaming group Respawn changed direction and was renamed Innovation, refocusing on coding, SEO, site development, designing, monetizing, and advertising while keeping founder Astonish.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vincenzio purchased WiFi Gang from WiFi. for $4,300 USD LR and rebranded it as Legacy, a new gaming group focused on revamping the gaming scene.",
+      "thread": "http://hackforums.net/showthread.php?tid=3449460",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vincenzio"
+        },
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Stay Plural, Kohsti, and Tando hit 10,000 posts; Pali and Snow hit 1,000 reputation; ัPandaŠec is no longer a moderator of the Wireless Hacking section; Hexicidal was promoted to staff; Judge Dredd was demoted from Administrator to Mentor; Genuine took over MOTM.",
+      "thread": "http://hackforums.net/showthread.php?tid=3451707",
+      "users": [
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        },
+        {
+          "uid": "1137768",
+          "username": "Kohsti"
+        },
+        {
+          "uid": "1113153",
+          "username": "Tando"
+        },
+        {
+          "uid": "879431",
+          "username": "Pali"
+        },
+        {
+          "uid": "1243490",
+          "username": "Snow"
+        },
+        {
+          "uid": "516018",
+          "username": "ัPandaŠec"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tsunade was repfucked and had her account closed for holding a fake contest; Rapper was repfucked for abusing the name change feature; F e a R was repfucked and had his account closed for scamming; xerA was repfucked and banned for LQP/reputation abuse; -BoodyE-, Aids, Cali, Crushed, and Cocaine Musik were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        },
+        {
+          "uid": "1580568",
+          "username": "Tsunade"
+        },
+        {
+          "uid": "1064871",
+          "username": "Aids"
+        },
+        {
+          "uid": "834989",
+          "username": "Cali"
+        },
+        {
+          "uid": "1707990",
+          "username": "Rapper"
+        },
+        {
+          "uid": "1765947",
+          "username": "Crushed"
+        },
+        {
+          "uid": "1774970",
+          "username": "Cocaine Musik"
+        },
+        {
+          "uid": "191452",
+          "username": "F e a R"
+        },
+        {
+          "uid": "1195798",
+          "username": "xerA→"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cocaine Musik was banned for ban evasion; The Sailor ϟ had his account closed for multiple accounts; Quickdraw McGraw was banned for trolling; St4rfox was banned for ban evasion; Rofl Gun was banned for disrespecting the new booter policy.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1774970",
+          "username": "Cocaine Musik"
+        },
+        {
+          "uid": "1583027",
+          "username": "The Sailor ϟ"
+        },
+        {
+          "uid": "101228",
+          "username": "Quickdraw McGraw"
+        },
+        {
+          "uid": "1765947",
+          "username": "St4rfox"
+        },
+        {
+          "uid": "799829",
+          "username": "Rofl Gun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Alien., ℵeopet, Vincenzio, Cliqυe, and Positive were vacation banned; 'Snorlax and Zeon were banned for posting marketplace-style threads outside the Marketplace; Zero Byte was banned.",
+      "thread": "http://hackforums.net/showthread.php?tid=3449460",
+      "users": [
+        {
+          "uid": "1189410",
+          "username": "Alien."
+        },
+        {
+          "uid": "1592531",
+          "username": "ℵeopet"
+        },
+        {
+          "uid": "600771",
+          "username": "Vincenzio"
+        },
+        {
+          "uid": "1148878",
+          "username": "Cliqυe"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "58683",
+          "username": "Zeon"
+        },
+        {
+          "uid": "929357",
+          "username": "Zero Byte"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "IIMachavelli and mad received the Drunk award; -BoodyE- had some awards removed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1221644",
+          "username": "IIMachavelli"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vincenzio became the owner of Legacy with Apple J4ck. and Stay Plural as leaders, while WiFi. is no longer the owner of WiFi Gang and Vincenzio resigned as leader of Illuminati.",
+      "thread": "http://hackforums.net/showthread.php?tid=3439909",
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        },
+        {
+          "uid": "600771",
+          "username": "Vincenzio"
+        },
+        {
+          "uid": "1468706",
+          "username": "Apple J4ck."
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Apostle.'s 'Tinychat Adventure with Omniscients, Compilation!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3439909",
+      "users": [
+        {
+          "uid": "1544384",
+          "username": "Apostle."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Vincenzio's 'Legacy | Gaming Group | Recruitment | OPEN |'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3449460",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vincenzio"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with redpois0n conducted by Connected; covers his name origin inspired by greenpois0n, Java coding career, jRAT development, and being permanently denied ub3r.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with +Pirate conducted by CarrotMilk; covers gaming background, the Respawn-to-Innovation transition, and the new Innovation mentor/apprentice program.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "190854",
+          "username": "CarrotMilk"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "58683",
+      "username": "Zeon"
+    },
+    {
+      "uid": "101228",
+      "username": "Quickdraw McGraw"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "191452",
+      "username": "F e a R"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516018",
+      "username": "ัPandaŠec"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "600771",
+      "username": "Vincenzio"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "799829",
+      "username": "Rofl Gun"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "834989",
+      "username": "Cali"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "929357",
+      "username": "Zero Byte"
+    },
+    {
+      "uid": "1049662",
+      "username": "redpois0n"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1064871",
+      "username": "Aids"
+    },
+    {
+      "uid": "1113153",
+      "username": "Tando"
+    },
+    {
+      "uid": "1137768",
+      "username": "Kohsti"
+    },
+    {
+      "uid": "1148878",
+      "username": "Cliqυe"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1189410",
+      "username": "Alien."
+    },
+    {
+      "uid": "1195798",
+      "username": "xerA→"
+    },
+    {
+      "uid": "1221644",
+      "username": "IIMachavelli"
+    },
+    {
+      "uid": "1243490",
+      "username": "Snow"
+    },
+    {
+      "uid": "1468706",
+      "username": "Apple J4ck."
+    },
+    {
+      "uid": "1544384",
+      "username": "Apostle."
+    },
+    {
+      "uid": "1580568",
+      "username": "Tsunade"
+    },
+    {
+      "uid": "1583027",
+      "username": "The Sailor ϟ"
+    },
+    {
+      "uid": "1592531",
+      "username": "ℵeopet"
+    },
+    {
+      "uid": "1707990",
+      "username": "Rapper"
+    },
+    {
+      "uid": "1765947",
+      "username": "Crushed"
+    },
+    {
+      "uid": "1774970",
+      "username": "Cocaine Musik"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient created an official Skype account dedicated to HF support — to be used only for important issues like stickies, upgrade problems, or donations; he plans to mostly use voice chat due to a recent knuckle injury.",
+      "thread": "http://hackforums.net/showthread.php?tid=2684501",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Hack Forums has continued going down for several minutes every few days; Omniscient announced the downtime is mostly due to SQL maintenance.",
+      "thread": "http://hackforums.net/showthread.php?tid=2684648",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Rhythm and Graphic Masters both began recruiting, looking for members with particular talent in their respective subjects.",
+      "thread": "http://hackforums.net/showthread.php?tid=2684648",
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Astonish was demoted from Mentors and kicked from the HJT team; reason undisclosed.",
+      "thread": "http://hackforums.net/showthread.php?tid=2684271",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Scooter announced he is leaving Hack Forums.",
+      "thread": "http://hackforums.net/showthread.php?tid=2694076",
+      "users": [
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The Master™ was banned and repfucked for trying to sell his account.",
+      "thread": "http://hackforums.net/showthread.php?tid=2694076",
+      "users": [
+        {
+          "uid": "1222901",
+          "username": "The Master™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "єиιgмα was banned and repfucked for multiple accounts.",
+      "thread": "http://hackforums.net/showthread.php?tid=2694076",
+      "users": [
+        {
+          "uid": "1135141",
+          "username": "єиιgмα"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "deadlyicedragon was banned and repfucked for reputation abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1220739",
+          "username": "deadlyicedragon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SuperToad was banned and repfucked for multiple accounts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1302707",
+          "username": "SuperToad"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Bassline was banned and repfucked for selling his account.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "682899",
+          "username": "Bassline"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'Why does god allow gays to be born?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2692989",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: ๖ۣۜMind ๖ۣۜControl™'s 'Pornography, do you agree with it or not?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2696396",
+      "users": [
+        {
+          "uid": "1062927",
+          "username": "๖ۣۜMind ๖ۣۜControl™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Conspiracy Thread: teh Oracle's 'I Found the Secret to the Universe... // I Saw it All.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2696766",
+      "users": [
+        {
+          "uid": "1382658",
+          "username": "teh Oracle"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Release Thread: KILLM3's 'CodeGenetix - Universal Keygen [FREE!]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2688327",
+      "users": [
+        {
+          "uid": "491112",
+          "username": "KILLM3"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cody got the Gamer award; iNviZ got the Drunk award after drinking whiskey with Omniscient; BELLAGIO got the Drunk award (no reason given); adampelletgun got the Master Donator award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2684648",
+      "users": [
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1007343",
+          "username": "BELLAGIO"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with phybeя conducted by Phytrix; covers his views on cyber crime awareness, his journey on HF, his business PhyberPay LLC, success/happiness, stereotypes around upgraded vs. normal members, and groups becoming cliche.",
+      "thread": "http://hackforums.net/showthread.php?tid=2688327",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "195796",
+          "username": "phybeя"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cody conducted by RDCA; covers his generosity (donating, giveaways), love of HackForums, group activities, and aspirations to own a group with Daisy.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "816875",
+          "username": "Boxxy",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)",
+          "uid": "138559"
+        },
+        {
+          "username": "TheVortex",
+          "role": "Journalist (World News)",
+          "uid": "1115097"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1323486",
+          "username": "AvidWB",
+          "role": "Webshow"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Interviewer"
+        },
+        {
+          "username": "SoulZeh",
+          "role": "Interviewer",
+          "uid": "516470"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "195796",
+      "username": "phybeя"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "491112",
+      "username": "KILLM3"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish"
+    },
+    {
+      "uid": "682899",
+      "username": "Bassline"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "816875",
+      "username": "Boxxy"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "1007343",
+      "username": "BELLAGIO"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1062927",
+      "username": "๖ۣۜMind ๖ۣۜControl™"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1135141",
+      "username": "єиιgмα"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1220739",
+      "username": "deadlyicedragon"
+    },
+    {
+      "uid": "1222901",
+      "username": "The Master™"
+    },
+    {
+      "uid": "1302707",
+      "username": "SuperToad"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    },
+    {
+      "uid": "1382658",
+      "username": "teh Oracle"
+    }
+  ]
+}

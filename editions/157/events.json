@@ -1,0 +1,521 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient enabled the Gravatar plugin temporarily, allowing third-party avatar hosting via Gravatar while avatar uploads remain disabled for security work.",
+      "thread": "http://hackforums.net/showthread.php?tid=3709184",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vinnie's Lannisters group is being rebranded again with a new name accepted by Omniscient after a $250 fee, with Vinnie' stating it will not interfere with Skill.",
+      "thread": "http://hackforums.net/showthread.php?tid=3688111",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie'"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient released a thread listing all Cloudflare-blocked countries; visitors from those countries must complete a CAPTCHA to access the site.",
+      "thread": "http://hackforums.net/showthread.php?tid=3713445",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "[ M ] put the Black Diamond marketing group up for auction at a $5000 buy-it-now after activity dropped following his removal of all group leaders.",
+      "thread": "http://hackforums.net/showthread.php?tid=3711135",
+      "users": [
+        {
+          "uid": "526511",
+          "username": "[ M ]"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Reptar surpassed 2,000 reputation; Morchid hit 1,000 reputation; Programmargorp, Throne, and Dan. each surpassed 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3711135",
+      "users": [
+        {
+          "uid": "1450962",
+          "username": "Reptar"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        },
+        {
+          "uid": "562793",
+          "username": "Programmargorp"
+        },
+        {
+          "uid": "505815",
+          "username": "Throne"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "#Hawk and Java Guardian were banned for trolling; Temper was banned for ban evasion; regexks_'s account was stolen and consequently banned; GhostRiders was banned indefinitely for account ownership issues; ‎Adam‎ was banned for wrong forum posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1502796",
+          "username": "#Hawk"
+        },
+        {
+          "uid": "1867892",
+          "username": "Java Guardian"
+        },
+        {
+          "uid": "1315365",
+          "username": "Temper"
+        },
+        {
+          "uid": "1585387",
+          "username": "regexks_"
+        },
+        {
+          "uid": "1040362",
+          "username": "GhostRiders"
+        },
+        {
+          "uid": "1681493",
+          "username": "‎Adam‎"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chris.., Rogue, Squeak, PaintedCrow, Effervescent, Pussy Machine, Laggy Internet, and 「Taiga Aisaka」 had their accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "271730",
+          "username": "Chris.."
+        },
+        {
+          "uid": "1624866",
+          "username": "Rogue"
+        },
+        {
+          "uid": "1557208",
+          "username": "Squeak"
+        },
+        {
+          "uid": "1864586",
+          "username": "PaintedCrow"
+        },
+        {
+          "uid": "1680034",
+          "username": "Effervescent"
+        },
+        {
+          "uid": "1580954",
+          "username": "Pussy Machine"
+        },
+        {
+          "uid": "699398",
+          "username": "Laggy Internet"
+        },
+        {
+          "uid": "1187067",
+          "username": "「Taiga Aisaka」"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Blazin received the Hot Dog award and the Master Donator award after donating $500+; Isidar was given the Hustler award; Delirium™ purchased the Brony award; LevelUp received the Sticky Man award; mad was awarded Businessman; Vazity received the Award Whore award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3688111",
+      "users": [
+        {
+          "uid": "74674",
+          "username": "Blazin"
+        },
+        {
+          "uid": "1466467",
+          "username": "Isidar"
+        },
+        {
+          "uid": "255459",
+          "username": "Delirium™"
+        },
+        {
+          "uid": "1181919",
+          "username": "LevelUp"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        },
+        {
+          "uid": "751152",
+          "username": "Vazity"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Operate is no longer a leader of Void.",
+      "thread": "http://hackforums.net/showthread.php?tid=3708422",
+      "users": [
+        {
+          "uid": "1589910",
+          "username": "Operate"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Tutorial: LevelUp's 'A Beginners Perl Guide'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3708422",
+      "users": [
+        {
+          "uid": "1181919",
+          "username": "LevelUp"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: RobotzInDisguise's 'How many of HF actually has jobs?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3713162",
+      "users": [
+        {
+          "uid": "101651",
+          "username": "RobotzInDisguise"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group Thread: Roger Waters's 'If you could bring back a group, which one would you bring back and why?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3684439",
+      "users": [
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Buzz Lightyear conducted by Xypher; covers his graphics origins via his father, his unexpected leadership of Graphic Masters under iBruteforce, his lacrosse and tennis hobbies, and his plans for chemical engineering and patent law.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "133256",
+          "username": "Xypher"
+        },
+        {
+          "uid": "204984",
+          "username": "Buzz Lightyear"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Novica conducted by Connected; covers his 2008 arrival on HF for graphics, his GFX Guru award won via avatar gallery contributions, his userbar work for Legacy and Lannisters, and his new paid graphics service.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "502172",
+          "username": "Novica"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Cody, Retribute, and Natha left their Writ3rs positions, with Stay Plural taking Headlines, Yellows taking User News, Harlem taking Tech News, +Pirate taking World News, Yuzuha back on Music News, Umbrein joining Connected as Interviewer, and D3xus joining Retribute as Proofreader. The Tech News writer was also removed for plagiarism.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "133256",
+          "username": "Umbrein",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "74674",
+      "username": "Blazin"
+    },
+    {
+      "uid": "101651",
+      "username": "RobotzInDisguise"
+    },
+    {
+      "uid": "133256",
+      "username": "Xypher"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "204984",
+      "username": "Buzz Lightyear"
+    },
+    {
+      "uid": "255459",
+      "username": "Delirium™"
+    },
+    {
+      "uid": "271730",
+      "username": "Chris.."
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "502172",
+      "username": "Novica"
+    },
+    {
+      "uid": "505815",
+      "username": "Throne"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "526511",
+      "username": "[ M ]"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "562793",
+      "username": "Programmargorp"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie'"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "699398",
+      "username": "Laggy Internet"
+    },
+    {
+      "uid": "751152",
+      "username": "Vazity"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1040362",
+      "username": "GhostRiders"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1181919",
+      "username": "LevelUp"
+    },
+    {
+      "uid": "1187067",
+      "username": "「Taiga Aisaka」"
+    },
+    {
+      "uid": "1315365",
+      "username": "Temper"
+    },
+    {
+      "uid": "1450962",
+      "username": "Reptar"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1466467",
+      "username": "Isidar"
+    },
+    {
+      "uid": "1502796",
+      "username": "#Hawk"
+    },
+    {
+      "uid": "1557208",
+      "username": "Squeak"
+    },
+    {
+      "uid": "1580954",
+      "username": "Pussy Machine"
+    },
+    {
+      "uid": "1585387",
+      "username": "regexks_"
+    },
+    {
+      "uid": "1589910",
+      "username": "Operate"
+    },
+    {
+      "uid": "1624866",
+      "username": "Rogue"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1680034",
+      "username": "Effervescent"
+    },
+    {
+      "uid": "1681493",
+      "username": "‎Adam‎"
+    },
+    {
+      "uid": "1864586",
+      "username": "PaintedCrow"
+    },
+    {
+      "uid": "1867892",
+      "username": "Java Guardian"
+    }
+  ]
+}

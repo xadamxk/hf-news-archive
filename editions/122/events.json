@@ -1,0 +1,406 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "BV1's official group Valor was rebranded as TERROR with a new userbar; all members were kicked for the transition and must PM a leader to be readmitted.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced he will purchase three new servers to bring the total to 24 IP addresses, in response to recent attacks targeting published IPs.",
+      "thread": "http://hackforums.net/showthread.php?tid=3095621",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "SoulZeh reached 1,000 reputation points; +Pirate reached 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3095621",
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ɢʀᴇʏ was repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1478576",
+          "username": "ɢʀᴇʏ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "PurpleHaze had his account closed; Clоud was vacation banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "27314",
+          "username": "PurpleHaze"
+        },
+        {
+          "uid": "841133",
+          "username": "Clоud"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "d4rkJ4y was banned for trolling; Grin was banned for low quality posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "597816",
+          "username": "d4rkJ4y"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Owl City, Josh, Hefto, and Arbitrary were all banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1461061",
+          "username": "Owl City"
+        },
+        {
+          "uid": "329443",
+          "username": "Josh"
+        },
+        {
+          "uid": "1237688",
+          "username": "Hefto"
+        },
+        {
+          "uid": "926684",
+          "username": "Arbitrary"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga received the Diamond award again after having it revoked; Teagan got the Pizza award; BaussHacker got the Sticky Man award for a C# tutorial; Froggy got the Asskisser award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2962380",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "1511519",
+          "username": "Teagan"
+        },
+        {
+          "uid": "522041",
+          "username": "BaussHacker"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Aeon ‹3 became the owner of The Corporation; Natha is no longer a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3047789",
+      "users": [
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Bullеt's '[Mega Thread] Beginner Guide: JTAG & RGH Tutorials'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3047789",
+      "users": [
+        {
+          "uid": "950102",
+          "username": "Bullеt"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: +Entity's 'The Official Groups of Hack Forums'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3004471",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: SkyHigh™'s 'Giving Away 25$ PP'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3089991",
+      "users": [
+        {
+          "uid": "1380082",
+          "username": "SkyHigh™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Apple J4ck. conducted by +Entity; covers his friendship with Zixem, buying a leadership spot in Eminence, and frustrations with WiFi. selling the group.",
+      "thread": "http://hackforums.net/showthread.php?tid=3089991",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "1468706",
+          "username": "Apple J4ck."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Bay conducted by Phytrix; covers his Hackercraft faction with Genuine, friendship with Genuine, marketing experience, and an upcoming Twitter Follower shop.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1326923",
+          "username": "Flogging Molly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "660659",
+          "username": "-Anal OG-",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "27314",
+      "username": "PurpleHaze"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1 ツ"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "329443",
+      "username": "Josh"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "522041",
+      "username": "BaussHacker"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "597816",
+      "username": "d4rkJ4y"
+    },
+    {
+      "uid": "660659",
+      "username": "-Anal OG-"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "841133",
+      "username": "Clоud"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "926684",
+      "username": "Arbitrary"
+    },
+    {
+      "uid": "950102",
+      "username": "Bullеt"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1237688",
+      "username": "Hefto"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1326923",
+      "username": "Flogging Molly"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1380082",
+      "username": "SkyHigh™"
+    },
+    {
+      "uid": "1461061",
+      "username": "Owl City"
+    },
+    {
+      "uid": "1468706",
+      "username": "Apple J4ck."
+    },
+    {
+      "uid": "1478576",
+      "username": "ɢʀᴇʏ"
+    },
+    {
+      "uid": "1511519",
+      "username": "Teagan"
+    }
+  ]
+}

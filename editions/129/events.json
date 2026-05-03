@@ -1,0 +1,434 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "After Sandshrew failed to repay $4000+ in loans (including $620 owed to Tibit), The Angels was reverted to Hexicidal; the group still holds the name 'The Angels' but is expected to be renamed soon.",
+      "thread": "http://hackforums.net/showthread.php?tid=3226734",
+      "users": [
+        {
+          "uid": "1233686",
+          "username": "Sandshrew"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced the L33T/UB3R database leak (from Witza, the order site he owns), affecting members upgraded after April 1st; he made a deal with the responsible blackhat to keep the dump private in exchange for an open ub3r account and awards, and is moving the database to encrypted, obscure storage.",
+      "thread": "http://hackforums.net/showthread.php?tid=3235050",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "malichi and Cryptic™ reached 1,000 reputation points; Wolves reached 10,000 posts; Morchid, PubMaster, and Kray reached 500 prestige points; adampelletgun is no longer a Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        },
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        },
+        {
+          "uid": "651051",
+          "username": "Wolves"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        },
+        {
+          "uid": "67718",
+          "username": "PubMaster"
+        },
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Monkey D Luffy was repfucked; Moons and inet_addr were repfucked and banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1489542",
+          "username": "Monkey D Luffy"
+        },
+        {
+          "uid": "1320455",
+          "username": "Moons"
+        },
+        {
+          "uid": "1664159",
+          "username": "inet_addr"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "WiFi. was banned for harassing members; Juicy Booty was banned; Special One and Daisy were vacation banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        },
+        {
+          "uid": "923753",
+          "username": "Juicy Booty"
+        },
+        {
+          "uid": "1462090",
+          "username": "Special One"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Astonish got the Master Donator and Diamond awards; inet_addr got the Blackhat award; Automatic Coding got the 24k award; .Infinity. got the Master Donator and Businessman awards; Aeon ‹3 got the Businessman award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        },
+        {
+          "uid": "1664159",
+          "username": "inet_addr"
+        },
+        {
+          "uid": "83317",
+          "username": "Automatic Coding"
+        },
+        {
+          "uid": "121075",
+          "username": ".Infinity."
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Mr Kewl and Hexicidal became leaders of The Angels; Froggy is no longer a leader of The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3237786",
+      "users": [
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: -๖ۣۜDivine-'s '[TuT] Infamous - Exploiting systems over WAN [TuT]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3237786",
+      "users": [
+        {
+          "uid": "1539015",
+          "username": "-๖ۣۜDivine-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: HØUSΣ MUSIC's '[Guide] In-App Purchases FREE!! [Tweak][Easy]'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3245932",
+      "users": [
+        {
+          "uid": "1142191",
+          "username": "HØUSΣ MUSIC"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Connected conducted by xadamxk; covers his RAT-spreading origins, Photoshop and ebook projects, the HF Username Style Changer userscript, and his time in The Empire.",
+      "thread": "http://hackforums.net/showthread.php?tid=3245932",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Aeon ‹3 conducted by +Entity; covers his coding work with Tibit on malware and pen testing, military deployment, and his groups (The Empire, former Corporation, 143).",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "67718",
+      "username": "PubMaster"
+    },
+    {
+      "uid": "83317",
+      "username": "Automatic Coding"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "121075",
+      "username": ".Infinity."
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish"
+    },
+    {
+      "uid": "716331",
+      "username": "Cryptic™"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince"
+    },
+    {
+      "uid": "923753",
+      "username": "Juicy Booty"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1142191",
+      "username": "HØUSΣ MUSIC"
+    },
+    {
+      "uid": "1233686",
+      "username": "Sandshrew"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1320455",
+      "username": "Moons"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1462090",
+      "username": "Special One"
+    },
+    {
+      "uid": "1489542",
+      "username": "Monkey D Luffy"
+    },
+    {
+      "uid": "1539015",
+      "username": "-๖ۣۜDivine-"
+    },
+    {
+      "uid": "1664159",
+      "username": "inet_addr"
+    }
+  ]
+}

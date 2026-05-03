@@ -1,0 +1,683 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added new CDN security options that may break userscripts and cause issues for users with disabled referrers.",
+      "thread": "http://hackforums.net/showthread.php?tid=4225887",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient launched a 25,000 OMC contest for the best original tutorials, with a 10,000 OMC top prize, 5,000 OMC for runner-ups, and 1,000 OMC for honorable mentions.",
+      "thread": "http://hackforums.net/showthread.php?tid=4226430",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tom, Cyrus, and Clark hit 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "users": [
+        {
+          "uid": "969003",
+          "username": "Tom‌"
+        },
+        {
+          "uid": "1671547",
+          "username": "Cyrus"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bonsai was repfucked and banned for reputation abuse; Sapientia was repfucked and banned for leaking; Φwner was repfucked and banned for scamming; King Cobra was repfucked and had account closed; Mopex was repfucked and had account closed; Cougаr was repfucked and banned; ZØNOL was banned for proxy selling; Death Disturbance and ᘉᓮᘉᒎᗩ were banned for LQP; Varosion and Xen0n had expired bans for reporting Staff posts; adampelletgun had an expired ban for spamming.",
+      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "users": [
+        {
+          "uid": "1290492",
+          "username": "bonsai"
+        },
+        {
+          "uid": "633611",
+          "username": "Sapientia"
+        },
+        {
+          "uid": "2256727",
+          "username": "Φwner"
+        },
+        {
+          "uid": "1585228",
+          "username": "King Cobra"
+        },
+        {
+          "uid": "2043229",
+          "username": "Mopex"
+        },
+        {
+          "uid": "2122920",
+          "username": "Cougаr"
+        },
+        {
+          "uid": "1980786",
+          "username": "ZØNOL"
+        },
+        {
+          "uid": "951772",
+          "username": "Death Disturbance"
+        },
+        {
+          "uid": "732981",
+          "username": "ᘉᓮᘉᒎᗩ"
+        },
+        {
+          "uid": "1863930",
+          "username": "Varosion"
+        },
+        {
+          "uid": "1787706",
+          "username": "Xen0n"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Clique, Aeon ‹3, Ben121, and Th3PonyWizard took vacation bans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1357063",
+          "username": "Aeon ‹3"
+        },
+        {
+          "uid": "70656",
+          "username": "Ben121"
+        },
+        {
+          "uid": "531250",
+          "username": "Th3PonyWizard"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "RDCA won the Member of the Month award; - Sam - received Asswipe; ven0m received MRT; Bloodarrow42 donated for Master Donator and received Ninja; Tenaxium received Award Whore; Crypto™ received Diamond; Vicellus Drum received Cute and Cuddly; Bull™ received Blackhatter.",
+      "thread": "http://hackforums.net/showthread.php?tid=4195563",
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "91531",
+          "username": "ven0m"
+        },
+        {
+          "uid": "1069282",
+          "username": "Bloodarrow42"
+        },
+        {
+          "uid": "1759389",
+          "username": "Tenaxium"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™"
+        },
+        {
+          "uid": "1431463",
+          "username": "Vicellus Drum"
+        },
+        {
+          "uid": "1844212",
+          "username": "Bull™"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Empire opened official recruitment led by Evangelist; The Brotherhood opened Gaming Sector recruitment led by Cyph Jr; The Brotherhood updated Computing Sector recruitment led by Aurа.",
+      "thread": "http://hackforums.net/showthread.php?tid=4195563",
+      "users": [
+        {
+          "uid": "1374951",
+          "username": "Evangelist"
+        },
+        {
+          "uid": "1659032",
+          "username": "Cyph Jr"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "OmniCoin trading volume on AllCrypt peaked at near 2 BTC in 24 hours and earned the 'Burning Up The Charts' award; AllCrypt briefly halted trading after accidentally starting two daemon processes; the OMC push to BTER and Cryptsy continued with no response yet.",
+      "thread": "http://hackforums.net/showthread.php?tid=4225887",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Anonymous's 'AnonWare | The Consciousness - The Darkness Within' on his HF past.",
+      "thread": "http://hackforums.net/showthread.php?tid=4216466",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Anonymous"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Natsu's '[SETUP] 100% Spoonfed || Clean DarkComet download' tutorial.",
+      "thread": "http://hackforums.net/showthread.php?tid=4218511",
+      "users": [
+        {
+          "uid": "1182380",
+          "username": "Natsu"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: inxy's 'What are you currently listening to?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4142222",
+      "users": [
+        {
+          "uid": "398783",
+          "username": "inxy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Members only's 'Account Creator Extreme Great Tool'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4082334",
+      "users": [
+        {
+          "uid": "284245",
+          "username": "Members only"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: James R. Bennings's 'Everything you need to know about Cryptography!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4218789",
+      "users": [
+        {
+          "uid": "2020298",
+          "username": "James R. Bennings"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: WarpBrothers's '[FREE] WarpBrothers Crypter 1.0 - ST & RT'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4202277",
+      "users": [
+        {
+          "uid": "1959208",
+          "username": "WarpBrothers"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Jumanji's 'Halo Section Lounge #1'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3911072",
+      "users": [
+        {
+          "uid": "761719",
+          "username": "Jumanji"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Bandors's 'Nexus - Minecraft Sector' announcement following the Minecrafters closure.",
+      "thread": "http://hackforums.net/showthread.php?tid=4205429",
+      "users": [
+        {
+          "uid": "1189774",
+          "username": "Bandors"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Indecisive. conducted by 630; covers his pre-HF friendship with Pro circuit (Nitrobooter) and Chargen (TrinityStresser), his skateboarding and snowboarding hobbies, his Eazy-E and Kendrick Lamar music tastes, and his current help building InstinctBooter with Craze.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1830419",
+          "username": "Indecisive."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with ᎦᏣᏲᏐᏃᏫᎿᎩᎮᎯᏝ conducted by Clark; covers his arrival via kjus1245 from 4chan, his planned psychology major and psychiatry medical career path, and his upcoming move to Rochester Institute of Technology.",
+      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "2168684",
+          "username": "ᎦᏣᏲᏐᏃᏫᎿᎩᎮᎯᏝ"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Cody took over User News, Doctor Blue joined Currency News, Happeh and Cyph Jr took over World News, dull joined Music News alongside -Nas, Chieftain returned to Scientific News, and Barneyyz™ joined as Graphical Editor; #Beau moved to Reserve Writer.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Sir's Second / Opinions / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1659032",
+          "username": "Cyph Jr",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1469364",
+          "username": "dull",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Proofreader"
+        },
+        {
+          "uid": "1161771",
+          "username": "#Beau",
+          "role": "Reserve Writer"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "70656",
+      "username": "Ben121"
+    },
+    {
+      "uid": "91531",
+      "username": "ven0m"
+    },
+    {
+      "uid": "279955",
+      "username": "Happeh"
+    },
+    {
+      "uid": "284245",
+      "username": "Members only"
+    },
+    {
+      "uid": "398783",
+      "username": "inxy"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "531250",
+      "username": "Th3PonyWizard"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "633611",
+      "username": "Sapientia"
+    },
+    {
+      "uid": "677529",
+      "username": "Anonymous"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "732981",
+      "username": "ᘉᓮᘉᒎᗩ"
+    },
+    {
+      "uid": "761719",
+      "username": "Jumanji"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "951772",
+      "username": "Death Disturbance"
+    },
+    {
+      "uid": "969003",
+      "username": "Tom‌"
+    },
+    {
+      "uid": "1069282",
+      "username": "Bloodarrow42"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1161771",
+      "username": "#Beau"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1182380",
+      "username": "Natsu"
+    },
+    {
+      "uid": "1189774",
+      "username": "Bandors"
+    },
+    {
+      "uid": "1290492",
+      "username": "bonsai"
+    },
+    {
+      "uid": "1357063",
+      "username": "Aeon ‹3"
+    },
+    {
+      "uid": "1374951",
+      "username": "Evangelist"
+    },
+    {
+      "uid": "1431463",
+      "username": "Vicellus Drum"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1469364",
+      "username": "dull"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1585228",
+      "username": "King Cobra"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1659032",
+      "username": "Cyph Jr"
+    },
+    {
+      "uid": "1671547",
+      "username": "Cyrus"
+    },
+    {
+      "uid": "1759389",
+      "username": "Tenaxium"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1787706",
+      "username": "Xen0n"
+    },
+    {
+      "uid": "1830419",
+      "username": "Indecisive."
+    },
+    {
+      "uid": "1844212",
+      "username": "Bull™"
+    },
+    {
+      "uid": "1863930",
+      "username": "Varosion"
+    },
+    {
+      "uid": "1959208",
+      "username": "WarpBrothers"
+    },
+    {
+      "uid": "1980786",
+      "username": "ZØNOL"
+    },
+    {
+      "uid": "2020298",
+      "username": "James R. Bennings"
+    },
+    {
+      "uid": "2043229",
+      "username": "Mopex"
+    },
+    {
+      "uid": "2122920",
+      "username": "Cougаr"
+    },
+    {
+      "uid": "2168684",
+      "username": "ᎦᏣᏲᏐᏃᏫᎿᎩᎮᎯᏝ"
+    },
+    {
+      "uid": "2256727",
+      "username": "Φwner"
+    }
+  ]
+}

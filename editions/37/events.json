@@ -1,0 +1,87 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "April Fools 2011: fake moderator group 'Lofo Prilas' applications posted.",
+            "url": "http://hackforums.net/showthread.php?tid=1180990",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Avatar uploads disabled temporarily due to a bug.",
+            "url": "http://hackforums.net/showthread.php?tid=1205191",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Official TinyChat plugin removed (impersonation, flaming).",
+            "url": "",
+            "related_users": []
+        },
+        {
+            "topic": "threads",
+            "title": "Omniscient shares photos from his former NY gaming store.",
+            "url": "http://hackforums.net/showthread.php?tid=1172802",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Crow launches WizardForums.com.",
+            "url": "http://hackforums.net/showthread.php?tid=1196056",
+            "related_users": [
+                "Crow"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "Xch4ng3 reinstated as staff.",
+            "url": "",
+            "related_users": [
+                "Xch4ng3"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "phire nuk3r launches community chat site.",
+            "url": "http://hackforums.net/showthread.php?tid=1154756",
+            "related_users": [
+                "phire nuk3r"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "The Alliance processing applications; Black Knights new leaders announced.",
+            "url": "http://hackforums.net/showthread.php?tid=1207832",
+            "related_users": [
+                "Paradoxum",
+                "Xypher",
+                "Qwazz",
+                "Cняιs ★ Hуѕтєяιa X™"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Crow",
+            "uid": 2103
+        },
+        {
+            "username": "Xch4ng3",
+            "uid": 65784
+        },
+        {
+            "username": "phire nuk3r",
+            "uid": 46373
+        }
+    ]
+}

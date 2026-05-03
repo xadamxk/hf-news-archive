@@ -1,0 +1,327 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient reintroduced the Ub3r Junk feature with a new abuse-prevention system: only Ub3r members may junk threads, and only once every 24 hours.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added new 'Web Browsers' and 'Graphics Resources' subforums; the Web Browsers section already has over 700 threads.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient restricted thread subscriptions to L33t and Ub3r members only and added a popup confirmation when upgraded members close threads.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The Microsoft email blacklist issue from last week is still unresolved despite Omniscient's efforts; Omniscient also performed maintenance and updated the site's MySQL version.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "+Entity was accidentally downgraded to L33t while upgrading another member.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mr Kewl received the MOTM award; ℱℓℴw received the Sticky Man award; Andy received the YouTube award; Zalgo received the Dog Lover award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "89554",
+          "username": "ℱℓℴw"
+        },
+        {
+          "uid": "871484",
+          "username": "Andy"
+        },
+        {
+          "uid": "1164841",
+          "username": "Zalgo"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "+Pirate and Touch became leaders of Respawn; Aur0ra became a leader of Root; ShadowCloud became a leader of Infamous.",
+      "thread": "http://hackforums.net/showthread.php?tid=2846145",
+      "users": [
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        },
+        {
+          "uid": "1109404",
+          "username": "Touch"
+        },
+        {
+          "uid": "1285731",
+          "username": "Aur0ra"
+        },
+        {
+          "uid": "272608",
+          "username": "ShadowCloud"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Zecora's 'One Reason why the Universe is not Random but Instead, it is Created by Someone.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2846145",
+      "users": [
+        {
+          "uid": "991769",
+          "username": "Zecora"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'I love America.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2842187",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Strokes's 'Stealing For Survival.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2835607",
+      "users": [
+        {
+          "uid": "1326923",
+          "username": "Strokes"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Strokes's 'What Makes Your Life Worth Living?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2845378",
+      "users": [
+        {
+          "uid": "1326923",
+          "username": "Strokes"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Soulmate conducted by Phytrix; covers his XBL Gamertag marketplace history, the Lounge, his five group memberships, views on Astonish stepping down from Respawn, and tips for L33t-tier activity.",
+      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "837416",
+          "username": "Soulmate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Daisy conducted by Phytrix; covers being one of HF's few female members, her giveaways and contests with Cody, Rhythm and Serenity memberships, and definitions of contributing.",
+      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Sir announced openings on the HF News team for an Interviewer and a World News Writer, with character codes for applicants to copy into replies.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "89554",
+      "username": "ℱℓℴw"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "272608",
+      "username": "ShadowCloud"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "837416",
+      "username": "Soulmate"
+    },
+    {
+      "uid": "871484",
+      "username": "Andy"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "991769",
+      "username": "Zecora"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1109404",
+      "username": "Touch"
+    },
+    {
+      "uid": "1164841",
+      "username": "Zalgo"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1285731",
+      "username": "Aur0ra"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    }
+  ]
+}

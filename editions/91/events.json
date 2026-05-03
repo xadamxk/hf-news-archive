@@ -1,0 +1,531 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Several Basscode members were banned for leaking/cracking HF products; the word 'Basscode' was censored and replaced with 'spam'.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient is considering making the 'Post here and PM me' ban site-wide; Peter Chao posted a thread supporting the change.",
+      "thread": "http://hackforums.net/showthread.php?tid=1748222",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "129812",
+          "username": "Peter Chao"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "New Battlefield Series and Mobile and Tablet Gaming sections were added under the Gaming tab in response to user requests.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Ignite, Spafic, Leafs, and Angelic™ all reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "946680",
+          "username": "Ignite."
+        },
+        {
+          "uid": "47962",
+          "username": "Spafic"
+        },
+        {
+          "uid": "500863",
+          "username": "Leafs"
+        },
+        {
+          "uid": "1063224",
+          "username": "Angelic™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "panDa. recovered his account.",
+      "thread": "http://hackforums.net/showthread.php?tid=2469965",
+      "users": [
+        {
+          "uid": "566671",
+          "username": "panDa."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga, Mark Webber, Tɦɛ Gʀiɱ, and other well-known members are being impersonated to scam others.",
+      "thread": "http://hackforums.net/showthread.php?tid=2476262",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "89623",
+          "username": "Mark Webber"
+        },
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Subscription's account was closed and repfucked for ban evading; he turned out to be Legitti, a known scammer.",
+      "thread": "http://hackforums.net/showthread.php?tid=2477340",
+      "users": [
+        {
+          "uid": "1159829",
+          "username": "Subscription"
+        },
+        {
+          "uid": "699743",
+          "username": "Legitti"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ups., a former leader of the Coders group, was banned and repfucked for carding.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "108076",
+          "username": "Ups."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cяιмιηαℓ was repfucked and banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "729921",
+          "username": "Cяιмιηαℓ"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Star Thread: Qwazz auctioned off the final Qwazz Star award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2477768",
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Feedback Thread: DeMeR's general HF feedback thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2484477",
+      "users": [
+        {
+          "uid": "155834",
+          "username": "DeMeR"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Suggestion Thread: iamkenIT's suggestion that led to 'Members List' being renamed to 'Members'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2482338",
+      "users": [
+        {
+          "uid": "1031147",
+          "username": "iamkenIT"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Impersonation Thread: bugga's warning about Skype impersonation scams.",
+      "thread": "http://hackforums.net/showthread.php?tid=2476262",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Juicy Booty received the Master Donator and The Alien awards; Existence and Anxtrist received the Sticky Man award; Dan. received Ninja; Positive received Star; ZooT ツ received Da Bomb; Burnin'Bob received Turkey (for revealing Subscription's info two days after the fact); Victoria Justice received Master Donator and Dancing Queen.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "923753",
+          "username": "Juicy Booty"
+        },
+        {
+          "uid": "451192",
+          "username": "Existence"
+        },
+        {
+          "uid": "766855",
+          "username": "Anxtrist"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "492002",
+          "username": "ZooT ツ"
+        },
+        {
+          "uid": "974289",
+          "username": "Burnin'Bob"
+        },
+        {
+          "uid": "1206954",
+          "username": "Victoria Justice"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Brandenx781, Deltron, Paradoxum, Peter Chao, Shinkirou, and Tha Sneak all received the HJT Graduate award.",
+      "thread": "http://hackforums.net/showthread.php?tid=1748222",
+      "users": [
+        {
+          "uid": "847499",
+          "username": "Brandenx781"
+        },
+        {
+          "uid": "847488",
+          "username": "Deltron"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        },
+        {
+          "uid": "129812",
+          "username": "Peter Chao"
+        },
+        {
+          "uid": "56680",
+          "username": "Shinkirou"
+        },
+        {
+          "uid": "284502",
+          "username": "Tha Sneak"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "McFlurry is now a group leader of Propitious; Viral Dragon is now a group leader of Root; +Pirate and masterfan were promoted to leaders of Respawn.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        },
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        },
+        {
+          "uid": "60729",
+          "username": "masterfan"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Oldskool. conducted by Waleed; covers his joining HF via a virtual-currency virus, the HMSE section history, and the unofficial Syndicate group.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Waleed",
+          "uid": "769614"
+        },
+        {
+          "uid": "426299",
+          "username": "Oldskool."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Assyrian conducted by Chocothunda; covers his Google-search arrival on HF, username origin, and gaming-section activity.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "355307",
+          "username": "Chocothunda"
+        },
+        {
+          "uid": "488246",
+          "username": "Assyrian"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "762186",
+          "username": "Eruditus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Interviewer"
+        },
+        {
+          "username": "Waleed",
+          "role": "Interviewer",
+          "uid": "769614"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "47962",
+      "username": "Spafic"
+    },
+    {
+      "uid": "56680",
+      "username": "Shinkirou"
+    },
+    {
+      "uid": "60729",
+      "username": "masterfan"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "89623",
+      "username": "Mark Webber"
+    },
+    {
+      "uid": "108076",
+      "username": "Ups."
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "129812",
+      "username": "Peter Chao"
+    },
+    {
+      "uid": "155834",
+      "username": "DeMeR"
+    },
+    {
+      "uid": "284502",
+      "username": "Tha Sneak"
+    },
+    {
+      "uid": "295848",
+      "username": "Qwazz"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "426299",
+      "username": "Oldskool."
+    },
+    {
+      "uid": "431105",
+      "username": "Tɦɛ Gʀiɱ"
+    },
+    {
+      "uid": "451192",
+      "username": "Existence"
+    },
+    {
+      "uid": "488246",
+      "username": "Assyrian"
+    },
+    {
+      "uid": "492002",
+      "username": "ZooT ツ"
+    },
+    {
+      "uid": "500863",
+      "username": "Leafs"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "566671",
+      "username": "panDa."
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "699743",
+      "username": "Legitti"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "729921",
+      "username": "Cяιмιηαℓ"
+    },
+    {
+      "uid": "762186",
+      "username": "Eruditus"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "766855",
+      "username": "Anxtrist"
+    },
+    {
+      "uid": "769614",
+      "username": "Waleed"
+    },
+    {
+      "uid": "847488",
+      "username": "Deltron"
+    },
+    {
+      "uid": "847499",
+      "username": "Brandenx781"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "923753",
+      "username": "Juicy Booty"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "974289",
+      "username": "Burnin'Bob"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1031147",
+      "username": "iamkenIT"
+    },
+    {
+      "uid": "1063224",
+      "username": "Angelic™"
+    },
+    {
+      "uid": "1159829",
+      "username": "Subscription"
+    },
+    {
+      "uid": "1206954",
+      "username": "Victoria Justice"
+    }
+  ]
+}

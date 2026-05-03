@@ -1,0 +1,276 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Frida was banned for reporting Staff and Administrators.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Frida",
+          "uid": "817858"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Bread was banned until 10/22/11 with the reason 'Don't cross limits'; he is well known for his witty 'How to make Bread' guide.",
+      "thread": "http://hackforums.net/showthread.php?tid=790428",
+      "users": [
+        {
+          "username": "Bread",
+          "uid": "390455"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sync™ was banned after his account was possibly compromised; his username was also changed to 'psycho buddy'.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Sync™",
+          "uid": "604554"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Thoth was banned again, this time for trolling and ban evasion.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Thoth",
+          "uid": "300616"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zach was banned until 10/22/11 due to family troubles.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "200751",
+          "username": "Zach"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Anime Thread: Tasemu's 'Anime Adventures Weekly – Issue #3,' a mini-news edition about anime.",
+      "thread": "http://hackforums.net/showthread.php?tid=1825640",
+      "users": [
+        {
+          "username": "Tasemu",
+          "uid": "62795"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: fl3x's relaunch of the well-known Minecraft Craftbukkit server 'Retribution-MC' on a 16GB RAM server.",
+      "thread": "http://hackforums.net/showthread.php?tid=1832605",
+      "users": [
+        {
+          "username": "fl3x",
+          "uid": "504857"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: Glassy's 'Ultimate Guide on Computer Overclocking, Customizing and Hardware.'",
+      "thread": null,
+      "users": [
+        {
+          "username": "Glassy",
+          "uid": "734805"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Open Ended Debate: [AnimeFAN!] Kenshin's 'Are you for or against Occupy Wallstreet?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1824647",
+      "users": [
+        {
+          "username": "[AnimeFAN!] Kenshin",
+          "uid": "649674"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Most Interesting Topic: thought+inquiry=truth's 'Capitalism is slavery' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1812709",
+      "users": [
+        {
+          "username": "thought+inquiry=truth",
+          "uid": "962852"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Suggestion Compilation: Positive's 'Recently Suggested and Denied/Accepted Suggestions' thread, helping members check whether their idea has been raised before.",
+      "thread": "http://hackforums.net/showthread.php?tid=1812957",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Successful Sales Thread: Paperbag's 'Merqy' IRC bot, marketed for stability and ease of use.",
+      "thread": "http://hackforums.net/showthread.php?tid=1346734",
+      "users": [
+        {
+          "username": "Paperbag",
+          "uid": "274985"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Peter Chao moved from Normal → Mentor → Staff. Rusty_v moved from Normal → Staff → Mentor.",
+      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "users": [
+        {
+          "uid": "129812",
+          "username": "Peter Chao"
+        },
+        {
+          "username": "Rusty_v",
+          "uid": "47970"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Glassy received the Sticky Man award.",
+      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "users": [
+        {
+          "username": "Glassy",
+          "uid": "734805"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dєαtђ S received the Dunce award ('For your english').",
+      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "users": [
+        {
+          "username": "Dєαtђ S"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The MammoTh received the Drunk award ('You really don't deserve this particular award but it's the one you wanted').",
+      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "users": [
+        {
+          "username": "The MammoTh"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with McFlurry conducted by Reported; covers his Reverence co-leadership, HJT Team membership, and views on changes.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with KillaMuvz conducted by Kyle FYI™; covers his joining HF, Cryptex development with Baked, and views on the free groups potentially being removed.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Kyle FYI™"
+        },
+        {
+          "username": "KillaMuvz"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "47970",
+      "username": "Rusty_v"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "129812",
+      "username": "Peter Chao"
+    },
+    {
+      "uid": "200751",
+      "username": "Zach"
+    },
+    {
+      "uid": "274985",
+      "username": "Paperbag"
+    },
+    {
+      "uid": "300616",
+      "username": "Thoth"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "390455",
+      "username": "Bread"
+    },
+    {
+      "uid": "504857",
+      "username": "fl3x"
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "604554",
+      "username": "Sync™"
+    },
+    {
+      "uid": "649674",
+      "username": "[AnimeFAN!] Kenshin"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "734805",
+      "username": "Glassy"
+    },
+    {
+      "uid": "817858",
+      "username": "Frida"
+    },
+    {
+      "uid": "962852",
+      "username": "thought+inquiry=truth"
+    }
+  ]
+}

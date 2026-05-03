@@ -1,0 +1,579 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient pulled an April Fools prank with a fake account suspension alert linking to an endless CloudFlare loading page, then briefly repfucked everyone, and finally displayed a 'Mii T. CentOS' takeover page; members who blocked the alert with AdBlock now miss PM notifications.",
+      "thread": "http://hackforums.net/showthread.php?tid=4156433",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "iNviZ sold Infamous to Syrah, who renamed it Zero (a marketing-focused group) with leaders Maximum and CarrotMilk; hours later Judge Dredd rebranded Complexity into the new Infamous, retaining members from both groups, with leaders Judge Dredd, iNviZ, TheHackersLove, bugga, and Tibit.",
+      "thread": "http://hackforums.net/showthread.php?tid=4147688",
+      "users": [
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        },
+        {
+          "uid": "1763815",
+          "username": "Syrah"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        },
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "OmniCoin v2 launched with difficulty rapidly increasing and prices fluctuating; Omniscient added a new OMC award and the OmniCoin team is working on cross-platform wallets, an exchange, and forum integration.",
+      "thread": "http://hackforums.net/showthread.php?tid=4156433",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tibit and Goodies reached 1,000 reputation; Roger Waters reached 10,000 posts; Emylbus hit 1,000 reputation and passed his probationary staff stage to become full Staff.",
+      "thread": "http://hackforums.net/showthread.php?tid=4147680",
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "ᴺᴼᴬᴴ was banned for harassing members; a1eks_ was banned for repfuck complaining; eiqhtworks was banned and told to quit flaming; iKLUTCH was banned because 'you cannot sell reputation'; Soap_Storm was banned for using a non-English username; #Raue was repfucked and banned for trashing thread titles; LMAOLMAOLMAO was banned indefinitely as a precautionary measure; Zayne's account was compromised; Coffee had account closed.",
+      "thread": "http://hackforums.net/showthread.php?tid=4147680",
+      "users": [
+        {
+          "uid": "2095954",
+          "username": "ᴺᴼᴬᴴ"
+        },
+        {
+          "uid": "1257615",
+          "username": "a1eks_"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks"
+        },
+        {
+          "uid": "1209782",
+          "username": "iKLUTCH"
+        },
+        {
+          "uid": "1250871",
+          "username": "Soap_Storm"
+        },
+        {
+          "uid": "2053780",
+          "username": "#Raue"
+        },
+        {
+          "uid": "2045862",
+          "username": "LMAOLMAOLMAO"
+        },
+        {
+          "uid": "1255973",
+          "username": "Zayne"
+        },
+        {
+          "uid": "91473",
+          "username": "Coffee"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "-Nas, Vinnie, and Robust were banned for off-topic posting (expired); Trust was banned for reporting a staff member's post (expired); Nina Dobrev ™ was repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1452196",
+          "username": "-Nas"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        },
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        },
+        {
+          "uid": "1446355",
+          "username": "Τrust"
+        },
+        {
+          "uid": "2066492",
+          "username": "Nina Dobrev ™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Frostix donated for Master Donator and received Rat Expert.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "992989",
+          "username": "Frostix"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Cameron is no longer leader of Infamous; Judge Dredd and Tibit became leaders of Infamous; Syrah, Maximum, and CarrotMilk became leaders of Zero.",
+      "thread": "http://hackforums.net/showthread.php?tid=4147688",
+      "users": [
+        {
+          "uid": "1990800",
+          "username": "Cameron"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "1763815",
+          "username": "Syrah"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: xadamxk's 'The Ultimate Compilation of Hack Forum Userscripts'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3569941",
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: 630's '630's mcMMO Guide | An Informative Guide to Grinding mcMMO'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4094533",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: -zYMTOM's '[The Empire] Book Fort! Get in, download, learn'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4141685",
+      "users": [
+        {
+          "uid": "960727",
+          "username": "-zYMTOM'"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Maryland™ received the Silver Medal award for a notable post on the 'No more buyable awards' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=4158618",
+      "users": [
+        {
+          "uid": "984082",
+          "username": "-Maryland™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Tom conducted by 630; covers his Instinct group activity, his Minecraft griefing origins via Team Avolition, his volunteer first aid squad work, and his interest in zoology and biology.",
+      "thread": "http://hackforums.net/showthread.php?tid=3569941",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "969003",
+          "username": "Tom"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with bitcube conducted by Clark; covers his upgrade following stresser sales, his work in The Empire and Infamous, his 8 years freelancing in web design/development, and his plans to study Intellectual Property law.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1595524",
+          "username": "bitcube"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Razor conducted by Clique; covers his RazorCrypt creation in AutoIT, his 7 years of programming experience, his familiarity with C/C++/fasm/ARM/C#/VB/PHP/SQL, and his stage lighting hobby.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1243825",
+          "username": "Razor"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "RDCA",
+          "role": "Journalist (Security News) / Proofreader"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Currency News)"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1171567",
+          "username": "Chieftain",
+          "role": "Journalist (Scientific News)"
+        },
+        {
+          "uid": "944024",
+          "username": "Neal Caffrey",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "752389",
+          "username": "eightworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Rinium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "91473",
+      "username": "Coffee"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "891000",
+      "username": "RDCA"
+    },
+    {
+      "uid": "944024",
+      "username": "Neal Caffrey"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "960727",
+      "username": "-zYMTOM'"
+    },
+    {
+      "uid": "969003",
+      "username": "Tom"
+    },
+    {
+      "uid": "984082",
+      "username": "-Maryland™"
+    },
+    {
+      "uid": "992989",
+      "username": "Frostix"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1093501",
+      "username": "Roger Waters"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1171567",
+      "username": "Chieftain"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1173142",
+      "username": "Goodies"
+    },
+    {
+      "uid": "1205532",
+      "username": "Robust"
+    },
+    {
+      "uid": "1209782",
+      "username": "iKLUTCH"
+    },
+    {
+      "uid": "1238642",
+      "username": "Maximum"
+    },
+    {
+      "uid": "1243825",
+      "username": "Razor"
+    },
+    {
+      "uid": "1250871",
+      "username": "Soap_Storm"
+    },
+    {
+      "uid": "1255973",
+      "username": "Zayne"
+    },
+    {
+      "uid": "1257615",
+      "username": "a1eks_"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1446355",
+      "username": "Τrust"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1595524",
+      "username": "bitcube"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1763815",
+      "username": "Syrah"
+    },
+    {
+      "uid": "1775114",
+      "username": "Rinium"
+    },
+    {
+      "uid": "1990800",
+      "username": "Cameron"
+    },
+    {
+      "uid": "2045862",
+      "username": "LMAOLMAOLMAO"
+    },
+    {
+      "uid": "2053780",
+      "username": "#Raue"
+    },
+    {
+      "uid": "2066492",
+      "username": "Nina Dobrev ™"
+    },
+    {
+      "uid": "2095954",
+      "username": "ᴺᴼᴬᴴ"
+    }
+  ]
+}

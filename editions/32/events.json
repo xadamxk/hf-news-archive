@@ -1,0 +1,67 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "‘Dead Group’ created for permanently disabled accounts.",
+            "url": "http://twitter.com/HackForumsNet/statuses/27462312101158913",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Hanzo: How to avoid getting repfucked and banned.",
+            "url": "http://hackforums.net/showthread.php?tid=1012384",
+            "related_users": [
+                "Hanzo"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "MySQL 5.5 upgrade stabilizes DB; HTTP server upgrade planned.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "ShareCash experiment proposed (awards/upgrades for tasks).",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Thread IDs surpass 1,000,000.",
+            "url": "",
+            "related_users": [
+                "The Elite"
+            ]
+        },
+        {
+            "topic": "users",
+            "title": "WIZCRAFT permanently banned for scamming.",
+            "url": "",
+            "related_users": [
+                "WIZCRAFT"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Hanzo",
+            "uid": 4066
+        },
+        {
+            "username": "The Elite",
+            "uid": 136025
+        }
+    ]
+}
+

@@ -1,0 +1,390 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient offered a 'mercy day' to members with closed accounts (excluding Honor Et Veritas) and offered a reward for tracking down HEV's new account, which was reportedly Syndicated.",
+      "thread": "http://hackforums.net/showthread.php?tid=2889796",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "940577",
+          "username": "Honor Et Veritas"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced and rolled out Google Authentication (Gauth) in beta for Ub3rs, an account security feature using mobile verification codes.",
+      "thread": "http://hackforums.net/showthread.php?tid=2904286",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The long-awaited Deal Dispute Database was released, replacing xerotic's recently shut down scam database; available to all members after a brief Ub3r-only beta.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced he is considering creating a Rap Battle subforum after multiple member suggestions; gathered 10 pages of feedback.",
+      "thread": "http://hackforums.net/showthread.php?tid=2901143",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Pocky reached 20,000 posts and Saga reached 10,000 posts; quincie♥ reached 100 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=2901143",
+      "users": [
+        {
+          "uid": "285508",
+          "username": "Pocky"
+        },
+        {
+          "uid": "701593",
+          "username": "Saga"
+        },
+        {
+          "uid": "1442089",
+          "username": "quincie♥"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "WarrioR™, Automatic Coding, Zeon, WinRAR™, and Tundrun were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1160330",
+          "username": "WarrioR™"
+        },
+        {
+          "uid": "83317",
+          "username": "Automatic Coding"
+        },
+        {
+          "uid": "58683",
+          "username": "Zeon"
+        },
+        {
+          "uid": "962283",
+          "username": "WinRAR™"
+        },
+        {
+          "uid": "506241",
+          "username": "Tundrun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "OnTheFly was banned after his account was compromised; Makaveli The Don was banned for impersonating Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "891268",
+          "username": "OnTheFly"
+        },
+        {
+          "uid": "509788",
+          "username": "Makaveli The Don"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Grammar Rays was banned for trolling again; mybboss was banned for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        },
+        {
+          "uid": "1072161",
+          "username": "mybboss"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellows received the Sticky Man award; Cody got the Da Bomb award; Daisy received the Master Donator and Cute and Cuddly awards.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Viral Dragon is no longer a leader of Root.",
+      "thread": "http://hackforums.net/showthread.php?tid=2896312",
+      "users": [
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Godlike_'s 'Do you believe in Aliens?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2896312",
+      "users": [
+        {
+          "uid": "1379117",
+          "username": "Godlike_"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Rapture™'s 'And Then 0 Multiplied.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2894047",
+      "users": [
+        {
+          "uid": "1142415",
+          "username": "Rapture™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Ryan Frost's 'Natural Timetravel'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2898093",
+      "users": [
+        {
+          "uid": "1388267",
+          "username": "Ryan Frost"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Khoshy's 'Would the existence of extraterrestrial life disprove Christianity?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2905198",
+      "users": [
+        {
+          "uid": "978570",
+          "username": "Khoshy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Feir conducted by Phytrix; covers gender on HF, pornography, capital punishment, abortion, homosexuality, gender equality, and ghosts.",
+      "thread": "http://hackforums.net/showthread.php?tid=2905198",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "412979",
+          "username": "Feir"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Paradoxum (newest staff member) conducted by +Entity; covers his journey through The Alliance and HJT Team and his promotion to Staff.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Journalist (Headlines / Music News / World News) / Interviewer / Proofreader"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "23809",
+      "username": "Viral Dragon"
+    },
+    {
+      "uid": "58683",
+      "username": "Zeon"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "83317",
+      "username": "Automatic Coding"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "285508",
+      "username": "Pocky"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "412979",
+      "username": "Feir"
+    },
+    {
+      "uid": "506241",
+      "username": "Tundrun"
+    },
+    {
+      "uid": "509788",
+      "username": "Makaveli The Don"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "701593",
+      "username": "Saga"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "940577",
+      "username": "Honor Et Veritas"
+    },
+    {
+      "uid": "962283",
+      "username": "WinRAR™"
+    },
+    {
+      "uid": "978570",
+      "username": "Khoshy"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1072161",
+      "username": "mybboss"
+    },
+    {
+      "uid": "1142415",
+      "username": "Rapture™"
+    },
+    {
+      "uid": "1160330",
+      "username": "WarrioR™"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1379117",
+      "username": "Godlike_"
+    },
+    {
+      "uid": "1388267",
+      "username": "Ryan Frost"
+    },
+    {
+      "uid": "1442089",
+      "username": "quincie♥"
+    }
+  ]
+}

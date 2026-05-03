@@ -1,0 +1,489 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "A video from a competing forum claimed Omniscient was part of an FBI plot to arrest HF members; he laughed it off and tweeted a link, then removed the well-known member Wolves from the Mentor usergroup after Wolves posted a related joke thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=3186275",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "651051",
+          "username": "Wolves"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new avatar gallery by member ★ Leo ★, renamed the iPhone/iPod Touch section to iOS and iDevices, and raised the price for paid stickies.",
+      "thread": "http://hackforums.net/showthread.php?tid=3186545",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1098418",
+          "username": "★ Leo ★"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient enabled IP notifications on password reset emails and reinforced that HF accounts cannot be transferred, shared, or sold, in response to a recent large scammer who had been buying accounts on competing forums.",
+      "thread": "http://hackforums.net/showthread.php?tid=3186545",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Natha, Valderino, Reptar ツ, and Nickelodeon all reached 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "121196",
+          "username": "Natha"
+        },
+        {
+          "uid": "898803",
+          "username": "Valderino"
+        },
+        {
+          "uid": "1450962",
+          "username": "Reptar ツ"
+        },
+        {
+          "uid": "1206954",
+          "username": "Nickelodeon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Strokes‌ and Tate were banned; Advanced was banned; The MammoTh was banned for scamming; Daisy was banned and Tibit was banned for bullying Daisy.",
+      "thread": "http://hackforums.net/showthread.php?tid=3186275",
+      "users": [
+        {
+          "uid": "1326923",
+          "username": "Strokes‌"
+        },
+        {
+          "uid": "101228",
+          "username": "Tate"
+        },
+        {
+          "uid": "967025",
+          "username": "Advanced"
+        },
+        {
+          "uid": "572367",
+          "username": "The MammoTh"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Natha, Fegelein, def‌c‌on, and Diabolic were vacation banned; Øueen had her account closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "121196",
+          "username": "Natha"
+        },
+        {
+          "uid": "1205578",
+          "username": "Fegelein"
+        },
+        {
+          "uid": "871059",
+          "username": "def‌c‌on"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        },
+        {
+          "uid": "388560",
+          "username": "Øueen"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mr. Anderson and iNuke received the YouTube award; BagHead got the Sticky Man award; t0ks1ck™ got the Spy award; +Pirate got the Gamer award; Tando got the Flamer award; Anakin™ got the Silver Medal and Ninja awards; ★ Leo ★ got the GFX Guru award; LevelUp got the Master Donator and Mad Scientist awards.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        },
+        {
+          "uid": "1278319",
+          "username": "iNuke"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead"
+        },
+        {
+          "uid": "66329",
+          "username": "t0ks1ck™"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        },
+        {
+          "uid": "1113153",
+          "username": "Tando"
+        },
+        {
+          "uid": "316698",
+          "username": "Anakin™"
+        },
+        {
+          "uid": "1098418",
+          "username": "★ Leo ★"
+        },
+        {
+          "uid": "1181919",
+          "username": "LevelUp"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "+Entity became a group leader of the Writ3rs.",
+      "thread": "http://hackforums.net/showthread.php?tid=3158507",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: #Skyline's 'THE EMPIRE RAT SUPPORT HELP DESK'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3158507",
+      "users": [
+        {
+          "uid": "1232842",
+          "username": "#Skyline"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Wafflemonger's '(The Alliance) Mega Security Guide'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3044038",
+      "users": [
+        {
+          "uid": "8383",
+          "username": "Wafflemonger"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Odin the Wanderer's 'High voltage transformer tutorial'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3179751",
+      "users": [
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Sir's 'Convert Terraria section to Indie Games section'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3177634",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The HackerCraft faction Chad was disbanded a second time after Kappahz used Hypnotoad's compromised account to internally raid Respawn; Chad's base was deleted and Kappahz was permanently banned from the server.",
+      "thread": "http://hackforums.net/showthread.php?tid=3186545",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "737960",
+          "username": "Hypnotoad"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with SkyGuy conducted by Phytrix; covers his early HF journey, RAT learning, Writ3rs membership, and his time in The Empire and Eminence groups.",
+      "thread": "http://hackforums.net/showthread.php?tid=3177634",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Barneyyz™ conducted by +Entity; covers his rise within Graphic Masters, paying $200 to keep GM alive, becoming GM leader, his GFX teaching, and Writ3rs Graphical Editor role.",
+      "thread": "http://hackforums.net/showthread.php?tid=3158507",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (HackerCraft News)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Music News) / Headlines"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "8383",
+      "username": "Wafflemonger"
+    },
+    {
+      "uid": "66329",
+      "username": "t0ks1ck™"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "316698",
+      "username": "Anakin™"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "388560",
+      "username": "Øueen"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "572367",
+      "username": "The MammoTh"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "737960",
+      "username": "Hypnotoad"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "871059",
+      "username": "def‌c‌on"
+    },
+    {
+      "uid": "898803",
+      "username": "Valderino"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince"
+    },
+    {
+      "uid": "967025",
+      "username": "Advanced"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1098418",
+      "username": "★ Leo ★"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1113153",
+      "username": "Tando"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1181919",
+      "username": "LevelUp"
+    },
+    {
+      "uid": "1205578",
+      "username": "Fegelein"
+    },
+    {
+      "uid": "1206954",
+      "username": "Nickelodeon"
+    },
+    {
+      "uid": "1232842",
+      "username": "#Skyline"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1278319",
+      "username": "iNuke"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes‌"
+    },
+    {
+      "uid": "1450962",
+      "username": "Reptar ツ"
+    }
+  ]
+}

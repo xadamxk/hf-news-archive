@@ -1,0 +1,640 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Sir announced a new wave of Writ3rs recruitment for the HF News, requiring Ub3r status, strong English skills, and HF knowledge.",
+      "thread": "http://hackforums.net/showthread.php?tid=4373962",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced Froggy will take over the Member of the Month contest after D3xus resigned for personal reasons; Froggy was also made moderator of the HF l33t OT Discussions forum.",
+      "thread": "http://hackforums.net/showthread.php?tid=4350598",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'Private Investigation Methods and Anonymity' sub-forum under Beginner Hacking; the section was initially closed pending rules.",
+      "thread": "http://hackforums.net/showthread.php?tid=4355471",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "inxy hit 20,000 posts; Pillows hit 10,000 posts; LiveSupport and Fox™ hit 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "398783",
+          "username": "inxy"
+        },
+        {
+          "uid": "820949",
+          "username": "Pillows"
+        },
+        {
+          "uid": "1439027",
+          "username": "LiveSupport"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Concerned and Diplomatic were repfucked for scamming (Concerned also banned); Eeluminati and Paragnox were banned for low quality posting; Judge Judy was banned for a marketplace violation; Mahdy was banned for selling outside Marketplace; Pumped Up was banned and repfucked for using a Paypal holder; Snapchat™ was banned and repfucked for proxy selling; Hexley and Juicy Jake had accounts closed and repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1513535",
+          "username": "Concerned"
+        },
+        {
+          "uid": "2063107",
+          "username": "Diplomatic"
+        },
+        {
+          "uid": "1987673",
+          "username": "Eeluminati"
+        },
+        {
+          "uid": "280309",
+          "username": "Paragnox"
+        },
+        {
+          "uid": "894098",
+          "username": "Judge Judy"
+        },
+        {
+          "uid": "872076",
+          "username": "Mahdy"
+        },
+        {
+          "uid": "2279807",
+          "username": "Pumped Up"
+        },
+        {
+          "uid": "1047311",
+          "username": "Snapchat™"
+        },
+        {
+          "uid": "1375129",
+          "username": "Hexley"
+        },
+        {
+          "uid": "1667822",
+          "username": "Juicy Jake"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "'Chief received the Turkey, Award Whore, and Asswipe awards; AntiPaste received The Protector award; D3xus received the Jailbreak Freak award; Nivarka received the Cool award; 'Snorlax received many awards; Unknown • donated for Master Donator and received the Rat Expert award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4355471",
+      "users": [
+        {
+          "uid": "1536004",
+          "username": "'Chief"
+        },
+        {
+          "uid": "846590",
+          "username": "AntiPaste"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "1221196",
+          "username": "Unknown •"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "T3h Hack3r put the official security group Null up for sale at a non-negotiable $10,000 USD via BTC.",
+      "thread": "http://hackforums.net/showthread.php?tid=4356646",
+      "users": [
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The Astrocoin team submitted a pull request fixing the long-standing 'pfork != NULL' Omnicoin wallet bug; new binary versions are pending compilation.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Allcrypt suddenly stopped processing trades around July 28 and marked their Omnicoin wallet under maintenance until August 1.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": ".Matt's omc-live.com expanded to include a copy of Crypto™'s mining calculator with features from The Moen's calculator, providing live coin value, mining earnings, and rented mining costs.",
+      "thread": "http://hackforums.net/showthread.php?tid=4350598",
+      "users": [
+        {
+          "uid": "1354902",
+          "username": ".Matt"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™"
+        },
+        {
+          "uid": "392740",
+          "username": "The Moen"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Entertaining Thread: Stealth™'s 'The real use for Prestige; I'm onto something!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4266143",
+      "users": [
+        {
+          "uid": "1953860",
+          "username": "Stealth™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Entertaining Thread: Trademark ™'s 'I got expelled from my \"Christian\" school LOL!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4359626",
+      "users": [
+        {
+          "uid": "2153563",
+          "username": "Trademark ™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informational Thread: Tommy's 'Gaza Megathread | LIVESTREAM | ALERT: HOSPITAL SHELLED BY IDF'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4344746",
+      "users": [
+        {
+          "uid": "1534733",
+          "username": "Tommy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Miscellaneous Thread: Swift™'s 'This website lets you experience what it's like to drown.'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4359760",
+      "users": [
+        {
+          "uid": "912779",
+          "username": "Swift™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with zach conducted by 630; covers his Instinct membership and pay-in, his break-in losing his custom PC, his hard-working two-job lifestyle, his planned trip to Italy, and his dislike for current Minecraft server economies.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Xerotic conducted by Clark; covers his Userscript work and self-taught programming, his stint as Staff in 2011 and current Mentor role, his work-from-home livelihood, and his suggestion for an HF API.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "175033",
+          "username": "Xerotic"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; 'Snorlax took on 1st Compiler, Nivarka and zack joined as 4th and 5th Compilers, Baghead joined as 5th Editor with Aceman as Reserve, Aired joined for Art Gallery, and Rivalry took over Comics.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Sir's Second / Opinions"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Editor"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Editor"
+        },
+        {
+          "uid": "1964831",
+          "username": "Magicmann",
+          "role": "Editor"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "Editor"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Editor / Journalist (Podcast)"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman",
+          "role": "Reserve Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1189774",
+          "username": "Bandors",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1161771",
+          "username": "#Beau",
+          "role": "Compiler"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "Compiler"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reserve Compiler"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "969003",
+          "username": "'Sin",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952870",
+          "username": "Alien",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1638900",
+          "username": "Aired",
+          "role": "Art Gallery"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Comics / Graphical Artist"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1716927",
+          "username": "Fade™",
+          "role": "Graphical Artist"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "175033",
+      "username": "Xerotic"
+    },
+    {
+      "uid": "280309",
+      "username": "Paragnox"
+    },
+    {
+      "uid": "392740",
+      "username": "The Moen"
+    },
+    {
+      "uid": "398783",
+      "username": "inxy"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "820949",
+      "username": "Pillows"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "846590",
+      "username": "AntiPaste"
+    },
+    {
+      "uid": "872076",
+      "username": "Mahdy"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "894098",
+      "username": "Judge Judy"
+    },
+    {
+      "uid": "912779",
+      "username": "Swift™"
+    },
+    {
+      "uid": "934881",
+      "username": "Aceman"
+    },
+    {
+      "uid": "952870",
+      "username": "Alien"
+    },
+    {
+      "uid": "969003",
+      "username": "'Sin"
+    },
+    {
+      "uid": "1047311",
+      "username": "Snapchat™"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1161771",
+      "username": "#Beau"
+    },
+    {
+      "uid": "1166170",
+      "username": "zасh"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1189774",
+      "username": "Bandors"
+    },
+    {
+      "uid": "1221196",
+      "username": "Unknown •"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1354902",
+      "username": ".Matt"
+    },
+    {
+      "uid": "1375129",
+      "username": "Hexley"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1439027",
+      "username": "LiveSupport"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1513535",
+      "username": "Concerned"
+    },
+    {
+      "uid": "1534733",
+      "username": "Tommy"
+    },
+    {
+      "uid": "1536004",
+      "username": "'Chief"
+    },
+    {
+      "uid": "1638900",
+      "username": "Aired"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1667822",
+      "username": "Juicy Jake"
+    },
+    {
+      "uid": "1716927",
+      "username": "Fade™"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1953860",
+      "username": "Stealth™"
+    },
+    {
+      "uid": "1964831",
+      "username": "Magicmann"
+    },
+    {
+      "uid": "1987673",
+      "username": "Eeluminati"
+    },
+    {
+      "uid": "2063107",
+      "username": "Diplomatic"
+    },
+    {
+      "uid": "2153563",
+      "username": "Trademark ™"
+    },
+    {
+      "uid": "2279807",
+      "username": "Pumped Up"
+    }
+  ]
+}

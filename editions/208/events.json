@@ -1,0 +1,688 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "On September 18th HackForums experienced 14 hours of downtime due to a memory issue that crashed servers without alerting Omniscient; on September 28th additional maintenance for site updates and security upgrades caused a few hours of outages.",
+      "thread": "http://hackforums.net/showthread.php?tid=4452423",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient posted a feedback poll about possibly bringing back HackerCraft, the official HF Minecraft server; 84% of 244 voters supported its return.",
+      "thread": "http://hackforums.net/showthread.php?tid=4466266",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "On September 30th Omniscient bulk-closed about 48,000 accounts (47,000 regular, 1,000 L33t, 150 Ub3r) to prevent them being sold or stolen; rule changes accompanied the action and upgraded members can reopen with proof of ownership.",
+      "thread": "http://hackforums.net/showthread.php?tid=4469600",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellows hit 1,000 prestige; inxy hit 24,000 posts; Fluxify, Japanese, jameshacker, and JonBD hit 1,000 reputation; Froggy was reinstated as a Mentor; Tony Stark was promoted to Mentor; Raptor. became Moderator of the League of Legends sub-forum.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "398783",
+          "username": "inxy"
+        },
+        {
+          "uid": "633823",
+          "username": "Fluxify"
+        },
+        {
+          "uid": "1618863",
+          "username": "Japanese"
+        },
+        {
+          "uid": "289791",
+          "username": "jameshacker"
+        },
+        {
+          "uid": "2060407",
+          "username": "JonBD"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "506782",
+          "username": "Tony Stark"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Bro? was banned for excessive username changes; Brule was banned for harassing members; Eeluminati was banned and repfucked for a long vacation; futana and xillux were banned (futana repfucked) for multi-accounting; Neurility was banned for rep abuse; TheCrazy8th was banned and repfucked for account transfer/sharing; Evil was repfucked for severe rep abuse via PMs; Free Mason and ๖ۣۜXilluX had accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "2282100",
+          "username": "Bro?"
+        },
+        {
+          "uid": "2064999",
+          "username": "Brule"
+        },
+        {
+          "uid": "1987673",
+          "username": "Eeluminati"
+        },
+        {
+          "uid": "1474419",
+          "username": "futana"
+        },
+        {
+          "uid": "2434728",
+          "username": "xillux"
+        },
+        {
+          "uid": "2409732",
+          "username": "Neurility"
+        },
+        {
+          "uid": "1614704",
+          "username": "TheCrazy8th"
+        },
+        {
+          "uid": "1771320",
+          "username": "Evil"
+        },
+        {
+          "uid": "2076744",
+          "username": "Free Mason"
+        },
+        {
+          "uid": "1799321",
+          "username": "๖ۣۜXilluX"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Aceman received the Legend award; Black Shadow received the Cool award; Camerοn donated for Master Donator and received FPS Gawd; Glassy received the Sticky Man award; Goodies received the Genius award; iceybunneh won Member of the Month; nokia2mon2 received the Grand Amethyst award; sexyzach donated for Master Donator and received Top Banana; Satu had Master Donator, Emerald Donator, Hackercraft, Omnicoin, Litecoin, and Gift awards removed.",
+      "thread": "http://hackforums.net/showthread.php?tid=1982540",
+      "users": [
+        {
+          "uid": "934881",
+          "username": "Aceman"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        },
+        {
+          "uid": "1990800",
+          "username": "Camerοn"
+        },
+        {
+          "uid": "734805",
+          "username": "Glassy"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies"
+        },
+        {
+          "uid": "620004",
+          "username": "iceybunneh"
+        },
+        {
+          "uid": "80618",
+          "username": "nokia2mon2"
+        },
+        {
+          "uid": "1166170",
+          "username": "sexyzach"
+        },
+        {
+          "uid": "787112",
+          "username": "Satu"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "syrah put Zero up for sale at $9,000 USD via Bitcoin, Western Union, or in-person cash in NYC, LA, Austin, or Boston.",
+      "thread": "http://hackforums.net/showthread.php?tid=4454771",
+      "users": [
+        {
+          "uid": "1763815",
+          "username": "syrah"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vinnie put up Instinct group leadership for sale and changed Instinct from a group to a private gaming community.",
+      "thread": "http://hackforums.net/showthread.php?tid=4471385",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Multiple group leadership changes: Craze and Ζach changes in *#@?&%! (Teh Afro and Ζach added, Craze removed); Errors removed as Titans leader; Fade removed as Revolution leader; Grievous added to Enterprise; Maximum added to Zero; Roger Waters and 'Snorlax added to Brotherhood; Vinnie added to Illuminati.",
+      "thread": "http://hackforums.net/showthread.php?tid=4463515",
+      "users": [
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        },
+        {
+          "uid": "1166170",
+          "username": "Ζach"
+        },
+        {
+          "uid": "1716927",
+          "username": "Fade"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Avery conducted by 630; covers his PlayStation gaming circle, his upcoming title interests, his part-time bar job, and his planned 2015 college start in computing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1739895",
+          "username": "Avery"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Fortis conducted by 630; covers his l33t-tier perspective on HF, his federal probation following classified-files charges, his master plumber career and linguistics ambitions, his strict mobile-only HF use, and his artwork.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "965759",
+          "username": "Fortis"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Factor8™ conducted by Clique; covers his July 2010 Staff appointment, his 4.5-year admin tenure, his self-employed garments and scrap trading IRL, and his advice for aspiring moderators.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; ӍeshCollider joined as 5th Editor, The Conjurer joined for Headlines, D3xus joined for Group News, Justin Timberlake joined as Interviewer, Designer joined as Graphical Artist, and Eternal. and Grin joined as Reserve Writers; Yellows became Overseer.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Editor / Journalist (Podcast)"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "Editor"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "Editor"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Compiler"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1161771",
+          "username": "#Beau",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "Reserve Compiler"
+        },
+        {
+          "uid": "969003",
+          "username": "Troye",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1563298",
+          "username": "The Conjurer",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "506782",
+          "username": "Tony Stark",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Art Gallery / Graphical Artist"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "649674",
+          "username": "Eternal.",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Overseer"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "80618",
+      "username": "nokia2mon2"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "289791",
+      "username": "jameshacker"
+    },
+    {
+      "uid": "398783",
+      "username": "inxy"
+    },
+    {
+      "uid": "506782",
+      "username": "Tony Stark"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "620004",
+      "username": "iceybunneh"
+    },
+    {
+      "uid": "633823",
+      "username": "Fluxify"
+    },
+    {
+      "uid": "649674",
+      "username": "Eternal."
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "734805",
+      "username": "Glassy"
+    },
+    {
+      "uid": "787112",
+      "username": "Satu"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "934881",
+      "username": "Aceman"
+    },
+    {
+      "uid": "965759",
+      "username": "Fortis"
+    },
+    {
+      "uid": "969003",
+      "username": "Troye"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1161771",
+      "username": "#Beau"
+    },
+    {
+      "uid": "1166170",
+      "username": "sexyzach"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1173142",
+      "username": "Goodies"
+    },
+    {
+      "uid": "1238642",
+      "username": "Maximum"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1474419",
+      "username": "futana"
+    },
+    {
+      "uid": "1563298",
+      "username": "The Conjurer"
+    },
+    {
+      "uid": "1614704",
+      "username": "TheCrazy8th"
+    },
+    {
+      "uid": "1618863",
+      "username": "Japanese"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1716927",
+      "username": "Fade"
+    },
+    {
+      "uid": "1739895",
+      "username": "Avery"
+    },
+    {
+      "uid": "1754121",
+      "username": "Grievous"
+    },
+    {
+      "uid": "1763815",
+      "username": "syrah"
+    },
+    {
+      "uid": "1771320",
+      "username": "Evil"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1799321",
+      "username": "๖ۣۜXilluX"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "1987673",
+      "username": "Eeluminati"
+    },
+    {
+      "uid": "1990800",
+      "username": "Camerοn"
+    },
+    {
+      "uid": "2015410",
+      "username": "ӍeshCollider"
+    },
+    {
+      "uid": "2060407",
+      "username": "JonBD"
+    },
+    {
+      "uid": "2064999",
+      "username": "Brule"
+    },
+    {
+      "uid": "2076744",
+      "username": "Free Mason"
+    },
+    {
+      "uid": "2282100",
+      "username": "Bro?"
+    },
+    {
+      "uid": "2409732",
+      "username": "Neurility"
+    },
+    {
+      "uid": "2434728",
+      "username": "xillux"
+    }
+  ]
+}

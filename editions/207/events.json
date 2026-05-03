@@ -1,0 +1,773 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "On August 27th someone made DNS changes for HackForums and Witza, briefly defacing Witza; Omniscient fixed the issue and confirmed no information was stolen.",
+      "thread": "http://hackforums.net/showthread.php?tid=4417712",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a 'Legalize It' award available for $50 BTC in support of cannabis legalization, with 25% of donations going to NORML.org.",
+      "thread": "http://hackforums.net/showthread.php?tid=4421184",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "On September 12th HF was down 45 minutes for maintenance; Omniscient cleared junk forums, deleted users, and ran a post recount, removing approximately one million posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=4421184",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new $1,000 one-time 'Grand Amethyst' donation award; four members purchased it on day one, and Master Donator may become a $500 one-time purchase.",
+      "thread": "http://hackforums.net/showthread.php?tid=4439274",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Polymath ran a Polybot AI chatbot contest with hidden codes for prizes ranging from upgrades to group invites; the original thread was closed after 1,600 replies due to a glitch and Lani created a follow-up.",
+      "thread": "http://hackforums.net/showthread.php?tid=4441684",
+      "users": [
+        {
+          "uid": "42927",
+          "username": "Lani"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Black Soul and ZuGgY hit 10,000 posts; Saturday and SαнεηSнαн hit 2,000 reputation; Aceman, Anima., beslim, Canada, Maximum, Tyler, The Judge, Texno, and T3h Hack3r hit 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1117229",
+          "username": "Black Soul"
+        },
+        {
+          "uid": "1522601",
+          "username": "ZuGgY"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1349931",
+          "username": "SαнεηSнαн"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima."
+        },
+        {
+          "uid": "1777085",
+          "username": "beslim"
+        },
+        {
+          "uid": "1133490",
+          "username": "Canada"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        },
+        {
+          "uid": "398194",
+          "username": "Tyler"
+        },
+        {
+          "uid": "1057942",
+          "username": "The Judge"
+        },
+        {
+          "uid": "192970",
+          "username": "Texno"
+        },
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hexicidal won Member of the Month; Skorp was promoted to Mentor; Froggy was demoted from Mentor and had her 10,000 reputation from Omniscient removed; FantaŠec and KyleWTF had their accounts reopened (FantaŠec then re-closed and repfucked).",
+      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "users": [
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "1292605",
+          "username": "Skorp"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "965574",
+          "username": "FantaŠec"
+        },
+        {
+          "uid": "923197",
+          "username": "KyleWTF"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mahdy and Roku were banned for repfuck complaining; XilluX and Armanі were banned and repfucked for leaking; Top Banana was banned and repfucked for Paypal holding; Zohaibb and Frenzy™ were banned and repfucked for trying to steal accounts; Firе was banned and repfucked for fraud; Autocorrect was banned and repfucked for multi-accounting; Pick was banned and repfucked for donation begging; steveds was banned and repfucked for abusing the report button; LightBlue was banned ('For Sparta!'); LiveSupport was repfucked for hinting for reputation; Lᴏᴠᴇ had account closed and repfucked for ban evasion; Six-Nine had account reopened, re-closed, and repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "872076",
+          "username": "Mahdy"
+        },
+        {
+          "uid": "1883633",
+          "username": "๖ۣۜRoku"
+        },
+        {
+          "uid": "1799321",
+          "username": "๖ۣۜXilluX"
+        },
+        {
+          "uid": "1216124",
+          "username": "Armanі"
+        },
+        {
+          "uid": "1374004",
+          "username": "Top Banana"
+        },
+        {
+          "uid": "2360521",
+          "username": "Zohaibb"
+        },
+        {
+          "uid": "1582895",
+          "username": "Frenzy™"
+        },
+        {
+          "uid": "397644",
+          "username": "Firе"
+        },
+        {
+          "uid": "2308322",
+          "username": "Autocorrect"
+        },
+        {
+          "uid": "1399250",
+          "username": "Pick"
+        },
+        {
+          "uid": "1141148",
+          "username": "steveds"
+        },
+        {
+          "uid": "914420",
+          "username": "LightBlue"
+        },
+        {
+          "uid": "1439027",
+          "username": "LiveSupport"
+        },
+        {
+          "uid": "2178302",
+          "username": "Lᴏᴠᴇ"
+        },
+        {
+          "uid": "1558856",
+          "username": "Six-Nine"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Najort donated for Bitcoinage and Master Donator and received Legend and The Alien awards; Aceman donated for Master Donator and received Green Apple; Hexicidal received MOTM; Understalker, Bull™, Ty ™, and Trojan donated for the new Grand Amethyst award; Fresh Prince donated for Master Donator and received FPS Gawd; multiple members donated for the new Legalize It award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "users": [
+        {
+          "uid": "1066893",
+          "username": "Najort"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        },
+        {
+          "uid": "1844212",
+          "username": "Bull™"
+        },
+        {
+          "uid": "1871421",
+          "username": "Ty ™"
+        },
+        {
+          "uid": "1043300",
+          "username": "Fresh Prince"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Two new groups appeared during the HF News' absence: The Revolution and Titans, both converted from previous groups with three new leaders each.",
+      "thread": "http://hackforums.net/showthread.php?tid=4452939",
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "Group sale frenzy: Fly By Night was sold and rebranded as Specialist (with Tɦɛ Gʀiɱ added to leadership), Infamous was sold and is becoming Titans (Realizm), and Tibit's The Empire was put up for sale.",
+      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        },
+        {
+          "uid": "1343812",
+          "username": "Realizm"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Sh1eld was removed as leader of Polymath.",
+      "thread": "http://hackforums.net/showthread.php?tid=4437063",
+      "users": [
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Soulmate conducted by Clique; covers his corgi obsession, his gamertag-derived username, his views on declining marketplace value, and his repeated Ub3r denials linked to Haunter Gang membership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "837416",
+          "username": "Soulmate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Nivarka conducted by Alien; covers his Instinct membership and Package banter, his L'appel du vide intellectual discussion, his anti-theist views, his currency exchange service that earned him Master Donator, and his rock and EDM music interests.",
+      "thread": "http://hackforums.net/showthread.php?tid=4421371",
+      "users": [
+        {
+          "uid": "952870",
+          "username": "Alien"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Krixus conducted by 630; covers his Instinct membership, his MMORPG gaming preferences, his Xbox 360 booter origin on HF, and his repeated Ub3r denials.",
+      "thread": "http://hackforums.net/showthread.php?tid=4418450",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "2134273",
+          "username": "Krixus"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Raptor. joined as 6th Editor, 'Snorlax took 1st Compiler with Fox™ joining as 3rd Compiler, Tasemu joined for Podcast, Nivarka joined for Site News, Nobility took over Group News, and Tony Stark joined for Notable Threads.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Sir's Second / Battlestations / Credits"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Editor"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Editor / Journalist (Podcast)"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "Editor"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Editor"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman",
+          "role": "Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax",
+          "role": "Compiler"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1161771",
+          "username": "#Beau",
+          "role": "Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "Compiler"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "969003",
+          "username": "'Sin",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Journalist (Podcast)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "506782",
+          "username": "Tony Stark",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Art Gallery / Graphical Artist"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Comics / Graphical Artist"
+        },
+        {
+          "uid": "1716927",
+          "username": "Fade™",
+          "role": "Graphical Artist"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "42927",
+      "username": "Lani"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "192970",
+      "username": "Texno"
+    },
+    {
+      "uid": "397644",
+      "username": "Firе"
+    },
+    {
+      "uid": "398194",
+      "username": "Tyler"
+    },
+    {
+      "uid": "431105",
+      "username": "Tɦɛ Gʀiɱ"
+    },
+    {
+      "uid": "506782",
+      "username": "Tony Stark"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima."
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "837416",
+      "username": "Soulmate"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "872076",
+      "username": "Mahdy"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "914420",
+      "username": "LightBlue"
+    },
+    {
+      "uid": "923197",
+      "username": "KyleWTF"
+    },
+    {
+      "uid": "934881",
+      "username": "Aceman"
+    },
+    {
+      "uid": "952870",
+      "username": "Alien"
+    },
+    {
+      "uid": "965574",
+      "username": "FantaŠec"
+    },
+    {
+      "uid": "969003",
+      "username": "'Sin"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1043300",
+      "username": "Fresh Prince"
+    },
+    {
+      "uid": "1057942",
+      "username": "The Judge"
+    },
+    {
+      "uid": "1066893",
+      "username": "Najort"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1117229",
+      "username": "Black Soul"
+    },
+    {
+      "uid": "1133490",
+      "username": "Canada"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1141148",
+      "username": "steveds"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1161771",
+      "username": "#Beau"
+    },
+    {
+      "uid": "1166170",
+      "username": "zасh"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1216124",
+      "username": "Armanі"
+    },
+    {
+      "uid": "1238642",
+      "username": "Maximum"
+    },
+    {
+      "uid": "1292605",
+      "username": "Skorp"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1343812",
+      "username": "Realizm"
+    },
+    {
+      "uid": "1349931",
+      "username": "SαнεηSнαн"
+    },
+    {
+      "uid": "1374004",
+      "username": "Top Banana"
+    },
+    {
+      "uid": "1399250",
+      "username": "Pick"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1439027",
+      "username": "LiveSupport"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1522601",
+      "username": "ZuGgY"
+    },
+    {
+      "uid": "1558856",
+      "username": "Six-Nine"
+    },
+    {
+      "uid": "1582895",
+      "username": "Frenzy™"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1716927",
+      "username": "Fade™"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1777085",
+      "username": "beslim"
+    },
+    {
+      "uid": "1799321",
+      "username": "๖ۣۜXilluX"
+    },
+    {
+      "uid": "1844212",
+      "username": "Bull™"
+    },
+    {
+      "uid": "1871421",
+      "username": "Ty ™"
+    },
+    {
+      "uid": "1883633",
+      "username": "๖ۣۜRoku"
+    },
+    {
+      "uid": "2134273",
+      "username": "Krixus"
+    },
+    {
+      "uid": "2178302",
+      "username": "Lᴏᴠᴇ"
+    },
+    {
+      "uid": "2308322",
+      "username": "Autocorrect"
+    },
+    {
+      "uid": "2360521",
+      "username": "Zohaibb"
+    }
+  ]
+}

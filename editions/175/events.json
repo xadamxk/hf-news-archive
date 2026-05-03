@@ -1,0 +1,368 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient published Hack Forums analytics PDFs detailing visitor stats, devices (Windows over 75%, iOS, Android, Mac, then Linux at 2%), languages, and geography.",
+      "thread": "http://hackforums.net/showthread.php?tid=3955885",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient ran a community contest for a New Year's banner design for the purple and modern blue themes.",
+      "thread": "http://hackforums.net/showthread.php?tid=3956231",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient clarified that no marketplace-style threads (services or paid offers) are allowed in the Requests for Hacking section, with a 3-day automatic ban for violations.",
+      "thread": "http://hackforums.net/showthread.php?tid=3955885",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "iNviZ and TheHackersLove ran an Infamous Coats-For-Kids charity selling group spots and raised over $4,000 for children's winter clothing.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "+mK hit 1,000 reputation; tux1 hit 10,000 posts; 'Snorlax hit 2,000 reputation and 1,000 prestige.",
+      "thread": "http://hackforums.net/showthread.php?tid=3908185",
+      "users": [
+        {
+          "uid": "585389",
+          "username": "+mK"
+        },
+        {
+          "uid": "56088",
+          "username": "tux1"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Bull™ was banned for account sharing; Avaswift was banned for ub3r junk abuse; Baghead was banned for impersonating members; Angry Grаndpa and Ass Man were banned for assisting a ban evader; Kangaroo and .Alerion were banned for trolling/LQP.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1844212",
+          "username": "Bull™"
+        },
+        {
+          "uid": "491392",
+          "username": "Avaswift"
+        },
+        {
+          "uid": "766855",
+          "username": "Baghead"
+        },
+        {
+          "uid": "1837949",
+          "username": "Angry Grаndpa"
+        },
+        {
+          "uid": "1028345",
+          "username": "Ass Man"
+        },
+        {
+          "uid": "1134079",
+          "username": "Kangaroo"
+        },
+        {
+          "uid": "1693297",
+          "username": ".Alerion"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Pali, Jire, and Claptrap™ had their accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "879431",
+          "username": "Pali"
+        },
+        {
+          "uid": "207739",
+          "username": "Jire"
+        },
+        {
+          "uid": "1402183",
+          "username": "Claptrap™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tommy donated for Master Donator and received Militant; Cyph Jr donated for Master Donator and received Black Hatter.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "44921",
+          "username": "Tommy"
+        },
+        {
+          "uid": "1659032",
+          "username": "Cyph Jr"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Bay conducted by Clique; covers his Track and Cross Country running, his FBI interrogation over Social Engineering, his RDP sales, and his graphics design aspirations.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with #Thunder conducted by Clark; covers his original interest in the now-pruned Social Engineering subforum, his work in the Computing/Android/WHH sections, and his enjoyment of The Empire group.",
+      "thread": "http://hackforums.net/showthread.php?tid=3908185",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1021070",
+          "username": "#Thunder"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Yuzuha returned to the team covering World News and Music News; Yellows resumed User News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "770060",
+          "username": "Invisus",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News) / Journalist (Tech News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News) / Journalist (Music News)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "44921",
+      "username": "Tommy"
+    },
+    {
+      "uid": "56088",
+      "username": "tux1"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "207739",
+      "username": "Jire"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "491392",
+      "username": "Avaswift"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "585389",
+      "username": "+mK"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "766855",
+      "username": "Baghead"
+    },
+    {
+      "uid": "770060",
+      "username": "Invisus"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "1021070",
+      "username": "#Thunder"
+    },
+    {
+      "uid": "1028345",
+      "username": "Ass Man"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1134079",
+      "username": "Kangaroo"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1402183",
+      "username": "Claptrap™"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1659032",
+      "username": "Cyph Jr"
+    },
+    {
+      "uid": "1693297",
+      "username": ".Alerion"
+    },
+    {
+      "uid": "1837949",
+      "username": "Angry Grаndpa"
+    },
+    {
+      "uid": "1844212",
+      "username": "Bull™"
+    }
+  ]
+}

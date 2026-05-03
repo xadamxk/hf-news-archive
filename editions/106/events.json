@@ -1,0 +1,330 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient created a new 'Survey Says' subforum under the Money tab for discussion of making money with surveys.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a DayZ Mod forum (already nearly 500 threads) and created a new 'FPS and Military Style Gaming' section with four subsections.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Astonish stepped down as head of Respawn and is auctioning off two leader positions starting at $110 each, while remaining the group's owner.",
+      "thread": "http://hackforums.net/showthread.php?tid=2794663",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bugga was promoted to Staff and had her reputation reset.",
+      "thread": "http://hackforums.net/showthread.php?tid=2794663",
+      "users": [
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cody8295 and Pali both reached 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=2794663",
+      "users": [
+        {
+          "uid": "285755",
+          "username": "Cody8295"
+        },
+        {
+          "uid": "879431",
+          "username": "Pali"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "KoolDude87 was banned for advertising a rival forum; Blic was banned for reputation hinting; HappySmile was banned for flaming; Bєηєνolєη¢є™ was banned for harassing members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "723185",
+          "username": "KoolDude87"
+        },
+        {
+          "uid": "706994",
+          "username": "Blic"
+        },
+        {
+          "uid": "1336368",
+          "username": "HappySmile"
+        },
+        {
+          "uid": "507599",
+          "username": "Bєηєνolєη¢є™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Αnonymous and Dan. received the Gavel of Dredd award; Existence received the Da Bomb award; Diabolic received the 24k award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2793507",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        },
+        {
+          "uid": "451192",
+          "username": "Existence"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'Rapists get visitation rights to there child in 31 states.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2803589",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: thought+inquiry=truth's 'Proof that there is no God.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2808553",
+      "users": [
+        {
+          "uid": "962852",
+          "username": "thought+inquiry=truth"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: 131's 'Why do you pray for someone when they're having a hard time?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2791811",
+      "users": [
+        {
+          "uid": "571039",
+          "username": "131"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with malichi conducted by Phytrix; SRPP-themed conversation covering atheism/anti-theism, ObamaCare, foreign wars, gender equality, child discipline, and religion as a global issue.",
+      "thread": "http://hackforums.net/showthread.php?tid=2791811",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Apathy conducted by Phytrix; SRPP-themed conversation covering management of the SRPP section, Serenity vs. Logic, individual rights, government power, revenge, and agnostic atheism.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "285755",
+      "username": "Cody8295"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "451192",
+      "username": "Existence"
+    },
+    {
+      "uid": "507599",
+      "username": "Bєηєνolєη¢є™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "571039",
+      "username": "131"
+    },
+    {
+      "uid": "600771",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "706994",
+      "username": "Blic"
+    },
+    {
+      "uid": "723185",
+      "username": "KoolDude87"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "962852",
+      "username": "thought+inquiry=truth"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1336368",
+      "username": "HappySmile"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "HF Wiki team forming; call for experienced contributors.",
+            "url": "http://hackforums.net/showthread.php?tid=1327070",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Reported posts count reset for all members.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Minor LAN/MySQL issues resolved.",
+            "url": "http://hackforums.net/showthread.php?tid=1335474",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Lounge ban: LQ 'forum games' threads disallowed.",
+            "url": "http://hackforums.net/showthread.php?tid=1327117",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Upgrade prices for L33T and Ub3r increased; one-time coupon offered.",
+            "url": "http://hackforums.net/showthread.php?tid=1323663",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "TrollForums launched by Omni.",
+            "url": "http://www.trollforums.com/",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "24-hour bans issued for 'lost wallet' spam in Lounge.",
+            "url": "",
+            "related_users": [
+                "Kr4z1"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Kr4z1",
+            "uid": 143654
+        }
+    ]
+}
+

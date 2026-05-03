@@ -1,0 +1,376 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Due to junk abuse, Omniscient is building a plugin to limit Ub3rs to one thread junk per 24 hours; while in development, Ub3rs cannot junk threads at all.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient ran the annual 'Good Will Monday' on the first Monday of June: members were asked to give 5 positive reps to deserving members and avoid negatives unless tied to a scam report.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The 'Tinychat and other chat invites' section was renamed to 'Tinychat, Join.me, Skype and Other Chat Invites'.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "xvisceral, Wolves, Mr Kewl, and Positive all reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "111287",
+          "username": "xvisceral"
+        },
+        {
+          "uid": "651051",
+          "username": "Wolves"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ex-administrator iBruteforce returned to HF and made a few posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=2550572",
+      "users": [
+        {
+          "uid": "33279",
+          "username": "iBruteforce"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Pepsi had his account closed for reversing a payment.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1059931",
+          "username": "Pepsi"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Guess Who Is Back had his account closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "817877",
+          "username": "Guess Who Is Back"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Askaa was banned for threatening other members; Gpizzle was repfucked and banned for helping ban evaders.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1236861",
+          "username": "Askaa"
+        },
+        {
+          "uid": "989666",
+          "username": "Gpizzle"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Fetus Flipper was banned for trying to steal from McDonald's.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "260570",
+          "username": "Fetus Flipper"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Grammar Rays's 'Nothing Actually Exists' philosophical thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2557010",
+      "users": [
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'Some Junk food ingredients should be banned' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2555644",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "67-bit's 'Who are you voting for in the up-coming elections?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2493556",
+      "users": [
+        {
+          "uid": "246178",
+          "username": "67-bit"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "malichi's 'We are made of the Big Bang!' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2550388",
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "630 received Pizza (for a how-to-make-pizza thread), Master Donator, and Brony awards; McFlurry received Master Donator and Ninja; Walking Paradox received Gamer; - Sam - became the first recipient of the Gavel of Dredd award (for League of Legends, oddly); Αnonymous received Frog.",
+      "thread": "http://hackforums.net/showthread.php?tid=2544989",
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        },
+        {
+          "uid": "1125749",
+          "username": "Walking Paradox"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "600771",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Lemonade is now a group leader of the Reviewers.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "731778",
+          "username": "Lemonade"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Genuine conducted by SoulZeh; covers his pivot from black hat to white hat, becoming Staff, and Red Lions co-leadership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition. TheVortex now covers Gaming News, World News, and Tech News.",
+      "thread": "http://hackforums.net/showthread.php?tid=2555644",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (Gaming News / World News / Tech News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "33279",
+      "username": "iBruteforce"
+    },
+    {
+      "uid": "111287",
+      "username": "xvisceral"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "246178",
+      "username": "67-bit"
+    },
+    {
+      "uid": "260570",
+      "username": "Fetus Flipper"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "600771",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "731778",
+      "username": "Lemonade"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "817877",
+      "username": "Guess Who Is Back"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "989666",
+      "username": "Gpizzle"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1059931",
+      "username": "Pepsi"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1125749",
+      "username": "Walking Paradox"
+    },
+    {
+      "uid": "1236861",
+      "username": "Askaa"
+    }
+  ]
+}

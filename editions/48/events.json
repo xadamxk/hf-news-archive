@@ -1,0 +1,81 @@
+{
+    "events": [
+        {
+            "topic": "groups",
+            "title": "Gamers Crew removed; new Gamers Lounge section created.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=65",
+            "related_users": []
+        },
+        {
+            "topic": "groups",
+            "title": "Philker official group removed.",
+            "url": "http://hackforums.net/showthread.php?tid=1424284",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Mandatory password reset for l33t/ub3r after DB issue.",
+            "url": "",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Proposal: encrypted secondary emails for account recovery.",
+            "url": "http://hackforums.net/showthread.php?tid=1423989",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "threads",
+            "title": "Omni’s “I love SPAM” post about forum spam.",
+            "url": "http://hackforums.net/showthread.php?tid=1413983",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "Reverence and Informers leadership changes; section moderators added.",
+            "url": "",
+            "related_users": [
+                "xerotic",
+                "Astonish is nj",
+                "Atthackers",
+                "Valik",
+                "Qwazz",
+                "Hуѕтєяιa X™",
+                "Wolves"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "The Alliance opens recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=1421354",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "xerotic",
+            "uid": 175033
+        },
+        {
+            "username": "Atthackers",
+            "uid": 616850
+        },
+        {
+            "username": "Astonish is nj",
+            "uid": 657392
+        }
+    ]
+}
+

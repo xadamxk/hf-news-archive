@@ -1,0 +1,369 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient reinstated the vouch begging rule, adding a 10% warning level for violations and a new 'Vouch Begging' report option to the Help Docs.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'Game Invites like OMGPOP' subsection under the Gamers Lounge and merged the Console Gamers Haven into Gamers Lounge.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "AOL emails are fully restored; Omniscient hosted a Tinychat session with members and noted he had sent 110 PMs before 3pm to illustrate his daily workload.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Pocky reached 2,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "285508",
+          "username": "Pocky"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vexna is no longer moderator of the Hacking Tools section.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "759904",
+          "username": "Vexna"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "WarrioR™ was banned and repfucked after his account was allegedly stolen and used for a scamming spree.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1160330",
+          "username": "WarrioR™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Oats was banned and repfucked for ban evasion; Kray was banned for disrespecting Staff; Blue Username was banned and repfucked for racism.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1316890",
+          "username": "Oats"
+        },
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        },
+        {
+          "uid": "195737",
+          "username": "Blue Username"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Cryptic™ received the Sticky Man award for a Habbo thread; Chris received the FPS Gawd award; Accident received the Sticky Man award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        },
+        {
+          "uid": "656453",
+          "username": "Chris"
+        },
+        {
+          "uid": "992333",
+          "username": "Accident"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Legacy. stepped down as a leader of Respawn; TheVortex stepped down as a leader of Rhythm and was replaced by Phytrix.",
+      "thread": "http://hackforums.net/showthread.php?tid=2884878",
+      "users": [
+        {
+          "uid": "942724",
+          "username": "Legacy."
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Strokes's 'Why Do Women Still Take The Man's Last Name?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2884878",
+      "users": [
+        {
+          "uid": "1326923",
+          "username": "Strokes"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr Kewl's 'General Comparison between iPhone 5, Galaxy S3.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2860584",
+      "users": [
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'The Galaxy S3 beat's the iPhone 5 A6 [updated TRUE benchmarks added].'",
+      "thread": "http://hackforums.net/showthread.php?tid=2870849",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: malichi's 'Secret Video: Romney To Millionaire Donors.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2872273",
+      "users": [
+        {
+          "uid": "1044864",
+          "username": "malichi"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Gwamp conducted by Phytrix; covers his marketing of booters and Skype resolvers, group memberships across Respawn/Illuminati/Eminence, gaming preferences, hip-hop tastes, and views on drug legalization.",
+      "thread": "http://hackforums.net/showthread.php?tid=2884878",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "818706",
+          "username": "Gwamp"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Sir noted that several team members were missing this edition (OnTheFly's account hacked, ρяιη¢є's ISP blocked, MarkMare on mobile-only, Bay AWOL, Barneyyz on vacation ban for school/job orientation), with Phytrix covering World/Tech/Music/Headlines.",
+      "thread": "http://hackforums.net/showthread.php?tid=2884878",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Journalist (World News / Tech News / Music News / Headlines) / Interviewer / Proofreader"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1323486",
+          "username": "AvidWB",
+          "role": "Webshow"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "195737",
+      "username": "Blue Username"
+    },
+    {
+      "uid": "285508",
+      "username": "Pocky"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "656453",
+      "username": "Chris"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "716331",
+      "username": "Cryptic™"
+    },
+    {
+      "uid": "759904",
+      "username": "Vexna"
+    },
+    {
+      "uid": "818706",
+      "username": "Gwamp"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "942724",
+      "username": "Legacy."
+    },
+    {
+      "uid": "992333",
+      "username": "Accident"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1044864",
+      "username": "malichi"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1160330",
+      "username": "WarrioR™"
+    },
+    {
+      "uid": "1316890",
+      "username": "Oats"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    }
+  ]
+}

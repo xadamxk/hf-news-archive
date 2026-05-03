@@ -1,0 +1,483 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "The Alliance was dismantled and its members removed; the new Null usergroup focused on security took its place, led by T3h Hacker, Vinnie, and Soccer.",
+      "thread": "http://hackforums.net/showthread.php?tid=4025378",
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Omniscient posted late-night thoughts identifying problems with HF: too many rules, a cumbersome sticky process, broken reputation system, lack of two-factor authentication, and the need for better Bitcoin integration; the thread was locked.",
+      "thread": "http://hackforums.net/showthread.php?tid=4030042",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Emylbus was promoted to Staff (probational); xadamxk was promoted to Mentor.",
+      "thread": "http://hackforums.net/showthread.php?tid=4030042",
+      "users": [
+        {
+          "uid": "956054",
+          "username": "Emylbus"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chief‎ hit 1,000 reputation; Natas, Aurа, and Evangelist all hit 10,000 posts; Panik hit 20,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1536004",
+          "username": "Chief‎"
+        },
+        {
+          "uid": "1201566",
+          "username": "Natas"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        },
+        {
+          "uid": "1374951",
+          "username": "Evangelist"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iDuL was repfucked for attempting to sell their account; Swirl was repfucked and banned for harassing members; Hayley Williams was repfucked and banned; Heisenberg was repfucked and banned for multiple accounts; Freddy Kruеger was repfucked for not fulfilling his contest; Kaph was repfucked for reputation abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "187420",
+          "username": "iDuL"
+        },
+        {
+          "uid": "1465028",
+          "username": "Swirl"
+        },
+        {
+          "uid": "919183",
+          "username": "Hayley Williams"
+        },
+        {
+          "uid": "1663220",
+          "username": "Heisenberg"
+        },
+        {
+          "uid": "262695",
+          "username": "Freddy Kruеger"
+        },
+        {
+          "uid": "1165235",
+          "username": "Kaph"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Scоrpiо was banned with the reason 'No Paypal Holders'; Qualia was banned for excessive and overzealous post reporting; Starstruck was banned.",
+      "thread": "http://hackforums.net/showthread.php?tid=4025374",
+      "users": [
+        {
+          "uid": "1331685",
+          "username": "Scоrpiо"
+        },
+        {
+          "uid": "1324095",
+          "username": "Qualia"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Apple J4ck.'s account was closed and reopened; Devil Driver had their account repfucked and closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1468706",
+          "username": "Apple J4ck."
+        },
+        {
+          "uid": "1492504",
+          "username": "Devil Driver"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Starstruck received the FPS Gawd and Gamer awards; ѕнα∂σω received the Cat Lover award; Cryptic™ donated for Master Donator and received the Businessman award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4025374",
+      "users": [
+        {
+          "uid": "900087",
+          "username": "Starstruck"
+        },
+        {
+          "uid": "1796284",
+          "username": "ѕнα∂σω"
+        },
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Sh1eld stepped down as leader of The Empire; Chief., vitafortis, and #Thunder became leaders of The Empire; Ixaris became a leader of Instinct; Remorsal became a leader of Infamous.",
+      "thread": "http://hackforums.net/showthread.php?tid=4029167",
+      "users": [
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "1160594",
+          "username": "vitafortis"
+        },
+        {
+          "uid": "1021070",
+          "username": "#Thunder"
+        },
+        {
+          "uid": "1793063",
+          "username": "Ixaris"
+        },
+        {
+          "uid": "1108178",
+          "username": "Remorsal"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Saturday conducted by Clark; covers his expecting first child, his time leading Rhythm, his work as an Interviewer for the Writ3rs, his gamertag-trading origin on HF, and his screamo band vocals.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Haste conducted by Clique; covers his Minecraft griefing past, his 4.0 GPA in high school, hockey, and his career interest in the stock market or running a computer retail store.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "875895",
+          "username": "Haste"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Understalker conducted by Saturday; covers his start with Toxicboot DDoS, his RAT and web exploit work, and his views on group culture.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; awhty resumed User News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "1345075",
+          "username": "Package",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "187420",
+      "username": "iDuL"
+    },
+    {
+      "uid": "262695",
+      "username": "Freddy Kruеger"
+    },
+    {
+      "uid": "458073",
+      "username": "Chief."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "716331",
+      "username": "Cryptic™"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "875895",
+      "username": "Haste"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "919183",
+      "username": "Hayley Williams"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1021070",
+      "username": "#Thunder"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1108178",
+      "username": "Remorsal"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1160594",
+      "username": "vitafortis"
+    },
+    {
+      "uid": "1165235",
+      "username": "Kaph"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1201566",
+      "username": "Natas"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1324095",
+      "username": "Qualia"
+    },
+    {
+      "uid": "1331685",
+      "username": "Scоrpiо"
+    },
+    {
+      "uid": "1345075",
+      "username": "Package"
+    },
+    {
+      "uid": "1374951",
+      "username": "Evangelist"
+    },
+    {
+      "uid": "1465028",
+      "username": "Swirl"
+    },
+    {
+      "uid": "1468706",
+      "username": "Apple J4ck."
+    },
+    {
+      "uid": "1492504",
+      "username": "Devil Driver"
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1536004",
+      "username": "Chief‎"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1663220",
+      "username": "Heisenberg"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1793063",
+      "username": "Ixaris"
+    },
+    {
+      "uid": "1796284",
+      "username": "ѕнα∂σω"
+    }
+  ]
+}

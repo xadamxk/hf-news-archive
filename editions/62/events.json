@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The Crew General Discussions forum was merged with the regular group recruitment forum into a new section called 'Group and Crew General Discussions' under Crews and Clans Private Forums.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Donation begging is now forbidden in the Group and Crew General Discussions section after a user collected money for a new group and ran with it.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "The Haunter Gang group has been suspended and all leaders/members removed; leader Time disputed his payment to Omniscient and his account was closed (now displayed as 'Time Asshole'). The group will be suspended until payment is returned.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Time",
+          "uid": "326128"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Results of the 'Which Group To Remove Next' poll: The RATs Crew received 51.60% of the vote, far ahead of Black Knights (12.82%), Graphics Masters (7.76%), The Alliance (7.59%), and 'None' (20.24%). No action has yet been taken; WiFi. posted a thread expressing concern about the choices.",
+      "thread": "http://hackforums.net/showthread.php?tid=1794844",
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with bugga conducted by Reported; covers her joining HF for revenge, the 'best UB3R' thread, and online sexism.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "uid": "661940",
+          "username": "bugga"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with iMario conducted by Reported; covers his monetizing thread, becoming a moderator, and views on the rep reset and Vouch system.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Reported",
+          "uid": "565350"
+        },
+        {
+          "uid": "154890",
+          "username": "iMario"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "154890",
+      "username": "iMario"
+    },
+    {
+      "uid": "326128",
+      "username": "Time"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "565350",
+      "username": "Reported"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    }
+  ]
+}

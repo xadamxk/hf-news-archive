@@ -1,0 +1,467 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient warned League of Legends players that discussion of carding for in-game items, credits, or memberships is disallowed under HF's fraud rules.",
+      "thread": "http://hackforums.net/showthread.php?tid=3748713",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The 'Electronics and Gadgets' section was renamed to 'Embedded Systems, Electronics, Gadgets, and DIY' after Mohatu's year-long suggestion thread, with new prefixes Raspberry Pi, Do It Yourself, Arduino, and Robotics.",
+      "thread": "http://hackforums.net/showthread.php?tid=2838072",
+      "users": [
+        {
+          "uid": "1082656",
+          "username": "Mohatu"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "D3xus passed his probation stage and became a full Staff member; Effexion hit 1,000 reputation; adampelletgun reached 20,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        },
+        {
+          "uid": "229769",
+          "username": "Effexion"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "drugs was banned (the former Music News journalist); Masko was repfucked and banned; OMARATION was repfucked and banned; George Zimmerman, Viber, Ida, and Blizzard' were banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "752389",
+          "username": "drugs"
+        },
+        {
+          "uid": "473648",
+          "username": "Masko"
+        },
+        {
+          "uid": "679280",
+          "username": "OMARATION"
+        },
+        {
+          "uid": "1286258",
+          "username": "George Zimmerman"
+        },
+        {
+          "uid": "837463",
+          "username": "Viber"
+        },
+        {
+          "uid": "1058305",
+          "username": "Ida"
+        },
+        {
+          "uid": "249035",
+          "username": "Blizzard'"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hayley Williams was banned for 'No PayPal fraud'; Litespeed was banned for 'False Community Alert'; xadamxk was banned for 'Queen of the noobs - we care about his education'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "919183",
+          "username": "Hayley Williams"
+        },
+        {
+          "uid": "1154390",
+          "username": "Litespeed"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Saturday received the Sticky Man award; - Sam - received The Protector award; Business. received Master Donator, Bitcoinage, Sticky Man, and Businessman awards; Vinnie' received the HackerCraft award; Isidar received the Alien award; Grin received the White Hat Helper award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3753361",
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "1705027",
+          "username": "Business."
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie'"
+        },
+        {
+          "uid": "1466467",
+          "username": "Isidar"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Black Shadow's 'How I became a member of Hackforums Part 3'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3752719",
+      "users": [
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Beginner Hacking Thread: -Nas's 'The Beginner Hacking Help Thread'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3740374",
+      "users": [
+        {
+          "uid": "1452196",
+          "username": "-Nas"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Science, Religion, Philosophy, and Politics Thread: Bad Meets Evil's '| Science] BME Basic Ecology Guide |'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3747310",
+      "users": [
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "HackerCraft news returned with a dedicated reporting thread; Tᴇɴᴀxɪᴜᴍ was promoted to moderator and later lost the privilege; Werto mined 1,000 obsidian for an Instinct base; GodlikeGuy leaked Instinct's base coordinates; Sudsy built HackerCraft's first villager farm; Xypher and Saturday hosted upgrade contests.",
+      "thread": "http://hackforums.net/showthread.php?tid=3753361",
+      "users": [
+        {
+          "uid": "1759389",
+          "username": "Tᴇɴᴀxɪᴜᴍ"
+        },
+        {
+          "uid": "1409295",
+          "username": "Werto"
+        },
+        {
+          "uid": "1338551",
+          "username": "GodlikeGuy"
+        },
+        {
+          "uid": "1650008",
+          "username": "Sudsy"
+        },
+        {
+          "uid": "133256",
+          "username": "Хypher"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Stl Missouri conducted by Lovol; covers his Minecraft griefing origins under the name BigJew, his work coding the Avid and Cobalt premium Minecraft clients, and his school IT work.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1645227",
+          "username": "Lovol"
+        },
+        {
+          "uid": "1076932",
+          "username": "Stl Missouri"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with AlbinoShadow conducted by Xypher; covers the origin of his name, his decision to drop out of high school for college at 16, his Real-Time Interactive Simulation major focused on online strategy games and eSports, and his involvement with The Alliance.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "133256",
+          "username": "Xypher"
+        },
+        {
+          "uid": "371340",
+          "username": "AlbinoShadow"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Morchid took over User News from Yellows, Harlem returned on Tech News, and Emylbus joined as World News journalist.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "589027",
+          "username": "Stay Plural",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "133256",
+          "username": "Xypher",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "133256",
+      "username": "Хypher"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "229769",
+      "username": "Effexion"
+    },
+    {
+      "uid": "249035",
+      "username": "Blizzard'"
+    },
+    {
+      "uid": "371340",
+      "username": "AlbinoShadow"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "473648",
+      "username": "Masko"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "589027",
+      "username": "Stay Plural"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie'"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "679280",
+      "username": "OMARATION"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "837463",
+      "username": "Viber"
+    },
+    {
+      "uid": "919183",
+      "username": "Hayley Williams"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1058305",
+      "username": "Ida"
+    },
+    {
+      "uid": "1076932",
+      "username": "Stl Missouri"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1154390",
+      "username": "Litespeed"
+    },
+    {
+      "uid": "1286258",
+      "username": "George Zimmerman"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1338551",
+      "username": "GodlikeGuy"
+    },
+    {
+      "uid": "1409295",
+      "username": "Werto"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1466467",
+      "username": "Isidar"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1650008",
+      "username": "Sudsy"
+    },
+    {
+      "uid": "1705027",
+      "username": "Business."
+    },
+    {
+      "uid": "1759389",
+      "username": "Tᴇɴᴀxɪᴜᴍ"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient announced that users will be able to purchase the HackerCraft award using in-game Eco-Money (50,000 EM starting price), with the auto-buy plugin pending and pricing subject to increase due to economy abuse.",
+      "thread": "http://hackforums.net/showthread.php?tid=3759976",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient created a Grand Theft Auto section under HF Gamers Zone following an active suggestion thread for the GTA V release.",
+      "thread": "http://hackforums.net/showthread.php?tid=3751964",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient removed Pakistan from HF's CloudFlare country blocklist 'for now', allowing Pakistani IPs to access the forum freely.",
+      "thread": "http://hackforums.net/showthread.php?tid=3713445",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "143, the last officially purchasable group, is closing and being put up for sale; former co-owner Cody disclosed an existing $6,100 offer.",
+      "thread": "http://hackforums.net/showthread.php?tid=3709971",
+      "users": [
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Morchid hit 20,000 posts; ~Tom~ hit 1,000 reputation; - Sam -, Tyler, and inxy all hit 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=3756331",
+      "users": [
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        },
+        {
+          "uid": "263250",
+          "username": "~Tom~"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "398194",
+          "username": "Tyler"
+        },
+        {
+          "uid": "398783",
+          "username": "inxy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Z, ๖ۣۜUltimo, hardcode, and Renowned were each repfucked and banned for reputation abuse; Divert was banned for reputation abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1756844",
+          "username": "Z‎‎‏‍‎‏‎‏‍‎‎‏‍‎‏"
+        },
+        {
+          "uid": "1791844",
+          "username": "๖ۣۜUltimo"
+        },
+        {
+          "uid": "449192",
+          "username": "hardcode"
+        },
+        {
+          "uid": "620668",
+          "username": "Renowned"
+        },
+        {
+          "uid": "1600147",
+          "username": "Divert"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Baby Penguin was banned for flaming; Prevent and Raptor. were banned for assisting a ban evader.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1039142",
+          "username": "Baby Penguin"
+        },
+        {
+          "uid": "895362",
+          "username": "Prevent"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "#Nate purchased the Gift award; - Sam - purchased the Bitcoinage award; Teh Afro purchased the Bitcoinage award; AlbinoShadow received the Cat Lover award; eKKiM purchased the Bitcoinage, Master Donator, and Gift awards.",
+      "thread": "http://hackforums.net/showthread.php?tid=3762801",
+      "users": [
+        {
+          "uid": "1087815",
+          "username": "#Nate"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        },
+        {
+          "uid": "371340",
+          "username": "AlbinoShadow"
+        },
+        {
+          "uid": "811504",
+          "username": "eKKiM"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Αnonymous's 'Which Upcoming Phones Got Your Interest? | Vote'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3762801",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Suggestions and Ideas: Winner's 'Photography forum' suggestion.",
+      "thread": "http://hackforums.net/showthread.php?tid=3740716",
+      "users": [
+        {
+          "uid": "1119610",
+          "username": "Winner"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "HackerCraft news: SoulZeh was promoted to moderator; Хypher was first to reach $100,000 EM, followed by Lonephenom™, - Sam -, and Cody; Chad and Instinct exchanged raids; Skill raided Sigma's base; Instinct raided Mohatu, Complexity, Skill, Infamous, and Kray multiple times; Complexity is recruiting; the server hit 50 concurrent players.",
+      "thread": "http://hackforums.net/showthread.php?tid=3756693",
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "133256",
+          "username": "Хypher"
+        },
+        {
+          "uid": "1122112",
+          "username": "Lonephenom™"
+        },
+        {
+          "uid": "805825",
+          "username": "- Sam -"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody"
+        },
+        {
+          "uid": "89554",
+          "username": "Sigma"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu"
+        },
+        {
+          "uid": "1125749",
+          "username": "Kray"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with mad76e conducted by Connected; covers his discovery of HF via IP-telephony eavesdropping in 2010, his focus on WiFi/WPA/WEP/Bluetooth/4G hacking, his nine WiFi tutorials, his membership in The Brotherhood, and his life with two children at age 36.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1491834",
+          "username": "mad76e"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Vinnie' conducted by Saturday; covers his work for Korean and Russian clients who funded his group purchase, the Legacy/LegacyWARE trademark dispute that forced the rename to #@&%! (Instinct), and the Instinct vs Skill rivalry and Halo/BO2/LoL tournament.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie'"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News) / Headlines"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News) / Headlines"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "133256",
+          "username": "Xypher",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "89554",
+      "username": "Sigma"
+    },
+    {
+      "uid": "133256",
+      "username": "Хypher"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "263250",
+      "username": "~Tom~"
+    },
+    {
+      "uid": "371340",
+      "username": "AlbinoShadow"
+    },
+    {
+      "uid": "398194",
+      "username": "Tyler"
+    },
+    {
+      "uid": "398783",
+      "username": "inxy"
+    },
+    {
+      "uid": "449192",
+      "username": "hardcode"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie'"
+    },
+    {
+      "uid": "620668",
+      "username": "Renowned"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "805825",
+      "username": "- Sam -"
+    },
+    {
+      "uid": "811504",
+      "username": "eKKiM"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "895362",
+      "username": "Prevent"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1039142",
+      "username": "Baby Penguin"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1087815",
+      "username": "#Nate"
+    },
+    {
+      "uid": "1119610",
+      "username": "Winner"
+    },
+    {
+      "uid": "1122112",
+      "username": "Lonephenom™"
+    },
+    {
+      "uid": "1125749",
+      "username": "Kray"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1491834",
+      "username": "mad76e"
+    },
+    {
+      "uid": "1600147",
+      "username": "Divert"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1756844",
+      "username": "Z‎‎‏‍‎‏‎‏‍‎‎‏‍‎‏"
+    },
+    {
+      "uid": "1791844",
+      "username": "๖ۣۜUltimo"
+    }
+  ]
+}

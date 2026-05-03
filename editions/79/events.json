@@ -1,0 +1,382 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Reverence has been officially renamed 'Respawn'; Omniscient was not pleased with the change but allowed it.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient deleted both junked posts and Ub3r junks, totaling 1.2 million posts; some brief downtime occurred during the operation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Members can now purchase HF ad spaces directly, possibly in response to complaints of ad-related infections.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Morchid was repfucked then banned for complaining about the repfuck; he was unbanned early.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "613009",
+          "username": "Morchid"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Orgy was repfucked again and received a -10 from Omniscient with a warning to other members: 'Helping Orgy will only lead to problems for you. He gets people rep fucked and banned with his nonsense.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sky- and Crayo were both banned for Account Sharing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "68704",
+          "username": "Sky-"
+        },
+        {
+          "uid": "344143",
+          "username": "Crayo"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Juicy Booty was banned and repfucked for a payment reversal.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "923753",
+          "username": "Juicy Booty"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Burner™ was banned and repfucked for multi-accounting and ban evasion.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "868052",
+          "username": "Burner™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group Thread: Codevade opened the Marketers to nearly anyone for $50 entry as quality has waned.",
+      "thread": "http://hackforums.net/showthread.php?tid=2209690",
+      "users": [
+        {
+          "uid": "209490",
+          "username": "Codevade"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Recruitment Thread: Astonish is NJ's official gaming group Respawn opened for recruitment.",
+      "thread": "http://hackforums.net/showthread.php?tid=2168164",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Support Thread: Positive's 'Emotional Support' thread offering members an outlet for their problems.",
+      "thread": "http://hackforums.net/showthread.php?tid=2194347",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Factor8™ was promoted to admin; ReactioNz was promoted to Staff; Crow stepped down from Admin to Mentor; Tsgh Mike stepped down from Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz"
+        },
+        {
+          "uid": "2103",
+          "username": "Crow"
+        },
+        {
+          "uid": "81119",
+          "username": "Tsgh Mike"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Morchid was demoted from leader of Red Lions; BV1 ツ and Orgy are no longer leaders of the Marketers.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "613009",
+          "username": "Morchid"
+        },
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Crow received the DaBomb award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "2103",
+          "username": "Crow"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Christy™ conducted by Michael Westen; covers her Gamertag selling, volunteer work, Propitious membership, and Techsperts co-leadership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "username": "Christy™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Scooter conducted by Paradise.; covers his joining HF for Gaia hacking, Marketers membership, and views on scammer protection.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Paradise.",
+          "uid": "916706"
+        },
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Paradise.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "2103",
+      "username": "Crow"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1 ツ"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "68704",
+      "username": "Sky-"
+    },
+    {
+      "uid": "81119",
+      "username": "Tsgh Mike"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "209490",
+      "username": "Codevade"
+    },
+    {
+      "uid": "275104",
+      "username": "Delicious"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "344143",
+      "username": "Crayo"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "545127",
+      "username": "Joey Tribbiani"
+    },
+    {
+      "uid": "613009",
+      "username": "Morchid"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "868052",
+      "username": "Burner™"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "916706",
+      "username": "Paradise."
+    },
+    {
+      "uid": "923753",
+      "username": "Juicy Booty"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    }
+  ]
+}

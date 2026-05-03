@@ -1,0 +1,425 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Hack Forums celebrated its 5th anniversary; Omniscient changed the banner and announced a week-long celebration.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Several members spammed the forums advertising 'Hack Society'; staff banned them and the word 'Hack Society' was censored.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "A new official group called 'Coders' was created; the new-group purchase price was raised to $3,500 with this purchase.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient created a universal Ub3r upgrade link allowing l33ts to apply and Ub3rs to gift upgrades to others.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Scooter reached 2,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Morchid was banned for fraudulent donations.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "613009",
+          "username": "Morchid"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": ".Cartman was banned for threatening to DDoS HF.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1042121",
+          "username": ".Cartman"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "JesusOfSuburbia was banned for advertising porn forums.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "56304",
+          "username": "JesusOfSuburbia"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Virtualization was banned for account sharing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "426982",
+          "username": "Virtualization"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: BlackChaos's '[Propitious] Timeline of Console Gaming' covering all consoles by generation.",
+      "thread": "http://hackforums.net/showthread.php?tid=2398861",
+      "users": [
+        {
+          "uid": "766449",
+          "username": "BlackChaos"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Coding Thread: Gray's C# tutorial on Sockets, Packets & Pointers.",
+      "thread": "http://hackforums.net/showthread.php?tid=2323009",
+      "users": [
+        {
+          "uid": "522041",
+          "username": "Gray"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mental Thread: Frostbite™'s unbiased review of the iDoser sound system.",
+      "thread": "http://hackforums.net/showthread.php?tid=2413633",
+      "users": [
+        {
+          "uid": "444723",
+          "username": "Frostbite™"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Donation Thread: nokia2mon2 made a 7th $1,000 donation from Red Lions to HF; Red Lions received a special shadow effect on their usernames as a reward.",
+      "thread": "http://hackforums.net/showthread.php?tid=2419158",
+      "users": [
+        {
+          "uid": "80618",
+          "username": "nokia2mon2"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "nokia2mon2 received the Qwazz Star, Militant, Ninja, and Cuddly and Cute awards; Natha received Cat Lover; Subscription received Master Donator and Gamer; TNZagreb received GFX Guru; Riggs received Hustler; ๖ۣۜSheepıı received Master Donator.",
+      "thread": "http://hackforums.net/showthread.php?tid=2419158",
+      "users": [
+        {
+          "uid": "80618",
+          "username": "nokia2mon2"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha"
+        },
+        {
+          "uid": "1159829",
+          "username": "Subscription"
+        },
+        {
+          "uid": "502172",
+          "username": "TNZagreb"
+        },
+        {
+          "uid": "402384",
+          "username": "Riggs"
+        },
+        {
+          "uid": "624699",
+          "username": "๖ۣۜSheepıı"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vexna became a moderator of the Hacking Tools and Programs section; LemonBro3 and Shark™ were promoted to leaders of Techsperts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "759904",
+          "username": "Vexna"
+        },
+        {
+          "uid": "995878",
+          "username": "LemonBro3"
+        },
+        {
+          "uid": "393774",
+          "username": "Shark™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Purple Haze conducted by Ignite; 4/20-themed conversation about marijuana, his Blackshades staff role, and Techsperts co-leadership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "946680",
+          "username": "Ignite."
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "4/20-themed multi-interview by Waleed with hugsyou, Honor Et Veritas (Coders group owner), and Ceaser; covers their views on marijuana legalization.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Waleed",
+          "uid": "769614"
+        },
+        {
+          "uid": "87814",
+          "username": "hugsyou"
+        },
+        {
+          "uid": "940577",
+          "username": "Honor Et Veritas"
+        },
+        {
+          "uid": "897447",
+          "username": "Ceaser"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "900087",
+          "username": "Starstruck",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "964299",
+          "username": "Purple Haze.",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "56304",
+      "username": "JesusOfSuburbia"
+    },
+    {
+      "uid": "80618",
+      "username": "nokia2mon2"
+    },
+    {
+      "uid": "87814",
+      "username": "hugsyou"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "393774",
+      "username": "Shark™"
+    },
+    {
+      "uid": "402384",
+      "username": "Riggs"
+    },
+    {
+      "uid": "426982",
+      "username": "Virtualization"
+    },
+    {
+      "uid": "444723",
+      "username": "Frostbite™"
+    },
+    {
+      "uid": "452771",
+      "username": "Kuroi"
+    },
+    {
+      "uid": "502172",
+      "username": "TNZagreb"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "522041",
+      "username": "Gray"
+    },
+    {
+      "uid": "613009",
+      "username": "Morchid"
+    },
+    {
+      "uid": "624699",
+      "username": "๖ۣۜSheepıı"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "759904",
+      "username": "Vexna"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "766449",
+      "username": "BlackChaos"
+    },
+    {
+      "uid": "769614",
+      "username": "Waleed"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "897447",
+      "username": "Ceaser"
+    },
+    {
+      "uid": "900087",
+      "username": "Starstruck"
+    },
+    {
+      "uid": "940577",
+      "username": "Honor Et Veritas"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "964299",
+      "username": "Purple Haze."
+    },
+    {
+      "uid": "995878",
+      "username": "LemonBro3"
+    },
+    {
+      "uid": "1042121",
+      "username": ".Cartman"
+    },
+    {
+      "uid": "1159829",
+      "username": "Subscription"
+    }
+  ]
+}

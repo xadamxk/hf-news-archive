@@ -1,0 +1,425 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient uploaded the Halloween-themed banner in celebration of the holiday.",
+      "thread": "http://hackforums.net/showthread.php?tid=2960144",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "The Creed was suspended after final payment was not received and Omniscient's payment requests were ignored, correlating with leader Primal Rage's account closure.",
+      "thread": "http://hackforums.net/showthread.php?tid=2960144",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient closed all threads with over 2,000 replies as a new policy to avoid MySQL problems with large threads, affecting many popular Marketplace threads.",
+      "thread": "http://hackforums.net/showthread.php?tid=2960144",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient and Mr. H launched HackerCraft into its full version after open beta.",
+      "thread": "http://hackforums.net/showthread.php?tid=2960144",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellows reached 1,000 reputation points.",
+      "thread": "http://hackforums.net/showthread.php?tid=2975658",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Designer, Autopost, GiGz, USMC Chris, Blazin, mybboss, Skill4kill, and Airon were repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1290620",
+          "username": "Designer"
+        },
+        {
+          "uid": "1180170",
+          "username": "Autopost"
+        },
+        {
+          "uid": "431267",
+          "username": "GiGz"
+        },
+        {
+          "uid": "1246572",
+          "username": "USMC Chris"
+        },
+        {
+          "uid": "74674",
+          "username": "Blazin"
+        },
+        {
+          "uid": "1072161",
+          "username": "mybboss"
+        },
+        {
+          "uid": "538867",
+          "username": "Skill4kill"
+        },
+        {
+          "uid": "828184",
+          "username": "Airon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Αnonymous was banned for posting a Marketplace thread outside Marketplace; USMC Chris was banned for harassing Judge Dredd; Blazin was banned for multiple accounts; mybboss was banned again for low quality posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "1246572",
+          "username": "USMC Chris"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "74674",
+          "username": "Blazin"
+        },
+        {
+          "uid": "1072161",
+          "username": "mybboss"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Designer's GFX Guru award was revoked; Yellows finally received the 24k award; TheHackersLove received the Gavel of Dredd award; Twinkles received the Asswipe award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2975658",
+      "users": [
+        {
+          "uid": "1290620",
+          "username": "Designer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        },
+        {
+          "uid": "8981",
+          "username": "Twinkles"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Yellows and Saturday are no longer leaders of Rhythm; McFlurry is no longer a leader of InFaMoUs; -Analog- is now a leader of Logic.",
+      "thread": "http://hackforums.net/showthread.php?tid=2961956",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: ven0m's 'Ex-staff, Ex-admin & Mentor list'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2961956",
+      "users": [
+        {
+          "uid": "91531",
+          "username": "ven0m"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Coding Thread: BaussHacker's 'C# Programming Tutorials!!! (Console- & Windows Form Applications)'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2962380",
+      "users": [
+        {
+          "uid": "522041",
+          "username": "BaussHacker"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: tdog0403's 'The groups of now, and then'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2960833",
+      "users": [
+        {
+          "uid": "1070150",
+          "username": "tdog0403"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Anarchy's 'New banner'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2973045",
+      "users": [
+        {
+          "uid": "397679",
+          "username": "Anarchy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Gaming Thread: Yellows's 'HF OMGPOP Pool Tournament 6 - REGISTRATION OPEN'.",
+      "thread": "http://hackforums.net/showthread.php?tid=2975658",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Genuine conducted by +Entity; covers his rise through Red Lions to co-leader, his promotion to Staff after working with Glassy, and resignation from Valor leadership.",
+      "thread": "http://hackforums.net/showthread.php?tid=2975658",
+      "users": [
+        {
+          "uid": "827711",
+          "username": "+Entity"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Himura Kenshin (Xypher) conducted by Phytrix; covers his time leading The Black Knights and The Alliance, retreating from contributing due to leechers, and his future goal of the silver medal award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "133256",
+          "username": "Himura Kenshin"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-",
+          "role": "Journalist (Headlines / Tech News / Gaming News)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News / Tech News / Gaming News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "8981",
+      "username": "Twinkles"
+    },
+    {
+      "uid": "74674",
+      "username": "Blazin"
+    },
+    {
+      "uid": "91531",
+      "username": "ven0m"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "133256",
+      "username": "Himura Kenshin"
+    },
+    {
+      "uid": "397679",
+      "username": "Anarchy"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "431267",
+      "username": "GiGz"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "522041",
+      "username": "BaussHacker"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "538867",
+      "username": "Skill4kill"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "600771",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "828184",
+      "username": "Airon"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1070150",
+      "username": "tdog0403"
+    },
+    {
+      "uid": "1072161",
+      "username": "mybboss"
+    },
+    {
+      "uid": "1180170",
+      "username": "Autopost"
+    },
+    {
+      "uid": "1246572",
+      "username": "USMC Chris"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    }
+  ]
+}

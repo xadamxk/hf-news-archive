@@ -1,0 +1,388 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Tibit (already owner of The Empire) bought Rhythm from Positive, marking the first time a group's ownership has been fully sold and transferred and the first time one person owns two groups.",
+      "thread": "http://hackforums.net/showthread.php?tid=2971627",
+      "users": [
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient relieved Mr. H of his HackerCraft administrator duties and reopened the server in a new 'Back in Black' beta phase, installing Dan. as the new Administrator.",
+      "thread": "http://hackforums.net/showthread.php?tid=2981555",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient created a new Windows 8 forum following the OS's release.",
+      "thread": "http://hackforums.net/showthread.php?tid=2981555",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient reset all thread ratings forum-wide and capped Ub3r members at five thread ratings per day to combat ongoing abuse.",
+      "thread": "http://hackforums.net/showthread.php?tid=2981555",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Chiеf and 630 reached 10,000 posts; Positive temporarily lost his Ub3r status by mistake (since regained); Paradoxum finished probational Staff period and is now officially Staff.",
+      "thread": "http://hackforums.net/showthread.php?tid=2971627",
+      "users": [
+        {
+          "uid": "458073",
+          "username": "Chiеf"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Jae was repfucked and banned; Airon was repfucked and banned for scamming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1099423",
+          "username": "Jae"
+        },
+        {
+          "uid": "828184",
+          "username": "Airon"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Skywalker and BlackIceHosting were banned for Marketplace violations.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "146557",
+          "username": "Skywalker"
+        },
+        {
+          "uid": "1346174",
+          "username": "BlackIceHosting"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kohsti received the MOTM award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1137768",
+          "username": "Kohsti"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Chiеf is now a leader of The Empire and no longer a leader of Logic; Tibit is now the owner of Rhythm; Phytrix is no longer a leader of Rhythm; Positive is no longer the owner of Rhythm.",
+      "thread": "http://hackforums.net/showthread.php?tid=2971627",
+      "users": [
+        {
+          "uid": "458073",
+          "username": "Chiеf"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Zuey's 'Dear Atheists, do you wish that there was a God?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2971627",
+      "users": [
+        {
+          "uid": "1077919",
+          "username": "Zuey"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: pr0t0typ3's 'xverisal out of prison ?!'",
+      "thread": "http://hackforums.net/showthread.php?tid=2991782",
+      "users": [
+        {
+          "uid": "263101",
+          "username": "pr0t0typ3"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Luxi4r's 'Why is the human brain so much faster than computers?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2992291",
+      "users": [
+        {
+          "uid": "1074565",
+          "username": "Luxi4r"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Ꮆαεʈƨ's 'What is your plan for the zombie apocalypse?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2991125",
+      "users": [
+        {
+          "uid": "1324218",
+          "username": "Ꮆαεʈƨ"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Natha conducted by Phytrix; covers his girlfriend Teagan, his history of repfucks/bans/awardfucks for using HF userbars on his own site, hacking tutorials, and ShareCash/RSGP monetization.",
+      "thread": "http://hackforums.net/showthread.php?tid=2991125",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with angrybrit conducted by Phytrix; covers his bank risk management background, learning ASM and malware coding, and his idea for a knowledge-focused group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "1371432",
+          "username": "angrybrit"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "660659",
+          "username": "-Analog-",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "398007",
+          "username": "Apathy",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "Prince™",
+          "role": "Sir's Second"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1326923",
+          "username": "Strokes",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer / Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "70881",
+      "username": "Paradoxum"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "146557",
+      "username": "Skywalker"
+    },
+    {
+      "uid": "263101",
+      "username": "pr0t0typ3"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "458073",
+      "username": "Chiеf"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "660659",
+      "username": "-Analog-"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "+Entity"
+    },
+    {
+      "uid": "828184",
+      "username": "Airon"
+    },
+    {
+      "uid": "903914",
+      "username": "Prince™"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1074565",
+      "username": "Luxi4r"
+    },
+    {
+      "uid": "1077919",
+      "username": "Zuey"
+    },
+    {
+      "uid": "1099423",
+      "username": "Jae"
+    },
+    {
+      "uid": "1137768",
+      "username": "Kohsti"
+    },
+    {
+      "uid": "1324218",
+      "username": "Ꮆαεʈƨ"
+    },
+    {
+      "uid": "1326923",
+      "username": "Strokes"
+    },
+    {
+      "uid": "1346174",
+      "username": "BlackIceHosting"
+    },
+    {
+      "uid": "1371432",
+      "username": "angrybrit"
+    }
+  ]
+}

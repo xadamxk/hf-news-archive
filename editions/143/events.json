@@ -1,0 +1,787 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient accidentally deleted 21 Marketers' accounts when intending to delete only three; affected accounts were marked as 'Unregistered Members' and Omniscient promised to recover them.",
+      "thread": "http://hackforums.net/showthread.php?tid=3482910",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Omniscient deleted the official Marketers group and repfucked all members involved after discovering a bump-for-bump service in their private subforum, calling it a gross violation of site policy.",
+      "thread": "http://hackforums.net/showthread.php?tid=3477341",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced that Hack Forums has been under heavy attack and outlined plans to enhance DDoS protection by serving through three HTTP servers and at least two DDoS protection services.",
+      "thread": "http://hackforums.net/showthread.php?tid=3477341",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient implemented the first major change to the reputation system: bumping is no longer possible, the date no longer changes, reputation cannot be moved to the top, and reputation can no longer be removed (only changed).",
+      "thread": "http://hackforums.net/showthread.php?tid=3492022",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mr Kewl was promoted to Staff; T3h Hack3r was promoted to Staff for the second time; Saged was promoted to Staff for the third time; Cody‍ hit 2,000 reputation; Genuine became moderator of the HF L33t OT Forum.",
+      "thread": "http://hackforums.net/showthread.php?tid=3492022",
+      "users": [
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        },
+        {
+          "uid": "47360",
+          "username": "Saged"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Mass repfucking of members involved in the Marketers bump-for-bump scandal, including Shekhar, Liquified™, redpois0n, Grin, Illuminati™, sonex, Verilog, Isidar, ƒσяรคкεห™, Prime, Aɴᴏɴʏᴍᴏᴜs Ԍᴀᴍᴇᴙ, ѕᴛᴏɴᴇ, Nickelodeon, iEchO, Xeronations, AceHF, Cliqυe, Paranоrmal, Infinity ツ, The Pizza Slut, NoodleBot, Dr.Whitehat, Pali, Exp3rt, DeadLine, +Amaze (twice), Revenge., +A$IAN, Teh Afro, Notouch, -Nas (accidentally), Тechnique, Living., and Vodge.",
+      "thread": "http://hackforums.net/showthread.php?tid=3477341",
+      "users": [
+        {
+          "uid": "559058",
+          "username": "Shekhar"
+        },
+        {
+          "uid": "904208",
+          "username": "Liquified™"
+        },
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin"
+        },
+        {
+          "uid": "918036",
+          "username": "Illuminati™"
+        },
+        {
+          "uid": "411005",
+          "username": "sonex"
+        },
+        {
+          "uid": "309536",
+          "username": "Verilog"
+        },
+        {
+          "uid": "1466467",
+          "username": "Isidar"
+        },
+        {
+          "uid": "1142432",
+          "username": "ƒσяรคкεห™"
+        },
+        {
+          "uid": "1314727",
+          "username": "Prime"
+        },
+        {
+          "uid": "1140296",
+          "username": "Aɴᴏɴʏᴍᴏᴜs Ԍᴀᴍᴇᴙ"
+        },
+        {
+          "uid": "1374598",
+          "username": "ѕᴛᴏɴᴇ"
+        },
+        {
+          "uid": "1206954",
+          "username": "Nickelodeon"
+        },
+        {
+          "uid": "195972",
+          "username": "iEchO"
+        },
+        {
+          "uid": "530821",
+          "username": "Xeronations"
+        },
+        {
+          "uid": "1030224",
+          "username": "AceHF"
+        },
+        {
+          "uid": "1148878",
+          "username": "Cliqυe"
+        },
+        {
+          "uid": "1382766",
+          "username": "Paranоrmal"
+        },
+        {
+          "uid": "642769",
+          "username": "Infinity ツ"
+        },
+        {
+          "uid": "1125698",
+          "username": "The Pizza Slut"
+        },
+        {
+          "uid": "974949",
+          "username": "NoodleBot"
+        },
+        {
+          "uid": "1148482",
+          "username": "Dr.Whitehat"
+        },
+        {
+          "uid": "879431",
+          "username": "Pali"
+        },
+        {
+          "uid": "686913",
+          "username": "Exp3rt"
+        },
+        {
+          "uid": "1204034",
+          "username": "DeadLine"
+        },
+        {
+          "uid": "1315365",
+          "username": "+Amaze"
+        },
+        {
+          "uid": "1169446",
+          "username": "Revenge."
+        },
+        {
+          "uid": "1136002",
+          "username": "+A$IAN"
+        },
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        },
+        {
+          "uid": "830253",
+          "username": "Notouch"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas"
+        },
+        {
+          "uid": "1191191",
+          "username": "Тechnique"
+        },
+        {
+          "uid": "902372",
+          "username": "Living."
+        },
+        {
+          "uid": "1308266",
+          "username": "Vodge"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Тechnique was banned for selling his account; Tɦɛ Gʀiɱ was banned as a safety precaution; Morchid was banned for reporting a Staff member's post; Google Expert was banned for threatening to SWAT members; Яǝʌǝɹsǝ was banned for flaming, threatening, or harassing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1191191",
+          "username": "Тechnique"
+        },
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        },
+        {
+          "uid": "1452467",
+          "username": "Morchid"
+        },
+        {
+          "uid": "1617327",
+          "username": "Google Expert"
+        },
+        {
+          "uid": "274613",
+          "username": "Яǝʌǝɹsǝ"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "#Economy, ~Tom~, Living., and Nyx- were banned; Lαvηεsн was banned for reaching 100% warning level; .Infinity. was banned for posting a marketplace-style thread outside the Marketplace; Paranоrmal, 630, TheHackersLove, Happeh, Daisy, Kenny West, and Dеlusion were vacation banned; Recognized had his account closed again; Goodies and +Amaze had their accounts closed.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1359373",
+          "username": "#Economy"
+        },
+        {
+          "uid": "263250",
+          "username": "~Tom~"
+        },
+        {
+          "uid": "902372",
+          "username": "Living."
+        },
+        {
+          "uid": "11953",
+          "username": "Nyx-"
+        },
+        {
+          "uid": "101982",
+          "username": "Lαvηεsн"
+        },
+        {
+          "uid": "121075",
+          "username": ".Infinity."
+        },
+        {
+          "uid": "1382766",
+          "username": "Paranоrmal"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        },
+        {
+          "uid": "1256905",
+          "username": "Kenny West"
+        },
+        {
+          "uid": "1395701",
+          "username": "Dеlusion"
+        },
+        {
+          "uid": "1170901",
+          "username": "Recognized"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies"
+        },
+        {
+          "uid": "1315365",
+          "username": "+Amaze"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "DaL33T received the Award Whore award and purchased Brony; #Sultan received the Sticky Man award; Plaтiпuм had his Brony award removed and received Award Whore; team3d received Silver Medal for his feedback thread; 630, Connected, DaL33T, and redpois0n donated for the Bitcoinage award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3477736",
+      "users": [
+        {
+          "uid": "303649",
+          "username": "DaL33T"
+        },
+        {
+          "uid": "1364125",
+          "username": "#Sultan"
+        },
+        {
+          "uid": "1341017",
+          "username": "Plaтiпuм"
+        },
+        {
+          "uid": "1305019",
+          "username": "team3d"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1049662",
+          "username": "redpois0n"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Αnonymous's 'Illuminati | Group Contest | Cash Prizes - $1000'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3477736",
+      "users": [
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: ComponY's 'Call Of Duty Guide | Tips | Easy to follow'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3480859",
+      "users": [
+        {
+          "uid": "1066539",
+          "username": "ComponY"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: +Pirate's 'Contest: Win a place in Innovation | Official Group'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3484883",
+      "users": [
+        {
+          "uid": "529870",
+          "username": "+Pirate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with CoBrAxXx conducted by Connected; covers his Marketplace activity, refusal to be upgraded to ub3r, and views on the Marketers group deletion.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "1182524",
+          "username": "CoBrAxXx"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Anima Libera conducted by SkyGuy; covers her Music News role, the Hexicidal/Genuine demotions, the new reputation system, and the Marketers deletion.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1121679",
+          "username": "SkyGuy"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1108450",
+          "username": "BagHead",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "11953",
+      "username": "Nyx-"
+    },
+    {
+      "uid": "47360",
+      "username": "Saged"
+    },
+    {
+      "uid": "101982",
+      "username": "Lαvηεsн"
+    },
+    {
+      "uid": "121075",
+      "username": ".Infinity."
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "128873",
+      "username": "T3h Hack3r"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "183072",
+      "username": "Mr Kewl"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "195972",
+      "username": "iEchO"
+    },
+    {
+      "uid": "263250",
+      "username": "~Tom~"
+    },
+    {
+      "uid": "274613",
+      "username": "Яǝʌǝɹsǝ"
+    },
+    {
+      "uid": "279955",
+      "username": "Happeh"
+    },
+    {
+      "uid": "303649",
+      "username": "DaL33T"
+    },
+    {
+      "uid": "309536",
+      "username": "Verilog"
+    },
+    {
+      "uid": "411005",
+      "username": "sonex"
+    },
+    {
+      "uid": "431105",
+      "username": "Tɦɛ Gʀiɱ"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "529870",
+      "username": "+Pirate"
+    },
+    {
+      "uid": "530821",
+      "username": "Xeronations"
+    },
+    {
+      "uid": "559058",
+      "username": "Shekhar"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "642769",
+      "username": "Infinity ツ"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "686913",
+      "username": "Exp3rt"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "830253",
+      "username": "Notouch"
+    },
+    {
+      "uid": "860828",
+      "username": "Teh Afro"
+    },
+    {
+      "uid": "879431",
+      "username": "Pali"
+    },
+    {
+      "uid": "902372",
+      "username": "Living."
+    },
+    {
+      "uid": "904208",
+      "username": "Liquified™"
+    },
+    {
+      "uid": "918036",
+      "username": "Illuminati™"
+    },
+    {
+      "uid": "974949",
+      "username": "NoodleBot"
+    },
+    {
+      "uid": "1030224",
+      "username": "AceHF"
+    },
+    {
+      "uid": "1049662",
+      "username": "redpois0n"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1066539",
+      "username": "ComponY"
+    },
+    {
+      "uid": "1108450",
+      "username": "BagHead"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1125698",
+      "username": "The Pizza Slut"
+    },
+    {
+      "uid": "1136002",
+      "username": "+A$IAN"
+    },
+    {
+      "uid": "1140296",
+      "username": "Aɴᴏɴʏᴍᴏᴜs Ԍᴀᴍᴇᴙ"
+    },
+    {
+      "uid": "1142432",
+      "username": "ƒσяรคкεห™"
+    },
+    {
+      "uid": "1148482",
+      "username": "Dr.Whitehat"
+    },
+    {
+      "uid": "1148878",
+      "username": "Cliqυe"
+    },
+    {
+      "uid": "1169446",
+      "username": "Revenge."
+    },
+    {
+      "uid": "1170901",
+      "username": "Recognized"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1173142",
+      "username": "Goodies"
+    },
+    {
+      "uid": "1182524",
+      "username": "CoBrAxXx"
+    },
+    {
+      "uid": "1191191",
+      "username": "Тechnique"
+    },
+    {
+      "uid": "1204034",
+      "username": "DeadLine"
+    },
+    {
+      "uid": "1206954",
+      "username": "Nickelodeon"
+    },
+    {
+      "uid": "1256905",
+      "username": "Kenny West"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1305019",
+      "username": "team3d"
+    },
+    {
+      "uid": "1308266",
+      "username": "Vodge"
+    },
+    {
+      "uid": "1314727",
+      "username": "Prime"
+    },
+    {
+      "uid": "1315365",
+      "username": "+Amaze"
+    },
+    {
+      "uid": "1341017",
+      "username": "Plaтiпuм"
+    },
+    {
+      "uid": "1359373",
+      "username": "#Economy"
+    },
+    {
+      "uid": "1364125",
+      "username": "#Sultan"
+    },
+    {
+      "uid": "1374598",
+      "username": "ѕᴛᴏɴᴇ"
+    },
+    {
+      "uid": "1382766",
+      "username": "Paranоrmal"
+    },
+    {
+      "uid": "1395701",
+      "username": "Dеlusion"
+    },
+    {
+      "uid": "1452196",
+      "username": "-Nas"
+    },
+    {
+      "uid": "1452467",
+      "username": "Morchid"
+    },
+    {
+      "uid": "1466467",
+      "username": "Isidar"
+    },
+    {
+      "uid": "1617327",
+      "username": "Google Expert"
+    }
+  ]
+}

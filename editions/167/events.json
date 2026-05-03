@@ -1,0 +1,389 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The Modern theme's Halloween image header was replaced with simple text reading 'Welcome to HackForums.net' as a temporary placeholder.",
+      "thread": "http://hackforums.net/showthread.php?tid=3844588",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient raised the per-section sticky cap from 5 to 6 (SST remains at 8) to alleviate pressure on sticky positions.",
+      "thread": "http://hackforums.net/showthread.php?tid=3844588",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'Wordpress, Drupal, and Joomla' subforum under Website Construction.",
+      "thread": "http://hackforums.net/showthread.php?tid=3844588",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Хchg hit 1,000 reputation; Computer Professor reached 10,000 posts; Black Shadow hit 10,000 posts, 4,000 reputation, and 1,000 prestige.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "663417",
+          "username": "Хchg"
+        },
+        {
+          "uid": "874137",
+          "username": "Computer Professor"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xTorch was repfucked and banned for one month; Van Hohenheim was repfucked; .Alerion was banned for reputation abuse; Centauri, Undisputed™, and Cyber Criminal were banned indefinitely for account ownership issues; ShadowLock was banned as possibly compromised.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1598181",
+          "username": "xTorch"
+        },
+        {
+          "uid": "680291",
+          "username": "Van Hohenheim"
+        },
+        {
+          "uid": "1693297",
+          "username": ".Alerion"
+        },
+        {
+          "uid": "1681716",
+          "username": "Centauri"
+        },
+        {
+          "uid": "1724477",
+          "username": "Undisputed™"
+        },
+        {
+          "uid": "1055811",
+          "username": "Cyber Criminal"
+        },
+        {
+          "uid": "1639102",
+          "username": "ShadowLock"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "D3RP was banned for leaking members' personal information; Excalibur was banned for posting a sales thread outside the Marketplace; Chief was granted the White Hat Helper award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3725444",
+      "users": [
+        {
+          "uid": "1364628",
+          "username": "D3RP"
+        },
+        {
+          "uid": "103841",
+          "username": "Excalibur"
+        },
+        {
+          "uid": "1536004",
+          "username": "Chief"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "User-created Software Thread: Conky's 'HFPaint V5.1.0 Painting | Advanced Manipulation | Effects'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3725444",
+      "users": [
+        {
+          "uid": "1688769",
+          "username": "Conky"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: -๖ۣۜDivine-'s 'Dynasty | Race Conditions'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3834434",
+      "users": [
+        {
+          "uid": "1539015",
+          "username": "-๖ۣۜDivine-"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group Thread: Connected's 'Brotherhood's Modern Userbar - Win $40' design contest.",
+      "thread": "http://hackforums.net/showthread.php?tid=3840245",
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Arcaina conducted by Clique; covers her arrival via Droid X2 rooting searches, her former alias 'Eternal', her Empire and 143 leadership work, her HackerCraft play with Brotherhood, and her ambition to start a non-profit for those with mental illness.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "649674",
+          "username": "Arcaina"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Computer Professor conducted by Carson Clark; covers his school district IT work with a $9,000 upgrade budget, his uncle's repair shop work, his ownership of 50+ computers, and the success of his custom PC build thread which reached 1,700 posts before he closed it.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Carson Clark"
+        },
+        {
+          "uid": "874137",
+          "username": "Computer Professor"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Educate renamed to Carson Clark.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Carson Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "63387",
+      "username": "Black Shadow"
+    },
+    {
+      "uid": "103841",
+      "username": "Excalibur"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "649674",
+      "username": "Arcaina"
+    },
+    {
+      "uid": "663417",
+      "username": "Хchg"
+    },
+    {
+      "uid": "680291",
+      "username": "Van Hohenheim"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "874137",
+      "username": "Computer Professor"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1055811",
+      "username": "Cyber Criminal"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1364628",
+      "username": "D3RP"
+    },
+    {
+      "uid": "1536004",
+      "username": "Chief"
+    },
+    {
+      "uid": "1539015",
+      "username": "-๖ۣۜDivine-"
+    },
+    {
+      "uid": "1598181",
+      "username": "xTorch"
+    },
+    {
+      "uid": "1639102",
+      "username": "ShadowLock"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Carson Clark"
+    },
+    {
+      "uid": "1681716",
+      "username": "Centauri"
+    },
+    {
+      "uid": "1688769",
+      "username": "Conky"
+    },
+    {
+      "uid": "1693297",
+      "username": ".Alerion"
+    },
+    {
+      "uid": "1724477",
+      "username": "Undisputed™"
+    }
+  ]
+}

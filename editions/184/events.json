@@ -1,0 +1,414 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient removed the BackTrack section after a suggestion thread, citing declining activity and BackTrack's rebrand as Kali, with respective thread prefixes added to the Linux section.",
+      "thread": "http://hackforums.net/showthread.php?tid=4086571",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient restricted the Science, Religion, Philosophy, and Politics section to L33t and Ub3r members only in a major crackdown on trolling, supported by the group Void.",
+      "thread": "http://hackforums.net/showthread.php?tid=4095223",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Sir disallowed discussion in the weekly report thread after trolling and unrelated replies overtook legitimate reports; non-report posts will now be removed.",
+      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "John Herbert hit 1,000 reputation.",
+      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "users": [
+        {
+          "uid": "1341148",
+          "username": "John Herbert"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": ".Zo was repfucked and had account closed; Support. was repfucked and banned for leaking; ryoh was repfucked and had account closed; Eminem. was repfucked and banned for repfuck complaining; Sigma was banned for identity fraud (expired); Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ was banned for severe rep abuse; Cloud was banned for harassing members.",
+      "thread": "http://hackforums.net/showthread.php?tid=4076042",
+      "users": [
+        {
+          "uid": "195831",
+          "username": ".Zo"
+        },
+        {
+          "uid": "882915",
+          "username": "Support."
+        },
+        {
+          "uid": "1388267",
+          "username": "ryoh"
+        },
+        {
+          "uid": "2077897",
+          "username": "Eminem."
+        },
+        {
+          "uid": "89554",
+          "username": "Sigma"
+        },
+        {
+          "uid": "1046921",
+          "username": "Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ"
+        },
+        {
+          "uid": "841133",
+          "username": "Cloud"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": ".Alerion had account closed; OG Bobby Johnson was banned; Ramisme was banned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1693297",
+          "username": ".Alerion"
+        },
+        {
+          "uid": "2094140",
+          "username": "OG Bobby Johnson"
+        },
+        {
+          "uid": "1087653",
+          "username": "Ramisme"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Roytoy and Crypto Miner received the Sticky Man award; FroStorm donated for Master Donator and received the Ninja award.",
+      "thread": "http://hackforums.net/showthread.php?tid=4004983",
+      "users": [
+        {
+          "uid": "130086",
+          "username": "Roytoy"
+        },
+        {
+          "uid": "1302310",
+          "username": "Crypto Miner"
+        },
+        {
+          "uid": "1121674",
+          "username": "FroStorm"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Sparky56p's '(360) Fully Modded NOS Cars. FREE! Fully Customizable Service!'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4064749",
+      "users": [
+        {
+          "uid": "733760",
+          "username": "Sparky56p"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Gary's 'Your first thread?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4089449",
+      "users": [
+        {
+          "uid": "1700066",
+          "username": "Gary"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: owned3600's 'You Wake Up as Omniscient. What's the first thing you do?'.",
+      "thread": "http://hackforums.net/showthread.php?tid=4085330",
+      "users": [
+        {
+          "uid": "1187139",
+          "username": "owned3600"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Gary conducted by Saturday; covers his early HF crypter purchase scam, his troll reputation, his thoughts on the changing forum culture, and his parents' divorce.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1700066",
+          "username": "Gary"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with RenRioku™ conducted by Clique; covers his work as a Dish Network service technician and his self-described intermediate hacking skills.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1041725",
+          "username": "RenRioku™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Vegas conducted by Clark; covers his competitive fighting game play, his programming/graphic design studies, his preference for PC gaming, and his time in the Red Lions group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "Xerucide",
+          "role": "Journalist (Gaming News) / Proofreader"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1685553",
+          "username": "glockbuster",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Rinium",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "89554",
+      "username": "Sigma"
+    },
+    {
+      "uid": "130086",
+      "username": "Roytoy"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "195831",
+      "username": ".Zo"
+    },
+    {
+      "uid": "370475",
+      "username": "Vegas"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "733760",
+      "username": "Sparky56p"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "841133",
+      "username": "Cloud"
+    },
+    {
+      "uid": "882915",
+      "username": "Support."
+    },
+    {
+      "uid": "891000",
+      "username": "Xerucide"
+    },
+    {
+      "uid": "1041725",
+      "username": "RenRioku™"
+    },
+    {
+      "uid": "1046921",
+      "username": "Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1087653",
+      "username": "Ramisme"
+    },
+    {
+      "uid": "1121674",
+      "username": "FroStorm"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1187139",
+      "username": "owned3600"
+    },
+    {
+      "uid": "1302310",
+      "username": "Crypto Miner"
+    },
+    {
+      "uid": "1341148",
+      "username": "John Herbert"
+    },
+    {
+      "uid": "1388267",
+      "username": "ryoh"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1685553",
+      "username": "glockbuster"
+    },
+    {
+      "uid": "1693297",
+      "username": ".Alerion"
+    },
+    {
+      "uid": "1700066",
+      "username": "Gary"
+    },
+    {
+      "uid": "1775114",
+      "username": "Rinium"
+    },
+    {
+      "uid": "2077897",
+      "username": "Eminem."
+    },
+    {
+      "uid": "2094140",
+      "username": "OG Bobby Johnson"
+    }
+  ]
+}

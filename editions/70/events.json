@@ -1,0 +1,437 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "The junked section was purged, removing over 500,000 posts and dropping nearly all active members' post counts; staff member Factor8 lost a total of 26,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'pmme' MyCode after suggestions to ban 'Post here, PM me' giveaway threads; he indicated such threads will be disallowed in the future.",
+      "thread": "http://hackforums.net/showthread.php?tid=1975837",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Selling by proxy on behalf of other members is now disallowed; offenders will be repfucked and barred from posting in the Marketplace.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Reverence leaders Astonish is NJ and McFlurry decided to remove every member of the group and start over, with re-invitations planned for December 12, 2011. Many members are angry given that some had paid to enter.",
+      "thread": "http://hackforums.net/showthread.php?tid=1982348",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "uid": "725160",
+          "username": "McFlurry"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced via Twitter that 32,700 regular accounts inactive for over 6 months were closed in the past week.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "S70N3R was repfucked after he reported all of his green reputations as reputation abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "132817",
+          "username": "S70N3R"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Yellow Skull was repfucked for posting a fake scam report; Omniscient himself -10'd him with the comment that members shouldn't deal with this user.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "905279",
+          "username": "Yellow Skull"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Genuine was repfucked for unknown reasons.",
+      "thread": "http://hackforums.net/showthread.php?tid=1985124",
+      "users": [
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Hot Chocolate was repfucked and banned for 'LQP and Member Harassing.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "395968",
+          "username": "Hot Chocolate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dre Beats™ (formerly SeaNanners) was banned for multiple accounts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "766442",
+          "username": "Dre Beats™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Orgy was banned for constant sales-thread trashing.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zyzz was repfucked and banned by Judge Dredd for being a site nuisance; he was later unbanned and is now limited.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "788901",
+          "username": "Zyzz"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Kiss♥'s account was repfucked and permanently closed; speculation points to the mass scam reports opened against him.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "622283",
+          "username": "Kiss♥"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Graphics Thread: Lat's 'Light' Signature Tutorial in Photoshop.",
+      "thread": "http://hackforums.net/showthread.php?tid=1991018",
+      "users": [
+        {
+          "uid": "1080477",
+          "username": "Lat"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Hacked Thread: TheHackersLove (the World News writer) was hacked and posted about it; he has since regained access.",
+      "thread": "http://hackforums.net/showthread.php?tid=1985539",
+      "users": [
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: Prince of Persia's report and video on a MythBusters cannonball experiment that went wrong, hitting houses and a car in Dublin.",
+      "thread": "http://hackforums.net/showthread.php?tid=1991547",
+      "users": [
+        {
+          "uid": "263345",
+          "username": "Prince of Persia"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Helpful Thread: Glassy's guide on Partnerships, Hiring, and Personnel.",
+      "thread": "http://hackforums.net/showthread.php?tid=1982540",
+      "users": [
+        {
+          "uid": "734805",
+          "username": "Glassy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Eye-Opening Thread: Michael Westen's 'Genuine takes credit for other's work!' — believed to be what led to Genuine's repfuck and the removal of his thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=1985124",
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Existence was demoted from leader of The RATs Crew (cited as 'taking bribes'); kindavidd was promoted to leader of Minecrafters; Diabolic was demoted from leader of Reverence.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Existence",
+          "uid": "451192"
+        },
+        {
+          "username": "kindavidd"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tsgh Mike received the Cat Lover award (a birthday gift from alabama). Diabolic received the Master Donator and Businessman awards.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Tsgh Mike",
+          "uid": "81119"
+        },
+        {
+          "username": "alabama",
+          "uid": "622763"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Glassy conducted by Michael Westen; covers Red Lions and Writ3rs membership, awards philosophy, and his guide-writing motivation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "uid": "734805",
+          "username": "Glassy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Ignite. conducted by Daniel Faraday; covers his short time on HF, RAT award, and goal to become a Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Daniel Faraday",
+          "uid": "366559"
+        },
+        {
+          "username": "Ignite.",
+          "uid": "946680"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions / Headlines"
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "username": "Daniel Faraday",
+          "role": "Interviewer",
+          "uid": "366559"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "username": "Tasemu",
+          "role": "Graphical Editor",
+          "uid": "62795"
+        },
+        {
+          "username": "Ignite.",
+          "role": "Reporter",
+          "uid": "946680"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "81119",
+      "username": "Tsgh Mike"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "132817",
+      "username": "S70N3R"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "263345",
+      "username": "Prince of Persia"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "366559",
+      "username": "Daniel Faraday"
+    },
+    {
+      "uid": "395968",
+      "username": "Hot Chocolate"
+    },
+    {
+      "uid": "451192",
+      "username": "Existence"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "622283",
+      "username": "Kiss♥"
+    },
+    {
+      "uid": "622763",
+      "username": "alabama"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "725160",
+      "username": "McFlurry"
+    },
+    {
+      "uid": "734805",
+      "username": "Glassy"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "766442",
+      "username": "Dre Beats™"
+    },
+    {
+      "uid": "788901",
+      "username": "Zyzz"
+    },
+    {
+      "uid": "905279",
+      "username": "Yellow Skull"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "1080477",
+      "username": "Lat"
+    }
+  ]
+}

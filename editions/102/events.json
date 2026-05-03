@@ -1,0 +1,493 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient's hand cast was scheduled to be removed and replaced with a finger splint or open-hand cast.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Hack Forums set a new record of 2,885 members online at one moment.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "Illuminati changed its userbar; opinions in the community were divided over readability versus the original style.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "Coders changed its name to Logic and adjusted its associated topic; the group is now invite only with recruitment possibly opening soon.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "php, Grammar Rays, and adampelletgun all reached 10,000 posts.",
+      "thread": "http://hackforums.net/showthread.php?tid=2708057",
+      "users": [
+        {
+          "uid": "113705",
+          "username": "php"
+        },
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "-BoodyE- was promoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Dan. became moderator of the Minecraft forum and Griefing sub-forum.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "echo.phyber was banned and repfucked for complaining about a repfuck; Chief. was banned and repfucked for account sharing; TM was banned and repfucked for scamming; Reminiscent was banned and repfucked for trying to sell his account.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "301731",
+          "username": "echo.phyber"
+        },
+        {
+          "uid": "458073",
+          "username": "Chief."
+        },
+        {
+          "uid": "536965",
+          "username": "TM™"
+        },
+        {
+          "uid": "80754",
+          "username": "Reminiscent"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Justintr4in was banned for carding; Somerset West was banned for nonsense; video de cul was banned and repfucked for being disrespectful; ☆ Mark I. Mcclam ☆ was banned and repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "723110",
+          "username": "Justintr4in"
+        },
+        {
+          "uid": "1072161",
+          "username": "Somerset West"
+        },
+        {
+          "uid": "1089669",
+          "username": "video de cul"
+        },
+        {
+          "uid": "1220481",
+          "username": "☆ Mark I. Mcclam ☆"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The Goon, inxy, bellita, and Configuration were all banned for trolling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "929501",
+          "username": "The Goon"
+        },
+        {
+          "uid": "398783",
+          "username": "inxy"
+        },
+        {
+          "uid": "65141",
+          "username": "bellita"
+        },
+        {
+          "uid": "700572",
+          "username": "Configuration"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Αnonymous received the Master Donator and Speaker of the House awards; adampelletgun received FPS Gawd; Winner received Emerald Donator; Positive gave KillzyazMadness the Cuddly and Cute award.",
+      "thread": "http://hackforums.net/showthread.php?tid=2705162",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "1119610",
+          "username": "Winner"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        },
+        {
+          "uid": "848947",
+          "username": "KillzyazMadness"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Yellows and Diabolic became group leaders of Rhythm.",
+      "thread": "http://hackforums.net/showthread.php?tid=2708057",
+      "users": [
+        {
+          "uid": "524451",
+          "username": "Yellows"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Argoi's 'Do you think intelligent people are less happy?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2708057",
+      "users": [
+        {
+          "uid": "1090659",
+          "username": "Argoi"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Diji's 'Why do you do drugs?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2715622",
+      "users": [
+        {
+          "uid": "1230572",
+          "username": "Diji"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Mr. Anderson's 'Odds are you don't care.'",
+      "thread": "http://hackforums.net/showthread.php?tid=2705692",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Lounge Thread: Apathy's 'Should the Colorado Shooter Recieve the Death Penalty?'",
+      "thread": "http://hackforums.net/showthread.php?tid=2705162",
+      "users": [
+        {
+          "uid": "398007",
+          "username": "Apathy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Positive conducted by Phytrix; covers his recent Mentor promotion, Techsperts being renamed Rhythm, his Bieber fandom, and views on violent crime triggers.",
+      "thread": "http://hackforums.net/showthread.php?tid=2705162",
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with MarkMare conducted by RDCA; covers his role on the HF News team, gaming preferences (Halo, Xbox), schooling, and aspirations to join the Australian Defence Force.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "816875",
+          "username": "Daring",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "903914",
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "434812",
+          "username": "Bay",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1323486",
+          "username": "AvidWB",
+          "role": "Webshow"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "65141",
+      "username": "bellita"
+    },
+    {
+      "uid": "80754",
+      "username": "Reminiscent"
+    },
+    {
+      "uid": "113705",
+      "username": "php"
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "298746",
+      "username": "Grammar Rays"
+    },
+    {
+      "uid": "301731",
+      "username": "echo.phyber"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "398007",
+      "username": "Apathy"
+    },
+    {
+      "uid": "398783",
+      "username": "inxy"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "458073",
+      "username": "Chief."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "536965",
+      "username": "TM™"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "600771",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "700572",
+      "username": "Configuration"
+    },
+    {
+      "uid": "723110",
+      "username": "Justintr4in"
+    },
+    {
+      "uid": "816875",
+      "username": "Daring"
+    },
+    {
+      "uid": "848947",
+      "username": "KillzyazMadness"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "929501",
+      "username": "The Goon"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1072161",
+      "username": "Somerset West"
+    },
+    {
+      "uid": "1089669",
+      "username": "video de cul"
+    },
+    {
+      "uid": "1090659",
+      "username": "Argoi"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1119610",
+      "username": "Winner"
+    },
+    {
+      "uid": "1220481",
+      "username": "☆ Mark I. Mcclam ☆"
+    },
+    {
+      "uid": "1230572",
+      "username": "Diji"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    }
+  ]
+}

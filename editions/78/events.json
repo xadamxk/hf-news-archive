@@ -1,0 +1,538 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "description": "Reverence again removed all of its members; leaders Astonish is NJ and King renamed the group 'Respawn' and converted it into HF's first all-gaming group.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ"
+        },
+        {
+          "uid": "725160",
+          "username": "King"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient said the POW3R group and rep reset are still pending: 'Soon. No other info at this time.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "HackForums was updated to MyBB 1.6.5 with brief downtime and minor bug fixes.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient closed 12,000 regular accounts due to inactivity to prevent stolen aged accounts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "On the 8th, Omniscient removed the Introductions section due to too many low-quality 'welcome to HF pm me' posts; the MOTM subforum was moved to Site News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Omniscient deleted the RATs Crew, saying he wouldn't put up with any 'BS from its leaders'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xerotic reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zammyslave, leader of The Wraith, had his account stolen and was banned briefly before regaining ownership.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "6307",
+          "username": "Zammyslave"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Oldskool. reached 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "426299",
+          "username": "Oldskool."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Selena Gomez™ was repfucked for requesting a vouch copy.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "376588",
+          "username": "Selena Gomez™"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Eminence leader ShadowCloud (formerly Finarfin Palantir) changed his username; Reverence/Respawn leader King changed his username from McFlurry.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "272608",
+          "username": "ShadowCloud"
+        },
+        {
+          "uid": "725160",
+          "username": "King"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iDuL reached 10,000 posts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "187420",
+          "username": "iDuL"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "MLD and Raptured were both banned and repfucked for harassing a member.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "738154",
+          "username": "MLD"
+        },
+        {
+          "uid": "660659",
+          "username": "Raptured"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Godly was repfucked and banned for evading a ban.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "169783",
+          "username": "Godly"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "iFaTaLiTy was banned by Omniscient with reason 'HF Cloning'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "927361",
+          "username": "iFaTaLiTy"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "WiFi., leader of Eminence, was banned for 'Staff Problems'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "406243",
+          "username": "WiFi."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "HakkuR, a well-known seller, was permanently banned from HF.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "320970",
+          "username": "HakkuR"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "biasa199 was banned and repfucked for impersonating members.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "520579",
+          "username": "biasa199"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Charizard ★ (formerly SeaNanners) was banned with reason 'Tired of your random neg repping abuse.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "766442",
+          "username": "Charizard ★"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "DDoS Thread: Positive's release of xDDoSeR 7.3.",
+      "thread": "http://hackforums.net/showthread.php?tid=1357182",
+      "users": [
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "MOTM Thread: Scooter's thread pointing out glaring problems with the MOTM system; most being addressed.",
+      "thread": "http://hackforums.net/showthread.php?tid=2176699",
+      "users": [
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Coding/Propitious Thread: ¤ Nick™ ¤'s 'Where to start Programming' resource thread, the first contribution from Propitious.",
+      "thread": "http://hackforums.net/showthread.php?tid=2173735",
+      "users": [
+        {
+          "uid": "356861",
+          "username": "¤ Nick™ ¤"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Graphics Thread: Dr.Quickmodz's free thread design giveaway, week #7.",
+      "thread": "http://hackforums.net/showthread.php?tid=2180218",
+      "users": [
+        {
+          "uid": "795825",
+          "username": "Dr.Quickmodz"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ignite. received the Sticky Man award; Infallible received the MOTM award; Cute received the Sticky Man award; ReactioNz received the Protector award; Dan. received the Master Donator award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "946680",
+          "username": "Ignite."
+        },
+        {
+          "uid": "170785",
+          "username": "Infallible"
+        },
+        {
+          "uid": "420630",
+          "username": "Cute"
+        },
+        {
+          "uid": "656453",
+          "username": "ReactioNz"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Suhinder conducted by Michael Westen; covers booter quality in the Marketplace, Propitious membership, and his pets.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen"
+        },
+        {
+          "uid": "869826",
+          "username": "Suhinder"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with iNviZ conducted by Paradise.; covers his Mentor role, leading Propitious with TheHackersLove, and views on POW3R/Vouch.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Paradise.",
+          "uid": "916706"
+        },
+        {
+          "uid": "619030",
+          "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": "http://hackforums.net/showthread.php?tid=1980510",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "355307",
+          "username": "Chocothunda",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "762646",
+          "username": "Døn",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "613009",
+          "username": "Morchid",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "916706",
+          "username": "Innocence.",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "175033",
+          "username": "xerotic",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "uid": "62795",
+          "username": "Tasemu",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "946680",
+          "username": "Ignite.",
+          "role": "Reporter"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "6307",
+      "username": "Zammyslave"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "169783",
+      "username": "Godly"
+    },
+    {
+      "uid": "170785",
+      "username": "Infallible"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "187420",
+      "username": "iDuL"
+    },
+    {
+      "uid": "272608",
+      "username": "ShadowCloud"
+    },
+    {
+      "uid": "320970",
+      "username": "HakkuR"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "355307",
+      "username": "Chocothunda"
+    },
+    {
+      "uid": "356861",
+      "username": "¤ Nick™ ¤"
+    },
+    {
+      "uid": "361543",
+      "username": "Scooter"
+    },
+    {
+      "uid": "376588",
+      "username": "Selena Gomez™"
+    },
+    {
+      "uid": "406243",
+      "username": "WiFi."
+    },
+    {
+      "uid": "420630",
+      "username": "Cute"
+    },
+    {
+      "uid": "426299",
+      "username": "Oldskool."
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "520579",
+      "username": "biasa199"
+    },
+    {
+      "uid": "613009",
+      "username": "Morchid"
+    },
+    {
+      "uid": "619030",
+      "username": "iNviZ"
+    },
+    {
+      "uid": "656453",
+      "username": "ReactioNz"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "660659",
+      "username": "Raptured"
+    },
+    {
+      "uid": "725160",
+      "username": "King"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "738154",
+      "username": "MLD"
+    },
+    {
+      "uid": "762646",
+      "username": "Døn"
+    },
+    {
+      "uid": "766442",
+      "username": "Charizard ★"
+    },
+    {
+      "uid": "795825",
+      "username": "Dr.Quickmodz"
+    },
+    {
+      "uid": "869826",
+      "username": "Suhinder"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "916706",
+      "username": "Innocence."
+    },
+    {
+      "uid": "927361",
+      "username": "iFaTaLiTy"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    }
+  ]
+}

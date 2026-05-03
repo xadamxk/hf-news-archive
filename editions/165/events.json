@@ -1,0 +1,388 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'Photography 101' subforum under the Graphics section after numerous prior denied suggestion threads.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient continued iterating on the Modern theme with changes to backgrounds, user-stars, username colors, and reputation page styling.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The Dubstep subforum was renamed to 'Dubstep and EDM' following ғᴇᴀᴛᴜʀᴇ's suggestion.",
+      "thread": "http://hackforums.net/showthread.php?tid=3796777",
+      "users": [
+        {
+          "uid": "1299574",
+          "username": "ғᴇᴀᴛᴜʀᴇ"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Omniscient closed The Brotherhood's Spy Squad mid-recruitment; the group had been responsible for over 3,000 lost reputation points from rule-breaking account sellers, rep exchangers, and multiaccounters.",
+      "thread": "http://hackforums.net/showthread.php?tid=3805280",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Fеar was repfucked; Hyphers was repfucked and banned for repfuck complaining; Breakbeat Junkie was repfucked and banned for encouraging leaking; ๖ۣۜUltimo was banned for reputation abuse.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1714297",
+          "username": "Fеar"
+        },
+        {
+          "uid": "1084200",
+          "username": "Hyphers"
+        },
+        {
+          "uid": "242678",
+          "username": "Breakbeat Junkie"
+        },
+        {
+          "uid": "1791844",
+          "username": "๖ۣۜUltimo"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "wingb0t was banned for impersonating admins; Difficult™ was banned for selling his account; Sh1eld was banned for posting marketplace-style threads outside the marketplace; Burgundy was banned as a security precaution after his account was stolen; itzG0D was closed for multiaccounting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "330628",
+          "username": "wingb0t"
+        },
+        {
+          "uid": "1586225",
+          "username": "Difficult™"
+        },
+        {
+          "uid": "608523",
+          "username": "Sh1eld"
+        },
+        {
+          "uid": "915191",
+          "username": "Burgundy"
+        },
+        {
+          "uid": "1631015",
+          "username": "itzG0D"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tyler777 donated for the Master Donator award and received the Ninja award.",
+      "thread": "http://hackforums.net/showthread.php?tid=3803031",
+      "users": [
+        {
+          "uid": "168826",
+          "username": "Tyler777"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Group and Crew General Discussions Thread: Lani's 'Dynasty | Official Group | Information'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3803031",
+      "users": [
+        {
+          "uid": "42927",
+          "username": "Lani"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Website and Forum Hacking Thread: -๖ۣۜDivine-'s 'Dynasty | Return Oriented Programming [ROP]' tutorial.",
+      "thread": "http://hackforums.net/showthread.php?tid=3811326",
+      "users": [
+        {
+          "uid": "1539015",
+          "username": "-๖ۣۜDivine-"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Hobbyist conducted by Saturday; covers his work in Fly By Night, his refusal to upgrade, his troll reputation, and his ongoing list of 800 names he plans to send Omniscient for permanent banning.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1258232",
+          "username": "Hobbyist"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Tando conducted by Educate; covers his arrival at HF following a hack threat, his Java coding, his reduced activity following his grandmother's death, and his current focus on gym and college over HF.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Educate"
+        },
+        {
+          "uid": "1113153",
+          "username": "Tando"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Sudsy conducted by Clique; covers his arrival via Lovol from another gaming forum, the origin of his name from a school novel laundromat 'The Sudsy Duds', his work with Skeetz on a new Minecraft server, and his enjoyment of HackerCraft farming.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1650008",
+          "username": "Sudsy"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition; Cody took over User News.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "956054",
+          "username": "Emylbus",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "752389",
+          "username": "drugs",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Educate",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "135189",
+          "username": "Bad Meets Evil",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "42927",
+      "username": "Lani"
+    },
+    {
+      "uid": "135189",
+      "username": "Bad Meets Evil"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "168826",
+      "username": "Tyler777"
+    },
+    {
+      "uid": "242678",
+      "username": "Breakbeat Junkie"
+    },
+    {
+      "uid": "330628",
+      "username": "wingb0t"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "608523",
+      "username": "Sh1eld"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "752389",
+      "username": "drugs"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "915191",
+      "username": "Burgundy"
+    },
+    {
+      "uid": "956054",
+      "username": "Emylbus"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1084200",
+      "username": "Hyphers"
+    },
+    {
+      "uid": "1113153",
+      "username": "Tando"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1258232",
+      "username": "Hobbyist"
+    },
+    {
+      "uid": "1299574",
+      "username": "ғᴇᴀᴛᴜʀᴇ"
+    },
+    {
+      "uid": "1539015",
+      "username": "-๖ۣۜDivine-"
+    },
+    {
+      "uid": "1586225",
+      "username": "Difficult™"
+    },
+    {
+      "uid": "1631015",
+      "username": "itzG0D"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1650008",
+      "username": "Sudsy"
+    },
+    {
+      "uid": "1653635",
+      "username": "Educate"
+    },
+    {
+      "uid": "1714297",
+      "username": "Fеar"
+    },
+    {
+      "uid": "1791844",
+      "username": "๖ۣۜUltimo"
+    }
+  ]
+}

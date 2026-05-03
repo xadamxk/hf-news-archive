@@ -1,0 +1,561 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "description": "Judge Dredd was demoted from Administrator to Mentor; Omniscient declined to publicly discuss the reasons, and reputation abuse duties will be reassigned.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new Bitcoinage award, given to members who donate one Bitcoin to him.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Omniscient granted Judge Dredd a new official group called Complexity, focused on coding, web design, security, GFX, monetizing, gaming, and other computer-related topics.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient introduced a new Server Stress Testing rule requiring all stressers to blacklist hackforums.net to prevent attacks on the site.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient launched a new Crypto Currency subforum for discussion of Bitcoin, Litecoin, mining, wallets, setup, and monetization.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Toph and adampelletgun reached reputation milestones (1,000 and 2,000 respectively); Nyx- hit -2,000 reputation; Condoms hit 10,000 posts; Astonish, Wolves, and D3xus were promoted to Mentor; Daisy won MOTM; Hexicidal and Genuine were demoted to Mentor.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "868055",
+          "username": "Toph"
+        },
+        {
+          "uid": "454666",
+          "username": "adampelletgun"
+        },
+        {
+          "uid": "11953",
+          "username": "Nyx-"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        },
+        {
+          "uid": "651051",
+          "username": "Wolves"
+        },
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        },
+        {
+          "uid": "54244",
+          "username": "Condoms"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Nidhish was repfucked and banned; +Amaze was repfucked.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "572087",
+          "username": "Nidhish"
+        },
+        {
+          "uid": "1315365",
+          "username": "+Amaze"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Southern had his account closed for multiple accounts; Mauler was banned for multiple accounts; xadamxk was banned because his account was possibly compromised; Positive was banned with the cryptic reason 'You know who it is. I know you do.'",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1707990",
+          "username": "Southern"
+        },
+        {
+          "uid": "985014",
+          "username": "Mauler"
+        },
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "LevelUp, Genuine, Kyle Novichkov, #Skyline, Alien., and TheHackersLove were vacation banned; Rhythm was banned for low quality posting.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1181919",
+          "username": "LevelUp"
+        },
+        {
+          "uid": "646916",
+          "username": "Genuine"
+        },
+        {
+          "uid": "720138",
+          "username": "Kyle Novichkov"
+        },
+        {
+          "uid": "1232842",
+          "username": "#Skyline"
+        },
+        {
+          "uid": "1189410",
+          "username": "Alien."
+        },
+        {
+          "uid": "570186",
+          "username": "TheHackersLove"
+        },
+        {
+          "uid": "126704",
+          "username": "Rhythm"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Daisy received the MOTM award; Sam. received the Ninja award; Astonish had several awards removed; mad, Sam., Cryptic™, Tibit, Dan., blackshades, and Kohsti donated for the Bitcoinage award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1263952",
+          "username": "Daisy"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        },
+        {
+          "uid": "1597526",
+          "username": "Sam."
+        },
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        },
+        {
+          "uid": "1011113",
+          "username": "Dan."
+        },
+        {
+          "uid": "401421",
+          "username": "blackshades"
+        },
+        {
+          "uid": "1137768",
+          "username": "Kohsti"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Judge Dredd became owner of Complexity, with bugga and ShadowCloud as leaders.",
+      "thread": "http://hackforums.net/showthread.php?tid=3463179",
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "661940",
+          "username": "bugga"
+        },
+        {
+          "uid": "272608",
+          "username": "ShadowCloud"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Canonsx130's '[Bookmark] The Ultimate Coding Collection - BOOKS, TUTORIALS, SITES'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3463179",
+      "users": [
+        {
+          "uid": "1774338",
+          "username": "Canonsx130"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Computer Professor's 'Custom PC Service'.",
+      "thread": "http://hackforums.net/showthread.php?tid=3293661",
+      "users": [
+        {
+          "uid": "874137",
+          "username": "Computer Professor"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with 'Snorlax conducted by Connected; covers his booter business, his goal of becoming a Mentor, his views on Omniscient's new stresser policy, and his thoughts on Complexity.",
+      "thread": "http://hackforums.net/showthread.php?tid=3293661",
+      "users": [
+        {
+          "uid": "1050193",
+          "username": "Connected"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Mr. Donuts conducted by SkyGuy; covers his Minecraft origins, recent Legacy membership, and griefing of abusive servers.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1121679",
+          "username": "SkyGuy"
+        },
+        {
+          "uid": "1201590",
+          "username": "Mr. Donuts"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "121196",
+          "username": "Natha",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "469528",
+          "username": "Odin the Wanderer",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody‍",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "190854",
+          "username": "CarrotMilk",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Anima Libera",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "632426",
+          "username": "+Awesome",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "763021",
+          "username": "Retribute",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "11953",
+      "username": "Nyx-"
+    },
+    {
+      "uid": "44755",
+      "username": "'Snorlax"
+    },
+    {
+      "uid": "54244",
+      "username": "Condoms"
+    },
+    {
+      "uid": "121196",
+      "username": "Natha"
+    },
+    {
+      "uid": "126704",
+      "username": "Rhythm"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "190854",
+      "username": "CarrotMilk"
+    },
+    {
+      "uid": "272608",
+      "username": "ShadowCloud"
+    },
+    {
+      "uid": "323740",
+      "username": "Positive"
+    },
+    {
+      "uid": "401421",
+      "username": "blackshades"
+    },
+    {
+      "uid": "454666",
+      "username": "adampelletgun"
+    },
+    {
+      "uid": "469528",
+      "username": "Odin the Wanderer"
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "572087",
+      "username": "Nidhish"
+    },
+    {
+      "uid": "632426",
+      "username": "+Awesome"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "651337",
+      "username": "Tibit"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish"
+    },
+    {
+      "uid": "661940",
+      "username": "bugga"
+    },
+    {
+      "uid": "692131",
+      "username": "Anima Libera"
+    },
+    {
+      "uid": "716331",
+      "username": "Cryptic™"
+    },
+    {
+      "uid": "720138",
+      "username": "Kyle Novichkov"
+    },
+    {
+      "uid": "763021",
+      "username": "Retribute"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "868055",
+      "username": "Toph"
+    },
+    {
+      "uid": "874137",
+      "username": "Computer Professor"
+    },
+    {
+      "uid": "985014",
+      "username": "Mauler"
+    },
+    {
+      "uid": "1011113",
+      "username": "Dan."
+    },
+    {
+      "uid": "1050193",
+      "username": "Connected"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1137768",
+      "username": "Kohsti"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody‍"
+    },
+    {
+      "uid": "1181919",
+      "username": "LevelUp"
+    },
+    {
+      "uid": "1189410",
+      "username": "Alien."
+    },
+    {
+      "uid": "1201590",
+      "username": "Mr. Donuts"
+    },
+    {
+      "uid": "1232842",
+      "username": "#Skyline"
+    },
+    {
+      "uid": "1263952",
+      "username": "Daisy"
+    },
+    {
+      "uid": "1306528",
+      "username": "xadamxk"
+    },
+    {
+      "uid": "1315365",
+      "username": "+Amaze"
+    },
+    {
+      "uid": "1597526",
+      "username": "Sam."
+    },
+    {
+      "uid": "1707990",
+      "username": "Southern"
+    },
+    {
+      "uid": "1774338",
+      "username": "Canonsx130"
+    }
+  ]
+}

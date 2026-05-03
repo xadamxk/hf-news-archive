@@ -1,0 +1,505 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient brought the upgrade system back online with new features (gifting checks, no upgrades on closed/banned/staff accounts), updated prices ($13 3p1c, $18 L33T, $25 Ub3r), and BTC alongside PayPal payment.",
+      "thread": "http://hackforums.net/showthread.php?tid=4533576",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added a new Verify Secret feature in the Extras tab to authenticate XMPP buddies via OTR, with a daily-rotating secret to prevent reuse.",
+      "thread": "http://hackforums.net/showthread.php?tid=4526830",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "bοxxy hit 1,000 reputation points.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "2177496",
+          "username": "bοxxy"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Psychedelic MoDz was banned and repfucked for proxy selling for a banned member; elvy666 was banned for harassing members; Αgent and Kioshi were banned/closed for multi-accounting (Kioshi also repfucked); *Moo was banned for sales trashing; Carl Sagan was banned for trolling; ๖ۣۜMaster's account was banned as a precaution after being compromised; Dex‌ and Тeen were closed (Тeen also repfucked); Ad☮be was repfucked; Mapl3 was repfucked after Ub3r refund.",
+      "thread": "http://hackforums.net/showthread.php?tid=4530501",
+      "users": [
+        {
+          "uid": "1109504",
+          "username": "Psychedelic MoDz"
+        },
+        {
+          "uid": "117440",
+          "username": "elvy666"
+        },
+        {
+          "uid": "2153563",
+          "username": "Αgent"
+        },
+        {
+          "uid": "1698730",
+          "username": "Kioshi"
+        },
+        {
+          "uid": "149068",
+          "username": "*Moo"
+        },
+        {
+          "uid": "130245",
+          "username": "Carl Sagan"
+        },
+        {
+          "uid": "2267727",
+          "username": "๖ۣۜMaster"
+        },
+        {
+          "uid": "1607053",
+          "username": "Dex‌"
+        },
+        {
+          "uid": "1822561",
+          "username": "Тeen"
+        },
+        {
+          "uid": "1707228",
+          "username": "Ad☮be"
+        },
+        {
+          "uid": "2192405",
+          "username": "Mapl3"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Understalker was banned for LQP, received the Asswipe and Flamer awards, and had his Award Whore removed; Grievous donated for Master Donator and received the Hustler award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Vinnie announced a total revamp of Instinct, transforming it into a new group called Nightfall aimed at the HF gaming community and new alliances.",
+      "thread": "http://hackforums.net/showthread.php?tid=4535999",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Crypto™ was added as leader of Polymath; Nobility was added as leader of *#@?&%! (Instinct/Nightfall); Vape was added as leader of Revolution.",
+      "thread": "http://hackforums.net/showthread.php?tid=4536548",
+      "users": [
+        {
+          "uid": "1088934",
+          "username": "Crypto™"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility"
+        },
+        {
+          "uid": "2010382",
+          "username": "Vape"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with HOUstoner conducted by 630; covers his MineClash prison Minecraft server co-owned with Soxy and Lingo, his FIFA spending, and his lukewarm view of HackerCraft's revival.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "827057",
+          "username": "HOUstoner"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Cooligan conducted by Justin Timberlake; covers Omniscient suggesting his username, his Lounge/SRPP activity, his hypothetical Empire-style group, and his service desk job.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "1st Editor / Podcast"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2181647",
+          "username": "Turtle",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "969003",
+          "username": "Troye",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News) / Overseer"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Task Manager"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "777",
+      "username": "Cooligan"
+    },
+    {
+      "uid": "44755",
+      "username": "Snorlax'"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "117440",
+      "username": "elvy666"
+    },
+    {
+      "uid": "130245",
+      "username": "Carl Sagan"
+    },
+    {
+      "uid": "149068",
+      "username": "*Moo"
+    },
+    {
+      "uid": "370475",
+      "username": "Vegas"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827057",
+      "username": "HOUstoner"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "969003",
+      "username": "Troye"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1109504",
+      "username": "Psychedelic MoDz"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1166170",
+      "username": "zасh"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1446355",
+      "username": "Trust"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1607053",
+      "username": "Dex‌"
+    },
+    {
+      "uid": "1698730",
+      "username": "Kioshi"
+    },
+    {
+      "uid": "1707228",
+      "username": "Ad☮be"
+    },
+    {
+      "uid": "1726101",
+      "username": "Understalker"
+    },
+    {
+      "uid": "1754121",
+      "username": "Grievous"
+    },
+    {
+      "uid": "1822561",
+      "username": "Тeen"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "2010382",
+      "username": "Vape"
+    },
+    {
+      "uid": "2015410",
+      "username": "ӍeshCollider"
+    },
+    {
+      "uid": "2153563",
+      "username": "Αgent"
+    },
+    {
+      "uid": "2177496",
+      "username": "bοxxy"
+    },
+    {
+      "uid": "2181647",
+      "username": "Turtle"
+    },
+    {
+      "uid": "2192405",
+      "username": "Mapl3"
+    },
+    {
+      "uid": "2267727",
+      "username": "๖ۣۜMaster"
+    }
+  ]
+}

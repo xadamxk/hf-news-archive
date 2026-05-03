@@ -1,0 +1,337 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient removed thread view counts because botters were artificially inflating views (and effectively DDoSing the site). Members can still view their own thread counts via User CP and subscribed threads.",
+      "thread": "http://hackforums.net/showthread.php?tid=1916117",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient added the MyTweets plugin to Hack Forums after its success on Support Forums; the official HF Twitter feed now displays on his profile.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "The postbit buttons were converted to CSS to improve thread loading times.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "The Reverence group dropped the Coders section completely, attributed to lack of commitment from the coders.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "site",
+      "description": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the longest in a long time.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Bytes had his email and personal information compromised.",
+      "thread": "http://hackforums.net/showthread.php?tid=1916117",
+      "users": [
+        {
+          "username": "Bytes",
+          "uid": "767002"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "CM Punk returned to Hack Forums after a two-and-a-half-month absence.",
+      "thread": "http://hackforums.net/showthread.php?tid=1916117",
+      "users": [
+        {
+          "username": "CM Punk",
+          "uid": "229123"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tate was banned until 12-10-2011 with the reason 'Tired of your attention whoring,' triggered by his thread defending thread view counts.",
+      "thread": "http://hackforums.net/showthread.php?tid=1908602",
+      "users": [
+        {
+          "uid": "101228",
+          "username": "Tate"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Interesting Thread: Tate's 'Why thread views are important' — the post that got him banned.",
+      "thread": "http://hackforums.net/showthread.php?tid=1908602",
+      "users": [
+        {
+          "uid": "101228",
+          "username": "Tate"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Contest Thread: Decoy's SE Nation giveaway — three Amazon Kindle DXs for posting on his Social Engineering forum.",
+      "thread": "http://hackforums.net/showthread.php?tid=1895984",
+      "users": [
+        {
+          "uid": "126243",
+          "username": "Decoy"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Informative Thread: Genuine's lengthy explanation of what the Bragging Rights section is, addressing common misconceptions.",
+      "thread": "http://hackforums.net/showthread.php?tid=1920393",
+      "users": [
+        {
+          "username": "Genuine",
+          "uid": "646916"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "SRPP Thread: clectric's debate thread on the true definition of evil.",
+      "thread": "http://hackforums.net/showthread.php?tid=1924843",
+      "users": [
+        {
+          "username": "clectric",
+          "uid": "617612"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Minecraft Mobile Thread: treestompz's review of a new 2D Minecraft-like Apple mobile app.",
+      "thread": "http://hackforums.net/showthread.php?tid=1893545",
+      "users": [
+        {
+          "username": "treestompz",
+          "uid": "864621"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Runescape Thread: maniac compromised an RSbuddy.com moderator account and released the entire moderator section to the internet.",
+      "thread": "http://hackforums.net/showthread.php?tid=1925359",
+      "users": [
+        {
+          "username": "maniac"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "N3w_2_H@Ck1n™ was made a leader of Reverence; Wolves was made a leader of Black Knights.",
+      "thread": null,
+      "users": [
+        {
+          "username": "N3w_2_H@Ck1n™"
+        },
+        {
+          "username": "Wolves",
+          "uid": "651051"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vanadium received the Businessman award; Spafic received the Gold Medal for 10,000 posts; VeNoMz received the RAT Expert award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "151894",
+          "username": "Vanadium"
+        },
+        {
+          "username": "Spafic",
+          "uid": "47962"
+        },
+        {
+          "username": "VeNoMz",
+          "uid": "454600"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Reliable conducted by Michael Westen; covers the FuZioN Crypter, Plague Booter, Epic Web Hosting, and his upgrade journey.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        },
+        {
+          "username": "Reliable"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Bentley conducted by Michael Westen; covers his joining HF for booters, time in the VIP area, and ideas for HF improvements.",
+      "thread": null,
+      "users": [
+        {
+          "username": "Michael Westen",
+          "uid": "735315"
+        },
+        {
+          "username": "Bentley",
+          "uid": "679685"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / User News / Opinions"
+        },
+        {
+          "username": "Diabolic",
+          "role": "Journalist (Headlines)",
+          "uid": "330676"
+        },
+        {
+          "username": "TheHackersLove",
+          "role": "Journalist (World News)",
+          "uid": "570186"
+        },
+        {
+          "username": "Michael Westen",
+          "role": "Interviewer",
+          "uid": "735315"
+        },
+        {
+          "username": "Daniel Faraday",
+          "role": "Interviewer",
+          "uid": "366559"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Web Show Co-Host"
+        },
+        {
+          "username": "Tasemu",
+          "role": "Graphical Editor",
+          "uid": "62795"
+        },
+        {
+          "username": "Ignite.",
+          "role": "Reporter",
+          "uid": "946680"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "47962",
+      "username": "Spafic"
+    },
+    {
+      "uid": "62795",
+      "username": "Tasemu"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate"
+    },
+    {
+      "uid": "126243",
+      "username": "Decoy"
+    },
+    {
+      "uid": "151894",
+      "username": "Vanadium"
+    },
+    {
+      "uid": "229123",
+      "username": "CM Punk"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "366559",
+      "username": "Daniel Faraday"
+    },
+    {
+      "uid": "454600",
+      "username": "VeNoMz"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "570186",
+      "username": "TheHackersLove"
+    },
+    {
+      "uid": "617612",
+      "username": "clectric"
+    },
+    {
+      "uid": "646916",
+      "username": "Genuine"
+    },
+    {
+      "uid": "651051",
+      "username": "Wolves"
+    },
+    {
+      "uid": "657392",
+      "username": "Astonish is NJ"
+    },
+    {
+      "uid": "679685",
+      "username": "Bentley"
+    },
+    {
+      "uid": "735315",
+      "username": "Michael Westen"
+    },
+    {
+      "uid": "767002",
+      "username": "Bytes"
+    },
+    {
+      "uid": "864621",
+      "username": "treestompz"
+    },
+    {
+      "uid": "946680",
+      "username": "Ignite."
+    }
+  ]
+}

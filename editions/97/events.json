@@ -1,0 +1,447 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a new 'Networking, Routers, Switches, and Firewalls' section.",
+      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Banned-member usertitle changed to 'Exiled'; modlist.php was renamed to showmods.php.",
+      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient confirmed an upcoming close-protection feature similar to logout protection (helpful for l33ts who can't reopen accidentally closed threads).",
+      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Techsperts has been revamped into 'Rhythm', a unique music-themed group.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "groups",
+      "description": "The Coders group leaders finally paid off the remaining group payments.",
+      "thread": null,
+      "users": []
+    },
+    {
+      "category": "users",
+      "description": "Yin, the founder of the HF News and an ex-Staff member, returned to HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=2603171",
+      "users": [
+        {
+          "uid": "74244",
+          "username": "Yin"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Tate Sr. returned briefly and posted a thread about an odd plan.",
+      "thread": "http://hackforums.net/showthread.php?tid=2603712",
+      "users": [
+        {
+          "uid": "101228",
+          "username": "Tate Sr."
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Musky stole Diabolic's username to scam other members; he was repfucked and banned for being LQ.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "414404",
+          "username": "Musky"
+        },
+        {
+          "uid": "330676",
+          "username": "Diabolic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Vitani's Mate's account was merged with an old account, pushing his registration date back about a year.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "651773",
+          "username": "Vitani's Mate"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Judge Dredd handed out numerous -10 ratings this week and banned about 20 members for being low quality.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Zуνoχ™ was banned for posting a picture of Omniscient roasting toast with laser eyes.",
+      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "users": [
+        {
+          "uid": "358978",
+          "username": "Zуνoχ™"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Reptar ツ was banned for flaming in reputation; Protein was banned for challenging a warning.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "87114",
+          "username": "Reptar ツ"
+        },
+        {
+          "uid": "1053743",
+          "username": "Protein"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Infallible was banned for 'making a wrong move'.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "170785",
+          "username": "Infallible"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's thread on whether sexual harassment in video games is 'ethically wrong' to remove.",
+      "thread": "http://hackforums.net/showthread.php?tid=2610018",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Mr. Anderson's 'LOL @ Virgin gamers' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2597542",
+      "users": [
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "HC's 'We live in a society where...' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2598912",
+      "users": [
+        {
+          "uid": "1340433",
+          "username": "HC"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Horkos's 'What was your dream last night?' thread.",
+      "thread": "http://hackforums.net/showthread.php?tid=2595609",
+      "users": [
+        {
+          "uid": "65167",
+          "username": "Horkos"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "xerotic is no longer a group leader of Rhythm; BasedGod is now a leader of Rhythm.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        },
+        {
+          "uid": "1087815",
+          "username": "BasedGod"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Hexicidal conducted by RDCA; covers his ownership of Coders, group goals, and future plans.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "580684",
+          "username": "RDCA"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Vitani's Mate conducted by Phytrix; covers his 50K post milestone, recent account merge, and Vitani admiration.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1018876",
+          "username": "Phytrix"
+        },
+        {
+          "uid": "651773",
+          "username": "Vitani's Mate"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Lemonade conducted by SoulZeh; covers his Reviewers leadership, HJT training experience, and HF outlook.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "516470",
+          "username": "SoulZeh"
+        },
+        {
+          "uid": "731778",
+          "username": "Lemonade"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+        },
+        {
+          "uid": "891268",
+          "username": "OnTheFly",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)",
+          "uid": "138559"
+        },
+        {
+          "uid": "1115097",
+          "username": "TheVortex",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "114319",
+          "username": "Mr. Anderson",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "username": "ρяιη¢є",
+          "role": "Journalist (Tech News)",
+          "uid": "903914"
+        },
+        {
+          "username": "Bay",
+          "role": "Journalist (Music News)",
+          "uid": "434812"
+        },
+        {
+          "username": "AvidWB",
+          "role": "Webshow Host",
+          "uid": "1323486"
+        },
+        {
+          "uid": "1018876",
+          "username": "Phytrix",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "516470",
+          "username": "SoulZeh",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "687297",
+          "username": "Barneyyz™",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "1114432",
+          "username": "PyroStorm",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "65167",
+      "username": "Horkos"
+    },
+    {
+      "uid": "74244",
+      "username": "Yin"
+    },
+    {
+      "uid": "87114",
+      "username": "Reptar ツ"
+    },
+    {
+      "uid": "101228",
+      "username": "Tate Sr."
+    },
+    {
+      "uid": "114319",
+      "username": "Mr. Anderson"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "170785",
+      "username": "Infallible"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "330676",
+      "username": "Diabolic"
+    },
+    {
+      "uid": "358978",
+      "username": "Zуνoχ™"
+    },
+    {
+      "uid": "414404",
+      "username": "Musky"
+    },
+    {
+      "uid": "434812",
+      "username": "Bay"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "516470",
+      "username": "SoulZeh"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "651773",
+      "username": "Vitani's Mate"
+    },
+    {
+      "uid": "687297",
+      "username": "Barneyyz™"
+    },
+    {
+      "uid": "731778",
+      "username": "Lemonade"
+    },
+    {
+      "uid": "863752",
+      "username": "Hexicidal"
+    },
+    {
+      "uid": "891268",
+      "username": "OnTheFly"
+    },
+    {
+      "uid": "903914",
+      "username": "ρяιη¢є"
+    },
+    {
+      "uid": "1018876",
+      "username": "Phytrix"
+    },
+    {
+      "uid": "1053743",
+      "username": "Protein"
+    },
+    {
+      "uid": "1087815",
+      "username": "BasedGod"
+    },
+    {
+      "uid": "1114432",
+      "username": "PyroStorm"
+    },
+    {
+      "uid": "1115097",
+      "username": "TheVortex"
+    },
+    {
+      "uid": "1323486",
+      "username": "AvidWB"
+    },
+    {
+      "uid": "1340433",
+      "username": "HC"
+    }
+  ]
+}

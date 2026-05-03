@@ -1,0 +1,80 @@
+{
+    "events": [
+        {
+            "topic": "site",
+            "title": "Good Will Monday returns; members encouraged to give 5 positive reps.",
+            "url": "http://hackforums.net/showthread.php?tid=1354903",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Awards Story thread launched; creative award-icon stories rewarded.",
+            "url": "http://hackforums.net/showthread.php?tid=1356705",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Crackdown on 'final blaze of glory' rant threads.",
+            "url": "http://hackforums.net/showthread.php?tid=1356147",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "All stickies reset; new policy: only Omni selects stickies; new Sticky Man award added.",
+            "url": "http://hackforums.net/showthread.php?tid=1358781",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "Server moved to improve latency.",
+            "url": "http://hackforums.net/showthread.php?tid=1346927",
+            "related_users": [
+                "Omniscient"
+            ]
+        },
+        {
+            "topic": "site",
+            "title": "New MapleStory subforum created.",
+            "url": "http://hackforums.net/forumdisplay.php?fid=197",
+            "related_users": []
+        },
+        {
+            "topic": "users",
+            "title": "Qwazz Star award introduced (exclusive by Qwazz); first recipient: xerotic.",
+            "url": "http://hackforums.net/showthread.php?tid=1346143",
+            "related_users": [
+                "Qwazz",
+                "xerotic"
+            ]
+        },
+        {
+            "topic": "groups",
+            "title": "RATs Crew launches weekly 'Tips n’ Tricks' series.",
+            "url": "http://hackforums.net/showthread.php?tid=1326112",
+            "related_users": []
+        }
+    ],
+    "users": [
+        {
+            "username": "Omniscient",
+            "uid": 1
+        },
+        {
+            "username": "Qwazz",
+            "uid": 295848
+        },
+        {
+            "username": "xerotic",
+            "uid": 175033
+        }
+    ]
+}
+

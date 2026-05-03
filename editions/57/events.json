@@ -1,0 +1,254 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient created a new Premium Ebook Bazaar section under the Marketplace. All e-books posted there must be reviewed by the Reviewers team; -BoodyE- is the section's official moderator.",
+      "thread": "http://hackforums.net/showthread.php?tid=1683628",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "115612",
+          "username": "-BoodyE-"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient dismantled the Malvager group and removed the IRC link from the top of HF pages.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient created a new Blizzards Battle.net forum category with World of Warcraft, Starcraft Series, and Diablo sub-forums.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "тнє Jσкєя was disqualified for August's Member of the Month; Joey Tribbiani won MOTM for August.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "729921",
+          "username": "тнє Jσкєя"
+        },
+        {
+          "uid": "545127",
+          "username": "Joey Tribbiani"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "xerotic and AsSaSs@iN are no longer Staff at HackForums; both have been moved to the Mentor position. AsSaSs@iN resigned to focus on his studies; xerotic's demotion reason is not publicly known.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "175033",
+          "username": "xerotic"
+        },
+        {
+          "uid": "70909",
+          "username": "AsSaSs@iN"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Following an attempted hostile takeover of HF News (Cobalt+ handed it to Judge Dredd under harassment, then tried to recover it), Omniscient created a new group called Writ3rs to control the HF wiki, help docs, and HF News. Initial members are Sir, itylernallen, and Omniscient.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir"
+        },
+        {
+          "username": "itylernallen",
+          "uid": "43036"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Valiant accepted the newest batch of HJT Members.",
+      "thread": "http://hackforums.net/showthread.php?tid=1686998",
+      "users": [
+        {
+          "uid": "45246",
+          "username": "Valiant"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "тнє Jσкєя hit the 2,000 positive reputation milestone, becoming the third member to do so.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "729921",
+          "username": "тнє Jσкєя"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Shinkirou and Peter Chao both graduated from the HJT program.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "56680",
+          "username": "Shinkirou"
+        },
+        {
+          "uid": "129812",
+          "username": "Peter Chao"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Minnesota Nice is celebrating 2 years on Hack Forums and a total of 18,000 posts; he registered around the same time The Rated R Superstar became staff.",
+      "thread": "http://hackforums.net/showthread.php?tid=1681546",
+      "users": [
+        {
+          "uid": "93419",
+          "username": "Minnesota Nice"
+        },
+        {
+          "uid": "30595",
+          "username": "The Rated R Superstar"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "The Rated R Superstar created a thread reflecting on his 2 years of staffing at HF.",
+      "thread": "http://hackforums.net/showthread.php?tid=1681282",
+      "users": [
+        {
+          "uid": "30595",
+          "username": "The Rated R Superstar"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "BV1 ツ, DaL33T, and Orgy's project Booter Down has claimed the lives of over 30 shell booters and is currently targeting 50.",
+      "thread": "http://hackforums.net/showthread.php?tid=1685779",
+      "users": [
+        {
+          "uid": "40895",
+          "username": "BV1 ツ"
+        },
+        {
+          "uid": "303649",
+          "username": "DaL33T"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "4066",
+      "username": "Judge Dredd"
+    },
+    {
+      "uid": "30595",
+      "username": "The Rated R Superstar"
+    },
+    {
+      "uid": "40895",
+      "username": "BV1 ツ"
+    },
+    {
+      "uid": "43036",
+      "username": "itylernallen"
+    },
+    {
+      "uid": "45246",
+      "username": "Valiant"
+    },
+    {
+      "uid": "56680",
+      "username": "Shinkirou"
+    },
+    {
+      "uid": "70909",
+      "username": "AsSaSs@iN"
+    },
+    {
+      "uid": "93419",
+      "username": "Minnesota Nice"
+    },
+    {
+      "uid": "115612",
+      "username": "-BoodyE-"
+    },
+    {
+      "uid": "129812",
+      "username": "Peter Chao"
+    },
+    {
+      "uid": "175033",
+      "username": "xerotic"
+    },
+    {
+      "uid": "182754",
+      "username": "Orgy"
+    },
+    {
+      "uid": "277712",
+      "username": "Cobalt+"
+    },
+    {
+      "uid": "303649",
+      "username": "DaL33T"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "545127",
+      "username": "Joey Tribbiani"
+    },
+    {
+      "uid": "729921",
+      "username": "тнє Jσкєя"
+    }
+  ]
+}

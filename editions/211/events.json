@@ -1,0 +1,510 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient deleted the Official groups Illuminati and Legion after closing the account of their owner Αnonymous over numerous $1,000+ scam reports; Vinnie, a leader of both groups, was given a 3-day ban while Nobility took a vacation ban.",
+      "thread": "http://hackforums.net/showthread.php?tid=4396926",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "677529",
+          "username": "Αnonymous"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient implemented a shortened search flood time for EP1C users (5 seconds instead of 25), and added a 1-second post/PM flood time feature for combined EP1C and Ub3r users.",
+      "thread": "http://hackforums.net/showthread.php?tid=4507617",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient changed the Red Ruby Master Donator award so it is no longer accumulative and now requires a one-time $500+ donation; existing accumulators have until December 1st, 2014 to qualify under the old rule.",
+      "thread": "http://hackforums.net/showthread.php?tid=4508616",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Factor8™ hit 1,000 reputation points; Aurа became a moderator of the Miscellaneous Computer Talk section.",
+      "thread": "http://hackforums.net/showthread.php?tid=4508616",
+      "users": [
+        {
+          "uid": "103669",
+          "username": "Factor8™"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Sky was banned and repfucked; ๖ۣۜFishℓegs was banned and repfucked for leaking; Ortek was banned for failing to prove account ownership; Skulk was banned and repfucked for a reputation violation; Razmus had their account closed for attempting to sell it.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1198761",
+          "username": "Sky"
+        },
+        {
+          "uid": "1095351",
+          "username": "๖ۣۜFishℓegs"
+        },
+        {
+          "uid": "2229448",
+          "username": "Ortek"
+        },
+        {
+          "uid": "1648318",
+          "username": "Skulk"
+        },
+        {
+          "uid": "1085827",
+          "username": "Razmus"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Gt403cyl donated for Master Donator and received the Cool award; Cyrus donated for Master Donator and received the Hot Dog award; cycloid received the Businessman award.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1125893",
+          "username": "Gt403cyl"
+        },
+        {
+          "uid": "1671547",
+          "username": "Cyrus"
+        },
+        {
+          "uid": "2424773",
+          "username": "cycloid"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Zero was re-listed for sale by group owner syrah for $9,000 USD via Bitcoin, PayPal, COD, Bank Wire, or Western Union.",
+      "thread": "http://hackforums.net/showthread.php?tid=4502518",
+      "users": [
+        {
+          "uid": "1763815",
+          "username": "syrah"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "description": "Nivarka was added as a leader of Instinct.",
+      "thread": "http://hackforums.net/showthread.php?tid=4501275",
+      "users": [
+        {
+          "uid": "692605",
+          "username": "Nivarka"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Crypto™ conducted by Clark; covers his six years of web development, his transition from HTML to Node.js/NoSQL, his Omnicoin News co-writing role, and his Writ3rs experience.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with TheCause conducted by 630; covers his Computer Science studies, the MHF TinyChat room, his views on scammer handling, and his Instinct subforum activity.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "797403",
+          "username": "630"
+        },
+        {
+          "uid": "1092491",
+          "username": "TheCause"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "1st Editor / Podcast"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2181647",
+          "username": "Turtle",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "580684",
+          "username": "RDCA",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "969003",
+          "username": "Troye",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "692605",
+          "username": "Nivarka",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1775114",
+          "username": "Renium",
+          "role": "Art Gallery"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Task Manager"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Overseer"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "777",
+      "username": "Cooligan"
+    },
+    {
+      "uid": "44755",
+      "username": "Snorlax'"
+    },
+    {
+      "uid": "96230",
+      "username": "Panik"
+    },
+    {
+      "uid": "103669",
+      "username": "Factor8™"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "580684",
+      "username": "RDCA"
+    },
+    {
+      "uid": "600771",
+      "username": "Vinnie"
+    },
+    {
+      "uid": "677529",
+      "username": "Αnonymous"
+    },
+    {
+      "uid": "692605",
+      "username": "Nivarka"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "789677",
+      "username": "Grin"
+    },
+    {
+      "uid": "797403",
+      "username": "630"
+    },
+    {
+      "uid": "827711",
+      "username": "D3xus"
+    },
+    {
+      "uid": "969003",
+      "username": "Troye"
+    },
+    {
+      "uid": "992067",
+      "username": "Nobility"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1085827",
+      "username": "Razmus"
+    },
+    {
+      "uid": "1088934",
+      "username": "Crypto™"
+    },
+    {
+      "uid": "1092491",
+      "username": "TheCause"
+    },
+    {
+      "uid": "1095351",
+      "username": "๖ۣۜFishℓegs"
+    },
+    {
+      "uid": "1108450",
+      "username": "Baghead"
+    },
+    {
+      "uid": "1125893",
+      "username": "Gt403cyl"
+    },
+    {
+      "uid": "1138866",
+      "username": "Rivalry"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "Cody"
+    },
+    {
+      "uid": "1198761",
+      "username": "Sky"
+    },
+    {
+      "uid": "1290620",
+      "username": "Designer"
+    },
+    {
+      "uid": "1320406",
+      "username": "Froggy"
+    },
+    {
+      "uid": "1422600",
+      "username": "Fox™"
+    },
+    {
+      "uid": "1439038",
+      "username": "Doctor Blue"
+    },
+    {
+      "uid": "1446355",
+      "username": "Trust"
+    },
+    {
+      "uid": "1453009",
+      "username": "Raptor."
+    },
+    {
+      "uid": "1495835",
+      "username": "Aurа"
+    },
+    {
+      "uid": "1648318",
+      "username": "Skulk"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1671547",
+      "username": "Cyrus"
+    },
+    {
+      "uid": "1763815",
+      "username": "syrah"
+    },
+    {
+      "uid": "1775114",
+      "username": "Renium"
+    },
+    {
+      "uid": "1958081",
+      "username": "Justin Timberlake"
+    },
+    {
+      "uid": "2015410",
+      "username": "ӍeshCollider"
+    },
+    {
+      "uid": "2181647",
+      "username": "Turtle"
+    },
+    {
+      "uid": "2229448",
+      "username": "Ortek"
+    },
+    {
+      "uid": "2424773",
+      "username": "cycloid"
+    }
+  ]
+}

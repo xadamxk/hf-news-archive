@@ -1,0 +1,382 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "description": "Omniscient added a new Defense of the Ancients (DotA) subforum under the Gaming tab following an influx of discussion threads about the game.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "description": "Omniscient announced that accounts with no login or activity for over one year will be closed, with upgraded L33t and Ub3r members no longer exempt, aimed at curbing sales of old accounts.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "description": "Notable Thread: Thyonic's 'How smart is HackForums? 2+2+2+2+2+2+2+2+2+2+2+2+2+2+2*0', revived after years and reignited Order of Operations debate.",
+      "thread": "http://hackforums.net/showthread.php?tid=1861119",
+      "users": [
+        {
+          "uid": "67412",
+          "username": "Thyonic"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Bandors, mad, and BitMoney hit 1,000 reputation.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "1189774",
+          "username": "Bandors"
+        },
+        {
+          "uid": "482888",
+          "username": "mad"
+        },
+        {
+          "uid": "1695694",
+          "username": "BitMoney"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "_Silky was repfucked and banned for multiple accounts; Frohe was repfucked and banned for continued rep abuse; SkyGuy was repfucked and had his account closed; Mortality was repfucked for reputation abuse.",
+      "thread": "http://hackforums.net/showthread.php?tid=3726185",
+      "users": [
+        {
+          "uid": "1659995",
+          "username": "_Silky"
+        },
+        {
+          "uid": "527919",
+          "username": "Frohe"
+        },
+        {
+          "uid": "1121679",
+          "username": "SkyGuy"
+        },
+        {
+          "uid": "1584453",
+          "username": "Mortality"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Klusterfuk and Mike were banned and told to use the Contact Form to verify ownership; Badass was banned for ub3r reversal; Nutrients was banned for post delete.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "990843",
+          "username": "Klusterfuk"
+        },
+        {
+          "uid": "2045133",
+          "username": "Mike"
+        },
+        {
+          "uid": "861282",
+          "username": "Badass"
+        },
+        {
+          "uid": "1793976",
+          "username": "Nutrients"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "description": "Ðexter received the Sticky Man award; Robust received the Diamond award; Skitlz donated for Master Donator.",
+      "thread": "http://hackforums.net/showthread.php?tid=3726185",
+      "users": [
+        {
+          "uid": "1263503",
+          "username": "Ðexter"
+        },
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        },
+        {
+          "uid": "1839274",
+          "username": "Skitlz"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Ty conducted by Saturday; covers his hosting business, his Minecraft server with Finearts, his HackerCraft activity, ebook sales and his Monster Products venture.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "787112",
+          "username": "Saturday"
+        },
+        {
+          "uid": "1871421",
+          "username": "Ty ™"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Mommy conducted by Clark; covers his TTG/gamertag origins, competitive Call of Duty play, and goals of reaching 10k posts and 1,000 rep.",
+      "thread": "http://hackforums.net/showthread.php?tid=4030042",
+      "users": [
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        },
+        {
+          "uid": "958226",
+          "username": "Mommy"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "description": "Interview with Clark conducted by Clique; covers his old Education/Debra Morgan aliases, his Python learning via 'glob aka catalyst' and Coursera, his job at a gas station, and Writ3rs membership.",
+      "thread": "http://hackforums.net/showthread.php?tid=4030042",
+      "users": [
+        {
+          "uid": "1148878",
+          "username": "Clique"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "description": "Contributors to this edition.",
+      "thread": null,
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+        },
+        {
+          "uid": "1172544",
+          "username": "awhty",
+          "role": "Journalist (User News) / Reporter"
+        },
+        {
+          "uid": "138559",
+          "username": "MarkMare",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1645227",
+          "username": "Lovol",
+          "role": "Journalist (Minecraft News)"
+        },
+        {
+          "uid": "1082656",
+          "username": "Mohatu",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "752389",
+          "username": "eiqhtworks",
+          "role": "Journalist (Music News)"
+        },
+        {
+          "uid": "692131",
+          "username": "Yuzuha",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturday",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "884903",
+          "username": "Unreputed",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "139340",
+          "username": "Poseidon",
+          "role": "Graphical Editor"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Reporter"
+        },
+        {
+          "uid": "891000",
+          "username": "Xerucide",
+          "role": "Proofreader"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Omniscient"
+    },
+    {
+      "uid": "67412",
+      "username": "Thyonic"
+    },
+    {
+      "uid": "138559",
+      "username": "MarkMare"
+    },
+    {
+      "uid": "139340",
+      "username": "Poseidon"
+    },
+    {
+      "uid": "482888",
+      "username": "mad"
+    },
+    {
+      "uid": "515249",
+      "username": "Sir"
+    },
+    {
+      "uid": "524451",
+      "username": "Yellows"
+    },
+    {
+      "uid": "527919",
+      "username": "Frohe"
+    },
+    {
+      "uid": "692131",
+      "username": "Yuzuha"
+    },
+    {
+      "uid": "752389",
+      "username": "eiqhtworks"
+    },
+    {
+      "uid": "787112",
+      "username": "Saturday"
+    },
+    {
+      "uid": "861282",
+      "username": "Badass"
+    },
+    {
+      "uid": "884903",
+      "username": "Unreputed"
+    },
+    {
+      "uid": "891000",
+      "username": "Xerucide"
+    },
+    {
+      "uid": "958226",
+      "username": "Mommy"
+    },
+    {
+      "uid": "990843",
+      "username": "Klusterfuk"
+    },
+    {
+      "uid": "1079277",
+      "username": "Harlem"
+    },
+    {
+      "uid": "1082656",
+      "username": "Mohatu"
+    },
+    {
+      "uid": "1121679",
+      "username": "SkyGuy"
+    },
+    {
+      "uid": "1148878",
+      "username": "Clique"
+    },
+    {
+      "uid": "1172544",
+      "username": "awhty"
+    },
+    {
+      "uid": "1189774",
+      "username": "Bandors"
+    },
+    {
+      "uid": "1205532",
+      "username": "Robust"
+    },
+    {
+      "uid": "1263503",
+      "username": "Ðexter"
+    },
+    {
+      "uid": "1584453",
+      "username": "Mortality"
+    },
+    {
+      "uid": "1645227",
+      "username": "Lovol"
+    },
+    {
+      "uid": "1653635",
+      "username": "Clark"
+    },
+    {
+      "uid": "1659995",
+      "username": "_Silky"
+    },
+    {
+      "uid": "1695694",
+      "username": "BitMoney"
+    },
+    {
+      "uid": "1793976",
+      "username": "Nutrients"
+    },
+    {
+      "uid": "1839274",
+      "username": "Skitlz"
+    },
+    {
+      "uid": "1871421",
+      "username": "Ty ™"
+    },
+    {
+      "uid": "2045133",
+      "username": "Mike"
+    }
+  ]
+}
