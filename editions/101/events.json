@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient created an official Skype account dedicated to HF support — to be used only for important...",
       "description": "Omniscient created an official Skype account dedicated to HF support — to be used only for important issues like stickies, upgrade problems, or donations; he plans to mostly use voice chat due to a recent knuckle injury.",
-      "thread": "http://hackforums.net/showthread.php?tid=2684501",
+      "url": "http://hackforums.net/showthread.php?tid=2684501",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Hack Forums has continued going down for several minutes every few days; Omniscient announced the do...",
       "description": "Hack Forums has continued going down for several minutes every few days; Omniscient announced the downtime is mostly due to SQL maintenance.",
-      "thread": "http://hackforums.net/showthread.php?tid=2684648",
+      "url": "http://hackforums.net/showthread.php?tid=2684648",
       "users": [
         {
           "uid": "1",
@@ -24,13 +26,15 @@
     },
     {
       "category": "groups",
+      "title": "Rhythm and Graphic Masters both began recruiting, looking for members with particular talent in thei...",
       "description": "Rhythm and Graphic Masters both began recruiting, looking for members with particular talent in their respective subjects.",
-      "thread": "http://hackforums.net/showthread.php?tid=2684648"
+      "url": "http://hackforums.net/showthread.php?tid=2684648"
     },
     {
       "category": "users",
+      "title": "Astonish was demoted from Mentors and kicked from the HJT team; reason undisclosed.",
       "description": "Astonish was demoted from Mentors and kicked from the HJT team; reason undisclosed.",
-      "thread": "http://hackforums.net/showthread.php?tid=2684271",
+      "url": "http://hackforums.net/showthread.php?tid=2684271",
       "users": [
         {
           "uid": "657392",
@@ -40,8 +44,9 @@
     },
     {
       "category": "users",
+      "title": "Scooter announced he is leaving Hack Forums.",
       "description": "Scooter announced he is leaving Hack Forums.",
-      "thread": "http://hackforums.net/showthread.php?tid=2694076",
+      "url": "http://hackforums.net/showthread.php?tid=2694076",
       "users": [
         {
           "uid": "361543",
@@ -51,8 +56,9 @@
     },
     {
       "category": "users",
+      "title": "The Master™ was banned and repfucked for trying to sell his account.",
       "description": "The Master™ was banned and repfucked for trying to sell his account.",
-      "thread": "http://hackforums.net/showthread.php?tid=2694076",
+      "url": "http://hackforums.net/showthread.php?tid=2694076",
       "users": [
         {
           "uid": "1222901",
@@ -62,8 +68,9 @@
     },
     {
       "category": "users",
+      "title": "єиιgмα was banned and repfucked for multiple accounts.",
       "description": "єиιgмα was banned and repfucked for multiple accounts.",
-      "thread": "http://hackforums.net/showthread.php?tid=2694076",
+      "url": "http://hackforums.net/showthread.php?tid=2694076",
       "users": [
         {
           "uid": "1135141",
@@ -73,8 +80,9 @@
     },
     {
       "category": "users",
+      "title": "deadlyicedragon was banned and repfucked for reputation abuse.",
       "description": "deadlyicedragon was banned and repfucked for reputation abuse.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1220739",
@@ -84,8 +92,9 @@
     },
     {
       "category": "users",
+      "title": "SuperToad was banned and repfucked for multiple accounts.",
       "description": "SuperToad was banned and repfucked for multiple accounts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1302707",
@@ -95,8 +104,9 @@
     },
     {
       "category": "users",
+      "title": "Bassline was banned and repfucked for selling his account.",
       "description": "Bassline was banned and repfucked for selling his account.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "682899",
@@ -106,8 +116,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Mr.",
       "description": "Lounge Thread: Mr. Anderson's 'Why does god allow gays to be born?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2692989",
+      "url": "http://hackforums.net/showthread.php?tid=2692989",
       "users": [
         {
           "uid": "114319",
@@ -117,8 +128,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: ๖ۣۜMind ๖ۣۜControl™'s 'Pornography, do you agree with it or not?'",
       "description": "Lounge Thread: ๖ۣۜMind ๖ۣۜControl™'s 'Pornography, do you agree with it or not?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2696396",
+      "url": "http://hackforums.net/showthread.php?tid=2696396",
       "users": [
         {
           "uid": "1062927",
@@ -128,8 +140,9 @@
     },
     {
       "category": "threads",
+      "title": "Conspiracy Thread: teh Oracle's 'I Found the Secret to the Universe...",
       "description": "Conspiracy Thread: teh Oracle's 'I Found the Secret to the Universe... // I Saw it All.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2696766",
+      "url": "http://hackforums.net/showthread.php?tid=2696766",
       "users": [
         {
           "uid": "1382658",
@@ -139,8 +152,9 @@
     },
     {
       "category": "threads",
+      "title": "Release Thread: KILLM3's 'CodeGenetix - Universal Keygen [FREE!]'.",
       "description": "Release Thread: KILLM3's 'CodeGenetix - Universal Keygen [FREE!]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2688327",
+      "url": "http://hackforums.net/showthread.php?tid=2688327",
       "users": [
         {
           "uid": "491112",
@@ -150,8 +164,9 @@
     },
     {
       "category": "users",
+      "title": "Cody got the Gamer award; iNviZ got the Drunk award after drinking whiskey with Omniscient; BELLAGIO...",
       "description": "Cody got the Gamer award; iNviZ got the Drunk award after drinking whiskey with Omniscient; BELLAGIO got the Drunk award (no reason given); adampelletgun got the Master Donator award.",
-      "thread": "http://hackforums.net/showthread.php?tid=2684648",
+      "url": "http://hackforums.net/showthread.php?tid=2684648",
       "users": [
         {
           "uid": "1172544",
@@ -177,8 +192,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with phybeя conducted by Phytrix; covers his views on cyber crime awareness, his journey...",
       "description": "Interview with phybeя conducted by Phytrix; covers his views on cyber crime awareness, his journey on HF, his business PhyberPay LLC, success/happiness, stereotypes around upgraded vs. normal members, and groups becoming cliche.",
-      "thread": "http://hackforums.net/showthread.php?tid=2688327",
+      "url": "http://hackforums.net/showthread.php?tid=2688327",
       "users": [
         {
           "uid": "1018876",
@@ -192,8 +208,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Cody conducted by RDCA; covers his generosity (donating, giveaways), love of...",
       "description": "Interview with Cody conducted by RDCA; covers his generosity (donating, giveaways), love of HackForums, group activities, and aspirations to own a group with Daisy.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "580684",
@@ -207,8 +224,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

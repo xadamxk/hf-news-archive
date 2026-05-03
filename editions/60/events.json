@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient announced the new Vouch system will finally be activated, alongside a complete reputation...",
       "description": "Omniscient announced the new Vouch system will finally be activated, alongside a complete reputation reset; administrator reputation will no longer be visible. He is considering keeping a backup of old reputations to be viewable after reset.",
-      "thread": "http://hackforums.net/showthread.php?tid=1746031",
+      "url": "http://hackforums.net/showthread.php?tid=1746031",
       "users": [
         {
           "uid": "1",
@@ -13,23 +14,27 @@
     },
     {
       "category": "site",
+      "title": "The Mentors usergroup now moderates more subforums.",
       "description": "The Mentors usergroup now moderates more subforums.",
-      "thread": "http://hackforums.net/showthread.php?tid=1749008"
+      "url": "http://hackforums.net/showthread.php?tid=1749008"
     },
     {
       "category": "site",
+      "title": "Administrator profile activity is now hidden; visitors only see 'Unknown location' on admin profiles...",
       "description": "Administrator profile activity is now hidden; visitors only see 'Unknown location' on admin profiles.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Non-upgraded members can no longer use images in their signatures; l33t or Ub3r is required.",
       "description": "Non-upgraded members can no longer use images in their signatures; l33t or Ub3r is required.",
-      "thread": "http://hackforums.net/showthread.php?tid=1739748"
+      "url": "http://hackforums.net/showthread.php?tid=1739748"
     },
     {
       "category": "site",
+      "title": "Tiny-Pic, an image host that deletes images linked from HF, has been censored after Rhythm pointed...",
       "description": "Tiny-Pic, an image host that deletes images linked from HF, has been censored after Rhythm pointed out that uppit was already censored but Tiny-Pic was not.",
-      "thread": "http://hackforums.net/showthread.php?tid=1751367",
+      "url": "http://hackforums.net/showthread.php?tid=1751367",
       "users": [
         {
           "uid": "126704",
@@ -39,8 +44,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient warned that PMing him to draw attention to a Suggestions and Ideas thread will get the...",
       "description": "Omniscient warned that PMing him to draw attention to a Suggestions and Ideas thread will get the account repfucked, banned, and 'ripped open like a can of tuna.'",
-      "thread": "http://hackforums.net/showthread.php?tid=1738954",
+      "url": "http://hackforums.net/showthread.php?tid=1738954",
       "users": [
         {
           "uid": "1",
@@ -50,8 +56,9 @@
     },
     {
       "category": "site",
+      "title": "User News is being moved to the Misc.",
       "description": "User News is being moved to the Misc. editions, and a new Opinion section is being added to the main edition where users can submit their thoughts on a weekly topic.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "277712",

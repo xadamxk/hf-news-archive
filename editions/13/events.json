@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Political and religious expression banned in titles, signatures, and avatars.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=671146",
@@ -13,13 +13,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "HF officially #1 MyBB forum by activity.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=653939"
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Omniscient shares summer trip to Zion National Park.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=662659",
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Virtual Reality receives UB3R (thanks Dykerosoft) and 1000th post; thank-you thread.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=673642",
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Black Shadow™ receives red donator award ($500+ donated).",
             "description": "",
             "url": "",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Mute banned one week for Low Quality Posting.",
             "description": "",
             "url": "",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

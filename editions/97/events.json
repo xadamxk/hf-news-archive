@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient added a new 'Networking, Routers, Switches, and Firewalls' section.",
       "description": "Omniscient added a new 'Networking, Routers, Switches, and Firewalls' section.",
-      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "url": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Banned-member usertitle changed to 'Exiled'; modlist.php was renamed to showmods.php.",
       "description": "Banned-member usertitle changed to 'Exiled'; modlist.php was renamed to showmods.php.",
-      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "url": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient confirmed an upcoming close-protection feature similar to logout protection (helpful for...",
       "description": "Omniscient confirmed an upcoming close-protection feature similar to logout protection (helpful for l33ts who can't reopen accidentally closed threads).",
-      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "url": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
       "users": [
         {
           "uid": "1",
@@ -35,18 +38,21 @@
     },
     {
       "category": "groups",
+      "title": "Techsperts has been revamped into 'Rhythm', a unique music-themed group.",
       "description": "Techsperts has been revamped into 'Rhythm', a unique music-themed group.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "groups",
+      "title": "The Coders group leaders finally paid off the remaining group payments.",
       "description": "The Coders group leaders finally paid off the remaining group payments.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Yin, the founder of the HF News and an ex-Staff member, returned to HF.",
       "description": "Yin, the founder of the HF News and an ex-Staff member, returned to HF.",
-      "thread": "http://hackforums.net/showthread.php?tid=2603171",
+      "url": "http://hackforums.net/showthread.php?tid=2603171",
       "users": [
         {
           "uid": "74244",
@@ -56,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Tate Sr. returned briefly and posted a thread about an odd plan.",
       "description": "Tate Sr. returned briefly and posted a thread about an odd plan.",
-      "thread": "http://hackforums.net/showthread.php?tid=2603712",
+      "url": "http://hackforums.net/showthread.php?tid=2603712",
       "users": [
         {
           "uid": "101228",
@@ -67,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "Musky stole Diabolic's username to scam other members; he was repfucked and banned for being LQ.",
       "description": "Musky stole Diabolic's username to scam other members; he was repfucked and banned for being LQ.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "414404",
@@ -82,8 +90,9 @@
     },
     {
       "category": "users",
+      "title": "Vitani's Mate's account was merged with an old account, pushing his registration date back about a y...",
       "description": "Vitani's Mate's account was merged with an old account, pushing his registration date back about a year.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "651773",
@@ -93,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Judge Dredd handed out numerous -10 ratings this week and banned about 20 members for being low qual...",
       "description": "Judge Dredd handed out numerous -10 ratings this week and banned about 20 members for being low quality.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "4066",
@@ -104,8 +114,9 @@
     },
     {
       "category": "users",
+      "title": "Zуνoχ™ was banned for posting a picture of Omniscient roasting toast with laser eyes.",
       "description": "Zуνoχ™ was banned for posting a picture of Omniscient roasting toast with laser eyes.",
-      "thread": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
+      "url": "http://hackforums.net/showthread.php?tid=2582042&pid=23662704",
       "users": [
         {
           "uid": "358978",
@@ -119,8 +130,9 @@
     },
     {
       "category": "users",
+      "title": "Reptar ツ was banned for flaming in reputation; Protein was banned for challenging a warning.",
       "description": "Reptar ツ was banned for flaming in reputation; Protein was banned for challenging a warning.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "87114",
@@ -134,8 +146,9 @@
     },
     {
       "category": "users",
+      "title": "Infallible was banned for 'making a wrong move'.",
       "description": "Infallible was banned for 'making a wrong move'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "170785",
@@ -145,8 +158,9 @@
     },
     {
       "category": "threads",
+      "title": "Mr. Anderson's thread on whether sexual harassment in video games is 'ethically wrong' to remove.",
       "description": "Mr. Anderson's thread on whether sexual harassment in video games is 'ethically wrong' to remove.",
-      "thread": "http://hackforums.net/showthread.php?tid=2610018",
+      "url": "http://hackforums.net/showthread.php?tid=2610018",
       "users": [
         {
           "uid": "114319",
@@ -156,8 +170,9 @@
     },
     {
       "category": "threads",
+      "title": "Mr. Anderson's 'LOL @ Virgin gamers' thread.",
       "description": "Mr. Anderson's 'LOL @ Virgin gamers' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2597542",
+      "url": "http://hackforums.net/showthread.php?tid=2597542",
       "users": [
         {
           "uid": "114319",
@@ -167,8 +182,9 @@
     },
     {
       "category": "threads",
+      "title": "HC's 'We live in a society where...' thread.",
       "description": "HC's 'We live in a society where...' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2598912",
+      "url": "http://hackforums.net/showthread.php?tid=2598912",
       "users": [
         {
           "uid": "1340433",
@@ -178,8 +194,9 @@
     },
     {
       "category": "threads",
+      "title": "Horkos's 'What was your dream last night?' thread.",
       "description": "Horkos's 'What was your dream last night?' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2595609",
+      "url": "http://hackforums.net/showthread.php?tid=2595609",
       "users": [
         {
           "uid": "65167",
@@ -189,8 +206,9 @@
     },
     {
       "category": "groups",
+      "title": "xerotic is no longer a group leader of Rhythm; BasedGod is now a leader of Rhythm.",
       "description": "xerotic is no longer a group leader of Rhythm; BasedGod is now a leader of Rhythm.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "175033",
@@ -204,8 +222,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Hexicidal conducted by RDCA; covers his ownership of Coders, group goals, and future ...",
       "description": "Interview with Hexicidal conducted by RDCA; covers his ownership of Coders, group goals, and future plans.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "580684",
@@ -219,8 +238,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Vitani's Mate conducted by Phytrix; covers his 50K post milestone, recent account mer...",
       "description": "Interview with Vitani's Mate conducted by Phytrix; covers his 50K post milestone, recent account merge, and Vitani admiration.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1018876",
@@ -234,8 +254,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Lemonade conducted by SoulZeh; covers his Reviewers leadership, HJT training experien...",
       "description": "Interview with Lemonade conducted by SoulZeh; covers his Reviewers leadership, HJT training experience, and HF outlook.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "516470",
@@ -249,8 +270,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

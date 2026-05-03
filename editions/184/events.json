@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient removed the BackTrack section after a suggestion thread, citing declining activity and...",
       "description": "Omniscient removed the BackTrack section after a suggestion thread, citing declining activity and BackTrack's rebrand as Kali, with respective thread prefixes added to the Linux section.",
-      "thread": "http://hackforums.net/showthread.php?tid=4086571",
+      "url": "http://hackforums.net/showthread.php?tid=4086571",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient restricted the Science, Religion, Philosophy, and Politics section to L33t and Ub3r...",
       "description": "Omniscient restricted the Science, Religion, Philosophy, and Politics section to L33t and Ub3r members only in a major crackdown on trolling, supported by the group Void.",
-      "thread": "http://hackforums.net/showthread.php?tid=4095223",
+      "url": "http://hackforums.net/showthread.php?tid=4095223",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Sir disallowed discussion in the weekly report thread after trolling and unrelated replies overtook...",
       "description": "Sir disallowed discussion in the weekly report thread after trolling and unrelated replies overtook legitimate reports; non-report posts will now be removed.",
-      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "url": "http://hackforums.net/showthread.php?tid=3673692",
       "users": [
         {
           "uid": "515249",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "John Herbert hit 1,000 reputation.",
       "description": "John Herbert hit 1,000 reputation.",
-      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "url": "http://hackforums.net/showthread.php?tid=3673692",
       "users": [
         {
           "uid": "1341148",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": ".Zo was repfucked and had account closed; Support.",
       "description": ".Zo was repfucked and had account closed; Support. was repfucked and banned for leaking; ryoh was repfucked and had account closed; Eminem. was repfucked and banned for repfuck complaining; Sigma was banned for identity fraud (expired); Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ was banned for severe rep abuse; Cloud was banned for harassing members.",
-      "thread": "http://hackforums.net/showthread.php?tid=4076042",
+      "url": "http://hackforums.net/showthread.php?tid=4076042",
       "users": [
         {
           "uid": "195831",
@@ -81,8 +86,9 @@
     },
     {
       "category": "users",
+      "title": ".Alerion had account closed; OG Bobby Johnson was banned; Ramisme was banned.",
       "description": ".Alerion had account closed; OG Bobby Johnson was banned; Ramisme was banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1693297",
@@ -100,8 +106,9 @@
     },
     {
       "category": "users",
+      "title": "Roytoy and Crypto Miner received the Sticky Man award; FroStorm donated for Master Donator and recei...",
       "description": "Roytoy and Crypto Miner received the Sticky Man award; FroStorm donated for Master Donator and received the Ninja award.",
-      "thread": "http://hackforums.net/showthread.php?tid=4004983",
+      "url": "http://hackforums.net/showthread.php?tid=4004983",
       "users": [
         {
           "uid": "130086",
@@ -119,8 +126,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Sparky56p's '(360) Fully Modded NOS Cars.",
       "description": "Notable Thread: Sparky56p's '(360) Fully Modded NOS Cars. FREE! Fully Customizable Service!'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4064749",
+      "url": "http://hackforums.net/showthread.php?tid=4064749",
       "users": [
         {
           "uid": "733760",
@@ -130,8 +138,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Gary's 'Your first thread?'.",
       "description": "Notable Thread: Gary's 'Your first thread?'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4089449",
+      "url": "http://hackforums.net/showthread.php?tid=4089449",
       "users": [
         {
           "uid": "1700066",
@@ -141,8 +150,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: owned3600's 'You Wake Up as Omniscient.",
       "description": "Notable Thread: owned3600's 'You Wake Up as Omniscient. What's the first thing you do?'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4085330",
+      "url": "http://hackforums.net/showthread.php?tid=4085330",
       "users": [
         {
           "uid": "1187139",
@@ -152,8 +162,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Gary conducted by Saturday; covers his early HF crypter purchase scam, his troll...",
       "description": "Interview with Gary conducted by Saturday; covers his early HF crypter purchase scam, his troll reputation, his thoughts on the changing forum culture, and his parents' divorce.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "787112",
@@ -167,8 +178,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with RenRioku™ conducted by Clique; covers his work as a Dish Network service technician...",
       "description": "Interview with RenRioku™ conducted by Clique; covers his work as a Dish Network service technician and his self-described intermediate hacking skills.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -182,8 +194,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Vegas conducted by Clark; covers his competitive fighting game play, his...",
       "description": "Interview with Vegas conducted by Clark; covers his competitive fighting game play, his programming/graphic design studies, his preference for PC gaming, and his time in the Red Lions group.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -197,8 +210,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

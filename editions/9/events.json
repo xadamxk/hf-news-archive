@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Easter egg added: occasional middle finger replaces Home icon.",
             "description": "",
             "url": "",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "\"Report rep\" button added on reputation pages.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=548856",
@@ -25,19 +25,19 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Giveaways section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=174"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Requests section (ub3r only) added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=173"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "killerpop89 banned for drinking and posting jibberish.",
             "description": "",
             "url": "https://hackforums.net/showthread.php?tid=547245",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Banned Topic: SpyEye (financial malware).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=548760",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

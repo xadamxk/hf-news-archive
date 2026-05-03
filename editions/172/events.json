@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient added a 'Search Your Threads' (SYT) button to forum sections, allowing members to easily...",
       "description": "Omniscient added a 'Search Your Threads' (SYT) button to forum sections, allowing members to easily browse all their threads in a section regardless of age.",
-      "thread": "http://hackforums.net/showthread.php?tid=3907728",
+      "url": "http://hackforums.net/showthread.php?tid=3907728",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added [btc] and [ltc] MyCodes allowing members to post BitCoin and LiteCoin payment links...",
       "description": "Omniscient added [btc] and [ltc] MyCodes allowing members to post BitCoin and LiteCoin payment links that launch wallet applications.",
-      "thread": "http://hackforums.net/showthread.php?tid=3912653",
+      "url": "http://hackforums.net/showthread.php?tid=3912653",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient clarified that a Pastebin password list claiming to be a Hack Forums leak was fake; only...",
       "description": "Omniscient clarified that a Pastebin password list claiming to be a Hack Forums leak was fake; only the years-old user table dump (already remediated) was ever leaked.",
-      "thread": "http://hackforums.net/showthread.php?tid=3914584",
+      "url": "http://hackforums.net/showthread.php?tid=3914584",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Orgy, Calibur, KyleWTF, and Assailant hit 1,000 reputation; Shotta and førgive both hit 10,000 posts...",
       "description": "Orgy, Calibur, KyleWTF, and Assailant hit 1,000 reputation; Shotta and førgive both hit 10,000 posts.",
-      "thread": "http://hackforums.net/showthread.php?tid=3910479",
+      "url": "http://hackforums.net/showthread.php?tid=3910479",
       "users": [
         {
           "uid": "182754",
@@ -66,8 +70,9 @@
     },
     {
       "category": "users",
+      "title": "Βusiness was banned for failing to fulfill contests; Flask was repfucked and banned with PayPal...",
       "description": "Βusiness was banned for failing to fulfill contests; Flask was repfucked and banned with PayPal refunded; Sʜᴀᴅᴏᴡ Rᴇᴀʟᴍ was banned for harassing members; DayZ was banned for discussing fraud; giox3 and Carl Sagan were banned for trolling.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1705027",
@@ -97,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "MarkMare received the Gamer award for HF Gaming News dedication; Orgy received the Jokester award;...",
       "description": "MarkMare received the Gamer award for HF Gaming News dedication; Orgy received the Jokester award; Emylbus won MOTM; Lewd received the Gamer award for his love of WoW; Omniscient removed his Militant and Great Thinker awards and gave himself the Drunk award.",
-      "thread": "http://hackforums.net/showthread.php?tid=3910479",
+      "url": "http://hackforums.net/showthread.php?tid=3910479",
       "users": [
         {
           "uid": "138559",
@@ -124,8 +130,9 @@
     },
     {
       "category": "groups",
+      "title": "Sh1eld became a leader of The Empire.",
       "description": "Sh1eld became a leader of The Empire.",
-      "thread": "http://hackforums.net/showthread.php?tid=3728681",
+      "url": "http://hackforums.net/showthread.php?tid=3728681",
       "users": [
         {
           "uid": "608523",
@@ -135,8 +142,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Nate conducted by Clique; covers his migration from TheTechGame, his WoW and Counter...",
       "description": "Interview with Nate conducted by Clique; covers his migration from TheTechGame, his WoW and Counter Strike obsessions, and his disappointment over The Alliance going up for sale.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -150,8 +158,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Tycoon (formerly H²O) conducted by Clark; covers his upcoming League of Legends...",
       "description": "Interview with Tycoon (formerly H²O) conducted by Clark; covers his upcoming League of Legends product with bam422, his marketplace activity, the dying gamertag market, and his Civil Engineering studies.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -165,8 +174,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Assailant conducted by Saturday; covers his move away from blackhat keylogging and...",
       "description": "Interview with Assailant conducted by Saturday; covers his move away from blackhat keylogging and ratting, his recent acceptances into Infamous, The Brotherhood, and Complexity, and his interest in 143.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "787112",
@@ -180,8 +190,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Cody (awhty) replaced Yellows as User News journalist; Unreputed repla...",
       "description": "Contributors to this edition; Cody (awhty) replaced Yellows as User News journalist; Unreputed replaced +Awesome as Graphical Editor.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

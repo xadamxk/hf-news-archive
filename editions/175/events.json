@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient published Hack Forums analytics PDFs detailing visitor stats, devices (Windows over 75%,...",
       "description": "Omniscient published Hack Forums analytics PDFs detailing visitor stats, devices (Windows over 75%, iOS, Android, Mac, then Linux at 2%), languages, and geography.",
-      "thread": "http://hackforums.net/showthread.php?tid=3955885",
+      "url": "http://hackforums.net/showthread.php?tid=3955885",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient ran a community contest for a New Year's banner design for the purple and modern blue the...",
       "description": "Omniscient ran a community contest for a New Year's banner design for the purple and modern blue themes.",
-      "thread": "http://hackforums.net/showthread.php?tid=3956231",
+      "url": "http://hackforums.net/showthread.php?tid=3956231",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient clarified that no marketplace-style threads (services or paid offers) are allowed in the...",
       "description": "Omniscient clarified that no marketplace-style threads (services or paid offers) are allowed in the Requests for Hacking section, with a 3-day automatic ban for violations.",
-      "thread": "http://hackforums.net/showthread.php?tid=3955885",
+      "url": "http://hackforums.net/showthread.php?tid=3955885",
       "users": [
         {
           "uid": "1",
@@ -35,13 +38,15 @@
     },
     {
       "category": "groups",
+      "title": "iNviZ and TheHackersLove ran an Infamous Coats-For-Kids charity selling group spots and raised over ...",
       "description": "iNviZ and TheHackersLove ran an Infamous Coats-For-Kids charity selling group spots and raised over $4,000 for children's winter clothing.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "+mK hit 1,000 reputation; tux1 hit 10,000 posts; 'Snorlax hit 2,000 reputation and 1,000 prestige.",
       "description": "+mK hit 1,000 reputation; tux1 hit 10,000 posts; 'Snorlax hit 2,000 reputation and 1,000 prestige.",
-      "thread": "http://hackforums.net/showthread.php?tid=3908185",
+      "url": "http://hackforums.net/showthread.php?tid=3908185",
       "users": [
         {
           "uid": "585389",
@@ -59,8 +64,9 @@
     },
     {
       "category": "users",
+      "title": "Bull™ was banned for account sharing; Avaswift was banned for ub3r junk abuse; Baghead was banned...",
       "description": "Bull™ was banned for account sharing; Avaswift was banned for ub3r junk abuse; Baghead was banned for impersonating members; Angry Grаndpa and Ass Man were banned for assisting a ban evader; Kangaroo and .Alerion were banned for trolling/LQP.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1844212",
@@ -94,8 +100,9 @@
     },
     {
       "category": "users",
+      "title": "Pali, Jire, and Claptrap™ had their accounts closed.",
       "description": "Pali, Jire, and Claptrap™ had their accounts closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "879431",
@@ -113,8 +120,9 @@
     },
     {
       "category": "users",
+      "title": "Tommy donated for Master Donator and received Militant; Cyph Jr donated for Master Donator and recei...",
       "description": "Tommy donated for Master Donator and received Militant; Cyph Jr donated for Master Donator and received Black Hatter.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "44921",
@@ -128,8 +136,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Bay conducted by Clique; covers his Track and Cross Country running, his FBI...",
       "description": "Interview with Bay conducted by Clique; covers his Track and Cross Country running, his FBI interrogation over Social Engineering, his RDP sales, and his graphics design aspirations.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -143,8 +152,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with #Thunder conducted by Clark; covers his original interest in the now-pruned Social...",
       "description": "Interview with #Thunder conducted by Clark; covers his original interest in the now-pruned Social Engineering subforum, his work in the Computing/Android/WHH sections, and his enjoyment of The Empire group.",
-      "thread": "http://hackforums.net/showthread.php?tid=3908185",
+      "url": "http://hackforums.net/showthread.php?tid=3908185",
       "users": [
         {
           "uid": "1653635",
@@ -158,8 +168,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Yuzuha returned to the team covering World News and Music News; Yellow...",
       "description": "Contributors to this edition; Yuzuha returned to the team covering World News and Music News; Yellows resumed User News.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

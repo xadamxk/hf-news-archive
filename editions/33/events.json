@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "PRODIGY and xhtmlphp banned amid RuneScape gold scam reports; Red Lions group briefly cleared then restored.",
             "description": "",
             "url": "http://goo.gl/N9pSs",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "OnlineCrypter compromise prompts password change advisory.",
             "description": "",
             "url": "http://goo.gl/pr6ZN",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Consideration to country-ban Albania; ISP blocked.",
             "description": "",
             "url": "http://goo.gl/LqBa4",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "HF Coders official group dismantled due to inactivity.",
             "description": "",
             "url": "http://goo.gl/FTQDl",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "EctoPlasm returns from 2-week ban; steps down from HF News.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1046837",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "NaDe wins Member of the Month (January).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1026270",

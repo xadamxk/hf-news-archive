@@ -9,13 +9,13 @@ All events should include the thread link associated to them - typically ending 
 All users should include the UID along with the username if provided
 
 Events should have the following properties:
-- topic: category of the event
-- title: Short title summary of the event
+- category: category of the event (same values as topic used to use; see below)
+- title: Short title summary of the event (if there is no title, derive one from the description)
 - description: Additional detail about the event - details go here
-- url: url of the related thread (optional)
+- url: url of the related thread (use "" when there is no link; formerly stored as thread in parsed data)
 - users: array of uid & username object
 
-Individual events need to be labeled by topic: 
+Individual events need to be labeled by category: 
 - site: Headlines/Site News - events related to the site (which is HackForums) or the owner (Omniscient)
 - users: User News / Bans / vacation bans / closures/ receiving Awards/ RepFucks (RKOs) - should always be associated to a user
 - groups: Group News - anything relating to groups, like being sold, created, or recruitment related threads

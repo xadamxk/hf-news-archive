@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "VipVince and KewlHotRod demoted again.",
             "description": "",
             "url": "",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "mKn1ght distributed infected OpenVPN; Paradoxum posts removal guide.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=789958",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Ongoing DB anomalies until new server acquired.",
             "description": "",
             "url": "",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Verdande banned one month (scam); Ectoplasm rep-hit after protest thread.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=788737",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "OG iFuck banned for multiple scam reports.",
             "description": "",
             "url": "",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Marik™ publishes multiple HQ guides (incl. HF fully explained).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=784767",
@@ -85,7 +85,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Malware Boss explains HF awards; self-nomination thread referenced.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=795033",

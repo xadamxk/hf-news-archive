@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "New DB server planned; ‘strict robot staff week’ warning spike.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=824662",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Checkster permanently banned; Mia banned for evasion (caught by Saged).",
             "description": "",
             "url": "",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Verdande unbanned after appeals; Solidify returns from 1-week ban; Nofear1999 unbanned.",
             "description": "",
             "url": "",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Tutorials: reporting posts (Deities); securing TeamViewer (Catch-22™).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=811458",

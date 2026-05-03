@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "A new Marketplace cross-posting rule prohibits posting in both the Premium and Secondary Sellers...",
       "description": "A new Marketplace cross-posting rule prohibits posting in both the Premium and Secondary Sellers sections; violations (including via friends or partners posting for you) carry a 25% warning. More Marketplace restrictions are planned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added a new 'Webmasters' Marketplace sub-category covering Domains, Website Marketing,...",
       "description": "Omniscient added a new 'Webmasters' Marketplace sub-category covering Domains, Website Marketing, and Hosting Services, helping cut down on spam in Service Offerings.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "users",
+      "title": "Quantum was stripped of his Marketplace Discussion moderation privileges for an undisclosed reason,...",
       "description": "Quantum was stripped of his Marketplace Discussion moderation privileges for an undisclosed reason, then repfucked and banned by Omniscient (per his own message: for 'screwing with Omniscient').",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Quantum"
@@ -38,8 +41,9 @@
     },
     {
       "category": "users",
+      "title": "Clarification: HF's Prokill is not the American Prokill who hacked 35+ people; HF's Prokill hacked...",
       "description": "Clarification: HF's Prokill is not the American Prokill who hacked 35+ people; HF's Prokill hacked 12-13 and is on bail, not serving a life sentence.",
-      "thread": "http://hackforums.net/showthread.php?tid=1884766",
+      "url": "http://hackforums.net/showthread.php?tid=1884766",
       "users": [
         {
           "username": "Prokill",
@@ -49,8 +53,9 @@
     },
     {
       "category": "users",
+      "title": "SeaNanners™ was banned until 11-17-2011 for flaming, threatening, or harassing.",
       "description": "SeaNanners™ was banned until 11-17-2011 for flaming, threatening, or harassing.",
-      "thread": "http://hackforums.net/showthread.php?tid=1884766",
+      "url": "http://hackforums.net/showthread.php?tid=1884766",
       "users": [
         {
           "username": "SeaNanners™",
@@ -60,8 +65,9 @@
     },
     {
       "category": "users",
+      "title": "-paradox- was banned until 12/06/11 for posting gay porn.",
       "description": "-paradox- was banned until 12/06/11 for posting gay porn.",
-      "thread": "http://hackforums.net/showthread.php?tid=1884766",
+      "url": "http://hackforums.net/showthread.php?tid=1884766",
       "users": [
         {
           "username": "-paradox-",
@@ -71,8 +77,9 @@
     },
     {
       "category": "users",
+      "title": "Confidence's account was hacked; the attacker is demanding $200 to return it.",
       "description": "Confidence's account was hacked; the attacker is demanding $200 to return it.",
-      "thread": "http://hackforums.net/showthread.php?tid=1884766",
+      "url": "http://hackforums.net/showthread.php?tid=1884766",
       "users": [
         {
           "uid": "382745",
@@ -82,8 +89,9 @@
     },
     {
       "category": "threads",
+      "title": "SE Thread: Cynical Soul's clarification thread on what Social Engineering actually is.",
       "description": "SE Thread: Cynical Soul's clarification thread on what Social Engineering actually is.",
-      "thread": "http://hackforums.net/showthread.php?tid=1874683",
+      "url": "http://hackforums.net/showthread.php?tid=1874683",
       "users": [
         {
           "username": "Cynical Soul",
@@ -93,8 +101,9 @@
     },
     {
       "category": "threads",
+      "title": "Informational Thread: Genuine's 'Warning System Explained,' breaking down warning percentages for ea...",
       "description": "Informational Thread: Genuine's 'Warning System Explained,' breaking down warning percentages for each rule.",
-      "thread": "http://hackforums.net/showthread.php?tid=1829966",
+      "url": "http://hackforums.net/showthread.php?tid=1829966",
       "users": [
         {
           "username": "Genuine",
@@ -104,8 +113,9 @@
     },
     {
       "category": "threads",
+      "title": "Members Contest Thread: Mother Teresa's huge Black Trinity giveaway with over $1,000 in products.",
       "description": "Members Contest Thread: Mother Teresa's huge Black Trinity giveaway with over $1,000 in products.",
-      "thread": "http://hackforums.net/showthread.php?tid=1857198",
+      "url": "http://hackforums.net/showthread.php?tid=1857198",
       "users": [
         {
           "username": "Mother Teresa",
@@ -115,8 +125,9 @@
     },
     {
       "category": "threads",
+      "title": "Gaming Thread: .Nielz's guide to the Counter Strike and Steam section, with explanations, FAQ, and l...",
       "description": "Gaming Thread: .Nielz's guide to the Counter Strike and Steam section, with explanations, FAQ, and links.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": ".Nielz",
@@ -126,8 +137,9 @@
     },
     {
       "category": "threads",
+      "title": "Battlefield 3 Thread: DragonX433's method for gaining large amounts of BF3 points via EOD boosting.",
       "description": "Battlefield 3 Thread: DragonX433's method for gaining large amounts of BF3 points via EOD boosting.",
-      "thread": "http://hackforums.net/showthread.php?tid=1898764",
+      "url": "http://hackforums.net/showthread.php?tid=1898764",
       "users": [
         {
           "username": "DragonX433",
@@ -137,8 +149,9 @@
     },
     {
       "category": "threads",
+      "title": "Grand Theft Auto Thread: mentor Tsgh Mike launched a new GTA SA server.",
       "description": "Grand Theft Auto Thread: mentor Tsgh Mike launched a new GTA SA server.",
-      "thread": "http://hackforums.net/showthread.php?tid=1903280",
+      "url": "http://hackforums.net/showthread.php?tid=1903280",
       "users": [
         {
           "username": "Tsgh Mike",
@@ -148,8 +161,9 @@
     },
     {
       "category": "groups",
+      "title": "Black Shadow was promoted to leader of The RATs Crew.",
       "description": "Black Shadow was promoted to leader of The RATs Crew.",
-      "thread": "http://hackforums.net/showthread.php?tid=644991",
+      "url": "http://hackforums.net/showthread.php?tid=644991",
       "users": [
         {
           "uid": "63387",
@@ -159,8 +173,9 @@
     },
     {
       "category": "users",
+      "title": "Ron Paul was demoted from moderator of the Runescape section.",
       "description": "Ron Paul was demoted from moderator of the Runescape section.",
-      "thread": "http://hackforums.net/showthread.php?tid=644991",
+      "url": "http://hackforums.net/showthread.php?tid=644991",
       "users": [
         {
           "username": "Ron Paul"
@@ -169,8 +184,9 @@
     },
     {
       "category": "users",
+      "title": "Mother Teresa received the Master Donator award; Glassy received The Protector; Dylan received...",
       "description": "Mother Teresa received the Master Donator award; Glassy received The Protector; Dylan received Ninja; Teflon received Businessman; iNviZ was named Member of the Month for October 2011; Black Shadow received Rat Expert; Splodge0007 received Cool; .Nielz received Sticky Man.",
-      "thread": "http://hackforums.net/showthread.php?tid=644991",
+      "url": "http://hackforums.net/showthread.php?tid=644991",
       "users": [
         {
           "username": "Mother Teresa",
@@ -206,8 +222,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Riggs conducted by Daniel Faraday; covers his views on HF maturity, Marketers group,...",
       "description": "Interview with Riggs conducted by Daniel Faraday; covers his views on HF maturity, Marketers group, and forum direction (re-published from edition 65).",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Daniel Faraday",
@@ -220,8 +237,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with iceybunneh conducted by Michael Westen; covers her writing career, Innuendo activity,...",
       "description": "Interview with iceybunneh conducted by Michael Westen; covers her writing career, Innuendo activity, novel 'Control,' and marriage to Viral Dragon.",
-      "thread": "http://hackforums.net/showthread.php?tid=644991",
+      "url": "http://hackforums.net/showthread.php?tid=644991",
       "users": [
         {
           "username": "Michael Westen",
@@ -235,8 +253,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

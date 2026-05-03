@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient changed the minimum username length from 3 to 4 characters; existing 3-character username...",
       "description": "Omniscient changed the minimum username length from 3 to 4 characters; existing 3-character usernames are now considered rare.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "groups",
+      "title": "The Wraith group has been retired as official after declining to pay to stay; the group is...",
       "description": "The Wraith group has been retired as official after declining to pay to stay; the group is continuing on WizardForums (run by retired admin Crow).",
-      "thread": "http://hackforums.net/showthread.php?tid=2341177",
+      "url": "http://hackforums.net/showthread.php?tid=2341177",
       "users": [
         {
           "uid": "2103",
@@ -24,8 +26,9 @@
     },
     {
       "category": "groups",
+      "title": "After the free-group payment deadline, Omniscient raised the group price to $2,500 (+$500 per new...",
       "description": "After the free-group payment deadline, Omniscient raised the group price to $2,500 (+$500 per new group sold) and now charges $250 for leadership changes to encourage stable leadership.",
-      "thread": "http://hackforums.net/showthread.php?tid=2347521",
+      "url": "http://hackforums.net/showthread.php?tid=2347521",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Black Shadow reached 2,000 reputation.",
       "description": "Black Shadow reached 2,000 reputation.",
-      "thread": "http://hackforums.net/showthread.php?tid=2334347",
+      "url": "http://hackforums.net/showthread.php?tid=2334347",
       "users": [
         {
           "uid": "63387",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Canon was repfucked for giving a ban evader positive reputation.",
       "description": "Canon was repfucked for giving a ban evader positive reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "68378",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Emily was banned for low-quality posting.",
       "description": "Emily was banned for low-quality posting.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "535046",
@@ -68,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "King Messias was banned for being annoying.",
       "description": "King Messias was banned for being annoying.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1169208",
@@ -79,8 +86,9 @@
     },
     {
       "category": "users",
+      "title": "Blunt was banned for advertising a social engineering site.",
       "description": "Blunt was banned for advertising a social engineering site.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "453509",
@@ -90,8 +98,9 @@
     },
     {
       "category": "threads",
+      "title": "Hacking Thread: Black Shadow's announcement of his upcoming proxy-exploit invisible server.",
       "description": "Hacking Thread: Black Shadow's announcement of his upcoming proxy-exploit invisible server.",
-      "thread": "http://hackforums.net/showthread.php?tid=2334347",
+      "url": "http://hackforums.net/showthread.php?tid=2334347",
       "users": [
         {
           "uid": "63387",
@@ -101,8 +110,9 @@
     },
     {
       "category": "threads",
+      "title": "Award Thread: Alphonse's announcement that Omniscient is no longer giving out the Support Feather aw...",
       "description": "Award Thread: Alphonse's announcement that Omniscient is no longer giving out the Support Feather award on HF.",
-      "thread": "http://hackforums.net/showthread.php?tid=2340970",
+      "url": "http://hackforums.net/showthread.php?tid=2340970",
       "users": [
         {
           "uid": "1133490",
@@ -112,8 +122,9 @@
     },
     {
       "category": "threads",
+      "title": "Kewl Thread: Mr Kewl's 'Get to know Mr Kewl [Edition 1]' autobiographical series.",
       "description": "Kewl Thread: Mr Kewl's 'Get to know Mr Kewl [Edition 1]' autobiographical series.",
-      "thread": "http://hackforums.net/showthread.php?tid=2333064",
+      "url": "http://hackforums.net/showthread.php?tid=2333064",
       "users": [
         {
           "uid": "183072",
@@ -123,8 +134,9 @@
     },
     {
       "category": "threads",
+      "title": "Smoking Thread: Relapse™'s 'I'm 14 and am thinking of taking up smoking, can anyone recommend some...",
       "description": "Smoking Thread: Relapse™'s 'I'm 14 and am thinking of taking up smoking, can anyone recommend some good brands?' — used to gauge member reactions to cigarettes.",
-      "thread": "http://hackforums.net/showthread.php?tid=2341931",
+      "url": "http://hackforums.net/showthread.php?tid=2341931",
       "users": [
         {
           "uid": "92059",
@@ -134,8 +146,9 @@
     },
     {
       "category": "users",
+      "title": "Hades received the Cat Lover award.",
       "description": "Hades received the Cat Lover award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "920387",
@@ -145,8 +158,9 @@
     },
     {
       "category": "groups",
+      "title": "Mark Webber and Delicious were promoted to leaders of Techsperts; Legacy.",
       "description": "Mark Webber and Delicious were promoted to leaders of Techsperts; Legacy. was promoted to leader of Respawn.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "89623",
@@ -164,8 +178,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Sai conducted by Rhythm; covers his takeover of Graphic Masters and plans to revive t...",
       "description": "Interview with Sai conducted by Rhythm; covers his takeover of Graphic Masters and plans to revive the group with tournaments and SOTW.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "126704",
@@ -178,8 +193,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Inspector Gadget conducted by Michael Westen; covers his ~$10,000 in online earnings,...",
       "description": "Interview with Inspector Gadget conducted by Michael Westen; covers his ~$10,000 in online earnings, motorbike hobby, and friendship with bugga.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -192,8 +208,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient reintroduced the Ub3r Junk feature with a new abuse-prevention system: only Ub3r members...",
       "description": "Omniscient reintroduced the Ub3r Junk feature with a new abuse-prevention system: only Ub3r members may junk threads, and only once every 24 hours.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added new 'Web Browsers' and 'Graphics Resources' subforums; the Web Browsers section alr...",
       "description": "Omniscient added new 'Web Browsers' and 'Graphics Resources' subforums; the Web Browsers section already has over 700 threads.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient restricted thread subscriptions to L33t and Ub3r members only and added a popup confirmat...",
       "description": "Omniscient restricted thread subscriptions to L33t and Ub3r members only and added a popup confirmation when upgraded members close threads.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "site",
+      "title": "The Microsoft email blacklist issue from last week is still unresolved despite Omniscient's efforts;...",
       "description": "The Microsoft email blacklist issue from last week is still unresolved despite Omniscient's efforts; Omniscient also performed maintenance and updated the site's MySQL version.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "+Entity was accidentally downgraded to L33t while upgrading another member.",
       "description": "+Entity was accidentally downgraded to L33t while upgrading another member.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "827711",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Mr Kewl received the MOTM award; ℱℓℴw received the Sticky Man award; Andy received the YouTube award...",
       "description": "Mr Kewl received the MOTM award; ℱℓℴw received the Sticky Man award; Andy received the YouTube award; Zalgo received the Dog Lover award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "183072",
@@ -80,8 +86,9 @@
     },
     {
       "category": "groups",
+      "title": "+Pirate and Touch became leaders of Respawn; Aur0ra became a leader of Root; ShadowCloud became a le...",
       "description": "+Pirate and Touch became leaders of Respawn; Aur0ra became a leader of Root; ShadowCloud became a leader of Infamous.",
-      "thread": "http://hackforums.net/showthread.php?tid=2846145",
+      "url": "http://hackforums.net/showthread.php?tid=2846145",
       "users": [
         {
           "uid": "529870",
@@ -103,8 +110,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Zecora's 'One Reason why the Universe is not Random but Instead, it is Created by...",
       "description": "Lounge Thread: Zecora's 'One Reason why the Universe is not Random but Instead, it is Created by Someone.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2846145",
+      "url": "http://hackforums.net/showthread.php?tid=2846145",
       "users": [
         {
           "uid": "991769",
@@ -114,8 +122,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Mr.",
       "description": "Lounge Thread: Mr. Anderson's 'I love America.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2842187",
+      "url": "http://hackforums.net/showthread.php?tid=2842187",
       "users": [
         {
           "uid": "114319",
@@ -125,8 +134,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Strokes's 'Stealing For Survival.'",
       "description": "Lounge Thread: Strokes's 'Stealing For Survival.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2835607",
+      "url": "http://hackforums.net/showthread.php?tid=2835607",
       "users": [
         {
           "uid": "1326923",
@@ -136,8 +146,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Strokes's 'What Makes Your Life Worth Living?'",
       "description": "Lounge Thread: Strokes's 'What Makes Your Life Worth Living?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2845378",
+      "url": "http://hackforums.net/showthread.php?tid=2845378",
       "users": [
         {
           "uid": "1326923",
@@ -147,8 +158,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Soulmate conducted by Phytrix; covers his XBL Gamertag marketplace history, the...",
       "description": "Interview with Soulmate conducted by Phytrix; covers his XBL Gamertag marketplace history, the Lounge, his five group memberships, views on Astonish stepping down from Respawn, and tips for L33t-tier activity.",
-      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "url": "http://hackforums.net/showthread.php?tid=2816296",
       "users": [
         {
           "uid": "1018876",
@@ -162,8 +174,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Daisy conducted by Phytrix; covers being one of HF's few female members, her...",
       "description": "Interview with Daisy conducted by Phytrix; covers being one of HF's few female members, her giveaways and contests with Cody, Rhythm and Serenity memberships, and definitions of contributing.",
-      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "url": "http://hackforums.net/showthread.php?tid=2816296",
       "users": [
         {
           "uid": "1018876",
@@ -177,8 +190,9 @@
     },
     {
       "category": "site",
+      "title": "Sir announced openings on the HF News team for an Interviewer and a World News Writer, with...",
       "description": "Sir announced openings on the HF News team for an Interviewer and a World News Writer, with character codes for applicants to copy into replies.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",
@@ -188,8 +202,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

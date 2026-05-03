@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Hack Forums was briefly marked as a potentially harmful site by Google due to a rogue ad network;...",
       "description": "Hack Forums was briefly marked as a potentially harmful site by Google due to a rogue ad network; Omniscient contacted Google and the issue was resolved.",
-      "thread": "http://hackforums.net/showthread.php?tid=2821087",
+      "url": "http://hackforums.net/showthread.php?tid=2821087",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Microsoft flagged HF's domain MX record IP after the Google malware notification, blocking site...",
       "description": "Microsoft flagged HF's domain MX record IP after the Google malware notification, blocking site emails (registration confirmations, password recoveries) until Omniscient can resolve it with Microsoft.",
-      "thread": "http://hackforums.net/showthread.php?tid=2824899",
+      "url": "http://hackforums.net/showthread.php?tid=2824899",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient cleared the junked posts section, deleting over 900,000 posts; post counts have not yet b...",
       "description": "Omniscient cleared the junked posts section, deleting over 900,000 posts; post counts have not yet been recounted.",
-      "thread": "http://hackforums.net/showthread.php?tid=2821087",
+      "url": "http://hackforums.net/showthread.php?tid=2821087",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Burn™ and Shekhar reached 1,000 reputation points.",
       "description": "Burn™ and Shekhar reached 1,000 reputation points.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "857963",
@@ -50,8 +54,9 @@
     },
     {
       "category": "users",
+      "title": "ัPandaŠec became moderator of the WiFi section.",
       "description": "ัPandaŠec became moderator of the WiFi section.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "516018",
@@ -61,8 +66,9 @@
     },
     {
       "category": "users",
+      "title": "DaFreak ツ and єץє were both banned for marketplace violations; Addictionz was banned and repfucked...",
       "description": "DaFreak ツ and єץє were both banned for marketplace violations; Addictionz was banned and repfucked for multiple accounts; Jay-Z™ was banned for infecting members.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "681713",
@@ -84,8 +90,9 @@
     },
     {
       "category": "users",
+      "title": "Яǝʌǝɹsǝ was banned for posting etiquette.",
       "description": "Яǝʌǝɹsǝ was banned for posting etiquette.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "274613",
@@ -95,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Аnalog received the Sticky Man award; sea_turtles received the YouTube award; ZooT ツ received the Ma...",
       "description": "Аnalog received the Sticky Man award; sea_turtles received the YouTube award; ZooT ツ received the Master Donator and Businessman awards.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "660659",
@@ -114,8 +122,9 @@
     },
     {
       "category": "groups",
+      "title": "Diabolic was replaced by Saturday as a leader of Rhythm; ShadowCloud stepped down from Eminence;...",
       "description": "Diabolic was replaced by Saturday as a leader of Rhythm; ShadowCloud stepped down from Eminence; Existence stepped down as owner of Valor (BV1 ツ took over) and joined The Empire's leadership alongside SoulZeh, replacing Hades; McFlurry and -BoodyE- became leaders of The Reviewers.",
-      "thread": "http://hackforums.net/showthread.php?tid=2829663",
+      "url": "http://hackforums.net/showthread.php?tid=2829663",
       "users": [
         {
           "uid": "330676",
@@ -149,8 +158,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Radeon HD's 'Do you use Google Chrome?",
       "description": "Lounge Thread: Radeon HD's 'Do you use Google Chrome? You're now in the botnet.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2829199",
+      "url": "http://hackforums.net/showthread.php?tid=2829199",
       "users": [
         {
           "uid": "333514",
@@ -160,8 +170,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Strokes's 'I Can Prove God Does Not Exist.'",
       "description": "Lounge Thread: Strokes's 'I Can Prove God Does Not Exist.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2813062",
+      "url": "http://hackforums.net/showthread.php?tid=2813062",
       "users": [
         {
           "uid": "1326923",
@@ -171,8 +182,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Rexagon.exe's 'Why do you NOT believe God?'",
       "description": "Lounge Thread: Rexagon.exe's 'Why do you NOT believe God?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2827254",
+      "url": "http://hackforums.net/showthread.php?tid=2827254",
       "users": [
         {
           "uid": "957278",
@@ -182,8 +194,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Erudite's 'Where is society going wrong with today's youth?'",
       "description": "Lounge Thread: Erudite's 'Where is society going wrong with today's youth?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "url": "http://hackforums.net/showthread.php?tid=2816296",
       "users": [
         {
           "uid": "325511",
@@ -193,8 +206,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Saturday conducted by Phytrix; covers his XBL Gamertag marketplace history, recent...",
       "description": "Interview with Saturday conducted by Phytrix; covers his XBL Gamertag marketplace history, recent Rhythm leadership promotion, posting from an iPod, and views on legal age limits for voting/drinking/smoking.",
-      "thread": "http://hackforums.net/showthread.php?tid=2816296",
+      "url": "http://hackforums.net/showthread.php?tid=2816296",
       "users": [
         {
           "uid": "1018876",
@@ -208,8 +222,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Tibit conducted by Phytrix; covers his Cyber Security competition background,...",
       "description": "Interview with Tibit conducted by Phytrix; covers his Cyber Security competition background, ownership of Empire, upcoming book on Corporate Security, and plans for a Computer Science Doctorate.",
-      "thread": "http://hackforums.net/showthread.php?tid=2829663",
+      "url": "http://hackforums.net/showthread.php?tid=2829663",
       "users": [
         {
           "uid": "1018876",
@@ -223,8 +238,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

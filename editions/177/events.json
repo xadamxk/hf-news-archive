@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "The HF News introduced a new 'News Notables' section recognizing readers via numerical post...",
       "description": "The HF News introduced a new 'News Notables' section recognizing readers via numerical post milestones (1st/50th/100th/etc.), quality posts, debates, or reader referrals.",
-      "thread": "http://hackforums.net/showthread.php?tid=1863762",
+      "url": "http://hackforums.net/showthread.php?tid=1863762",
       "users": [
         {
           "uid": "515249",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "The new 'Query Languages and DBMS' section was added under Programming, Coding, and Languages follow...",
       "description": "The new 'Query Languages and DBMS' section was added under Programming, Coding, and Languages following Kansas's accepted suggestion.",
-      "thread": "http://hackforums.net/showthread.php?tid=3940220",
+      "url": "http://hackforums.net/showthread.php?tid=3940220",
       "users": [
         {
           "uid": "1812197",
@@ -28,8 +30,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient adjusted the spam filter to allow up to six repeating characters (instead of two), fixing...",
       "description": "Omniscient adjusted the spam filter to allow up to six repeating characters (instead of two), fixing issues with code blocks and long URLs after a suggestion by Mafugsa Bob.",
-      "thread": "http://hackforums.net/showthread.php?tid=3841596",
+      "url": "http://hackforums.net/showthread.php?tid=3841596",
       "users": [
         {
           "uid": "1603444",
@@ -43,13 +46,15 @@
     },
     {
       "category": "site",
+      "title": "The Lounge section reached 5,000,000 posts, accounting for nearly a sixth of all forum posts.",
       "description": "The Lounge section reached 5,000,000 posts, accounting for nearly a sixth of all forum posts.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "ℓιикℓαи¢є and Squidward hit 1,000 reputation; Αnonymous hit 2,000 reputation; ajkaro was promoted to...",
       "description": "ℓιикℓαи¢є and Squidward hit 1,000 reputation; Αnonymous hit 2,000 reputation; ajkaro was promoted to moderator of the SQL Injection Attacks section; Richard Grayson (formerly D3xus) stepped down from Staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1347815",
@@ -75,8 +80,9 @@
     },
     {
       "category": "users",
+      "title": "Rohz. was repfucked and banned for harassment; Bewbs was repfucked and banned for repfuck complainin...",
       "description": "Rohz. was repfucked and banned for harassment; Bewbs was repfucked and banned for repfuck complaining; Genocide. was repfucked and banned for misleading staff and scamming; Swirl was banned for poor posting quality.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1259493",
@@ -98,8 +104,9 @@
     },
     {
       "category": "users",
+      "title": "Αlien received The Alien award; Richard Grayson received the Silver Medal; Realistic received Master...",
       "description": "Αlien received The Alien award; Richard Grayson received the Silver Medal; Realistic received Master Donator and Bronze Tutorial.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "952870",
@@ -117,8 +124,9 @@
     },
     {
       "category": "groups",
+      "title": "Invisus became a leader of Fly By Night; Phаraoh stepped down as leader of Fly By Night.",
       "description": "Invisus became a leader of Fly By Night; Phаraoh stepped down as leader of Fly By Night.",
-      "thread": "http://hackforums.net/showthread.php?tid=3984258",
+      "url": "http://hackforums.net/showthread.php?tid=3984258",
       "users": [
         {
           "uid": "770060",
@@ -132,8 +140,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Grin conducted by Clark; covers his 34k post count, his conclusion to the 'Gremlin'...",
       "description": "Interview with Grin conducted by Clark; covers his 34k post count, his conclusion to the 'Gremlin' roommate saga, his iOS and SRPP section participation, and nostalgia for the disbanded Marketers and root.",
-      "thread": "http://hackforums.net/showthread.php?tid=3883420",
+      "url": "http://hackforums.net/showthread.php?tid=3883420",
       "users": [
         {
           "uid": "1653635",
@@ -147,8 +156,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Magicmann conducted by Yuzuha; covers his self-taught coding in C++, his bicycling...",
       "description": "Interview with Magicmann conducted by Yuzuha; covers his self-taught coding in C++, his bicycling hobby, his family's care of over 50 stray cats, and his aspirations to become a Mentor.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "692131",
@@ -162,8 +172,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Yuzuha joined the Interviewer team; eiqhtworks returned to Music News;...",
       "description": "Contributors to this edition; Yuzuha joined the Interviewer team; eiqhtworks returned to Music News; Mohatu resumed Headlines.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

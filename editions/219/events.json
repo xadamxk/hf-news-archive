@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "groups",
+      "title": "Edward Snowden.",
       "description": "Edward Snowden. opened a scam report against Robust over a $1,000 HackerCraft investment with a 50/50 profit-share deal that fell through; after a heated dispute, the resolution made Edward Snowden. the new owner of HackerCraft pending Omniscient's confirmation.",
-      "thread": "http://hackforums.net/showthread.php?tid=4585513",
+      "url": "http://hackforums.net/showthread.php?tid=4585513",
       "users": [
         {
           "uid": "1180981",
@@ -21,8 +22,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient appeared on the HFNT Omnicast and discussed possible upcoming features including...",
       "description": "Omniscient appeared on the HFNT Omnicast and discussed possible upcoming features including XMPP-based notifications, Account Security options in UserCP, and the possible discontinuation of Ub3r upgrades for new buyers (existing Ub3rs would keep their status).",
-      "thread": "http://hackforums.net/showthread.php?tid=4549889",
+      "url": "http://hackforums.net/showthread.php?tid=4549889",
       "users": [
         {
           "uid": "1",
@@ -32,8 +34,9 @@
     },
     {
       "category": "site",
+      "title": "December Member of the Month nominations opened, hosted by Froggy, closing on December 30th.",
       "description": "December Member of the Month nominations opened, hosted by Froggy, closing on December 30th.",
-      "thread": "http://hackforums.net/showthread.php?tid=4597269",
+      "url": "http://hackforums.net/showthread.php?tid=4597269",
       "users": [
         {
           "uid": "1320406",
@@ -43,8 +46,9 @@
     },
     {
       "category": "users",
+      "title": "Grin hit 1,000 reputation; inxy hit 2,000 reputation; Pali and Grievous hit 10,000 posts.",
       "description": "Grin hit 1,000 reputation; inxy hit 2,000 reputation; Pali and Grievous hit 10,000 posts.",
-      "thread": "http://hackforums.net/showthread.php?tid=4589564",
+      "url": "http://hackforums.net/showthread.php?tid=4589564",
       "users": [
         {
           "uid": "789677",
@@ -66,8 +70,9 @@
     },
     {
       "category": "users",
+      "title": "๖ۣۜNuski and .Astro were banned and repfucked for reputation violations; Truzzie and moron #543 were...",
       "description": "๖ۣۜNuski and .Astro were banned and repfucked for reputation violations; Truzzie and moron #543 were banned and repfucked; Space Impact, Bro?, Fuq., Turtle‎, Boza, and Silent ✔ had their accounts closed and were repfucked; .Glazed and FleXiN RunZ HF were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "2213423",
@@ -121,8 +126,9 @@
     },
     {
       "category": "users",
+      "title": "Tibit received the Dancing Queen award; beslim received the GFX Guru award.",
       "description": "Tibit received the Dancing Queen award; beslim received the GFX Guru award.",
-      "thread": "http://hackforums.net/showthread.php?tid=4597269",
+      "url": "http://hackforums.net/showthread.php?tid=4597269",
       "users": [
         {
           "uid": "651337",
@@ -136,8 +142,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Vegas conducted by Clique; covers his upcoming move from Las Vegas to the Maryland/DC...",
       "description": "Interview with Vegas conducted by Clique; covers his upcoming move from Las Vegas to the Maryland/DC area, his fighting and MMO gaming preferences, his Red Lions membership, and his role as 5th Editor for the Writ3rs.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -151,8 +158,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Trust conducted by Clark; covers his Notable Threads role with Wind Waker, his...",
       "description": "Interview with Trust conducted by Clark; covers his Notable Threads role with Wind Waker, his GameCube collecting hobby including Luigi's Mansion, his views on group buy-ins, and his admiration for Brotherhood-style groups.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -166,8 +174,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Aurа replaced Turtle as 2nd Compiler, and Hacking News...",
       "description": "Contributors to this edition; Aurа replaced Turtle as 2nd Compiler, and Hacking News (Goodies/zSerity), Security News (ven0m/Djlatino), Gaming News (Grievous/Anima Libera), and Tech News (Eternal./Abide) journalists are listed for Post Three.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

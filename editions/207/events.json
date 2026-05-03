@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "On August 27th someone made DNS changes for HackForums and Witza, briefly defacing Witza; Omniscient...",
       "description": "On August 27th someone made DNS changes for HackForums and Witza, briefly defacing Witza; Omniscient fixed the issue and confirmed no information was stolen.",
-      "thread": "http://hackforums.net/showthread.php?tid=4417712",
+      "url": "http://hackforums.net/showthread.php?tid=4417712",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added a 'Legalize It' award available for $50 BTC in support of cannabis legalization, wi...",
       "description": "Omniscient added a 'Legalize It' award available for $50 BTC in support of cannabis legalization, with 25% of donations going to NORML.org.",
-      "thread": "http://hackforums.net/showthread.php?tid=4421184",
+      "url": "http://hackforums.net/showthread.php?tid=4421184",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "On September 12th HF was down 45 minutes for maintenance; Omniscient cleared junk forums, deleted...",
       "description": "On September 12th HF was down 45 minutes for maintenance; Omniscient cleared junk forums, deleted users, and ran a post recount, removing approximately one million posts.",
-      "thread": "http://hackforums.net/showthread.php?tid=4421184",
+      "url": "http://hackforums.net/showthread.php?tid=4421184",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added a new $1,000 one-time 'Grand Amethyst' donation award; four members purchased it on...",
       "description": "Omniscient added a new $1,000 one-time 'Grand Amethyst' donation award; four members purchased it on day one, and Master Donator may become a $500 one-time purchase.",
-      "thread": "http://hackforums.net/showthread.php?tid=4439274",
+      "url": "http://hackforums.net/showthread.php?tid=4439274",
       "users": [
         {
           "uid": "1",
@@ -46,8 +50,9 @@
     },
     {
       "category": "groups",
+      "title": "Polymath ran a Polybot AI chatbot contest with hidden codes for prizes ranging from upgrades to...",
       "description": "Polymath ran a Polybot AI chatbot contest with hidden codes for prizes ranging from upgrades to group invites; the original thread was closed after 1,600 replies due to a glitch and Lani created a follow-up.",
-      "thread": "http://hackforums.net/showthread.php?tid=4441684",
+      "url": "http://hackforums.net/showthread.php?tid=4441684",
       "users": [
         {
           "uid": "42927",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Black Soul and ZuGgY hit 10,000 posts; Saturday and SαнεηSнαн hit 2,000 reputation; Aceman, Anima.,...",
       "description": "Black Soul and ZuGgY hit 10,000 posts; Saturday and SαнεηSнαн hit 2,000 reputation; Aceman, Anima., beslim, Canada, Maximum, Tyler, The Judge, Texno, and T3h Hack3r hit 1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1117229",
@@ -116,8 +122,9 @@
     },
     {
       "category": "users",
+      "title": "Hexicidal won Member of the Month; Skorp was promoted to Mentor; Froggy was demoted from Mentor and...",
       "description": "Hexicidal won Member of the Month; Skorp was promoted to Mentor; Froggy was demoted from Mentor and had her 10,000 reputation from Omniscient removed; FantaŠec and KyleWTF had their accounts reopened (FantaŠec then re-closed and repfucked).",
-      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "url": "http://hackforums.net/showthread.php?tid=4316258",
       "users": [
         {
           "uid": "863752",
@@ -147,8 +154,9 @@
     },
     {
       "category": "users",
+      "title": "Mahdy and Roku were banned for repfuck complaining; XilluX and Armanі were banned and repfucked for...",
       "description": "Mahdy and Roku were banned for repfuck complaining; XilluX and Armanі were banned and repfucked for leaking; Top Banana was banned and repfucked for Paypal holding; Zohaibb and Frenzy™ were banned and repfucked for trying to steal accounts; Firе was banned and repfucked for fraud; Autocorrect was banned and repfucked for multi-accounting; Pick was banned and repfucked for donation begging; steveds was banned and repfucked for abusing the report button; LightBlue was banned ('For Sparta!'); LiveSupport was repfucked for hinting for reputation; Lᴏᴠᴇ had account closed and repfucked for ban evasion; Six-Nine had account reopened, re-closed, and repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "872076",
@@ -214,8 +222,9 @@
     },
     {
       "category": "users",
+      "title": "Najort donated for Bitcoinage and Master Donator and received Legend and The Alien awards; Aceman...",
       "description": "Najort donated for Bitcoinage and Master Donator and received Legend and The Alien awards; Aceman donated for Master Donator and received Green Apple; Hexicidal received MOTM; Understalker, Bull™, Ty ™, and Trojan donated for the new Grand Amethyst award; Fresh Prince donated for Master Donator and received FPS Gawd; multiple members donated for the new Legalize It award.",
-      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "url": "http://hackforums.net/showthread.php?tid=4316258",
       "users": [
         {
           "uid": "1066893",
@@ -249,13 +258,15 @@
     },
     {
       "category": "groups",
+      "title": "Two new groups appeared during the HF News' absence: The Revolution and Titans, both converted from...",
       "description": "Two new groups appeared during the HF News' absence: The Revolution and Titans, both converted from previous groups with three new leaders each.",
-      "thread": "http://hackforums.net/showthread.php?tid=4452939"
+      "url": "http://hackforums.net/showthread.php?tid=4452939"
     },
     {
       "category": "groups",
+      "title": "Group sale frenzy: Fly By Night was sold and rebranded as Specialist (with Tɦɛ Gʀiɱ added to...",
       "description": "Group sale frenzy: Fly By Night was sold and rebranded as Specialist (with Tɦɛ Gʀiɱ added to leadership), Infamous was sold and is becoming Titans (Realizm), and Tibit's The Empire was put up for sale.",
-      "thread": "http://hackforums.net/showthread.php?tid=4316258",
+      "url": "http://hackforums.net/showthread.php?tid=4316258",
       "users": [
         {
           "uid": "4066",
@@ -277,8 +288,9 @@
     },
     {
       "category": "groups",
+      "title": "Sh1eld was removed as leader of Polymath.",
       "description": "Sh1eld was removed as leader of Polymath.",
-      "thread": "http://hackforums.net/showthread.php?tid=4437063",
+      "url": "http://hackforums.net/showthread.php?tid=4437063",
       "users": [
         {
           "uid": "608523",
@@ -288,8 +300,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Soulmate conducted by Clique; covers his corgi obsession, his gamertag-derived...",
       "description": "Interview with Soulmate conducted by Clique; covers his corgi obsession, his gamertag-derived username, his views on declining marketplace value, and his repeated Ub3r denials linked to Haunter Gang membership.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -303,8 +316,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Nivarka conducted by Alien; covers his Instinct membership and Package banter, his...",
       "description": "Interview with Nivarka conducted by Alien; covers his Instinct membership and Package banter, his L'appel du vide intellectual discussion, his anti-theist views, his currency exchange service that earned him Master Donator, and his rock and EDM music interests.",
-      "thread": "http://hackforums.net/showthread.php?tid=4421371",
+      "url": "http://hackforums.net/showthread.php?tid=4421371",
       "users": [
         {
           "uid": "952870",
@@ -318,8 +332,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Krixus conducted by 630; covers his Instinct membership, his MMORPG gaming...",
       "description": "Interview with Krixus conducted by 630; covers his Instinct membership, his MMORPG gaming preferences, his Xbox 360 booter origin on HF, and his repeated Ub3r denials.",
-      "thread": "http://hackforums.net/showthread.php?tid=4418450",
+      "url": "http://hackforums.net/showthread.php?tid=4418450",
       "users": [
         {
           "uid": "797403",
@@ -333,8 +348,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Raptor.",
       "description": "Contributors to this edition; Raptor. joined as 6th Editor, 'Snorlax took 1st Compiler with Fox™ joining as 3rd Compiler, Tasemu joined for Podcast, Nivarka joined for Site News, Nobility took over Group News, and Tony Stark joined for Notable Threads.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

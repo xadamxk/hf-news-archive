@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "While Omniscient was away at Lake Tahoe, HF was down for 8 hours on the 22nd, the day after the 5th ...",
       "description": "While Omniscient was away at Lake Tahoe, HF was down for 8 hours on the 22nd, the day after the 5th anniversary.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,18 +14,21 @@
     },
     {
       "category": "site",
+      "title": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link tha...",
       "description": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link that leads to a phishing login page.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "groups",
+      "title": "TechSperts launched a new mentoring program with public classrooms; lessons are posted publicly afte...",
       "description": "TechSperts launched a new mentoring program with public classrooms; lessons are posted publicly afterward.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Riggs reached 1,000 reputation.",
       "description": "Riggs reached 1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "402384",
@@ -34,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "SWAGSTER was repfucked for using an adult image as his avatar.",
       "description": "SWAGSTER was repfucked for using an adult image as his avatar.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "510569",
@@ -45,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Marine was banned for fraudulent donations.",
       "description": "Marine was banned for fraudulent donations.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1260135",
@@ -56,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Netflix was banned for advertising a social engineering site.",
       "description": "Netflix was banned for advertising a social engineering site.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1058203",
@@ -67,8 +74,9 @@
     },
     {
       "category": "threads",
+      "title": "HJT Thread: Valiant's 'Inactivity Purge + Restructuring' explaining the HJT team's situation.",
       "description": "HJT Thread: Valiant's 'Inactivity Purge + Restructuring' explaining the HJT team's situation.",
-      "thread": "http://hackforums.net/showthread.php?tid=2435877",
+      "url": "http://hackforums.net/showthread.php?tid=2435877",
       "users": [
         {
           "uid": "45246",
@@ -78,8 +86,9 @@
     },
     {
       "category": "threads",
+      "title": "Admin Thread: Positive's 'Omniscient was at my house' story with photo proof of meeting the admin.",
       "description": "Admin Thread: Positive's 'Omniscient was at my house' story with photo proof of meeting the admin.",
-      "thread": "http://hackforums.net/showthread.php?tid=2438646",
+      "url": "http://hackforums.net/showthread.php?tid=2438646",
       "users": [
         {
           "uid": "323740",
@@ -93,8 +102,9 @@
     },
     {
       "category": "threads",
+      "title": "Dog Thread: Grammar Hax1n's heartwarming 'Dog dog dog..",
       "description": "Dog Thread: Grammar Hax1n's heartwarming 'Dog dog dog.. Bear Bear Bear' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2340905",
+      "url": "http://hackforums.net/showthread.php?tid=2340905",
       "users": [
         {
           "uid": "1067987",
@@ -104,8 +114,9 @@
     },
     {
       "category": "threads",
+      "title": "RAT Thread: -๖ۣۜDivine-'s TechSperts Lesson One — All about RATs.",
       "description": "RAT Thread: -๖ۣۜDivine-'s TechSperts Lesson One — All about RATs.",
-      "thread": "http://hackforums.net/showthread.php?tid=2429481",
+      "url": "http://hackforums.net/showthread.php?tid=2429481",
       "users": [
         {
           "uid": "1042274",
@@ -115,8 +126,9 @@
     },
     {
       "category": "users",
+      "title": "Dan. and Subscription and Яǝʌǝɹsǝ received the YouTube award; Genuine received the Jokester award;...",
       "description": "Dan. and Subscription and Яǝʌǝɹsǝ received the YouTube award; Genuine received the Jokester award; Sir received the Speaker of the House award; BELLAGIO received the Businessman award; TheVortex received the Master Donator and The Alien awards.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1011113",
@@ -150,8 +162,9 @@
     },
     {
       "category": "groups",
+      "title": "Existence was promoted to leader of Blackshades.",
       "description": "Existence was promoted to leader of Blackshades.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "451192",
@@ -161,8 +174,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Opulence conducted by Waleed; covers his joining HF for a Windows 7 key, favorite...",
       "description": "Interview with Opulence conducted by Waleed; covers his joining HF for a Windows 7 key, favorite memorable moments, and views on disallowed blackhat activity.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Waleed",
@@ -176,8 +190,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Phismatic conducted by Michael Westen; covers his Ub3r upgrade, views on legalization...",
       "description": "Interview with Phismatic conducted by Michael Westen; covers his Ub3r upgrade, views on legalization, and Hack Forums history.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -191,8 +206,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

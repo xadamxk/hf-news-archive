@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "A special 11/11/11 edition of HF News featuring an exclusive video interview with Omniscient and...",
       "description": "A special 11/11/11 edition of HF News featuring an exclusive video interview with Omniscient and trivia about the rare 11/11/11 date (last occurrence in 1911 brought the 'Great Blue Norther' storm; also marks Veterans Day and Remembrance Day).",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "interviews",
+      "title": "Exclusive video interview with Omniscient, published as a special 11/11/11 edition of HF News.",
       "description": "Exclusive video interview with Omniscient, published as a special 11/11/11 edition of HF News.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",

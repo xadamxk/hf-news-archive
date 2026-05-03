@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "groups",
+      "title": "BELLAGIO posted (and later junked) a userbar request thread for a new group; details unconfirmed.",
       "description": "BELLAGIO posted (and later junked) a userbar request thread for a new group; details unconfirmed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1007343",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient reported datacenter issues on Saturday the 25th; they have since been resolved.",
       "description": "Omniscient reported datacenter issues on Saturday the 25th; they have since been resolved.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient posted a thread soliciting member suggestions for HackForums' upcoming 5-year anniversary...",
       "description": "Omniscient posted a thread soliciting member suggestions for HackForums' upcoming 5-year anniversary.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "groups",
+      "title": "A new (almost-official) invite-only paid group called Illuminati is coming, purchased by BELLAGIO;...",
       "description": "A new (almost-official) invite-only paid group called Illuminati is coming, purchased by BELLAGIO; it focuses on marketing, monetizing, marketplace, currency exchanging, and giveaways.",
-      "thread": "http://hackforums.net/showthread.php?tid=2260457",
+      "url": "http://hackforums.net/showthread.php?tid=2260457",
       "users": [
         {
           "uid": "1007343",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Glassy reached 1,000 reputation.",
       "description": "Glassy reached 1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "734805",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Slayher was repfucked for asking Omniscient if he was approved for Ub3r without waiting 60 days.",
       "description": "Slayher was repfucked for asking Omniscient if he was approved for Ub3r without waiting 60 days.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "949857",
@@ -72,8 +78,9 @@
     },
     {
       "category": "users",
+      "title": "Emporer (formerly Storm Watch / Costal Waters) was banned for excessive scam reports.",
       "description": "Emporer (formerly Storm Watch / Costal Waters) was banned for excessive scam reports.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "415606",
@@ -83,8 +90,9 @@
     },
     {
       "category": "users",
+      "title": "Zach requested to have his account closed.",
       "description": "Zach requested to have his account closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "200751",
@@ -94,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Old. was banned for multiple accounts.",
       "description": "Old. was banned for multiple accounts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "394403",
@@ -105,8 +114,9 @@
     },
     {
       "category": "users",
+      "title": "Mr. Potato Head was banned and repfucked for abusing the reputation system.",
       "description": "Mr. Potato Head was banned and repfucked for abusing the reputation system.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "526277",
@@ -116,8 +126,9 @@
     },
     {
       "category": "users",
+      "title": "MLD was banned for repfuck complaining.",
       "description": "MLD was banned for repfuck complaining.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "738154",
@@ -127,8 +138,9 @@
     },
     {
       "category": "users",
+      "title": "Naxian (formerly Cymraeg) was banned for Ub3r junk abuse.",
       "description": "Naxian (formerly Cymraeg) was banned for Ub3r junk abuse.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "762186",
@@ -138,8 +150,9 @@
     },
     {
       "category": "users",
+      "title": "Uzi‍ was banned and repfucked for assisting a ban evader.",
       "description": "Uzi‍ was banned and repfucked for assisting a ban evader.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "898134",
@@ -149,8 +162,9 @@
     },
     {
       "category": "threads",
+      "title": "AIM Thread: Positive's notice that his AIM account was stolen.",
       "description": "AIM Thread: Positive's notice that his AIM account was stolen.",
-      "thread": "http://hackforums.net/showthread.php?tid=2233957",
+      "url": "http://hackforums.net/showthread.php?tid=2233957",
       "users": [
         {
           "uid": "323740",
@@ -160,8 +174,9 @@
     },
     {
       "category": "threads",
+      "title": "Marriage Thread: ven0m's announcement that Crow (ex-admin) got married.",
       "description": "Marriage Thread: ven0m's announcement that Crow (ex-admin) got married.",
-      "thread": "http://hackforums.net/showthread.php?tid=2252685",
+      "url": "http://hackforums.net/showthread.php?tid=2252685",
       "users": [
         {
           "uid": "91531",
@@ -175,8 +190,9 @@
     },
     {
       "category": "threads",
+      "title": "Vulcan Thread: Kill4joy KJ-Vulcan Tools's free high-quality software project (Vulcan Tools).",
       "description": "Vulcan Thread: Kill4joy KJ-Vulcan Tools's free high-quality software project (Vulcan Tools).",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "422270",
@@ -186,8 +202,9 @@
     },
     {
       "category": "users",
+      "title": "Astonish is NJ received The Protector award; Purple Haze received the Master Donator and RAT Expert...",
       "description": "Astonish is NJ received The Protector award; Purple Haze received the Master Donator and RAT Expert awards; -=Conqueror=- received The Protector; BELLAGIO received The Hustler and Master Donator; Minnesota Nice received The Alien.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "657392",
@@ -213,8 +230,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Groove1337 conducted by Michael Westen; covers his joining HF, NetFlirts purchase, e-...",
       "description": "Interview with Groove1337 conducted by Michael Westen; covers his joining HF, NetFlirts purchase, e-whoring activity, and rugby.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -227,8 +245,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Vizixify conducted by Paradise.; covers his Griefing section activity and Java progra...",
       "description": "Interview with Vizixify conducted by Paradise.; covers his Griefing section activity and Java programming.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "916706",
@@ -241,8 +260,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

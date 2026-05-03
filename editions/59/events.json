@@ -2,43 +2,51 @@
   "events": [
     {
       "category": "site",
+      "title": "The ban on Runescape discussions has been lifted; a Runescape sub-forum was reopened with new rules.",
       "description": "The ban on Runescape discussions has been lifted; a Runescape sub-forum was reopened with new rules.",
-      "thread": "http://hackforums.net/showthread.php?tid=1734800"
+      "url": "http://hackforums.net/showthread.php?tid=1734800"
     },
     {
       "category": "site",
+      "title": "A forum rules compilation page was created listing all forum-specific rules.",
       "description": "A forum rules compilation page was created listing all forum-specific rules.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban;...",
       "description": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban; a new 'Not In Marketplace' report option was added.",
-      "thread": "http://hackforums.net/showthread.php?tid=1735211"
+      "url": "http://hackforums.net/showthread.php?tid=1735211"
     },
     {
       "category": "site",
+      "title": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts ...",
       "description": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts a member has in individual sections.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "A Hackintosh Help sub-forum was added under Apple Mac and OS X for setup help and build guides.",
       "description": "A Hackintosh Help sub-forum was added under Apple Mac and OS X for setup help and build guides.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "A Partnerships, Hiring, and Personnel sub-forum was added under Service Offerings.",
       "description": "A Partnerships, Hiring, and Personnel sub-forum was added under Service Offerings.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW...",
       "description": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW equipment, and similar items; account trading is not allowed there.",
-      "thread": "http://hackforums.net/showthread.php?tid=1735211"
+      "url": "http://hackforums.net/showthread.php?tid=1735211"
     },
     {
       "category": "users",
+      "title": "Rusty_v's account was compromised; the attacker repfucked 3 members, removed many reps, and swapped...",
       "description": "Rusty_v's account was compromised; the attacker repfucked 3 members, removed many reps, and swapped Liberty Reserve payment links to their own LR ID. He was also demoted from Staff to Mentor with no public reason given.",
-      "thread": "http://hackforums.net/showthread.php?tid=1729026",
+      "url": "http://hackforums.net/showthread.php?tid=1729026",
       "users": [
         {
           "username": "Rusty_v",
@@ -48,8 +56,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient published a list of currently country-blocked countries; the list is not permanent and is...",
       "description": "Omniscient published a list of currently country-blocked countries; the list is not permanent and is subject to change.",
-      "thread": "http://hackforums.net/showthread.php?tid=1727220",
+      "url": "http://hackforums.net/showthread.php?tid=1727220",
       "users": [
         {
           "uid": "1",
@@ -59,8 +68,9 @@
     },
     {
       "category": "users",
+      "title": "Scooter crossed 1,000 reputation, joining the top members; тнєJσкєя is climbing toward second place ...",
       "description": "Scooter crossed 1,000 reputation, joining the top members; тнєJσкєя is climbing toward second place behind Omniscient.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "361543",
@@ -78,8 +88,9 @@
     },
     {
       "category": "users",
+      "title": "Vitani's Mate reached 20,000 posts in nine months at over 85 posts per day, less than 2,000 from fir...",
       "description": "Vitani's Mate reached 20,000 posts in nine months at over 85 posts per day, less than 2,000 from first place in highest post count.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Vitani's Mate",
@@ -89,8 +100,9 @@
     },
     {
       "category": "users",
+      "title": "SeaNanners™'s 'first time eating sushi' video, posted to win the Sushi Lovers award, was revealed by...",
       "description": "SeaNanners™'s 'first time eating sushi' video, posted to win the Sushi Lovers award, was revealed by Defcon. to be a lie with leeched footage.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "SeaNanners™",
@@ -104,8 +116,9 @@
     },
     {
       "category": "users",
+      "title": "Anime Adventures launched AARadio, a member-run radio station headed by Tasemu.",
       "description": "Anime Adventures launched AARadio, a member-run radio station headed by Tasemu.",
-      "thread": "http://hackforums.net/showthread.php?tid=1700217",
+      "url": "http://hackforums.net/showthread.php?tid=1700217",
       "users": [
         {
           "username": "Tasemu",
@@ -115,8 +128,9 @@
     },
     {
       "category": "users",
+      "title": "Members posted threads warning about Avante's hosting; Poliice published a warning thread alongside ...",
       "description": "Members posted threads warning about Avante's hosting; Poliice published a warning thread alongside Avante's main hosting thread.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Avante",
@@ -130,8 +144,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with DiscipLe conducted by Valik ϟ; covers his gaming setup, favorite consoles, and compet...",
       "description": "Interview with DiscipLe conducted by Valik ϟ; covers his gaming setup, favorite consoles, and competitive gaming experience.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Valik ϟ"

@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "Saged reinstated to staff.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=811161",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Soldier of Fortune demoted from Forum Management.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=806857",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Ongoing uptime/server issues; new $300 server discussed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=805047&pid=7601002#pid7601002",
@@ -37,19 +37,19 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "HF News Crew formed (non-recruiting).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=799449"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "UB3R-only Negative Reputation Log added.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=811622"
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Solidify banned for controversial staff threads.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=804347",
@@ -61,13 +61,13 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Tinychat unbanned for HF room.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=814419"
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Omniscient addresses staff criticism.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=817057",

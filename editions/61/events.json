@@ -2,23 +2,27 @@
   "events": [
     {
       "category": "site",
+      "title": "A proxy killer plug-in was added that blocks proxies for both registration and login.",
       "description": "A proxy killer plug-in was added that blocks proxies for both registration and login.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "A new Graphics Market section was added under Service Offerings for graphics service sales.",
       "description": "A new Graphics Market section was added under Service Offerings for graphics service sales.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Opera Mini has been firewalled because ban evaders and scammers were using it like a VPN.",
       "description": "Opera Mini has been firewalled because ban evaders and scammers were using it like a VPN.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "An impersonator of Omniscient (@jesselabrocca) is posting infected links on Twitter; the only offici...",
       "description": "An impersonator of Omniscient (@jesselabrocca) is posting infected links on Twitter; the only official HF Twitter is @HackForumsNet.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -28,18 +32,21 @@
     },
     {
       "category": "site",
+      "title": "Official mods list page (modlist.php) and staff list page (stafflist.php) were added.",
       "description": "Official mods list page (modlist.php) and staff list page (stafflist.php) were added.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "An official Google +1 button was added to the footer to help with SEO.",
       "description": "An official Google +1 button was added to the footer to help with SEO.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "interviews",
+      "title": "Interview with Joey Tribbiani conducted by Kyle FYI™; covers his views on the Mentors expansion, the...",
       "description": "Interview with Joey Tribbiani conducted by Kyle FYI™; covers his views on the Mentors expansion, the Vouch system, and personal interests.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Kyle FYI™"

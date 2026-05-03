@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "Factor8™ appointed to staff.",
             "description": "",
             "url": "",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Factor8™ accidently repfucked TylerDurdenr - angering many users.",
             "description": "",
             "url": "",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Account security: secret word feature broken and reset for bug fix.",
             "description": "",
             "url": "",
@@ -45,13 +45,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Green MSN-like online indicator added next to usernames.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Birthdate changes disabled to reduce birthday trolling.",
             "description": "",
             "url": "",
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Large report backlog cleared; bans issued.",
             "description": "",
             "url": "",
@@ -75,7 +75,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Prone was banned for flaming.",
             "description": "",
             "url": "",
@@ -87,7 +87,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Report reason updated: signature limit -> profile violation.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=561622",
@@ -99,7 +99,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

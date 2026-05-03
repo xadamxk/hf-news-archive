@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Hack Forums experienced 36 hours of grueling downtime due to multiple DDoS attacks and subsequent...",
       "description": "Hack Forums experienced 36 hours of grueling downtime due to multiple DDoS attacks and subsequent server bugs; Omniscient documented the ordeal in a blog post.",
-      "thread": "http://hackforums.net/showthread.php?tid=3001666",
+      "url": "http://hackforums.net/showthread.php?tid=3001666",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Multiple users were banned and repfucked for attempted Amazon-related fraud as Omniscient cracked do...",
       "description": "Multiple users were banned and repfucked for attempted Amazon-related fraud as Omniscient cracked down on fraud across the forum.",
-      "thread": "http://hackforums.net/showthread.php?tid=3001666",
+      "url": "http://hackforums.net/showthread.php?tid=3001666",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient created a new 'Rewards and Small Favors' Marketplace subsection for services smaller than...",
       "description": "Omniscient created a new 'Rewards and Small Favors' Marketplace subsection for services smaller than those in Service Offerings.",
-      "thread": "http://hackforums.net/showthread.php?tid=3001666",
+      "url": "http://hackforums.net/showthread.php?tid=3001666",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Dan. won Member of the Month by a landslide of 108 votes (46-vote margin), the biggest MOTM win this...",
       "description": "Dan. won Member of the Month by a landslide of 108 votes (46-vote margin), the biggest MOTM win this year.",
-      "thread": "http://hackforums.net/showthread.php?tid=2988325",
+      "url": "http://hackforums.net/showthread.php?tid=2988325",
       "users": [
         {
           "uid": "1011113",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Natha reached 10,000 posts; Kr4z1 is no longer a Mentor.",
       "description": "Natha reached 10,000 posts; Kr4z1 is no longer a Mentor.",
-      "thread": "http://hackforums.net/showthread.php?tid=2988325",
+      "url": "http://hackforums.net/showthread.php?tid=2988325",
       "users": [
         {
           "uid": "121196",
@@ -61,8 +66,9 @@
     },
     {
       "category": "users",
+      "title": "Oats‌‌‌, Blazin, Snapback., Aspolale, and USMC Chris were repfucked.",
       "description": "Oats‌‌‌, Blazin, Snapback., Aspolale, and USMC Chris were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1316890",
@@ -88,8 +94,9 @@
     },
     {
       "category": "users",
+      "title": "Nickelodeon received the Brony award; Kool Kid received the Sticky Man award; Juicy Booty received t...",
       "description": "Nickelodeon received the Brony award; Kool Kid received the Sticky Man award; Juicy Booty received the Cool award.",
-      "thread": "http://hackforums.net/showthread.php?tid=2992802",
+      "url": "http://hackforums.net/showthread.php?tid=2992802",
       "users": [
         {
           "uid": "1206954",
@@ -107,8 +114,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Reptar ツ's 'Windows 8 [Information Thread]'.",
       "description": "Lounge Thread: Reptar ツ's 'Windows 8 [Information Thread]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2992802",
+      "url": "http://hackforums.net/showthread.php?tid=2992802",
       "users": [
         {
           "uid": "1450962",
@@ -118,8 +126,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Mr.",
       "description": "Lounge Thread: Mr. Anderson's 'Let's create a Virtual Nation for Hack Forums'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3008693",
+      "url": "http://hackforums.net/showthread.php?tid=3008693",
       "users": [
         {
           "uid": "114319",
@@ -129,8 +138,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with iElement conducted by +Entity; covers his promotion to Logic leader after creating...",
       "description": "Interview with iElement conducted by +Entity; covers his promotion to Logic leader after creating the group's graphics with Hexicidal, his graphics work for Rhythm, and Writ3rs regret.",
-      "thread": "http://hackforums.net/showthread.php?tid=3008693",
+      "url": "http://hackforums.net/showthread.php?tid=3008693",
       "users": [
         {
           "uid": "827711",
@@ -144,8 +154,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with iceybunneh and Viral Dragon conducted by Phytrix; covers their marriage origin via...",
       "description": "Interview with iceybunneh and Viral Dragon conducted by Phytrix; covers their marriage origin via MSN, Viral's leadership of the Wiki Team, icey's Innuendo Queen reputation and editor work, and detailed critique of HackerCraft.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1018876",
@@ -163,8 +174,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

@@ -1,13 +1,13 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "HackForums reaches 4,000,000 posts.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "New rule: no donation begging (signatures allowed with discretion).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=487418",
@@ -19,13 +19,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Sports World subforum created.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=167"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Switched CDN to Amazon Web Services cloud hosting.",
             "description": "",
             "url": "",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

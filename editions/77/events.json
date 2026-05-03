@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "groups",
+      "title": "The new official group Propitious is finally here; the final payment was made on January 25 by leade...",
       "description": "The new official group Propitious is finally here; the final payment was made on January 25 by leaders iNviZ and TheHackersLove. Recruitment will open shortly.",
-      "thread": "http://hackforums.net/showthread.php?tid=2120149",
+      "url": "http://hackforums.net/showthread.php?tid=2120149",
       "users": [
         {
           "uid": "619030",
@@ -17,8 +18,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient censored the word 'mega-upload' (without hyphen) following the MegaUpload shutdown and th...",
       "description": "Omniscient censored the word 'mega-upload' (without hyphen) following the MegaUpload shutdown and the arrest of its owner.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -28,8 +30,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient fixed the PM exporting bug (also affecting other MyBB forums) and asked McAfee to change ...",
       "description": "Omniscient fixed the PM exporting bug (also affecting other MyBB forums) and asked McAfee to change HF's red rating to yellow.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -39,8 +42,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient has been sick for a week, delaying member upgrades; members are advised to be patient.",
       "description": "Omniscient has been sick for a week, delaying member upgrades; members are advised to be patient.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -50,8 +54,9 @@
     },
     {
       "category": "site",
+      "title": "A new Pentesting and Forensics forum was added under the Hacking tab for server vulnerability...",
       "description": "A new Pentesting and Forensics forum was added under the Hacking tab for server vulnerability discussions and security research; not yet open to new threads.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -61,8 +66,9 @@
     },
     {
       "category": "users",
+      "title": "bugga reached the 1,000 reputation milestone.",
       "description": "bugga reached the 1,000 reputation milestone.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "661940",
@@ -72,8 +78,9 @@
     },
     {
       "category": "users",
+      "title": "Diabolic was repfucked for the third time for a reputation violation.",
       "description": "Diabolic was repfucked for the third time for a reputation violation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "330676",
@@ -83,8 +90,9 @@
     },
     {
       "category": "users",
+      "title": "Plutonium was banned for breaking a rule and then ban-evaded by making a new account.",
       "description": "Plutonium was banned for breaking a rule and then ban-evaded by making a new account.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "127956",
@@ -94,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "WARZONE was banned by Judge Dredd with reason 'Hello darkness, my old friend.",
       "description": "WARZONE was banned by Judge Dredd with reason 'Hello darkness, my old friend. I've come to talk with you again.'",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "707090",
@@ -109,8 +118,9 @@
     },
     {
       "category": "users",
+      "title": "Yellows was banned for needlessly grave-digging.",
       "description": "Yellows was banned for needlessly grave-digging.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "524451",
@@ -120,8 +130,9 @@
     },
     {
       "category": "users",
+      "title": "OVO™, the music news writer, was banned by Omniscient with reason 'Being Reviewed'.",
       "description": "OVO™, the music news writer, was banned by Omniscient with reason 'Being Reviewed'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "371170",
@@ -135,8 +146,9 @@
     },
     {
       "category": "threads",
+      "title": "Ub3r Thread: Verilog's Ub3r Giveaway Program.",
       "description": "Ub3r Thread: Verilog's Ub3r Giveaway Program.",
-      "thread": "http://hackforums.net/showthread.php?tid=2016220",
+      "url": "http://hackforums.net/showthread.php?tid=2016220",
       "users": [
         {
           "uid": "309536",
@@ -146,8 +158,9 @@
     },
     {
       "category": "threads",
+      "title": "YouTube Thread: Coffee's guide on YouTube gaming partnerships.",
       "description": "YouTube Thread: Coffee's guide on YouTube gaming partnerships.",
-      "thread": "http://hackforums.net/showthread.php?tid=2102747",
+      "url": "http://hackforums.net/showthread.php?tid=2102747",
       "users": [
         {
           "uid": "91473",
@@ -157,8 +170,9 @@
     },
     {
       "category": "threads",
+      "title": "Middleman Thread: Morchid's Red Lions Official Middle Men Team.",
       "description": "Middleman Thread: Morchid's Red Lions Official Middle Men Team.",
-      "thread": "http://hackforums.net/showthread.php?tid=2051226",
+      "url": "http://hackforums.net/showthread.php?tid=2051226",
       "users": [
         {
           "uid": "613009",
@@ -168,8 +182,9 @@
     },
     {
       "category": "threads",
+      "title": "FAQ Thread: Kamz89's 'Hackforums FAQs Answered' newbie guide.",
       "description": "FAQ Thread: Kamz89's 'Hackforums FAQs Answered' newbie guide.",
-      "thread": "http://hackforums.net/showthread.php?tid=1978946",
+      "url": "http://hackforums.net/showthread.php?tid=1978946",
       "users": [
         {
           "uid": "678298",
@@ -179,8 +194,9 @@
     },
     {
       "category": "threads",
+      "title": "Cheat Thread: Wheelz's tested 'How To Cheat On Scantron' guide.",
       "description": "Cheat Thread: Wheelz's tested 'How To Cheat On Scantron' guide.",
-      "thread": "http://hackforums.net/showthread.php?tid=2144245",
+      "url": "http://hackforums.net/showthread.php?tid=2144245",
       "users": [
         {
           "uid": "811057",
@@ -190,8 +206,9 @@
     },
     {
       "category": "groups",
+      "title": "Zach is no longer leader of The RATs Crew or Eminence; Hуѕтєяιa X™ is no longer leader of Red Lions;...",
       "description": "Zach is no longer leader of The RATs Crew or Eminence; Hуѕтєяιa X™ is no longer leader of Red Lions; Morchid and Glassy were promoted to leaders of Red Lions.",
-      "thread": "http://hackforums.net/showthread.php?tid=2051226",
+      "url": "http://hackforums.net/showthread.php?tid=2051226",
       "users": [
         {
           "uid": "200751",
@@ -213,8 +230,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Irise conducted by Michael Westen; covers her FuckJagex origin, opinions on governmen...",
       "description": "Interview with Irise conducted by Michael Westen; covers her FuckJagex origin, opinions on government, and favorite sections.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -227,8 +245,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Legacy.",
       "description": "Interview with Legacy. conducted by Respect.; covers Reverence, his Gaming Mentor role, and SOPA/PIPA views.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Respect."
@@ -241,8 +260,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

@@ -1,19 +1,19 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "LUA Coding section created.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=161"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Hacking Tutorials reaches 8,000 threads.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=47"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Luchien Lachance was appointed Moderator of Science, Religion, and Politics.",
             "description": "",
             "url": "",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Soul Collector was banned for scamming.",
             "description": "",
             "url": "",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

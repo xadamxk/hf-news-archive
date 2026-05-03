@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "[MBAMFan!] - Sync™ accused of distributing backdoored OpenVPN; perm ban briefly lifted.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1177831",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "нα¢кєя awarded $500 and Google Hall of Fame listing after Google deface finding.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1194628",
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Master Donator awardees (>$500): Cняιs ★ Hуѕтєяια X™, Deities, iolaka.",
             "description": "",
             "url": "http://hackforums.net/myawards.php?awid=50",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Multiple 4-day bans issued for lounge flamefest (Mar 10).",
             "description": "",
             "url": "http://hackforums.net/bans.php",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "mothered surpasses 20,000 posts.",
             "description": "",
             "url": "",
@@ -85,7 +85,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Black Knights leaders S70N3R and Happeh removed after conflict with founder.",
             "description": "",
             "url": "",
@@ -105,7 +105,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Qwazz wins March Member of the Month.",
             "description": "",
             "url": "",
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Compiled reputable shell booters list (Tyler777).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1119831",
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "ProKill teases Justin Bieber hack; prior Selena Gomez hack referenced.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=973000",
@@ -141,7 +141,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Mike. banned two weeks (“Whatever fag”).",
             "description": "",
             "url": "",

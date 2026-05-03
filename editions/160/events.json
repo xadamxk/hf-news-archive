@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient warned League of Legends players that discussion of carding for in-game items, credits,...",
       "description": "Omniscient warned League of Legends players that discussion of carding for in-game items, credits, or memberships is disallowed under HF's fraud rules.",
-      "thread": "http://hackforums.net/showthread.php?tid=3748713",
+      "url": "http://hackforums.net/showthread.php?tid=3748713",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "The 'Electronics and Gadgets' section was renamed to 'Embedded Systems, Electronics, Gadgets, and...",
       "description": "The 'Electronics and Gadgets' section was renamed to 'Embedded Systems, Electronics, Gadgets, and DIY' after Mohatu's year-long suggestion thread, with new prefixes Raspberry Pi, Do It Yourself, Arduino, and Robotics.",
-      "thread": "http://hackforums.net/showthread.php?tid=2838072",
+      "url": "http://hackforums.net/showthread.php?tid=2838072",
       "users": [
         {
           "uid": "1082656",
@@ -24,8 +26,9 @@
     },
     {
       "category": "users",
+      "title": "D3xus passed his probation stage and became a full Staff member; Effexion hit 1,000 reputation; adam...",
       "description": "D3xus passed his probation stage and became a full Staff member; Effexion hit 1,000 reputation; adampelletgun reached 20,000 posts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "827711",
@@ -43,8 +46,9 @@
     },
     {
       "category": "users",
+      "title": "drugs was banned (the former Music News journalist); Masko was repfucked and banned; OMARATION was...",
       "description": "drugs was banned (the former Music News journalist); Masko was repfucked and banned; OMARATION was repfucked and banned; George Zimmerman, Viber, Ida, and Blizzard' were banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "752389",
@@ -78,8 +82,9 @@
     },
     {
       "category": "users",
+      "title": "Hayley Williams was banned for 'No PayPal fraud'; Litespeed was banned for 'False Community Alert';...",
       "description": "Hayley Williams was banned for 'No PayPal fraud'; Litespeed was banned for 'False Community Alert'; xadamxk was banned for 'Queen of the noobs - we care about his education'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "919183",
@@ -97,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Saturday received the Sticky Man award; - Sam - received The Protector award; Business.",
       "description": "Saturday received the Sticky Man award; - Sam - received The Protector award; Business. received Master Donator, Bitcoinage, Sticky Man, and Businessman awards; Vinnie' received the HackerCraft award; Isidar received the Alien award; Grin received the White Hat Helper award.",
-      "thread": "http://hackforums.net/showthread.php?tid=3753361",
+      "url": "http://hackforums.net/showthread.php?tid=3753361",
       "users": [
         {
           "uid": "787112",
@@ -128,8 +134,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Black Shadow's 'How I became a member of Hackforums Part 3'.",
       "description": "Lounge Thread: Black Shadow's 'How I became a member of Hackforums Part 3'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3752719",
+      "url": "http://hackforums.net/showthread.php?tid=3752719",
       "users": [
         {
           "uid": "63387",
@@ -139,8 +146,9 @@
     },
     {
       "category": "threads",
+      "title": "Beginner Hacking Thread: -Nas's 'The Beginner Hacking Help Thread'.",
       "description": "Beginner Hacking Thread: -Nas's 'The Beginner Hacking Help Thread'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3740374",
+      "url": "http://hackforums.net/showthread.php?tid=3740374",
       "users": [
         {
           "uid": "1452196",
@@ -150,8 +158,9 @@
     },
     {
       "category": "threads",
+      "title": "Science, Religion, Philosophy, and Politics Thread: Bad Meets Evil's '| Science] BME Basic Ecology G...",
       "description": "Science, Religion, Philosophy, and Politics Thread: Bad Meets Evil's '| Science] BME Basic Ecology Guide |'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3747310",
+      "url": "http://hackforums.net/showthread.php?tid=3747310",
       "users": [
         {
           "uid": "135189",
@@ -161,8 +170,9 @@
     },
     {
       "category": "site",
+      "title": "HackerCraft news returned with a dedicated reporting thread; Tᴇɴᴀxɪᴜᴍ was promoted to moderator and...",
       "description": "HackerCraft news returned with a dedicated reporting thread; Tᴇɴᴀxɪᴜᴍ was promoted to moderator and later lost the privilege; Werto mined 1,000 obsidian for an Instinct base; GodlikeGuy leaked Instinct's base coordinates; Sudsy built HackerCraft's first villager farm; Xypher and Saturday hosted upgrade contests.",
-      "thread": "http://hackforums.net/showthread.php?tid=3753361",
+      "url": "http://hackforums.net/showthread.php?tid=3753361",
       "users": [
         {
           "uid": "1759389",
@@ -192,8 +202,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Stl Missouri conducted by Lovol; covers his Minecraft griefing origins under the name...",
       "description": "Interview with Stl Missouri conducted by Lovol; covers his Minecraft griefing origins under the name BigJew, his work coding the Avid and Cobalt premium Minecraft clients, and his school IT work.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1645227",
@@ -207,8 +218,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with AlbinoShadow conducted by Xypher; covers the origin of his name, his decision to drop...",
       "description": "Interview with AlbinoShadow conducted by Xypher; covers the origin of his name, his decision to drop out of high school for college at 16, his Real-Time Interactive Simulation major focused on online strategy games and eSports, and his involvement with The Alliance.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "133256",
@@ -222,8 +234,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Morchid took over User News from Yellows, Harlem returned on Tech...",
       "description": "Contributors to this edition; Morchid took over User News from Yellows, Harlem returned on Tech News, and Emylbus joined as World News journalist.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

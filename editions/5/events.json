@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "XCH4NG3 appointed to staff.",
             "description": "",
             "url": "",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Rusty_V appointed to staff.",
             "description": "",
             "url": "",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Good Will Monday introduced (annual HF holiday for positivity).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=466320",
@@ -37,25 +37,25 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Marketplace Discussions section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=163"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Virtual Machines section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=165"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "CyberGate section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=166"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Banned topic: Zeus (financial malware).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=474743",
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Fusion banned for being disrespectful.",
             "description": "",
             "url": "",
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Korrupt banned for infecting members.",
             "description": "",
             "url": "",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

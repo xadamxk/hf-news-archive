@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Richie and T3h Hack3r were promoted to Probational Staff.",
       "description": "Richie and T3h Hack3r were promoted to Probational Staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "79121",
@@ -17,8 +18,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient updated the forum to MyBB 1.6.4 and is also planning to upgrade MySQL to 5.6.",
       "description": "Omniscient updated the forum to MyBB 1.6.4 and is also planning to upgrade MySQL to 5.6.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -28,8 +30,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient enabled post count in all sections of HackForums following feedback from Hуѕтєяιa X™.",
       "description": "Omniscient enabled post count in all sections of HackForums following feedback from Hуѕтєяιa X™.",
-      "thread": "http://hackforums.net/showthread.php?tid=1585794",
+      "url": "http://hackforums.net/showthread.php?tid=1585794",
       "users": [
         {
           "uid": "1",
@@ -43,18 +46,21 @@
     },
     {
       "category": "site",
+      "title": "As a result of post count being enabled in all sections, the minimum post length was raised from 25...",
       "description": "As a result of post count being enabled in all sections, the minimum post length was raised from 25 to 50 characters and the LQP warning was raised from 10 to 25 points per month.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Changes were made to warning levels.",
       "description": "Changes were made to warning levels.",
-      "thread": "http://hackforums.net/showthread.php?tid=1589913"
+      "url": "http://hackforums.net/showthread.php?tid=1589913"
     },
     {
       "category": "site",
+      "title": "Omniscient introduced new usertitles and post ranks.",
       "description": "Omniscient introduced new usertitles and post ranks.",
-      "thread": "http://hackforums.net/showthread.php?tid=1589936",
+      "url": "http://hackforums.net/showthread.php?tid=1589936",
       "users": [
         {
           "uid": "1",
@@ -64,8 +70,9 @@
     },
     {
       "category": "site",
+      "title": "New rule: no user is allowed to display site goals or achievements (posts, reps, upgrades, group mem...",
       "description": "New rule: no user is allowed to display site goals or achievements (posts, reps, upgrades, group memberships) in their signature.",
-      "thread": "http://hackforums.net/showthread.php?tid=1587185",
+      "url": "http://hackforums.net/showthread.php?tid=1587185",
       "users": [
         {
           "uid": "1",
@@ -75,8 +82,9 @@
     },
     {
       "category": "site",
+      "title": "The Testing sub-section under Introductions was removed.",
       "description": "The Testing sub-section under Introductions was removed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -86,8 +94,9 @@
     },
     {
       "category": "site",
+      "title": "Crow fixed many of the mistakes members had found in the help documents.",
       "description": "Crow fixed many of the mistakes members had found in the help documents.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Crow",
@@ -97,13 +106,15 @@
     },
     {
       "category": "site",
+      "title": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing ...",
       "description": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing sub-forum under Marketplace Discussions.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "After Hуѕтєяιa X™ gave his opinion on post count removal in some sections, Omniscient gave him a...",
       "description": "After Hуѕтєяιa X™ gave his opinion on post count removal in some sections, Omniscient gave him a post count of 355,323,000 as a joke before removing it; many members rep'd him for it.",
-      "thread": "http://hackforums.net/showthread.php?tid=1585794",
+      "url": "http://hackforums.net/showthread.php?tid=1585794",
       "users": [
         {
           "uid": "588781",
@@ -117,8 +128,9 @@
     },
     {
       "category": "users",
+      "title": "cobija and Factor8™ repfucked each other to test the assumption that staff couldn't repfuck each oth...",
       "description": "cobija and Factor8™ repfucked each other to test the assumption that staff couldn't repfuck each other; it worked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "100071",
@@ -132,8 +144,9 @@
     },
     {
       "category": "users",
+      "title": "Omniscient mistakenly repfucked Ethereal while intending to repfuck a different user (Mike.); he mad...",
       "description": "Omniscient mistakenly repfucked Ethereal while intending to repfuck a different user (Mike.); he made a public apology.",
-      "thread": "http://hackforums.net/showthread.php?tid=1581658",
+      "url": "http://hackforums.net/showthread.php?tid=1581658",
       "users": [
         {
           "uid": "1",
@@ -151,8 +164,9 @@
     },
     {
       "category": "users",
+      "title": "Omniscient gave himself the Asswipe award after the mistaken repfuck of Ethereal.",
       "description": "Omniscient gave himself the Asswipe award after the mistaken repfuck of Ethereal.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -162,8 +176,9 @@
     },
     {
       "category": "users",
+      "title": "Qwazz was given the Diamond award, becoming one of only 13 members to receive it.",
       "description": "Qwazz was given the Diamond award, becoming one of only 13 members to receive it.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "295848",
@@ -173,8 +188,9 @@
     },
     {
       "category": "users",
+      "title": "xvisceral permanently closed his account after resigning from BlackShades.",
       "description": "xvisceral permanently closed his account after resigning from BlackShades.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "xvisceral",
@@ -184,8 +200,9 @@
     },
     {
       "category": "groups",
+      "title": "C4Vendetta was promoted to leader of Graphic Masters after recovering his account from the dead grou...",
       "description": "C4Vendetta was promoted to leader of Graphic Masters after recovering his account from the dead group.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "C4Vendetta",
@@ -195,8 +212,9 @@
     },
     {
       "category": "users",
+      "title": "A N D R E W received the Militant award; only 9 users have ever received it.",
       "description": "A N D R E W received the Militant award; only 9 users have ever received it.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "A N D R E W",
@@ -206,8 +224,9 @@
     },
     {
       "category": "users",
+      "title": "Atthackers received the Gamer award for giving Omniscient a game for his birthday.",
       "description": "Atthackers received the Gamer award for giving Omniscient a game for his birthday.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "616850",
@@ -221,8 +240,9 @@
     },
     {
       "category": "users",
+      "title": "iNviZ received the Da Bomb award.",
       "description": "iNviZ received the Da Bomb award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "619030",
@@ -232,8 +252,9 @@
     },
     {
       "category": "users",
+      "title": "Brawl received the Master Donator award for his generous donations.",
       "description": "Brawl received the Master Donator award for his generous donations.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Brawl",
@@ -243,8 +264,9 @@
     },
     {
       "category": "users",
+      "title": "Oxid received the Drunk award from Omniscient shortly after the MyBB 1.6.4 update.",
       "description": "Oxid received the Drunk award from Omniscient shortly after the MyBB 1.6.4 update.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Oxid",
@@ -258,8 +280,9 @@
     },
     {
       "category": "users",
+      "title": "Mike. was repfucked and then banned for insulting Omniscient.",
       "description": "Mike. was repfucked and then banned for insulting Omniscient.",
-      "thread": "http://hackforums.net/showthread.php?tid=1581658",
+      "url": "http://hackforums.net/showthread.php?tid=1581658",
       "users": [
         {
           "username": "Mike.",
@@ -273,8 +296,9 @@
     },
     {
       "category": "users",
+      "title": "Tate has been limited for re-posting threads previously removed by staff.",
       "description": "Tate has been limited for re-posting threads previously removed by staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "101228",
@@ -284,8 +308,9 @@
     },
     {
       "category": "users",
+      "title": "S70N3R was limited for flaming/threatening/harassing and was later banned for hitting a 100% warning...",
       "description": "S70N3R was limited for flaming/threatening/harassing and was later banned for hitting a 100% warning level.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "132817",
@@ -295,8 +320,9 @@
     },
     {
       "category": "users",
+      "title": "HakkuR was permabanned by Omniscient but was unbanned shortly afterwards.",
       "description": "HakkuR was permabanned by Omniscient but was unbanned shortly afterwards.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "HakkuR",
@@ -310,8 +336,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Richie conducted by Positive; covers his joining HF, GFX work, and recent promotion t...",
       "description": "Interview with Richie conducted by Positive; covers his joining HF, GFX work, and recent promotion to Probational Staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "323740",
@@ -325,8 +352,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "277712",

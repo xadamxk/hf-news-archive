@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Planned new DB server and MyBB 1.6 upgrade discussed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=864282",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "The Elite steps down as HF News leader.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=867317",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "N3w_2_H@Ck1n™ steps down from staff (activity).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=846935",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Solidify permanently banned and account deleted.",
             "description": "",
             "url": "",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Cybr banned 3 months after rep-demand quote.",
             "description": "",
             "url": "",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Luchien Lachance removed as section moderator (multiple accounts).",
             "description": "",
             "url": "",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Wikileaks US diplomatic cables spark forum discussion.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=864618"

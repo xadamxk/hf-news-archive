@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "AsSaSs@iN stepped down as Super Moderator; remains HJT Teacher/Analyzer.",
             "description": "",
             "url": "",
@@ -13,13 +13,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Signature of the Week (SoTW) in introduced in Graphics section.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=157"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Reviewers group updates in progress.",
             "description": "",
             "url": "",
@@ -35,7 +35,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

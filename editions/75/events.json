@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient simplified the warning system: Low Quality Posting, Wrong Forum Posting, Cross Posting,...",
       "description": "Omniscient simplified the warning system: Low Quality Posting, Wrong Forum Posting, Cross Posting, and Off Topic warnings were merged into a single 'Posting Etiquette' warning (20%, one-month duration).",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient censored the word 'silent-rewards' (without hyphen), likely because the website was fake.",
       "description": "Omniscient censored the word 'silent-rewards' (without hyphen), likely because the website was fake.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "users",
+      "title": "Poppins reached 1,000 reputation points.",
       "description": "Poppins reached 1,000 reputation points.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "140749",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Diabolic reached 1,000 reputation points.",
       "description": "Diabolic reached 1,000 reputation points.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "330676",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Defcon was banned for 'Leaking at villainz'.",
       "description": "Defcon was banned for 'Leaking at villainz'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "574192",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Nyx- was banned for reputation abuse but reached his goal of -1,000 reputation.",
       "description": "Nyx- was banned for reputation abuse but reached his goal of -1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "11953",
@@ -68,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "Costal Waters (formerly Storm Watch) was confirmed as a scammer, repfucked, and banned.",
       "description": "Costal Waters (formerly Storm Watch) was confirmed as a scammer, repfucked, and banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "415606",
@@ -79,8 +86,9 @@
     },
     {
       "category": "users",
+      "title": "Quiet (formerly alabama) was banned on suspicion that his account had been compromised.",
       "description": "Quiet (formerly alabama) was banned on suspicion that his account had been compromised.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "622763",
@@ -90,8 +98,9 @@
     },
     {
       "category": "users",
+      "title": "OVO™, the HF News music writer, was repfucked for an l33t reversal.",
       "description": "OVO™, the HF News music writer, was repfucked for an l33t reversal.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "371170",
@@ -101,8 +110,9 @@
     },
     {
       "category": "threads",
+      "title": "4Chan Thread: Cody8295's coverage of the worldwide cicada treasure-hunt code emerging from a 4chan...",
       "description": "4Chan Thread: Cody8295's coverage of the worldwide cicada treasure-hunt code emerging from a 4chan image; he is reportedly close to cracking it.",
-      "thread": "http://hackforums.net/showthread.php?tid=2097331",
+      "url": "http://hackforums.net/showthread.php?tid=2097331",
       "users": [
         {
           "uid": "285755",
@@ -112,8 +122,9 @@
     },
     {
       "category": "threads",
+      "title": "Ask Thread: Factor8™'s 'Ask F8 any question' Q&A thread, with over 1,000 replies.",
       "description": "Ask Thread: Factor8™'s 'Ask F8 any question' Q&A thread, with over 1,000 replies.",
-      "thread": "http://hackforums.net/showthread.php?tid=1089175",
+      "url": "http://hackforums.net/showthread.php?tid=1089175",
       "users": [
         {
           "uid": "103669",
@@ -123,8 +134,9 @@
     },
     {
       "category": "threads",
+      "title": "MOTM Thread: devilpsn's 'MOTM Timeline' tracking past and future Member of the Month threads.",
       "description": "MOTM Thread: devilpsn's 'MOTM Timeline' tracking past and future Member of the Month threads.",
-      "thread": "http://hackforums.net/showthread.php?tid=2095933",
+      "url": "http://hackforums.net/showthread.php?tid=2095933",
       "users": [
         {
           "uid": "730111",
@@ -134,8 +146,9 @@
     },
     {
       "category": "threads",
+      "title": "Country Thread: Mr Kewl's thread proposing an island owned by the Hack Forums community.",
       "description": "Country Thread: Mr Kewl's thread proposing an island owned by the Hack Forums community.",
-      "thread": "http://hackforums.net/showthread.php?tid=2087795",
+      "url": "http://hackforums.net/showthread.php?tid=2087795",
       "users": [
         {
           "uid": "183072",
@@ -145,8 +158,9 @@
     },
     {
       "category": "users",
+      "title": "Swag ♥ received the Dancing Queen award; Diabolic received the Dog Lover award; ReactioNz received...",
       "description": "Swag ♥ received the Dancing Queen award; Diabolic received the Dog Lover award; ReactioNz received the Gamer award; xerotic received the MOTM award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "434812",
@@ -168,8 +182,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Diabolic conducted by Innocence.; covers his return after a 2009 hack, Diabolic-Serve...",
       "description": "Interview with Diabolic conducted by Innocence.; covers his return after a 2009 hack, Diabolic-Servers business, and Propitious group.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Innocence.",
@@ -183,8 +198,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with .Zo conducted by Michael Westen; covers his joining HF, Computer & Online Gaming acti...",
       "description": "Interview with .Zo conducted by Michael Westen; covers his joining HF, Computer & Online Gaming activity, and views on the Vouch system.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -197,8 +213,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

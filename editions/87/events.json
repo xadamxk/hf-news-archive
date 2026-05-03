@@ -2,13 +2,15 @@
   "events": [
     {
       "category": "site",
+      "title": "HF News added a new 'Gaming News' section, with a layout update planned to include a section bar.",
       "description": "HF News added a new 'Gaming News' section, with a layout update planned to include a section bar.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "groups",
+      "title": "Castle Bravo renamed the suspended Minecrafters group to 'Root' — invite-only, focused on all things...",
       "description": "Castle Bravo renamed the suspended Minecrafters group to 'Root' — invite-only, focused on all things computer-related, with strict requirements.",
-      "thread": "http://hackforums.net/showthread.php?tid=2386223",
+      "url": "http://hackforums.net/showthread.php?tid=2386223",
       "users": [
         {
           "username": "Castle Bravo"
@@ -17,8 +19,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient announced that Ub3r and possibly l33t upgrade prices will change in the coming week, and...",
       "description": "Omniscient announced that Ub3r and possibly l33t upgrade prices will change in the coming week, and that he will no longer allow direct normal-to-ub3r upgrades.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -28,8 +31,9 @@
     },
     {
       "category": "users",
+      "title": "Rawr! was banned, repfucked, and had his awards removed for being associated with Time and Musky.",
       "description": "Rawr! was banned, repfucked, and had his awards removed for being associated with Time and Musky.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "594159",
@@ -39,8 +43,9 @@
     },
     {
       "category": "users",
+      "title": "panDa. had his account stolen.",
       "description": "panDa. had his account stolen.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "566671",
@@ -50,8 +55,9 @@
     },
     {
       "category": "users",
+      "title": "Nubby, Vito Scaletta, eXawn, and MLD were all banned for trolling/troll-account creation.",
       "description": "Nubby, Vito Scaletta, eXawn, and MLD were all banned for trolling/troll-account creation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "203626",
@@ -73,8 +79,9 @@
     },
     {
       "category": "users",
+      "title": "Neal Caffrey was banned for selling outside the Marketplace and had the ban extended after creating ...",
       "description": "Neal Caffrey was banned for selling outside the Marketplace and had the ban extended after creating another account.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "944024",
@@ -84,8 +91,9 @@
     },
     {
       "category": "threads",
+      "title": "Mac Thread: [M]'s 'Create an invisible Folder' tutorial.",
       "description": "Mac Thread: [M]'s 'Create an invisible Folder' tutorial.",
-      "thread": "http://hackforums.net/showthread.php?tid=2379517",
+      "url": "http://hackforums.net/showthread.php?tid=2379517",
       "users": [
         {
           "uid": "526511",
@@ -95,8 +103,9 @@
     },
     {
       "category": "threads",
+      "title": "WoW Thread: iPlay's continually-updated index of premium WoW guides.",
       "description": "WoW Thread: iPlay's continually-updated index of premium WoW guides.",
-      "thread": "http://hackforums.net/showthread.php?tid=2377748",
+      "url": "http://hackforums.net/showthread.php?tid=2377748",
       "users": [
         {
           "uid": "43337",
@@ -106,8 +115,9 @@
     },
     {
       "category": "threads",
+      "title": "Scandal Thread: Burst's exposé claiming The MammoTh used a fiverr advertisement to obtain his YouTub...",
       "description": "Scandal Thread: Burst's exposé claiming The MammoTh used a fiverr advertisement to obtain his YouTube award.",
-      "thread": "http://hackforums.net/showthread.php?tid=2386596",
+      "url": "http://hackforums.net/showthread.php?tid=2386596",
       "users": [
         {
           "uid": "1247066",
@@ -121,8 +131,9 @@
     },
     {
       "category": "threads",
+      "title": "XSS Thread: -Divine-'s 'Ultimate XSS Tutorial'.",
       "description": "XSS Thread: -Divine-'s 'Ultimate XSS Tutorial'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2375454",
+      "url": "http://hackforums.net/showthread.php?tid=2375454",
       "users": [
         {
           "uid": "1042274",
@@ -132,8 +143,9 @@
     },
     {
       "category": "users",
+      "title": "T3h Hack3r received the MOTM award.",
       "description": "T3h Hack3r received the MOTM award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "128873",
@@ -143,8 +155,9 @@
     },
     {
       "category": "groups",
+      "title": "Delicious and Mark Webber were demoted from leaders of Techsperts.",
       "description": "Delicious and Mark Webber were demoted from leaders of Techsperts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "275104",
@@ -158,8 +171,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with тнє Pυηιѕнєя conducted by Michael Westen; covers his joining HF for Runescape hacks,...",
       "description": "Interview with тнє Pυηιѕнєя conducted by Michael Westen; covers his joining HF for Runescape hacks, favorite section (Lounge), and personal views.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -172,8 +186,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

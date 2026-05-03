@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "HF News underwent a graphical overhaul; Cobalt+ has stepped down and left the news in Sir's hands;...",
       "description": "HF News underwent a graphical overhaul; Cobalt+ has stepped down and left the news in Sir's hands; editions are now combined with the regular news in the first post and user news in the second.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "277712",
@@ -17,8 +18,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient took a vacation to Disneyland (his fourth trip there) to spend time with his family; PMs...",
       "description": "Omniscient took a vacation to Disneyland (his fourth trip there) to spend time with his family; PMs and account upgrades have since been caught up.",
-      "thread": "http://hackforums.net/showthread.php?tid=1875183",
+      "url": "http://hackforums.net/showthread.php?tid=1875183",
       "users": [
         {
           "uid": "1",
@@ -28,8 +30,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient set new rules for the Hacking Tutorials section regarding eBooks, off-site links, videos,...",
       "description": "Omniscient set new rules for the Hacking Tutorials section regarding eBooks, off-site links, videos, and post format; a new sub-forum for Free Hacking Tutorials eBooks was also added.",
-      "thread": "http://hackforums.net/showthread.php?tid=1852486",
+      "url": "http://hackforums.net/showthread.php?tid=1852486",
       "users": [
         {
           "uid": "1",
@@ -39,8 +42,9 @@
     },
     {
       "category": "site",
+      "title": "For Halloween, Etheryte ran a community banner thread; Omniscient chose Emily's banner for the site.",
       "description": "For Halloween, Etheryte ran a community banner thread; Omniscient chose Emily's banner for the site.",
-      "thread": "http://hackforums.net/showthread.php?tid=1862797",
+      "url": "http://hackforums.net/showthread.php?tid=1862797",
       "users": [
         {
           "uid": "32695",
@@ -57,8 +61,9 @@
     },
     {
       "category": "site",
+      "title": "The site suffered several hours of downtime while Omniscient was away on his hiatus; he has stated n...",
       "description": "The site suffered several hours of downtime while Omniscient was away on his hiatus; he has stated nothing serious occurred.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -68,8 +73,9 @@
     },
     {
       "category": "groups",
+      "title": "Black Knights, led by hackdeveto, Amp™, and Wolves, has reopened recruitment.",
       "description": "Black Knights, led by hackdeveto, Amp™, and Wolves, has reopened recruitment.",
-      "thread": "http://hackforums.net/showthread.php?tid=1873326",
+      "url": "http://hackforums.net/showthread.php?tid=1873326",
       "users": [
         {
           "username": "hackdeveto"
@@ -86,8 +92,9 @@
     },
     {
       "category": "groups",
+      "title": "The HF Minecrafters Group, led by Dylan, was made official this week after Dylan paid the final...",
       "description": "The HF Minecrafters Group, led by Dylan, was made official this week after Dylan paid the final $1,000 to Omniscient — the first ever paid group to become official from a full payment.",
-      "thread": "http://hackforums.net/showthread.php?tid=1873326",
+      "url": "http://hackforums.net/showthread.php?tid=1873326",
       "users": [
         {
           "username": "Dylan",
@@ -101,8 +108,9 @@
     },
     {
       "category": "users",
+      "title": "Qwazz stepped down as moderator of the HF News section.",
       "description": "Qwazz stepped down as moderator of the HF News section.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "295848",
@@ -112,8 +120,9 @@
     },
     {
       "category": "users",
+      "title": "Soldier of Fortune returned to Hack Forums and has been seen posting in several sections.",
       "description": "Soldier of Fortune returned to Hack Forums and has been seen posting in several sections.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Soldier of Fortune",
@@ -123,8 +132,9 @@
     },
     {
       "category": "users",
+      "title": "DiscipLе was banned until 11-09-2011 for several reasons; uncertain whether he will return.",
       "description": "DiscipLе was banned until 11-09-2011 for several reasons; uncertain whether he will return.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "DiscipLе",
@@ -134,8 +144,9 @@
     },
     {
       "category": "users",
+      "title": "Alberto was banned until 11-05-11 for scamming Black Shadow out of $700.",
       "description": "Alberto was banned until 11-05-11 for scamming Black Shadow out of $700.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Alberto",
@@ -149,8 +160,9 @@
     },
     {
       "category": "users",
+      "title": "-mothered- was finally moved to the dead group after a hacker logged on to his account again.",
       "description": "-mothered- was finally moved to the dead group after a hacker logged on to his account again.",
-      "thread": "http://hackforums.net/showthread.php?tid=1873326",
+      "url": "http://hackforums.net/showthread.php?tid=1873326",
       "users": [
         {
           "username": "-mothered-",
@@ -160,8 +172,9 @@
     },
     {
       "category": "threads",
+      "title": "Helpful Thread: Ignite.",
       "description": "Helpful Thread: Ignite. and Valik's compiled 'Ultimate Xbox 360 Resource Guide.'",
-      "thread": "http://hackforums.net/showthread.php?tid=1861116",
+      "url": "http://hackforums.net/showthread.php?tid=1861116",
       "users": [
         {
           "username": "Ignite.",
@@ -174,8 +187,9 @@
     },
     {
       "category": "threads",
+      "title": "Blackhat Thread: Suhinder™'s tutorial on setting up a Cythosia HTTP Botnet.",
       "description": "Blackhat Thread: Suhinder™'s tutorial on setting up a Cythosia HTTP Botnet.",
-      "thread": "http://hackforums.net/showthread.php?tid=1762595",
+      "url": "http://hackforums.net/showthread.php?tid=1762595",
       "users": [
         {
           "username": "Suhinder™",
@@ -185,8 +199,9 @@
     },
     {
       "category": "threads",
+      "title": "TinyChat Thread: Storm Watch's 'Drug Cartel - HF Tinychat,' the largest TinyChat group to date and s...",
       "description": "TinyChat Thread: Storm Watch's 'Drug Cartel - HF Tinychat,' the largest TinyChat group to date and stickied in its section.",
-      "thread": "http://hackforums.net/showthread.php?tid=1823638",
+      "url": "http://hackforums.net/showthread.php?tid=1823638",
       "users": [
         {
           "username": "Storm Watch",
@@ -196,8 +211,9 @@
     },
     {
       "category": "threads",
+      "title": "Member Returning Thread: Prokill's reintroduction thread; he is well known for hacking many social-n...",
       "description": "Member Returning Thread: Prokill's reintroduction thread; he is well known for hacking many social-network accounts of celebrities.",
-      "thread": "http://hackforums.net/showthread.php?tid=1859597",
+      "url": "http://hackforums.net/showthread.php?tid=1859597",
       "users": [
         {
           "username": "Prokill",
@@ -207,8 +223,9 @@
     },
     {
       "category": "threads",
+      "title": "Bragging Thread: mrwhich's claim of $63,000 in October 2011 earnings via undisclosed monetizing tech...",
       "description": "Bragging Thread: mrwhich's claim of $63,000 in October 2011 earnings via undisclosed monetizing techniques (with proof).",
-      "thread": "http://hackforums.net/showthread.php?tid=1829330",
+      "url": "http://hackforums.net/showthread.php?tid=1829330",
       "users": [
         {
           "username": "mrwhich",
@@ -218,8 +235,9 @@
     },
     {
       "category": "threads",
+      "title": "Helpful Tutorial: Mr.",
       "description": "Helpful Tutorial: Mr. Apple's thread on improving Minecraft frame rates.",
-      "thread": "http://hackforums.net/showthread.php?tid=1870203",
+      "url": "http://hackforums.net/showthread.php?tid=1870203",
       "users": [
         {
           "username": "Mr. Apple",
@@ -229,8 +247,9 @@
     },
     {
       "category": "groups",
+      "title": "Rhythm was promoted to leader of Graphics Masters; WiFi.",
       "description": "Rhythm was promoted to leader of Graphics Masters; WiFi. was demoted from leadership of The RATs Crew.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "126704",
@@ -244,8 +263,9 @@
     },
     {
       "category": "users",
+      "title": "Mostskillful received the GFX Guru award; The Operator received Speaker of the House; The MammoTh...",
       "description": "Mostskillful received the GFX Guru award; The Operator received Speaker of the House; The MammoTh received The Alien; Diabolic received Grammar Nazi; Ignite. received Rat Expert; bugga received the Diamond award; Judge Dredd received Cuddly and Cute; Orgy received Businessman; RRain received Sticky Man.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Mostskillful"
@@ -283,8 +303,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Mark Webber conducted by Michael Westen; covers his Techsperts membership, hardware...",
       "description": "Interview with Mark Webber conducted by Michael Westen; covers his Techsperts membership, hardware passion, music career, and Formula 1 fandom.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Michael Westen",
@@ -298,8 +319,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Riggs conducted by Daniel Faraday; covers his views on HF maturity, Marketers group, ...",
       "description": "Interview with Riggs conducted by Daniel Faraday; covers his views on HF maturity, Marketers group, and forum direction.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Daniel Faraday",

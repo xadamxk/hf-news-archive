@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "groups",
+      "title": "A new usergroup Polymath was created from a predecessor's ashes, led by Lani and Sh1eld, focused on...",
       "description": "A new usergroup Polymath was created from a predecessor's ashes, led by Lani and Sh1eld, focused on members with broad knowledge across multiple subjects.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110475",
+      "url": "http://hackforums.net/showthread.php?tid=4110475",
       "users": [
         {
           "uid": "42927",
@@ -17,8 +18,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient strongly reminded the community in response to a thread by Legit that he and staff will...",
       "description": "Omniscient strongly reminded the community in response to a thread by Legit that he and staff will not investigate deal disputes; the OP was closed for questioning how HF is run.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110472",
+      "url": "http://hackforums.net/showthread.php?tid=4110472",
       "users": [
         {
           "uid": "1",
@@ -32,8 +34,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added a new HackerCraft Market subforum atop the HackerCraft section for buying and...",
       "description": "Omniscient added a new HackerCraft Market subforum atop the HackerCraft section for buying and selling HackerCraft items in real currency or EcoMoney, following a suggestion by FeaturedBmx.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110361",
+      "url": "http://hackforums.net/showthread.php?tid=4110361",
       "users": [
         {
           "uid": "1",
@@ -47,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "'Snorlax hit 1,000 reputation and 20,000 posts; Cubs hit 1,000 reputation; Froggy received +10,000 r...",
       "description": "'Snorlax hit 1,000 reputation and 20,000 posts; Cubs hit 1,000 reputation; Froggy received +10,000 reputation from Omniscient.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110361",
+      "url": "http://hackforums.net/showthread.php?tid=4110361",
       "users": [
         {
           "uid": "44755",
@@ -70,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "N3oNight was banned for behavior problems; Stay Plural was banned for harassing members; proddy3 was...",
       "description": "N3oNight was banned for behavior problems; Stay Plural was banned for harassing members; proddy3 was repfucked and banned for having an invisible username; Tracked was repfucked and banned for nudity posting (later expired); Fullscreen was repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "300035",
@@ -97,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Cibor donated for Master Donator and received Great Thinker; 'Snorlax donated for Master Donator and...",
       "description": "Cibor donated for Master Donator and received Great Thinker; 'Snorlax donated for Master Donator and received Mad Scientist; Honey Singh received Businessman; Acroz received Blackhatter; Shoppa received Dancing Queen.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110361",
+      "url": "http://hackforums.net/showthread.php?tid=4110361",
       "users": [
         {
           "uid": "1866420",
@@ -124,8 +130,9 @@
     },
     {
       "category": "groups",
+      "title": "Lani and Sh1eld became leaders of Polymath; #Thunder is no longer a leader of The Empire.",
       "description": "Lani and Sh1eld became leaders of Polymath; #Thunder is no longer a leader of The Empire.",
-      "thread": "http://hackforums.net/showthread.php?tid=4101804",
+      "url": "http://hackforums.net/showthread.php?tid=4101804",
       "users": [
         {
           "uid": "42927",
@@ -143,8 +150,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Tom's '| GTA Online | Guide to GTA:O and everything you need to know |'.",
       "description": "Notable Thread: Tom's '| GTA Online | Guide to GTA:O and everything you need to know |'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4101804",
+      "url": "http://hackforums.net/showthread.php?tid=4101804",
       "users": [
         {
           "uid": "969003",
@@ -154,8 +162,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: White Light's '[Tutorial] A Comprehensive Guide To Batch'.",
       "description": "Notable Thread: White Light's '[Tutorial] A Comprehensive Guide To Batch'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4111888",
+      "url": "http://hackforums.net/showthread.php?tid=4111888",
       "users": [
         {
           "uid": "317312",
@@ -165,8 +174,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Tom's 'Ask the gays of HF.",
       "description": "Notable Thread: Tom's 'Ask the gays of HF. Discussions welcome!'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4101745",
+      "url": "http://hackforums.net/showthread.php?tid=4101745",
       "users": [
         {
           "uid": "969003",
@@ -176,8 +186,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Aura conducted by Clique; covers his new leadership of The Brotherhood, his...",
       "description": "Interview with Aura conducted by Clique; covers his new leadership of The Brotherhood, his MySQL/Java/ASP.NET school projects in Quebec, his goal of becoming a Cyber-Security Expert, and his Computing area helper activity.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -191,8 +202,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with TheCause conducted by 630; covers his radio DJ work, turntablist hobby, Computer...",
       "description": "Interview with TheCause conducted by 630; covers his radio DJ work, turntablist hobby, Computer Science/Business studies, and Instinct membership.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "797403",
@@ -206,8 +218,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with BlueTigerSlayer conducted by Clark; covers his finding HF via Minecraft griefing, his...",
       "description": "Interview with BlueTigerSlayer conducted by Clark; covers his finding HF via Minecraft griefing, his graphic design interest sparked by Calibur, his school plans, and his brief ewhoring stint.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -221,8 +234,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; 'Maniac took over User News and Neal Caffrey joined as World News jour...",
       "description": "Contributors to this edition; 'Maniac took over User News and Neal Caffrey joined as World News journalist.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

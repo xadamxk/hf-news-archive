@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient was implementing a CoinPayments autobuy system for awards when a misclick removed the...",
       "description": "Omniscient was implementing a CoinPayments autobuy system for awards when a misclick removed the Litecoinage award from all members; awards were restored using a UID list from a still-loaded browser tab.",
-      "thread": "http://hackforums.net/showthread.php?tid=4215615",
+      "url": "http://hackforums.net/showthread.php?tid=4215615",
       "users": [
         {
           "uid": "1",
@@ -17,8 +18,9 @@
     },
     {
       "category": "users",
+      "title": "Almighty Sosa™ had his account closed for distributing PlasmaHTTP stubs through giveaways, after...",
       "description": "Almighty Sosa™ had his account closed for distributing PlasmaHTTP stubs through giveaways, after Aurа led a White Hat Help investigation with -Hyperion and Arrhythmia; he had also scammed over 2,000 OmniCoins claiming his account was hijacked.",
-      "thread": "http://hackforums.net/showthread.php?tid=4212521",
+      "url": "http://hackforums.net/showthread.php?tid=4212521",
       "users": [
         {
           "uid": "2198289",
@@ -44,8 +46,9 @@
     },
     {
       "category": "site",
+      "title": "Ub3rs upgrading to 3P1C found their PM inbox limit doubled from 2,500 to 5,000 messages, the first r...",
       "description": "Ub3rs upgrading to 3P1C found their PM inbox limit doubled from 2,500 to 5,000 messages, the first revealed 3P1C benefit.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -55,8 +58,9 @@
     },
     {
       "category": "users",
+      "title": "GeWo hit 10,000 posts; BlueTigerSlayer hit 1,000 reputation; Spyro The Dragon hit 1,000 reputation;...",
       "description": "GeWo hit 10,000 posts; BlueTigerSlayer hit 1,000 reputation; Spyro The Dragon hit 1,000 reputation; Thrones was the first 3P1C member followed by Kiosi as second; Yellows hit 1,000 prestige.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1229273",
@@ -86,8 +90,9 @@
     },
     {
       "category": "users",
+      "title": "Aurа was highlighted for continuous assistance with computer issues in White Hat Help.",
       "description": "Aurа was highlighted for continuous assistance with computer issues in White Hat Help.",
-      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "url": "http://hackforums.net/showthread.php?tid=4205376",
       "users": [
         {
           "uid": "1495835",
@@ -97,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Michael was repfucked and banned for repfuck complaining; Plaтiпuм was repfucked and banned...",
       "description": "Michael was repfucked and banned for repfuck complaining; Plaтiпuм was repfucked and banned indefinitely as possibly compromised; HueyTheGod was repfucked and banned for poor manners; Mopex and tdog0403 were repfucked; Raft was banned for multiples; Tommy was banned for nonsense; Europe and zerоday were banned for LQP; RedDot™ was banned for assisting a ban evader; Lexington Steele was banned for LQP; Oshawa was banned for reputation abuse; Pimp of Heimlich County was banned for LQP; Reama was banned indefinitely as possibly compromised; Attention Wh**e was banned with account under investigation.",
-      "thread": "http://hackforums.net/showthread.php?tid=4205376",
+      "url": "http://hackforums.net/showthread.php?tid=4205376",
       "users": [
         {
           "uid": "1334543",
@@ -164,8 +170,9 @@
     },
     {
       "category": "users",
+      "title": "Papagallo, W3ARG, Regulus, and TRH4CK had expired bans for selling outside the Marketplace; ɱᴏʀƗɑɭ...",
       "description": "Papagallo, W3ARG, Regulus, and TRH4CK had expired bans for selling outside the Marketplace; ɱᴏʀƗɑɭ wᴏɱƄɑƗ had an expired ban for discussing identity fraud; zERAiT had an expired ban for discussing PayPal fraud.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "492171",
@@ -195,8 +202,9 @@
     },
     {
       "category": "users",
+      "title": "мr. X, One²ɜ, zасh, and Endloop took vacation bans; Veld and Zapu had their accounts closed.",
       "description": "мr. X, One²ɜ, zасh, and Endloop took vacation bans; Veld and Zapu had their accounts closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1061502",
@@ -226,8 +234,9 @@
     },
     {
       "category": "users",
+      "title": "Kiosi received GFX Geru and Thrones received GFX Guru; ЯѲβ ӍѲβ received Fish Err Man; Carnality...",
       "description": "Kiosi received GFX Geru and Thrones received GFX Guru; ЯѲβ ӍѲβ received Fish Err Man; Carnality donated for Master Donator and received Businessman; BitchGotRaped donated for Master Donator and received Militant; multiple users received the new OMC award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1436664",
@@ -253,8 +262,9 @@
     },
     {
       "category": "site",
+      "title": "OmniCoin gained traction being added to AllCrypt and CoinPayments within a month, with Cryptsy...",
       "description": "OmniCoin gained traction being added to AllCrypt and CoinPayments within a month, with Cryptsy reviewing it; Running1 made the first 'Pizza Index' purchase, buying a large cheese pizza for 1,700 OMC.",
-      "thread": "http://hackforums.net/showthread.php?tid=3708597",
+      "url": "http://hackforums.net/showthread.php?tid=3708597",
       "users": [
         {
           "uid": "2202225",
@@ -264,8 +274,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: xVulnerable's 'The Brotherhood | xVulnerable | Ask Any RAT Questions | RAT Help Desk...",
       "description": "Notable Thread: xVulnerable's 'The Brotherhood | xVulnerable | Ask Any RAT Questions | RAT Help Desk'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3708597",
+      "url": "http://hackforums.net/showthread.php?tid=3708597",
       "users": [
         {
           "uid": "1492625",
@@ -275,8 +286,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Chris Paul's 'Twitch views for anybody!' service.",
       "description": "Notable Thread: Chris Paul's 'Twitch views for anybody!' service.",
-      "thread": "http://hackforums.net/showthread.php?tid=4205507",
+      "url": "http://hackforums.net/showthread.php?tid=4205507",
       "users": [
         {
           "uid": "1974837",
@@ -286,8 +298,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: 'Snorlax's '[TUTORIAL] How to mine OMC with either a CPU, GPU, or both!'.",
       "description": "Notable Thread: 'Snorlax's '[TUTORIAL] How to mine OMC with either a CPU, GPU, or both!'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4159916",
+      "url": "http://hackforums.net/showthread.php?tid=4159916",
       "users": [
         {
           "uid": "44755",
@@ -297,8 +310,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Rainbow Dash's 'League of Legends - Post Your Username'.",
       "description": "Notable Thread: Rainbow Dash's 'League of Legends - Post Your Username'.",
-      "thread": "http://hackforums.net/showthread.php?tid=1093839",
+      "url": "http://hackforums.net/showthread.php?tid=1093839",
       "users": [
         {
           "uid": "592070",
@@ -308,8 +322,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: ๖ۣۜXilluX's 'LuxNET | Alpha 2.0 | Free Remote Administration Tool'.",
       "description": "Notable Thread: ๖ۣۜXilluX's 'LuxNET | Alpha 2.0 | Free Remote Administration Tool'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4082457",
+      "url": "http://hackforums.net/showthread.php?tid=4082457",
       "users": [
         {
           "uid": "1799321",
@@ -319,8 +334,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: 420 Blaze It's 'How To Crash Someone's Skype in 10 SECONDS'.",
       "description": "Notable Thread: 420 Blaze It's 'How To Crash Someone's Skype in 10 SECONDS'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4166932",
+      "url": "http://hackforums.net/showthread.php?tid=4166932",
       "users": [
         {
           "uid": "1452953",
@@ -330,8 +346,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Narwhal990's 'Clash of Clans Exploit Service | Free | Signup'.",
       "description": "Notable Thread: Narwhal990's 'Clash of Clans Exploit Service | Free | Signup'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4210265",
+      "url": "http://hackforums.net/showthread.php?tid=4210265",
       "users": [
         {
           "uid": "1555048",
@@ -341,8 +358,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Ðr1ps's 'Free GFX for everyone - [Avatars, Signatures, all kinds!]'.",
       "description": "Notable Thread: Ðr1ps's 'Free GFX for everyone - [Avatars, Signatures, all kinds!]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4164231",
+      "url": "http://hackforums.net/showthread.php?tid=4164231",
       "users": [
         {
           "uid": "1260585",
@@ -352,8 +370,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Feynman conducted by Clark; covers his Richard Feynman-inspired username, his...",
       "description": "Interview with Feynman conducted by Clark; covers his Richard Feynman-inspired username, his Biophysics Masters program, his recent step-down as Education Nation moderator after a mid-December mental health crisis, and his drinking-while-studying habits.",
-      "thread": "http://hackforums.net/showthread.php?tid=3502386",
+      "url": "http://hackforums.net/showthread.php?tid=3502386",
       "users": [
         {
           "uid": "1653635",
@@ -367,8 +386,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with I Am JT conducted by Clark; covers his ebook reseller business (now owning the...",
       "description": "Interview with I Am JT conducted by Clark; covers his ebook reseller business (now owning the rights), his TheTechGame-to-HF arrival in 2011 for OG gamertags, his pivot from Computer Science to Business & Finances, and an upcoming VPN service.",
-      "thread": "http://hackforums.net/showthread.php?tid=3502386",
+      "url": "http://hackforums.net/showthread.php?tid=3502386",
       "users": [
         {
           "uid": "1653635",
@@ -382,8 +402,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Slash6992 conducted by 630; covers his Computer Science studies aiming for Software...",
       "description": "Interview with Slash6992 conducted by 630; covers his Computer Science studies aiming for Software Engineering, his pet snail, and his HackerCraft activity since registering in late 2013.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "797403",
@@ -397,8 +418,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Crypto™ rebranded as BitMoney and #Beau took over Scientific News.",
       "description": "Contributors to this edition; Crypto™ rebranded as BitMoney and #Beau took over Scientific News.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "On September 18th HackForums experienced 14 hours of downtime due to a memory issue that crashed...",
       "description": "On September 18th HackForums experienced 14 hours of downtime due to a memory issue that crashed servers without alerting Omniscient; on September 28th additional maintenance for site updates and security upgrades caused a few hours of outages.",
-      "thread": "http://hackforums.net/showthread.php?tid=4452423",
+      "url": "http://hackforums.net/showthread.php?tid=4452423",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient posted a feedback poll about possibly bringing back HackerCraft, the official HF...",
       "description": "Omniscient posted a feedback poll about possibly bringing back HackerCraft, the official HF Minecraft server; 84% of 244 voters supported its return.",
-      "thread": "http://hackforums.net/showthread.php?tid=4466266",
+      "url": "http://hackforums.net/showthread.php?tid=4466266",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "On September 30th Omniscient bulk-closed about 48,000 accounts (47,000 regular, 1,000 L33t, 150...",
       "description": "On September 30th Omniscient bulk-closed about 48,000 accounts (47,000 regular, 1,000 L33t, 150 Ub3r) to prevent them being sold or stolen; rule changes accompanied the action and upgraded members can reopen with proof of ownership.",
-      "thread": "http://hackforums.net/showthread.php?tid=4469600",
+      "url": "http://hackforums.net/showthread.php?tid=4469600",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Yellows hit 1,000 prestige; inxy hit 24,000 posts; Fluxify, Japanese, jameshacker, and JonBD hit...",
       "description": "Yellows hit 1,000 prestige; inxy hit 24,000 posts; Fluxify, Japanese, jameshacker, and JonBD hit 1,000 reputation; Froggy was reinstated as a Mentor; Tony Stark was promoted to Mentor; Raptor. became Moderator of the League of Legends sub-forum.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "524451",
@@ -78,8 +82,9 @@
     },
     {
       "category": "users",
+      "title": "Bro? was banned for excessive username changes; Brule was banned for harassing members; Eeluminati...",
       "description": "Bro? was banned for excessive username changes; Brule was banned for harassing members; Eeluminati was banned and repfucked for a long vacation; futana and xillux were banned (futana repfucked) for multi-accounting; Neurility was banned for rep abuse; TheCrazy8th was banned and repfucked for account transfer/sharing; Evil was repfucked for severe rep abuse via PMs; Free Mason and ๖ۣۜXilluX had accounts closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "2282100",
@@ -125,8 +130,9 @@
     },
     {
       "category": "users",
+      "title": "Aceman received the Legend award; Black Shadow received the Cool award; Camerοn donated for Master...",
       "description": "Aceman received the Legend award; Black Shadow received the Cool award; Camerοn donated for Master Donator and received FPS Gawd; Glassy received the Sticky Man award; Goodies received the Genius award; iceybunneh won Member of the Month; nokia2mon2 received the Grand Amethyst award; sexyzach donated for Master Donator and received Top Banana; Satu had Master Donator, Emerald Donator, Hackercraft, Omnicoin, Litecoin, and Gift awards removed.",
-      "thread": "http://hackforums.net/showthread.php?tid=1982540",
+      "url": "http://hackforums.net/showthread.php?tid=1982540",
       "users": [
         {
           "uid": "934881",
@@ -168,8 +174,9 @@
     },
     {
       "category": "groups",
+      "title": "syrah put Zero up for sale at $9,000 USD via Bitcoin, Western Union, or in-person cash in NYC, LA, A...",
       "description": "syrah put Zero up for sale at $9,000 USD via Bitcoin, Western Union, or in-person cash in NYC, LA, Austin, or Boston.",
-      "thread": "http://hackforums.net/showthread.php?tid=4454771",
+      "url": "http://hackforums.net/showthread.php?tid=4454771",
       "users": [
         {
           "uid": "1763815",
@@ -179,8 +186,9 @@
     },
     {
       "category": "groups",
+      "title": "Vinnie put up Instinct group leadership for sale and changed Instinct from a group to a private gami...",
       "description": "Vinnie put up Instinct group leadership for sale and changed Instinct from a group to a private gaming community.",
-      "thread": "http://hackforums.net/showthread.php?tid=4471385",
+      "url": "http://hackforums.net/showthread.php?tid=4471385",
       "users": [
         {
           "uid": "600771",
@@ -190,8 +198,9 @@
     },
     {
       "category": "groups",
+      "title": "Multiple group leadership changes: Craze and Ζach changes in *#@?&%!",
       "description": "Multiple group leadership changes: Craze and Ζach changes in *#@?&%! (Teh Afro and Ζach added, Craze removed); Errors removed as Titans leader; Fade removed as Revolution leader; Grievous added to Enterprise; Maximum added to Zero; Roger Waters and 'Snorlax added to Brotherhood; Vinnie added to Illuminati.",
-      "thread": "http://hackforums.net/showthread.php?tid=4463515",
+      "url": "http://hackforums.net/showthread.php?tid=4463515",
       "users": [
         {
           "uid": "860828",
@@ -225,8 +234,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Avery conducted by 630; covers his PlayStation gaming circle, his upcoming title...",
       "description": "Interview with Avery conducted by 630; covers his PlayStation gaming circle, his upcoming title interests, his part-time bar job, and his planned 2015 college start in computing.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "797403",
@@ -240,8 +250,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Fortis conducted by 630; covers his l33t-tier perspective on HF, his federal...",
       "description": "Interview with Fortis conducted by 630; covers his l33t-tier perspective on HF, his federal probation following classified-files charges, his master plumber career and linguistics ambitions, his strict mobile-only HF use, and his artwork.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "797403",
@@ -255,8 +266,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Factor8™ conducted by Clique; covers his July 2010 Staff appointment, his 4.5-year...",
       "description": "Interview with Factor8™ conducted by Clique; covers his July 2010 Staff appointment, his 4.5-year admin tenure, his self-employed garments and scrap trading IRL, and his advice for aspiring moderators.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -270,8 +282,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; ӍeshCollider joined as 5th Editor, The Conjurer joined for Headlines,...",
       "description": "Contributors to this edition; ӍeshCollider joined as 5th Editor, The Conjurer joined for Headlines, D3xus joined for Group News, Justin Timberlake joined as Interviewer, Designer joined as Graphical Artist, and Eternal. and Grin joined as Reserve Writers; Yellows became Overseer.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

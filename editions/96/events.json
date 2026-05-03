@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient confirmed a Networking section will be added in the future after a 5-month-old suggestion...",
       "description": "Omniscient confirmed a Networking section will be added in the future after a 5-month-old suggestion thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2573045&pid=23432261#pid23432261",
+      "url": "http://hackforums.net/showthread.php?tid=2573045&pid=23432261#pid23432261",
       "users": [
         {
           "uid": "1",
@@ -13,13 +14,15 @@
     },
     {
       "category": "groups",
+      "title": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budgin...",
       "description": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budging.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "groups",
+      "title": "The Root group was sold to an unknown buyer for $3,000 in an auction by Castle Bravo; all current...",
       "description": "The Root group was sold to an unknown buyer for $3,000 in an auction by Castle Bravo; all current members will be kicked when the new leader takes over.",
-      "thread": "http://hackforums.net/showthread.php?tid=2574092",
+      "url": "http://hackforums.net/showthread.php?tid=2574092",
       "users": [
         {
           "username": "Castle Bravo"
@@ -28,13 +31,15 @@
     },
     {
       "category": "site",
+      "title": "Over one million posts were deleted from the Lounge, likely a routine post prune.",
       "description": "Over one million posts were deleted from the Lounge, likely a routine post prune.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Glassy was promoted to Mentor.",
       "description": "Glassy was promoted to Mentor.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "734805",
@@ -44,8 +49,9 @@
     },
     {
       "category": "users",
+      "title": "Scooter, previously a 2,000+ rep member, was repfucked and banned.",
       "description": "Scooter, previously a 2,000+ rep member, was repfucked and banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "361543",
@@ -55,8 +61,9 @@
     },
     {
       "category": "users",
+      "title": "Xenochrist had his account closed.",
       "description": "Xenochrist had his account closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "119173",
@@ -66,8 +73,9 @@
     },
     {
       "category": "users",
+      "title": "I Smoke Loud (formerly `P R O D I G Y™) was banned for scamming.",
       "description": "I Smoke Loud (formerly `P R O D I G Y™) was banned for scamming.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "127732",
@@ -77,8 +85,9 @@
     },
     {
       "category": "threads",
+      "title": "malichi's 'Too young for pot?' debate thread.",
       "description": "malichi's 'Too young for pot?' debate thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2584023",
+      "url": "http://hackforums.net/showthread.php?tid=2584023",
       "users": [
         {
           "uid": "1044864",
@@ -88,8 +97,9 @@
     },
     {
       "category": "threads",
+      "title": "RIPPER's 'Dictatory or democracy' thread.",
       "description": "RIPPER's 'Dictatory or democracy' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2578745",
+      "url": "http://hackforums.net/showthread.php?tid=2578745",
       "users": [
         {
           "uid": "1171778",
@@ -99,8 +109,9 @@
     },
     {
       "category": "threads",
+      "title": "Mr. Anderson's 'Tomb Raider sexual assault scene, remove it?' thread.",
       "description": "Mr. Anderson's 'Tomb Raider sexual assault scene, remove it?' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2575842",
+      "url": "http://hackforums.net/showthread.php?tid=2575842",
       "users": [
         {
           "uid": "114319",
@@ -110,8 +121,9 @@
     },
     {
       "category": "threads",
+      "title": "Horkos's 'Why our lives are pointless and redundant' thread.",
       "description": "Horkos's 'Why our lives are pointless and redundant' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2575429",
+      "url": "http://hackforums.net/showthread.php?tid=2575429",
       "users": [
         {
           "uid": "65167",
@@ -121,8 +133,9 @@
     },
     {
       "category": "users",
+      "title": "Bok1ca purchased the Brony award.",
       "description": "Bok1ca purchased the Brony award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "379282",
@@ -132,8 +145,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Jae conducted by SoulZeh; covers his eight-group membership, Lounge raids in TechSper...",
       "description": "Interview with Jae conducted by SoulZeh; covers his eight-group membership, Lounge raids in TechSperts, and views on Ub3r privilege.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "516470",
@@ -147,8 +161,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Grammar Rays conducted by Phytrix; covers his goals on HF, the Brony award incident, ...",
       "description": "Interview with Grammar Rays conducted by Phytrix; covers his goals on HF, the Brony award incident, and college plans.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1018876",
@@ -162,8 +177,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Brandenx781 conducted by RDCA; covers his HJT Team training journey from SupportForum...",
       "description": "Interview with Brandenx781 conducted by RDCA; covers his HJT Team training journey from SupportForums to HF and his teaching philosophy.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "RDCA",
@@ -177,8 +193,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition. New writers added: ρяιη¢є (Tech News), MarkMare (Gaming News); Phytrix and RDCA new interviewers; PyroStorm proofreader; AvidWB webshow host.",
-      "thread": "http://hackforums.net/showthread.php?tid=2575842",
+      "url": "http://hackforums.net/showthread.php?tid=2575842",
       "users": [
         {
           "uid": "515249",

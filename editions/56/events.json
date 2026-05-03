@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient is aware of CloudFlare/MyBB/MySQL errors; 'I got an error' threads will be warned.",
       "description": "Omniscient is aware of CloudFlare/MyBB/MySQL errors; 'I got an error' threads will be warned.",
-      "thread": "http://hackforums.net/showthread.php?tid=1646522",
+      "url": "http://hackforums.net/showthread.php?tid=1646522",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient clarified the role of staff and what they are not supposed to do.",
       "description": "Omniscient clarified the role of staff and what they are not supposed to do.",
-      "thread": "http://hackforums.net/showthread.php?tid=1626581",
+      "url": "http://hackforums.net/showthread.php?tid=1626581",
       "users": [
         {
           "uid": "1",
@@ -24,18 +26,21 @@
     },
     {
       "category": "site",
+      "title": "Dynamic images are no longer allowed in signatures or avatars.",
       "description": "Dynamic images are no longer allowed in signatures or avatars.",
-      "thread": "http://hackforums.net/showthread.php?tid=1638851"
+      "url": "http://hackforums.net/showthread.php?tid=1638851"
     },
     {
       "category": "site",
+      "title": "Minimum post length lowered from 40 to 35 characters; PM box capacity for regular members lowered...",
       "description": "Minimum post length lowered from 40 to 35 characters; PM box capacity for regular members lowered from 100 to 50 to keep the table manageable.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "A new C# Programming Language sub-section was created under Visual Basic and .NET Framework, after a...",
       "description": "A new C# Programming Language sub-section was created under Visual Basic and .NET Framework, after a suggestion from BaussHacker.",
-      "thread": "http://hackforums.net/showthread.php?tid=1636868",
+      "url": "http://hackforums.net/showthread.php?tid=1636868",
       "users": [
         {
           "username": "BaussHacker",
@@ -45,8 +50,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient permanently removed the dead.php feature; the dead group has 63,000 users.",
       "description": "Omniscient permanently removed the dead.php feature; the dead group has 63,000 users.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -56,8 +62,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient forbade the sale of hosting in the Hosting section under the Webmasters tab.",
       "description": "Omniscient forbade the sale of hosting in the Hosting section under the Webmasters tab.",
-      "thread": "http://hackforums.net/showthread.php?tid=1639501",
+      "url": "http://hackforums.net/showthread.php?tid=1639501",
       "users": [
         {
           "uid": "1",
@@ -67,8 +74,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient reached 3,000 reputation this week.",
       "description": "Omniscient reached 3,000 reputation this week.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -78,8 +86,9 @@
     },
     {
       "category": "groups",
+      "title": "A new private group named Haunter Gang was set up, owned by member Time.",
       "description": "A new private group named Haunter Gang was set up, owned by member Time.",
-      "thread": "http://hackforums.net/showthread.php?tid=1647671",
+      "url": "http://hackforums.net/showthread.php?tid=1647671",
       "users": [
         {
           "username": "Time",
@@ -89,8 +98,9 @@
     },
     {
       "category": "users",
+      "title": "๖ۣۜPink ๖ۣۜFloyd released the first Ace of Spades server on Hack Forums.",
       "description": "๖ۣۜPink ๖ۣۜFloyd released the first Ace of Spades server on Hack Forums.",
-      "thread": "http://hackforums.net/showthread.php?tid=1638677",
+      "url": "http://hackforums.net/showthread.php?tid=1638677",
       "users": [
         {
           "uid": "215614",
@@ -100,8 +110,9 @@
     },
     {
       "category": "users",
+      "title": "๖ۣۜΗ α x O r ♥ hacked RankMyHack.com.",
       "description": "๖ۣۜΗ α x O r ♥ hacked RankMyHack.com.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "๖ۣۜΗ α x O r ♥",
@@ -111,8 +122,9 @@
     },
     {
       "category": "users",
+      "title": "n4z1 created another guide, this time covering all things h4x0r.",
       "description": "n4z1 created another guide, this time covering all things h4x0r.",
-      "thread": "http://hackforums.net/showthread.php?tid=1637704",
+      "url": "http://hackforums.net/showthread.php?tid=1637704",
       "users": [
         {
           "username": "n4z1",
@@ -122,8 +134,9 @@
     },
     {
       "category": "groups",
+      "title": "Cam G is the new assistant leader of the Reviewers.",
       "description": "Cam G is the new assistant leader of the Reviewers.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Cam G",
@@ -133,8 +146,9 @@
     },
     {
       "category": "users",
+      "title": "Not Here and Ruggish both received the YouTube award even though it is supposedly no longer given ou...",
       "description": "Not Here and Ruggish both received the YouTube award even though it is supposedly no longer given out.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Not Here",
@@ -148,8 +162,9 @@
     },
     {
       "category": "users",
+      "title": "Taylor Gang received the White Hat Helper award for assisting people who needed help.",
       "description": "Taylor Gang received the White Hat Helper award for assisting people who needed help.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Taylor Gang",
@@ -159,8 +174,9 @@
     },
     {
       "category": "users",
+      "title": "Sync™ received the Fish Err Man award for having a 'nice clean aquarium.'",
       "description": "Sync™ received the Fish Err Man award for having a 'nice clean aquarium.'",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Sync™",
@@ -170,8 +186,9 @@
     },
     {
       "category": "users",
+      "title": "iNviZ became the second member to receive the FPS Gawd award.",
       "description": "iNviZ became the second member to receive the FPS Gawd award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "619030",
@@ -181,8 +198,9 @@
     },
     {
       "category": "groups",
+      "title": "Haunter Gang leader Sparky and member iZan were both banned for targeting Staff IPs through the sub-...",
       "description": "Haunter Gang leader Sparky and member iZan were both banned for targeting Staff IPs through the sub-forum; Sparky was also repfucked.",
-      "thread": "http://hackforums.net/showthread.php?tid=1647671",
+      "url": "http://hackforums.net/showthread.php?tid=1647671",
       "users": [
         {
           "username": "Sparky",
@@ -196,8 +214,9 @@
     },
     {
       "category": "users",
+      "title": "Cute was placed in the dead group due to an l33t reversal.",
       "description": "Cute was placed in the dead group due to an l33t reversal.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Cute",
@@ -207,8 +226,9 @@
     },
     {
       "category": "users",
+      "title": "Da Loser revealed and got over ten of his alt accounts deleted via a confession thread.",
       "description": "Da Loser revealed and got over ten of his alt accounts deleted via a confession thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=1647167",
+      "url": "http://hackforums.net/showthread.php?tid=1647167",
       "users": [
         {
           "username": "Da Loser"
@@ -217,8 +237,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Oldies (formerly Xypher) conducted by Diabolic; covers his joining HF, programming pi...",
       "description": "Interview with Oldies (formerly Xypher) conducted by Diabolic; covers his joining HF, programming pivot, and his new forum LifesForum.net.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Diabolic",
@@ -232,8 +253,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with iNviZ conducted by Positive; covers his Da Bomb award, hanging out with Omniscient in...",
       "description": "Interview with iNviZ conducted by Positive; covers his Da Bomb award, hanging out with Omniscient in Vegas, and upcoming free eBooks.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "323740",

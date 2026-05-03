@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "DB tables corrupted; multiple rollbacks to Monday 4am backup.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1109867",
@@ -13,19 +13,19 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Smiley set changed after recovery; users notified.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1113469"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Some l33t upgrades denied due to IP/billing mismatch.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1116625"
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Hanzo clarifies when to PM about reputation abuse.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1120960",

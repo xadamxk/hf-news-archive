@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "Solidify promoted to Lounge moderator; receives all Lounge reports.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=734566&pid=7176904#pid7176904",
@@ -17,19 +17,19 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Help docs updated: When to Contact Staff and Who is on staff.",
             "description": "",
             "url": "http://hackforums.net/misc.php?action=help&hid=27"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Crackdown on low quality posting in The Lounge.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Account 'tester' added as Lounge moderator (testing).",
             "description": "",
             "url": "",
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Community discussion about Solidify's moderation.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=759241",
@@ -53,13 +53,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Mentors confirmed to be implemented.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "HF News invites member submissions for Misc edition.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=752356"

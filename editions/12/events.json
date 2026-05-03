@@ -1,13 +1,13 @@
 {
     "events": [
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "No news events this week.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

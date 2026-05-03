@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient performed maintenance, removed the 'Limited' group (members moved to 'Closed'), and...",
       "description": "Omniscient performed maintenance, removed the 'Limited' group (members moved to 'Closed'), and updated the junk-thread warning to discourage mass junk abuse.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient temporarily replaced the HF banner with a festive fireworks design for New Year's, then r...",
       "description": "Omniscient temporarily replaced the HF banner with a festive fireworks design for New Year's, then reverted to the original.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Reports surfaced that ad placements on HF were infecting members; Omniscient said he had no clear ev...",
       "description": "Reports surfaced that ad placements on HF were infecting members; Omniscient said he had no clear evidence to confirm the claims.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "site",
+      "title": "The word 'booter-down' (without hyphen) was censored on HF, possibly tied to the ban of Orgy (a main...",
       "description": "The word 'booter-down' (without hyphen) was censored on HF, possibly tied to the ban of Orgy (a main contributor), who was repfucked and stripped of his Ub3r.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "182754",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Scooter reached 1,500 reputation points.",
       "description": "Scooter reached 1,500 reputation points.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "361543",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": ".Nielz reached the 10,000 posts milestone.",
       "description": ".Nielz reached the 10,000 posts milestone.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "176753",
@@ -68,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "flamingw0rm was banned for 'Selling HF Database' but was later unbanned.",
       "description": "flamingw0rm was banned for 'Selling HF Database' but was later unbanned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "71764",
@@ -79,8 +86,9 @@
     },
     {
       "category": "users",
+      "title": "Orgy was banned and repfucked with reason 'Enough of your nonsense'; he was unbanned early but lost...",
       "description": "Orgy was banned and repfucked with reason 'Enough of your nonsense'; he was unbanned early but lost his Businessman award and Ub3r subscription.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "182754",
@@ -90,8 +98,9 @@
     },
     {
       "category": "users",
+      "title": "BV1 ツ was repfucked for [censored] related reasons; TheHackersLove was repfucked for unknown reasons...",
       "description": "BV1 ツ was repfucked for [censored] related reasons; TheHackersLove was repfucked for unknown reasons.",
-      "thread": "http://hackforums.net/showthread.php?tid=2061236",
+      "url": "http://hackforums.net/showthread.php?tid=2061236",
       "users": [
         {
           "uid": "40895",
@@ -105,8 +114,9 @@
     },
     {
       "category": "users",
+      "title": "chocothunda was banned and repfucked for BHP Spamming.",
       "description": "chocothunda was banned and repfucked for BHP Spamming.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "355307",
@@ -116,8 +126,9 @@
     },
     {
       "category": "users",
+      "title": "Futuristic, owner of one of HF's most-sold worms, took a lengthy vacation ban until just before Apri...",
       "description": "Futuristic, owner of one of HF's most-sold worms, took a lengthy vacation ban until just before April.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "521076",
@@ -127,8 +138,9 @@
     },
     {
       "category": "users",
+      "title": "Cymraeg, an Ub3r member, was banned for not following Marketplace posting rules.",
       "description": "Cymraeg, an Ub3r member, was banned for not following Marketplace posting rules.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "762186",
@@ -138,8 +150,9 @@
     },
     {
       "category": "users",
+      "title": "Evil-Wish was banned and repfucked for advertising and spamming via PMs.",
       "description": "Evil-Wish was banned and repfucked for advertising and spamming via PMs.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1057515",
@@ -149,8 +162,9 @@
     },
     {
       "category": "users",
+      "title": "Banksy was banned for 'Constant Sales Trashing'.",
       "description": "Banksy was banned for 'Constant Sales Trashing'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "498184",
@@ -160,8 +174,9 @@
     },
     {
       "category": "users",
+      "title": "Amp™, leader of the Black Knights, was banned for DOX/SWAT threats via PM.",
       "description": "Amp™, leader of the Black Knights, was banned for DOX/SWAT threats via PM.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "496906",
@@ -171,8 +186,9 @@
     },
     {
       "category": "users",
+      "title": "Abuser™ was banned for using the same avatar as Administrator Judge Dredd.",
       "description": "Abuser™ was banned for using the same avatar as Administrator Judge Dredd.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "672987",
@@ -186,8 +202,9 @@
     },
     {
       "category": "threads",
+      "title": "Blackshades Thread: BV1 ツ's information thread regarding the Blackshades hacking/accusations rumor.",
       "description": "Blackshades Thread: BV1 ツ's information thread regarding the Blackshades hacking/accusations rumor.",
-      "thread": "http://hackforums.net/showthread.php?tid=2061236",
+      "url": "http://hackforums.net/showthread.php?tid=2061236",
       "users": [
         {
           "uid": "40895",
@@ -197,8 +214,9 @@
     },
     {
       "category": "threads",
+      "title": "Dredd Thread: Coach Dredd's stickied compilation of all DREDD resources, crack-mes, and tutorials.",
       "description": "Dredd Thread: Coach Dredd's stickied compilation of all DREDD resources, crack-mes, and tutorials.",
-      "thread": "http://hackforums.net/showthread.php?tid=2024936",
+      "url": "http://hackforums.net/showthread.php?tid=2024936",
       "users": [
         {
           "uid": "174257",
@@ -208,8 +226,9 @@
     },
     {
       "category": "threads",
+      "title": "Announcement Thread: Diabolic's 'Propitious | COMING SOON' announcement.",
       "description": "Announcement Thread: Diabolic's 'Propitious | COMING SOON' announcement.",
-      "thread": "http://hackforums.net/showthread.php?tid=2038090",
+      "url": "http://hackforums.net/showthread.php?tid=2038090",
       "users": [
         {
           "uid": "330676",
@@ -219,8 +238,9 @@
     },
     {
       "category": "threads",
+      "title": "Rap Thread: Riggs's stickied 'The HackForums Rap' in the Lounge.",
       "description": "Rap Thread: Riggs's stickied 'The HackForums Rap' in the Lounge.",
-      "thread": "http://hackforums.net/showthread.php?tid=1436482",
+      "url": "http://hackforums.net/showthread.php?tid=1436482",
       "users": [
         {
           "uid": "402384",
@@ -230,8 +250,9 @@
     },
     {
       "category": "users",
+      "title": "Tasemu received the Sticky Man award; -BoodyE- received the Drunk award.",
       "description": "Tasemu received the Sticky Man award; -BoodyE- received the Drunk award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "62795",
@@ -245,8 +266,9 @@
     },
     {
       "category": "groups",
+      "title": "Barneyyz™ was promoted to leader of the Minecrafters; Orgy and BV1 ツ were promoted to leaders of the...",
       "description": "Barneyyz™ was promoted to leader of the Minecrafters; Orgy and BV1 ツ were promoted to leaders of the Marketers.",
-      "thread": "http://hackforums.net/showthread.php?tid=2061236",
+      "url": "http://hackforums.net/showthread.php?tid=2061236",
       "users": [
         {
           "uid": "687297",
@@ -264,8 +286,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with The MammoTh conducted by Innocence.; covers his marketplace activity, the Vouch syste...",
       "description": "Interview with The MammoTh conducted by Innocence.; covers his marketplace activity, the Vouch system, and Crystal Products stresser.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Innocence.",
@@ -279,8 +302,9 @@
     },
     {
       "category": "interviews",
+      "title": "Video interview with Riggs and iNviZ.",
       "description": "Video interview with Riggs and iNviZ.",
-      "thread": "http://hackforums.net/showthread.php?tid=1436482",
+      "url": "http://hackforums.net/showthread.php?tid=1436482",
       "users": [
         {
           "uid": "402384",
@@ -294,8 +318,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": "http://hackforums.net/showthread.php?tid=2038090",
+      "url": "http://hackforums.net/showthread.php?tid=2038090",
       "users": [
         {
           "uid": "515249",

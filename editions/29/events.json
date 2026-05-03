@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Upgraded to MyBB 1.6x; subsequent downtime addressed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=916346",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Vacation Policy introduced for temporary account closures.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=907436",
@@ -25,13 +25,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Member of the Month award reinstated.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=920442"
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Gabber’s forum feedback thread noted.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=919706",

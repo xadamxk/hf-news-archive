@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "HF Wiki team forming; call for experienced contributors.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1327070",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Reported posts count reset for all members.",
             "description": "",
             "url": "",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Minor LAN/MySQL issues resolved.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1335474",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Lounge ban: LQ 'forum games' threads disallowed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1327117",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Upgrade prices for L33T and Ub3r increased; one-time coupon offered.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1323663",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "TrollForums launched by Omni.",
             "description": "",
             "url": "http://www.trollforums.com/",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "24-hour bans issued for 'lost wallet' spam in Lounge.",
             "description": "",
             "url": "",

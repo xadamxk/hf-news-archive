@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient added a 'Server Stress Testing' subforum under Premium Sellers; currently closed to new t...",
       "description": "Omniscient added a 'Server Stress Testing' subforum under Premium Sellers; currently closed to new threads.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Theme issues caused by a malfunctioning CDN were fixed.",
       "description": "Theme issues caused by a malfunctioning CDN were fixed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added login security: IPs that repeatedly fail to log in to multiple accounts will be...",
       "description": "Omniscient added login security: IPs that repeatedly fail to log in to multiple accounts will be blocked from HF, preventing account brute-forcing.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "site",
+      "title": "Factor8 (now admin) is in charge of stolen/lost account recovery; questions go to him via PM or the ...",
       "description": "Factor8 (now admin) is in charge of stolen/lost account recovery; questions go to him via PM or the contact form.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "103669",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Thoth was repfucked for making three threads asking for positive reputation.",
       "description": "Thoth was repfucked for making three threads asking for positive reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "300616",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "ß|Λcksí-íΛdΘw™ reached 1,000 reputation.",
       "description": "ß|Λcksí-íΛdΘw™ reached 1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "667183",
@@ -68,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "Evil. was banned and repfucked for swatting members.",
       "description": "Evil. was banned and repfucked for swatting members.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "690470",
@@ -79,8 +86,9 @@
     },
     {
       "category": "users",
+      "title": "iZan was permanently banned for attempting to steal HF accounts.",
       "description": "iZan was permanently banned for attempting to steal HF accounts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "427899",
@@ -90,8 +98,9 @@
     },
     {
       "category": "users",
+      "title": "Fanatic was banned and repfucked for supporting Cataclysm and giving mfjc positive reputation on his...",
       "description": "Fanatic was banned and repfucked for supporting Cataclysm and giving mfjc positive reputation on his new account.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "333869",
@@ -101,8 +110,9 @@
     },
     {
       "category": "users",
+      "title": "Rowdy was banned and repfucked for reselling for mfjc.",
       "description": "Rowdy was banned and repfucked for reselling for mfjc.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "148750",
@@ -112,8 +122,9 @@
     },
     {
       "category": "users",
+      "title": "mfjc was repfucked and placed in the dead account group after DOS attacking HF (42,000 page views) a...",
       "description": "mfjc was repfucked and placed in the dead account group after DOS attacking HF (42,000 page views) and reversing all payments to Omniscient.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1021197",
@@ -127,8 +138,9 @@
     },
     {
       "category": "threads",
+      "title": "MFJC Thread: Omniscient announced that all MFJC sales are banned following the DOS attack and charge...",
       "description": "MFJC Thread: Omniscient announced that all MFJC sales are banned following the DOS attack and chargebacks.",
-      "thread": "http://hackforums.net/showthread.php?tid=2232752",
+      "url": "http://hackforums.net/showthread.php?tid=2232752",
       "users": [
         {
           "uid": "1",
@@ -138,8 +150,9 @@
     },
     {
       "category": "threads",
+      "title": "Game Thread: Ignite.'s Respawn-hosted Community Playnight (HF vs Respawn) sign-up — typically MW3.",
       "description": "Game Thread: Ignite.'s Respawn-hosted Community Playnight (HF vs Respawn) sign-up — typically MW3.",
-      "thread": "http://hackforums.net/showthread.php?tid=2232455",
+      "url": "http://hackforums.net/showthread.php?tid=2232455",
       "users": [
         {
           "uid": "946680",
@@ -149,8 +162,9 @@
     },
     {
       "category": "threads",
+      "title": "Mental Thread: Compose's 'The Power Of The Mind' motivational thread.",
       "description": "Mental Thread: Compose's 'The Power Of The Mind' motivational thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2230404",
+      "url": "http://hackforums.net/showthread.php?tid=2230404",
       "users": [
         {
           "uid": "813594",
@@ -160,8 +174,9 @@
     },
     {
       "category": "threads",
+      "title": "Crypter Thread: ASM's NG Crypter, billed as the most advanced crypter on HF (creators of iCrypt).",
       "description": "Crypter Thread: ASM's NG Crypter, billed as the most advanced crypter on HF (creators of iCrypt).",
-      "thread": "http://hackforums.net/showthread.php?tid=2221235",
+      "url": "http://hackforums.net/showthread.php?tid=2221235",
       "users": [
         {
           "uid": "744040",
@@ -171,8 +186,9 @@
     },
     {
       "category": "groups",
+      "title": "Ignite. is now the leader of Respawn.",
       "description": "Ignite. is now the leader of Respawn.",
-      "thread": "http://hackforums.net/showthread.php?tid=2232455",
+      "url": "http://hackforums.net/showthread.php?tid=2232455",
       "users": [
         {
           "uid": "946680",
@@ -182,8 +198,9 @@
     },
     {
       "category": "users",
+      "title": "Invisus received the Master Donator and FPS Gawd awards; Purple Haze received the Fish Err Man award...",
       "description": "Invisus received the Master Donator and FPS Gawd awards; Purple Haze received the Fish Err Man award; Chocothunda received the Gamer award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "770060",
@@ -201,8 +218,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Astonish is NJ conducted by Paradise.; covers the Respawn group, plans for it, and HF...",
       "description": "Interview with Astonish is NJ conducted by Paradise.; covers the Respawn group, plans for it, and HF community thoughts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "916706",
@@ -216,8 +234,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with VipVince conducted by Michael Westen; covers Team INTRA, his Drunk award background...",
       "description": "Interview with VipVince conducted by Michael Westen; covers Team INTRA, his Drunk award background in Ibiza, and advice for aspiring hackers.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "735315",
@@ -231,8 +250,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

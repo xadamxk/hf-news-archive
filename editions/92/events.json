@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "AOL is now blocked on Hack Forums; Omniscient cited members using AOL's dynamic IPs for ban evasion.",
       "description": "AOL is now blocked on Hack Forums; Omniscient cited members using AOL's dynamic IPs for ban evasion.",
-      "thread": "http://hackforums.net/showthread.php?tid=2496882",
+      "url": "http://hackforums.net/showthread.php?tid=2496882",
       "users": [
         {
           "uid": "1",
@@ -13,13 +14,15 @@
     },
     {
       "category": "groups",
+      "title": "A new official invite-only group, Serenity, was created (debate/discussion focused, secretive).",
       "description": "A new official invite-only group, Serenity, was created (debate/discussion focused, secretive).",
-      "thread": null
+      "url": ""
     },
     {
       "category": "groups",
+      "title": "The Coders group was removed and members were not refunded; former leader Honor Et Veritas is widely...",
       "description": "The Coders group was removed and members were not refunded; former leader Honor Et Veritas is widely accused of scamming the group.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "940577",
@@ -29,8 +32,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added a new $100 'Brony' award for My Little Pony fans; buyers can expect a humiliating a...",
       "description": "Omniscient added a new $100 'Brony' award for My Little Pony fans; buyers can expect a humiliating award description.",
-      "thread": "http://hackforums.net/showthread.php?tid=2496882",
+      "url": "http://hackforums.net/showthread.php?tid=2496882",
       "users": [
         {
           "uid": "1",
@@ -40,8 +44,9 @@
     },
     {
       "category": "users",
+      "title": "Barneyyz™ was accidentally repfucked and his account closed for appearing in a screenshot where...",
       "description": "Barneyyz™ was accidentally repfucked and his account closed for appearing in a screenshot where another member posted Omniscient's SSN; the account has been restored but the repfuck remains.",
-      "thread": "http://hackforums.net/showthread.php?tid=2496882",
+      "url": "http://hackforums.net/showthread.php?tid=2496882",
       "users": [
         {
           "uid": "687297",
@@ -55,8 +60,9 @@
     },
     {
       "category": "users",
+      "title": "Honor Et Veritas's account was hacked but recovered within three days; he was later repfucked, given...",
       "description": "Honor Et Veritas's account was hacked but recovered within three days; he was later repfucked, given a 6-month vacation ban, and had his account closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "940577",
@@ -66,8 +72,9 @@
     },
     {
       "category": "users",
+      "title": "Omniscient reached the 20,000 posts milestone.",
       "description": "Omniscient reached the 20,000 posts milestone.",
-      "thread": "http://hackforums.net/showthread.php?tid=2496882",
+      "url": "http://hackforums.net/showthread.php?tid=2496882",
       "users": [
         {
           "uid": "1",
@@ -77,8 +84,9 @@
     },
     {
       "category": "users",
+      "title": "Don. and crazy4cs were banned for administrating/staff role on a competing hacking forum.",
       "description": "Don. and crazy4cs were banned for administrating/staff role on a competing hacking forum.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1019706",
@@ -92,8 +100,9 @@
     },
     {
       "category": "users",
+      "title": "Responsibility was repfucked and banned for identity theft.",
       "description": "Responsibility was repfucked and banned for identity theft.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "712426",
@@ -103,8 +112,9 @@
     },
     {
       "category": "users",
+      "title": "Cяιмιηαℓ had his ban extended to infinity by Omniscient, then reduced to a single month.",
       "description": "Cяιмιηαℓ had his ban extended to infinity by Omniscient, then reduced to a single month.",
-      "thread": "http://hackforums.net/showthread.php?tid=2496882",
+      "url": "http://hackforums.net/showthread.php?tid=2496882",
       "users": [
         {
           "uid": "729921",
@@ -118,8 +128,9 @@
     },
     {
       "category": "users",
+      "title": "Protein was repfucked again and banned for trying to frame a member with false evidence.",
       "description": "Protein was repfucked again and banned for trying to frame a member with false evidence.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1053743",
@@ -129,8 +140,9 @@
     },
     {
       "category": "threads",
+      "title": "Honor Et Veritas Thread: BasedGod™'s thread asking 'Did Honor Et Veritas Scam all of us?'",
       "description": "Honor Et Veritas Thread: BasedGod™'s thread asking 'Did Honor Et Veritas Scam all of us?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2502739",
+      "url": "http://hackforums.net/showthread.php?tid=2502739",
       "users": [
         {
           "uid": "1087815",
@@ -140,8 +152,9 @@
     },
     {
       "category": "threads",
+      "title": "Mystery Thread: Yellows's '22 Days' thread teasing something happening in 22 days.",
       "description": "Mystery Thread: Yellows's '22 Days' thread teasing something happening in 22 days.",
-      "thread": "http://hackforums.net/showthread.php?tid=2502708",
+      "url": "http://hackforums.net/showthread.php?tid=2502708",
       "users": [
         {
           "uid": "524451",
@@ -151,8 +164,9 @@
     },
     {
       "category": "threads",
+      "title": "Facebook IPO Thread: Fetus Flipper's thread for monitoring the Facebook IPO.",
       "description": "Facebook IPO Thread: Fetus Flipper's thread for monitoring the Facebook IPO.",
-      "thread": "http://hackforums.net/showthread.php?tid=2506254",
+      "url": "http://hackforums.net/showthread.php?tid=2506254",
       "users": [
         {
           "uid": "260570",
@@ -162,8 +176,9 @@
     },
     {
       "category": "users",
+      "title": "Brony award purchasers: Grammar Rays (first), Dan., Terrified, Juicy Booty, Van Hohenheim, ๖ۣۜLuna, ...",
       "description": "Brony award purchasers: Grammar Rays (first), Dan., Terrified, Juicy Booty, Van Hohenheim, ๖ۣۜLuna, and Honors. Draggin bought it then removed it.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "298746",
@@ -201,8 +216,9 @@
     },
     {
       "category": "users",
+      "title": "Juicy Booty received the Hustler award; redpois0n received the Pizza award (for buying Swedish...",
       "description": "Juicy Booty received the Hustler award; redpois0n received the Pizza award (for buying Swedish pizza); Van Hohenheim received Master Donator; Kohsti received Rat Expert; Honor Et Veritas received Master Donator and Star (related to dismantled Coders); KILLMM3 received White Hat Helper; Judge Dredd received the last Qwazz Star award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "923753",
@@ -236,8 +252,9 @@
     },
     {
       "category": "groups",
+      "title": "Pepsi and D3xus are now group leaders of Techsperts; DaL33T is now a group leader of Blackshades.",
       "description": "Pepsi and D3xus are now group leaders of Techsperts; DaL33T is now a group leader of Blackshades.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1059931",
@@ -255,8 +272,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Chief.",
       "description": "Interview with Chief. conducted by Chocothunda; covers his joining HF for AIM hacks, coding skills, and HF return.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "355307",
@@ -270,8 +288,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Dan.",
       "description": "Interview with Dan. conducted by Waleed; covers his new group Serenity (debate/discussion focused) and goals for it.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "769614",
@@ -285,8 +304,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

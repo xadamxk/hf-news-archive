@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Considering Liberty Reserve as primary marketplace currency; community poll opened.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1465358",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Liberty Reserve community poll and discussion.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1465665",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Judge Dredd posts 'a message for you'.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1475299",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "xerotic shares daily routine and seeks advice.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1466490",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Reviewers: -BoodyE- promoted to co-leader.",
             "description": "",
             "url": "",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Atthackers (The Informers leader) banned 7 days.",
             "description": "",
             "url": "",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Groups recruiting: The Alliance, Graphic Masters, RATs Crew, Reverence, The Wraith.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=52"

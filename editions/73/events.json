@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient gave out a few YouTube awards for Christmas to members who made a Christmas-wishing...",
       "description": "Omniscient gave out a few YouTube awards for Christmas to members who made a Christmas-wishing video; the award is no longer being given out.",
-      "thread": "http://hackforums.net/showthread.php?tid=2047611",
+      "url": "http://hackforums.net/showthread.php?tid=2047611",
       "users": [
         {
           "uid": "1",
@@ -13,13 +14,15 @@
     },
     {
       "category": "groups",
+      "title": "Two new groups, Brotherhood and Propitious, are in talks; neither has been fully paid for.",
       "description": "Two new groups, Brotherhood and Propitious, are in talks; neither has been fully paid for. Propitious is planned to open recruitment on January 10.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Stay Plural was repfucked for giving positive reputation to a ban evader.",
       "description": "Stay Plural was repfucked for giving positive reputation to a ban evader.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "589027",
@@ -29,8 +32,9 @@
     },
     {
       "category": "users",
+      "title": "h3x3n received a second repfuck in two weeks, this time for PMing Omniscient a suggestion.",
       "description": "h3x3n received a second repfuck in two weeks, this time for PMing Omniscient a suggestion.",
-      "thread": "http://hackforums.net/showthread.php?tid=2047611",
+      "url": "http://hackforums.net/showthread.php?tid=2047611",
       "users": [
         {
           "uid": "723224",
@@ -44,8 +48,9 @@
     },
     {
       "category": "users",
+      "title": "JustinH was banned for Ub3r Junk Abuse.",
       "description": "JustinH was banned for Ub3r Junk Abuse.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "911957",
@@ -55,8 +60,9 @@
     },
     {
       "category": "users",
+      "title": "the professional hacker was banned for threatening and flaming members.",
       "description": "the professional hacker was banned for threatening and flaming members.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "447912",
@@ -66,8 +72,9 @@
     },
     {
       "category": "users",
+      "title": "The Holy was repfucked over suspicions that his Xbox 360 Kinect service was a scam; he was moved...",
       "description": "The Holy was repfucked over suspicions that his Xbox 360 Kinect service was a scam; he was moved from the dead group into the banned account group.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "450827",
@@ -77,8 +84,9 @@
     },
     {
       "category": "threads",
+      "title": "Christmas Thread: Omniscient's 'Merry Christmas HF' thread, used as the entry route for the YouTube ...",
       "description": "Christmas Thread: Omniscient's 'Merry Christmas HF' thread, used as the entry route for the YouTube award via video response.",
-      "thread": "http://hackforums.net/showthread.php?tid=2047611",
+      "url": "http://hackforums.net/showthread.php?tid=2047611",
       "users": [
         {
           "uid": "1",
@@ -88,8 +96,9 @@
     },
     {
       "category": "threads",
+      "title": "Heartwarming Thread: Black Shadow's effort to help a member reclaim his account from a hacker.",
       "description": "Heartwarming Thread: Black Shadow's effort to help a member reclaim his account from a hacker.",
-      "thread": "http://hackforums.net/showthread.php?tid=2048921",
+      "url": "http://hackforums.net/showthread.php?tid=2048921",
       "users": [
         {
           "uid": "63387",
@@ -99,8 +108,9 @@
     },
     {
       "category": "threads",
+      "title": "Interesting Thread: Mr.",
       "description": "Interesting Thread: Mr. Sky's 'Types Of HF Members' humorous classification thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=2046296",
+      "url": "http://hackforums.net/showthread.php?tid=2046296",
       "users": [
         {
           "uid": "813594",
@@ -110,8 +120,9 @@
     },
     {
       "category": "threads",
+      "title": "Scam Thread: bugga's 'Scammer protection' thread covering The Holy's scam history.",
       "description": "Scam Thread: bugga's 'Scammer protection' thread covering The Holy's scam history.",
-      "thread": "http://hackforums.net/showthread.php?tid=2057679",
+      "url": "http://hackforums.net/showthread.php?tid=2057679",
       "users": [
         {
           "uid": "661940",
@@ -121,8 +132,9 @@
     },
     {
       "category": "users",
+      "title": "OVO™ received the Cat Lover award; ReactioNz received the Master Donator and Cool awards; Riggs...",
       "description": "OVO™ received the Cat Lover award; ReactioNz received the Master Donator and Cool awards; Riggs received the Businessman award; EatSleepCode received the Grammar Nazi award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "371170",
@@ -144,8 +156,9 @@
     },
     {
       "category": "users",
+      "title": "Ampix0 launched CommonThief.com, a store offering hard-to-find tech items.",
       "description": "Ampix0 launched CommonThief.com, a store offering hard-to-find tech items.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "13351",
@@ -155,8 +168,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Reliable's Mate (Enterprise) conducted by Kottonmouth.; covers his username origin,...",
       "description": "Interview with Reliable's Mate (Enterprise) conducted by Kottonmouth.; covers his username origin, joining HF for Minecraft, and being in 6 of 14 official groups.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "916706",
@@ -169,8 +183,9 @@
     },
     {
       "category": "interviews",
+      "title": "Q&A interview with Poppins; covers his joining HF, ban history, and HF outlook.",
       "description": "Q&A interview with Poppins; covers his joining HF, ban history, and HF outlook.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Poppins",
@@ -180,8 +195,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

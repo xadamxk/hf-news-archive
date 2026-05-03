@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient offered a 'mercy day' to members with closed accounts (excluding Honor Et Veritas) and...",
       "description": "Omniscient offered a 'mercy day' to members with closed accounts (excluding Honor Et Veritas) and offered a reward for tracking down HEV's new account, which was reportedly Syndicated.",
-      "thread": "http://hackforums.net/showthread.php?tid=2889796",
+      "url": "http://hackforums.net/showthread.php?tid=2889796",
       "users": [
         {
           "uid": "1",
@@ -17,8 +18,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient announced and rolled out Google Authentication (Gauth) in beta for Ub3rs, an account...",
       "description": "Omniscient announced and rolled out Google Authentication (Gauth) in beta for Ub3rs, an account security feature using mobile verification codes.",
-      "thread": "http://hackforums.net/showthread.php?tid=2904286",
+      "url": "http://hackforums.net/showthread.php?tid=2904286",
       "users": [
         {
           "uid": "1",
@@ -32,13 +34,15 @@
     },
     {
       "category": "site",
+      "title": "The long-awaited Deal Dispute Database was released, replacing xerotic's recently shut down scam...",
       "description": "The long-awaited Deal Dispute Database was released, replacing xerotic's recently shut down scam database; available to all members after a brief Ub3r-only beta.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Omniscient announced he is considering creating a Rap Battle subforum after multiple member suggesti...",
       "description": "Omniscient announced he is considering creating a Rap Battle subforum after multiple member suggestions; gathered 10 pages of feedback.",
-      "thread": "http://hackforums.net/showthread.php?tid=2901143",
+      "url": "http://hackforums.net/showthread.php?tid=2901143",
       "users": [
         {
           "uid": "1",
@@ -48,8 +52,9 @@
     },
     {
       "category": "users",
+      "title": "Pocky reached 20,000 posts and Saga reached 10,000 posts; quincie♥ reached 100 posts.",
       "description": "Pocky reached 20,000 posts and Saga reached 10,000 posts; quincie♥ reached 100 posts.",
-      "thread": "http://hackforums.net/showthread.php?tid=2901143",
+      "url": "http://hackforums.net/showthread.php?tid=2901143",
       "users": [
         {
           "uid": "285508",
@@ -67,8 +72,9 @@
     },
     {
       "category": "users",
+      "title": "WarrioR™, Automatic Coding, Zeon, WinRAR™, and Tundrun were repfucked.",
       "description": "WarrioR™, Automatic Coding, Zeon, WinRAR™, and Tundrun were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1160330",
@@ -94,8 +100,9 @@
     },
     {
       "category": "users",
+      "title": "OnTheFly was banned after his account was compromised; Makaveli The Don was banned for impersonating...",
       "description": "OnTheFly was banned after his account was compromised; Makaveli The Don was banned for impersonating Staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "891268",
@@ -109,8 +116,9 @@
     },
     {
       "category": "users",
+      "title": "Grammar Rays was banned for trolling again; mybboss was banned for trolling.",
       "description": "Grammar Rays was banned for trolling again; mybboss was banned for trolling.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "298746",
@@ -124,8 +132,9 @@
     },
     {
       "category": "users",
+      "title": "Yellows received the Sticky Man award; Cody got the Da Bomb award; Daisy received the Master Donator...",
       "description": "Yellows received the Sticky Man award; Cody got the Da Bomb award; Daisy received the Master Donator and Cute and Cuddly awards.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "524451",
@@ -143,8 +152,9 @@
     },
     {
       "category": "groups",
+      "title": "Viral Dragon is no longer a leader of Root.",
       "description": "Viral Dragon is no longer a leader of Root.",
-      "thread": "http://hackforums.net/showthread.php?tid=2896312",
+      "url": "http://hackforums.net/showthread.php?tid=2896312",
       "users": [
         {
           "uid": "23809",
@@ -154,8 +164,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Godlike_'s 'Do you believe in Aliens?'",
       "description": "Lounge Thread: Godlike_'s 'Do you believe in Aliens?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2896312",
+      "url": "http://hackforums.net/showthread.php?tid=2896312",
       "users": [
         {
           "uid": "1379117",
@@ -165,8 +176,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Rapture™'s 'And Then 0 Multiplied.'",
       "description": "Lounge Thread: Rapture™'s 'And Then 0 Multiplied.'",
-      "thread": "http://hackforums.net/showthread.php?tid=2894047",
+      "url": "http://hackforums.net/showthread.php?tid=2894047",
       "users": [
         {
           "uid": "1142415",
@@ -176,8 +188,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Ryan Frost's 'Natural Timetravel'.",
       "description": "Lounge Thread: Ryan Frost's 'Natural Timetravel'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2898093",
+      "url": "http://hackforums.net/showthread.php?tid=2898093",
       "users": [
         {
           "uid": "1388267",
@@ -187,8 +200,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Khoshy's 'Would the existence of extraterrestrial life disprove Christianity?'",
       "description": "Lounge Thread: Khoshy's 'Would the existence of extraterrestrial life disprove Christianity?'",
-      "thread": "http://hackforums.net/showthread.php?tid=2905198",
+      "url": "http://hackforums.net/showthread.php?tid=2905198",
       "users": [
         {
           "uid": "978570",
@@ -198,8 +212,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Feir conducted by Phytrix; covers gender on HF, pornography, capital punishment,...",
       "description": "Interview with Feir conducted by Phytrix; covers gender on HF, pornography, capital punishment, abortion, homosexuality, gender equality, and ghosts.",
-      "thread": "http://hackforums.net/showthread.php?tid=2905198",
+      "url": "http://hackforums.net/showthread.php?tid=2905198",
       "users": [
         {
           "uid": "1018876",
@@ -213,8 +228,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Paradoxum (newest staff member) conducted by +Entity; covers his journey through The...",
       "description": "Interview with Paradoxum (newest staff member) conducted by +Entity; covers his journey through The Alliance and HJT Team and his promotion to Staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "827711",
@@ -228,8 +244,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

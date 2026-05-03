@@ -1,5 +1,5 @@
 """
-One-off migration: manual editions (events with topic + per-event users list).
+One-off migration: manual editions (editions 1–50, 8.1, 12.1, 12.2).
 1) users (formerly related_users) -> [{ "uid": "<string>"|null, "username": "..." }]
 2) Add missing "description" (empty string).
 
@@ -16,6 +16,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 EDITIONS = ROOT / "editions"
+
+
+def is_manual_edition_path(path: Path) -> bool:
+    name = path.parent.name
+    if name in ("8.1", "12.1", "12.2"):
+        return True
+    try:
+        n = int(name)
+        return 1 <= n <= 50
+    except ValueError:
+        return False
+
 
 BB_URL = re.compile(r"\[url=([^\]]+)\]([^\[]*?)\[/url\]", re.IGNORECASE | re.DOTALL)
 UID_IN_URL = re.compile(r"(?:^|[?&])uid=(\d+)", re.IGNORECASE)
@@ -113,8 +125,10 @@ def migrate_events_file(path: Path, global_map: dict[str, tuple[str, str]]) -> b
     events = data["events"]
     if not events or not isinstance(events, list):
         return False
+    if not is_manual_edition_path(path):
+        return False
     first = events[0]
-    if not isinstance(first, dict) or "topic" not in first:
+    if not isinstance(first, dict):
         return False
 
     lookup: dict[str, str] = {}
@@ -214,8 +228,7 @@ def main() -> None:
         evs = data.get("events")
         if not isinstance(evs, list) or not evs:
             continue
-        fe = evs[0]
-        if isinstance(fe, dict) and "topic" in fe:
+        if is_manual_edition_path(path):
             manual_paths.append(path)
 
     for _ in range(2):

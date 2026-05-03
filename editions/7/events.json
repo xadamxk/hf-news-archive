@@ -1,19 +1,19 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Modern Warfare section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=169"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Halo section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=168"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Multiple DDoS attempts mitigated; service restored quickly.",
             "description": "",
             "url": "",
@@ -25,13 +25,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Pruning of private messages for regular members older than 6 months.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

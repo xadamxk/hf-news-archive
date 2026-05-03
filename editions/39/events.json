@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Multiple DB rollbacks due to corruption; smiley set changes; upgrade IP/billing mismatches discussed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1112579",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "/A/ (Ace) account hijacked twice; warns users.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1122725",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Hanzo clarifies when to PM regarding rep abuse.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1120960",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Paramore posts scam report against Tate over ebook; disputed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1123143",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Rats Crew leadership change: Qwazz replaces xerotic; Zeus co-leads.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1104158",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Zeon repfucked for flaming in rep comments.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1123637",

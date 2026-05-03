@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient announced that the L33T/UB3R orders database (containing names, addresses, emails, phone...",
       "description": "Omniscient announced that the L33T/UB3R orders database (containing names, addresses, emails, phone numbers, and IPs but no passwords or credit card info) was compromised through an exploit at the database host; portions targeting Legion members were leaked from a site associated with Root leader RyanC, whose signature privileges were revoked.",
-      "thread": "http://hackforums.net/showthread.php?tid=3235050",
+      "url": "http://hackforums.net/showthread.php?tid=3235050",
       "users": [
         {
           "uid": "1",
@@ -17,8 +18,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient banned 'Post here and PM me' style threads with an automatic 25% warning, and extended...",
       "description": "Omniscient banned 'Post here and PM me' style threads with an automatic 25% warning, and extended the hide-content feature to allow members to hide content from L33T users (previously Ub3r only).",
-      "thread": "http://hackforums.net/showthread.php?tid=3219429",
+      "url": "http://hackforums.net/showthread.php?tid=3219429",
       "users": [
         {
           "uid": "1",
@@ -28,8 +30,9 @@
     },
     {
       "category": "groups",
+      "title": "The Angels group fell into drama after owner Sandshrew amassed over $5,300 in debt from loans to...",
       "description": "The Angels group fell into drama after owner Sandshrew amassed over $5,300 in debt from loans to purchase Logic; the Deal Dispute became the largest in that section, and Sandshrew began selling membership spots to repay debts.",
-      "thread": "http://hackforums.net/showthread.php?tid=3226734",
+      "url": "http://hackforums.net/showthread.php?tid=3226734",
       "users": [
         {
           "uid": "1233686",
@@ -47,8 +50,9 @@
     },
     {
       "category": "groups",
+      "title": "Eminence was rebranded by owner WiFi.",
       "description": "Eminence was rebranded by owner WiFi. as 'WiFi Gang,' a music-focused group dedicated to artists, songwriters, producers, and musicians; it launched recruitment and an official site.",
-      "thread": "http://hackforums.net/showthread.php?tid=3220964",
+      "url": "http://hackforums.net/showthread.php?tid=3220964",
       "users": [
         {
           "uid": "406243",
@@ -58,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Special One reached 1,000 reputation points.",
       "description": "Special One reached 1,000 reputation points.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1462090",
@@ -69,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "tdog0403 was repfucked and had his account closed; Callum.",
       "description": "tdog0403 was repfucked and had his account closed; Callum. and Darken were repfucked and banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1070150",
@@ -88,8 +94,9 @@
     },
     {
       "category": "users",
+      "title": "Raspberry Pi, Badass, Imagination., Liquified™, Hentai, and serg06 were repfucked.",
       "description": "Raspberry Pi, Badass, Imagination., Liquified™, Hentai, and serg06 were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1168835",
@@ -119,8 +126,9 @@
     },
     {
       "category": "users",
+      "title": "Yellows and Natha were banned for DDoSing members.",
       "description": "Yellows and Natha were banned for DDoSing members.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "524451",
@@ -134,8 +142,9 @@
     },
     {
       "category": "users",
+      "title": "serg06 was banned for being a Grammar Nazi; TxTriton was banned for reporting Omniscient's post.",
       "description": "serg06 was banned for being a Grammar Nazi; TxTriton was banned for reporting Omniscient's post.",
-      "thread": "http://hackforums.net/showthread.php?tid=3235050",
+      "url": "http://hackforums.net/showthread.php?tid=3235050",
       "users": [
         {
           "uid": "1140865",
@@ -153,8 +162,9 @@
     },
     {
       "category": "users",
+      "title": "LevelUp, Deanie, Fanatic, La Fama, and ven0m were vacation banned; Reblue was banned.",
       "description": "LevelUp, Deanie, Fanatic, La Fama, and ven0m were vacation banned; Reblue was banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1181919",
@@ -184,8 +194,9 @@
     },
     {
       "category": "users",
+      "title": "Plaтiпuм got the Drunk award after photos of him crossdressing while drunk leaked; Google Expert got...",
       "description": "Plaтiпuм got the Drunk award after photos of him crossdressing while drunk leaked; Google Expert got the YouTube award; KyleWTF got the Master Donator and Cool awards.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1341017",
@@ -203,8 +214,9 @@
     },
     {
       "category": "groups",
+      "title": "Aeon ‹3 is no longer a leader of The Empire.",
       "description": "Aeon ‹3 is no longer a leader of The Empire.",
-      "thread": "http://hackforums.net/showthread.php?tid=3217023",
+      "url": "http://hackforums.net/showthread.php?tid=3217023",
       "users": [
         {
           "uid": "1357063",
@@ -214,8 +226,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Keeper's 'Antagonism | Network Traffic Flow [Tutorial]'.",
       "description": "Notable Thread: Keeper's 'Antagonism | Network Traffic Flow [Tutorial]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3217023",
+      "url": "http://hackforums.net/showthread.php?tid=3217023",
       "users": [
         {
           "uid": "1114693",
@@ -225,8 +238,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Blerthotel's '[MUST-SEE] Story behind anon and HF'.",
       "description": "Notable Thread: Blerthotel's '[MUST-SEE] Story behind anon and HF'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3194376",
+      "url": "http://hackforums.net/showthread.php?tid=3194376",
       "users": [
         {
           "uid": "1416735",
@@ -236,8 +250,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: -๖ۣۜDivine-'s '[TuT] Antagonism | File Inclusion [TuT]'.",
       "description": "Notable Thread: -๖ۣۜDivine-'s '[TuT] Antagonism | File Inclusion [TuT]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3184032",
+      "url": "http://hackforums.net/showthread.php?tid=3184032",
       "users": [
         {
           "uid": "1539015",
@@ -247,8 +262,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Kohsti's '[BlackShades] Massive Giveaway $600+ In Prizes [Illuminati]'.",
       "description": "Notable Thread: Kohsti's '[BlackShades] Massive Giveaway $600+ In Prizes [Illuminati]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3218948",
+      "url": "http://hackforums.net/showthread.php?tid=3218948",
       "users": [
         {
           "uid": "1137768",
@@ -258,8 +274,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with DaL33t conducted by +Entity; covers his Illuminati membership, leaving the UK for...",
       "description": "Interview with DaL33t conducted by +Entity; covers his Illuminati membership, leaving the UK for Dubai, his VPN business, and the programming languages he uses.",
-      "thread": "http://hackforums.net/showthread.php?tid=3218948",
+      "url": "http://hackforums.net/showthread.php?tid=3218948",
       "users": [
         {
           "uid": "827711",
@@ -273,8 +290,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Coffee conducted by xadamxk; covers his GFX origins via iPod jailbreaking, the...",
       "description": "Interview with Coffee conducted by xadamxk; covers his GFX origins via iPod jailbreaking, the Evasi0n iOS jailbreak release, and plans to rejoin the iOS community.",
-      "thread": "http://hackforums.net/showthread.php?tid=3218214",
+      "url": "http://hackforums.net/showthread.php?tid=3218214",
       "users": [
         {
           "uid": "1306528",
@@ -288,8 +306,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

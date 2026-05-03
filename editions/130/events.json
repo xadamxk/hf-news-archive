@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient officially enabled SSL on Hack Forums; SSL is optional and not recommended for users who ...",
       "description": "Omniscient officially enabled SSL on Hack Forums; SSL is optional and not recommended for users who don't know what they're doing.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,13 +14,15 @@
     },
     {
       "category": "site",
+      "title": "The automatic marketplace violation ban for posting marketplace-style threads outside the...",
       "description": "The automatic marketplace violation ban for posting marketplace-style threads outside the Marketplace was reduced from seven days to three days.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Omniscient changed the banner for Valentine's Day; many themed threads filled the Innuendo forum.",
       "description": "Omniscient changed the banner for Valentine's Day; many themed threads filled the Innuendo forum.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -29,8 +32,9 @@
     },
     {
       "category": "groups",
+      "title": "Hexicidal is changing The Angels into a new group called Void; he posted in the Graphics Market requ...",
       "description": "Hexicidal is changing The Angels into a new group called Void; he posted in the Graphics Market requesting a new userbar for the rebrand.",
-      "thread": "http://hackforums.net/showthread.php?tid=3249414",
+      "url": "http://hackforums.net/showthread.php?tid=3249414",
       "users": [
         {
           "uid": "863752",
@@ -40,13 +44,15 @@
     },
     {
       "category": "site",
+      "title": "The Rules, Announcements, News and Feedback subforum reached 400,000 posts.",
       "description": "The Rules, Announcements, News and Feedback subforum reached 400,000 posts.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Paradoxum reached 1,000 prestige points; Chief.",
       "description": "Paradoxum reached 1,000 prestige points; Chief. reached 500 prestige points; Mr Kewl reached 20,000 posts; Neal Caffrey reached 10,000 posts; Wolves resigned from staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "70881",
@@ -72,8 +78,9 @@
     },
     {
       "category": "users",
+      "title": "Vlad1k and Kenn.",
       "description": "Vlad1k and Kenn. were repfucked and banned; iKLUTCH was repfucked and banned for scamming; Sandshrew was repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1007091",
@@ -95,8 +102,9 @@
     },
     {
       "category": "users",
+      "title": "Starstruck, Cloud9™, and ↂ Rozyn ↂ were repfucked.",
       "description": "Starstruck, Cloud9™, and ↂ Rozyn ↂ were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "900087",
@@ -114,8 +122,9 @@
     },
     {
       "category": "users",
+      "title": "eiqhtworks was banned for low quality posting; Skywalker was banned for abusing the report tool.",
       "description": "eiqhtworks was banned for low quality posting; Skywalker was banned for abusing the report tool.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "752389",
@@ -129,8 +138,9 @@
     },
     {
       "category": "users",
+      "title": "Anxtrist, Automatic Coding, Vitani, Accident, and Blazin were banned; Yellows had his ban extended.",
       "description": "Anxtrist, Automatic Coding, Vitani, Accident, and Blazin were banned; Yellows had his ban extended.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "766855",
@@ -160,8 +170,9 @@
     },
     {
       "category": "users",
+      "title": "AnonyWS™, Krew, KyleWTF, Rakshasa, Mirai Nikki, and Chief.",
       "description": "AnonyWS™, Krew, KyleWTF, Rakshasa, Mirai Nikki, and Chief. were vacation banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "856824",
@@ -191,8 +202,9 @@
     },
     {
       "category": "users",
+      "title": "Starstruck, Stay Plural, and Apple J4ck.",
       "description": "Starstruck, Stay Plural, and Apple J4ck. received the Master Donator award; #Nate received Master Donator and Alien; Apple J4ck. received Cuddly and Cute; Bullet. received Master Donator and Militant; xadamxk and ๖ۣۜ‍Sheepıı received the Sticky Man award.",
-      "thread": "http://hackforums.net/showthread.php?tid=3254570",
+      "url": "http://hackforums.net/showthread.php?tid=3254570",
       "users": [
         {
           "uid": "900087",
@@ -226,8 +238,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Cody's '[¹4³] Will you be my Valentine?",
       "description": "Notable Thread: Cody's '[¹4³] Will you be my Valentine? [¹4³]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3254570",
+      "url": "http://hackforums.net/showthread.php?tid=3254570",
       "users": [
         {
           "uid": "1172544",
@@ -237,8 +250,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Vandal's 'The Empire Presents :: All About Borderlands 2'.",
       "description": "Notable Thread: Vandal's 'The Empire Presents :: All About Borderlands 2'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3259478",
+      "url": "http://hackforums.net/showthread.php?tid=3259478",
       "users": [
         {
           "uid": "1403633",
@@ -248,8 +262,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Abuser™'s '[Tutorial] How to remove iAds/Most Ads on iOS 6'.",
       "description": "Notable Thread: Abuser™'s '[Tutorial] How to remove iAds/Most Ads on iOS 6'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3256294",
+      "url": "http://hackforums.net/showthread.php?tid=3256294",
       "users": [
         {
           "uid": "672987",
@@ -259,8 +274,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: MarkMare's '[TUTORIAL] How to Jailbreak iOS 6.x Untethered'.",
       "description": "Notable Thread: MarkMare's '[TUTORIAL] How to Jailbreak iOS 6.x Untethered'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3218214",
+      "url": "http://hackforums.net/showthread.php?tid=3218214",
       "users": [
         {
           "uid": "138559",
@@ -270,8 +286,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Hexicidal conducted by +Entity; covers The Angels reverting to him after Sandshrew's...",
       "description": "Interview with Hexicidal conducted by +Entity; covers The Angels reverting to him after Sandshrew's debt issues, his plans to rebrand it as Void with a scientific discussion focus, and his original purchase of Coders.",
-      "thread": "http://hackforums.net/showthread.php?tid=3249414",
+      "url": "http://hackforums.net/showthread.php?tid=3249414",
       "users": [
         {
           "uid": "827711",
@@ -285,8 +302,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Hefto conducted by xadamxk; covers his interest in Griefing/Minecraft sections, his...",
       "description": "Interview with Hefto conducted by xadamxk; covers his interest in Griefing/Minecraft sections, his time in TechSperts and Rhythm groups, and what he has learned about computers.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1306528",
@@ -300,8 +318,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; D3xus was replaced by CarrotMilk as Interviewer, Mr.",
       "description": "Contributors to this edition; D3xus was replaced by CarrotMilk as Interviewer, Mr. Anderson took a break and was replaced by Cody as User News journalist, and a strike system was set up within the team.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

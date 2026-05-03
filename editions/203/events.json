@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Sir announced a new wave of Writ3rs recruitment for the HF News, requiring Ub3r status, strong Engli...",
       "description": "Sir announced a new wave of Writ3rs recruitment for the HF News, requiring Ub3r status, strong English skills, and HF knowledge.",
-      "thread": "http://hackforums.net/showthread.php?tid=4373962",
+      "url": "http://hackforums.net/showthread.php?tid=4373962",
       "users": [
         {
           "uid": "515249",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient announced Froggy will take over the Member of the Month contest after D3xus resigned for...",
       "description": "Omniscient announced Froggy will take over the Member of the Month contest after D3xus resigned for personal reasons; Froggy was also made moderator of the HF l33t OT Discussions forum.",
-      "thread": "http://hackforums.net/showthread.php?tid=4350598",
+      "url": "http://hackforums.net/showthread.php?tid=4350598",
       "users": [
         {
           "uid": "1",
@@ -32,8 +34,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient added a new 'Private Investigation Methods and Anonymity' sub-forum under Beginner...",
       "description": "Omniscient added a new 'Private Investigation Methods and Anonymity' sub-forum under Beginner Hacking; the section was initially closed pending rules.",
-      "thread": "http://hackforums.net/showthread.php?tid=4355471",
+      "url": "http://hackforums.net/showthread.php?tid=4355471",
       "users": [
         {
           "uid": "1",
@@ -43,8 +46,9 @@
     },
     {
       "category": "users",
+      "title": "inxy hit 20,000 posts; Pillows hit 10,000 posts; LiveSupport and Fox™ hit 1,000 reputation.",
       "description": "inxy hit 20,000 posts; Pillows hit 10,000 posts; LiveSupport and Fox™ hit 1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "398783",
@@ -66,8 +70,9 @@
     },
     {
       "category": "users",
+      "title": "Concerned and Diplomatic were repfucked for scamming (Concerned also banned); Eeluminati and...",
       "description": "Concerned and Diplomatic were repfucked for scamming (Concerned also banned); Eeluminati and Paragnox were banned for low quality posting; Judge Judy was banned for a marketplace violation; Mahdy was banned for selling outside Marketplace; Pumped Up was banned and repfucked for using a Paypal holder; Snapchat™ was banned and repfucked for proxy selling; Hexley and Juicy Jake had accounts closed and repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1513535",
@@ -113,8 +118,9 @@
     },
     {
       "category": "users",
+      "title": "'Chief received the Turkey, Award Whore, and Asswipe awards; AntiPaste received The Protector award;...",
       "description": "'Chief received the Turkey, Award Whore, and Asswipe awards; AntiPaste received The Protector award; D3xus received the Jailbreak Freak award; Nivarka received the Cool award; 'Snorlax received many awards; Unknown • donated for Master Donator and received the Rat Expert award.",
-      "thread": "http://hackforums.net/showthread.php?tid=4355471",
+      "url": "http://hackforums.net/showthread.php?tid=4355471",
       "users": [
         {
           "uid": "1536004",
@@ -144,8 +150,9 @@
     },
     {
       "category": "groups",
+      "title": "T3h Hack3r put the official security group Null up for sale at a non-negotiable $10,000 USD via BTC.",
       "description": "T3h Hack3r put the official security group Null up for sale at a non-negotiable $10,000 USD via BTC.",
-      "thread": "http://hackforums.net/showthread.php?tid=4356646",
+      "url": "http://hackforums.net/showthread.php?tid=4356646",
       "users": [
         {
           "uid": "128873",
@@ -155,18 +162,21 @@
     },
     {
       "category": "site",
+      "title": "The Astrocoin team submitted a pull request fixing the long-standing 'pfork != NULL' Omnicoin wallet...",
       "description": "The Astrocoin team submitted a pull request fixing the long-standing 'pfork != NULL' Omnicoin wallet bug; new binary versions are pending compilation.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Allcrypt suddenly stopped processing trades around July 28 and marked their Omnicoin wallet under ma...",
       "description": "Allcrypt suddenly stopped processing trades around July 28 and marked their Omnicoin wallet under maintenance until August 1.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": ".Matt's omc-live.com expanded to include a copy of Crypto™'s mining calculator with features from...",
       "description": ".Matt's omc-live.com expanded to include a copy of Crypto™'s mining calculator with features from The Moen's calculator, providing live coin value, mining earnings, and rented mining costs.",
-      "thread": "http://hackforums.net/showthread.php?tid=4350598",
+      "url": "http://hackforums.net/showthread.php?tid=4350598",
       "users": [
         {
           "uid": "1354902",
@@ -184,8 +194,9 @@
     },
     {
       "category": "threads",
+      "title": "Entertaining Thread: Stealth™'s 'The real use for Prestige; I'm onto something!'.",
       "description": "Entertaining Thread: Stealth™'s 'The real use for Prestige; I'm onto something!'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4266143",
+      "url": "http://hackforums.net/showthread.php?tid=4266143",
       "users": [
         {
           "uid": "1953860",
@@ -195,8 +206,9 @@
     },
     {
       "category": "threads",
+      "title": "Entertaining Thread: Trademark ™'s 'I got expelled from my \"Christian\" school LOL!'.",
       "description": "Entertaining Thread: Trademark ™'s 'I got expelled from my \"Christian\" school LOL!'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4359626",
+      "url": "http://hackforums.net/showthread.php?tid=4359626",
       "users": [
         {
           "uid": "2153563",
@@ -206,8 +218,9 @@
     },
     {
       "category": "threads",
+      "title": "Informational Thread: Tommy's 'Gaza Megathread | LIVESTREAM | ALERT: HOSPITAL SHELLED BY IDF'.",
       "description": "Informational Thread: Tommy's 'Gaza Megathread | LIVESTREAM | ALERT: HOSPITAL SHELLED BY IDF'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4344746",
+      "url": "http://hackforums.net/showthread.php?tid=4344746",
       "users": [
         {
           "uid": "1534733",
@@ -217,8 +230,9 @@
     },
     {
       "category": "threads",
+      "title": "Miscellaneous Thread: Swift™'s 'This website lets you experience what it's like to drown.'.",
       "description": "Miscellaneous Thread: Swift™'s 'This website lets you experience what it's like to drown.'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4359760",
+      "url": "http://hackforums.net/showthread.php?tid=4359760",
       "users": [
         {
           "uid": "912779",
@@ -228,8 +242,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with zach conducted by 630; covers his Instinct membership and pay-in, his break-in losing...",
       "description": "Interview with zach conducted by 630; covers his Instinct membership and pay-in, his break-in losing his custom PC, his hard-working two-job lifestyle, his planned trip to Italy, and his dislike for current Minecraft server economies.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "797403",
@@ -243,8 +258,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Xerotic conducted by Clark; covers his Userscript work and self-taught programming,...",
       "description": "Interview with Xerotic conducted by Clark; covers his Userscript work and self-taught programming, his stint as Staff in 2011 and current Mentor role, his work-from-home livelihood, and his suggestion for an HF API.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -258,8 +274,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; 'Snorlax took on 1st Compiler, Nivarka and zack joined as 4th and 5th...",
       "description": "Contributors to this edition; 'Snorlax took on 1st Compiler, Nivarka and zack joined as 4th and 5th Compilers, Baghead joined as 5th Editor with Aceman as Reserve, Aired joined for Art Gallery, and Rivalry took over Comics.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

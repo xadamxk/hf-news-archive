@@ -2,13 +2,15 @@
   "events": [
     {
       "category": "site",
+      "title": "Interview Requests went live with a new application thread for members to apply for an interview.",
       "description": "Interview Requests went live with a new application thread for members to apply for an interview.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110312"
+      "url": "http://hackforums.net/showthread.php?tid=4110312"
     },
     {
       "category": "groups",
+      "title": "The usergroup Respawn returned to the forum led by Astonish and Skitlz, with the group Innovation...",
       "description": "The usergroup Respawn returned to the forum led by Astonish and Skitlz, with the group Innovation removed; recruitment focuses on dedicated PC, PlayStation, and Xbox gamers and League of Legends players.",
-      "thread": "http://hackforums.net/showthread.php?tid=4104863",
+      "url": "http://hackforums.net/showthread.php?tid=4104863",
       "users": [
         {
           "uid": "657392",
@@ -22,8 +24,9 @@
     },
     {
       "category": "users",
+      "title": "Mentor Viral Dragon began a second Indie GoGo campaign to help diagnose a 1.3cm brain lesion causing...",
       "description": "Mentor Viral Dragon began a second Indie GoGo campaign to help diagnose a 1.3cm brain lesion causing his recurring seizures and other symptoms affecting his culinary classes.",
-      "thread": "http://hackforums.net/showthread.php?tid=4104863",
+      "url": "http://hackforums.net/showthread.php?tid=4104863",
       "users": [
         {
           "uid": "23809",
@@ -33,8 +36,9 @@
     },
     {
       "category": "users",
+      "title": "xadamxk was named February 2014's Member of the Month; Aura and Staid hit 1,000 reputation; Freddy...",
       "description": "xadamxk was named February 2014's Member of the Month; Aura and Staid hit 1,000 reputation; Freddy Krueger and Greyhat.Infiltrator reached 10,000 posts.",
-      "thread": "http://hackforums.net/showthread.php?tid=4097347",
+      "url": "http://hackforums.net/showthread.php?tid=4097347",
       "users": [
         {
           "uid": "1306528",
@@ -60,8 +64,9 @@
     },
     {
       "category": "users",
+      "title": "Plaтiпuм was banned indefinitely as a precautionary measure; ZUEY and EvilMinD were repfucked.",
       "description": "Plaтiпuм was banned indefinitely as a precautionary measure; ZUEY and EvilMinD were repfucked.",
-      "thread": "http://hackforums.net/showthread.php?tid=4097347",
+      "url": "http://hackforums.net/showthread.php?tid=4097347",
       "users": [
         {
           "uid": "1341017",
@@ -79,8 +84,9 @@
     },
     {
       "category": "users",
+      "title": "Folds, Xylon, Fresh Prince, The Prospect, Good Mood Dude, and Automatic Coding all had their account...",
       "description": "Folds, Xylon, Fresh Prince, The Prospect, Good Mood Dude, and Automatic Coding all had their accounts closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1660764",
@@ -110,8 +116,9 @@
     },
     {
       "category": "users",
+      "title": "BoomShot received Rat Expert and donated for Master Donator; syrah received the Qwazz Star.",
       "description": "BoomShot received Rat Expert and donated for Master Donator; syrah received the Qwazz Star.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1124063",
@@ -125,8 +132,9 @@
     },
     {
       "category": "groups",
+      "title": "Skitlz became a leader of Respawn; bugga became a leader of Infamous; Pеter became a leader of...",
       "description": "Skitlz became a leader of Respawn; bugga became a leader of Infamous; Pеter became a leader of Complexity; xflat became a leader of The Brotherhood.",
-      "thread": "http://hackforums.net/showthread.php?tid=4110312",
+      "url": "http://hackforums.net/showthread.php?tid=4110312",
       "users": [
         {
           "uid": "1839274",
@@ -148,8 +156,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Astonish's 'Respawn is back', the famous group's revival announcement.",
       "description": "Notable Thread: Astonish's 'Respawn is back', the famous group's revival announcement.",
-      "thread": "http://hackforums.net/showthread.php?tid=4094990",
+      "url": "http://hackforums.net/showthread.php?tid=4094990",
       "users": [
         {
           "uid": "657392",
@@ -159,8 +168,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Nickelodeon's 'POST A PICTURE OF YOURSELF!', now the largest thread in The Lounge.",
       "description": "Notable Thread: Nickelodeon's 'POST A PICTURE OF YOURSELF!', now the largest thread in The Lounge.",
-      "thread": "http://hackforums.net/showthread.php?tid=2751102",
+      "url": "http://hackforums.net/showthread.php?tid=2751102",
       "users": [
         {
           "uid": "1206954",
@@ -170,8 +180,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Reset conducted by 630; covers his furry artwork career, his original 2009 HF...",
       "description": "Interview with Reset conducted by 630; covers his furry artwork career, his original 2009 HF account, his time as HackerCraft moderator under the nickname Yoshi, and his views on group culture.",
-      "thread": "http://hackforums.net/showthread.php?tid=3673692",
+      "url": "http://hackforums.net/showthread.php?tid=3673692",
       "users": [
         {
           "uid": "797403",
@@ -185,8 +196,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Thousands conducted by Clique; covers his PayPal holding, stresser management,...",
       "description": "Interview with Thousands conducted by Clique; covers his PayPal holding, stresser management, transition from black hat to grey hat, and high school computer repair work.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -200,8 +212,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; the team expanded with new specialized sections including Security...",
       "description": "Contributors to this edition; the team expanded with new specialized sections including Security News, Currency News, Scientific News, and Film News.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

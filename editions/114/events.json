@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient re-implemented the Thread Ratings plugin (Ub3r-only rating, all members can view) despite...",
       "description": "Omniscient re-implemented the Thread Ratings plugin (Ub3r-only rating, all members can view) despite previous abuse concerns from Marketplace users.",
-      "thread": "http://hackforums.net/showthread.php?tid=2950343",
+      "url": "http://hackforums.net/showthread.php?tid=2950343",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient activated a Thread Prefixes plugin allowing per-section prefix sets to vaguely categorize...",
       "description": "Omniscient activated a Thread Prefixes plugin allowing per-section prefix sets to vaguely categorize threads.",
-      "thread": "http://hackforums.net/showthread.php?tid=2950320",
+      "url": "http://hackforums.net/showthread.php?tid=2950320",
       "users": [
         {
           "uid": "1",
@@ -24,13 +26,15 @@
     },
     {
       "category": "site",
+      "title": "A new 'Premium Hacking Tutorials' section was created under the Hacking tab; only Staff can move...",
       "description": "A new 'Premium Hacking Tutorials' section was created under the Hacking tab; only Staff can move threads into it to highlight quality tutorials.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Hackercraft reached its final phase of open beta with continued discussion on paid factions and dona...",
       "description": "Hackercraft reached its final phase of open beta with continued discussion on paid factions and donations.",
-      "thread": "http://hackforums.net/showthread.php?tid=2938109",
+      "url": "http://hackforums.net/showthread.php?tid=2938109",
       "users": [
         {
           "uid": "1",
@@ -40,8 +44,9 @@
     },
     {
       "category": "users",
+      "title": "Dan. and Kohsti reached 1,000 reputation points.",
       "description": "Dan. and Kohsti reached 1,000 reputation points.",
-      "thread": "http://hackforums.net/showthread.php?tid=2943634",
+      "url": "http://hackforums.net/showthread.php?tid=2943634",
       "users": [
         {
           "uid": "1011113",
@@ -55,8 +60,9 @@
     },
     {
       "category": "users",
+      "title": "Automatic Coding was repfucked and banned; Valik ϟ was repfucked and his account closed.",
       "description": "Automatic Coding was repfucked and banned; Valik ϟ was repfucked and his account closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "83317",
@@ -70,8 +76,9 @@
     },
     {
       "category": "users",
+      "title": "νιятυαℓнα¢кєя was banned for financial fraud.",
       "description": "νιятυαℓнα¢кєя was banned for financial fraud.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "817663",
@@ -81,8 +88,9 @@
     },
     {
       "category": "users",
+      "title": "bugga received the Dog Lover award; Apathy received the Sticky Man award for a detailed thread on ho...",
       "description": "bugga received the Dog Lover award; Apathy received the Sticky Man award for a detailed thread on how to debate.",
-      "thread": "http://hackforums.net/showthread.php?tid=2942376",
+      "url": "http://hackforums.net/showthread.php?tid=2942376",
       "users": [
         {
           "uid": "661940",
@@ -96,8 +104,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: BlackCap's 'Online IDE'.",
       "description": "Lounge Thread: BlackCap's 'Online IDE'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2942376",
+      "url": "http://hackforums.net/showthread.php?tid=2942376",
       "users": [
         {
           "uid": "316828",
@@ -107,8 +116,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Yellows's '143 [❤] - Emotional Support - Relationship Support - Advice/Input'.",
       "description": "Lounge Thread: Yellows's '143 [❤] - Emotional Support - Relationship Support - Advice/Input'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2939843",
+      "url": "http://hackforums.net/showthread.php?tid=2939843",
       "users": [
         {
           "uid": "524451",
@@ -118,8 +128,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Control Panel's 'HF Legends, Superstars, Well Known, Semi Well known Members List'.",
       "description": "Lounge Thread: Control Panel's 'HF Legends, Superstars, Well Known, Semi Well known Members List'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2953843",
+      "url": "http://hackforums.net/showthread.php?tid=2953843",
       "users": [
         {
           "uid": "847197",
@@ -129,8 +140,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Cyber-Security conducted by +Entity; covers his start with DDoS, batch coding...",
       "description": "Interview with Cyber-Security conducted by +Entity; covers his start with DDoS, batch coding tutorial work, YouTube channel, and helping his school IT department.",
-      "thread": "http://hackforums.net/showthread.php?tid=2953843",
+      "url": "http://hackforums.net/showthread.php?tid=2953843",
       "users": [
         {
           "uid": "827711",
@@ -144,8 +156,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Phytrix conducted by malichi; covers his Runescape past, boarding school, loss of...",
       "description": "Interview with Phytrix conducted by malichi; covers his Runescape past, boarding school, loss of Catholic faith, grammar pedantry, group memberships (Writers, Empire, Logic, Rhythm leadership), and US politics.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1044864",
@@ -159,8 +172,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

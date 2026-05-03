@@ -2,13 +2,15 @@
   "events": [
     {
       "category": "groups",
+      "title": "The Alliance was dismantled and its members removed; the new Null usergroup focused on security took...",
       "description": "The Alliance was dismantled and its members removed; the new Null usergroup focused on security took its place, led by T3h Hacker, Vinnie, and Soccer.",
-      "thread": "http://hackforums.net/showthread.php?tid=4025378"
+      "url": "http://hackforums.net/showthread.php?tid=4025378"
     },
     {
       "category": "site",
+      "title": "Omniscient posted late-night thoughts identifying problems with HF: too many rules, a cumbersome...",
       "description": "Omniscient posted late-night thoughts identifying problems with HF: too many rules, a cumbersome sticky process, broken reputation system, lack of two-factor authentication, and the need for better Bitcoin integration; the thread was locked.",
-      "thread": "http://hackforums.net/showthread.php?tid=4030042",
+      "url": "http://hackforums.net/showthread.php?tid=4030042",
       "users": [
         {
           "uid": "1",
@@ -18,8 +20,9 @@
     },
     {
       "category": "users",
+      "title": "Emylbus was promoted to Staff (probational); xadamxk was promoted to Mentor.",
       "description": "Emylbus was promoted to Staff (probational); xadamxk was promoted to Mentor.",
-      "thread": "http://hackforums.net/showthread.php?tid=4030042",
+      "url": "http://hackforums.net/showthread.php?tid=4030042",
       "users": [
         {
           "uid": "956054",
@@ -33,8 +36,9 @@
     },
     {
       "category": "users",
+      "title": "Chief‎ hit 1,000 reputation; Natas, Aurа, and Evangelist all hit 10,000 posts; Panik hit 20,000 post...",
       "description": "Chief‎ hit 1,000 reputation; Natas, Aurа, and Evangelist all hit 10,000 posts; Panik hit 20,000 posts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1536004",
@@ -60,8 +64,9 @@
     },
     {
       "category": "users",
+      "title": "iDuL was repfucked for attempting to sell their account; Swirl was repfucked and banned for...",
       "description": "iDuL was repfucked for attempting to sell their account; Swirl was repfucked and banned for harassing members; Hayley Williams was repfucked and banned; Heisenberg was repfucked and banned for multiple accounts; Freddy Kruеger was repfucked for not fulfilling his contest; Kaph was repfucked for reputation abuse.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "187420",
@@ -91,8 +96,9 @@
     },
     {
       "category": "users",
+      "title": "Scоrpiо was banned with the reason 'No Paypal Holders'; Qualia was banned for excessive and...",
       "description": "Scоrpiо was banned with the reason 'No Paypal Holders'; Qualia was banned for excessive and overzealous post reporting; Starstruck was banned.",
-      "thread": "http://hackforums.net/showthread.php?tid=4025374",
+      "url": "http://hackforums.net/showthread.php?tid=4025374",
       "users": [
         {
           "uid": "1331685",
@@ -110,8 +116,9 @@
     },
     {
       "category": "users",
+      "title": "Apple J4ck.'s account was closed and reopened; Devil Driver had their account repfucked and closed.",
       "description": "Apple J4ck.'s account was closed and reopened; Devil Driver had their account repfucked and closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1468706",
@@ -125,8 +132,9 @@
     },
     {
       "category": "users",
+      "title": "Starstruck received the FPS Gawd and Gamer awards; ѕнα∂σω received the Cat Lover award; Cryptic™...",
       "description": "Starstruck received the FPS Gawd and Gamer awards; ѕнα∂σω received the Cat Lover award; Cryptic™ donated for Master Donator and received the Businessman award.",
-      "thread": "http://hackforums.net/showthread.php?tid=4025374",
+      "url": "http://hackforums.net/showthread.php?tid=4025374",
       "users": [
         {
           "uid": "900087",
@@ -144,8 +152,9 @@
     },
     {
       "category": "groups",
+      "title": "Sh1eld stepped down as leader of The Empire; Chief., vitafortis, and #Thunder became leaders of The...",
       "description": "Sh1eld stepped down as leader of The Empire; Chief., vitafortis, and #Thunder became leaders of The Empire; Ixaris became a leader of Instinct; Remorsal became a leader of Infamous.",
-      "thread": "http://hackforums.net/showthread.php?tid=4029167",
+      "url": "http://hackforums.net/showthread.php?tid=4029167",
       "users": [
         {
           "uid": "608523",
@@ -175,8 +184,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Saturday conducted by Clark; covers his expecting first child, his time leading...",
       "description": "Interview with Saturday conducted by Clark; covers his expecting first child, his time leading Rhythm, his work as an Interviewer for the Writ3rs, his gamertag-trading origin on HF, and his screamo band vocals.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -190,8 +200,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Haste conducted by Clique; covers his Minecraft griefing past, his 4.0 GPA in high...",
       "description": "Interview with Haste conducted by Clique; covers his Minecraft griefing past, his 4.0 GPA in high school, hockey, and his career interest in the stock market or running a computer retail store.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -205,8 +216,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Understalker conducted by Saturday; covers his start with Toxicboot DDoS, his RAT and...",
       "description": "Interview with Understalker conducted by Saturday; covers his start with Toxicboot DDoS, his RAT and web exploit work, and his views on group culture.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "787112",
@@ -220,8 +232,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; awhty resumed User News.",
       "description": "Contributors to this edition; awhty resumed User News.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

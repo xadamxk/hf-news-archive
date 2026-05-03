@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "users",
+      "title": "Frida was banned for reporting Staff and Administrators.",
       "description": "Frida was banned for reporting Staff and Administrators.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Frida",
@@ -13,8 +14,9 @@
     },
     {
       "category": "users",
+      "title": "Bread was banned until 10/22/11 with the reason 'Don't cross limits'; he is well known for his witty...",
       "description": "Bread was banned until 10/22/11 with the reason 'Don't cross limits'; he is well known for his witty 'How to make Bread' guide.",
-      "thread": "http://hackforums.net/showthread.php?tid=790428",
+      "url": "http://hackforums.net/showthread.php?tid=790428",
       "users": [
         {
           "username": "Bread",
@@ -24,8 +26,9 @@
     },
     {
       "category": "users",
+      "title": "Sync™ was banned after his account was possibly compromised; his username was also changed to 'psych...",
       "description": "Sync™ was banned after his account was possibly compromised; his username was also changed to 'psycho buddy'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Sync™",
@@ -35,8 +38,9 @@
     },
     {
       "category": "users",
+      "title": "Thoth was banned again, this time for trolling and ban evasion.",
       "description": "Thoth was banned again, this time for trolling and ban evasion.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Thoth",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Zach was banned until 10/22/11 due to family troubles.",
       "description": "Zach was banned until 10/22/11 due to family troubles.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "200751",
@@ -57,8 +62,9 @@
     },
     {
       "category": "threads",
+      "title": "Anime Thread: Tasemu's 'Anime Adventures Weekly – Issue #3,' a mini-news edition about anime.",
       "description": "Anime Thread: Tasemu's 'Anime Adventures Weekly – Issue #3,' a mini-news edition about anime.",
-      "thread": "http://hackforums.net/showthread.php?tid=1825640",
+      "url": "http://hackforums.net/showthread.php?tid=1825640",
       "users": [
         {
           "username": "Tasemu",
@@ -68,8 +74,9 @@
     },
     {
       "category": "threads",
+      "title": "Gaming Thread: fl3x's relaunch of the well-known Minecraft Craftbukkit server 'Retribution-MC' on a ...",
       "description": "Gaming Thread: fl3x's relaunch of the well-known Minecraft Craftbukkit server 'Retribution-MC' on a 16GB RAM server.",
-      "thread": "http://hackforums.net/showthread.php?tid=1832605",
+      "url": "http://hackforums.net/showthread.php?tid=1832605",
       "users": [
         {
           "username": "fl3x",
@@ -79,8 +86,9 @@
     },
     {
       "category": "threads",
+      "title": "Informative Thread: Glassy's 'Ultimate Guide on Computer Overclocking, Customizing and Hardware.'",
       "description": "Informative Thread: Glassy's 'Ultimate Guide on Computer Overclocking, Customizing and Hardware.'",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Glassy",
@@ -90,8 +98,9 @@
     },
     {
       "category": "threads",
+      "title": "Open Ended Debate: [AnimeFAN!] Kenshin's 'Are you for or against Occupy Wallstreet?' thread.",
       "description": "Open Ended Debate: [AnimeFAN!] Kenshin's 'Are you for or against Occupy Wallstreet?' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=1824647",
+      "url": "http://hackforums.net/showthread.php?tid=1824647",
       "users": [
         {
           "username": "[AnimeFAN!] Kenshin",
@@ -101,8 +110,9 @@
     },
     {
       "category": "threads",
+      "title": "Most Interesting Topic: thought+inquiry=truth's 'Capitalism is slavery' thread.",
       "description": "Most Interesting Topic: thought+inquiry=truth's 'Capitalism is slavery' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=1812709",
+      "url": "http://hackforums.net/showthread.php?tid=1812709",
       "users": [
         {
           "username": "thought+inquiry=truth",
@@ -112,8 +122,9 @@
     },
     {
       "category": "threads",
+      "title": "Suggestion Compilation: Positive's 'Recently Suggested and Denied/Accepted Suggestions' thread,...",
       "description": "Suggestion Compilation: Positive's 'Recently Suggested and Denied/Accepted Suggestions' thread, helping members check whether their idea has been raised before.",
-      "thread": "http://hackforums.net/showthread.php?tid=1812957",
+      "url": "http://hackforums.net/showthread.php?tid=1812957",
       "users": [
         {
           "uid": "323740",
@@ -123,8 +134,9 @@
     },
     {
       "category": "threads",
+      "title": "Successful Sales Thread: Paperbag's 'Merqy' IRC bot, marketed for stability and ease of use.",
       "description": "Successful Sales Thread: Paperbag's 'Merqy' IRC bot, marketed for stability and ease of use.",
-      "thread": "http://hackforums.net/showthread.php?tid=1346734",
+      "url": "http://hackforums.net/showthread.php?tid=1346734",
       "users": [
         {
           "username": "Paperbag",
@@ -134,8 +146,9 @@
     },
     {
       "category": "users",
+      "title": "Peter Chao moved from Normal → Mentor → Staff.",
       "description": "Peter Chao moved from Normal → Mentor → Staff. Rusty_v moved from Normal → Staff → Mentor.",
-      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "url": "http://hackforums.net/showthread.php?tid=1793236",
       "users": [
         {
           "uid": "129812",
@@ -149,8 +162,9 @@
     },
     {
       "category": "users",
+      "title": "Glassy received the Sticky Man award.",
       "description": "Glassy received the Sticky Man award.",
-      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "url": "http://hackforums.net/showthread.php?tid=1793236",
       "users": [
         {
           "username": "Glassy",
@@ -160,8 +174,9 @@
     },
     {
       "category": "users",
+      "title": "Dєαtђ S received the Dunce award ('For your english').",
       "description": "Dєαtђ S received the Dunce award ('For your english').",
-      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "url": "http://hackforums.net/showthread.php?tid=1793236",
       "users": [
         {
           "username": "Dєαtђ S"
@@ -170,8 +185,9 @@
     },
     {
       "category": "users",
+      "title": "The MammoTh received the Drunk award ('You really don't deserve this particular award but it's the o...",
       "description": "The MammoTh received the Drunk award ('You really don't deserve this particular award but it's the one you wanted').",
-      "thread": "http://hackforums.net/showthread.php?tid=1793236",
+      "url": "http://hackforums.net/showthread.php?tid=1793236",
       "users": [
         {
           "username": "The MammoTh"
@@ -180,8 +196,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with McFlurry conducted by Reported; covers his Reverence co-leadership, HJT Team membersh...",
       "description": "Interview with McFlurry conducted by Reported; covers his Reverence co-leadership, HJT Team membership, and views on changes.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Reported",
@@ -195,8 +212,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with KillaMuvz conducted by Kyle FYI™; covers his joining HF, Cryptex development with...",
       "description": "Interview with KillaMuvz conducted by Kyle FYI™; covers his joining HF, Cryptex development with Baked, and views on the free groups potentially being removed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Kyle FYI™"

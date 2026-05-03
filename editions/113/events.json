@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient launched HackerCraft, a Minecraft Faction server tied to HF, in open beta with a...",
       "description": "Omniscient launched HackerCraft, a Minecraft Faction server tied to HF, in open beta with a dedicated subforum and award; entry was free with paid donations and factions.",
-      "thread": "http://hackforums.net/showthread.php?tid=2631046",
+      "url": "http://hackforums.net/showthread.php?tid=2631046",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "groups",
+      "title": "Tibit fully paid off The Empire, with Omniscient confirming the $0 balance via Twitter; with new...",
       "description": "Tibit fully paid off The Empire, with Omniscient confirming the $0 balance via Twitter; with new official custom groups no longer being created, this milestone secures the group's place permanently.",
-      "thread": "http://hackforums.net/showthread.php?tid=2925581",
+      "url": "http://hackforums.net/showthread.php?tid=2925581",
       "users": [
         {
           "uid": "651337",
@@ -28,13 +30,15 @@
     },
     {
       "category": "groups",
+      "title": "T3h Hack3r created the HJT Training Program applications thread as the long-anticipated training cou...",
       "description": "T3h Hack3r created the HJT Training Program applications thread as the long-anticipated training course nears launch.",
-      "thread": "http://hackforums.net/showthread.php?tid=2925581"
+      "url": "http://hackforums.net/showthread.php?tid=2925581"
     },
     {
       "category": "site",
+      "title": "Omniscient implemented a new Hackercraft award; only Third has received it so far for creating the H...",
       "description": "Omniscient implemented a new Hackercraft award; only Third has received it so far for creating the HackerCraft logo.",
-      "thread": "http://hackforums.net/showthread.php?tid=2914416",
+      "url": "http://hackforums.net/showthread.php?tid=2914416",
       "users": [
         {
           "uid": "1",
@@ -48,8 +52,9 @@
     },
     {
       "category": "users",
+      "title": "Fresh Prince, BELLAGIO, and iDuL reached 1,000 reputation points.",
       "description": "Fresh Prince, BELLAGIO, and iDuL reached 1,000 reputation points.",
-      "thread": "http://hackforums.net/showthread.php?tid=2914416",
+      "url": "http://hackforums.net/showthread.php?tid=2914416",
       "users": [
         {
           "uid": "1043300",
@@ -67,8 +72,9 @@
     },
     {
       "category": "users",
+      "title": "Chris resigned from Staff.",
       "description": "Chris resigned from Staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "656453",
@@ -78,8 +84,9 @@
     },
     {
       "category": "users",
+      "title": "Plutonium was repfucked and banned for reputation abuse; Gabber was repfucked and banned for scammin...",
       "description": "Plutonium was repfucked and banned for reputation abuse; Gabber was repfucked and banned for scamming.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "127956",
@@ -93,8 +100,9 @@
     },
     {
       "category": "users",
+      "title": "Brandenx781 was banned for cross posting in the HJT section; Shekhar was banned for leaking.",
       "description": "Brandenx781 was banned for cross posting in the HJT section; Shekhar was banned for leaking.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "847499",
@@ -108,8 +116,9 @@
     },
     {
       "category": "users",
+      "title": "Minnesota Nice received the 24k award; Third received the Hackercraft award; Designer and Third rece...",
       "description": "Minnesota Nice received the 24k award; Third received the Hackercraft award; Designer and Third received the Graphics Guru award.",
-      "thread": "http://hackforums.net/showthread.php?tid=2914416",
+      "url": "http://hackforums.net/showthread.php?tid=2914416",
       "users": [
         {
           "uid": "93419",
@@ -127,8 +136,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Mr.",
       "description": "Lounge Thread: Mr. Anderson's 'Mitt Romney Leads Us Into An Age Of Stupidity'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2931847",
+      "url": "http://hackforums.net/showthread.php?tid=2931847",
       "users": [
         {
           "uid": "114319",
@@ -138,8 +148,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: The Merovingian's 'Julian Assange running for senator'.",
       "description": "Lounge Thread: The Merovingian's 'Julian Assange running for senator'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2931468",
+      "url": "http://hackforums.net/showthread.php?tid=2931468",
       "users": [
         {
           "uid": "1011487",
@@ -149,8 +160,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: malichi's 'Fact-checking the U.S.",
       "description": "Lounge Thread: malichi's 'Fact-checking the U.S. vice presidential debate'.",
-      "thread": "http://hackforums.net/showthread.php?tid=2936996",
+      "url": "http://hackforums.net/showthread.php?tid=2936996",
       "users": [
         {
           "uid": "1044864",
@@ -160,8 +172,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Ethereal conducted by Phytrix; covers his C# programming, leadership in The Alliance...",
       "description": "Interview with Ethereal conducted by Phytrix; covers his C# programming, leadership in The Alliance and Wiki Team (Head Mentor / Head Publisher), past warnings, and views on warning system reforms.",
-      "thread": "http://hackforums.net/showthread.php?tid=2936996",
+      "url": "http://hackforums.net/showthread.php?tid=2936996",
       "users": [
         {
           "uid": "1018876",
@@ -175,8 +188,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with -Analog- conducted by +Entity; covers his graphics work and Glassy's PC building...",
       "description": "Interview with -Analog- conducted by +Entity; covers his graphics work and Glassy's PC building sticky he co-wrote, his time in The Alliance and Reviewers, and his name change from Raptured.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "827711",
@@ -190,8 +204,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

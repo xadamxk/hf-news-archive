@@ -1,13 +1,13 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Video Editing section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=160"
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Braco22 was appointed Moderator of Video Editing section.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=160",
@@ -19,13 +19,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Batch coding subforum moved from Hacking to Coding.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=49"
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Crust was banned for trolling.",
             "description": "",
             "url": "",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

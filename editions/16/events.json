@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "Kutmuskaturt was demoted from staff (reason speculated as inactivity).",
             "description": "",
             "url": "",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "VipVince was demoted from staff (reason speculated as inactivity).",
             "description": "",
             "url": "",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Kewlhotrod was demoted from staff (reason speculated as inactivity).",
             "description": "",
             "url": "",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Yin was demoted from Moderator.",
             "description": "",
             "url": "",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Hanzo was demoted from administrator (reason speculated as inactivity).",
             "description": "",
             "url": "",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Kr4z1 promoted to Super Moderator.",
             "description": "",
             "url": "",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Reviewers: Taserz and The Elite appointed as leaders.",
             "description": "",
             "url": "",
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Amnesty granted to many banned members.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=685697",
@@ -101,7 +101,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Cobija celebrates one-year anniversary on HF.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=682872",
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Interview with iBruteforce.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=692675",
@@ -125,13 +125,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=653939"
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "Yin steps away from Hack Forums. The Elite takes his place as head HF News writer.",
             "description": "",
             "url": "",
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "topic": "interviews",
+            "category": "interviews",
             "title": "Interview with N3w_2_H@Ck1n™.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=692675",

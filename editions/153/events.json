@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Hack Forums was migrated to a new server with avatars temporarily disabled; Omniscient claims DDoS...",
       "description": "Hack Forums was migrated to a new server with avatars temporarily disabled; Omniscient claims DDoS attacks should be virtually impossible from this point on.",
-      "thread": "http://hackforums.net/showthread.php?tid=3632915",
+      "url": "http://hackforums.net/showthread.php?tid=3632915",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient announced HackForums.net email forwards have been re-enabled for Ub3r members via a...",
       "description": "Omniscient announced HackForums.net email forwards have been re-enabled for Ub3r members via a third-party mail server; previous emails were lost.",
-      "thread": "http://hackforums.net/showthread.php?tid=3632915",
+      "url": "http://hackforums.net/showthread.php?tid=3632915",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient started a thread asking HackForums members why they are addicted to the site, which recei...",
       "description": "Omniscient started a thread asking HackForums members why they are addicted to the site, which received significant attention.",
-      "thread": "http://hackforums.net/showthread.php?tid=3632915",
+      "url": "http://hackforums.net/showthread.php?tid=3632915",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "news",
+      "title": "The HF News team announced significant changes and opened recruitment for the Writ3rs via the W4TCHL...",
       "description": "The HF News team announced significant changes and opened recruitment for the Writ3rs via the W4TCHL1ST.",
-      "thread": "http://hackforums.net/showthread.php?tid=3658776",
+      "url": "http://hackforums.net/showthread.php?tid=3658776",
       "users": [
         {
           "uid": "515249",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Lads, Tiszy, and Delicious hit 1,000 reputation; Mr Kewl was demoted back to Mentor; Kn1ght was prom...",
       "description": "Lads, Tiszy, and Delicious hit 1,000 reputation; Mr Kewl was demoted back to Mentor; Kn1ght was promoted to Staff.",
-      "thread": "http://hackforums.net/showthread.php?tid=3318994",
+      "url": "http://hackforums.net/showthread.php?tid=3318994",
       "users": [
         {
           "uid": "1008927",
@@ -73,8 +78,9 @@
     },
     {
       "category": "users",
+      "title": "George Zimmerman.",
       "description": "George Zimmerman. was repfucked for reputation abuse; Justice™ was repfucked and banned for selling their account; Frost Byte was banned for selling his account; Tᴇɴᴀxɪᴜᴍ was repfucked, banned, and then unbanned; Unacknowledged was repfucked and banned; Shαdow and TiME FLiES were repfucked and had their accounts closed; NetScope was banned as a precaution after their account was compromised.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1539739",
@@ -112,8 +118,9 @@
     },
     {
       "category": "users",
+      "title": "The-Ex, Genuine, Retribute, Paranоrmal, and Feynman took vacation bans.",
       "description": "The-Ex, Genuine, Retribute, Paranоrmal, and Feynman took vacation bans.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "47360",
@@ -139,8 +146,9 @@
     },
     {
       "category": "users",
+      "title": "FroStorm and Tᴇɴᴀxɪᴜᴍ purchased awards (Brony and Master Donator); Canc℮r received the Black Hatter...",
       "description": "FroStorm and Tᴇɴᴀxɪᴜᴍ purchased awards (Brony and Master Donator); Canc℮r received the Black Hatter award; Icosahedron received the Sushi Lover award; Connected received the Spy award; Huskers received the Cat Lover award; Razmus received the Pizza award.",
-      "thread": "http://hackforums.net/showthread.php?tid=3640362",
+      "url": "http://hackforums.net/showthread.php?tid=3640362",
       "users": [
         {
           "uid": "1121674",
@@ -174,8 +182,9 @@
     },
     {
       "category": "threads",
+      "title": "Graphic Tutorial: mjaj13's 'Vector Tracing and Coloring Tutorial'.",
       "description": "Graphic Tutorial: mjaj13's 'Vector Tracing and Coloring Tutorial'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3640362",
+      "url": "http://hackforums.net/showthread.php?tid=3640362",
       "users": [
         {
           "uid": "1632487",
@@ -185,8 +194,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: Tando's 'Who Would You Want To Meet At An HF IRL Gathering?'.",
       "description": "Lounge Thread: Tando's 'Who Would You Want To Meet At An HF IRL Gathering?'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3646632",
+      "url": "http://hackforums.net/showthread.php?tid=3646632",
       "users": [
         {
           "uid": "1113153",
@@ -196,8 +206,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Umbrein conducted by D3xus; covers his many friendships across HF, his time leading...",
       "description": "Interview with Umbrein conducted by D3xus; covers his many friendships across HF, his time leading The Alliance and Black Knights, his relationship with the people who helped him through difficult periods, and his view that Infamous is the second coming of Black Knights.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "827711",
@@ -211,8 +222,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Tibit conducted by Connected; covers his decision to leave HF after a one-month...",
       "description": "Interview with Tibit conducted by Connected; covers his decision to leave HF after a one-month vacation, transferring The Empire to xadamxk on August 1st, and his $14,500-15,000 in donations to Omniscient over the years.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1050193",
@@ -226,8 +238,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Umbrein replaced Retribute as Proofreader.",
       "description": "Contributors to this edition; Umbrein replaced Retribute as Proofreader.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

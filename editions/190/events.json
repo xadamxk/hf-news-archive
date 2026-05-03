@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient promoted Omnicoin's bid to be added to CoinPayments via a vote thread; OMC is being added...",
       "description": "Omniscient promoted Omnicoin's bid to be added to CoinPayments via a vote thread; OMC is being added to less popular exchanges to qualify, and forum integration is expected soon via a JSON API.",
-      "thread": "http://hackforums.net/showthread.php?tid=4170257",
+      "url": "http://hackforums.net/showthread.php?tid=4170257",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "users",
+      "title": "Vitani's Mate hit 2,000 prestige; adampelletgun hit 20,000 posts; Аrrow hit 1,000 reputation.",
       "description": "Vitani's Mate hit 2,000 prestige; adampelletgun hit 20,000 posts; Аrrow hit 1,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "651773",
@@ -32,8 +34,9 @@
     },
     {
       "category": "users",
+      "title": "Eryn was repfucked and banned; AbuseTheSystem and Tracked were repfucked and banned for rep abuse;...",
       "description": "Eryn was repfucked and banned; AbuseTheSystem and Tracked were repfucked and banned for rep abuse; Maartendo and Victor Von Doom were banned for assisting a ban evader; ƒσяรคкεห™ was banned for encouraging piracy; Odoyle was banned for abuse; ident was repfucked and had account closed; Coffee was repfucked and had account closed; Firе and Schultz were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1906560",
@@ -83,8 +86,9 @@
     },
     {
       "category": "users",
+      "title": "Kōtei requested to have their account closed.",
       "description": "Kōtei requested to have their account closed.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "133256",
@@ -94,8 +98,9 @@
     },
     {
       "category": "users",
+      "title": "Positive won the Member of the Month award; Maximum, Ty, Σxile, and Eeluminati each donated for...",
       "description": "Positive won the Member of the Month award; Maximum, Ty, Σxile, and Eeluminati each donated for Master Donator (also receiving Businessman, Businessman, Cool, and Hotdog awards respectively); Maryland™ received the Silver Medal; ajkaro received the Sticky Man award; multiple users received the new Omnicoin award.",
-      "thread": "http://hackforums.net/showthread.php?tid=4158618",
+      "url": "http://hackforums.net/showthread.php?tid=4158618",
       "users": [
         {
           "uid": "323740",
@@ -129,8 +134,9 @@
     },
     {
       "category": "groups",
+      "title": "iElement is no longer leader of Nexus; Frostix became a leader of Nexus and The Republic; KyleWTF is...",
       "description": "iElement is no longer leader of Nexus; Frostix became a leader of Nexus and The Republic; KyleWTF is no longer leader of The Republic.",
-      "thread": "http://hackforums.net/showthread.php?tid=3819819",
+      "url": "http://hackforums.net/showthread.php?tid=3819819",
       "users": [
         {
           "uid": "879655",
@@ -148,8 +154,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Promethazine.'s 'Unofficial HF Skype group'.",
       "description": "Notable Thread: Promethazine.'s 'Unofficial HF Skype group'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3952239",
+      "url": "http://hackforums.net/showthread.php?tid=3952239",
       "users": [
         {
           "uid": "1886302",
@@ -159,8 +166,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: кrew's '[TUT] How to sniff network traffic for PASSWORDS'.",
       "description": "Notable Thread: кrew's '[TUT] How to sniff network traffic for PASSWORDS'.",
-      "thread": "http://hackforums.net/showthread.php?tid=1480569",
+      "url": "http://hackforums.net/showthread.php?tid=1480569",
       "users": [
         {
           "uid": "1191",
@@ -170,8 +178,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: aelocrois's 'Possible to add extra fee for changing display name?', proposing a fee ...",
       "description": "Notable Thread: aelocrois's 'Possible to add extra fee for changing display name?', proposing a fee to fight scammers.",
-      "thread": "http://hackforums.net/showthread.php?tid=4168907",
+      "url": "http://hackforums.net/showthread.php?tid=4168907",
       "users": [
         {
           "uid": "943411",
@@ -181,8 +190,9 @@
     },
     {
       "category": "threads",
+      "title": "Notable Thread: Anonymous's 'Legion | AnonWare Contest #3 | $500 Cash Prizes'.",
       "description": "Notable Thread: Anonymous's 'Legion | AnonWare Contest #3 | $500 Cash Prizes'.",
-      "thread": "http://hackforums.net/showthread.php?tid=4165515",
+      "url": "http://hackforums.net/showthread.php?tid=4165515",
       "users": [
         {
           "uid": "677529",
@@ -192,8 +202,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Craze conducted by 630; covers his semi-pro football for Brentford, his Instinct...",
       "description": "Interview with Craze conducted by 630; covers his semi-pro football for Brentford, his Instinct group leadership, his views on Nexus and Respawn, and his recruitment to HF via Vinnie.",
-      "thread": "http://hackforums.net/showthread.php?tid=3952239",
+      "url": "http://hackforums.net/showthread.php?tid=3952239",
       "users": [
         {
           "uid": "797403",
@@ -207,8 +218,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with +Cyan conducted by Clark; covers his time on Se7ensis and Sythe, his Halo: Reach...",
       "description": "Interview with +Cyan conducted by Clark; covers his time on Se7ensis and Sythe, his Halo: Reach modded lobbies, his TAFE/University plans for Computer Science, and his criticism of Judge Dredd owning a usergroup.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1653635",
@@ -222,8 +234,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Chieftain conducted by Clique; covers his Middle College program studying law, his...",
       "description": "Interview with Chieftain conducted by Clique; covers his Middle College program studying law, his League of Legends play (Platinum V in Season 4), and his Writ3rs work as Scientific News journalist.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1148878",
@@ -237,8 +250,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; Cody returned on User News, Saturday took over Group News, OnTheFly...",
       "description": "Contributors to this edition; Cody returned on User News, Saturday took over Group News, OnTheFly joined for Notable Threads, Baghead took over Minecraft News, Lovol moved to Proofreader, and the Music News journalist position became vacant.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

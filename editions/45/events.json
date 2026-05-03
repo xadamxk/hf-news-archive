@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Good Will Monday returns; members encouraged to give 5 positive reps.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1354903",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Awards Story thread launched; creative award-icon stories rewarded.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1356705",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Crackdown on 'final blaze of glory' rant threads.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1356147",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "All stickies reset; new policy: only Omni selects stickies; new Sticky Man award added.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1358781",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Server moved to improve latency.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1346927",
@@ -61,13 +61,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "New MapleStory subforum created.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=197"
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Qwazz Star award introduced (exclusive by Qwazz); first recipient: xerotic.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1346143",
@@ -83,7 +83,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "RATs Crew launches weekly 'Tips n’ Tricks' series.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1326112"

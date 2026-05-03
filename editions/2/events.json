@@ -1,13 +1,13 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Contests section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=155"
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "--([-S7N-])-- was appointed to staff.",
             "description": "",
             "url": "",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Member profile contact details removed from profiles.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=433590",
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Several datacenters (ThePlanet, SharkTech, FDC, Hurricane Electric) blocked.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=428354",
@@ -43,13 +43,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "HackForum's first userscript releases - HackForums Toolbar released (by Delphinum).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=432450",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Psyk was banned for scamming.",
             "description": "",
             "url": "",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

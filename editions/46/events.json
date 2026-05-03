@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Second server move in June to resolve packet loss and slowness.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1370481",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "All Deep Web discussion banned; added to disallowed blackhat activities.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1377240",
@@ -25,13 +25,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Welcome-back username now links to profile; portal.php removed.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Numerous repfucks and account compromises reported (H1B50C4T3DD, Nyx-, Domasaurus, etc.).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=1381515",

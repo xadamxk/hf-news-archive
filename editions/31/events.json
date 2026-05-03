@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Hanzo returns as Admin; handles reputation abuse.",
             "description": "",
             "url": "",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Brief exposure of Staff/Junk/private group threads; postmortem.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=979417",
@@ -29,13 +29,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "HF surpasses 8,000,000 posts.",
             "description": "",
             "url": ""
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Red Lions recruitment thread open (rotating slots).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=965097",
@@ -47,13 +47,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Official Facebook page and social connections help doc.",
             "description": "",
             "url": "http://hackforums.net/misc.php?action=help&hid=28"
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Reviewers applications re-opened (UB3R only).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=977663",
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Community troll: Nowaythen fears FBI after clicking link.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=987813",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Scam report against WIZCRAFT (Maniac Booter).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=987477",
@@ -93,13 +93,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Lounge rating system removed (performance).",
             "description": "",
             "url": ""
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Conspiracy threads temporarily banned in SRPP.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=989584",

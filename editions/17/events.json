@@ -1,31 +1,31 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "EU users experienced image server outages.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=699249"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Hack Forums reached 6,000,000 posts.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=701893"
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Reviewers applications reopened after a mass removal.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=703353"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Avatar upload bug reported by multiple users.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=704999"
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "EctoPlasm added as Reviewer, removed hours later for an improper thread.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=698476",
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "topic": "interviews",
+            "category": "interviews",
             "title": "Interview with Xch4ng3.",
             "description": "",
             "url": "https://hackforums.net/showthread.php?tid=706863",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

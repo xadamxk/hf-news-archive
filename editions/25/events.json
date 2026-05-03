@@ -1,13 +1,13 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "Thanksgiving banner deployed.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=845534"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Lengthy downtime; funding and plan for DB slave server explained.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=852122",
@@ -19,13 +19,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "DNS issues cause access problems; guidance threads posted.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=854831"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Staff profiles: reputation quick link hidden when Staff bar present.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=844472&pid=7897763#pid7897763",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Solidify set to be permanently banned after sticky expiry.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=852739&pid=7960472#pid7960472",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "N3w_2_H@Ck1n™ resigns from staff.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=846935",

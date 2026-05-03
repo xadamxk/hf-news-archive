@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "3–4 hours downtime due to DDOS; Apache crashed and restored.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=779366",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Short database outage due to load; resolved.",
             "description": "",
             "url": "",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Kewlhotrod and VipVince reinstated as staff.",
             "description": "",
             "url": "",
@@ -41,13 +41,13 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Halloween banner deployed; connectivity issues reported.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=779711"
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "Mendacious removed as Gamers leader after starting off-site forum; farewell posted.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=767987",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Yin banned for scamming/infecting; report thread.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=759721",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Zach attending court after school prank.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=778111",
@@ -83,7 +83,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "Omniscient on Tinychat video (drunk, vomiting into bucket).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=762765",
@@ -95,7 +95,7 @@
             ]
         },
         {
-            "topic": "threads",
+            "category": "threads",
             "title": "YouTuber claims he’ll set himself on fire at 10k subs (Arruke thread).",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=780919"

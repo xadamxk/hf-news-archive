@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient confirmed that the Hack Forums mobile app (built by Forum Runner for both App Store and...",
       "description": "Omniscient confirmed that the Hack Forums mobile app (built by Forum Runner for both App Store and Google Play) has been paid for and is in production.",
-      "thread": "http://hackforums.net/showthread.php?tid=3038584",
+      "url": "http://hackforums.net/showthread.php?tid=3038584",
       "users": [
         {
           "uid": "1",
@@ -13,8 +14,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient disabled the Ub3r email feature for new Ub3rs after abuse, though existing email holders ...",
       "description": "Omniscient disabled the Ub3r email feature for new Ub3rs after abuse, though existing email holders can still use the feature.",
-      "thread": "http://hackforums.net/showthread.php?tid=3036801",
+      "url": "http://hackforums.net/showthread.php?tid=3036801",
       "users": [
         {
           "uid": "1",
@@ -24,8 +26,9 @@
     },
     {
       "category": "site",
+      "title": "Microsoft lifted the restrictions previously placed on HF (which had blocked email use for Microsoft...",
       "description": "Microsoft lifted the restrictions previously placed on HF (which had blocked email use for Microsoft email users) following the earlier Google malicious-site flag.",
-      "thread": "http://hackforums.net/showthread.php?tid=3036801",
+      "url": "http://hackforums.net/showthread.php?tid=3036801",
       "users": [
         {
           "uid": "1",
@@ -35,8 +38,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient changed Thread Subscriptions to send notifications via PM rather than email, cleared all...",
       "description": "Omniscient changed Thread Subscriptions to send notifications via PM rather than email, cleared all current subscriptions, and announced stricter guidelines.",
-      "thread": "http://hackforums.net/showthread.php?tid=3036801",
+      "url": "http://hackforums.net/showthread.php?tid=3036801",
       "users": [
         {
           "uid": "1",
@@ -46,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Rhynorater. is now a moderator of the Python forum.",
       "description": "Rhynorater. is now a moderator of the Python forum.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "127950",
@@ -57,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": ".Infinity., New York, and Gummybear were repfucked.",
       "description": ".Infinity., New York, and Gummybear were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "121075",
@@ -76,8 +82,9 @@
     },
     {
       "category": "users",
+      "title": "New York and Grammar Rays were banned.",
       "description": "New York and Grammar Rays were banned.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "946358",
@@ -91,8 +98,9 @@
     },
     {
       "category": "users",
+      "title": "Tibit received the Gavel of Dredd award; Sandshrew received Master Donator and Businessman; Christy...",
       "description": "Tibit received the Gavel of Dredd award; Sandshrew received Master Donator and Businessman; Christy received Master Donator and Star; SoulZeh received the Cat award; Natha received the Brony award.",
-      "thread": "http://hackforums.net/showthread.php?tid=3039479",
+      "url": "http://hackforums.net/showthread.php?tid=3039479",
       "users": [
         {
           "uid": "651337",
@@ -118,8 +126,9 @@
     },
     {
       "category": "groups",
+      "title": "RyanC is now a leader of Root; Tɦɛ Gʀiɱ is now a leader of the Marketers; Yellows and SoulZeh are no...",
       "description": "RyanC is now a leader of Root; Tɦɛ Gʀiɱ is now a leader of the Marketers; Yellows and SoulZeh are no longer leaders of The Empire; Natha and Hazy are now leaders of The Empire.",
-      "thread": "http://hackforums.net/showthread.php?tid=3039479",
+      "url": "http://hackforums.net/showthread.php?tid=3039479",
       "users": [
         {
           "uid": "1448109",
@@ -149,8 +158,9 @@
     },
     {
       "category": "threads",
+      "title": "Music Thread: Lemur's 'Official Rap Battle Challenge #2'.",
       "description": "Music Thread: Lemur's 'Official Rap Battle Challenge #2'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3039479",
+      "url": "http://hackforums.net/showthread.php?tid=3039479",
       "users": [
         {
           "uid": "1092339",
@@ -160,8 +170,9 @@
     },
     {
       "category": "threads",
+      "title": "Scam Report Thread: Tyler‌'s 'Warning: Don't deal with the member Gant!",
       "description": "Scam Report Thread: Tyler‌'s 'Warning: Don't deal with the member Gant! (Legitti the scammer)'.",
-      "thread": "http://hackforums.net/showthread.php?tid=1934990",
+      "url": "http://hackforums.net/showthread.php?tid=1934990",
       "users": [
         {
           "uid": "398194",
@@ -171,8 +182,9 @@
     },
     {
       "category": "threads",
+      "title": "Lounge Thread: RubyStar™'s 'When did you get your l33t?'",
       "description": "Lounge Thread: RubyStar™'s 'When did you get your l33t?'",
-      "thread": "http://hackforums.net/showthread.php?tid=3046176",
+      "url": "http://hackforums.net/showthread.php?tid=3046176",
       "users": [
         {
           "uid": "1554363",
@@ -182,8 +194,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Zanelot conducted by Phytrix; covers his RAT use, $2,000-3,000 made hacking RuneScape...",
       "description": "Interview with Zanelot conducted by Phytrix; covers his RAT use, $2,000-3,000 made hacking RuneScape accounts, his views on the meaning of life, and the decline of HF oldfags.",
-      "thread": "http://hackforums.net/showthread.php?tid=3046176",
+      "url": "http://hackforums.net/showthread.php?tid=3046176",
       "users": [
         {
           "uid": "1018876",
@@ -197,8 +210,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with xadamxk conducted by +Entity; covers his iDevice and jailbreaking history, his...",
       "description": "Interview with xadamxk conducted by +Entity; covers his iDevice and jailbreaking history, his suggestions to reorganize the iDevice/Android sections, and time in The Empire and 143.",
-      "thread": "http://hackforums.net/showthread.php?tid=2966445",
+      "url": "http://hackforums.net/showthread.php?tid=2966445",
       "users": [
         {
           "uid": "827711",
@@ -212,8 +226,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

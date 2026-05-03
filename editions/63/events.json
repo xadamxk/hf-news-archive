@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "users",
+      "title": "Judge Dredd's account was compromised; the attacker created an account named 'Judge Dredd Hacked'...",
       "description": "Judge Dredd's account was compromised; the attacker created an account named 'Judge Dredd Hacked' and posted a thread describing what he did. Omniscient confirmed the account was secured and recovered with no damage to HF.",
-      "thread": "http://hackforums.net/showthread.php?tid=1818530",
+      "url": "http://hackforums.net/showthread.php?tid=1818530",
       "users": [
         {
           "uid": "4066",
@@ -17,23 +18,27 @@
     },
     {
       "category": "site",
+      "title": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a...",
       "description": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a staff userbar can have their profile activity viewed.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Min.us image host has been blocked from HF after Avast added the domain to its blacklist.",
       "description": "Min.us image host has been blocked from HF after Avast added the domain to its blacklist.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "The HF News team is recruiting for the first time; only two interviewer positions are open.",
       "description": "The HF News team is recruiting for the first time; only two interviewer positions are open.",
-      "thread": "http://hackforums.net/showthread.php?tid=1825326"
+      "url": "http://hackforums.net/showthread.php?tid=1825326"
     },
     {
       "category": "interviews",
+      "title": "Interview with Tasemu conducted by Reported; covers his graphic design career, AARadio launch, and a...",
       "description": "Interview with Tasemu conducted by Reported; covers his graphic design career, AARadio launch, and anime expertise.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Reported",
@@ -47,8 +52,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Quantum.",
       "description": "Interview with Quantum. conducted by Reported; covers his moderator role, the Asskisser award, and signature advertising rates.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Reported",

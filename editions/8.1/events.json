@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "site",
+            "category": "site",
             "title": "UB3R security word feature added to prevent account hacks.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=528977",
@@ -13,19 +13,19 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "VPN Hosting and Services section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=171"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Website Showcase and Reviews section added.",
             "description": "",
             "url": "http://hackforums.net/forumdisplay.php?fid=172"
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Website Showcase and Reviews rules posted by Omniscient.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=535289",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

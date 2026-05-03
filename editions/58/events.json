@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Omniscient posted his full 9/11 story on his blog Vbum, taking 4 hours to write; members were invite...",
       "description": "Omniscient posted his full 9/11 story on his blog Vbum, taking 4 hours to write; members were invited to share their own.",
-      "thread": "http://hackforums.net/showthread.php?tid=1711509",
+      "url": "http://hackforums.net/showthread.php?tid=1711509",
       "users": [
         {
           "uid": "1",
@@ -13,13 +14,15 @@
     },
     {
       "category": "site",
+      "title": "An official 9/11 memorial thread was created for members to share stories or condolences.",
       "description": "An official 9/11 memorial thread was created for members to share stories or condolences.",
-      "thread": "http://hackforums.net/showthread.php?tid=1708645"
+      "url": "http://hackforums.net/showthread.php?tid=1708645"
     },
     {
       "category": "site",
+      "title": "The Premium Ebook Bazaar section is now ready for submissions, moderated by Cam G and -BoodyE-.",
       "description": "The Premium Ebook Bazaar section is now ready for submissions, moderated by Cam G and -BoodyE-.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Cam G",
@@ -33,18 +36,21 @@
     },
     {
       "category": "site",
+      "title": "Members must now have a reputation greater than 0 to post in the Marketplace (excluding Marketplace ...",
       "description": "Members must now have a reputation greater than 0 to post in the Marketplace (excluding Marketplace Discussions). The change is intended to reduce scammers, sales trashers, and ban evaders.",
-      "thread": "http://hackforums.net/showthread.php?tid=1691787"
+      "url": "http://hackforums.net/showthread.php?tid=1691787"
     },
     {
       "category": "site",
+      "title": "Only l33ts and ub3rs may now post threads in the Gamertags section, and Gamertags may not be offered...",
       "description": "Only l33ts and ub3rs may now post threads in the Gamertags section, and Gamertags may not be offered in any other section.",
-      "thread": "http://hackforums.net/showthread.php?tid=1691662"
+      "url": "http://hackforums.net/showthread.php?tid=1691662"
     },
     {
       "category": "groups",
+      "title": "A new private group called Minecrafters was created on September 5, 2011, led by Dylan and ๖ۣۜPink ๖...",
       "description": "A new private group called Minecrafters was created on September 5, 2011, led by Dylan and ๖ۣۜPink ๖ۣۜFloyd.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Dylan",
@@ -58,23 +64,27 @@
     },
     {
       "category": "site",
+      "title": "Egypt is now country-blocked from HackForums.",
       "description": "Egypt is now country-blocked from HackForums.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "Double Posting was removed from the list of report options.",
       "description": "Double Posting was removed from the list of report options.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "The group named Dead has been renamed to Closed.",
       "description": "The group named Dead has been renamed to Closed.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Sтяιdєя crossed 1,000 reputation, joining the top members.",
       "description": "Sтяιdєя crossed 1,000 reputation, joining the top members.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "682150",
@@ -84,8 +94,9 @@
     },
     {
       "category": "users",
+      "title": "Rhythm changed his name to 'Omniscient' and was shortly repfucked, especially after sending PMs invi...",
       "description": "Rhythm changed his name to 'Omniscient' and was shortly repfucked, especially after sending PMs inviting people to staff.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Rhythm",
@@ -95,8 +106,9 @@
     },
     {
       "category": "users",
+      "title": "Judge Dredd was reportedly repfucking and revenge-repping members who neg-rep him; he also passed...",
       "description": "Judge Dredd was reportedly repfucking and revenge-repping members who neg-rep him; he also passed 1,000 reputation despite multiple attempts to keep him below it.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "4066",
@@ -106,8 +118,9 @@
     },
     {
       "category": "users",
+      "title": "Tasemu developed the 'Otaku Handbook,' a guide for anyone wishing to learn more about anime or find ...",
       "description": "Tasemu developed the 'Otaku Handbook,' a guide for anyone wishing to learn more about anime or find a new series.",
-      "thread": "http://hackforums.net/showthread.php?tid=1688773",
+      "url": "http://hackforums.net/showthread.php?tid=1688773",
       "users": [
         {
           "username": "Tasemu",
@@ -117,8 +130,9 @@
     },
     {
       "category": "users",
+      "title": "Deltron reached HJT undergraduate status and will continue his training offsite to help HF members.",
       "description": "Deltron reached HJT undergraduate status and will continue his training offsite to help HF members.",
-      "thread": "http://hackforums.net/showthread.php?tid=1698427",
+      "url": "http://hackforums.net/showthread.php?tid=1698427",
       "users": [
         {
           "username": "Deltron",
@@ -128,8 +142,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with alabama conducted by Cobalt+; covers his school situation, joining HF, and his alias ...",
       "description": "Interview with alabama conducted by Cobalt+; covers his school situation, joining HF, and his alias origin.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "277712",

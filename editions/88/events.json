@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Hack Forums celebrated its 5th anniversary; Omniscient changed the banner and announced a week-long ...",
       "description": "Hack Forums celebrated its 5th anniversary; Omniscient changed the banner and announced a week-long celebration.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -13,13 +14,15 @@
     },
     {
       "category": "site",
+      "title": "Several members spammed the forums advertising 'Hack Society'; staff banned them and the word 'Hack ...",
       "description": "Several members spammed the forums advertising 'Hack Society'; staff banned them and the word 'Hack Society' was censored.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "groups",
+      "title": "A new official group called 'Coders' was created; the new-group purchase price was raised to $3,500 ...",
       "description": "A new official group called 'Coders' was created; the new-group purchase price was raised to $3,500 with this purchase.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -29,8 +32,9 @@
     },
     {
       "category": "site",
+      "title": "Omniscient created a universal Ub3r upgrade link allowing l33ts to apply and Ub3rs to gift upgrades ...",
       "description": "Omniscient created a universal Ub3r upgrade link allowing l33ts to apply and Ub3rs to gift upgrades to others.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1",
@@ -40,8 +44,9 @@
     },
     {
       "category": "users",
+      "title": "Scooter reached 2,000 reputation.",
       "description": "Scooter reached 2,000 reputation.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "361543",
@@ -51,8 +56,9 @@
     },
     {
       "category": "users",
+      "title": "Morchid was banned for fraudulent donations.",
       "description": "Morchid was banned for fraudulent donations.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "613009",
@@ -62,8 +68,9 @@
     },
     {
       "category": "users",
+      "title": ".Cartman was banned for threatening to DDoS HF.",
       "description": ".Cartman was banned for threatening to DDoS HF.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1042121",
@@ -73,8 +80,9 @@
     },
     {
       "category": "users",
+      "title": "JesusOfSuburbia was banned for advertising porn forums.",
       "description": "JesusOfSuburbia was banned for advertising porn forums.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "56304",
@@ -84,8 +92,9 @@
     },
     {
       "category": "users",
+      "title": "Virtualization was banned for account sharing.",
       "description": "Virtualization was banned for account sharing.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "426982",
@@ -95,8 +104,9 @@
     },
     {
       "category": "threads",
+      "title": "Gaming Thread: BlackChaos's '[Propitious] Timeline of Console Gaming' covering all consoles by gener...",
       "description": "Gaming Thread: BlackChaos's '[Propitious] Timeline of Console Gaming' covering all consoles by generation.",
-      "thread": "http://hackforums.net/showthread.php?tid=2398861",
+      "url": "http://hackforums.net/showthread.php?tid=2398861",
       "users": [
         {
           "uid": "766449",
@@ -106,8 +116,9 @@
     },
     {
       "category": "threads",
+      "title": "Coding Thread: Gray's C# tutorial on Sockets, Packets & Pointers.",
       "description": "Coding Thread: Gray's C# tutorial on Sockets, Packets & Pointers.",
-      "thread": "http://hackforums.net/showthread.php?tid=2323009",
+      "url": "http://hackforums.net/showthread.php?tid=2323009",
       "users": [
         {
           "uid": "522041",
@@ -117,8 +128,9 @@
     },
     {
       "category": "threads",
+      "title": "Mental Thread: Frostbite™'s unbiased review of the iDoser sound system.",
       "description": "Mental Thread: Frostbite™'s unbiased review of the iDoser sound system.",
-      "thread": "http://hackforums.net/showthread.php?tid=2413633",
+      "url": "http://hackforums.net/showthread.php?tid=2413633",
       "users": [
         {
           "uid": "444723",
@@ -128,8 +140,9 @@
     },
     {
       "category": "threads",
+      "title": "Donation Thread: nokia2mon2 made a 7th $1,000 donation from Red Lions to HF; Red Lions received a...",
       "description": "Donation Thread: nokia2mon2 made a 7th $1,000 donation from Red Lions to HF; Red Lions received a special shadow effect on their usernames as a reward.",
-      "thread": "http://hackforums.net/showthread.php?tid=2419158",
+      "url": "http://hackforums.net/showthread.php?tid=2419158",
       "users": [
         {
           "uid": "80618",
@@ -139,8 +152,9 @@
     },
     {
       "category": "users",
+      "title": "nokia2mon2 received the Qwazz Star, Militant, Ninja, and Cuddly and Cute awards; Natha received Cat...",
       "description": "nokia2mon2 received the Qwazz Star, Militant, Ninja, and Cuddly and Cute awards; Natha received Cat Lover; Subscription received Master Donator and Gamer; TNZagreb received GFX Guru; Riggs received Hustler; ๖ۣۜSheepıı received Master Donator.",
-      "thread": "http://hackforums.net/showthread.php?tid=2419158",
+      "url": "http://hackforums.net/showthread.php?tid=2419158",
       "users": [
         {
           "uid": "80618",
@@ -170,8 +184,9 @@
     },
     {
       "category": "users",
+      "title": "Vexna became a moderator of the Hacking Tools and Programs section; LemonBro3 and Shark™ were promot...",
       "description": "Vexna became a moderator of the Hacking Tools and Programs section; LemonBro3 and Shark™ were promoted to leaders of Techsperts.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "759904",
@@ -189,8 +204,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Purple Haze conducted by Ignite; 4/20-themed conversation about marijuana, his...",
       "description": "Interview with Purple Haze conducted by Ignite; 4/20-themed conversation about marijuana, his Blackshades staff role, and Techsperts co-leadership.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "946680",
@@ -204,8 +220,9 @@
     },
     {
       "category": "interviews",
+      "title": "4/20-themed multi-interview by Waleed with hugsyou, Honor Et Veritas (Coders group owner), and...",
       "description": "4/20-themed multi-interview by Waleed with hugsyou, Honor Et Veritas (Coders group owner), and Ceaser; covers their views on marijuana legalization.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Waleed",
@@ -227,8 +244,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition.",
       "description": "Contributors to this edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

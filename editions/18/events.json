@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "topic": "users",
+            "category": "users",
             "title": "Prettykitty removed from Reviews for selling for selling group slots.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=718386",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "topic": "groups",
+            "category": "groups",
             "title": "20+ Reviewers removed; Skill assures reinstatement for legitimate members.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=718386&pid=6833148#pid6833148",
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "iBruteforce steps down as Administrator. Crow steps up.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=713257",
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Crow is promoted to Administrator. ",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=713257",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Added YouTube award.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=719856",
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "topic": "site",
+            "category": "site",
             "title": "Added Fish Err Man award.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=719856",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "topic": "users",
+            "category": "users",
             "title": "Omniscient SWATted at home; asks communityfor any information.",
             "description": "",
             "url": "http://hackforums.net/showthread.php?tid=722403",
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "topic": "news",
+            "category": "news",
             "title": "",
             "description": "",
             "url": "",

@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "Hack Forums users experienced random CSS layout loading failures; Viral Dragon and Connected publish...",
       "description": "Hack Forums users experienced random CSS layout loading failures; Viral Dragon and Connected published help threads to resolve the issue.",
-      "thread": "http://hackforums.net/showthread.php?tid=3777675",
+      "url": "http://hackforums.net/showthread.php?tid=3777675",
       "users": [
         {
           "uid": "23809",
@@ -17,8 +18,9 @@
     },
     {
       "category": "groups",
+      "title": "The Writ3rs Wiki team reopened recruitment for members with strong writing skills to help develop HF...",
       "description": "The Writ3rs Wiki team reopened recruitment for members with strong writing skills to help develop HF's Wiki and Help Documents.",
-      "thread": "http://hackforums.net/showthread.php?tid=3723637",
+      "url": "http://hackforums.net/showthread.php?tid=3723637",
       "users": [
         {
           "uid": "23809",
@@ -28,13 +30,15 @@
     },
     {
       "category": "site",
+      "title": "A new 'Online Accounts' section was added to the Marketplace to centralize sales of Twitter,...",
       "description": "A new 'Online Accounts' section was added to the Marketplace to centralize sales of Twitter, YouTube, Facebook and other online account listings.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "D3xus took over as the new Member of the Month operator after the role passed from demoted Judge Dre...",
       "description": "D3xus took over as the new Member of the Month operator after the role passed from demoted Judge Dredd to ex-Staffer Genuine.",
-      "thread": "http://hackforums.net/showthread.php?tid=3771546",
+      "url": "http://hackforums.net/showthread.php?tid=3771546",
       "users": [
         {
           "uid": "827711",
@@ -52,8 +56,9 @@
     },
     {
       "category": "users",
+      "title": "Vinnie' hit 10,000 posts; 630 reached 1,000 reputation.",
       "description": "Vinnie' hit 10,000 posts; 630 reached 1,000 reputation.",
-      "thread": "http://hackforums.net/showthread.php?tid=3775607",
+      "url": "http://hackforums.net/showthread.php?tid=3775607",
       "users": [
         {
           "uid": "600771",
@@ -67,8 +72,9 @@
     },
     {
       "category": "users",
+      "title": "Adαm and malichi were repfucked.",
       "description": "Adαm and malichi were repfucked.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1614181",
@@ -82,8 +88,9 @@
     },
     {
       "category": "users",
+      "title": "ImDoneCA™ was banned for posting a member's dox; Walt Disney™ was banned as a precautionary measure;...",
       "description": "ImDoneCA™ was banned for posting a member's dox; Walt Disney™ was banned as a precautionary measure; AlreadyCoded was banned for a BuyCraft chargeback; pullup was banned for paying members to harass other users; Spoofed. was banned indefinitely for account review; Greyersting was banned with the reason 'You are welcome--here's your asshole back'.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "1703445",
@@ -113,8 +120,9 @@
     },
     {
       "category": "users",
+      "title": "Soccer purchased the Bitcoinage award; Reset and 630 received the HackerCraft award; Mohatu received...",
       "description": "Soccer purchased the Bitcoinage award; Reset and 630 received the HackerCraft award; Mohatu received the HackerCraft and Sticky Man awards after his Arduino guide was stickied.",
-      "thread": "http://hackforums.net/showthread.php?tid=3747830",
+      "url": "http://hackforums.net/showthread.php?tid=3747830",
       "users": [
         {
           "uid": "1055259",
@@ -136,8 +144,9 @@
     },
     {
       "category": "groups",
+      "title": "Makaveli The Don returned as a leader of Complexity.",
       "description": "Makaveli The Don returned as a leader of Complexity.",
-      "thread": "http://hackforums.net/showthread.php?tid=3771546",
+      "url": "http://hackforums.net/showthread.php?tid=3771546",
       "users": [
         {
           "uid": "509788",
@@ -147,8 +156,9 @@
     },
     {
       "category": "threads",
+      "title": "Technology DIY Thread: Mohatu's 'New To Arduino?",
       "description": "Technology DIY Thread: Mohatu's 'New To Arduino? Start Here! [A Full Beginner's Guide]'.",
-      "thread": "http://hackforums.net/showthread.php?tid=3747830",
+      "url": "http://hackforums.net/showthread.php?tid=3747830",
       "users": [
         {
           "uid": "1082656",
@@ -158,8 +168,9 @@
     },
     {
       "category": "site",
+      "title": "HackerCraft news: play2.hackercraft.net came online; Instinct raided Complexity and built a new...",
       "description": "HackerCraft news: play2.hackercraft.net came online; Instinct raided Complexity and built a new base; a /warp market shop was added; a captcha was implemented to deter bots; ClearLag was installed; Omniscient apologized for recent server issues.",
-      "thread": "http://hackforums.net/showthread.php?tid=3776299",
+      "url": "http://hackforums.net/showthread.php?tid=3776299",
       "users": [
         {
           "uid": "1",
@@ -169,8 +180,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Judge Dredd conducted by Sir; covers his moderating Omniscient's other sites in...",
       "description": "Interview with Judge Dredd conducted by Sir; covers his moderating Omniscient's other sites in 2005-2006, his return to Administration after a long absence, the meanings behind 'Mr. Biggles' and 'Hanzo' aliases, and his leadership of Complexity post-retirement.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",
@@ -184,8 +196,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with The Elite conducted by Saturday; covers his ex-HF News publisher tenure following...",
       "description": "Interview with The Elite conducted by Saturday; covers his ex-HF News publisher tenure following Yin, the development of his gaming community Gamurs from the failed Rune Gear pivot, his RSBots origins on HF, and his university Computer Science studies.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "787112",
@@ -199,8 +212,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Sai conducted by Connected; covers her recruitment to HF by Sasori for a graphics...",
       "description": "Interview with Sai conducted by Connected; covers her recruitment to HF by Sasori for a graphics shop, her leadership of Fly By Night, her artistic philosophy, and FBN's plans to 'move in' with new innovations.",
-      "thread": "http://hackforums.net/showthread.php?tid=3772960",
+      "url": "http://hackforums.net/showthread.php?tid=3772960",
       "users": [
         {
           "uid": "1050193",
@@ -214,8 +228,9 @@
     },
     {
       "category": "news",
+      "title": "Contributors to this edition; this marked Sir's 100th published edition.",
       "description": "Contributors to this edition; this marked Sir's 100th published edition.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "uid": "515249",

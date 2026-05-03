@@ -2,8 +2,9 @@
   "events": [
     {
       "category": "site",
+      "title": "A new country was added to the HF block list with no public reason given; The Holy posted a thread s...",
       "description": "A new country was added to the HF block list with no public reason given; The Holy posted a thread sharing his thoughts on the situation.",
-      "thread": "http://hackforums.net/showthread.php?tid=1860097",
+      "url": "http://hackforums.net/showthread.php?tid=1860097",
       "users": [
         {
           "uid": "450827",
@@ -13,28 +14,33 @@
     },
     {
       "category": "site",
+      "title": "New Ebook Bazaar rule: members are no longer allowed to ask for vouches or review copies.",
       "description": "New Ebook Bazaar rule: members are no longer allowed to ask for vouches or review copies.",
-      "thread": "http://hackforums.net/showthread.php?tid=1838556"
+      "url": "http://hackforums.net/showthread.php?tid=1838556"
     },
     {
       "category": "site",
+      "title": "Strict new rule for the Hacking Tutorials section: members can no longer ask, PM, or post about eBoo...",
       "description": "Strict new rule for the Hacking Tutorials section: members can no longer ask, PM, or post about eBooks there.",
-      "thread": "http://hackforums.net/showthread.php?tid=1852486"
+      "url": "http://hackforums.net/showthread.php?tid=1852486"
     },
     {
       "category": "site",
+      "title": "A new 'Free Money Making Ebooks' section was added under Monetizing Techniques, with rules...",
       "description": "A new 'Free Money Making Ebooks' section was added under Monetizing Techniques, with rules forbidding referral links, marketplace selling, asking for reps, and illegal-activity ebooks.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "site",
+      "title": "HF News editions have been combined; the regular news and user news now ship together.",
       "description": "HF News editions have been combined; the regular news and user news now ship together.",
-      "thread": null
+      "url": ""
     },
     {
       "category": "users",
+      "title": "Brandenx781 was promoted to undergraduate status in the HJT team.",
       "description": "Brandenx781 was promoted to undergraduate status in the HJT team.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Brandenx781",
@@ -44,8 +50,9 @@
     },
     {
       "category": "users",
+      "title": "Sync™ regained control of his account.",
       "description": "Sync™ regained control of his account.",
-      "thread": "http://hackforums.net/showthread.php?tid=1841608&pid=16757931#pid16757931",
+      "url": "http://hackforums.net/showthread.php?tid=1841608&pid=16757931#pid16757931",
       "users": [
         {
           "username": "Sync™",
@@ -55,8 +62,9 @@
     },
     {
       "category": "users",
+      "title": "Ron Paul 2012 requested a one-year ban with no clear reason; many doubt he will return.",
       "description": "Ron Paul 2012 requested a one-year ban with no clear reason; many doubt he will return.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Ron Paul 2012",
@@ -66,8 +74,9 @@
     },
     {
       "category": "users",
+      "title": "Krew hit his four-year anniversary on Hack Forums; he is one of the few remaining members with a UID...",
       "description": "Krew hit his four-year anniversary on Hack Forums; he is one of the few remaining members with a UID in the thousands.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "Krew",
@@ -77,8 +86,9 @@
     },
     {
       "category": "threads",
+      "title": "Helpful Thread: xerotic's HF Scripts greasemonkey plugin, expanding capabilities for HF members.",
       "description": "Helpful Thread: xerotic's HF Scripts greasemonkey plugin, expanding capabilities for HF members.",
-      "thread": "http://hackforums.net/showthread.php?tid=1854775",
+      "url": "http://hackforums.net/showthread.php?tid=1854775",
       "users": [
         {
           "uid": "175033",
@@ -88,8 +98,9 @@
     },
     {
       "category": "threads",
+      "title": "eWhoring Thread: Kamz89's tutorial on eWhoring, including blackmail with pictures.",
       "description": "eWhoring Thread: Kamz89's tutorial on eWhoring, including blackmail with pictures.",
-      "thread": "http://hackforums.net/showthread.php?tid=1759279",
+      "url": "http://hackforums.net/showthread.php?tid=1759279",
       "users": [
         {
           "username": "Kamz89",
@@ -99,8 +110,9 @@
     },
     {
       "category": "threads",
+      "title": "Informative Thread: EyeOfTheTiger's tutorial on speeding up your computer by disabling Core Parking.",
       "description": "Informative Thread: EyeOfTheTiger's tutorial on speeding up your computer by disabling Core Parking.",
-      "thread": "http://hackforums.net/showthread.php?tid=1659646",
+      "url": "http://hackforums.net/showthread.php?tid=1659646",
       "users": [
         {
           "username": "EyeOfTheTiger"
@@ -109,8 +121,9 @@
     },
     {
       "category": "threads",
+      "title": "Interesting Debate: Tate's 'Without religion there would be no schools' thread.",
       "description": "Interesting Debate: Tate's 'Without religion there would be no schools' thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=1861061",
+      "url": "http://hackforums.net/showthread.php?tid=1861061",
       "users": [
         {
           "uid": "101228",
@@ -120,8 +133,9 @@
     },
     {
       "category": "threads",
+      "title": "Discussion Topic: One-Armed-Pirate's Ron Paul discussion thread, ahead of the upcoming GOP primary.",
       "description": "Discussion Topic: One-Armed-Pirate's Ron Paul discussion thread, ahead of the upcoming GOP primary.",
-      "thread": "http://hackforums.net/showthread.php?tid=1860416",
+      "url": "http://hackforums.net/showthread.php?tid=1860416",
       "users": [
         {
           "username": "One-Armed-Pirate",
@@ -131,8 +145,9 @@
     },
     {
       "category": "threads",
+      "title": "Interesting Idea: Captain Hood's 'HF Products' suggestion thread.",
       "description": "Interesting Idea: Captain Hood's 'HF Products' suggestion thread.",
-      "thread": "http://hackforums.net/showthread.php?tid=1855787",
+      "url": "http://hackforums.net/showthread.php?tid=1855787",
       "users": [
         {
           "username": "Captain Hood",
@@ -142,8 +157,9 @@
     },
     {
       "category": "threads",
+      "title": "Successful Sales Thread: Fanatic's RebelSecurity Booter, with positive feedback for stability and un...",
       "description": "Successful Sales Thread: Fanatic's RebelSecurity Booter, with positive feedback for stability and unlimited attacks.",
-      "thread": "http://hackforums.net/showthread.php?tid=1798581",
+      "url": "http://hackforums.net/showthread.php?tid=1798581",
       "users": [
         {
           "username": "Fanatic",
@@ -153,8 +169,9 @@
     },
     {
       "category": "users",
+      "title": "Positive was made leader of Techsperts.",
       "description": "Positive was made leader of Techsperts.",
-      "thread": "http://hackforums.net/showthread.php?tid=1812957",
+      "url": "http://hackforums.net/showthread.php?tid=1812957",
       "users": [
         {
           "uid": "323740",
@@ -164,8 +181,9 @@
     },
     {
       "category": "users",
+      "title": "DragScope received the Businessman award.",
       "description": "DragScope received the Businessman award.",
-      "thread": null,
+      "url": "",
       "users": [
         {
           "username": "DragScope"
@@ -174,8 +192,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Deities conducted by Reported; covers his Alliance leadership, recruitment, and perso...",
       "description": "Interview with Deities conducted by Reported; covers his Alliance leadership, recruitment, and personal life.",
-      "thread": "http://hackforums.net/showthread.php?tid=1829232",
+      "url": "http://hackforums.net/showthread.php?tid=1829232",
       "users": [
         {
           "username": "Reported",
@@ -189,8 +208,9 @@
     },
     {
       "category": "interviews",
+      "title": "Interview with Reported conducted by Michael Westen; covers his joining HF, role as Writers intervie...",
       "description": "Interview with Reported conducted by Michael Westen; covers his joining HF, role as Writers interview lead, and Reverence membership.",
-      "thread": "http://hackforums.net/showthread.php?tid=1829232",
+      "url": "http://hackforums.net/showthread.php?tid=1829232",
       "users": [
         {
           "username": "Michael Westen",
