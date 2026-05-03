@@ -15,6 +15,8 @@ Events should have the following properties:
 - url: url of the related thread (use "" when there is no link)
 - users: array of uid & username object
 
+Do not create events that only summarize off-site world news, general technology industry news, or general gaming industry news (for example long third-post columns with no Hack Forums thread to attach). HF threads that appear in the edition’s linked notable-thread lists are still in scope for `threads` when they meet the notable-thread rule.
+
 Individual events need to be labeled by category: 
 - site: Headlines/Site News - events related to the site (which is HackForums) or the owner (Omniscient)
 - users: User News / Bans / vacation bans / closures/ receiving Awards/ RepFucks (RKOs) - should always be associated to a user. Each user event, even if multiple users had the same type of event, should have their own event entry.
