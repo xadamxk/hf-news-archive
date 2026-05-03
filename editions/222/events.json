@@ -1,0 +1,534 @@
+{
+  "events": [
+    {
+      "category": "groups",
+      "title": "White Hat Help School recruitment closed after heavy applications.",
+      "description": "Recruitment for The Brotherhood’s White Hat Help School run by -Hyperion drew roughly 100+ applications with 25 accepted; recruitment closed January 10th with a follow-up note pointing to April 1 for the next reopening.",
+      "url": "http://hackforums.net/showthread.php?tid=4612597",
+      "users": [
+        {
+          "uid": "197132",
+          "username": "-Hyperion"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "HackerCraft license renewed under Edward Snowden.",
+      "description": "After resolving the dispute with Robust over missing payments, Edward Snowden. became the new HackerCraft owner with a fresh license from Omniscient; the server was still a work in progress with a public server announcement thread.",
+      "url": "http://hackforums.net/showthread.php?tid=4622070",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        },
+        {
+          "uid": "1180981",
+          "username": "Edward Snowden."
+        },
+        {
+          "uid": "1205532",
+          "username": "Robust"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "title": "Brief Hack Forums outage (~15 minutes) on January 9th",
+      "description": "Omniscient posted on Twitter that HF was offline due to a likely data-center network outage and worked to restore service.",
+      "url": "",
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "Roger Waters and Camerοn each reached 1,000 reputation.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        },
+        {
+          "uid": "1990800",
+          "username": "Camerοn"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "Several users banned.",
+      "description": "Sol Yurick was banned and requested closure; Bibl for flaming; Virus1x for odd activity.",
+      "url": "",
+      "users": [
+        {
+          "uid": "657392",
+          "username": "Sol Yurick"
+        },
+        {
+          "uid": "1045121",
+          "username": "Bibl"
+        },
+        {
+          "uid": "432291",
+          "username": "Virus1x"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "Multiple members took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "692131",
+          "username": "Ariana"
+        },
+        {
+          "uid": "1716499",
+          "username": "Nehssa"
+        },
+        {
+          "uid": "877866",
+          "username": "IcYSeptember"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh"
+        },
+        {
+          "uid": "1977809",
+          "username": "Bubbles."
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous"
+        },
+        {
+          "uid": "1491834",
+          "username": "mad76e™"
+        },
+        {
+          "uid": "770060",
+          "username": "Invisus"
+        },
+        {
+          "uid": "1440962",
+          "username": "Wesley Snipes"
+        },
+        {
+          "uid": "1535763",
+          "username": "The Don Killuminati"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "Prestigio, antonn, and Minnesota had accounts closed.",
+      "description": "Prestigio closed for multi-accounting; antonn for distributing a backdoored plugin; Minnesota closed.",
+      "url": "",
+      "users": [
+        {
+          "uid": "1848412",
+          "username": "Prestigio"
+        },
+        {
+          "uid": "1760462",
+          "username": "antonn"
+        },
+        {
+          "uid": "903902",
+          "username": "Minnesota"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "Prestigio, ๖ۣۜAverage, and Bibl were repfucked (multi-accounting and flaming-related).",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "1848412",
+          "username": "Prestigio"
+        },
+        {
+          "uid": "2329831",
+          "username": "๖ۣۜAverage"
+        },
+        {
+          "uid": "1045121",
+          "username": "Bibl"
+        }
+      ]
+    },
+    {
+      "category": "users",
+      "title": "Vinnie, Arrow, and Sol Yurick received Green Apple awards; Bull™ received MOTM; P1st. donated for...",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        },
+        {
+          "uid": "1191229",
+          "username": "Arrow"
+        },
+        {
+          "uid": "657392",
+          "username": "Sol Yurick"
+        },
+        {
+          "uid": "1844212",
+          "username": "Bull™"
+        },
+        {
+          "uid": "1694616",
+          "username": "P1st."
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "title": "Aura posted that he is temporarily discontinuing tech-assistance services on HF.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4620481",
+      "users": [
+        {
+          "uid": "1495835",
+          "username": "Aura"
+        }
+      ]
+    },
+    {
+      "category": "threads",
+      "title": "Mark Webber continued selective L33t/Ub3r upgrades toward a cap of 50.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4613269",
+      "users": [
+        {
+          "uid": "89623",
+          "username": "Mark Webber"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Sktchy conducted by Justin Timberlake",
+      "description": "Sktchy discussed holidays, interviewing Omniscient on group radio (audio issues), Polymath going up for sale, and ideas for a community-focused “brand” style group on HF.",
+      "url": "",
+      "users": [
+        {
+          "uid": "2424397",
+          "username": "Sktchy"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake"
+        }
+      ]
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Coppersan conducted by 630",
+      "description": "Coppersan talked about Phoenix, education in Innuendo, personal transition and activism, staff visibility, and OmniCoin usage.",
+      "url": "",
+      "users": [
+        {
+          "uid": "1860651",
+          "username": "Coppersan"
+        },
+        {
+          "uid": "797403",
+          "username": "630"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "title": "Leadership roster updates across Enterprise, L'appel du Vide, Nightfall, Specialist, and The Revolu...",
+      "description": "Enterprise: Arrow added as owner; The Sky Daddy and Understalker added as leaders; ~HF~, Astonish (Sol Yurick uid), and Grievous removed as leaders. L'appel: Cyph Jr added, Saturlights removed. Nightfall: Vurezo added. Specialist: Shanks was added then removed in the same list; Aceman added; Tɦɛ Gʀiɱ removed. Revolution: Fox™, Department of Protection, and Pyscho added as leaders.",
+      "url": "",
+      "users": [
+        {
+          "uid": "1191229",
+          "username": "Arrow"
+        },
+        {
+          "uid": "1663556",
+          "username": "The Sky Daddy"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        },
+        {
+          "uid": "1042439",
+          "username": "~HF~"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous"
+        },
+        {
+          "uid": "1659032",
+          "username": "Cyph Jr"
+        },
+        {
+          "uid": "787112",
+          "username": "Saturlights"
+        },
+        {
+          "uid": "1918708",
+          "username": "Vurezo"
+        },
+        {
+          "uid": "1684566",
+          "username": "Shanks"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman"
+        },
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™"
+        },
+        {
+          "uid": "2477123",
+          "username": "Department of Protection"
+        },
+        {
+          "uid": "493315",
+          "username": "Pyscho"
+        }
+      ]
+    },
+    {
+      "category": "groups",
+      "title": "Notable group marketplace and rental threads",
+      "description": "Threads included Null for sale, Polymath end-of-era sale, beslim official group subforum rental, and Understalker’s Echo-related rental listing.",
+      "url": "http://hackforums.net/showthread.php?tid=4595729",
+      "users": [
+        {
+          "uid": "128873",
+          "username": "T3h Hack3r"
+        },
+        {
+          "uid": "42927",
+          "username": "Lani"
+        },
+        {
+          "uid": "1777085",
+          "username": "beslim"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "title": "Doctor Blue announced progress on a new OmniCoin block explorer",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4289243",
+      "users": [
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue"
+        }
+      ]
+    },
+    {
+      "category": "site",
+      "title": "Site statistics snapshot with totals, averages, ban counts, and forum tab deltas (Friday before r...",
+      "description": "",
+      "url": ""
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "1st Editor / Podcast"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1166170",
+          "username": "zасh",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1860651",
+          "username": "Coppersan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Journalist (User News) / Supervisor"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1469364",
+          "username": "Prada‌",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1775114",
+          "username": "Greed.",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1944390",
+          "username": "Skylar™",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "789677",
+          "username": "Grin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "524451",
+          "username": "Yellows",
+          "role": "Task Manager"
+        }
+      ]
+    }
+  ]
+}
