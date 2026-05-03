@@ -1,104 +1,113 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "New rule: Complaining about being repfucked results in 1‑month ban.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1447558",
+      "users": [
         {
-            "category": "site",
-            "title": "New rule: Complaining about being repfucked results in 1‑month ban.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1447558",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Admin warns groups against coordinating reputation abuse ('gang-repping').",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1437921",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Temporary admin vacation announced.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1442458",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Warez policy updated: torrents/movie downloads and illegal streaming links banned.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1450743",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "panDa. appointed moderator of Graphics Requests section.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=158",
-            "users": [
-                {
-                    "username": "panDa.",
-                    "uid": "566671"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Display of section moderators re-enabled.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "groups",
-            "title": "Graphic Masters: Buzz Lightyear becomes owner; Etheryte promoted to leader.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Buzz Lightyear",
-                    "uid": "204984"
-                },
-                {
-                    "username": "Etheryte",
-                    "uid": "32695"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "xerotic leaves all groups.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "xerotic",
-                    "uid": "175033"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "Techsperts temporarily close recruitment to review applications.",
-            "description": "",
-            "url": ""
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "site",
+      "title": "Admin warns groups against coordinating reputation abuse ('gang-repping').",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1437921",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "site",
+      "title": "Temporary admin vacation announced.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1442458",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "site",
+      "title": "Warez policy updated: torrents/movie downloads and illegal streaming links banned.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1450743",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "users",
+      "title": "panDa. appointed moderator of Graphics Requests section.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=158",
+      "users": [
+        {
+          "username": "panDa.",
+          "uid": "566671"
+        }
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "site",
+      "title": "Display of section moderators re-enabled.",
+      "description": "",
+      "url": "",
+      "date": 1310018751
+    },
+    {
+      "category": "groups",
+      "title": "Graphic Masters: Buzz Lightyear becomes owner; Etheryte promoted to leader.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Buzz Lightyear",
+          "uid": "204984"
+        },
+        {
+          "username": "Etheryte",
+          "uid": "32695"
+        }
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "groups",
+      "title": "xerotic leaves all groups.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "xerotic",
+          "uid": "175033"
+        }
+      ],
+      "date": 1310018751
+    },
+    {
+      "category": "groups",
+      "title": "Techsperts temporarily close recruitment to review applications.",
+      "description": "",
+      "url": "",
+      "date": 1310018751
+    }
+  ]
 }

@@ -1,56 +1,59 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Suggestions & Ideas section closed temporarily due to bad suggestions.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=579894",
+      "users": [
         {
-            "category": "site",
-            "title": "Suggestions & Ideas section closed temporarily due to bad suggestions.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=579894",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Sellers section default thread sorting changed to prevent bumping.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Several users created a hoax that the site was hacked; bans issued to participants.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=580961",
-            "users": [
-                {
-                    "username": "paniK",
-                    "uid": "96230"
-                },
-                {
-                    "username": "fagalite",
-                    "uid": "13201"
-                },
-                {
-                    "username": "rollinthatdice",
-                    "uid": "80481"
-                },
-                {
-                    "username": "Minus-Zero",
-                    "uid": "43254"
-                },
-                {
-                    "username": "M0D3RN H4X3R 1™",
-                    "uid": "115975"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1280804801
+    },
+    {
+      "category": "site",
+      "title": "Sellers section default thread sorting changed to prevent bumping.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1280804801
+    },
+    {
+      "category": "users",
+      "title": "Several users created a hoax that the site was hacked; bans issued to participants.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=580961",
+      "users": [
+        {
+          "username": "paniK",
+          "uid": "96230"
+        },
+        {
+          "username": "fagalite",
+          "uid": "13201"
+        },
+        {
+          "username": "rollinthatdice",
+          "uid": "80481"
+        },
+        {
+          "username": "Minus-Zero",
+          "uid": "43254"
+        },
+        {
+          "username": "M0D3RN H4X3R 1™",
+          "uid": "115975"
+        }
+      ],
+      "date": 1280804801
+    }
+  ]
 }

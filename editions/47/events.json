@@ -1,120 +1,130 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "UserCP now shows IP login log for recent account access.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "site",
-            "title": "UserCP now shows IP login log for recent account access.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Lounge rule 8 added: No misleading titles or adult-content insinuation.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1403747",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Admin notice to would-be attackers of HF properties.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1400120",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Brief downtime on June 17 resolved.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Word filter added for 'Lulz-sec'.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "users",
-            "title": "xerotic returns from vacation.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "xerotic",
-                    "uid": "175033"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "New official groups created: Reverence (Astonish is NJ) and The Informers (Atthackers).",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Astonish is NJ",
-                    "uid": "657392"
-                },
-                {
-                    "username": "Atthackers",
-                    "uid": "616850"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Hot-thread threshold set to 100 replies or 1000 views.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Cobalt+",
-                    "uid": "277712"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "RATs Crew leadership change: Qwazz steps down; KillαMuvz promoted; recruiting open.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1406024",
-            "users": [
-                {
-                    "username": "Qwazz",
-                    "uid": "295848"
-                },
-                {
-                    "username": "KillαMuvz",
-                    "uid": "579898"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "RATs subsection description updated.",
-            "description": "",
-            "url": ""
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "site",
+      "title": "Lounge rule 8 added: No misleading titles or adult-content insinuation.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1403747",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "site",
+      "title": "Admin notice to would-be attackers of HF properties.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1400120",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "site",
+      "title": "Brief downtime on June 17 resolved.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "site",
+      "title": "Word filter added for 'Lulz-sec'.",
+      "description": "",
+      "url": "",
+      "date": 1308795438
+    },
+    {
+      "category": "users",
+      "title": "xerotic returns from vacation.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "xerotic",
+          "uid": "175033"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "groups",
+      "title": "New official groups created: Reverence (Astonish is NJ) and The Informers (Atthackers).",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Astonish is NJ",
+          "uid": "657392"
+        },
+        {
+          "username": "Atthackers",
+          "uid": "616850"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "site",
+      "title": "Hot-thread threshold set to 100 replies or 1000 views.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Cobalt+",
+          "uid": "277712"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "groups",
+      "title": "RATs Crew leadership change: Qwazz steps down; KillαMuvz promoted; recruiting open.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1406024",
+      "users": [
+        {
+          "username": "Qwazz",
+          "uid": "295848"
+        },
+        {
+          "username": "KillαMuvz",
+          "uid": "579898"
+        }
+      ],
+      "date": 1308795438
+    },
+    {
+      "category": "groups",
+      "title": "RATs subsection description updated.",
+      "description": "",
+      "url": "",
+      "date": 1308795438
+    }
+  ]
 }

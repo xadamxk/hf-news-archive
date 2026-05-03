@@ -1,46 +1,50 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Upgraded to MyBB 1.6x; subsequent downtime addressed.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=916346",
+      "users": [
         {
-            "category": "site",
-            "title": "Upgraded to MyBB 1.6x; subsequent downtime addressed.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=916346",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Vacation Policy introduced for temporary account closures.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=907436",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Member of the Month award reinstated.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=920442"
-        },
-        {
-            "category": "threads",
-            "title": "Gabber’s forum feedback thread noted.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=919706",
-            "users": [
-                {
-                    "username": "Gabber",
-                    "uid": "245853"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1293258070
+    },
+    {
+      "category": "site",
+      "title": "Vacation Policy introduced for temporary account closures.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=907436",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1293258070
+    },
+    {
+      "category": "site",
+      "title": "Member of the Month award reinstated.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=920442",
+      "date": 1293258070
+    },
+    {
+      "category": "threads",
+      "title": "Gabber’s forum feedback thread noted.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=919706",
+      "users": [
+        {
+          "username": "Gabber",
+          "uid": "245853"
+        }
+      ],
+      "date": 1293258070
+    }
+  ]
 }

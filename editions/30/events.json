@@ -1,88 +1,94 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "MySQL upgraded to 5.5; performance work continues.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=975094",
+      "users": [
         {
-            "category": "site",
-            "title": "MySQL upgraded to 5.5; performance work continues.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=975094",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "New HTTP server planning to handle traffic.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=964286",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Vorfin promoted to staff; phire nuk3r demoted.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Vorfin",
-                    "uid": null
-                },
-                {
-                    "username": "phire nuk3r",
-                    "uid": "46373"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Ganja Bot features disputed; sales discontinued.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=958067",
-            "users": [
-                {
-                    "username": "PhobiiA",
-                    "uid": null
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "v P r o x Y banned for multiple accounts (iPhone 4 seller).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=958311",
-            "users": [
-                {
-                    "username": "v P r o x Y",
-                    "uid": null
-                },
-                {
-                    "username": "Jesús",
-                    "uid": null
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Tate account compromised; banned pending investigation.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=972381",
-            "users": [
-                {
-                    "username": "Tate",
-                    "uid": "101228"
-                },
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1295117578
+    },
+    {
+      "category": "site",
+      "title": "New HTTP server planning to handle traffic.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=964286",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1295117578
+    },
+    {
+      "category": "users",
+      "title": "Vorfin promoted to staff; phire nuk3r demoted.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Vorfin",
+          "uid": null
+        },
+        {
+          "username": "phire nuk3r",
+          "uid": "46373"
+        }
+      ],
+      "date": 1295117578
+    },
+    {
+      "category": "threads",
+      "title": "Ganja Bot features disputed; sales discontinued.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=958067",
+      "users": [
+        {
+          "username": "PhobiiA",
+          "uid": null
+        }
+      ],
+      "date": 1295117578
+    },
+    {
+      "category": "users",
+      "title": "v P r o x Y banned for multiple accounts (iPhone 4 seller).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=958311",
+      "users": [
+        {
+          "username": "v P r o x Y",
+          "uid": null
+        },
+        {
+          "username": "Jesús",
+          "uid": null
+        }
+      ],
+      "date": 1295117578
+    },
+    {
+      "category": "users",
+      "title": "Tate account compromised; banned pending investigation.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=972381",
+      "users": [
+        {
+          "username": "Tate",
+          "uid": "101228"
+        },
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1295117578
+    }
+  ]
 }

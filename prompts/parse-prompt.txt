@@ -14,6 +14,7 @@ Events should have the following properties:
 - description: Additional detail about the event - details go here
 - url: url of the related thread (use "" when there is no link)
 - users: array of uid & username object
+- date: the date of the first post in posts.json - example: 1289072975
 
 Do not create events that only summarize off-site world news, general technology industry news, or general gaming industry news (for example long third-post columns with no Hack Forums thread to attach). HF threads that appear in the edition’s linked notable-thread lists are still in scope for `threads` when they meet the notable-thread rule.
 

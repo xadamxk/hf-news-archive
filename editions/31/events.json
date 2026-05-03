@@ -1,114 +1,124 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Hanzo returns as Admin; handles reputation abuse.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "site",
-            "title": "Hanzo returns as Admin; handles reputation abuse.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Hanzo",
-                    "uid": "4066"
-                },
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "Hanzo",
+          "uid": "4066"
         },
         {
-            "category": "site",
-            "title": "Brief exposure of Staff/Junk/private group threads; postmortem.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=979417",
-            "users": [
-                {
-                    "username": "Crow",
-                    "uid": "2103"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "HF surpasses 8,000,000 posts.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "groups",
-            "title": "Red Lions recruitment thread open (rotating slots).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=965097",
-            "users": [
-                {
-                    "username": "Tєchnology",
-                    "uid": null
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Official Facebook page and social connections help doc.",
-            "description": "",
-            "url": "http://hackforums.net/misc.php?action=help&hid=28"
-        },
-        {
-            "category": "groups",
-            "title": "Reviewers applications re-opened (UB3R only).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=977663",
-            "users": [
-                {
-                    "username": "Skill",
-                    "uid": "65581"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Community troll: Nowaythen fears FBI after clicking link.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=987813",
-            "users": [
-                {
-                    "username": "Nowaythen",
-                    "uid": "498453"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Scam report against WIZCRAFT (Maniac Booter).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=987477",
-            "users": [
-                {
-                    "username": "WIZCRAFT",
-                    "uid": null
-                },
-                {
-                    "username": "Binahu",
-                    "uid": null
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Lounge rating system removed (performance).",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "site",
-            "title": "Conspiracy threads temporarily banned in SRPP.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=989584",
-            "users": [
-                {
-                    "username": "Saged",
-                    "uid": "47360"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1295487406
+    },
+    {
+      "category": "site",
+      "title": "Brief exposure of Staff/Junk/private group threads; postmortem.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=979417",
+      "users": [
+        {
+          "username": "Crow",
+          "uid": "2103"
+        }
+      ],
+      "date": 1295487406
+    },
+    {
+      "category": "site",
+      "title": "HF surpasses 8,000,000 posts.",
+      "description": "",
+      "url": "",
+      "date": 1295487406
+    },
+    {
+      "category": "groups",
+      "title": "Red Lions recruitment thread open (rotating slots).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=965097",
+      "users": [
+        {
+          "username": "Tєchnology",
+          "uid": null
+        }
+      ],
+      "date": 1295487406
+    },
+    {
+      "category": "site",
+      "title": "Official Facebook page and social connections help doc.",
+      "description": "",
+      "url": "http://hackforums.net/misc.php?action=help&hid=28",
+      "date": 1295487406
+    },
+    {
+      "category": "groups",
+      "title": "Reviewers applications re-opened (UB3R only).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=977663",
+      "users": [
+        {
+          "username": "Skill",
+          "uid": "65581"
+        }
+      ],
+      "date": 1295487406
+    },
+    {
+      "category": "threads",
+      "title": "Community troll: Nowaythen fears FBI after clicking link.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=987813",
+      "users": [
+        {
+          "username": "Nowaythen",
+          "uid": "498453"
+        }
+      ],
+      "date": 1295487406
+    },
+    {
+      "category": "threads",
+      "title": "Scam report against WIZCRAFT (Maniac Booter).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=987477",
+      "users": [
+        {
+          "username": "WIZCRAFT",
+          "uid": null
+        },
+        {
+          "username": "Binahu",
+          "uid": null
+        }
+      ],
+      "date": 1295487406
+    },
+    {
+      "category": "site",
+      "title": "Lounge rating system removed (performance).",
+      "description": "",
+      "url": "",
+      "date": 1295487406
+    },
+    {
+      "category": "site",
+      "title": "Conspiracy threads temporarily banned in SRPP.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=989584",
+      "users": [
+        {
+          "username": "Saged",
+          "uid": "47360"
+        }
+      ],
+      "date": 1295487406
+    }
+  ]
 }

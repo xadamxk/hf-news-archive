@@ -1,22 +1,24 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "threads",
+      "title": "No news events this week.",
+      "description": "",
+      "url": "",
+      "date": 1281937142
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "threads",
-            "title": "No news events this week.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Yin",
+          "uid": "74244"
         }
-    ]
+      ],
+      "date": 1281937142
+    }
+  ]
 }

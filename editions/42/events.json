@@ -1,64 +1,70 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Suggestions & Ideas section re-opened; new sections approved.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=134",
+      "date": 1305871878
+    },
+    {
+      "category": "site",
+      "title": "New 'Reputation Abuse Support' section created.",
+      "description": "",
+      "url": "http://hackforums.net/announcements.php?aid=2",
+      "users": [
         {
-            "category": "site",
-            "title": "Suggestions & Ideas section re-opened; new sections approved.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=134"
-        },
-        {
-            "category": "site",
-            "title": "New 'Reputation Abuse Support' section created.",
-            "description": "",
-            "url": "http://hackforums.net/announcements.php?aid=2",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "New Xbox Live Gamertag section launched.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=195"
-        },
-        {
-            "category": "site",
-            "title": "Post count recount; Site News/Feedback, Suggestions, Member Contests no longer count toward posts.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1297906",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Thread character limit raised to 18,000; image limit per post raised to 18.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "New L33T purchase requirements: 25 posts and 1 week old account.",
-            "description": "",
-            "url": "http://twitter.com/#!/hackforumsnet",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1305871878
+    },
+    {
+      "category": "site",
+      "title": "New Xbox Live Gamertag section launched.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=195",
+      "date": 1305871878
+    },
+    {
+      "category": "site",
+      "title": "Post count recount; Site News/Feedback, Suggestions, Member Contests no longer count toward posts.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1297906",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1305871878
+    },
+    {
+      "category": "site",
+      "title": "Thread character limit raised to 18,000; image limit per post raised to 18.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1305871878
+    },
+    {
+      "category": "site",
+      "title": "New L33T purchase requirements: 25 posts and 1 week old account.",
+      "description": "",
+      "url": "http://twitter.com/#!/hackforumsnet",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1305871878
+    }
+  ]
 }

@@ -1,46 +1,50 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Dead vs Banned group differences confirmed by Omniscient.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1079358",
+      "users": [
         {
-            "category": "site",
-            "title": "Dead vs Banned group differences confirmed by Omniscient.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1079358",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "xerotic promoted to staff.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1082594",
-            "users": [
-                {
-                    "username": "xerotic",
-                    "uid": "175033"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "D.S. Inc and Reviewers recruiting.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1073637"
-        },
-        {
-            "category": "site",
-            "title": "LAN issue to MySQL server caused downtime; resolved.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1086906",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1299958932
+    },
+    {
+      "category": "users",
+      "title": "xerotic promoted to staff.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1082594",
+      "users": [
+        {
+          "username": "xerotic",
+          "uid": "175033"
+        }
+      ],
+      "date": 1299958932
+    },
+    {
+      "category": "groups",
+      "title": "D.S. Inc and Reviewers recruiting.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1073637",
+      "date": 1299958932
+    },
+    {
+      "category": "site",
+      "title": "LAN issue to MySQL server caused downtime; resolved.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1086906",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1299958932
+    }
+  ]
 }

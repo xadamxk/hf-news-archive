@@ -1,104 +1,112 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "users",
+      "title": "Prettykitty removed from Reviews for selling for selling group slots.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=718386",
+      "users": [
         {
-            "category": "users",
-            "title": "Prettykitty removed from Reviews for selling for selling group slots.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=718386",
-            "users": [
-                {
-                    "username": "Prettykitty",
-                    "uid": "49365"
-                },
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "Prettykitty",
+          "uid": "49365"
         },
         {
-            "category": "groups",
-            "title": "20+ Reviewers removed; Skill assures reinstatement for legitimate members.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=718386&pid=6833148#pid6833148",
-            "users": [
-                {
-                    "username": "Skill",
-                    "uid": "65581"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "iBruteforce steps down as Administrator. Crow steps up.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=713257",
-            "users": [
-                {
-                    "username": "iBruteforce",
-                    "uid": "33279"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Crow is promoted to Administrator. ",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=713257",
-            "users": [
-                {
-                    "username": "Crow",
-                    "uid": "2103"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Added YouTube award.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=719856",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Added Fish Err Man award.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=719856",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Omniscient SWATted at home; asks communityfor any information.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=722403",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "The Elite",
-                    "uid": "136025"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "groups",
+      "title": "20+ Reviewers removed; Skill assures reinstatement for legitimate members.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=718386&pid=6833148#pid6833148",
+      "users": [
+        {
+          "username": "Skill",
+          "uid": "65581"
+        }
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "users",
+      "title": "iBruteforce steps down as Administrator. Crow steps up.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=713257",
+      "users": [
+        {
+          "username": "iBruteforce",
+          "uid": "33279"
+        }
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "users",
+      "title": "Crow is promoted to Administrator. ",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=713257",
+      "users": [
+        {
+          "username": "Crow",
+          "uid": "2103"
+        }
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "site",
+      "title": "Added YouTube award.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=719856",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "site",
+      "title": "Added Fish Err Man award.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=719856",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "users",
+      "title": "Omniscient SWATted at home; asks communityfor any information.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=722403",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1286334808
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "The Elite",
+          "uid": "136025"
+        }
+      ],
+      "date": 1286334808
+    }
+  ]
 }

@@ -1,54 +1,58 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Second server move in June to resolve packet loss and slowness.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1370481",
+      "users": [
         {
-            "category": "site",
-            "title": "Second server move in June to resolve packet loss and slowness.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1370481",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "All Deep Web discussion banned; added to disallowed blackhat activities.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1377240",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Welcome-back username now links to profile; portal.php removed.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "users",
-            "title": "Numerous repfucks and account compromises reported (H1B50C4T3DD, Nyx-, Domasaurus, etc.).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1381515",
-            "users": [
-                {
-                    "username": "H1B50C4T3DD",
-                    "uid": null
-                },
-                {
-                    "username": "Nyx-",
-                    "uid": "11953"
-                },
-                {
-                    "username": "Domasaurus",
-                    "uid": null
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1308329637
+    },
+    {
+      "category": "site",
+      "title": "All Deep Web discussion banned; added to disallowed blackhat activities.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1377240",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1308329637
+    },
+    {
+      "category": "site",
+      "title": "Welcome-back username now links to profile; portal.php removed.",
+      "description": "",
+      "url": "",
+      "date": 1308329637
+    },
+    {
+      "category": "users",
+      "title": "Numerous repfucks and account compromises reported (H1B50C4T3DD, Nyx-, Domasaurus, etc.).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1381515",
+      "users": [
+        {
+          "username": "H1B50C4T3DD",
+          "uid": null
+        },
+        {
+          "username": "Nyx-",
+          "uid": "11953"
+        },
+        {
+          "username": "Domasaurus",
+          "uid": null
+        }
+      ],
+      "date": 1308329637
+    }
+  ]
 }

@@ -1,106 +1,114 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "April Fools 2011: fake moderator group 'Lofo Prilas' applications posted.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1180990",
+      "users": [
         {
-            "category": "site",
-            "title": "April Fools 2011: fake moderator group 'Lofo Prilas' applications posted.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1180990",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Avatar uploads disabled temporarily due to a bug.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1205191",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Official TinyChat plugin removed (impersonation, flaming).",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "threads",
-            "title": "Omniscient shares photos from his former NY gaming store.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1172802",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Crow launches WizardForums.com.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1196056",
-            "users": [
-                {
-                    "username": "Crow",
-                    "uid": "2103"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Xch4ng3 reinstated as staff.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Xch4ng3",
-                    "uid": "65784"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "phire nuk3r launches community chat site.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1154756",
-            "users": [
-                {
-                    "username": "phire nuk3r",
-                    "uid": "46373"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "The Alliance processing applications; Black Knights new leaders announced.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1207832",
-            "users": [
-                {
-                    "username": "Paradoxum",
-                    "uid": "70881"
-                },
-                {
-                    "username": "Xypher",
-                    "uid": "133256"
-                },
-                {
-                    "username": "Qwazz",
-                    "uid": "295848"
-                },
-                {
-                    "username": "Cняιs ★ Hуѕтєяιa X™",
-                    "uid": null
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1302737368
+    },
+    {
+      "category": "site",
+      "title": "Avatar uploads disabled temporarily due to a bug.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1205191",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1302737368
+    },
+    {
+      "category": "site",
+      "title": "Official TinyChat plugin removed (impersonation, flaming).",
+      "description": "",
+      "url": "",
+      "date": 1302737368
+    },
+    {
+      "category": "threads",
+      "title": "Omniscient shares photos from his former NY gaming store.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1172802",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1302737368
+    },
+    {
+      "category": "threads",
+      "title": "Crow launches WizardForums.com.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1196056",
+      "users": [
+        {
+          "username": "Crow",
+          "uid": "2103"
+        }
+      ],
+      "date": 1302737368
+    },
+    {
+      "category": "users",
+      "title": "Xch4ng3 reinstated as staff.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Xch4ng3",
+          "uid": "65784"
+        }
+      ],
+      "date": 1302737368
+    },
+    {
+      "category": "threads",
+      "title": "phire nuk3r launches community chat site.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1154756",
+      "users": [
+        {
+          "username": "phire nuk3r",
+          "uid": "46373"
+        }
+      ],
+      "date": 1302737368
+    },
+    {
+      "category": "groups",
+      "title": "The Alliance processing applications; Black Knights new leaders announced.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1207832",
+      "users": [
+        {
+          "username": "Paradoxum",
+          "uid": "70881"
+        },
+        {
+          "username": "Xypher",
+          "uid": "133256"
+        },
+        {
+          "username": "Qwazz",
+          "uid": "295848"
+        },
+        {
+          "username": "Cняιs ★ Hуѕтєяιa X™",
+          "uid": null
+        }
+      ],
+      "date": 1302737368
+    }
+  ]
 }

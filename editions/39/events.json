@@ -1,88 +1,94 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Multiple DB rollbacks due to corruption; smiley set changes; upgrade IP/billing mismatches discussed.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1112579",
+      "users": [
         {
-            "category": "site",
-            "title": "Multiple DB rollbacks due to corruption; smiley set changes; upgrade IP/billing mismatches discussed.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1112579",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "/A/ (Ace) account hijacked twice; warns users.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1122725",
-            "users": [
-                {
-                    "username": "/A/ (Ace)",
-                    "uid": null
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Hanzo clarifies when to PM regarding rep abuse.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1120960",
-            "users": [
-                {
-                    "username": "Hanzo",
-                    "uid": "4066"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Paramore posts scam report against Tate over ebook; disputed.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1123143",
-            "users": [
-                {
-                    "username": "Paramore",
-                    "uid": null
-                },
-                {
-                    "username": "Tate",
-                    "uid": "101228"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "Rats Crew leadership change: Qwazz replaces xerotic; Zeus co-leads.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1104158",
-            "users": [
-                {
-                    "username": "Qwazz",
-                    "uid": "295848"
-                },
-                {
-                    "username": "Zεus",
-                    "uid": "384998"
-                },
-                {
-                    "username": "xerotic",
-                    "uid": "175033"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Zeon repfucked for flaming in rep comments.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1123637",
-            "users": [
-                {
-                    "username": "Zeon",
-                    "uid": "58683"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1303944833
+    },
+    {
+      "category": "users",
+      "title": "/A/ (Ace) account hijacked twice; warns users.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1122725",
+      "users": [
+        {
+          "username": "/A/ (Ace)",
+          "uid": null
+        }
+      ],
+      "date": 1303944833
+    },
+    {
+      "category": "threads",
+      "title": "Hanzo clarifies when to PM regarding rep abuse.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1120960",
+      "users": [
+        {
+          "username": "Hanzo",
+          "uid": "4066"
+        }
+      ],
+      "date": 1303944833
+    },
+    {
+      "category": "threads",
+      "title": "Paramore posts scam report against Tate over ebook; disputed.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1123143",
+      "users": [
+        {
+          "username": "Paramore",
+          "uid": null
+        },
+        {
+          "username": "Tate",
+          "uid": "101228"
+        }
+      ],
+      "date": 1303944833
+    },
+    {
+      "category": "groups",
+      "title": "Rats Crew leadership change: Qwazz replaces xerotic; Zeus co-leads.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1104158",
+      "users": [
+        {
+          "username": "Qwazz",
+          "uid": "295848"
+        },
+        {
+          "username": "Zεus",
+          "uid": "384998"
+        },
+        {
+          "username": "xerotic",
+          "uid": "175033"
+        }
+      ],
+      "date": 1303944833
+    },
+    {
+      "category": "users",
+      "title": "Zeon repfucked for flaming in rep comments.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1123637",
+      "users": [
+        {
+          "username": "Zeon",
+          "uid": "58683"
+        }
+      ],
+      "date": 1303944833
+    }
+  ]
 }

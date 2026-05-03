@@ -1,16 +1,17 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Yin",
+          "uid": "74244"
         }
-    ]
+      ],
+      "date": 1281680970
+    }
+  ]
 }

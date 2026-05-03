@@ -1,68 +1,75 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "EU users experienced image server outages.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=699249",
+      "date": 1285709577
+    },
+    {
+      "category": "site",
+      "title": "Hack Forums reached 6,000,000 posts.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=701893",
+      "date": 1285709577
+    },
+    {
+      "category": "groups",
+      "title": "Reviewers applications reopened after a mass removal.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=703353",
+      "date": 1285709577
+    },
+    {
+      "category": "site",
+      "title": "Avatar upload bug reported by multiple users.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=704999",
+      "date": 1285709577
+    },
+    {
+      "category": "users",
+      "title": "EctoPlasm added as Reviewer, removed hours later for an improper thread.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=698476",
+      "users": [
         {
-            "category": "site",
-            "title": "EU users experienced image server outages.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=699249"
+          "username": "EctoPlasm",
+          "uid": "416897"
         },
         {
-            "category": "site",
-            "title": "Hack Forums reached 6,000,000 posts.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=701893"
-        },
-        {
-            "category": "groups",
-            "title": "Reviewers applications reopened after a mass removal.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=703353"
-        },
-        {
-            "category": "site",
-            "title": "Avatar upload bug reported by multiple users.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=704999"
-        },
-        {
-            "category": "users",
-            "title": "EctoPlasm added as Reviewer, removed hours later for an improper thread.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=698476",
-            "users": [
-                {
-                    "username": "EctoPlasm",
-                    "uid": "416897"
-                },
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "interviews",
-            "title": "Interview with Xch4ng3.",
-            "description": "",
-            "url": "https://hackforums.net/showthread.php?tid=706863",
-            "users": [
-                {
-                    "username": "Xch4ng3",
-                    "uid": "65784"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "The Elite",
-                    "uid": "136025"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1285709577
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Xch4ng3.",
+      "description": "",
+      "url": "https://hackforums.net/showthread.php?tid=706863",
+      "users": [
+        {
+          "username": "Xch4ng3",
+          "uid": "65784"
+        }
+      ],
+      "date": 1285709577
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "The Elite",
+          "uid": "136025"
+        }
+      ],
+      "date": 1285709577
+    }
+  ]
 }

@@ -1,100 +1,107 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "groups",
+      "title": "Gamers Crew removed; new Gamers Lounge section created.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=65",
+      "date": 1309377301
+    },
+    {
+      "category": "groups",
+      "title": "Philker official group removed.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1424284",
+      "users": [
         {
-            "category": "groups",
-            "title": "Gamers Crew removed; new Gamers Lounge section created.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=65"
-        },
-        {
-            "category": "groups",
-            "title": "Philker official group removed.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1424284",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Mandatory password reset for l33t/ub3r after DB issue.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Proposal: encrypted secondary emails for account recovery.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1423989",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Omni’s “I love SPAM” post about forum spam.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1413983",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "Reverence and Informers leadership changes; section moderators added.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "xerotic",
-                    "uid": "175033"
-                },
-                {
-                    "username": "Astonish is nj",
-                    "uid": "657392"
-                },
-                {
-                    "username": "Atthackers",
-                    "uid": "616850"
-                },
-                {
-                    "username": "Valik",
-                    "uid": null
-                },
-                {
-                    "username": "Qwazz",
-                    "uid": "295848"
-                },
-                {
-                    "username": "Hуѕтєяιa X™",
-                    "uid": "588781"
-                },
-                {
-                    "username": "Wolves",
-                    "uid": "651051"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "The Alliance opens recruitment.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1421354"
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1309377301
+    },
+    {
+      "category": "site",
+      "title": "Mandatory password reset for l33t/ub3r after DB issue.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1309377301
+    },
+    {
+      "category": "site",
+      "title": "Proposal: encrypted secondary emails for account recovery.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1423989",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1309377301
+    },
+    {
+      "category": "threads",
+      "title": "Omni’s “I love SPAM” post about forum spam.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1413983",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1309377301
+    },
+    {
+      "category": "groups",
+      "title": "Reverence and Informers leadership changes; section moderators added.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "xerotic",
+          "uid": "175033"
+        },
+        {
+          "username": "Astonish is nj",
+          "uid": "657392"
+        },
+        {
+          "username": "Atthackers",
+          "uid": "616850"
+        },
+        {
+          "username": "Valik",
+          "uid": null
+        },
+        {
+          "username": "Qwazz",
+          "uid": "295848"
+        },
+        {
+          "username": "Hуѕтєяιa X™",
+          "uid": "588781"
+        },
+        {
+          "username": "Wolves",
+          "uid": "651051"
+        }
+      ],
+      "date": 1309377301
+    },
+    {
+      "category": "groups",
+      "title": "The Alliance opens recruitment.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1421354",
+      "date": 1309377301
+    }
+  ]
 }

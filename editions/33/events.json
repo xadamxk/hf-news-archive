@@ -1,88 +1,94 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "users",
+      "title": "PRODIGY and xhtmlphp banned amid RuneScape gold scam reports; Red Lions group briefly cleared then restored.",
+      "description": "",
+      "url": "http://goo.gl/N9pSs",
+      "users": [
         {
-            "category": "users",
-            "title": "PRODIGY and xhtmlphp banned amid RuneScape gold scam reports; Red Lions group briefly cleared then restored.",
-            "description": "",
-            "url": "http://goo.gl/N9pSs",
-            "users": [
-                {
-                    "username": "`P R O D I G Y™",
-                    "uid": "175033"
-                },
-                {
-                    "username": "xhtmlphp™",
-                    "uid": "0"
-                },
-                {
-                    "username": "Hanzo",
-                    "uid": "4066"
-                },
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "`P R O D I G Y™",
+          "uid": "175033"
         },
         {
-            "category": "site",
-            "title": "OnlineCrypter compromise prompts password change advisory.",
-            "description": "",
-            "url": "http://goo.gl/pr6ZN",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "xhtmlphp™",
+          "uid": "0"
         },
         {
-            "category": "site",
-            "title": "Consideration to country-ban Albania; ISP blocked.",
-            "description": "",
-            "url": "http://goo.gl/LqBa4",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
+          "username": "Hanzo",
+          "uid": "4066"
         },
         {
-            "category": "groups",
-            "title": "HF Coders official group dismantled due to inactivity.",
-            "description": "",
-            "url": "http://goo.gl/FTQDl",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "EctoPlasm returns from 2-week ban; steps down from HF News.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1046837",
-            "users": [
-                {
-                    "username": "EctoPlasm",
-                    "uid": "416897"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "NaDe wins Member of the Month (January).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1026270",
-            "users": [
-                {
-                    "username": "NaDe",
-                    "uid": "191245"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1297387846
+    },
+    {
+      "category": "site",
+      "title": "OnlineCrypter compromise prompts password change advisory.",
+      "description": "",
+      "url": "http://goo.gl/pr6ZN",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1297387846
+    },
+    {
+      "category": "site",
+      "title": "Consideration to country-ban Albania; ISP blocked.",
+      "description": "",
+      "url": "http://goo.gl/LqBa4",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1297387846
+    },
+    {
+      "category": "groups",
+      "title": "HF Coders official group dismantled due to inactivity.",
+      "description": "",
+      "url": "http://goo.gl/FTQDl",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1297387846
+    },
+    {
+      "category": "users",
+      "title": "EctoPlasm returns from 2-week ban; steps down from HF News.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1046837",
+      "users": [
+        {
+          "username": "EctoPlasm",
+          "uid": "416897"
+        }
+      ],
+      "date": 1297387846
+    },
+    {
+      "category": "users",
+      "title": "NaDe wins Member of the Month (January).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1026270",
+      "users": [
+        {
+          "username": "NaDe",
+          "uid": "191245"
+        }
+      ],
+      "date": 1297387846
+    }
+  ]
 }

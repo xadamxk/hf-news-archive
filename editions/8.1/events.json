@@ -1,52 +1,57 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "UB3R security word feature added to prevent account hacks.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=528977",
+      "users": [
         {
-            "category": "site",
-            "title": "UB3R security word feature added to prevent account hacks.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=528977",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "VPN Hosting and Services section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=171"
-        },
-        {
-            "category": "site",
-            "title": "Website Showcase and Reviews section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=172"
-        },
-        {
-            "category": "site",
-            "title": "Website Showcase and Reviews rules posted by Omniscient.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=535289",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1279084150
+    },
+    {
+      "category": "site",
+      "title": "VPN Hosting and Services section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=171",
+      "date": 1279084150
+    },
+    {
+      "category": "site",
+      "title": "Website Showcase and Reviews section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=172",
+      "date": 1279084150
+    },
+    {
+      "category": "site",
+      "title": "Website Showcase and Reviews rules posted by Omniscient.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=535289",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1279084150
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1279084150
+    }
+  ]
 }

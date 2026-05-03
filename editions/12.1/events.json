@@ -1,46 +1,51 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Premium Seller's Section created (L33T/UB3R only).",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=107",
+      "date": 1281665998
+    },
+    {
+      "category": "site",
+      "title": "Secondary Seller's Market created.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=176",
+      "date": 1281665998
+    },
+    {
+      "category": "site",
+      "title": "Brief database outage resolved.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "site",
-            "title": "Premium Seller's Section created (L33T/UB3R only).",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=107"
-        },
-        {
-            "category": "site",
-            "title": "Secondary Seller's Market created.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=176"
-        },
-        {
-            "category": "site",
-            "title": "Brief database outage resolved.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Reviewer applications opened.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=588051"
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1281665998
+    },
+    {
+      "category": "threads",
+      "title": "Reviewer applications opened.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=588051",
+      "date": 1281665998
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1281665998
+    }
+  ]
 }

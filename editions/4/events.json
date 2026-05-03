@@ -1,52 +1,57 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "LUA Coding section created.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=161",
+      "date": 1275850743
+    },
+    {
+      "category": "site",
+      "title": "Hacking Tutorials reaches 8,000 threads.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=47",
+      "date": 1275850743
+    },
+    {
+      "category": "site",
+      "title": "Luchien Lachance was appointed Moderator of Science, Religion, and Politics.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "site",
-            "title": "LUA Coding section created.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=161"
-        },
-        {
-            "category": "site",
-            "title": "Hacking Tutorials reaches 8,000 threads.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=47"
-        },
-        {
-            "category": "site",
-            "title": "Luchien Lachance was appointed Moderator of Science, Religion, and Politics.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Luchien Lachance",
-                    "uid": "52868"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Soul Collector was banned for scamming.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Soul Collector",
-                    "uid": "63671"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Luchien Lachance",
+          "uid": "52868"
         }
-    ]
+      ],
+      "date": 1275850743
+    },
+    {
+      "category": "users",
+      "title": "Soul Collector was banned for scamming.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Soul Collector",
+          "uid": "63671"
+        }
+      ],
+      "date": 1275850743
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1275850743
+    }
+  ]
 }

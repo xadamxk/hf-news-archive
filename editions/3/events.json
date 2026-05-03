@@ -1,52 +1,57 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Video Editing section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=160",
+      "date": 1275252847
+    },
+    {
+      "category": "users",
+      "title": "Braco22 was appointed Moderator of Video Editing section.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=160",
+      "users": [
         {
-            "category": "site",
-            "title": "Video Editing section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=160"
-        },
-        {
-            "category": "users",
-            "title": "Braco22 was appointed Moderator of Video Editing section.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=160",
-            "users": [
-                {
-                    "username": "Braco22",
-                    "uid": "277061"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Batch coding subforum moved from Hacking to Coding.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=49"
-        },
-        {
-            "category": "users",
-            "title": "Crust was banned for trolling.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Crust",
-                    "uid": "70346"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Braco22",
+          "uid": "277061"
         }
-    ]
+      ],
+      "date": 1275252847
+    },
+    {
+      "category": "site",
+      "title": "Batch coding subforum moved from Hacking to Coding.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=49",
+      "date": 1275252847
+    },
+    {
+      "category": "users",
+      "title": "Crust was banned for trolling.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Crust",
+          "uid": "70346"
+        }
+      ],
+      "date": 1275252847
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1275252847
+    }
+  ]
 }

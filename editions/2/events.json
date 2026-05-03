@@ -1,88 +1,96 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Contests section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=155",
+      "date": 1274536387
+    },
+    {
+      "category": "users",
+      "title": "--([-S7N-])-- was appointed to staff.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "site",
-            "title": "Contests section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=155"
-        },
-        {
-            "category": "users",
-            "title": "--([-S7N-])-- was appointed to staff.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "--([-S7N-])--",
-                    "uid": "110893"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Member profile contact details removed from profiles.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=433590",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Several datacenters (ThePlanet, SharkTech, FDC, Hurricane Electric) blocked.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=428354",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "threads",
-            "title": "HackForum's first userscript releases - HackForums Toolbar released (by Delphinum).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=432450",
-            "users": [
-                {
-                    "username": "Delphinum",
-                    "uid": null
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Psyk was banned for scamming.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Psyk",
-                    "uid": "52160"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "--([-S7N-])--",
+          "uid": "110893"
         }
-    ]
+      ],
+      "date": 1274536387
+    },
+    {
+      "category": "site",
+      "title": "Member profile contact details removed from profiles.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=433590",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1274536387
+    },
+    {
+      "category": "site",
+      "title": "Several datacenters (ThePlanet, SharkTech, FDC, Hurricane Electric) blocked.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=428354",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1274536387
+    },
+    {
+      "category": "site",
+      "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
+      "description": "",
+      "url": "",
+      "date": 1274536387
+    },
+    {
+      "category": "threads",
+      "title": "HackForum's first userscript releases - HackForums Toolbar released (by Delphinum).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=432450",
+      "users": [
+        {
+          "username": "Delphinum",
+          "uid": null
+        }
+      ],
+      "date": 1274536387
+    },
+    {
+      "category": "users",
+      "title": "Psyk was banned for scamming.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Psyk",
+          "uid": "52160"
+        }
+      ],
+      "date": 1274536387
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1274536387
+    }
+  ]
 }

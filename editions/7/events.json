@@ -1,46 +1,51 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Modern Warfare section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=169",
+      "date": 1277591947
+    },
+    {
+      "category": "site",
+      "title": "Halo section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=168",
+      "date": 1277591947
+    },
+    {
+      "category": "site",
+      "title": "Multiple DDoS attempts mitigated; service restored quickly.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "site",
-            "title": "Modern Warfare section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=169"
-        },
-        {
-            "category": "site",
-            "title": "Halo section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=168"
-        },
-        {
-            "category": "site",
-            "title": "Multiple DDoS attempts mitigated; service restored quickly.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Pruning of private messages for regular members older than 6 months.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1277591947
+    },
+    {
+      "category": "site",
+      "title": "Pruning of private messages for regular members older than 6 months.",
+      "description": "",
+      "url": "",
+      "date": 1277591947
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1277591947
+    }
+  ]
 }

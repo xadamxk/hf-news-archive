@@ -1,52 +1,57 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "HackForums reaches 4,000,000 posts.",
+      "description": "",
+      "url": "",
+      "date": 1276981587
+    },
+    {
+      "category": "site",
+      "title": "New rule: no donation begging (signatures allowed with discretion).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=487418",
+      "users": [
         {
-            "category": "site",
-            "title": "HackForums reaches 4,000,000 posts.",
-            "description": "",
-            "url": ""
-        },
-        {
-            "category": "site",
-            "title": "New rule: no donation begging (signatures allowed with discretion).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=487418",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Sports World subforum created.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=167"
-        },
-        {
-            "category": "site",
-            "title": "Switched CDN to Amazon Web Services cloud hosting.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1276981587
+    },
+    {
+      "category": "site",
+      "title": "Sports World subforum created.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=167",
+      "date": 1276981587
+    },
+    {
+      "category": "site",
+      "title": "Switched CDN to Amazon Web Services cloud hosting.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1276981587
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1276981587
+    }
+  ]
 }

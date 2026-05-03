@@ -1,40 +1,44 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Omniscient confirms DB failures and rollbacks; multiple disaster threads.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1109867",
+      "users": [
         {
-            "category": "site",
-            "title": "Omniscient confirms DB failures and rollbacks; multiple disaster threads.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1109867",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Smiley changes reported; additional glitches noted.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1113469"
-        },
-        {
-            "category": "users",
-            "title": "Upgrade payments to l33t denied due to IP/billing mismatches.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1116625"
-        },
-        {
-            "category": "threads",
-            "title": "Reputation bypass method discussed (already known).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=1114319",
-            "users": [
-                {
-                    "username": "VanCliffe",
-                    "uid": "639914"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1305134462
+    },
+    {
+      "category": "threads",
+      "title": "Smiley changes reported; additional glitches noted.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1113469",
+      "date": 1305134462
+    },
+    {
+      "category": "users",
+      "title": "Upgrade payments to l33t denied due to IP/billing mismatches.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1116625",
+      "date": 1305134462
+    },
+    {
+      "category": "threads",
+      "title": "Reputation bypass method discussed (already known).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=1114319",
+      "users": [
+        {
+          "username": "VanCliffe",
+          "uid": "639914"
+        }
+      ],
+      "date": 1305134462
+    }
+  ]
 }

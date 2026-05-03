@@ -1,50 +1,54 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "users",
+      "title": "AsSaSs@iN stepped down as Super Moderator; remains HJT Teacher/Analyzer.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "users",
-            "title": "AsSaSs@iN stepped down as Super Moderator; remains HJT Teacher/Analyzer.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "AsSaSs@iN",
-                    "uid": "70909"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Signature of the Week (SoTW) in introduced in Graphics section.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=157"
-        },
-        {
-            "category": "site",
-            "title": "Reviewers group updates in progress.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                },
-                {
-                    "username": "Skill",
-                    "uid": "65581"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "AsSaSs@iN",
+          "uid": "70909"
         }
-    ]
+      ],
+      "date": 1278319507
+    },
+    {
+      "category": "site",
+      "title": "Signature of the Week (SoTW) in introduced in Graphics section.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=157",
+      "date": 1278319507
+    },
+    {
+      "category": "site",
+      "title": "Reviewers group updates in progress.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        },
+        {
+          "username": "Skill",
+          "uid": "65581"
+        }
+      ],
+      "date": 1278319507
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1278319507
+    }
+  ]
 }

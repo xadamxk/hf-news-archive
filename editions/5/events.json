@@ -1,106 +1,116 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "users",
+      "title": "XCH4NG3 appointed to staff.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-            "category": "users",
-            "title": "XCH4NG3 appointed to staff.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "XCH4NG3",
-                    "uid": "65784"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Rusty_V appointed to staff.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Rusty_V",
-                    "uid": "47970"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Good Will Monday introduced (annual HF holiday for positivity).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=466320",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "Marketplace Discussions section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=163"
-        },
-        {
-            "category": "site",
-            "title": "Virtual Machines section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=165"
-        },
-        {
-            "category": "site",
-            "title": "CyberGate section added.",
-            "description": "",
-            "url": "http://hackforums.net/forumdisplay.php?fid=166"
-        },
-        {
-            "category": "site",
-            "title": "Banned topic: Zeus (financial malware).",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=474743",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Fusion banned for being disrespectful.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Fusion",
-                    "uid": "112997"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Korrupt banned for infecting members.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Korrupt",
-                    "uid": "130373"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Yin",
-                    "uid": "74244"
-                }
-            ]
+          "username": "XCH4NG3",
+          "uid": "65784"
         }
-    ]
+      ],
+      "date": 1276377365
+    },
+    {
+      "category": "users",
+      "title": "Rusty_V appointed to staff.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Rusty_V",
+          "uid": "47970"
+        }
+      ],
+      "date": 1276377365
+    },
+    {
+      "category": "site",
+      "title": "Good Will Monday introduced (annual HF holiday for positivity).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=466320",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1276377365
+    },
+    {
+      "category": "site",
+      "title": "Marketplace Discussions section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=163",
+      "date": 1276377365
+    },
+    {
+      "category": "site",
+      "title": "Virtual Machines section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=165",
+      "date": 1276377365
+    },
+    {
+      "category": "site",
+      "title": "CyberGate section added.",
+      "description": "",
+      "url": "http://hackforums.net/forumdisplay.php?fid=166",
+      "date": 1276377365
+    },
+    {
+      "category": "site",
+      "title": "Banned topic: Zeus (financial malware).",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=474743",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1276377365
+    },
+    {
+      "category": "users",
+      "title": "Fusion banned for being disrespectful.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Fusion",
+          "uid": "112997"
+        }
+      ],
+      "date": 1276377365
+    },
+    {
+      "category": "users",
+      "title": "Korrupt banned for infecting members.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Korrupt",
+          "uid": "130373"
+        }
+      ],
+      "date": 1276377365
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Yin",
+          "uid": "74244"
+        }
+      ],
+      "date": 1276377365
+    }
+  ]
 }

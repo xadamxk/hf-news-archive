@@ -1,86 +1,93 @@
 {
-    "events": [
+  "events": [
+    {
+      "category": "site",
+      "title": "Political and religious expression banned in titles, signatures, and avatars.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=671146",
+      "users": [
         {
-            "category": "site",
-            "title": "Political and religious expression banned in titles, signatures, and avatars.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=671146",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "site",
-            "title": "HF officially #1 MyBB forum by activity.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=653939"
-        },
-        {
-            "category": "threads",
-            "title": "Omniscient shares summer trip to Zion National Park.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=662659",
-            "users": [
-                {
-                    "username": "Omniscient",
-                    "uid": "1"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Virtual Reality receives UB3R (thanks Dykerosoft) and 1000th post; thank-you thread.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=673642",
-            "users": [
-                {
-                    "username": "Virtual Reality",
-                    "uid": "311070"
-                },
-                {
-                    "username": "Dykerosoft",
-                    "uid": "295518"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Black Shadow™ receives red donator award ($500+ donated).",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Black Shadow™",
-                    "uid": "63387"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Mute banned one week for Low Quality Posting.",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Mute",
-                    "uid": "110746"
-                }
-            ]
-        },
-        {
-            "category": "news",
-            "title": "",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "username": "Virtual Reality",
-                    "uid": "311070"
-                }
-            ]
+          "username": "Omniscient",
+          "uid": "1"
         }
-    ]
+      ],
+      "date": 1284375010
+    },
+    {
+      "category": "site",
+      "title": "HF officially #1 MyBB forum by activity.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=653939",
+      "date": 1284375010
+    },
+    {
+      "category": "threads",
+      "title": "Omniscient shares summer trip to Zion National Park.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=662659",
+      "users": [
+        {
+          "username": "Omniscient",
+          "uid": "1"
+        }
+      ],
+      "date": 1284375010
+    },
+    {
+      "category": "users",
+      "title": "Virtual Reality receives UB3R (thanks Dykerosoft) and 1000th post; thank-you thread.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=673642",
+      "users": [
+        {
+          "username": "Virtual Reality",
+          "uid": "311070"
+        },
+        {
+          "username": "Dykerosoft",
+          "uid": "295518"
+        }
+      ],
+      "date": 1284375010
+    },
+    {
+      "category": "users",
+      "title": "Black Shadow™ receives red donator award ($500+ donated).",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Black Shadow™",
+          "uid": "63387"
+        }
+      ],
+      "date": 1284375010
+    },
+    {
+      "category": "users",
+      "title": "Mute banned one week for Low Quality Posting.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Mute",
+          "uid": "110746"
+        }
+      ],
+      "date": 1284375010
+    },
+    {
+      "category": "news",
+      "title": "",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "username": "Virtual Reality",
+          "uid": "311070"
+        }
+      ],
+      "date": 1284375010
+    }
+  ]
 }
