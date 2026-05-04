@@ -7,6 +7,7 @@ import {
   startTransition,
   useState,
 } from "react";
+import type { ReactNode } from "react";
 import DatePicker from "react-datepicker";
 import type { CompactEvent, CompactUser, EventsPayload } from "./types";
 import { PROFILE_BASE } from "./types";
@@ -148,6 +149,34 @@ function IconSortOldest() {
   );
 }
 
+/**
+ * Wrap each case-insensitive occurrence of `q` in <mark> (same substring rule as title/description filter).
+ * `q` must already be trimmed + lowercased.
+ */
+function highlightSearchTerms(text: string, q: string): ReactNode {
+  if (!q || !text) return text;
+  const lower = text.toLowerCase();
+  if (!lower.includes(q)) return text;
+  const out: ReactNode[] = [];
+  let start = 0;
+  let key = 0;
+  while (start < text.length) {
+    const i = lower.indexOf(q, start);
+    if (i < 0) {
+      out.push(text.slice(start));
+      break;
+    }
+    if (i > start) out.push(text.slice(start, i));
+    out.push(
+      <mark key={`sh-${key++}`} className="search-hit">
+        {text.slice(i, i + q.length)}
+      </mark>
+    );
+    start = i + q.length;
+  }
+  return <>{out}</>;
+}
+
 /** `q` is already lowercased (same normalization as the user filter). */
 function userMatchesUserFilter(u: CompactUser, q: string): boolean {
   if (!q) return false;
@@ -181,12 +210,22 @@ function eventStableKey(ev: CompactEvent): string {
 const EventCard = memo(function EventCard({
   ev,
   userHighlight,
+  searchHighlight,
 }: {
   ev: CompactEvent;
   userHighlight: string;
+  searchHighlight: string;
 }) {
   const iso = useMemo(() => isoDateTime(ev.s), [ev.s]);
   const displayDate = useMemo(() => formatDate(ev.s), [ev.s]);
+  const titleNodes = useMemo(
+    () => highlightSearchTerms(ev.t, searchHighlight),
+    [ev.t, searchHighlight]
+  );
+  const descNodes = useMemo(
+    () => (ev.d ? highlightSearchTerms(ev.d, searchHighlight) : null),
+    [ev.d, searchHighlight]
+  );
   return (
     <article className="card">
       <div className="post-top">
@@ -194,10 +233,10 @@ const EventCard = memo(function EventCard({
           <h2 className="card-title">
             {ev.l ? (
               <a className="card-title-link" href={ev.l} target="_blank" rel="noreferrer">
-                {ev.t}
+                {titleNodes}
               </a>
             ) : (
-              ev.t
+              titleNodes
             )}
           </h2>
           <p className="post-meta">
@@ -217,7 +256,7 @@ const EventCard = memo(function EventCard({
         </div>
         <span className={badgeClass(ev.c)}>{ev.c}</span>
       </div>
-      {ev.d ? <p className="card-desc">{ev.d}</p> : null}
+      {ev.d ? <p className="card-desc">{descNodes}</p> : null}
       {ev.u?.length ? (
         <div className="card-row card-row-users">
           <strong>Users</strong>
@@ -352,6 +391,9 @@ export default function App() {
 
   /** Normalized user filter for highlighting (matches deferred filter used in the list). */
   const userHighlight = useMemo(() => deferredUserQ.trim().toLowerCase(), [deferredUserQ]);
+
+  /** Normalized title/description search for <mark> highlights (matches deferred filter). */
+  const searchHighlight = useMemo(() => deferredQ.trim().toLowerCase(), [deferredQ]);
 
   function toggleCategory(c: string) {
     startTransition(() => {
@@ -652,7 +694,12 @@ export default function App() {
 
       <div className="feed">
         {displayEvents.map((ev) => (
-          <EventCard key={eventStableKey(ev)} ev={ev} userHighlight={userHighlight} />
+          <EventCard
+            key={eventStableKey(ev)}
+            ev={ev}
+            userHighlight={userHighlight}
+            searchHighlight={searchHighlight}
+          />
         ))}
       </div>
 

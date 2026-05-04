@@ -696,6 +696,16 @@ input[type="search"] {
   padding: 0.1rem 0.4rem;
 }
 
+mark.search-hit {
+  background: rgba(250, 204, 21, 0.35);
+  color: inherit;
+  font: inherit;
+  padding: 0 0.06em;
+  border-radius: 2px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
 .user-role {
   color: var(--muted);
   font-weight: 400;
