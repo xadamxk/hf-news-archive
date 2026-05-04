@@ -80,10 +80,12 @@ a:hover {
 .toolbar-row-split {
   --toolbar-control-h: 2.5rem;
   flex-wrap: nowrap;
-  /* Override .toolbar-row flex-end: stretch so left/right clusters share one height */
+  /* Override .toolbar-row flex-end: stretch so filter columns share one height */
   align-items: stretch;
   gap: 0.35rem;
   min-width: 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .toolbar-row-split label,
@@ -132,34 +134,13 @@ a:hover {
   box-sizing: border-box;
 }
 
-.toolbar-scroll-cluster {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  gap: 0.35rem;
-  /* Content-width only: avoid a flex-grow dead zone between Date and Categories */
-  flex: 0 1 auto;
-  min-width: 0;
-  overflow: visible;
-}
-
-.toolbar-scroll-inputs {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  gap: 0.35rem;
-  flex: 0 1 auto;
-  min-width: 0;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
 /* Headings share one top line; inputs/triggers share one bottom line (same column height). */
-.toolbar-row-split .toolbar-scroll-inputs > label {
+.toolbar-row-split > label {
   align-self: stretch;
+  min-width: 0;
 }
 
-.toolbar-row-split .toolbar-scroll-inputs label > input {
+.toolbar-row-split > label > input {
   margin-top: auto;
 }
 
@@ -175,29 +156,21 @@ a:hover {
   margin-top: auto;
 }
 
-.toolbar-scroll-inputs .toolbar-label-search {
+.toolbar-row-split > .toolbar-label-search {
   flex: 0 1 8.5rem;
   min-width: 6rem;
   max-width: 20rem;
 }
 
-.toolbar-scroll-inputs .toolbar-label-user {
+.toolbar-row-split > .toolbar-label-user {
   flex: 0 1 7.5rem;
   min-width: 5rem;
   max-width: 9.5rem;
 }
 
-.toolbar-scroll-inputs input[type="search"] {
+.toolbar-row-split > .toolbar-label-search input[type="search"] {
   min-width: 0;
   width: 100%;
-}
-
-.toolbar-fixed-cluster {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  gap: 0.35rem;
-  flex-shrink: 0;
 }
 
 .toolbar-date-field {

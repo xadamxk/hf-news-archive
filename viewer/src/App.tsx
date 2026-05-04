@@ -410,30 +410,27 @@ export default function App() {
 
       <section className="toolbar" aria-label="Search and filters">
         <div className="toolbar-row toolbar-row-split">
-          <div className="toolbar-scroll-cluster">
-            <div className="toolbar-scroll-inputs">
-            <label className="toolbar-label-search">
-              Search title / description
-              <input
-                type="search"
-                placeholder="e.g. Omniscient, ban, MOTM…"
-                value={q}
-                onChange={(e) => setQ(e.target.value)}
-                autoComplete="off"
-              />
-            </label>
-            <label className="toolbar-label-user">
-              User (name or UID)
-              <input
-                type="text"
-                placeholder="username or uid substring"
-                value={userQ}
-                onChange={(e) => setUserQ(e.target.value)}
-                autoComplete="off"
-              />
-            </label>
-            </div>
-            <div className="toolbar-date-field">
+          <label className="toolbar-label-search">
+            Search title / description
+            <input
+              type="search"
+              placeholder="e.g. Omniscient, ban, MOTM…"
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              autoComplete="off"
+            />
+          </label>
+          <label className="toolbar-label-user">
+            User (name or UID)
+            <input
+              type="text"
+              placeholder="username or uid substring"
+              value={userQ}
+              onChange={(e) => setUserQ(e.target.value)}
+              autoComplete="off"
+            />
+          </label>
+          <div className="toolbar-date-field">
               <span className="toolbar-sort-heading" id="date-filter-label">
                 Date
               </span>
@@ -530,8 +527,6 @@ export default function App() {
                 ) : null}
               </div>
             </div>
-          </div>
-          <div className="toolbar-fixed-cluster">
           <div className="cat-dropdown">
             <span className="cat-dropdown-field-label" id="cat-dropdown-label">
               Categories
@@ -626,7 +621,6 @@ export default function App() {
             >
               <span className="btn-sort-icon">{sortOrder === "newest" ? <IconSortNewest /> : <IconSortOldest />}</span>
             </button>
-          </div>
           </div>
         </div>
         <div className="meta">
