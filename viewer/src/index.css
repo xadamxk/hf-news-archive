@@ -689,6 +689,13 @@ input[type="search"] {
   vertical-align: bottom;
 }
 
+.user-line--filter-hit .user-line-inner {
+  background: rgba(250, 204, 21, 0.28);
+  box-shadow: 0 0 0 1px rgba(234, 179, 8, 0.45);
+  border-radius: 4px;
+  padding: 0.1rem 0.4rem;
+}
+
 .user-role {
   color: var(--muted);
   font-weight: 400;

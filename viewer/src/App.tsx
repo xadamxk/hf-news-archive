@@ -148,8 +148,15 @@ function IconSortOldest() {
   );
 }
 
-function UserLine({ u }: { u: CompactUser }) {
+/** `q` is already lowercased (same normalization as the user filter). */
+function userMatchesUserFilter(u: CompactUser, q: string): boolean {
+  if (!q) return false;
+  return u.i.toLowerCase().includes(q) || Boolean(u.n && u.n.toLowerCase().includes(q));
+}
+
+function UserLine({ u, userHighlight }: { u: CompactUser; userHighlight: string }) {
   const hasUid = u.i && u.i.length > 0;
+  const hit = userMatchesUserFilter(u, userHighlight);
   const body = hasUid ? (
     <a href={`${PROFILE_BASE}${encodeURIComponent(u.i)}`} target="_blank" rel="noreferrer">
       {u.n || `(uid ${u.i})`}
@@ -158,7 +165,7 @@ function UserLine({ u }: { u: CompactUser }) {
     <span>{u.n || "—"}</span>
   );
   return (
-    <div className="user-line">
+    <div className={`user-line${hit ? " user-line--filter-hit" : ""}`}>
       <span className="user-line-inner">
         {body}
         {u.r ? <span className="user-role"> — {u.r}</span> : null}
@@ -171,7 +178,13 @@ function eventStableKey(ev: CompactEvent): string {
   return `${ev.s}:${ev.e}:${ev.c}:${ev.t}`;
 }
 
-const EventCard = memo(function EventCard({ ev }: { ev: CompactEvent }) {
+const EventCard = memo(function EventCard({
+  ev,
+  userHighlight,
+}: {
+  ev: CompactEvent;
+  userHighlight: string;
+}) {
   const iso = useMemo(() => isoDateTime(ev.s), [ev.s]);
   const displayDate = useMemo(() => formatDate(ev.s), [ev.s]);
   return (
@@ -210,7 +223,7 @@ const EventCard = memo(function EventCard({ ev }: { ev: CompactEvent }) {
           <strong>Users</strong>
           <div className="user-list">
             {ev.u.map((u, i) => (
-              <UserLine key={`${u.i}-${u.n}-${i}`} u={u} />
+              <UserLine key={`${u.i}-${u.n}-${i}`} u={u} userHighlight={userHighlight} />
             ))}
           </div>
         </div>
@@ -336,6 +349,9 @@ export default function App() {
     });
     return arr;
   }, [filtered, sortOrder]);
+
+  /** Normalized user filter for highlighting (matches deferred filter used in the list). */
+  const userHighlight = useMemo(() => deferredUserQ.trim().toLowerCase(), [deferredUserQ]);
 
   function toggleCategory(c: string) {
     startTransition(() => {
@@ -636,7 +652,7 @@ export default function App() {
 
       <div className="feed">
         {displayEvents.map((ev) => (
-          <EventCard key={eventStableKey(ev)} ev={ev} />
+          <EventCard key={eventStableKey(ev)} ev={ev} userHighlight={userHighlight} />
         ))}
       </div>
 
