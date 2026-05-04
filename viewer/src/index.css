@@ -77,6 +77,252 @@ a:hover {
   align-items: flex-end;
 }
 
+.toolbar-row-split {
+  --toolbar-control-h: 2.5rem;
+  flex-wrap: nowrap;
+  /* Override .toolbar-row flex-end: stretch so left/right clusters share one height */
+  align-items: stretch;
+  gap: 0.35rem;
+  min-width: 0;
+}
+
+.toolbar-row-split label,
+.toolbar-row-split .toolbar-sort-heading,
+.toolbar-row-split .cat-dropdown-field-label {
+  line-height: 1.15;
+}
+
+/* Same height for text fields, date/categories triggers, and sort (bottom row of labels) */
+.toolbar-row-split input[type="search"],
+.toolbar-row-split input[type="text"] {
+  height: var(--toolbar-control-h);
+  min-height: var(--toolbar-control-h);
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+  line-height: 1.25;
+  box-sizing: border-box;
+}
+
+.toolbar-row-split .cat-dropdown-trigger {
+  height: var(--toolbar-control-h);
+  min-height: var(--toolbar-control-h);
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+  font-size: 0.95rem;
+  gap: 0.35rem;
+  box-sizing: border-box;
+}
+
+.toolbar-row-split .btn-sort {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: var(--toolbar-control-h);
+  min-height: var(--toolbar-control-h);
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+  font-size: 0.95rem;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.toolbar-scroll-cluster {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  gap: 0.35rem;
+  /* Content-width only: avoid a flex-grow dead zone between Date and Categories */
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow: visible;
+}
+
+.toolbar-scroll-inputs {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  gap: 0.35rem;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Headings share one top line; inputs/triggers share one bottom line (same column height). */
+.toolbar-row-split .toolbar-scroll-inputs > label {
+  align-self: stretch;
+}
+
+.toolbar-row-split .toolbar-scroll-inputs label > input {
+  margin-top: auto;
+}
+
+.toolbar-row-split .toolbar-date-field > .cat-dropdown-anchor {
+  margin-top: auto;
+}
+
+.toolbar-row-split .cat-dropdown > .cat-dropdown-anchor {
+  margin-top: auto;
+}
+
+.toolbar-row-split .toolbar-sort-field > .btn-sort {
+  margin-top: auto;
+}
+
+.toolbar-scroll-inputs .toolbar-label-search {
+  flex: 0 1 8.5rem;
+  min-width: 6rem;
+  max-width: 20rem;
+}
+
+.toolbar-scroll-inputs .toolbar-label-user {
+  flex: 0 1 7.5rem;
+  min-width: 5rem;
+  max-width: 9.5rem;
+}
+
+.toolbar-scroll-inputs input[type="search"] {
+  min-width: 0;
+  width: 100%;
+}
+
+.toolbar-fixed-cluster {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  gap: 0.35rem;
+  flex-shrink: 0;
+}
+
+.toolbar-date-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 0 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.date-filter-panel {
+  position: absolute;
+  left: 0;
+  right: auto;
+  top: 100%;
+  z-index: 100;
+  margin-top: 0.35rem;
+  min-width: min(100vw - 2rem, 20rem);
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  overflow: visible;
+}
+
+.date-filter-mode {
+  width: 100%;
+  padding: 0.4rem 0.45rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+}
+
+.date-filter-calendar-wrap {
+  display: flex;
+  justify-content: center;
+  min-height: 14rem;
+  overflow: visible;
+}
+
+.date-filter-panel .react-datepicker {
+  font-family: inherit;
+  font-size: 0.8rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.date-filter-panel .react-datepicker__header {
+  background: #252525;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.date-filter-panel .react-datepicker__header__dropdown {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.15rem 0 0.35rem;
+}
+
+.date-filter-panel .react-datepicker__month-select,
+.date-filter-panel .react-datepicker__year-select {
+  padding: 0.3rem 0.4rem;
+  border-radius: 4px;
+  border: 1px solid var(--border-subtle);
+  background: var(--surface-input);
+  color: var(--text-on-input);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.date-filter-panel .react-datepicker__current-month,
+.date-filter-panel .react-datepicker__day-name,
+.date-filter-panel .react-datepicker-time__header {
+  color: var(--text);
+}
+
+.date-filter-panel .react-datepicker__day {
+  color: var(--text);
+}
+
+.date-filter-panel .react-datepicker__day:hover {
+  background: rgba(91, 109, 158, 0.35);
+}
+
+.date-filter-panel .react-datepicker__day--outside-month {
+  color: var(--muted);
+}
+
+.date-filter-panel .react-datepicker__day--disabled {
+  color: #555;
+}
+
+.date-filter-panel .react-datepicker__day--selected,
+.date-filter-panel .react-datepicker__day--in-selecting-range,
+.date-filter-panel .react-datepicker__day--in-range {
+  background: var(--accent) !important;
+  color: var(--surface-input) !important;
+}
+
+.date-filter-panel .react-datepicker__day--keyboard-selected {
+  background: rgba(47, 59, 93, 0.55);
+  color: #fff;
+}
+
+.date-filter-panel .react-datepicker__navigation-icon::before {
+  border-color: var(--muted);
+}
+
+.date-filter-panel .react-datepicker__navigation:hover *::before {
+  border-color: var(--text);
+}
+
+.date-filter-clear {
+  margin-top: 0 !important;
+  align-self: flex-start;
+}
+
 .toolbar-sort-field {
   display: flex;
   flex-direction: column;
@@ -136,7 +382,8 @@ a:hover {
   padding: 0;
   border-top: none;
   flex-shrink: 0;
-  min-width: min(13rem, 100%);
+  min-width: min(10.75rem, 100%);
+  max-width: 11.5rem;
 }
 
 .cat-dropdown-anchor {

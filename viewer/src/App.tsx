@@ -7,8 +7,23 @@ import {
   startTransition,
   useState,
 } from "react";
+import DatePicker from "react-datepicker";
 import type { CompactEvent, CompactUser, EventsPayload } from "./types";
 import { PROFILE_BASE } from "./types";
+
+type DateFilterMode = "off" | "before" | "after" | "between";
+
+/** Bounds for year/month dropdowns in the date filter calendar. */
+const DATE_FILTER_MIN = new Date(2000, 0, 1);
+const DATE_FILTER_MAX = new Date(2040, 11, 31);
+
+const datePickerDropdownProps = {
+  showMonthDropdown: true,
+  showYearDropdown: true,
+  dropdownMode: "select" as const,
+  minDate: DATE_FILTER_MIN,
+  maxDate: DATE_FILTER_MAX,
+};
 
 function badgeClass(cat: string): string {
   const m: Record<string, string> = {
@@ -39,6 +54,58 @@ function isoDateTime(sec: number): string | undefined {
   } catch {
     return undefined;
   }
+}
+
+/** Unix seconds at local midnight for yyyy-mm-dd, or null if invalid. */
+function startOfLocalDaySec(ymd: string): number | null {
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(ymd.trim());
+  if (!m) return null;
+  const y = +m[1];
+  const mo = +m[2];
+  const d = +m[3];
+  const ms = new Date(y, mo - 1, d).getTime();
+  if (!Number.isFinite(ms)) return null;
+  return Math.floor(ms / 1000);
+}
+
+/** First second strictly after the given local calendar day. */
+function endOfLocalDayExclusiveSec(ymd: string): number | null {
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(ymd.trim());
+  if (!m) return null;
+  const y = +m[1];
+  const mo = +m[2];
+  const d = +m[3];
+  const ms = new Date(y, mo - 1, d + 1).getTime();
+  if (!Number.isFinite(ms)) return null;
+  return Math.floor(ms / 1000);
+}
+
+function parseYmdToDate(ymd: string): Date | null {
+  const s = startOfLocalDaySec(ymd);
+  if (s === null) return null;
+  return new Date(s * 1000);
+}
+
+function toYmdLocal(d: Date): string {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
+function shortLocaleDate(ymd: string): string {
+  const dt = parseYmdToDate(ymd);
+  if (!dt) return "";
+  try {
+    return dt.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+  } catch {
+    return ymd;
+  }
+}
+
+function dateFilterButtonSummary(mode: DateFilterMode, a: string, b: string): string {
+  if (mode === "off") return "Any";
+  if (mode === "before") return a ? `Before ${shortLocaleDate(a)}` : "Before…";
+  if (mode === "after") return a ? `After ${shortLocaleDate(a)}` : "After…";
+  if (a && b) return `${shortLocaleDate(a)} – ${shortLocaleDate(b)}`;
+  return "Between…";
 }
 
 /** Descending bars + arrow down — newest first (largest time on top). */
@@ -161,7 +228,12 @@ export default function App() {
   const [selectedCats, setSelectedCats] = useState<Set<string>>(() => new Set());
   const [catMenuOpen, setCatMenuOpen] = useState(false);
   const catDropdownRef = useRef<HTMLDivElement>(null);
+  const [dateFilterOpen, setDateFilterOpen] = useState(false);
+  const dateFilterRef = useRef<HTMLDivElement>(null);
   const [userQ, setUserQ] = useState("");
+  const [dateFilterMode, setDateFilterMode] = useState<DateFilterMode>("off");
+  const [dateFilterA, setDateFilterA] = useState("");
+  const [dateFilterB, setDateFilterB] = useState("");
   const [sortOrder, setSortOrder] = useState<SortOrder>("newest");
 
   useEffect(() => {
@@ -233,9 +305,26 @@ export default function App() {
         );
         if (!hit) return false;
       }
+      if (dateFilterMode === "before") {
+        const lim = startOfLocalDaySec(dateFilterA);
+        if (lim !== null && !(ev.s < lim)) return false;
+      } else if (dateFilterMode === "after") {
+        const lim = endOfLocalDayExclusiveSec(dateFilterA);
+        if (lim !== null && !(ev.s >= lim)) return false;
+      } else if (dateFilterMode === "between") {
+        const a = dateFilterA.trim();
+        const b = dateFilterB.trim();
+        if (a && b) {
+          const dLo = a <= b ? a : b;
+          const dHi = a <= b ? b : a;
+          const t0 = startOfLocalDaySec(dLo);
+          const t1 = endOfLocalDayExclusiveSec(dHi);
+          if (t0 !== null && t1 !== null && !(ev.s >= t0 && ev.s < t1)) return false;
+        }
+      }
       return true;
     });
-  }, [raw, deferredQ, deferredUserQ, selectedCats]);
+  }, [raw, deferredQ, deferredUserQ, selectedCats, dateFilterMode, dateFilterA, dateFilterB]);
 
   const displayEvents = useMemo(() => {
     const arr = [...filtered];
@@ -260,21 +349,30 @@ export default function App() {
   }
 
   useEffect(() => {
-    if (!catMenuOpen) return;
-    function onPointerDown(e: PointerEvent) {
-      const el = catDropdownRef.current;
-      if (el && !el.contains(e.target as Node)) setCatMenuOpen(false);
+    if (!catMenuOpen && !dateFilterOpen) return;
+    /** Use mousedown (not pointerdown) so we do not unmount the calendar before react-datepicker receives the click. */
+    function onMouseDown(e: MouseEvent) {
+      const t = e.target as Node;
+      if (catMenuOpen && catDropdownRef.current && !catDropdownRef.current.contains(t)) {
+        setCatMenuOpen(false);
+      }
+      if (dateFilterOpen && dateFilterRef.current && !dateFilterRef.current.contains(t)) {
+        setDateFilterOpen(false);
+      }
     }
     function onKeyDown(e: KeyboardEvent) {
-      if (e.key === "Escape") setCatMenuOpen(false);
+      if (e.key === "Escape") {
+        setCatMenuOpen(false);
+        setDateFilterOpen(false);
+      }
     }
-    document.addEventListener("pointerdown", onPointerDown);
+    document.addEventListener("mousedown", onMouseDown);
     document.addEventListener("keydown", onKeyDown);
     return () => {
-      document.removeEventListener("pointerdown", onPointerDown);
+      document.removeEventListener("mousedown", onMouseDown);
       document.removeEventListener("keydown", onKeyDown);
     };
-  }, [catMenuOpen]);
+  }, [catMenuOpen, dateFilterOpen]);
 
   if (err) {
     return (
@@ -311,27 +409,129 @@ export default function App() {
       </header>
 
       <section className="toolbar" aria-label="Search and filters">
-        <div className="toolbar-row">
-          <label>
-            Search title / description
-            <input
-              type="search"
-              placeholder="e.g. Omniscient, ban, MOTM…"
-              value={q}
-              onChange={(e) => setQ(e.target.value)}
-              autoComplete="off"
-            />
-          </label>
-          <label>
-            User (name or UID)
-            <input
-              type="text"
-              placeholder="username or uid substring"
-              value={userQ}
-              onChange={(e) => setUserQ(e.target.value)}
-              autoComplete="off"
-            />
-          </label>
+        <div className="toolbar-row toolbar-row-split">
+          <div className="toolbar-scroll-cluster">
+            <div className="toolbar-scroll-inputs">
+            <label className="toolbar-label-search">
+              Search title / description
+              <input
+                type="search"
+                placeholder="e.g. Omniscient, ban, MOTM…"
+                value={q}
+                onChange={(e) => setQ(e.target.value)}
+                autoComplete="off"
+              />
+            </label>
+            <label className="toolbar-label-user">
+              User (name or UID)
+              <input
+                type="text"
+                placeholder="username or uid substring"
+                value={userQ}
+                onChange={(e) => setUserQ(e.target.value)}
+                autoComplete="off"
+              />
+            </label>
+            </div>
+            <div className="toolbar-date-field">
+              <span className="toolbar-sort-heading" id="date-filter-label">
+                Date
+              </span>
+              <div className="cat-dropdown-anchor" ref={dateFilterRef}>
+                <button
+                  type="button"
+                  className="cat-dropdown-trigger"
+                  aria-labelledby="date-filter-label date-filter-value"
+                  aria-expanded={dateFilterOpen}
+                  aria-haspopup="dialog"
+                  onClick={() => {
+                    setDateFilterOpen((o) => !o);
+                    setCatMenuOpen(false);
+                  }}
+                >
+                  <span id="date-filter-value" className="cat-dropdown-value">
+                    {dateFilterButtonSummary(dateFilterMode, dateFilterA, dateFilterB)}
+                  </span>
+                  <span className={`cat-chevron${dateFilterOpen ? " cat-chevron-open" : ""}`} aria-hidden>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
+                    </svg>
+                  </span>
+                </button>
+                {dateFilterOpen ? (
+                  <div className="date-filter-panel" role="dialog" aria-labelledby="date-filter-label">
+                    <select
+                      className="date-filter-mode"
+                      value={dateFilterMode}
+                      aria-label="Date filter mode"
+                      onChange={(e) => {
+                        const m = e.target.value as DateFilterMode;
+                        setDateFilterMode(m);
+                        if (m === "off") {
+                          setDateFilterA("");
+                          setDateFilterB("");
+                        }
+                      }}
+                    >
+                      <option value="off">Any date</option>
+                      <option value="before">Before</option>
+                      <option value="after">After</option>
+                      <option value="between">Between</option>
+                    </select>
+                    {dateFilterMode === "off" ? (
+                      <p className="category-hint" style={{ margin: 0 }}>
+                        Choose a mode, then pick day(s) on the calendar.
+                      </p>
+                    ) : dateFilterMode === "between" ? (
+                      <div className="date-filter-calendar-wrap">
+                        <DatePicker
+                          inline
+                          selectsRange
+                          shouldCloseOnSelect={false}
+                          openToDate={parseYmdToDate(dateFilterA) ?? parseYmdToDate(dateFilterB) ?? new Date()}
+                          startDate={dateFilterA ? parseYmdToDate(dateFilterA) : null}
+                          endDate={dateFilterB ? parseYmdToDate(dateFilterB) : null}
+                          onChange={(dates) => {
+                            const [s, e] = dates as [Date | null, Date | null];
+                            setDateFilterA(s ? toYmdLocal(s) : "");
+                            setDateFilterB(e ? toYmdLocal(e) : "");
+                          }}
+                          calendarClassName="hf-datepicker-calendar"
+                          {...datePickerDropdownProps}
+                        />
+                      </div>
+                    ) : (
+                      <div className="date-filter-calendar-wrap">
+                        <DatePicker
+                          inline
+                          shouldCloseOnSelect={false}
+                          openToDate={parseYmdToDate(dateFilterA) ?? new Date()}
+                          selected={dateFilterA ? parseYmdToDate(dateFilterA) : null}
+                          onChange={(d: Date | null) => {
+                            setDateFilterA(d ? toYmdLocal(d) : "");
+                          }}
+                          calendarClassName="hf-datepicker-calendar"
+                          {...datePickerDropdownProps}
+                        />
+                      </div>
+                    )}
+                    <button
+                      type="button"
+                      className="btn-text date-filter-clear"
+                      onClick={() => {
+                        setDateFilterMode("off");
+                        setDateFilterA("");
+                        setDateFilterB("");
+                      }}
+                    >
+                      Clear date filter
+                    </button>
+                  </div>
+                ) : null}
+              </div>
+            </div>
+          </div>
+          <div className="toolbar-fixed-cluster">
           <div className="cat-dropdown">
             <span className="cat-dropdown-field-label" id="cat-dropdown-label">
               Categories
@@ -343,7 +543,10 @@ export default function App() {
                 aria-labelledby="cat-dropdown-label cat-dropdown-value"
                 aria-expanded={catMenuOpen}
                 aria-haspopup="listbox"
-                onClick={() => setCatMenuOpen((o) => !o)}
+                onClick={() => {
+                  setCatMenuOpen((o) => !o);
+                  setDateFilterOpen(false);
+                }}
               >
                 <span id="cat-dropdown-value" className="cat-dropdown-value">
                   {selectedCats.size === 0 ? "All categories" : `${selectedCats.size} selected`}
@@ -423,6 +626,7 @@ export default function App() {
             >
               <span className="btn-sort-icon">{sortOrder === "newest" ? <IconSortNewest /> : <IconSortOldest />}</span>
             </button>
+          </div>
           </div>
         </div>
         <div className="meta">
