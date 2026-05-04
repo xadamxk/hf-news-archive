@@ -634,6 +634,17 @@ input[type="search"] {
   word-break: break-word;
 }
 
+.card-title-link {
+  color: inherit;
+  font: inherit;
+  text-decoration: none;
+}
+
+.card-title-link:hover {
+  color: var(--accent-bright);
+  text-decoration: underline;
+}
+
 .card-desc {
   color: var(--muted);
   font-size: 0.92rem;

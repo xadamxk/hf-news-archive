@@ -178,7 +178,15 @@ const EventCard = memo(function EventCard({ ev }: { ev: CompactEvent }) {
     <article className="card">
       <div className="post-top">
         <div className="post-main">
-          <h2 className="card-title">{ev.t}</h2>
+          <h2 className="card-title">
+            {ev.l ? (
+              <a className="card-title-link" href={ev.l} target="_blank" rel="noreferrer">
+                {ev.t}
+              </a>
+            ) : (
+              ev.t
+            )}
+          </h2>
           <p className="post-meta">
             <span className="post-meta-strong">Edition {ev.e}</span>
             <span className="post-meta-sep" aria-hidden="true">
@@ -197,14 +205,6 @@ const EventCard = memo(function EventCard({ ev }: { ev: CompactEvent }) {
         <span className={badgeClass(ev.c)}>{ev.c}</span>
       </div>
       {ev.d ? <p className="card-desc">{ev.d}</p> : null}
-      {ev.l ? (
-        <div className="card-row">
-          <strong>URL</strong>{" "}
-          <a href={ev.l} target="_blank" rel="noreferrer">
-            {ev.l}
-          </a>
-        </div>
-      ) : null}
       {ev.u?.length ? (
         <div className="card-row card-row-users">
           <strong>Users</strong>
