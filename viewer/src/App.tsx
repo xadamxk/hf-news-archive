@@ -424,7 +424,7 @@ export default function App() {
             User (name or UID)
             <input
               type="text"
-              placeholder="username or uid substring"
+              placeholder="username / uid"
               value={userQ}
               onChange={(e) => setUserQ(e.target.value)}
               autoComplete="off"

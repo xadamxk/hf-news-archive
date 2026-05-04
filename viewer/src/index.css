@@ -99,6 +99,8 @@ a:hover {
 .toolbar-row-split input[type="text"] {
   height: var(--toolbar-control-h);
   min-height: var(--toolbar-control-h);
+  /* Override global input[type="search"] min-width so flex can shrink on one line */
+  min-width: 0;
   padding-top: 0;
   padding-bottom: 0;
   padding-left: 0.55rem;
@@ -157,19 +159,17 @@ a:hover {
 }
 
 .toolbar-row-split > .toolbar-label-search {
-  flex: 0 1 8.5rem;
+  flex: 2 1 0;
   min-width: 6rem;
-  max-width: 20rem;
 }
 
 .toolbar-row-split > .toolbar-label-user {
-  flex: 0 1 7.5rem;
+  flex: 1 1 0;
   min-width: 5rem;
-  max-width: 9.5rem;
 }
 
-.toolbar-row-split > .toolbar-label-search input[type="search"] {
-  min-width: 0;
+.toolbar-row-split > .toolbar-label-search input[type="search"],
+.toolbar-row-split > .toolbar-label-user input[type="text"] {
   width: 100%;
 }
 
