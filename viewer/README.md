@@ -1,4 +1,4 @@
-# HF News archive viewer
+# HF News Archive Viewer
 
 Static React app (Vite + Bun) to browse aggregated HF News `events.json` data.
 

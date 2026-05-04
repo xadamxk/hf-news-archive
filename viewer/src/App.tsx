@@ -395,7 +395,7 @@ export default function App() {
     <>
       <header style={{ marginBottom: "1.25rem" }}>
         <h1 style={{ fontSize: "1.5rem", fontWeight: 700, margin: "0 0 0.35rem" }}>
-          HF News archive
+          HF News Archive
         </h1>
         <p className="meta" style={{ margin: 0 }}>
           {raw.n} events

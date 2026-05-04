@@ -84,8 +84,6 @@ a:hover {
   align-items: stretch;
   gap: 0.35rem;
   min-width: 0;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
 }
 
 .toolbar-row-split label,
