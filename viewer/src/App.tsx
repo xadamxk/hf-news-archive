@@ -1,4 +1,12 @@
-import { memo, useDeferredValue, useEffect, useMemo, startTransition, useState } from "react";
+import {
+  memo,
+  useDeferredValue,
+  useEffect,
+  useMemo,
+  useRef,
+  startTransition,
+  useState,
+} from "react";
 import type { CompactEvent, CompactUser, EventsPayload } from "./types";
 import { PROFILE_BASE } from "./types";
 
@@ -102,7 +110,6 @@ const EventCard = memo(function EventCard({ ev }: { ev: CompactEvent }) {
   return (
     <article className="card">
       <div className="post-top">
-        <span className={badgeClass(ev.c)}>{ev.c}</span>
         <div className="post-main">
           <h2 className="card-title">{ev.t}</h2>
           <p className="post-meta">
@@ -120,6 +127,7 @@ const EventCard = memo(function EventCard({ ev }: { ev: CompactEvent }) {
             )}
           </p>
         </div>
+        <span className={badgeClass(ev.c)}>{ev.c}</span>
       </div>
       {ev.d ? <p className="card-desc">{ev.d}</p> : null}
       {ev.l ? (
@@ -151,6 +159,8 @@ export default function App() {
   const [err, setErr] = useState<string | null>(null);
   const [q, setQ] = useState("");
   const [selectedCats, setSelectedCats] = useState<Set<string>>(() => new Set());
+  const [catMenuOpen, setCatMenuOpen] = useState(false);
+  const catDropdownRef = useRef<HTMLDivElement>(null);
   const [userQ, setUserQ] = useState("");
   const [sortOrder, setSortOrder] = useState<SortOrder>("newest");
 
@@ -183,6 +193,25 @@ export default function App() {
     const s = new Set<string>();
     for (const ev of raw.a) s.add(ev.c);
     return [...s].sort();
+  }, [raw]);
+
+  /** Highest edition number in the archive, with the latest event date within that edition. */
+  const latestEditionHeadline = useMemo(() => {
+    if (!raw?.a.length) return null;
+    let maxEd = -Infinity;
+    for (const ev of raw.a) {
+      const ne = Number(ev.e);
+      if (Number.isFinite(ne) && ne > maxEd) maxEd = ne;
+    }
+    if (maxEd === -Infinity) return null;
+    let dateSec = 0;
+    let editionLabel = String(maxEd);
+    for (const ev of raw.a) {
+      if (Number(ev.e) !== maxEd) continue;
+      if (ev.s > dateSec) dateSec = ev.s;
+      editionLabel = String(ev.e);
+    }
+    return { edition: editionLabel, dateSec };
   }, [raw]);
 
   const filtered = useMemo(() => {
@@ -230,6 +259,23 @@ export default function App() {
     });
   }
 
+  useEffect(() => {
+    if (!catMenuOpen) return;
+    function onPointerDown(e: PointerEvent) {
+      const el = catDropdownRef.current;
+      if (el && !el.contains(e.target as Node)) setCatMenuOpen(false);
+    }
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape") setCatMenuOpen(false);
+    }
+    document.addEventListener("pointerdown", onPointerDown);
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("pointerdown", onPointerDown);
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [catMenuOpen]);
+
   if (err) {
     return (
       <div className="error">
@@ -254,10 +300,13 @@ export default function App() {
           HF News archive
         </h1>
         <p className="meta" style={{ margin: 0 }}>
-          {raw.n} events —{" "}
-          {sortOrder === "newest"
-            ? "newest first (date, then edition)"
-            : "oldest first (date, then edition)"}
+          {raw.n} events
+          {latestEditionHeadline ? (
+            <>
+              {" — "}
+              Latest Edition {latestEditionHeadline.edition} ({formatDate(latestEditionHeadline.dateSec)})
+            </>
+          ) : null}
         </p>
       </header>
 
@@ -283,6 +332,75 @@ export default function App() {
               autoComplete="off"
             />
           </label>
+          <div className="cat-dropdown">
+            <span className="cat-dropdown-field-label" id="cat-dropdown-label">
+              Categories
+            </span>
+            <div className="cat-dropdown-anchor" ref={catDropdownRef}>
+              <button
+                type="button"
+                className="cat-dropdown-trigger"
+                aria-labelledby="cat-dropdown-label cat-dropdown-value"
+                aria-expanded={catMenuOpen}
+                aria-haspopup="listbox"
+                onClick={() => setCatMenuOpen((o) => !o)}
+              >
+                <span id="cat-dropdown-value" className="cat-dropdown-value">
+                  {selectedCats.size === 0 ? "All categories" : `${selectedCats.size} selected`}
+                </span>
+                <span className={`cat-chevron${catMenuOpen ? " cat-chevron-open" : ""}`} aria-hidden>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
+                  </svg>
+                </span>
+              </button>
+              {catMenuOpen ? (
+                <div className="cat-dropdown-panel">
+                  <p className="category-hint" id="cat-dropdown-hint">
+                    Choose none for all events, or several categories (combined with OR).
+                  </p>
+                  <ul
+                    className="cat-dropdown-list"
+                    role="listbox"
+                    aria-labelledby="cat-dropdown-label"
+                    aria-describedby="cat-dropdown-hint"
+                    aria-multiselectable="true"
+                  >
+                    {categories.map((c) => {
+                      const selected = selectedCats.has(c);
+                      return (
+                        <li key={c} role="presentation">
+                          <button
+                            type="button"
+                            role="option"
+                            aria-selected={selected}
+                            className={`cat-dropdown-option${selected ? " cat-dropdown-option-selected" : ""}`}
+                            onClick={() => toggleCategory(c)}
+                          >
+                            <span className="cat-dropdown-option-mark" aria-hidden>
+                              {selected ? "✓" : "\u00a0"}
+                            </span>
+                            <span className="cat-dropdown-option-label">{c}</span>
+                          </button>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                  {selectedCats.size > 0 ? (
+                    <button
+                      type="button"
+                      className="btn-text cat-dropdown-clear"
+                      onClick={() => {
+                        startTransition(() => setSelectedCats(new Set()));
+                      }}
+                    >
+                      Clear selection
+                    </button>
+                  ) : null}
+                </div>
+              ) : null}
+            </div>
+          </div>
           <div className="toolbar-sort-field">
             <span className="toolbar-sort-heading">Order</span>
             <button
@@ -307,47 +425,6 @@ export default function App() {
             </button>
           </div>
         </div>
-        <details className="cat-dropdown">
-          <summary className="cat-dropdown-summary">
-            <span className="cat-dropdown-label">Categories</span>
-            {selectedCats.size > 0 ? (
-              <span className="cat-badge" aria-live="polite">
-                {selectedCats.size} selected
-              </span>
-            ) : (
-              <span className="cat-badge cat-badge-muted">All</span>
-            )}
-            <span className="cat-chevron" aria-hidden>
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
-              </svg>
-            </span>
-          </summary>
-          <div className="cat-dropdown-panel">
-            <p className="category-hint">Leave none selected to show all. Select one or more to filter (OR).</p>
-            <div className="category-checks">
-              {categories.map((c) => (
-                <label key={c} className="cat-chip">
-                  <input
-                    type="checkbox"
-                    checked={selectedCats.has(c)}
-                    onChange={() => toggleCategory(c)}
-                  />
-                  <span>{c}</span>
-                </label>
-              ))}
-            </div>
-            {selectedCats.size > 0 ? (
-              <button
-                type="button"
-                className="btn-text"
-                onClick={() => startTransition(() => setSelectedCats(new Set()))}
-              >
-                Clear categories
-              </button>
-            ) : null}
-          </div>
-        </details>
         <div className="meta">
           Showing <strong style={{ color: "var(--text)" }}>{displayEvents.length}</strong> of {raw.n}
           {(deferredQ !== q || deferredUserQ !== userQ) && (
@@ -364,6 +441,23 @@ export default function App() {
           <EventCard key={eventStableKey(ev)} ev={ev} />
         ))}
       </div>
+
+      <footer className="site-footer">
+        <p className="meta">
+          Events are parsed from HF News Editions.{" "}
+          <a
+            href="https://github.com/xadamxk/hf-news-archive"
+            target="_blank"
+            rel="noreferrer"
+          >
+            HF News Archive Project
+          </a>{" "}
+          ·{" "}
+          <a href="https://hackforums.net/" target="_blank" rel="noreferrer">
+            hackforums.net
+          </a>
+        </p>
+      </footer>
     </>
   );
 }
