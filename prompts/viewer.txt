@@ -1,0 +1,7 @@
+I want to build a react app in the viewer folder using bun. 
+The application will be built as a static site and its purpose is to view, search, and filter various events. I want the events to show up in an ordered feed. 
+All aspects of the event should show in the UI. All usernames should hyperlink using their UID with the following link, where UID is appended at the end: https://hackforums.net/member.php?action=profile&uid=
+
+
+First I think a script needs to be made that aggregates all events.json into a single file - this json needs to be minified and made as small as possible since it will serve as the "datasource".
+Then the UI should allow the user to search for a term - either in the title or description, filter by category, and filter by username or user id (UID).
