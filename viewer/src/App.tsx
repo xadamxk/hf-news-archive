@@ -20,6 +20,11 @@ const DATE_FILTER_MAX = new Date(2040, 11, 31);
 
 const PAGE_SIZE = 100;
 
+/** HF News edition opener thread (pid from aggregated `ed[].p`). */
+function editionShowthreadUrl(pid: string): string {
+  return `http://hackforums.net/showthread.php?pid=${encodeURIComponent(pid.trim())}`;
+}
+
 const datePickerDropdownProps = {
   showMonthDropdown: true,
   showYearDropdown: true,
@@ -323,7 +328,22 @@ const EventCard = memo(function EventCard({
           </h2>
           <p className="post-meta">
             <span className="post-meta-strong">
-              Edition {edition != null ? edition.e : "?"}
+              {edition != null ? (
+                edition.p.trim() ? (
+                  <a
+                    className="post-meta-edition-link"
+                    href={editionShowthreadUrl(edition.p)}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Edition {edition.e}
+                  </a>
+                ) : (
+                  <>Edition {edition.e}</>
+                )
+              ) : (
+                <>Edition ?</>
+              )}
             </span>
             <span className="post-meta-sep" aria-hidden="true">
               {" "}

@@ -610,6 +610,15 @@ input[type="search"] {
   font-weight: 500;
 }
 
+.post-meta-edition-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-meta-edition-link:hover {
+  text-decoration: underline;
+}
+
 .post-meta-sep {
   color: var(--border);
   user-select: none;
