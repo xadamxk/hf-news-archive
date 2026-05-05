@@ -179,10 +179,19 @@ function highlightSearchTerms(text: string, q: string): ReactNode {
   return <>{out}</>;
 }
 
-/** `q` is already lowercased (same normalization as the user filter). */
+/** `q` is trimmed + lowercased; match UID string or username exactly (case-insensitive). */
 function userMatchesUserFilter(u: CompactUser, q: string): boolean {
   if (!q) return false;
-  return u.i.toLowerCase().includes(q) || Boolean(u.n && u.n.toLowerCase().includes(q));
+  if (u.i.toLowerCase() === q) return true;
+  if (u.n && u.n.toLowerCase() === q) return true;
+  return false;
+}
+
+/** Whether `ev` lists a user whose UID or username equals `uq` (trimmed + lowercased). */
+function eventMatchesUserExact(ev: CompactEvent, uq: string): boolean {
+  if (!uq) return true;
+  const users = ev.u ?? [];
+  return users.some((u) => userMatchesUserFilter(u, uq));
 }
 
 function UserLine({ u, userHighlight }: { u: CompactUser; userHighlight: string }) {
@@ -404,15 +413,7 @@ export default function App() {
         const blob = `${ev.t} ${ev.d ?? ""}`.toLowerCase();
         if (!blob.includes(qq)) return false;
       }
-      if (uq) {
-        const users = ev.u ?? [];
-        const hit = users.some(
-          (u) =>
-            u.i.toLowerCase().includes(uq) ||
-            (u.n && u.n.toLowerCase().includes(uq))
-        );
-        if (!hit) return false;
-      }
+      if (uq && !eventMatchesUserExact(ev, uq)) return false;
       if (dateFilterMode === "before") {
         const lim = startOfLocalDaySec(dateFilterA);
         if (lim !== null && !(ev.s < lim)) return false;
@@ -572,10 +573,10 @@ export default function App() {
             />
           </label>
           <label className="toolbar-label-user">
-            User (name or UID)
+            User (exact name or UID)
             <input
               type="text"
-              placeholder="username / uid"
+              placeholder="exact username or uid"
               value={userQ}
               onChange={(e) => setUserQ(e.target.value)}
               autoComplete="off"
