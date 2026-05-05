@@ -23,7 +23,12 @@
       "title": "HF Wiki recruitment (Queenie)",
       "description": "Queenie announced open Wiki Team recruitment (thread 5337930), upcoming community-facing wiki projects, and congrats to HF News on edition 300.",
       "url": "http://hackforums.net/showthread.php?tid=5337930",
-      "users": [{"uid": "2504443", "username": "Queenie"}],
+      "users": [
+        {
+          "uid": "2504443",
+          "username": "Queenie"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -33,13 +38,34 @@
       "description": "Divined (uid=2292899) is no longer SheepGang owner. New SheepGang leaders: Indecisive enough (uid=2465505), Reaper ™ (uid=692059), V For Vendetta. (uid=794648). Eternal leaders updated: LUCKYMR7 (uid=2867762) added; Errors (uid=1960790) removed. Roger Waters (uid=1093501) became an Enigma leader.",
       "url": "",
       "users": [
-        {"uid": "2292899", "username": "Divined"},
-        {"uid": "2465505", "username": "Indecisive enough"},
-        {"uid": "692059", "username": "Reaper ™"},
-        {"uid": "794648", "username": "V For Vendetta."},
-        {"uid": "2867762", "username": "LUCKYMR7"},
-        {"uid": "1960790", "username": "Errors"},
-        {"uid": "1093501", "username": "Roger Waters"}
+        {
+          "uid": "2292899",
+          "username": "Divined"
+        },
+        {
+          "uid": "2465505",
+          "username": "Indecisive enough"
+        },
+        {
+          "uid": "692059",
+          "username": "Reaper ™"
+        },
+        {
+          "uid": "794648",
+          "username": "V For Vendetta."
+        },
+        {
+          "uid": "2867762",
+          "username": "LUCKYMR7"
+        },
+        {
+          "uid": "1960790",
+          "username": "Errors"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
       ],
       "date": 1468884114,
       "edition": 300
@@ -50,17 +76,50 @@
       "description": "Krave (uid=1165241) reached 1,000 prestige; Montana of 300 (uid=2765684), Sensitive (uid=1205612), That Guy Maxim (uid=3077324) reached 1,000 posts; Cameron (uid=1990800) reached 5,000 posts; Scymo (uid=2436938), Steve (uid=2758907), Durham (uid=1800872), Meow (uid=1500389), illuminati▲ (uid=525019) reached 1,000 positive reputation; Ryan Reynolds ❤️ (uid=1610871) reached 2,000 positive reputation.",
       "url": "",
       "users": [
-        {"uid": "1165241", "username": "Krave"},
-        {"uid": "2765684", "username": "Montana of 300"},
-        {"uid": "1205612", "username": "Sensitive"},
-        {"uid": "3077324", "username": "That Guy Maxim"},
-        {"uid": "1990800", "username": "Cameron"},
-        {"uid": "2436938", "username": "Scymo"},
-        {"uid": "2758907", "username": "Steve"},
-        {"uid": "1800872", "username": "Durham"},
-        {"uid": "1500389", "username": "Meow"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"}
+        {
+          "uid": "1165241",
+          "username": "Krave"
+        },
+        {
+          "uid": "2765684",
+          "username": "Montana of 300"
+        },
+        {
+          "uid": "1205612",
+          "username": "Sensitive"
+        },
+        {
+          "uid": "3077324",
+          "username": "That Guy Maxim"
+        },
+        {
+          "uid": "1990800",
+          "username": "Cameron"
+        },
+        {
+          "uid": "2436938",
+          "username": "Scymo"
+        },
+        {
+          "uid": "2758907",
+          "username": "Steve"
+        },
+        {
+          "uid": "1800872",
+          "username": "Durham"
+        },
+        {
+          "uid": "1500389",
+          "username": "Meow"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲"
+        },
+        {
+          "uid": "1610871",
+          "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
+        }
       ],
       "date": 1468884114,
       "edition": 300
@@ -71,9 +130,18 @@
       "description": "Nysta (uid=1494170), Armada (uid=952566), Tanarif (uid=432770) were banned.",
       "url": "",
       "users": [
-        {"uid": "1494170", "username": "Nysta"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "432770", "username": "Tanarif"}
+        {
+          "uid": "1494170",
+          "username": "Nysta"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada"
+        },
+        {
+          "uid": "432770",
+          "username": "Tanarif"
+        }
       ],
       "date": 1468884114,
       "edition": 300
@@ -84,11 +152,26 @@
       "description": "Flaw' (uid=2572841), Male (uid=2646762), Gary. (uid=1700066), Zachary. (uid=2960032), TopKekeroni (uid=2287994) took vacations.",
       "url": "",
       "users": [
-        {"uid": "2572841", "username": "Flaw'"},
-        {"uid": "2646762", "username": "Male"},
-        {"uid": "1700066", "username": "Gary."},
-        {"uid": "2960032", "username": "Zachary."},
-        {"uid": "2287994", "username": "TopKekeroni"}
+        {
+          "uid": "2572841",
+          "username": "Flaw'"
+        },
+        {
+          "uid": "2646762",
+          "username": "Male"
+        },
+        {
+          "uid": "1700066",
+          "username": "Gary."
+        },
+        {
+          "uid": "2960032",
+          "username": "Zachary."
+        },
+        {
+          "uid": "2287994",
+          "username": "TopKekeroni"
+        }
       ],
       "date": 1468884114,
       "edition": 300
@@ -99,9 +182,18 @@
       "description": "Nysta (uid=1494170), Machiavelli™ (uid=2701151) Rep Killed; Tanarif had reputation reset.",
       "url": "",
       "users": [
-        {"uid": "1494170", "username": "Nysta"},
-        {"uid": "2701151", "username": "Machiavelli™"},
-        {"uid": "432770", "username": "Tanarif"}
+        {
+          "uid": "1494170",
+          "username": "Nysta"
+        },
+        {
+          "uid": "2701151",
+          "username": "Machiavelli™"
+        },
+        {
+          "uid": "432770",
+          "username": "Tanarif"
+        }
       ],
       "date": 1468884114,
       "edition": 300
@@ -112,11 +204,26 @@
       "description": "Krave received Dog Lover; Derek Shepard (uid=3071831), Goku (uid=1241114) Gold Clover; Roger Waters second Sticky Man for Pokémon Go guide; mark leonardi (uid=2975563) Black Hatter; mass Poké Ball awards rolled out.",
       "url": "",
       "users": [
-        {"uid": "1165241", "username": "Krave"},
-        {"uid": "3071831", "username": "Derek Shepard"},
-        {"uid": "1241114", "username": "Goku"},
-        {"uid": "1093501", "username": "Roger Waters"},
-        {"uid": "2975563", "username": "mark leonardi"}
+        {
+          "uid": "1165241",
+          "username": "Krave"
+        },
+        {
+          "uid": "3071831",
+          "username": "Derek Shepard"
+        },
+        {
+          "uid": "1241114",
+          "username": "Goku"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        },
+        {
+          "uid": "2975563",
+          "username": "mark leonardi"
+        }
       ],
       "date": 1468884114,
       "edition": 300
@@ -126,7 +233,12 @@
       "title": "Pokemon GO | Tap To Walk & Location Spoofing | No Jailbreak | OS X Only",
       "description": "Ryan Reynolds ❤️ posted macOS spoofing instructions.",
       "url": "http://hackforums.net/showthread.php?tid=5339775",
-      "users": [{"uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"}],
+      "users": [
+        {
+          "uid": "1610871",
+          "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -135,7 +247,12 @@
       "title": "The Best Resource for Cyber Security, Hacking, Pen-testing etc...! | 100% FREE!",
       "description": "Acceptable curated free learning links.",
       "url": "http://hackforums.net/showthread.php?tid=5339001",
-      "users": [{"uid": "3057494", "username": "Acceptable"}],
+      "users": [
+        {
+          "uid": "3057494",
+          "username": "Acceptable"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -144,7 +261,12 @@
       "title": "[Official] Pokemon Go! - Lounge #1",
       "description": "Cameron hosted an official Pokémon Go lounge thread.",
       "url": "http://hackforums.net/showthread.php?tid=5340285",
-      "users": [{"uid": "1990800", "username": "Cameron"}],
+      "users": [
+        {
+          "uid": "1990800",
+          "username": "Cameron"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -153,7 +275,12 @@
       "title": "HackerCraft | Join Today | Factions, McMMO, Ranks, Events!",
       "description": "Realizm rebooted HackerCraft advertising.",
       "url": "http://hackforums.net/showthread.php?tid=5342316",
-      "users": [{"uid": "1343812", "username": "Realizm"}],
+      "users": [
+        {
+          "uid": "1343812",
+          "username": "Realizm"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -162,7 +289,12 @@
       "title": "Interview with Omniscient",
       "description": "",
       "url": "https://hackforums.net/showthread.php?pid=51727665",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -171,7 +303,12 @@
       "title": "Spotlight: Pick N' Chew — Burger Logo Concept",
       "description": "GFX spotlight credited to Branding.",
       "url": "http://hackforums.net/showthread.php?tid=5343510",
-      "users": [{"uid": "1900284", "username": "Branding"}],
+      "users": [
+        {
+          "uid": "1900284",
+          "username": "Branding"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -180,7 +317,12 @@
       "title": "Spotlight: Logo",
       "description": "GFX spotlight credited to Meda.",
       "url": "http://hackforums.net/showthread.php?tid=5342821",
-      "users": [{"uid": "2305968", "username": "Meda"}],
+      "users": [
+        {
+          "uid": "2305968",
+          "username": "Meda"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
@@ -189,37 +331,156 @@
       "title": "Spotlight: Sunrise — Illustration",
       "description": "GFX spotlight credited to silently loud.",
       "url": "http://hackforums.net/showthread.php?tid=5342263",
-      "users": [{"uid": "669174", "username": "silently loud"}],
+      "users": [
+        {
+          "uid": "669174",
+          "username": "silently loud"
+        }
+      ],
       "date": 1468884114,
       "edition": 300
     },
     {
       "category": "news",
-      "title": "Edition 300 credits",
-      "description": "Queenie: Scholar; Wires: Scholar; Joey: Scholar; Odus: Journalist (Headlines); illuminati▲: Journalist (User News); Trust: Journalist (Notable Threads); .Sinister: Interviewer supervisor; Armada: Interviewer; Clique: Interviewer; Ventures: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Night Fury: Journalist (World News); Intelligent Sin: Journalist (Science News); iHydra: Journalist (Spotlight); Joey: Journalist (Trends); Wires: Journalist (Comics); Wires: On-Call Team supervisor; King Cin: On-Call Team; Odus: On-Call Team; Ariana: On-Call Team; Young Thug: On-Call Team [TRIAL]; Vitani: On-Call Team [TRIAL]",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2504443", "username": "Queenie"},
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "712376", "username": "Joey"},
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "1446355", "username": "Trust"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "1148878", "username": "Clique"},
-        {"uid": "1595524", "username": "Ventures"},
-        {"uid": "2577525", "username": "Hash G."},
-        {"uid": "1422600", "username": "Fox™"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "2110841", "username": "Night Fury"},
-        {"uid": "910913", "username": "Intelligent Sin"},
-        {"uid": "561239", "username": "iHydra"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "2776397", "username": "Young Thug"},
-        {"uid": "1999047", "username": "Vitani"}
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "712376",
+          "username": "Joey",
+          "role": "Scholar"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer supervisor"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1595524",
+          "username": "Ventures",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "2110841",
+          "username": "Night Fury",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "910913",
+          "username": "Intelligent Sin",
+          "role": "Journalist (Science News)"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "Journalist (Spotlight)"
+        },
+        {
+          "uid": "712376",
+          "username": "Joey",
+          "role": "Journalist (Trends)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Comics)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team supervisor"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "2776397",
+          "username": "Young Thug",
+          "role": "On-Call Team [TRIAL]"
+        },
+        {
+          "uid": "1999047",
+          "username": "Vitani",
+          "role": "On-Call Team [TRIAL]"
+        }
       ],
       "date": 1468884114,
       "edition": 300

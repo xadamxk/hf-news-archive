@@ -5,7 +5,12 @@
       "title": "Reusable Emails for Inactive Accounts",
       "description": "Previously, email addresses from closed accounts could not be reused. Omniscient changed this, allowing the address from a closed-for-inactivity account to be reused, so long as it was not closed as punishment.",
       "url": "https://hackforums.net/showthread.php?tid=5276963",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -14,7 +19,32 @@
       "title": "Leadership changes were made in several groups.",
       "description": "$tash (2941702) became a leader of Enigma. Motiv (2772971) became a leader of Minecrafters. Who Soup (2097293) became a leader of Apex. Ariana (692131) is no longer a leader of The Order. Fiber (1185212) is no longer a leader of Riptide & Royalty. RenRioku™ (1041725) is no longer a leader of The Order.",
       "url": "",
-      "users": [{"uid": "2941702", "username": "$tash"}, {"uid": "2772971", "username": "Motiv"}, {"uid": "2097293", "username": "Who Soup"}, {"uid": "692131", "username": "Ariana"}, {"uid": "1185212", "username": "Fiber"}, {"uid": "1041725", "username": "RenRioku™"}],
+      "users": [
+        {
+          "uid": "2941702",
+          "username": "$tash"
+        },
+        {
+          "uid": "2772971",
+          "username": "Motiv"
+        },
+        {
+          "uid": "2097293",
+          "username": "Who Soup"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana"
+        },
+        {
+          "uid": "1185212",
+          "username": "Fiber"
+        },
+        {
+          "uid": "1041725",
+          "username": "RenRioku™"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -23,7 +53,12 @@
       "title": "R2-D2 reached 1,000 posts.",
       "description": "R2-D2 has reached 1,000 posts.",
       "url": "https://hackforums.net/member.php?action=profile&uid=2857264",
-      "users": [{"uid": "2857264", "username": "R2-D2"}],
+      "users": [
+        {
+          "uid": "2857264",
+          "username": "R2-D2"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -32,7 +67,12 @@
       "title": "RumbleFrog reached 1,000 posts.",
       "description": "RumbleFrog has reached 1,000 posts.",
       "url": "https://hackforums.net/member.php?action=profile&uid=2636502",
-      "users": [{"uid": "2636502", "username": "RumbleFrog"}],
+      "users": [
+        {
+          "uid": "2636502",
+          "username": "RumbleFrog"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -41,7 +81,12 @@
       "title": "Young Thug. reached 1,000 posts.",
       "description": "Young Thug. has reached 1,000 posts.",
       "url": "https://hackforums.net/member.php?action=profile&uid=2776397",
-      "users": [{"uid": "2776397", "username": "Young Thug."}],
+      "users": [
+        {
+          "uid": "2776397",
+          "username": "Young Thug."
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -50,7 +95,24 @@
       "title": "Several members took vacation bans.",
       "description": "Fiber (1185212), Infinity. (642769), RenRioku™ (1041725), and Dean Winchester (1284627) took vacation bans.",
       "url": "",
-      "users": [{"uid": "1185212", "username": "Fiber"}, {"uid": "642769", "username": "Infinity."}, {"uid": "1041725", "username": "RenRioku™"}, {"uid": "1284627", "username": "Dean Winchester"}],
+      "users": [
+        {
+          "uid": "1185212",
+          "username": "Fiber"
+        },
+        {
+          "uid": "642769",
+          "username": "Infinity."
+        },
+        {
+          "uid": "1041725",
+          "username": "RenRioku™"
+        },
+        {
+          "uid": "1284627",
+          "username": "Dean Winchester"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -59,7 +121,12 @@
       "title": "Zachary. was rep killed.",
       "description": "Zachary. (2960032) was rep killed.",
       "url": "",
-      "users": [{"uid": "2960032", "username": "Zachary."}],
+      "users": [
+        {
+          "uid": "2960032",
+          "username": "Zachary."
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -68,7 +135,16 @@
       "title": "Several members received awards.",
       "description": "Proxseas (1700311) donated for the Grand Amethyst award. Neat (1621500) received the Businessman award.",
       "url": "",
-      "users": [{"uid": "1700311", "username": "Proxseas"}, {"uid": "1621500", "username": "Neat"}],
+      "users": [
+        {
+          "uid": "1700311",
+          "username": "Proxseas"
+        },
+        {
+          "uid": "1621500",
+          "username": "Neat"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -77,7 +153,12 @@
       "title": "HOW TO FALL ASLEEP IN 30 SECONDS",
       "description": "ᴘʜƎx made a thread teaching members how to fall asleep in just a matter of seconds. If you have troubles falling asleep, come check out this method!",
       "url": "https://hackforums.net/showthread.php?tid=5272698",
-      "users": [{"uid": "3124454", "username": "ᴘʜƎx"}],
+      "users": [
+        {
+          "uid": "3124454",
+          "username": "ᴘʜƎx"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -86,7 +167,12 @@
       "title": "Most Famous Person You Know?",
       "description": "Ever met a celebrity? Who's the most famous person you know? Post it here!",
       "url": "https://hackforums.net/showthread.php?tid=5278561",
-      "users": [{"uid": "1927837", "username": "C Doubt"}],
+      "users": [
+        {
+          "uid": "1927837",
+          "username": "C Doubt"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -95,7 +181,12 @@
       "title": "Once you see it, you CAN'T UNSEE IT! INSANE",
       "description": "Doodlegod recently shared a very cool optical illusion with the Lounge.",
       "url": "https://hackforums.net/showthread.php?tid=5278516",
-      "users": [{"uid": "2840151", "username": "Doodlegod"}],
+      "users": [
+        {
+          "uid": "2840151",
+          "username": "Doodlegod"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -104,7 +195,12 @@
       "title": "How fast can you type?",
       "description": "Āidań N is curious to know how fast you can type. Post your results in this thread.",
       "url": "https://hackforums.net/showthread.php?tid=5277008",
-      "users": [{"uid": "3081715", "username": "Āidań N"}],
+      "users": [
+        {
+          "uid": "3081715",
+          "username": "Āidań N"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -113,7 +209,12 @@
       "title": "Yes back again with another giveaway",
       "description": "One of Eternal's group leaders, Errors, is currently hosting a never-ending giveaway. For a chance to win some money or awards, check out this contest today.",
       "url": "https://hackforums.net/showthread.php?tid=5260432",
-      "users": [{"uid": "1960790", "username": "Errors"}],
+      "users": [
+        {
+          "uid": "1960790",
+          "username": "Errors"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -122,7 +223,12 @@
       "title": "Leet & Uber Only! RainSpider's Amazon Item Giveaway #1!",
       "description": "Everyone loves purchasing stuff off of Amazon. If you have something on your wishlist, enter for a chance to win just that!",
       "url": "https://hackforums.net/showthread.php?tid=5280079",
-      "users": [{"uid": "2022623", "username": "RainSpider3000"}],
+      "users": [
+        {
+          "uid": "2022623",
+          "username": "RainSpider3000"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -131,7 +237,12 @@
       "title": "My \"feedback\" thread. (AKA shoutout thread)",
       "description": "Very short feedback thread created by the member Fiber.",
       "url": "https://hackforums.net/showthread.php?tid=5272630",
-      "users": [{"uid": "1185212", "username": "Fiber"}],
+      "users": [
+        {
+          "uid": "1185212",
+          "username": "Fiber"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -140,7 +251,12 @@
       "title": "HFAlert 24/7 Radio | DJs | Song Requests | And more!",
       "description": "Check out this brand new 24/7 radio station where you can freely request music, chat with others, and listen to some good tunes.",
       "url": "https://hackforums.net/showthread.php?tid=5269529",
-      "users": [{"uid": "2941702", "username": "$tash"}],
+      "users": [
+        {
+          "uid": "2941702",
+          "username": "$tash"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -149,7 +265,12 @@
       "title": "Bitcoin Transaction Time Calculator",
       "description": "Omniscient created a thread in the Crypto Currency forum bringing up an idea that would be perfect for a project.",
       "url": "https://hackforums.net/showthread.php?tid=5273879",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -158,7 +279,12 @@
       "title": "Interview with Roytoy",
       "description": "The 292nd edition of HF News features an interview with Roytoy, conducted by .Sinister. Roytoy talks about his time away from HF after his country blocked the site, his gambling hobby, and his dreams of becoming a filmmaker.",
       "url": "https://hackforums.net/showthread.php?pid=51047652",
-      "users": [{"uid": "130086", "username": "Roytoy"}],
+      "users": [
+        {
+          "uid": "130086",
+          "username": "Roytoy"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
@@ -167,16 +293,147 @@
       "title": "Art of the week: 'Lost In Space' by Jorthmo was featured.",
       "description": "Jorthmo's artwork 'Lost In Space' was featured in the Spotlight section of edition 292.",
       "url": "",
-      "users": [{"uid": "2234857", "username": "Jorthmo"}],
+      "users": [
+        {
+          "uid": "2234857",
+          "username": "Jorthmo"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     },
     {
       "category": "news",
-      "title": "Edition 292 Credits",
-      "description": "Queenie (2504443) Scholar, Wires (610356) Scholar / Journalist (Hacking News) / Comics / On-Call Team, Joey (712376) Scholar, illuminati▲ (525019) Journalist (User News) / Journalist (Site News), .Sinister (2214473) Interviewer, Armada (952566) Interviewer, Enterpriser (1957866) Interviewer, Clique (1148878) Interviewer, Hash G. (2577525) Journalist (Site News), Fox™ (1422600) Journalist (Hacking News), Angеl (1356937) Journalist (Tech News), Gladly (1730460) Journalist (Tech News), Night Fury (2110841) Journalist (World News), Delirium™ (255459) Journalist (World News), Intelligent Sin (910913) Journalist (Science News), King Cin (1221196) On-Call Team, Odus (85546) On-Call Team, Ariana (692131) On-Call Team, Minimalist (1915596) On-Call Team, reBELLYus (2905593) On-Call Team, King of Hearts (992020) Professional Thread Mover",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
-      "users": [{"uid": "2504443", "username": "Queenie"}, {"uid": "610356", "username": "Wires"}, {"uid": "712376", "username": "Joey"}, {"uid": "525019", "username": "illuminati▲"}, {"uid": "2214473", "username": ".Sinister"}, {"uid": "952566", "username": "Armada"}, {"uid": "1957866", "username": "Enterpriser"}, {"uid": "1148878", "username": "Clique"}, {"uid": "2577525", "username": "Hash G."}, {"uid": "1422600", "username": "Fox™"}, {"uid": "1356937", "username": "Angеl"}, {"uid": "1730460", "username": "Gladly"}, {"uid": "2110841", "username": "Night Fury"}, {"uid": "910913", "username": "Intelligent Sin"}, {"uid": "1221196", "username": "King Cin"}, {"uid": "85546", "username": "Odus"}, {"uid": "692131", "username": "Ariana"}, {"uid": "992020", "username": "King of Hearts"}],
+      "users": [
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Comics"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "712376",
+          "username": "Joey",
+          "role": "Scholar"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1957866",
+          "username": "Enterpriser",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Angеl",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "2110841",
+          "username": "Night Fury",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "255459",
+          "username": "Delirium™",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "910913",
+          "username": "Intelligent Sin",
+          "role": "Journalist (Science News)"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1915596",
+          "username": "Minimalist",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "2905593",
+          "username": "reBELLYus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "992020",
+          "username": "King of Hearts",
+          "role": "Professional Thread Mover"
+        }
+      ],
       "date": 1464217258,
       "edition": 292
     }

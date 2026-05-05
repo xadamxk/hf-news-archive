@@ -42,7 +42,10 @@
       "description": "Sticky Man (uid=1021070) has reached 1,000 reputation.",
       "url": "",
       "users": [
-        {"uid": "1021070", "username": "Sticky Man"}
+        {
+          "uid": "1021070",
+          "username": "Sticky Man"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -53,9 +56,18 @@
       "description": "༺คק๏ll๏༻ (uid=2144028) was banned for rep abuse. MathiasHansen (uid=3033440) was banned, pending closure. Morty (uid=2582276) was banned, pending closure.",
       "url": "",
       "users": [
-        {"uid": "2144028", "username": "༺คק๏ll๏༻"},
-        {"uid": "3033440", "username": "MathiasHansen"},
-        {"uid": "2582276", "username": "Morty"}
+        {
+          "uid": "2144028",
+          "username": "༺คק๏ll๏༻"
+        },
+        {
+          "uid": "3033440",
+          "username": "MathiasHansen"
+        },
+        {
+          "uid": "2582276",
+          "username": "Morty"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -66,7 +78,10 @@
       "description": "Froggy (uid=1320406) has taken a vacation ban.",
       "url": "",
       "users": [
-        {"uid": "1320406", "username": "Froggy"}
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -77,11 +92,26 @@
       "description": "DiamondHacking (uid=1747673) was closed. Fintastic (uid=779764) was closed. Fleckens (uid=2546447) was closed. Frenzied (uid=2597149) was closed. Romantic (uid=2719306) was closed.",
       "url": "",
       "users": [
-        {"uid": "1747673", "username": "DiamondHacking"},
-        {"uid": "779764", "username": "Fintastic"},
-        {"uid": "2546447", "username": "Fleckens"},
-        {"uid": "2597149", "username": "Frenzied"},
-        {"uid": "2719306", "username": "Romantic"}
+        {
+          "uid": "1747673",
+          "username": "DiamondHacking"
+        },
+        {
+          "uid": "779764",
+          "username": "Fintastic"
+        },
+        {
+          "uid": "2546447",
+          "username": "Fleckens"
+        },
+        {
+          "uid": "2597149",
+          "username": "Frenzied"
+        },
+        {
+          "uid": "2719306",
+          "username": "Romantic"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -92,23 +122,74 @@
       "description": "$Rihanna$ (uid=1805439) was Rep Killed. +Celeron (uid=3026518) was Rep Killed. .Fox (uid=1537554) was Rep Killed. ༺คק๏ll๏༻ (uid=2144028) was Rep Killed. Ðevil (uid=1732680) was Rep Killed. ℜino (uid=1208395) was Rep Killed. DiamondHacking (uid=1747673) was Rep Killed. Fintastic (uid=779764) was Rep Killed. Fleckens (uid=2546447) was Rep Killed. LaFong (uid=2960404) was Rep Killed. Makiaveli (uid=455333) was Rep Killed. MathiasHansen (uid=3033440) was Rep Killed. Morty (uid=2582276) was Rep Killed. offpageseo (uid=2733179) was Rep Killed. ott-hon (uid=1212386) was Rep Killed. The Hash-Slinging Slasher (uid=772188) was Rep Killed. Romantic (uid=2719306) was Rep Killed.",
       "url": "",
       "users": [
-        {"uid": "1805439", "username": "$Rihanna$"},
-        {"uid": "3026518", "username": "+Celeron"},
-        {"uid": "1537554", "username": ".Fox"},
-        {"uid": "2144028", "username": "༺คק๏ll๏༻"},
-        {"uid": "1732680", "username": "Ðevil"},
-        {"uid": "1208395", "username": "ℜino"},
-        {"uid": "1747673", "username": "DiamondHacking"},
-        {"uid": "779764", "username": "Fintastic"},
-        {"uid": "2546447", "username": "Fleckens"},
-        {"uid": "2960404", "username": "LaFong"},
-        {"uid": "455333", "username": "Makiaveli"},
-        {"uid": "3033440", "username": "MathiasHansen"},
-        {"uid": "2582276", "username": "Morty"},
-        {"uid": "2733179", "username": "offpageseo"},
-        {"uid": "1212386", "username": "ott-hon"},
-        {"uid": "772188", "username": "The Hash-Slinging Slasher"},
-        {"uid": "2719306", "username": "Romantic"}
+        {
+          "uid": "1805439",
+          "username": "$Rihanna$"
+        },
+        {
+          "uid": "3026518",
+          "username": "+Celeron"
+        },
+        {
+          "uid": "1537554",
+          "username": ".Fox"
+        },
+        {
+          "uid": "2144028",
+          "username": "༺คק๏ll๏༻"
+        },
+        {
+          "uid": "1732680",
+          "username": "Ðevil"
+        },
+        {
+          "uid": "1208395",
+          "username": "ℜino"
+        },
+        {
+          "uid": "1747673",
+          "username": "DiamondHacking"
+        },
+        {
+          "uid": "779764",
+          "username": "Fintastic"
+        },
+        {
+          "uid": "2546447",
+          "username": "Fleckens"
+        },
+        {
+          "uid": "2960404",
+          "username": "LaFong"
+        },
+        {
+          "uid": "455333",
+          "username": "Makiaveli"
+        },
+        {
+          "uid": "3033440",
+          "username": "MathiasHansen"
+        },
+        {
+          "uid": "2582276",
+          "username": "Morty"
+        },
+        {
+          "uid": "2733179",
+          "username": "offpageseo"
+        },
+        {
+          "uid": "1212386",
+          "username": "ott-hon"
+        },
+        {
+          "uid": "772188",
+          "username": "The Hash-Slinging Slasher"
+        },
+        {
+          "uid": "2719306",
+          "username": "Romantic"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -119,14 +200,38 @@
       "description": "Apple J4ck. (uid=1468706) received Dstat Power God. BahNahNah (uid=2388291) is a Genius. iHydra (uid=561239) is Cool. Jennis (uid=2460082) received Spy. King Cin (uid=1221196) received Member of the Month for March 2016. Krave (uid=1165241) received Cuddly and Cute, Drunk, & Businessman awards. Niklaus (uid=2767748) is a Dunce. Orgy (uid=182754) received Asswipe for the third time.",
       "url": "",
       "users": [
-        {"uid": "1468706", "username": "Apple J4ck."},
-        {"uid": "2388291", "username": "BahNahNah"},
-        {"uid": "561239", "username": "iHydra"},
-        {"uid": "2460082", "username": "Jennis"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "1165241", "username": "Krave"},
-        {"uid": "2767748", "username": "Niklaus"},
-        {"uid": "182754", "username": "Orgy"}
+        {
+          "uid": "1468706",
+          "username": "Apple J4ck."
+        },
+        {
+          "uid": "2388291",
+          "username": "BahNahNah"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra"
+        },
+        {
+          "uid": "2460082",
+          "username": "Jennis"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin"
+        },
+        {
+          "uid": "1165241",
+          "username": "Krave"
+        },
+        {
+          "uid": "2767748",
+          "username": "Niklaus"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -137,7 +242,10 @@
       "description": "King Cin created a thread teaching members how to eliminate awkward situations from their social life.",
       "url": "http://hackforums.net/showthread.php?tid=5233361",
       "users": [
-        {"uid": "1221196", "username": "King Cin"}
+        {
+          "uid": "1221196",
+          "username": "King Cin"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -148,7 +256,10 @@
       "description": "Silicon Valley created a userscript that alerts users to members with known scam reports, useful for marketplace members.",
       "url": "http://hackforums.net/showthread.php?tid=5212406",
       "users": [
-        {"uid": "2969158", "username": "Silicon Valley"}
+        {
+          "uid": "2969158",
+          "username": "Silicon Valley"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -159,7 +270,10 @@
       "description": "typhoid created a thread enlightening members about self-actualization.",
       "url": "http://hackforums.net/showthread.php?tid=5240815",
       "users": [
-        {"uid": "1742746", "username": "typhoid"}
+        {
+          "uid": "1742746",
+          "username": "typhoid"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -170,7 +284,10 @@
       "description": "Vigor created a thread where members can reconcile with users they're currently having issues with.",
       "url": "http://hackforums.net/showthread.php?tid=5239786",
       "users": [
-        {"uid": "67412", "username": "Vigor"}
+        {
+          "uid": "67412",
+          "username": "Vigor"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -181,7 +298,10 @@
       "description": "White Noise is hosting a contest where members can win $100 by decrypting a specific text he posted.",
       "url": "http://hackforums.net/showthread.php?tid=5213186",
       "users": [
-        {"uid": "1498262", "username": "White Noise"}
+        {
+          "uid": "1498262",
+          "username": "White Noise"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -192,7 +312,10 @@
       "description": "Vintar is giving away $100 in Bitcoin to one lucky member.",
       "url": "http://hackforums.net/showthread.php?tid=5211167",
       "users": [
-        {"uid": "2661318", "username": "Vintar"}
+        {
+          "uid": "2661318",
+          "username": "Vintar"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -203,7 +326,10 @@
       "description": "dopepizza created a miscellaneous thread about becoming TheMostDopePizza.",
       "url": "http://hackforums.net/showthread.php?tid=4969645",
       "users": [
-        {"uid": "2693790", "username": "dopepizza"}
+        {
+          "uid": "2693790",
+          "username": "dopepizza"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -214,7 +340,10 @@
       "description": ".Sinister interviews Enterpriser about his years on HF, what he has learned, his views on current groups, and his plans to pursue a career in business management.",
       "url": "https://hackforums.net/showthread.php?pid=50609226",
       "users": [
-        {"uid": "1957866", "username": "Enterpriser"}
+        {
+          "uid": "1957866",
+          "username": "Enterpriser"
+        }
       ],
       "date": 1460970170,
       "edition": 288
@@ -233,41 +362,165 @@
       "description": "Ahri's battlestation from Hack Forums was featured.",
       "url": "",
       "users": [
-        {"uid": "2031636", "username": "Ahri"}
+        {
+          "uid": "2031636",
+          "username": "Ahri"
+        }
       ],
       "date": 1460970170,
       "edition": 288
     },
     {
       "category": "news",
-      "title": "Edition 288 credits",
-      "description": "MeshCollider: Scholar; Raptor.: Scholar; Queenie: Scholar; Wires: Scholar; Cooligan: Journalist (Headlines); illuminati▲: Journalist (User News); .Sinister: Interviewer; Armada: Interviewer; illuminati▲: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; Nobility: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Harbo5: Journalist (Security News); Limit.: Journalist (Gaming News); Buffy Summers: Journalist (Gaming News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Phreakdaline: Journalist (World News); Astute: Journalist (World News); Wires: Comics; Designer: Graphical Artist; Wires: On-Call Team; King Cin: On-Call Team; Ariana: On-Call Team; Froggy: Supervisor",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2015410", "username": "MeshCollider"},
-        {"uid": "1453009", "username": "Raptor."},
-        {"uid": "2504443", "username": "Queenie"},
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "777", "username": "Cooligan"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "1957866", "username": "Enterpriser"},
-        {"uid": "1148878", "username": "Clique"},
-        {"uid": "992067", "username": "Nobility"},
-        {"uid": "2577525", "username": "Hash G."},
-        {"uid": "1422600", "username": "Fox™"},
-        {"uid": "1696750", "username": "Harbo5"},
-        {"uid": "2384610", "username": "Limit."},
-        {"uid": "2364291", "username": "Buffy Summers"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "1352632", "username": "Phreakdaline"},
-        {"uid": "1014629", "username": "Astute"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "1320406", "username": "Froggy"}
+        {
+          "uid": "2015410",
+          "username": "MeshCollider",
+          "role": "Scholar"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Scholar"
+        },
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1957866",
+          "username": "Enterpriser",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "2384610",
+          "username": "Limit.",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "2364291",
+          "username": "Buffy Summers",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1352632",
+          "username": "Phreakdaline",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Comics"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Supervisor"
+        }
       ],
       "date": 1460970170,
       "edition": 288

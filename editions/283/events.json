@@ -51,10 +51,22 @@
       "description": "Meerkat. (uid=1758161) reached 1,000 positive reputation. Dragnite (uid=867295) reached 1,000 positive reputation. Melees (uid=1275046) reached 1,000 positive reputation. Regulus (uid=1680975) reached 20,000 posts.",
       "url": "",
       "users": [
-        {"uid": "1758161", "username": "Meerkat."},
-        {"uid": "867295", "username": "Dragnite"},
-        {"uid": "1275046", "username": "Melees"},
-        {"uid": "1680975", "username": "Regulus"}
+        {
+          "uid": "1758161",
+          "username": "Meerkat."
+        },
+        {
+          "uid": "867295",
+          "username": "Dragnite"
+        },
+        {
+          "uid": "1275046",
+          "username": "Melees"
+        },
+        {
+          "uid": "1680975",
+          "username": "Regulus"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -65,21 +77,66 @@
       "description": "nickchan (uid=1777126) had their account re-opened, was then banned for blackmailing members, and is pending closure. ClaudiusPtolemy (uid=1827647) was banned. Αmadеus (uid=2907742) was banned, pending closure. PurpleIsAColor (uid=2898590) was banned, pending closure. Kioshima (uid=2265259) was banned for proxy selling, pending closure. Minimalist (uid=1915596) was banned. wipemgood (uid=2300599) was banned. Travis Bickle (uid=3026066) was banned. mleahy (uid=185396) was banned. Seagulls (uid=2296508) was banned. Hexicidal (uid=863752) was banned at his own request. ℭompleχ (uid=2843773) was banned. regexks_ (uid=1585387) was banned, pending closure. +rep (uid=2926054) was banned. Madara! (uid=2460166) was banned.",
       "url": "",
       "users": [
-        {"uid": "1777126", "username": "nickchan"},
-        {"uid": "1827647", "username": "ClaudiusPtolemy"},
-        {"uid": "2907742", "username": "Αmadеus"},
-        {"uid": "2898590", "username": "PurpleIsAColor"},
-        {"uid": "2265259", "username": "Kioshima"},
-        {"uid": "1915596", "username": "Minimalist"},
-        {"uid": "2300599", "username": "wipemgood"},
-        {"uid": "3026066", "username": "Travis Bickle"},
-        {"uid": "185396", "username": "mleahy"},
-        {"uid": "2296508", "username": "Seagulls"},
-        {"uid": "863752", "username": "Hexicidal"},
-        {"uid": "2843773", "username": "ℭompleχ"},
-        {"uid": "1585387", "username": "regexks_"},
-        {"uid": "2926054", "username": "+rep"},
-        {"uid": "2460166", "username": "Madara!"}
+        {
+          "uid": "1777126",
+          "username": "nickchan"
+        },
+        {
+          "uid": "1827647",
+          "username": "ClaudiusPtolemy"
+        },
+        {
+          "uid": "2907742",
+          "username": "Αmadеus"
+        },
+        {
+          "uid": "2898590",
+          "username": "PurpleIsAColor"
+        },
+        {
+          "uid": "2265259",
+          "username": "Kioshima"
+        },
+        {
+          "uid": "1915596",
+          "username": "Minimalist"
+        },
+        {
+          "uid": "2300599",
+          "username": "wipemgood"
+        },
+        {
+          "uid": "3026066",
+          "username": "Travis Bickle"
+        },
+        {
+          "uid": "185396",
+          "username": "mleahy"
+        },
+        {
+          "uid": "2296508",
+          "username": "Seagulls"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        },
+        {
+          "uid": "2843773",
+          "username": "ℭompleχ"
+        },
+        {
+          "uid": "1585387",
+          "username": "regexks_"
+        },
+        {
+          "uid": "2926054",
+          "username": "+rep"
+        },
+        {
+          "uid": "2460166",
+          "username": "Madara!"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -90,10 +147,22 @@
       "description": "Vicellus Drum (uid=1431463) has taken a vacation. Cryptic™ (uid=716331) has taken a vacation. Mr Kewl (uid=183072) has taken a vacation. Demmonic (uid=543185) has taken a vacation.",
       "url": "",
       "users": [
-        {"uid": "1431463", "username": "Vicellus Drum"},
-        {"uid": "716331", "username": "Cryptic™"},
-        {"uid": "183072", "username": "Mr Kewl"},
-        {"uid": "543185", "username": "Demmonic"}
+        {
+          "uid": "1431463",
+          "username": "Vicellus Drum"
+        },
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "543185",
+          "username": "Demmonic"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -104,12 +173,30 @@
       "description": "๖ۣۜSIIPI (uid=2987507) was closed. Wizard (uid=2801976) was closed. Squint (uid=2706645) was closed. Riches (uid=2035277) was closed. syrah's bitch (uid=2592608) was closed. Mister Guwop (uid=2956438) was closed.",
       "url": "",
       "users": [
-        {"uid": "2987507", "username": "๖ۣۜSIIPI"},
-        {"uid": "2801976", "username": "Wizard"},
-        {"uid": "2706645", "username": "Squint"},
-        {"uid": "2035277", "username": "Riches"},
-        {"uid": "2592608", "username": "syrah's bitch"},
-        {"uid": "2956438", "username": "Mister Guwop"}
+        {
+          "uid": "2987507",
+          "username": "๖ۣۜSIIPI"
+        },
+        {
+          "uid": "2801976",
+          "username": "Wizard"
+        },
+        {
+          "uid": "2706645",
+          "username": "Squint"
+        },
+        {
+          "uid": "2035277",
+          "username": "Riches"
+        },
+        {
+          "uid": "2592608",
+          "username": "syrah's bitch"
+        },
+        {
+          "uid": "2956438",
+          "username": "Mister Guwop"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -120,22 +207,70 @@
       "description": "Vicellus Drum (uid=1431463) was Rep Killed. Αmadеus (uid=2907742) was Rep Killed. PurpleIsAColor (uid=2898590) was Rep Killed. nickchan (uid=1777126) was Rep Killed. vxnz (uid=1882098) was Rep Killed. mleahy (uid=185396) was Rep Killed. Seagulls (uid=2296508) was Rep Killed. Wizard (uid=2801976) was Rep Killed. Squint (uid=2706645) was Rep Killed. Riches (uid=2035277) was Rep Killed. ℭompleχ (uid=2843773) was Rep Killed. regexks_ (uid=1585387) was Rep Killed. syrah's bitch (uid=2592608) was Rep Killed. Mister Guwop (uid=2956438) was Rep Killed. +rep (uid=2926054) was Rep Killed. Madara! (uid=2460166) was Rep Killed.",
       "url": "",
       "users": [
-        {"uid": "1431463", "username": "Vicellus Drum"},
-        {"uid": "2907742", "username": "Αmadеus"},
-        {"uid": "2898590", "username": "PurpleIsAColor"},
-        {"uid": "1777126", "username": "nickchan"},
-        {"uid": "1882098", "username": "vxnz"},
-        {"uid": "185396", "username": "mleahy"},
-        {"uid": "2296508", "username": "Seagulls"},
-        {"uid": "2801976", "username": "Wizard"},
-        {"uid": "2706645", "username": "Squint"},
-        {"uid": "2035277", "username": "Riches"},
-        {"uid": "2843773", "username": "ℭompleχ"},
-        {"uid": "1585387", "username": "regexks_"},
-        {"uid": "2592608", "username": "syrah's bitch"},
-        {"uid": "2956438", "username": "Mister Guwop"},
-        {"uid": "2926054", "username": "+rep"},
-        {"uid": "2460166", "username": "Madara!"}
+        {
+          "uid": "1431463",
+          "username": "Vicellus Drum"
+        },
+        {
+          "uid": "2907742",
+          "username": "Αmadеus"
+        },
+        {
+          "uid": "2898590",
+          "username": "PurpleIsAColor"
+        },
+        {
+          "uid": "1777126",
+          "username": "nickchan"
+        },
+        {
+          "uid": "1882098",
+          "username": "vxnz"
+        },
+        {
+          "uid": "185396",
+          "username": "mleahy"
+        },
+        {
+          "uid": "2296508",
+          "username": "Seagulls"
+        },
+        {
+          "uid": "2801976",
+          "username": "Wizard"
+        },
+        {
+          "uid": "2706645",
+          "username": "Squint"
+        },
+        {
+          "uid": "2035277",
+          "username": "Riches"
+        },
+        {
+          "uid": "2843773",
+          "username": "ℭompleχ"
+        },
+        {
+          "uid": "1585387",
+          "username": "regexks_"
+        },
+        {
+          "uid": "2592608",
+          "username": "syrah's bitch"
+        },
+        {
+          "uid": "2956438",
+          "username": "Mister Guwop"
+        },
+        {
+          "uid": "2926054",
+          "username": "+rep"
+        },
+        {
+          "uid": "2460166",
+          "username": "Madara!"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -146,12 +281,30 @@
       "description": "Vicellus Drum (uid=1431463) had their Cuddly and Cute award revoked. RenRioku™ (uid=1041725) received Sticky Man. H3God (uid=1359715) received Businessman. TemplarKnight (uid=2807124) received Gold Medal. Teh Remix (uid=2240164) received Sticky Man. Arrow (uid=1191229) received Diamond. 30+ members received the Instagrammy award.",
       "url": "",
       "users": [
-        {"uid": "1431463", "username": "Vicellus Drum"},
-        {"uid": "1041725", "username": "RenRioku™"},
-        {"uid": "1359715", "username": "H3God"},
-        {"uid": "2807124", "username": "TemplarKnight"},
-        {"uid": "2240164", "username": "Teh Remix"},
-        {"uid": "1191229", "username": "Arrow"}
+        {
+          "uid": "1431463",
+          "username": "Vicellus Drum"
+        },
+        {
+          "uid": "1041725",
+          "username": "RenRioku™"
+        },
+        {
+          "uid": "1359715",
+          "username": "H3God"
+        },
+        {
+          "uid": "2807124",
+          "username": "TemplarKnight"
+        },
+        {
+          "uid": "2240164",
+          "username": "Teh Remix"
+        },
+        {
+          "uid": "1191229",
+          "username": "Arrow"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -162,7 +315,10 @@
       "description": "Group owner and former staff member Hexicidal made his last feedback thread, informing the community of where his values lie and that he has taken a six-month vacation ban.",
       "url": "http://hackforums.net/showthread.php?tid=5198407",
       "users": [
-        {"uid": "863752", "username": "Hexicidal"}
+        {
+          "uid": "863752",
+          "username": "Hexicidal"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -173,7 +329,10 @@
       "description": "Freebooter wrote a tutorial to help those interested in tweaking and optimizing their Windows system.",
       "url": "http://hackforums.net/showthread.php?tid=4705201",
       "users": [
-        {"uid": "1058648", "username": "Freebooter"}
+        {
+          "uid": "1058648",
+          "username": "Freebooter"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -184,7 +343,10 @@
       "description": "Vitani asks the community what their favorite alcoholic drink is.",
       "url": "http://hackforums.net/showthread.php?tid=5196656",
       "users": [
-        {"uid": "1999047", "username": "Vitani"}
+        {
+          "uid": "1999047",
+          "username": "Vitani"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -195,7 +357,10 @@
       "description": "RenRioku™ is giving away one upgrade (L33T, 3P1C, or UB3R) every week.",
       "url": "http://hackforums.net/showthread.php?tid=5196164",
       "users": [
-        {"uid": "1041725", "username": "RenRioku™"}
+        {
+          "uid": "1041725",
+          "username": "RenRioku™"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -206,7 +371,10 @@
       "description": "Mellow™ is giving out $15 in bitcoin split between two winners.",
       "url": "http://hackforums.net/showthread.php?tid=5200158",
       "users": [
-        {"uid": "2965165", "username": "Mellow™"}
+        {
+          "uid": "2965165",
+          "username": "Mellow™"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -217,7 +385,10 @@
       "description": "Desire makes a feedback thread about sections, staff, and shout-outs on Hack Forums.",
       "url": "http://hackforums.net/showthread.php?tid=5199652",
       "users": [
-        {"uid": "2592608", "username": "Desire"}
+        {
+          "uid": "2592608",
+          "username": "Desire"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -228,7 +399,10 @@
       "description": "Wuss shares a post about people rick rolling others with fake parking tickets.",
       "url": "http://hackforums.net/showthread.php?tid=5194654",
       "users": [
-        {"uid": "2849820", "username": "Wuss"}
+        {
+          "uid": "2849820",
+          "username": "Wuss"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -239,7 +413,10 @@
       "description": "Clique interviews Night Fury about his history on HF, opinions on groups, his education, and outside interests.",
       "url": "https://hackforums.net/showthread.php?pid=50208212",
       "users": [
-        {"uid": "2110841", "username": "Night Fury"}
+        {
+          "uid": "2110841",
+          "username": "Night Fury"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -250,7 +427,10 @@
       "description": "Audi's battlestation was featured.",
       "url": "",
       "users": [
-        {"uid": "1939760", "username": "Audi"}
+        {
+          "uid": "1939760",
+          "username": "Audi"
+        }
       ],
       "date": 1458182868,
       "edition": 283
@@ -261,45 +441,185 @@
       "description": "Drizzy's battlestation was featured.",
       "url": "",
       "users": [
-        {"uid": "1480445", "username": "Drizzy"}
+        {
+          "uid": "1480445",
+          "username": "Drizzy"
+        }
       ],
       "date": 1458182868,
       "edition": 283
     },
     {
       "category": "news",
-      "title": "Edition 283 credits",
-      "description": "MeshCollider: Scholar; Raptor.: Scholar; Queenie: Scholar; Wires: Scholar; Cooligan: Journalist (Headlines); illuminati▲: Journalist (User News); Grievous: Journalist (Notable Threads); .Sinister: Interviewer; Armada: Interviewer; illuminati▲: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; Nobility: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Harbo5: Journalist (Security News); Limit.: Journalist (Gaming News); Buffy Summers: Journalist (Gaming News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Phreakdaline: Journalist (World News); Astute: Journalist (World News); Wires: Comics; Designer: Graphical Artist; Wires: On-Call Team; King Cin: On-Call Team; Red Sоx: On-Call Team; -Hyperion: On-Call Team; Odus: On-Call Team; Ariana: On-Call Team; Froggy: Supervisor",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2015410", "username": "MeshCollider"},
-        {"uid": "1453009", "username": "Raptor."},
-        {"uid": "2504443", "username": "Queenie"},
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "777", "username": "Cooligan"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "1754121", "username": "Grievous"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "1957866", "username": "Enterpriser"},
-        {"uid": "1148878", "username": "Clique"},
-        {"uid": "992067", "username": "Nobility"},
-        {"uid": "2577525", "username": "Hash G."},
-        {"uid": "1422600", "username": "Fox™"},
-        {"uid": "1696750", "username": "Harbo5"},
-        {"uid": "2384610", "username": "Limit."},
-        {"uid": "2364291", "username": "Buffy Summers"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "1352632", "username": "Phreakdaline"},
-        {"uid": "1014629", "username": "Astute"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "1864779", "username": "Red Sоx"},
-        {"uid": "197132", "username": "-Hyperion"},
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "1320406", "username": "Froggy"}
+        {
+          "uid": "2015410",
+          "username": "MeshCollider",
+          "role": "Scholar"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Scholar"
+        },
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1957866",
+          "username": "Enterpriser",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "2384610",
+          "username": "Limit.",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "2364291",
+          "username": "Buffy Summers",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1352632",
+          "username": "Phreakdaline",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Comics"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1864779",
+          "username": "Red Sоx",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Supervisor"
+        }
       ],
       "date": 1458182868,
       "edition": 283

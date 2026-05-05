@@ -24,10 +24,22 @@
       "description": "StuffSneak (uid=123541), Bluffer™ (uid=1382464), Po‎‎‎w (uid=2205331) reached 1,000 positive reputation; Xerotic (uid=175033) reached 2,000 positive reputation.",
       "url": "",
       "users": [
-        {"uid": "123541", "username": "StuffSneak"},
-        {"uid": "1382464", "username": "Bluffer™"},
-        {"uid": "2205331", "username": "Pow"},
-        {"uid": "175033", "username": "Xerotic"}
+        {
+          "uid": "123541",
+          "username": "StuffSneak"
+        },
+        {
+          "uid": "1382464",
+          "username": "Bluffer™"
+        },
+        {
+          "uid": "2205331",
+          "username": "Pow"
+        },
+        {
+          "uid": "175033",
+          "username": "Xerotic"
+        }
       ],
       "date": 1467216922,
       "edition": 297
@@ -38,10 +50,22 @@
       "description": "-x 6 (uid=1012051), THHY (uid=2079170), DaveChappelle (uid=1028583), TehBVM (uid=2283162) were banned.",
       "url": "",
       "users": [
-        {"uid": "1012051", "username": "-x 6"},
-        {"uid": "2079170", "username": "THHY"},
-        {"uid": "1028583", "username": "DaveChappelle"},
-        {"uid": "2283162", "username": "TehBVM"}
+        {
+          "uid": "1012051",
+          "username": "-x 6"
+        },
+        {
+          "uid": "2079170",
+          "username": "THHY"
+        },
+        {
+          "uid": "1028583",
+          "username": "DaveChappelle"
+        },
+        {
+          "uid": "2283162",
+          "username": "TehBVM"
+        }
       ],
       "date": 1467216922,
       "edition": 297
@@ -52,12 +76,30 @@
       "description": "arzel (uid=1763815), LordCoder (uid=1734629), Ariana (uid=692131), Who Soup (uid=2097293), AlphaDelta (uid=1575216), Montana of 300 (uid=2765684) took vacations.",
       "url": "",
       "users": [
-        {"uid": "1763815", "username": "arzel"},
-        {"uid": "1734629", "username": "LordCoder"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "2097293", "username": "Who Soup"},
-        {"uid": "1575216", "username": "AlphaDelta"},
-        {"uid": "2765684", "username": "Montana of 300"}
+        {
+          "uid": "1763815",
+          "username": "arzel"
+        },
+        {
+          "uid": "1734629",
+          "username": "LordCoder"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana"
+        },
+        {
+          "uid": "2097293",
+          "username": "Who Soup"
+        },
+        {
+          "uid": "1575216",
+          "username": "AlphaDelta"
+        },
+        {
+          "uid": "2765684",
+          "username": "Montana of 300"
+        }
       ],
       "date": 1467216922,
       "edition": 297
@@ -68,11 +110,26 @@
       "description": "Viper (uid=2217295), \"Double (uid=3077022), Wardow (uid=1810243), 4/20 (uid=1054822), BassBoostOfficial (uid=2929519) were closed.",
       "url": "",
       "users": [
-        {"uid": "2217295", "username": "Viper"},
-        {"uid": "3077022", "username": "\"Double"},
-        {"uid": "1810243", "username": "Wardow"},
-        {"uid": "1054822", "username": "4/20"},
-        {"uid": "2929519", "username": "BassBoostOfficial"}
+        {
+          "uid": "2217295",
+          "username": "Viper"
+        },
+        {
+          "uid": "3077022",
+          "username": "\"Double"
+        },
+        {
+          "uid": "1810243",
+          "username": "Wardow"
+        },
+        {
+          "uid": "1054822",
+          "username": "4/20"
+        },
+        {
+          "uid": "2929519",
+          "username": "BassBoostOfficial"
+        }
       ],
       "date": 1467216922,
       "edition": 297
@@ -83,16 +140,46 @@
       "description": "Multiple Rep Kills including Trukfit (uid=1534439), Acceptable (uid=3057494), Queen Cin (uid=857807), -x 6, \"Double, THHY, DaveChappelle, 4/20, TehBVM, BassBoostOfficial.",
       "url": "",
       "users": [
-        {"uid": "1534439", "username": "Trukfit"},
-        {"uid": "3057494", "username": "Acceptable"},
-        {"uid": "857807", "username": "Queen Cin"},
-        {"uid": "1012051", "username": "-x 6"},
-        {"uid": "3077022", "username": "\"Double"},
-        {"uid": "2079170", "username": "THHY"},
-        {"uid": "1028583", "username": "DaveChappelle"},
-        {"uid": "1054822", "username": "4/20"},
-        {"uid": "2283162", "username": "TehBVM"},
-        {"uid": "2929519", "username": "BassBoostOfficial"}
+        {
+          "uid": "1534439",
+          "username": "Trukfit"
+        },
+        {
+          "uid": "3057494",
+          "username": "Acceptable"
+        },
+        {
+          "uid": "857807",
+          "username": "Queen Cin"
+        },
+        {
+          "uid": "1012051",
+          "username": "-x 6"
+        },
+        {
+          "uid": "3077022",
+          "username": "\"Double"
+        },
+        {
+          "uid": "2079170",
+          "username": "THHY"
+        },
+        {
+          "uid": "1028583",
+          "username": "DaveChappelle"
+        },
+        {
+          "uid": "1054822",
+          "username": "4/20"
+        },
+        {
+          "uid": "2283162",
+          "username": "TehBVM"
+        },
+        {
+          "uid": "2929519",
+          "username": "BassBoostOfficial"
+        }
       ],
       "date": 1467216922,
       "edition": 297
@@ -103,10 +190,22 @@
       "description": "Odus (uid=85546), Ted™ (uid=2284369), worlockt (uid=2584237) received Purple Clover; Mr. Robot (uid=2682887) received DaBomb.",
       "url": "",
       "users": [
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "2284369", "username": "Ted™"},
-        {"uid": "2584237", "username": "worlockt"},
-        {"uid": "2682887", "username": "Mr. Robot"}
+        {
+          "uid": "85546",
+          "username": "Odus"
+        },
+        {
+          "uid": "2284369",
+          "username": "Ted™"
+        },
+        {
+          "uid": "2584237",
+          "username": "worlockt"
+        },
+        {
+          "uid": "2682887",
+          "username": "Mr. Robot"
+        }
       ],
       "date": 1467216922,
       "edition": 297
@@ -116,7 +215,12 @@
       "title": "Ethereum Convinced",
       "description": "Omniscient linked resources on Ethereum.",
       "url": "http://hackforums.net/showthread.php?tid=5317930",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1467216922,
       "edition": 297
     },
@@ -125,7 +229,12 @@
       "title": "Official 2016 NBA Finals thread",
       "description": "iDuL hosted Finals discussion culminating in Cleveland’s win.",
       "url": "http://hackforums.net/showthread.php?tid=5288278",
-      "users": [{"uid": "187420", "username": "iDuL"}],
+      "users": [
+        {
+          "uid": "187420",
+          "username": "iDuL"
+        }
+      ],
       "date": 1467216922,
       "edition": 297
     },
@@ -134,7 +243,12 @@
       "title": "[SheepGang] Free Upgrade / Award ~ Everyone ~",
       "description": "KnucklezHF ran a SheepGang giveaway.",
       "url": "http://hackforums.net/showthread.php?tid=5314243",
-      "users": [{"uid": "1803034", "username": "KnucklezHF"}],
+      "users": [
+        {
+          "uid": "1803034",
+          "username": "KnucklezHF"
+        }
+      ],
       "date": 1467216922,
       "edition": 297
     },
@@ -143,7 +257,12 @@
       "title": "Interview with heartthrob.",
       "description": "",
       "url": "https://hackforums.net/showthread.php?pid=51484531",
-      "users": [{"uid": "2739889", "username": "heartthrob."}],
+      "users": [
+        {
+          "uid": "2739889",
+          "username": "heartthrob."
+        }
+      ],
       "date": 1467216922,
       "edition": 297
     },
@@ -152,37 +271,156 @@
       "title": "Spotlight of the week: Neutrino Theme",
       "description": "Forum theme artwork credited to .NETGuard.",
       "url": "",
-      "users": [{"uid": "1399665", "username": ".NETGuard"}],
+      "users": [
+        {
+          "uid": "1399665",
+          "username": ".NETGuard"
+        }
+      ],
       "date": 1467216922,
       "edition": 297
     },
     {
       "category": "news",
-      "title": "Edition 297 credits",
-      "description": "Queenie: Scholar; Wires: Scholar; Joey: Scholar; Odus: Journalist (Headlines); illuminati▲: Journalist (User News); Trust: Journalist (Notable Threads); .Sinister: Interviewer supervisor; Armada: Interviewer; Clique: Interviewer; Ventures: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Night Fury: Journalist (World News); Intelligent Sin: Journalist (Science News); iHydra: Journalist (Spotlight); Joey: Journalist (Trends); Wires: Journalist (Comics); Wires: On-Call Team supervisor; King Cin: On-Call Team; Odus: On-Call Team; Ariana: On-Call Team; Young Thug: On-Call Team [TRIAL]; Vitani: On-Call Team [TRIAL]",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2504443", "username": "Queenie"},
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "712376", "username": "Joey"},
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "1446355", "username": "Trust"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "1148878", "username": "Clique"},
-        {"uid": "1595524", "username": "Ventures"},
-        {"uid": "2577525", "username": "Hash G."},
-        {"uid": "1422600", "username": "Fox™"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "2110841", "username": "Night Fury"},
-        {"uid": "910913", "username": "Intelligent Sin"},
-        {"uid": "561239", "username": "iHydra"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "2776397", "username": "Young Thug"},
-        {"uid": "1999047", "username": "Vitani"}
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "712376",
+          "username": "Joey",
+          "role": "Scholar"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer supervisor"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1595524",
+          "username": "Ventures",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "2110841",
+          "username": "Night Fury",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "910913",
+          "username": "Intelligent Sin",
+          "role": "Journalist (Science News)"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "Journalist (Spotlight)"
+        },
+        {
+          "uid": "712376",
+          "username": "Joey",
+          "role": "Journalist (Trends)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Comics)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team supervisor"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "2776397",
+          "username": "Young Thug",
+          "role": "On-Call Team [TRIAL]"
+        },
+        {
+          "uid": "1999047",
+          "username": "Vitani",
+          "role": "On-Call Team [TRIAL]"
+        }
       ],
       "date": 1467216922,
       "edition": 297

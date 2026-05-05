@@ -51,10 +51,22 @@
       "description": "boxxy (uid=2177496) reached 20,000 posts. Roger Waters (uid=1093501) reached 30,000 posts. Doxicity (uid=1107374) reached 1,000 positive reputation. Staid (uid=825700) reached 3,000 positive reputation.",
       "url": "",
       "users": [
-        {"uid": "2177496", "username": "boxxy"},
-        {"uid": "1093501", "username": "Roger Waters"},
-        {"uid": "1107374", "username": "Doxicity"},
-        {"uid": "825700", "username": "Staid"}
+        {
+          "uid": "2177496",
+          "username": "boxxy"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        },
+        {
+          "uid": "1107374",
+          "username": "Doxicity"
+        },
+        {
+          "uid": "825700",
+          "username": "Staid"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -65,9 +77,18 @@
       "description": "hades (uid=2586879) was banned. Dips. (uid=2964027) was banned. Illusionisten (uid=2539013) was banned, pending closure.",
       "url": "",
       "users": [
-        {"uid": "2586879", "username": "hades"},
-        {"uid": "2964027", "username": "Dips."},
-        {"uid": "2539013", "username": "Illusionisten"}
+        {
+          "uid": "2586879",
+          "username": "hades"
+        },
+        {
+          "uid": "2964027",
+          "username": "Dips."
+        },
+        {
+          "uid": "2539013",
+          "username": "Illusionisten"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -78,7 +99,10 @@
       "description": "Curt. (uid=530032) has taken a vacation ban after being Rep Killed.",
       "url": "",
       "users": [
-        {"uid": "530032", "username": "Curt."}
+        {
+          "uid": "530032",
+          "username": "Curt."
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -89,10 +113,22 @@
       "description": "KiruKashi (uid=1134370) was closed. Judgement Day (uid=993819) was closed. T‎a‎lent ツ (uid=1633327) was closed. Nice (uid=634054) was closed.",
       "url": "",
       "users": [
-        {"uid": "1134370", "username": "KiruKashi"},
-        {"uid": "993819", "username": "Judgement Day"},
-        {"uid": "1633327", "username": "T‎a‎lent ツ"},
-        {"uid": "634054", "username": "Nice"}
+        {
+          "uid": "1134370",
+          "username": "KiruKashi"
+        },
+        {
+          "uid": "993819",
+          "username": "Judgement Day"
+        },
+        {
+          "uid": "1633327",
+          "username": "T‎a‎lent ツ"
+        },
+        {
+          "uid": "634054",
+          "username": "Nice"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -103,17 +139,50 @@
       "description": "Curt. (uid=530032) was Rep Killed. Trisomy 21 (uid=1848154) was Rep Killed. hades (uid=2586879) was Rep Killed. Judgement Day (uid=993819) was Rep Killed. Barack Jong-Unbama (uid=1430165) was Rep Killed. Dips. (uid=2964027) was Rep Killed. Epilepsy (uid=2636436) was Rep Killed. T‎a‎lent ツ (uid=1633327) was Rep Killed. Βeast (uid=2438401) was Rep Killed. Nice (uid=634054) was Rep Killed. Illusionisten (uid=2539013) was Rep Killed.",
       "url": "",
       "users": [
-        {"uid": "530032", "username": "Curt."},
-        {"uid": "1848154", "username": "Trisomy 21"},
-        {"uid": "2586879", "username": "hades"},
-        {"uid": "993819", "username": "Judgement Day"},
-        {"uid": "1430165", "username": "Barack Jong-Unbama"},
-        {"uid": "2964027", "username": "Dips."},
-        {"uid": "2636436", "username": "Epilepsy"},
-        {"uid": "1633327", "username": "T‎a‎lent ツ"},
-        {"uid": "2438401", "username": "Βeast"},
-        {"uid": "634054", "username": "Nice"},
-        {"uid": "2539013", "username": "Illusionisten"}
+        {
+          "uid": "530032",
+          "username": "Curt."
+        },
+        {
+          "uid": "1848154",
+          "username": "Trisomy 21"
+        },
+        {
+          "uid": "2586879",
+          "username": "hades"
+        },
+        {
+          "uid": "993819",
+          "username": "Judgement Day"
+        },
+        {
+          "uid": "1430165",
+          "username": "Barack Jong-Unbama"
+        },
+        {
+          "uid": "2964027",
+          "username": "Dips."
+        },
+        {
+          "uid": "2636436",
+          "username": "Epilepsy"
+        },
+        {
+          "uid": "1633327",
+          "username": "T‎a‎lent ツ"
+        },
+        {
+          "uid": "2438401",
+          "username": "Βeast"
+        },
+        {
+          "uid": "634054",
+          "username": "Nice"
+        },
+        {
+          "uid": "2539013",
+          "username": "Illusionisten"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -124,8 +193,14 @@
       "description": "Divined (uid=2292899) received FPS Gawd, Gamer, and Legend. Maximum (uid=1238642) received Member of the Month (January 2016).",
       "url": "",
       "users": [
-        {"uid": "2292899", "username": "Divined"},
-        {"uid": "1238642", "username": "Maximum"}
+        {
+          "uid": "2292899",
+          "username": "Divined"
+        },
+        {
+          "uid": "1238642",
+          "username": "Maximum"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -136,7 +211,10 @@
       "description": "Saiyuki provides a web page with free educational ebooks on programming, computing, and hacking.",
       "url": "http://hackforums.net/showthread.php?tid=5155141",
       "users": [
-        {"uid": "355706", "username": "Saiyuki"}
+        {
+          "uid": "355706",
+          "username": "Saiyuki"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -147,7 +225,10 @@
       "description": "King Cin discusses the concept of 'Push Pull' within the seduction community.",
       "url": "http://hackforums.net/showthread.php?tid=5181590",
       "users": [
-        {"uid": "1221196", "username": "King Cin"}
+        {
+          "uid": "1221196",
+          "username": "King Cin"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -158,7 +239,10 @@
       "description": "Romantic asks the community which group they would get rid of.",
       "url": "http://hackforums.net/showthread.php?tid=5163617",
       "users": [
-        {"uid": "2719306", "username": "Romantic"}
+        {
+          "uid": "2719306",
+          "username": "Romantic"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -169,7 +253,10 @@
       "description": "iDuL shares his UID with the community, sparking a discussion about what the numbers on UIDs might mean.",
       "url": "http://hackforums.net/showthread.php?tid=5186354",
       "users": [
-        {"uid": "187420", "username": "iDuL"}
+        {
+          "uid": "187420",
+          "username": "iDuL"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -180,7 +267,10 @@
       "description": "LeOptimal asks the community if their girlfriends are into technology.",
       "url": "http://hackforums.net/showthread.php?tid=5184438",
       "users": [
-        {"uid": "3048796", "username": "LeOptimal"}
+        {
+          "uid": "3048796",
+          "username": "LeOptimal"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -191,7 +281,10 @@
       "description": "Divined is giving away an Amazon gift card worth $1000 to a random person who posts in the thread.",
       "url": "http://hackforums.net/showthread.php?tid=5180050",
       "users": [
-        {"uid": "2292899", "username": "Divined"}
+        {
+          "uid": "2292899",
+          "username": "Divined"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -202,7 +295,10 @@
       "description": "Spectral Wolf is giving away $50 in BTC weekly to prove they wouldn't scam for a measly $1000.",
       "url": "http://hackforums.net/showthread.php?tid=5180995",
       "users": [
-        {"uid": "2967793", "username": "Spectral Wolf"}
+        {
+          "uid": "2967793",
+          "username": "Spectral Wolf"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -213,7 +309,10 @@
       "description": "Misty shares a story about an unpleasant experience in public.",
       "url": "http://hackforums.net/showthread.php?tid=5179204",
       "users": [
-        {"uid": "276957", "username": "Misty"}
+        {
+          "uid": "276957",
+          "username": "Misty"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -224,7 +323,10 @@
       "description": "Demonic Form shares G-Eazy's newly released music video for 'Order More'.",
       "url": "http://hackforums.net/showthread.php?tid=5185461",
       "users": [
-        {"uid": "2772052", "username": "Demonic Form"}
+        {
+          "uid": "2772052",
+          "username": "Demonic Form"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -235,7 +337,10 @@
       "description": "Armada interviews CyberGuard about hash cracking, ethical hacking, and his work on a large hash database.",
       "url": "https://hackforums.net/showthread.php?pid=50025980",
       "users": [
-        {"uid": "2825754", "username": "CyberGuard"}
+        {
+          "uid": "2825754",
+          "username": "CyberGuard"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -246,7 +351,10 @@
       "description": "Doctor Blue's battlestation was featured.",
       "url": "",
       "users": [
-        {"uid": "1439038", "username": "Doctor Blue"}
+        {
+          "uid": "1439038",
+          "username": "Doctor Blue"
+        }
       ],
       "date": 1456893957,
       "edition": 281
@@ -261,38 +369,175 @@
     },
     {
       "category": "news",
-      "title": "Edition 281 credits",
-      "description": "MeshCollider: Scholar; Raptor.: Scholar; Queenie: Scholar; Wires: Scholar; Cooligan: Journalist (Headlines); illuminati▲: Journalist (User News); Grievous: Journalist (Notable Threads); .Sinister: Interviewer; Armada: Interviewer; illuminati▲: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; Nobility: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Harbo5: Journalist (Security News); Limit.: Journalist (Gaming News); Buffy Summers: Journalist (Gaming News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Phreakdaline: Journalist (World News); Astute: Journalist (World News); Wires: Comics; Designer: Graphical Artist; Wires: On-Call Team; King Cin: On-Call Team; Red Sоx: On-Call Team; -Hyperion: On-Call Team; Odus: On-Call Team; Ariana: On-Call Team; Froggy: Supervisor",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2015410", "username": "MeshCollider"},
-        {"uid": "1453009", "username": "Raptor."},
-        {"uid": "2504443", "username": "Queenie"},
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "777", "username": "Cooligan"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "1754121", "username": "Grievous"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "1957866", "username": "Enterpriser"},
-        {"uid": "1148878", "username": "Clique"},
-        {"uid": "992067", "username": "Nobility"},
-        {"uid": "2577525", "username": "Hash G."},
-        {"uid": "1422600", "username": "Fox™"},
-        {"uid": "1696750", "username": "Harbo5"},
-        {"uid": "2384610", "username": "Limit."},
-        {"uid": "2364291", "username": "Buffy Summers"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "1352632", "username": "Phreakdaline"},
-        {"uid": "1014629", "username": "Astute"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "1864779", "username": "Red Sоx"},
-        {"uid": "197132", "username": "-Hyperion"},
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "1320406", "username": "Froggy"}
+        {
+          "uid": "2015410",
+          "username": "MeshCollider",
+          "role": "Scholar"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Scholar"
+        },
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1957866",
+          "username": "Enterpriser",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "2384610",
+          "username": "Limit.",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "2364291",
+          "username": "Buffy Summers",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1352632",
+          "username": "Phreakdaline",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Comics"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1864779",
+          "username": "Red Sоx",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Supervisor"
+        }
       ],
       "date": 1456893957,
       "edition": 281

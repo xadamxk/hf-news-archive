@@ -33,10 +33,22 @@
       "description": "Cryptic™ (uid=716331) reached 3,000 positive reputation. 24k (uid=2195187) reached 1,000 positive reputation. Mr Kewl (uid=183072) reached 1,000 prestige. Ninetales. (uid=1812679) achieved UB3R status after previously being permanently denied.",
       "url": "",
       "users": [
-        {"uid": "716331", "username": "Cryptic™"},
-        {"uid": "2195187", "username": "24k"},
-        {"uid": "183072", "username": "Mr Kewl"},
-        {"uid": "1812679", "username": "Ninetales."}
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        },
+        {
+          "uid": "2195187",
+          "username": "24k"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        },
+        {
+          "uid": "1812679",
+          "username": "Ninetales."
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -47,11 +59,26 @@
       "description": "Balding (uid=2802817) was banned. Flacko. (uid=2236072) was banned. Nitz0007 (uid=2086425) was banned. Grievous (uid=1754121) was banned, currently pending closure. ⱱortex (uid=2984641) was banned, currently pending closure.",
       "url": "",
       "users": [
-        {"uid": "2802817", "username": "Balding"},
-        {"uid": "2236072", "username": "Flacko."},
-        {"uid": "2086425", "username": "Nitz0007"},
-        {"uid": "1754121", "username": "Grievous"},
-        {"uid": "2984641", "username": "ⱱortex"}
+        {
+          "uid": "2802817",
+          "username": "Balding"
+        },
+        {
+          "uid": "2236072",
+          "username": "Flacko."
+        },
+        {
+          "uid": "2086425",
+          "username": "Nitz0007"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous"
+        },
+        {
+          "uid": "2984641",
+          "username": "ⱱortex"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -62,9 +89,18 @@
       "description": "Allison Argent (uid=2259851) has taken a vacation ban. Prophet Banana (uid=769614) has taken a vacation ban. Xepher The Cat (uid=1480634) has taken a vacation ban.",
       "url": "",
       "users": [
-        {"uid": "2259851", "username": "Allison Argent"},
-        {"uid": "769614", "username": "Prophet Banana"},
-        {"uid": "1480634", "username": "Xepher The Cat"}
+        {
+          "uid": "2259851",
+          "username": "Allison Argent"
+        },
+        {
+          "uid": "769614",
+          "username": "Prophet Banana"
+        },
+        {
+          "uid": "1480634",
+          "username": "Xepher The Cat"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -75,8 +111,14 @@
       "description": "Balding (uid=2802817) was Rep Killed. Nitz0007 (uid=2086425) was Rep Killed.",
       "url": "",
       "users": [
-        {"uid": "2802817", "username": "Balding"},
-        {"uid": "2086425", "username": "Nitz0007"}
+        {
+          "uid": "2802817",
+          "username": "Balding"
+        },
+        {
+          "uid": "2086425",
+          "username": "Nitz0007"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -87,9 +129,18 @@
       "description": "Devour (uid=1568351) received DaBomb. Raymond Reddington (uid=2061024) received Legend. Vittorio (uid=2091037) is an Award Whore.",
       "url": "",
       "users": [
-        {"uid": "1568351", "username": "Devour"},
-        {"uid": "2061024", "username": "Raymond Reddington"},
-        {"uid": "2091037", "username": "Vittorio"}
+        {
+          "uid": "1568351",
+          "username": "Devour"
+        },
+        {
+          "uid": "2061024",
+          "username": "Raymond Reddington"
+        },
+        {
+          "uid": "2091037",
+          "username": "Vittorio"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -100,9 +151,18 @@
       "description": "Roger Waters, Viral Dragon, and Mr Kewl staged an April Fools prank election to decide Hack Forums' next Administrator. Roger Waters won the election poll.",
       "url": "http://hackforums.net/showthread.php?tid=5224122",
       "users": [
-        {"uid": "1093501", "username": "Roger Waters"},
-        {"uid": "23809", "username": "Viral Dragon"},
-        {"uid": "183072", "username": "Mr Kewl"}
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        },
+        {
+          "uid": "23809",
+          "username": "Viral Dragon"
+        },
+        {
+          "uid": "183072",
+          "username": "Mr Kewl"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -113,7 +173,10 @@
       "description": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️ shares a motivational thread to help community members stay motivated and reach their goals.",
       "url": "http://hackforums.net/showthread.php?tid=5225413",
       "users": [
-        {"uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"}
+        {
+          "uid": "1610871",
+          "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -124,7 +187,10 @@
       "description": "King Cin argues why the advice of \"just be yourself\" when interacting with attractive women can be the worst advice you can get.",
       "url": "http://hackforums.net/showthread.php?tid=5218733",
       "users": [
-        {"uid": "1221196", "username": "King Cin"}
+        {
+          "uid": "1221196",
+          "username": "King Cin"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -135,7 +201,10 @@
       "description": "Cryptic™ created a thread about the brief April Fools moment when two staff members were simultaneously named Roger Waters.",
       "url": "http://hackforums.net/showthread.php?tid=5222903",
       "users": [
-        {"uid": "716331", "username": "Cryptic™"}
+        {
+          "uid": "716331",
+          "username": "Cryptic™"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -146,7 +215,10 @@
       "description": "Roger Waters announced his April Fools candidacy for HF Administrator, proposing to build a wall to keep out multis and new members.",
       "url": "http://hackforums.net/showthread.php?tid=5222917",
       "users": [
-        {"uid": "1093501", "username": "Roger Waters"}
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -157,7 +229,10 @@
       "description": "๖ۣۜDarkIllusion is giving away the Legalize It Award to one lucky member on behalf of Enigma.",
       "url": "http://hackforums.net/showthread.php?tid=5207584",
       "users": [
-        {"uid": "2455005", "username": "๖ۣۜDarkIllusion"}
+        {
+          "uid": "2455005",
+          "username": "๖ۣۜDarkIllusion"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -168,7 +243,10 @@
       "description": "Baba Yaga is giving away $80 in Bitcoin on behalf of Squad.",
       "url": "http://hackforums.net/showthread.php?tid=5218050",
       "users": [
-        {"uid": "2807875", "username": "Baba Yaga"}
+        {
+          "uid": "2807875",
+          "username": "Baba Yaga"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -179,7 +257,10 @@
       "description": "Funtage created a thread with his visual review and opinion of current HF groups.",
       "url": "http://hackforums.net/showthread.php?tid=5222727",
       "users": [
-        {"uid": "121026", "username": "Funtage"}
+        {
+          "uid": "121026",
+          "username": "Funtage"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -190,7 +271,10 @@
       "description": "Jopy wrote a comical feedback thread about his opinions on various aspects of Hack Forums using pictures.",
       "url": "http://hackforums.net/showthread.php?tid=5221572",
       "users": [
-        {"uid": "1989878", "username": "Jopy"}
+        {
+          "uid": "1989878",
+          "username": "Jopy"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -201,7 +285,10 @@
       "description": "Romantic created a thread listing some records held by HF members.",
       "url": "http://hackforums.net/showthread.php?tid=5224843",
       "users": [
-        {"uid": "2719306", "username": "Romantic"}
+        {
+          "uid": "2719306",
+          "username": "Romantic"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -212,7 +299,10 @@
       "description": "Enterpriser interviews Wires about his history on HF, MyBB theme designing, his IT Solutions company, and his football career.",
       "url": "https://hackforums.net/showthread.php?pid=50443452",
       "users": [
-        {"uid": "610356", "username": "Wires"}
+        {
+          "uid": "610356",
+          "username": "Wires"
+        }
       ],
       "date": 1459842170,
       "edition": 286
@@ -251,34 +341,155 @@
     },
     {
       "category": "news",
-      "title": "Edition 286 credits",
-      "description": "MeshCollider: Scholar; Raptor.: Scholar; Queenie: Scholar; Wires: Scholar; Cooligan: Journalist (Headlines); illuminati▲: Journalist (User News); .Sinister: Interviewer; Armada: Interviewer; illuminati▲: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; Nobility: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Harbo5: Journalist (Security News); Limit.: Journalist (Gaming News); Buffy Summers: Journalist (Gaming News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Phreakdaline: Journalist (World News); Astute: Journalist (World News); Wires: Comics; Designer: Graphical Artist; Wires: On-Call Team; King Cin: On-Call Team; Ariana: On-Call Team; Froggy: Supervisor",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2015410", "username": "MeshCollider"},
-        {"uid": "1453009", "username": "Raptor."},
-        {"uid": "2504443", "username": "Queenie"},
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "777", "username": "Cooligan"},
-        {"uid": "525019", "username": "illuminati▲"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "952566", "username": "Armada"},
-        {"uid": "1957866", "username": "Enterpriser"},
-        {"uid": "1148878", "username": "Clique"},
-        {"uid": "992067", "username": "Nobility"},
-        {"uid": "2577525", "username": "Hash G."},
-        {"uid": "1422600", "username": "Fox™"},
-        {"uid": "1696750", "username": "Harbo5"},
-        {"uid": "2384610", "username": "Limit."},
-        {"uid": "2364291", "username": "Buffy Summers"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "1352632", "username": "Phreakdaline"},
-        {"uid": "1014629", "username": "Astute"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "1221196", "username": "King Cin"},
-        {"uid": "692131", "username": "Ariana"},
-        {"uid": "1320406", "username": "Froggy"}
+        {
+          "uid": "2015410",
+          "username": "MeshCollider",
+          "role": "Scholar"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Scholar"
+        },
+        {
+          "uid": "2504443",
+          "username": "Queenie",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1957866",
+          "username": "Enterpriser",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "2384610",
+          "username": "Limit.",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "2364291",
+          "username": "Buffy Summers",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1352632",
+          "username": "Phreakdaline",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Comics"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1221196",
+          "username": "King Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Supervisor"
+        }
       ],
       "date": 1459842170,
       "edition": 286
