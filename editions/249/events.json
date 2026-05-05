@@ -6,9 +6,18 @@
       "description": "Paradoxum and veteran member Judge Dredd are now both Mentors. Sam Winchester stepped up on probation as Staff.",
       "url": "",
       "users": [
-        {"uid": "70881", "username": "Paradoxum"},
-        {"uid": "4066", "username": "Judge Dredd"},
-        {"uid": "1570078", "username": "Sam Winchester"}
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1570078",
+          "username": "Sam Winchester"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -18,7 +27,12 @@
       "title": "Wiki Back on Track",
       "description": "D3xus breathed new life into the Wiki team with a revamped theme and new features, inspiring members to contribute. Writers for the Wiki are recruiting to update, edit, create, and manage articles.",
       "url": "http://hackforums.net/showthread.php?tid=4906775",
-      "users": [{"uid": "827711", "username": "D3xus"}],
+      "users": [
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -28,8 +42,14 @@
       "description": "bοxxy reached 2,000 positive reputation. Roger Waters reached 24,000 posts.",
       "url": "",
       "users": [
-        {"uid": "2177496", "username": "bοxxy"},
-        {"uid": "1093501", "username": "Roger Waters"}
+        {
+          "uid": "2177496",
+          "username": "bοxxy"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -40,8 +60,14 @@
       "description": "Raz3d and American Apathy were banned.",
       "url": "",
       "users": [
-        {"uid": "1229273", "username": "Raz3d"},
-        {"uid": "795605", "username": "American Apathy"}
+        {
+          "uid": "1229273",
+          "username": "Raz3d"
+        },
+        {
+          "uid": "795605",
+          "username": "American Apathy"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -52,11 +78,26 @@
       "description": "Project Zen took a long vacation. Tommy, Vipеr, Kappa, and Abide took vacation bans.",
       "url": "",
       "users": [
-        {"uid": "1845228", "username": "Project Zen"},
-        {"uid": "2529154", "username": "Tommy"},
-        {"uid": "2217295", "username": "Vipеr"},
-        {"uid": "976310", "username": "Kappa"},
-        {"uid": "1698590", "username": "Abide"}
+        {
+          "uid": "1845228",
+          "username": "Project Zen"
+        },
+        {
+          "uid": "2529154",
+          "username": "Tommy"
+        },
+        {
+          "uid": "2217295",
+          "username": "Vipеr"
+        },
+        {
+          "uid": "976310",
+          "username": "Kappa"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -67,12 +108,30 @@
       "description": "Entire, Dexter ϟ, LightBlue, Говядина, VACation Time, and incoming had their accounts closed.",
       "url": "",
       "users": [
-        {"uid": "2368513", "username": "Entire"},
-        {"uid": "1885925", "username": "Dexter ϟ"},
-        {"uid": "914420", "username": "LightBlue"},
-        {"uid": "2262270", "username": "Говядина"},
-        {"uid": "2499654", "username": "VACation Time"},
-        {"uid": "2287456", "username": "incoming"}
+        {
+          "uid": "2368513",
+          "username": "Entire"
+        },
+        {
+          "uid": "1885925",
+          "username": "Dexter ϟ"
+        },
+        {
+          "uid": "914420",
+          "username": "LightBlue"
+        },
+        {
+          "uid": "2262270",
+          "username": "Говядина"
+        },
+        {
+          "uid": "2499654",
+          "username": "VACation Time"
+        },
+        {
+          "uid": "2287456",
+          "username": "incoming"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -83,19 +142,58 @@
       "description": "The Sween was repfucked for fake vouches. Young Jay, Confusing, King Tut, American Apathy, Abide, Raz3d, Entire, Dexter ϟ, Говядина, VACation Time, incoming, and BigHecks were repfucked.",
       "url": "",
       "users": [
-        {"uid": "1108455", "username": "The Sween"},
-        {"uid": "2634672", "username": "Young Jay"},
-        {"uid": "2155657", "username": "Confusing"},
-        {"uid": "2714912", "username": "King Tut"},
-        {"uid": "795605", "username": "American Apathy"},
-        {"uid": "1698590", "username": "Abide"},
-        {"uid": "1229273", "username": "Raz3d"},
-        {"uid": "2368513", "username": "Entire"},
-        {"uid": "1885925", "username": "Dexter ϟ"},
-        {"uid": "2262270", "username": "Говядина"},
-        {"uid": "2499654", "username": "VACation Time"},
-        {"uid": "2287456", "username": "incoming"},
-        {"uid": "1768222", "username": "BigHecks"}
+        {
+          "uid": "1108455",
+          "username": "The Sween"
+        },
+        {
+          "uid": "2634672",
+          "username": "Young Jay"
+        },
+        {
+          "uid": "2155657",
+          "username": "Confusing"
+        },
+        {
+          "uid": "2714912",
+          "username": "King Tut"
+        },
+        {
+          "uid": "795605",
+          "username": "American Apathy"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide"
+        },
+        {
+          "uid": "1229273",
+          "username": "Raz3d"
+        },
+        {
+          "uid": "2368513",
+          "username": "Entire"
+        },
+        {
+          "uid": "1885925",
+          "username": "Dexter ϟ"
+        },
+        {
+          "uid": "2262270",
+          "username": "Говядина"
+        },
+        {
+          "uid": "2499654",
+          "username": "VACation Time"
+        },
+        {
+          "uid": "2287456",
+          "username": "incoming"
+        },
+        {
+          "uid": "1768222",
+          "username": "BigHecks"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -106,9 +204,18 @@
       "description": "Talu received The Alien award. Salty Bacon donated for Master Donator and received the Royalty award. Sida donated for Master Donator and received the DaBomb award.",
       "url": "",
       "users": [
-        {"uid": "1582895", "username": "Talu"},
-        {"uid": "1342175", "username": "Salty Bacon"},
-        {"uid": "1749126", "username": "Sida"}
+        {
+          "uid": "1582895",
+          "username": "Talu"
+        },
+        {
+          "uid": "1342175",
+          "username": "Salty Bacon"
+        },
+        {
+          "uid": "1749126",
+          "username": "Sida"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -118,7 +225,12 @@
       "title": "Royalty officially opens",
       "description": "Royalty, described as 'Loyal and royal marketers,' was added to the official groups list by Omniscient after the OMC auction. Led by Cibor, the group opened its doors to the public on July 14th, 2015.",
       "url": "http://hackforums.net/showthread.php?tid=4906323",
-      "users": [{"uid": "1866420", "username": "Cibor"}],
+      "users": [
+        {
+          "uid": "1866420",
+          "username": "Cibor"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -128,8 +240,14 @@
       "description": "Vinnie was removed from leadership of Null and Instinct. Understalker was removed from leadership of Echo.",
       "url": "",
       "users": [
-        {"uid": "600771", "username": "Vinnie"},
-        {"uid": "1726101", "username": "Understalker"}
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        }
       ],
       "date": 1437456832,
       "edition": 249
@@ -139,7 +257,12 @@
       "title": "Gauth Check",
       "description": "Changes have been made to the Gauth system. The issuer field is now enabled.",
       "url": "http://hackforums.net/showthread.php?tid=4909593",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -148,7 +271,12 @@
       "title": "What's the last illegal thing you did and got away with?",
       "description": "Have you ever wondered what sketchy activities the Hack Forums community is up to? Check this thread to find out.",
       "url": "http://hackforums.net/showthread.php?tid=4905591",
-      "users": [{"uid": "2613410", "username": "Ekmete"}],
+      "users": [
+        {
+          "uid": "2613410",
+          "username": "Ekmete"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -157,7 +285,12 @@
       "title": "Upgrading 10 members to L33T / UB3R",
       "description": "Glitch is hosting a contest in which the winners will receive upgrades to their accounts.",
       "url": "http://hackforums.net/showthread.php?tid=4899627",
-      "users": [{"uid": "55709", "username": "Glitch"}],
+      "users": [
+        {
+          "uid": "55709",
+          "username": "Glitch"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -166,7 +299,12 @@
       "title": "Official Archive Group Contest: GAuth (2FA) Edition ($200)",
       "description": "xadamxk is hosting a contest in the name of the group Archive. Three winners will win cash prizes adding up to $200.",
       "url": "http://hackforums.net/showthread.php?tid=4906805",
-      "users": [{"uid": "1306528", "username": "xadamxk"}],
+      "users": [
+        {
+          "uid": "1306528",
+          "username": "xadamxk"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -175,7 +313,12 @@
       "title": "Interview with Cibor",
       "description": "Astute interviews Cibor about his plans for the new Royalty group, how he acquired the OMC to win the auction, and his vision for the marketplace-focused group.",
       "url": "https://hackforums.net/showthread.php?pid=47101190",
-      "users": [{"uid": "1866420", "username": "Cibor"}],
+      "users": [
+        {
+          "uid": "1866420",
+          "username": "Cibor"
+        }
+      ],
       "date": 1437456832,
       "edition": 249
     },
@@ -189,51 +332,215 @@
     },
     {
       "category": "news",
-      "title": "Edition 249 Credits",
-      "description": "Wind Waker (1st Editor), iHydra (2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits), Vegas (3rd Editor), Raptor. (4th Editor), ӍeshCollider (5th Editor), Prada (1st Compiler), Jodye (2nd Compiler), Vanill‌a (3rd Compiler), Ren (4th Compiler), Cooligan (Journalist (Headlines)), Odus (Journalist (Headlines)), Cody (Journalist (User News)), 630 (Journalist (User News)), Trust (Journalist (Notable Threads)), Astute (Interviewer), Justin Timberlake (Interviewer), .Sinister (Interviewer), vurezo (Interviewer), Nobility (Journalist (Group News)), Ventures (Journalist (Group News)), Abraham Lincoln (Journalist (Omnicoin News)), Harlem (Journalist (Site News)), Charlemagne (Journalist (Site News)), Thornzzz (Journalist (Opinion Central)), Goodies (Journalist (Hacking News)), Virule (Journalist (Hacking News)), Harbo5 (Journalist (Security News)), -Hyperion (Journalist (Security News)), Premortal (Journalist (Gaming News)), Red Sоx (Journalist (Gaming News)), Аngel (Journalist (Tech News)), Gladly (Journalist (Tech News)), Happeh (Journalist (World News); Breaking News Team (World News)), +One (Breaking News Team (Gaming News)), Abide (Breaking News Team (Tech News)), Designer (Graphical Artist), Rivalry (Art Gallery / Comics / Graphical Artist), Saged' (Reserve Writer), ven0m (Reserve Writer), zer0- (Reserve Writer), -Nas (Task Manager)",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2173791", "username": "Wind Waker"},
-        {"uid": "561239", "username": "iHydra"},
-        {"uid": "370475", "username": "Vegas"},
-        {"uid": "1453009", "username": "Raptor."},
-        {"uid": "2015410", "username": "ӍeshCollider"},
-        {"uid": "1469364", "username": "Prada"},
-        {"uid": "2038812", "username": "Jodye"},
-        {"uid": "1422600", "username": "Vanill‌a"},
-        {"uid": "1775114", "username": "Ren"},
-        {"uid": "777", "username": "Cooligan"},
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "1172544", "username": "Cody"},
-        {"uid": "797403", "username": "630"},
-        {"uid": "1446355", "username": "Trust"},
-        {"uid": "1014629", "username": "Astute"},
-        {"uid": "1958081", "username": "Justin Timberlake"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "1918708", "username": "vurezo"},
-        {"uid": "992067", "username": "Nobility"},
-        {"uid": "1595524", "username": "Ventures"},
-        {"uid": "1256441", "username": "Abraham Lincoln"},
-        {"uid": "1079277", "username": "Harlem"},
-        {"uid": "2585207", "username": "Charlemagne"},
-        {"uid": "1992268", "username": "Thornzzz"},
-        {"uid": "1173142", "username": "Goodies"},
-        {"uid": "2282311", "username": "Virule"},
-        {"uid": "1696750", "username": "Harbo5"},
-        {"uid": "197132", "username": "-Hyperion"},
-        {"uid": "981500", "username": "Premortal"},
-        {"uid": "1864779", "username": "Red Sоx"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "279955", "username": "Happeh"},
-        {"uid": "2231695", "username": "+One"},
-        {"uid": "1698590", "username": "Abide"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "1138866", "username": "Rivalry"},
-        {"uid": "47360", "username": "Saged'"},
-        {"uid": "91531", "username": "ven0m"},
-        {"uid": "46411", "username": "zer0-"},
-        {"uid": "1452196", "username": "-Nas"}
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "1st Editor"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "1469364",
+          "username": "Prada",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2038812",
+          "username": "Jodye",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Vanill‌a",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1775114",
+          "username": "Ren",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1918708",
+          "username": "vurezo",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1595524",
+          "username": "Ventures",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2585207",
+          "username": "Charlemagne",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1992268",
+          "username": "Thornzzz",
+          "role": "Journalist (Opinion Central)"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "2282311",
+          "username": "Virule",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "981500",
+          "username": "Premortal",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1864779",
+          "username": "Red Sоx",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh",
+          "role": "Journalist (World News); Breaking News Team (World News)"
+        },
+        {
+          "uid": "2231695",
+          "username": "+One",
+          "role": "Breaking News Team (Gaming News)"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide",
+          "role": "Breaking News Team (Tech News)"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "47360",
+          "username": "Saged'",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "91531",
+          "username": "ven0m",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "46411",
+          "username": "zer0-",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas",
+          "role": "Task Manager"
+        }
       ],
       "date": 1437456832,
       "edition": 249

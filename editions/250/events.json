@@ -5,7 +5,12 @@
       "title": "Instinct removed",
       "description": "Omniscient posted a thread explaining why Instinct was removed from the official groups list. Vinnie is still selling Instinct to approved group owner applicants.",
       "url": "http://hackforums.net/showthread.php?tid=4914806",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -14,7 +19,12 @@
       "title": "Posts Pruned, Recount Initiated",
       "description": "Omniscient pruned all junk and VIP subforum posts and followed up with a post count recount, resulting in many users seeing large drops in their post counts.",
       "url": "",
-      "users": [{"uid": "1", "username": "Omniscient"}],
+      "users": [
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -24,9 +34,18 @@
       "description": "Paradoxum and Judge Dredd are no longer Staff and are now Mentors. Sam Winchester was promoted to Probational Staff.",
       "url": "",
       "users": [
-        {"uid": "70881", "username": "Paradoxum"},
-        {"uid": "4066", "username": "Judge Dredd"},
-        {"uid": "1570078", "username": "Sam Winchester"}
+        {
+          "uid": "70881",
+          "username": "Paradoxum"
+        },
+        {
+          "uid": "4066",
+          "username": "Judge Dredd"
+        },
+        {
+          "uid": "1570078",
+          "username": "Sam Winchester"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -37,10 +56,22 @@
       "description": "D3xus, Thornzzz, Ζach, and Tweety. each hit 1,000 reputation points.",
       "url": "",
       "users": [
-        {"uid": "827711", "username": "D3xus"},
-        {"uid": "1992268", "username": "Thornzzz"},
-        {"uid": "1166170", "username": "Ζach"},
-        {"uid": "1234585", "username": "Tweety."}
+        {
+          "uid": "827711",
+          "username": "D3xus"
+        },
+        {
+          "uid": "1992268",
+          "username": "Thornzzz"
+        },
+        {
+          "uid": "1166170",
+          "username": "Ζach"
+        },
+        {
+          "uid": "1234585",
+          "username": "Tweety."
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -51,10 +82,22 @@
       "description": "Tom ツ and ha4x0r were banned. custer and Вreaking Βad were banned for reputation abuse.",
       "url": "",
       "users": [
-        {"uid": "993083", "username": "Tom ツ"},
-        {"uid": "2092054", "username": "ha4x0r"},
-        {"uid": "2716174", "username": "custer"},
-        {"uid": "496501", "username": "Вreaking Βad"}
+        {
+          "uid": "993083",
+          "username": "Tom ツ"
+        },
+        {
+          "uid": "2092054",
+          "username": "ha4x0r"
+        },
+        {
+          "uid": "2716174",
+          "username": "custer"
+        },
+        {
+          "uid": "496501",
+          "username": "Вreaking Βad"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -65,9 +108,18 @@
       "description": "Spyro The Dragon, Rage™, and Magicmann took vacation bans.",
       "url": "",
       "users": [
-        {"uid": "1743726", "username": "Spyro The Dragon"},
-        {"uid": "1183390", "username": "Rage™"},
-        {"uid": "1964831", "username": "Magicmann"}
+        {
+          "uid": "1743726",
+          "username": "Spyro The Dragon"
+        },
+        {
+          "uid": "1183390",
+          "username": "Rage™"
+        },
+        {
+          "uid": "1964831",
+          "username": "Magicmann"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -78,9 +130,18 @@
       "description": "Vinnie, Understalker, and Douchebag # 145 had their accounts closed.",
       "url": "",
       "users": [
-        {"uid": "600771", "username": "Vinnie"},
-        {"uid": "1726101", "username": "Understalker"},
-        {"uid": "524451", "username": "Douchebag # 145"}
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        },
+        {
+          "uid": "1726101",
+          "username": "Understalker"
+        },
+        {
+          "uid": "524451",
+          "username": "Douchebag # 145"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -91,12 +152,30 @@
       "description": "My Dixie Normous, Tom ツ, Vinnie, Douchebag # 145, Baghead, and iloominati were repfucked.",
       "url": "",
       "users": [
-        {"uid": "777179", "username": "My Dixie Normous"},
-        {"uid": "993083", "username": "Tom ツ"},
-        {"uid": "600771", "username": "Vinnie"},
-        {"uid": "524451", "username": "Douchebag # 145"},
-        {"uid": "1108450", "username": "Baghead"},
-        {"uid": "1757970", "username": "iloominati"}
+        {
+          "uid": "777179",
+          "username": "My Dixie Normous"
+        },
+        {
+          "uid": "993083",
+          "username": "Tom ツ"
+        },
+        {
+          "uid": "600771",
+          "username": "Vinnie"
+        },
+        {
+          "uid": "524451",
+          "username": "Douchebag # 145"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead"
+        },
+        {
+          "uid": "1757970",
+          "username": "iloominati"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -107,8 +186,14 @@
       "description": "Salty Bacon donated for the Grand Amethyst award and received the Businessman and Ninja awards. ๖ۣۜAverage received the Silver Medal award.",
       "url": "",
       "users": [
-        {"uid": "1342175", "username": "Salty Bacon"},
-        {"uid": "2329831", "username": "๖ۣۜAverage"}
+        {
+          "uid": "1342175",
+          "username": "Salty Bacon"
+        },
+        {
+          "uid": "2329831",
+          "username": "๖ۣۜAverage"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -119,12 +204,30 @@
       "description": "xflat and Aurа are no longer leaders of The Brotherhood. Icy. is the new owner of Wicked. Salty Bacon is now a leader of Debug and Wicked. The Judge is now a leader of L'appel du vide. Happeh is no longer a leader of L'appel du vide.",
       "url": "",
       "users": [
-        {"uid": "797528", "username": "xflat"},
-        {"uid": "1495835", "username": "Aurа"},
-        {"uid": "1718571", "username": "Icy."},
-        {"uid": "1342175", "username": "Salty Bacon"},
-        {"uid": "1057942", "username": "The Judge"},
-        {"uid": "279955", "username": "Happeh"}
+        {
+          "uid": "797528",
+          "username": "xflat"
+        },
+        {
+          "uid": "1495835",
+          "username": "Aurа"
+        },
+        {
+          "uid": "1718571",
+          "username": "Icy."
+        },
+        {
+          "uid": "1342175",
+          "username": "Salty Bacon"
+        },
+        {
+          "uid": "1057942",
+          "username": "The Judge"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh"
+        }
       ],
       "date": 1438112315,
       "edition": 250
@@ -134,7 +237,12 @@
       "title": "Nominations: July 2015",
       "description": "Nominations for the monthly Member of the Month competition have started for July. Nominate someone now!",
       "url": "http://hackforums.net/showthread.php?tid=4919998",
-      "users": [{"uid": "1320406", "username": "Froggy"}],
+      "users": [
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -143,7 +251,12 @@
       "title": "HF Live - HackForums Community Radio [24/7][Requests][Jobs][Mobile Apps]",
       "description": "A new Hack Forums radio service led by Tony Stark has been launched.",
       "url": "http://hackforums.net/showthread.php?tid=4913426",
-      "users": [{"uid": "506782", "username": "Tony Stark"}],
+      "users": [
+        {
+          "uid": "506782",
+          "username": "Tony Stark"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -152,7 +265,12 @@
       "title": "Find out if you're color blind. I know I am :(",
       "description": "Are you colorblind? Check out this thread to find out and compare your results with other users.",
       "url": "http://hackforums.net/showthread.php?tid=4922025",
-      "users": [{"uid": "1809520", "username": "illuminaughty"}],
+      "users": [
+        {
+          "uid": "1809520",
+          "username": "illuminaughty"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -161,7 +279,12 @@
       "title": "- Hinch's FeedBack Thread - <1 Year - 600+ Rep - History",
       "description": "Hinch gives his feedback regarding Hack Forums.",
       "url": "http://hackforums.net/showthread.php?tid=4917365",
-      "users": [{"uid": "2471116", "username": "Hinch"}],
+      "users": [
+        {
+          "uid": "2471116",
+          "username": "Hinch"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -170,7 +293,12 @@
       "title": "|| Nex's 1 Year+ Feedback Thread || 600+ Rep || 2,000+ Posts || My Story",
       "description": "๖ۣۜNex gives his feedback regarding Hack Forums.",
       "url": "http://hackforums.net/showthread.php?tid=4916053",
-      "users": [{"uid": "2194640", "username": "๖ۣۜNex"}],
+      "users": [
+        {
+          "uid": "2194640",
+          "username": "๖ۣۜNex"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -179,7 +307,12 @@
       "title": "+UB3R/L33T - Upgrading ONE Member for FREE - Wear A Signature Contest",
       "description": "iGnite is hosting a contest in which the winner will receive an upgrade to their account.",
       "url": "http://hackforums.net/showthread.php?tid=4892179",
-      "users": [{"uid": "20073", "username": "iGnite"}],
+      "users": [
+        {
+          "uid": "20073",
+          "username": "iGnite"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -188,7 +321,12 @@
       "title": "Multiple User!!! [Twitter/Instagram/+More]",
       "description": "Abhax is hosting a contest in which the winner will receive a boost in their social media stats.",
       "url": "http://hackforums.net/showthread.php?tid=4923456",
-      "users": [{"uid": "2620119", "username": "Abhax"}],
+      "users": [
+        {
+          "uid": "2620119",
+          "username": "Abhax"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -197,7 +335,12 @@
       "title": "Interview with Sam Winchester",
       "description": "Justin Timberlake interviews Sam Winchester, the newest addition to staff, about his promotion, how he found HF, and his life outside the forum.",
       "url": "https://hackforums.net/showthread.php?pid=47217564",
-      "users": [{"uid": "1570078", "username": "Sam Winchester"}],
+      "users": [
+        {
+          "uid": "1570078",
+          "username": "Sam Winchester"
+        }
+      ],
       "date": 1438112315,
       "edition": 250
     },
@@ -211,51 +354,215 @@
     },
     {
       "category": "news",
-      "title": "Edition 250 Credits",
-      "description": "Wind Waker (1st Editor), iHydra (2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits), Vegas (3rd Editor), Raptor. (4th Editor), ӍeshCollider (5th Editor), Prada (1st Compiler), Jodye (2nd Compiler), Vanill‌a (3rd Compiler), Ren (4th Compiler), Cooligan (Journalist (Headlines)), Odus (Journalist (Headlines)), Cody (Journalist (User News)), 630 (Journalist (User News)), Trust (Journalist (Notable Threads)), Astute (Interviewer), Justin Timberlake (Interviewer), .Sinister (Interviewer), vurezo (Interviewer), Nobility (Journalist (Group News)), Ventures (Journalist (Group News)), Abraham Lincoln (Journalist (Omnicoin News)), Harlem (Journalist (Site News)), Charlemagne (Journalist (Site News)), Thornzzz (Journalist (Opinion Central)), Goodies (Journalist (Hacking News)), Virule (Journalist (Hacking News)), Harbo5 (Journalist (Security News)), -Hyperion (Journalist (Security News)), Premortal (Journalist (Gaming News)), Red Sоx (Journalist (Gaming News)), Аngel (Journalist (Tech News)), Gladly (Journalist (Tech News)), Happeh (Journalist (World News); Breaking News Team (World News)), +One (Breaking News Team (Gaming News)), Abide (Breaking News Team (Tech News)), Designer (Graphical Artist), Rivalry (Art Gallery / Comics / Graphical Artist), Saged' (Reserve Writer), ven0m (Reserve Writer), zer0- (Reserve Writer), -Nas (Task Manager)",
+      "title": "Contributors to this edition.",
+      "description": "",
       "url": "",
       "users": [
-        {"uid": "2173791", "username": "Wind Waker"},
-        {"uid": "561239", "username": "iHydra"},
-        {"uid": "370475", "username": "Vegas"},
-        {"uid": "1453009", "username": "Raptor."},
-        {"uid": "2015410", "username": "ӍeshCollider"},
-        {"uid": "1469364", "username": "Prada"},
-        {"uid": "2038812", "username": "Jodye"},
-        {"uid": "1422600", "username": "Vanill‌a"},
-        {"uid": "1775114", "username": "Ren"},
-        {"uid": "777", "username": "Cooligan"},
-        {"uid": "85546", "username": "Odus"},
-        {"uid": "1172544", "username": "Cody"},
-        {"uid": "797403", "username": "630"},
-        {"uid": "1446355", "username": "Trust"},
-        {"uid": "1014629", "username": "Astute"},
-        {"uid": "1958081", "username": "Justin Timberlake"},
-        {"uid": "2214473", "username": ".Sinister"},
-        {"uid": "1918708", "username": "vurezo"},
-        {"uid": "992067", "username": "Nobility"},
-        {"uid": "1595524", "username": "Ventures"},
-        {"uid": "1256441", "username": "Abraham Lincoln"},
-        {"uid": "1079277", "username": "Harlem"},
-        {"uid": "2585207", "username": "Charlemagne"},
-        {"uid": "1992268", "username": "Thornzzz"},
-        {"uid": "1173142", "username": "Goodies"},
-        {"uid": "2282311", "username": "Virule"},
-        {"uid": "1696750", "username": "Harbo5"},
-        {"uid": "197132", "username": "-Hyperion"},
-        {"uid": "981500", "username": "Premortal"},
-        {"uid": "1864779", "username": "Red Sоx"},
-        {"uid": "1356937", "username": "Аngel"},
-        {"uid": "1730460", "username": "Gladly"},
-        {"uid": "279955", "username": "Happeh"},
-        {"uid": "2231695", "username": "+One"},
-        {"uid": "1698590", "username": "Abide"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "1138866", "username": "Rivalry"},
-        {"uid": "47360", "username": "Saged'"},
-        {"uid": "91531", "username": "ven0m"},
-        {"uid": "46411", "username": "zer0-"},
-        {"uid": "1452196", "username": "-Nas"}
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "1st Editor"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "1469364",
+          "username": "Prada",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2038812",
+          "username": "Jodye",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Vanill‌a",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1775114",
+          "username": "Ren",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1918708",
+          "username": "vurezo",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1595524",
+          "username": "Ventures",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "2585207",
+          "username": "Charlemagne",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1992268",
+          "username": "Thornzzz",
+          "role": "Journalist (Opinion Central)"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "2282311",
+          "username": "Virule",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "981500",
+          "username": "Premortal",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1864779",
+          "username": "Red Sоx",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh",
+          "role": "Journalist (World News); Breaking News Team (World News)"
+        },
+        {
+          "uid": "2231695",
+          "username": "+One",
+          "role": "Breaking News Team (Gaming News)"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide",
+          "role": "Breaking News Team (Tech News)"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "47360",
+          "username": "Saged'",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "91531",
+          "username": "ven0m",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "46411",
+          "username": "zer0-",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas",
+          "role": "Task Manager"
+        }
       ],
       "date": 1438112315,
       "edition": 250
