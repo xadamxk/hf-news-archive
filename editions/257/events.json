@@ -6,7 +6,10 @@
       "description": "All username changes older than six months are now masked from view to all with the exception of Administrators. The username search (Ub3r only) still works on username but not UID.",
       "url": "http://hackforums.net/showthread.php?tid=4981695",
       "users": [
-        {"uid": "1", "username": "Omniscient"}
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -17,7 +20,10 @@
       "description": "Omniscient has taken steps to remove the \"WWW.\" from the Hack Forums domain for SEO purposes.",
       "url": "http://hackforums.net/showthread.php?tid=4988938",
       "users": [
-        {"uid": "1", "username": "Omniscient"}
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -28,7 +34,10 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "1327245", "username": "zSerity"}
+        {
+          "uid": "1327245",
+          "username": "zSerity"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -39,9 +48,18 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "776550", "username": "☠ Skull ☠"},
-        {"uid": "1980205", "username": "Tirus"},
-        {"uid": "2305823", "username": "￼Jordan Belfort"}
+        {
+          "uid": "776550",
+          "username": "☠ Skull ☠"
+        },
+        {
+          "uid": "1980205",
+          "username": "Tirus"
+        },
+        {
+          "uid": "2305823",
+          "username": "￼Jordan Belfort"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -52,11 +70,26 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "1763815", "username": "Syrah"},
-        {"uid": "1513553", "username": "Gary 'Eggsy' Unwin"},
-        {"uid": "1002468", "username": "Alureon"},
-        {"uid": "1117229", "username": "Black Soul"},
-        {"uid": "2403543", "username": "Anodise"}
+        {
+          "uid": "1763815",
+          "username": "Syrah"
+        },
+        {
+          "uid": "1513553",
+          "username": "Gary 'Eggsy' Unwin"
+        },
+        {
+          "uid": "1002468",
+          "username": "Alureon"
+        },
+        {
+          "uid": "1117229",
+          "username": "Black Soul"
+        },
+        {
+          "uid": "2403543",
+          "username": "Anodise"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -67,12 +100,30 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "361543", "username": "Scooter"},
-        {"uid": "856824", "username": "'An0ny"},
-        {"uid": "531250", "username": "Th3PonyWizard"},
-        {"uid": "1018479", "username": "Phaxol"},
-        {"uid": "1264610", "username": "TheGrayAviator"},
-        {"uid": "1832455", "username": "HAX ME IM FAMOUS"}
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        },
+        {
+          "uid": "856824",
+          "username": "'An0ny"
+        },
+        {
+          "uid": "531250",
+          "username": "Th3PonyWizard"
+        },
+        {
+          "uid": "1018479",
+          "username": "Phaxol"
+        },
+        {
+          "uid": "1264610",
+          "username": "TheGrayAviator"
+        },
+        {
+          "uid": "1832455",
+          "username": "HAX ME IM FAMOUS"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -83,14 +134,38 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "776550", "username": "☠ Skull ☠"},
-        {"uid": "1980205", "username": "Tirus"},
-        {"uid": "2305823", "username": "￼Jordan Belfort"},
-        {"uid": "361543", "username": "Scooter"},
-        {"uid": "531250", "username": "Th3PonyWizard"},
-        {"uid": "1018479", "username": "Phaxol"},
-        {"uid": "1264610", "username": "TheGrayAviator"},
-        {"uid": "1832455", "username": "HAX ME IM FAMOUS"}
+        {
+          "uid": "776550",
+          "username": "☠ Skull ☠"
+        },
+        {
+          "uid": "1980205",
+          "username": "Tirus"
+        },
+        {
+          "uid": "2305823",
+          "username": "￼Jordan Belfort"
+        },
+        {
+          "uid": "361543",
+          "username": "Scooter"
+        },
+        {
+          "uid": "531250",
+          "username": "Th3PonyWizard"
+        },
+        {
+          "uid": "1018479",
+          "username": "Phaxol"
+        },
+        {
+          "uid": "1264610",
+          "username": "TheGrayAviator"
+        },
+        {
+          "uid": "1832455",
+          "username": "HAX ME IM FAMOUS"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -101,7 +176,10 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "2015410", "username": "ӍeshCollider"}
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -112,7 +190,10 @@
       "description": "This thread asks the question, \"What would you E-mail to your twelve-year-old self?\" The responses are rather humorous.",
       "url": "http://hackforums.net/showthread.php?tid=4988147",
       "users": [
-        {"uid": "2872213", "username": "Polio"}
+        {
+          "uid": "2872213",
+          "username": "Polio"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -120,10 +201,13 @@
     {
       "category": "threads",
       "title": "| Kik's 1 Year Feedback |",
-      "description": "The user K\u200ei\u200eK gives his feedback regarding Hack Forums in this thread.",
+      "description": "The user K‎i‎K gives his feedback regarding Hack Forums in this thread.",
       "url": "http://hackforums.net/showthread.php?tid=4987690",
       "users": [
-        {"uid": "2425426", "username": "K\u200ei\u200eK"}
+        {
+          "uid": "2425426",
+          "username": "K‎i‎K"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -134,7 +218,10 @@
       "description": "The user Premortal gives his feedback regarding Hack Forums' groups in this thread.",
       "url": "http://hackforums.net/showthread.php?tid=4984618",
       "users": [
-        {"uid": "981500", "username": "Premortal"}
+        {
+          "uid": "981500",
+          "username": "Premortal"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -145,7 +232,10 @@
       "description": "A great and in-depth tutorial regarding building a website.",
       "url": "http://hackforums.net/showthread.php?tid=4951646",
       "users": [
-        {"uid": "2325259", "username": "Nasyr"}
+        {
+          "uid": "2325259",
+          "username": "Nasyr"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -156,7 +246,10 @@
       "description": "A tutorial on how to code Android apps for those interested in learning.",
       "url": "http://hackforums.net/showthread.php?tid=4974477",
       "users": [
-        {"uid": "2015410", "username": "ӍeshCollider"}
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -167,7 +260,10 @@
       "description": "The user Optimized is hosting a contest in which one winner will receive five hundred dollars.",
       "url": "http://hackforums.net/showthread.php?tid=4983786",
       "users": [
-        {"uid": "2250372", "username": "Optimized"}
+        {
+          "uid": "2250372",
+          "username": "Optimized"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -178,9 +274,18 @@
       "description": "Th3PonyWizard is no longer a leader of Null. ๖ۣۜRaymond Reddington is no longer a leader of Divine. Odus is now a leader of Archive.",
       "url": "",
       "users": [
-        {"uid": "531250", "username": "Th3PonyWizard"},
-        {"uid": "2061024", "username": "๖ۣۜRaymond Reddington"},
-        {"uid": "85546", "username": "Odus"}
+        {
+          "uid": "531250",
+          "username": "Th3PonyWizard"
+        },
+        {
+          "uid": "2061024",
+          "username": "๖ۣۜRaymond Reddington"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -196,11 +301,14 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Microrobot.",
+      "title": "Interview with Microrobot conducted by vurezo.",
       "description": "",
       "url": "https://hackforums.net/showthread.php?pid=47862345",
       "users": [
-        {"uid": "1518485", "username": "Microrobot"}
+        {
+          "uid": "1518485",
+          "username": "Microrobot"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -211,7 +319,10 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "2415860", "username": "Hitler_420"}
+        {
+          "uid": "2415860",
+          "username": "Hitler_420"
+        }
       ],
       "date": 1442376677,
       "edition": 257
@@ -222,43 +333,191 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "2173791", "username": "Wind Waker", "role": "1st Editor"},
-        {"uid": "561239", "username": "iHydra", "role": "2nd Editor / HF News Support / Journalist (World News) / Memo / Battlestations / Moment / Credits"},
-        {"uid": "370475", "username": "Vegas", "role": "3rd Editor"},
-        {"uid": "1453009", "username": "Raptor.", "role": "4th Editor"},
-        {"uid": "2015410", "username": "ӍeshCollider", "role": "5th Editor"},
-        {"uid": "1469364", "username": "Prada", "role": "1st Compiler"},
-        {"uid": "2038812", "username": "Jodye", "role": "2nd Compiler"},
-        {"uid": "1422600", "username": "Vanill\u200ca", "role": "3rd Compiler"},
-        {"uid": "1343812", "username": "Realizm", "role": "4th Compiler / Comics"},
-        {"uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)"},
-        {"uid": "85546", "username": "Odus", "role": "Journalist (Headlines)"},
-        {"uid": "1172544", "username": "Cody", "role": "Journalist (User News)"},
-        {"uid": "797403", "username": "630", "role": "Journalist (User News)"},
-        {"uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)"},
-        {"uid": "2214473", "username": ".Sinister", "role": "Interviewer"},
-        {"uid": "1918708", "username": "vurezo", "role": "Interviewer"},
-        {"uid": "992067", "username": "Nobility", "role": "Journalist (Group News)"},
-        {"uid": "1595524", "username": "Ventures", "role": "Journalist (Group News)"},
-        {"uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)"},
-        {"uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)"},
-        {"uid": "2282311", "username": "Ginsum", "role": "Journalist (Hacking News)"},
-        {"uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)"},
-        {"uid": "197132", "username": "-Hyperion", "role": "Journalist (Security News)"},
-        {"uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)"},
-        {"uid": "1864779", "username": "Red S\u043ex", "role": "Journalist (Gaming News)"},
-        {"uid": "1356937", "username": "\u0410ngel", "role": "Journalist (Tech News)"},
-        {"uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)"},
-        {"uid": "279955", "username": "Happeh", "role": "Journalist (World News) / Breaking News Team (World News)"},
-        {"uid": "1775114", "username": "Ren", "role": "Art Gallery / Graphical Artist"},
-        {"uid": "2231695", "username": "+One", "role": "Breaking News Team (Gaming News)"},
-        {"uid": "1698590", "username": "Abide", "role": "Breaking News Team (Tech News)"},
-        {"uid": "1290620", "username": "Designer", "role": "Graphical Artist"},
-        {"uid": "1138866", "username": "Rivalry", "role": "Graphical Artist"},
-        {"uid": "47360", "username": "Saged'", "role": "Reserve Writer"},
-        {"uid": "91531", "username": "ven0m", "role": "Reserve Writer"},
-        {"uid": "46411", "username": "zer0", "role": "Reserve Writer"},
-        {"uid": "1452196", "username": "-Nas", "role": "Task Enforcer"}
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "1st Editor"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "2nd Editor / HF News Support / Journalist (World News) / Memo / Battlestations / Moment / Credits"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "1469364",
+          "username": "Prada",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "2038812",
+          "username": "Jodye",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Vanill‌a",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "1343812",
+          "username": "Realizm",
+          "role": "4th Compiler / Comics"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "1446355",
+          "username": "Trust",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1918708",
+          "username": "vurezo",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1595524",
+          "username": "Ventures",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "2282311",
+          "username": "Ginsum",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "981500",
+          "username": "Premortal",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1864779",
+          "username": "Red Sоx",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "279955",
+          "username": "Happeh",
+          "role": "Journalist (World News) / Breaking News Team (World News)"
+        },
+        {
+          "uid": "1775114",
+          "username": "Ren",
+          "role": "Art Gallery / Graphical Artist"
+        },
+        {
+          "uid": "2231695",
+          "username": "+One",
+          "role": "Breaking News Team (Gaming News)"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide",
+          "role": "Breaking News Team (Tech News)"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "47360",
+          "username": "Saged'",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "91531",
+          "username": "ven0m",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "46411",
+          "username": "zer0",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "1452196",
+          "username": "-Nas",
+          "role": "Task Enforcer"
+        }
       ],
       "date": 1442376677,
       "edition": 257

@@ -6,14 +6,38 @@
       "description": "Ethanium, Lingo, ScreemS reached 1,000 reputation; Goodies reached 2,000 reputation; Regulus hit 10,000 posts; Sam Winchester is now site staff; Teh Afro was reopened; Grammar Rays was reopened and is no longer Ub3r.",
       "url": "",
       "users": [
-        {"uid": "1794077", "username": "Ethanium"},
-        {"uid": "1873561", "username": "Lingo"},
-        {"uid": "1729678", "username": "ScreemS"},
-        {"uid": "1173142", "username": "Goodies"},
-        {"uid": "1680975", "username": "Regulus"},
-        {"uid": "1570078", "username": "Sam Winchester"},
-        {"uid": "860828", "username": "Teh Afro"},
-        {"uid": "298746", "username": "Grammar Rays"}
+        {
+          "uid": "1794077",
+          "username": "Ethanium"
+        },
+        {
+          "uid": "1873561",
+          "username": "Lingo"
+        },
+        {
+          "uid": "1729678",
+          "username": "ScreemS"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies"
+        },
+        {
+          "uid": "1680975",
+          "username": "Regulus"
+        },
+        {
+          "uid": "1570078",
+          "username": "Sam Winchester"
+        },
+        {
+          "uid": "860828",
+          "username": "Teh Afro"
+        },
+        {
+          "uid": "298746",
+          "username": "Grammar Rays"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -24,8 +48,14 @@
       "description": "HarryHoudini was banned; Emily Blunt was banned.",
       "url": "",
       "users": [
-        {"uid": "1859589", "username": "HarryHoudini"},
-        {"uid": "471011", "username": "Emily Blunt"}
+        {
+          "uid": "1859589",
+          "username": "HarryHoudini"
+        },
+        {
+          "uid": "471011",
+          "username": "Emily Blunt"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -36,14 +66,38 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "2031636", "username": "Ahri"},
-        {"uid": "1595524", "username": "Ventures"},
-        {"uid": "2572841", "username": "Flaw'"},
-        {"uid": "654017", "username": "Infinite"},
-        {"uid": "2072010", "username": "thanks for all the fish"},
-        {"uid": "990284", "username": "DONTDEALWITH"},
-        {"uid": "1290620", "username": "Designer"},
-        {"uid": "2540775", "username": "๖ۣۜCyber"}
+        {
+          "uid": "2031636",
+          "username": "Ahri"
+        },
+        {
+          "uid": "1595524",
+          "username": "Ventures"
+        },
+        {
+          "uid": "2572841",
+          "username": "Flaw'"
+        },
+        {
+          "uid": "654017",
+          "username": "Infinite"
+        },
+        {
+          "uid": "2072010",
+          "username": "thanks for all the fish"
+        },
+        {
+          "uid": "990284",
+          "username": "DONTDEALWITH"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer"
+        },
+        {
+          "uid": "2540775",
+          "username": "๖ۣۜCyber"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -54,8 +108,14 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "756096", "username": "Noscope"},
-        {"uid": "610356", "username": "Wires"}
+        {
+          "uid": "756096",
+          "username": "Noscope"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -66,9 +126,18 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "610356", "username": "Wires"},
-        {"uid": "1859589", "username": "HarryHoudini"},
-        {"uid": "471011", "username": "Emily Blunt"}
+        {
+          "uid": "610356",
+          "username": "Wires"
+        },
+        {
+          "uid": "1859589",
+          "username": "HarryHoudini"
+        },
+        {
+          "uid": "471011",
+          "username": "Emily Blunt"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -79,7 +148,10 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "1700311", "username": "Proxseas"}
+        {
+          "uid": "1700311",
+          "username": "Proxseas"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -90,7 +162,10 @@
       "description": "The member of the month poll for September 2015 is up. Who are you voting for? Let us know in the comments!",
       "url": "http://hackforums.net/showthread.php?tid=5009713",
       "users": [
-        {"uid": "1320406", "username": "Froggy"}
+        {
+          "uid": "1320406",
+          "username": "Froggy"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -101,7 +176,10 @@
       "description": "Grievous has a balance of $1,000 on Amazon and is searching for products to buy.",
       "url": "http://hackforums.net/showthread.php?tid=5010083",
       "users": [
-        {"uid": "1754121", "username": "Grievous"}
+        {
+          "uid": "1754121",
+          "username": "Grievous"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -112,7 +190,10 @@
       "description": "Gigi Hadid tells us a story of his first time attempting to pick a girl up.",
       "url": "http://hackforums.net/showthread.php?tid=5010339",
       "users": [
-        {"uid": "1221196", "username": "Gigi Hadid"}
+        {
+          "uid": "1221196",
+          "username": "Gigi Hadid"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -123,7 +204,10 @@
       "description": "Rivalry has been on Hack Forums for nearly 4 years and is providing us with a very detailed feedback thread.",
       "url": "http://hackforums.net/showthread.php?tid=4987580",
       "users": [
-        {"uid": "1138866", "username": "Rivalry"}
+        {
+          "uid": "1138866",
+          "username": "Rivalry"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -134,7 +218,10 @@
       "description": "Swagalicious is upgrading one member to either l33t or ub3r depending on their current upgrade status.",
       "url": "http://hackforums.net/showthread.php?tid=5009668",
       "users": [
-        {"uid": "2514700", "username": "Swagalicious"}
+        {
+          "uid": "2514700",
+          "username": "Swagalicious"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -145,7 +232,10 @@
       "description": "The member ' ρяσgяαммєя™ is sharing his weight loss progress with us.",
       "url": "http://hackforums.net/showthread.php?tid=4990816",
       "users": [
-        {"uid": "2004660", "username": "' \u0440\u044f\u03c3g\u0440\u0430\u043c\u043c\u0454\u0440\u2122"}
+        {
+          "uid": "2004660",
+          "username": "' ряσgраммєр™"
+        }
       ],
       "date": 1444275605,
       "edition": 260
@@ -161,11 +251,14 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Drizzy.",
+      "title": "Interview with Drizzy conducted by .Sinister.",
       "description": "",
       "url": "https://hackforums.net/showthread.php?pid=48116638",
       "users": [
-        {"uid": "1480445", "username": "Drizzy"}
+        {
+          "uid": "1480445",
+          "username": "Drizzy"
+        }
       ],
       "date": 1444275605,
       "edition": 260

@@ -6,7 +6,10 @@
       "description": "Over the course of six hours, Hack Forums was transferred to a new server running the latest MyBB 1.8x, which brings a revised search function and many other updates. Plugins and features may have broken due to the upgrade.",
       "url": "http://hackforums.net/showthread.php?tid=5027774",
       "users": [
-        {"uid": "1", "username": "Omniscient"}
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1445397035,
       "edition": 262
@@ -17,7 +20,10 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "1871491", "username": "Illuminati"}
+        {
+          "uid": "1871491",
+          "username": "Illuminati"
+        }
       ],
       "date": 1445397035,
       "edition": 262
@@ -28,9 +34,18 @@
       "description": "Rico Suave was banned for ban evasion.",
       "url": "",
       "users": [
-        {"uid": "1057942", "username": "The Judge"},
-        {"uid": "1474419", "username": "futana"},
-        {"uid": "2240415", "username": "Rico Suave"}
+        {
+          "uid": "1057942",
+          "username": "The Judge"
+        },
+        {
+          "uid": "1474419",
+          "username": "futana"
+        },
+        {
+          "uid": "2240415",
+          "username": "Rico Suave"
+        }
       ],
       "date": 1445397035,
       "edition": 262
@@ -41,13 +56,34 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "1848707", "username": "Pulse\u200e"},
-        {"uid": "1007865", "username": "Rihsky"},
-        {"uid": "569605", "username": "Intrepid\u2122"},
-        {"uid": "681713", "username": "DaFreak"},
-        {"uid": "2342145", "username": "xRamsey"},
-        {"uid": "1391726", "username": "Mastery"},
-        {"uid": "2240415", "username": "Rico Suave"}
+        {
+          "uid": "1848707",
+          "username": "Pulse‎"
+        },
+        {
+          "uid": "1007865",
+          "username": "Rihsky"
+        },
+        {
+          "uid": "569605",
+          "username": "Intrepid™"
+        },
+        {
+          "uid": "681713",
+          "username": "DaFreak"
+        },
+        {
+          "uid": "2342145",
+          "username": "xRamsey"
+        },
+        {
+          "uid": "1391726",
+          "username": "Mastery"
+        },
+        {
+          "uid": "2240415",
+          "username": "Rico Suave"
+        }
       ],
       "date": 1445397035,
       "edition": 262
@@ -58,7 +94,10 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "2005733", "username": "dye."}
+        {
+          "uid": "2005733",
+          "username": "dye."
+        }
       ],
       "date": 1445397035,
       "edition": 262
@@ -69,10 +108,22 @@
       "description": "",
       "url": "",
       "users": [
-        {"uid": "1896058", "username": "XR8ED"},
-        {"uid": "1057942", "username": "The Judge"},
-        {"uid": "1474419", "username": "futana"},
-        {"uid": "2005733", "username": "dye."}
+        {
+          "uid": "1896058",
+          "username": "XR8ED"
+        },
+        {
+          "uid": "1057942",
+          "username": "The Judge"
+        },
+        {
+          "uid": "1474419",
+          "username": "futana"
+        },
+        {
+          "uid": "2005733",
+          "username": "dye."
+        }
       ],
       "date": 1445397035,
       "edition": 262
@@ -83,23 +134,44 @@
       "description": "KillαMuvz received Sticky Man, Benefactor, and Brony; ӍeshCollider won Benefactor; ๖ۣۜNuski received Sticky Man; Orgy received 24K; DamienVC is a Master Donator; ๖ۣۜNex is a Businessman.",
       "url": "",
       "users": [
-        {"uid": "579898", "username": "Kill\u03b1Muvz"},
-        {"uid": "2015410", "username": "ӍeshCollider"},
-        {"uid": "2213423", "username": "๖ۣۜNuski"},
-        {"uid": "182754", "username": "Orgy"},
-        {"uid": "2334861", "username": "DamienVC"},
-        {"uid": "2194640", "username": "๖ۣۜNex"}
+        {
+          "uid": "579898",
+          "username": "KillαMuvz"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider"
+        },
+        {
+          "uid": "2213423",
+          "username": "๖ۣۜNuski"
+        },
+        {
+          "uid": "182754",
+          "username": "Orgy"
+        },
+        {
+          "uid": "2334861",
+          "username": "DamienVC"
+        },
+        {
+          "uid": "2194640",
+          "username": "๖ۣۜNex"
+        }
       ],
       "date": 1445397035,
       "edition": 262
     },
     {
       "category": "interviews",
-      "title": "Interview with DaFreak.",
+      "title": "Interview with DaFreak conducted by ȺʁɱªÐą.",
       "description": "",
       "url": "https://hackforums.net/showthread.php?pid=48267358",
       "users": [
-        {"uid": "681713", "username": "DaFreak"}
+        {
+          "uid": "681713",
+          "username": "DaFreak"
+        }
       ],
       "date": 1445397035,
       "edition": 262
