@@ -1,0 +1,338 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Omniscient added refund services to the Disallowed Blackhat Activity list",
+      "description": "Refund services were explicitly added to the DBA list on January 21st to remove ambiguity, though Omniscient noted this is not a new rule as it falls under financial fraud.",
+      "url": "http://hackforums.net/showthread.php?tid=4647863",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "site",
+      "title": "January 2015 MOTM nominations opened; December contest saw Cyph Jr and Tweety. disqualified for poll manipulation",
+      "description": "The MOTM nomination thread for January 2015 was opened. The previous contest ended on a sour note when both Cyph Jr and Tweety. were disqualified for unfairly tipping the poll in their respective favors.",
+      "url": "http://hackforums.net/showthread.php?tid=4650647",
+      "users": [
+        { "uid": "1320406", "username": "Froggy" },
+        { "uid": "1659032", "username": "Cyph Jr" },
+        { "uid": "1234585", "username": "Tweety." }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "site",
+      "title": "Omniscient requested members prune closed accounts from Buddy/Ignore lists and announced future hard limits",
+      "description": "On January 23rd, 2015, Omniscient asked members to remove closed accounts from their lists and announced plans to eventually enforce hard limits on list sizes.",
+      "url": "http://hackforums.net/showthread.php?tid=4651180",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "site",
+      "title": "Omniscient flagged that over 60% of the 13,371,337 OMC cap had already been mined in just over a year",
+      "description": "On January 22nd, Omniscient expressed disappointment that the OMC supply was being mined far faster than planned and noted he has yet to profit from the project, spending money on it monthly.",
+      "url": "http://hackforums.net/showthread.php?tid=4649973",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "ItsFluffy, Clique, and Τrust hit 1,000 reputation.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1001954", "username": "ItsFluffy" },
+        { "uid": "1148878", "username": "Clique" },
+        { "uid": "1446355", "username": "Τrust" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "Vinnie and Viral Dragon hit 1,000 prestige.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "600771", "username": "Vinnie" },
+        { "uid": "23809", "username": "Viral Dragon" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "Roger Waters hit 20,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1093501", "username": "Roger Waters" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "Understalker, nonAツ, Joshh, 420 Blaze It, and Cynical. were banned.",
+      "description": "Understalker for reputation abuse; nonAツ for leaking; Joshh for trolling; 420 Blaze It for repfuck complaining.",
+      "url": "",
+      "users": [
+        { "uid": "1726101", "username": "Understalker" },
+        { "uid": "961289", "username": "nonAツ" },
+        { "uid": "249711", "username": "Joshh" },
+        { "uid": "1452953", "username": "420 Blaze It" },
+        { "uid": "180711", "username": "Cynical." }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "Clark, Not Baghead, +Haze, Vent, Abide, Bricklayer, Mapl3, and Racutt took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1653635", "username": "Clark" },
+        { "uid": "1108450", "username": "Not Baghead" },
+        { "uid": "1482070", "username": "+Haze" },
+        { "uid": "1331828", "username": "Vent" },
+        { "uid": "1698590", "username": "Abide" },
+        { "uid": "2288976", "username": "Bricklayer" },
+        { "uid": "2192405", "username": "Mapl3" },
+        { "uid": "1091100", "username": "Racutt" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "Kansas, +Wolf, Joshh, and 420 Blaze It were repfucked.",
+      "description": "Kansas for gangrepping.",
+      "url": "",
+      "users": [
+        { "uid": "1812197", "username": "Kansas" },
+        { "uid": "2423635", "username": "+Wolf" },
+        { "uid": "249711", "username": "Joshh" },
+        { "uid": "1452953", "username": "420 Blaze It" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Hatred. conducted by .Sinister",
+      "description": "Hatred. discussed discovering HF in 2013 through a Flashplayer game hacking group, joining Sanctum (an unofficial group focused on web forensics, networking, and SQL injection), receiving a 100% warning level from a BTC giveaway incident, and running the 60m, 100m, and 200m dash on his school track team.",
+      "url": "https://hackforums.net/showthread.php?pid=44532816",
+      "users": [
+        { "uid": "1957866", "username": "Hatred." }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "groups",
+      "title": "Evangelist added as leader of Phoenix; Aura removed from Brotherhood leadership; Froggy removed from Titans leadership",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1374951", "username": "Evangelist" },
+        { "uid": "1495835", "username": "Aura" },
+        { "uid": "1320406", "username": "Froggy" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "groups",
+      "title": "Polymath listed for sale (End of an Era; BIN $7,500 BTC/WU)",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4573409",
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "groups",
+      "title": "The Revolution renting leadership spots",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4623915",
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "Omnicoin Android Wallet Released",
+      "description": "The app supports decentralized transactions, QR code scanning, NFC/Bluetooth sending, an address book, notifications, and a balance widget.",
+      "url": "http://hackforums.net/showthread.php?tid=4649813",
+      "users": [
+        { "uid": "2015410", "username": "ӍeshCollider" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "(The Alliance) Mega Security Guide",
+      "description": "An older thread recently updated for the first time in over a year.",
+      "url": "http://hackforums.net/showthread.php?tid=3044038",
+      "users": [
+        { "uid": "8383", "username": "Wafflemonger" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "Best Things Made By HF Members",
+      "description": "A thread compiling notable creations by Hack Forums users over the years.",
+      "url": "http://hackforums.net/showthread.php?tid=4647101",
+      "users": [
+        { "uid": "2436938", "username": "Scymo" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "How it feels to be Admin on HF.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4646271",
+      "users": [
+        { "uid": "103669", "username": "Factor8™" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "If you could teleport by blinking your eyes, where would you go right now?",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4649828",
+      "users": [
+        { "uid": "1423220", "username": "Ekmete" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "[Zero] $1000 Giveaway",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4651015",
+      "users": [
+        { "uid": "1763815", "username": "Syrah" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "Giving LTC Award to few members",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4650120",
+      "users": [
+        { "uid": "2465885", "username": "DeniroKings" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "CURE FOR ALZHEIMERS FOUND!",
+      "description": "Linked to a recent study potentially key in finding a cure for Alzheimer's.",
+      "url": "http://hackforums.net/showthread.php?tid=4636940",
+      "users": [
+        { "uid": "2286744", "username": "Bαng" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "Favourite Series on Netflix?",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4649076",
+      "users": [
+        { "uid": "1953124", "username": "Passionist" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "threads",
+      "title": "Stop burst mining",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4650051",
+      "users": [
+        { "uid": "1256441", "username": "Abraham Lincoln" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Panik's setup was featured.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "96230", "username": "Panik" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "515249", "username": "Sir", "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits" },
+        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
+        { "uid": "96230", "username": "Panik", "role": "2nd Editor" },
+        { "uid": "1453009", "username": "Raptor.", "role": "3rd Editor" },
+        { "uid": "2015410", "username": "ӍeshCollider", "role": "4th Editor" },
+        { "uid": "370475", "username": "Vegas", "role": "5th Editor" },
+        { "uid": "44755", "username": "Snorlax'", "role": "1st Compiler" },
+        { "uid": "127962", "username": "Slankey™", "role": "2nd Compiler" },
+        { "uid": "1422600", "username": "Fox™", "role": "3rd Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "1860651", "username": "Coppersan", "role": "Journalist (Headlines)" },
+        { "uid": "1108450", "username": "Baghead", "role": "Journalist (Podcast)" },
+        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "1653635", "username": "Clark", "role": "Interviewer" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
+        { "uid": "827711", "username": "D3xus", "role": "Journalist (Group News)" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
+        { "uid": "1469364", "username": "Prada‌", "role": "Journalist (Site News)" },
+        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "Greed.", "role": "Graphical Artist" },
+        { "uid": "1944390", "username": "Skylar™", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Archon Sin", "role": "Reserve Writer" },
+        { "uid": "524451", "username": "Yellows", "role": "Task Manager" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1422335555,
+      "edition": 224
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "A Message on Dealing with Scammers",
+      "description": "Omniscient posted an announcement clarifying that he does take action against scammers by banning them, but does not participate in deal disputes or intervene on behalf of individual members.",
+      "url": "http://hackforums.net/showthread.php?tid=5189247",
+      "users": [],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "site",
+      "title": "Banned Members Reputation Removal Requests Denied",
+      "description": "Omniscient informed the community that he will not remove negative reputation received from banned members.",
+      "url": "http://hackforums.net/showthread.php?tid=5181408",
+      "users": [],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "groups",
+      "title": "DARK rebranded to The Order; new leadership",
+      "description": "Krave (uid=1165241) rebranded DARK into The Order, focusing on General Discussion and Gambling. Narrate (uid=1573931) is now a leader of The Order. Regulus (uid=1680975) is now a leader of The Order.",
+      "url": "http://hackforums.net/showthread.php?tid=5187018",
+      "users": [],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "groups",
+      "title": "Group sales",
+      "description": "Null is on sale. Black Lodge Leadership is for sale. Eternal Leaderships are available for $150.",
+      "url": "",
+      "users": [],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "users",
+      "title": "Reputation and post milestones",
+      "description": "Fox™ (uid=1422600) reached 10,000 posts again. Krew (uid=792136) reached 10,000 posts again. Minimalist (uid=1915596) reached 1,000 positive reputation. Banana :D (uid=2223791) reached 1,000 positive reputation. Orgy (uid=182754) reached 1,000 positive reputation.",
+      "url": "",
+      "users": [
+        {"uid": "1422600", "username": "Fox™"},
+        {"uid": "792136", "username": "Krew"},
+        {"uid": "1915596", "username": "Minimalist"},
+        {"uid": "2223791", "username": "Banana :D"},
+        {"uid": "182754", "username": "Orgy"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "users",
+      "title": "Bans",
+      "description": "Llama™ (uid=2969015) was banned, pending closure. Balding (uid=2802817) was banned. ๖ۣۜN (uid=552799) was banned.",
+      "url": "",
+      "users": [
+        {"uid": "2969015", "username": "Llama™"},
+        {"uid": "2802817", "username": "Balding"},
+        {"uid": "552799", "username": "๖ۣۜN"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "Prophet Banana (uid=769614) has taken a vacation. Realizm (uid=1343812) has taken a vacation. Greybeard (uid=393754) has taken a vacation.",
+      "url": "",
+      "users": [
+        {"uid": "769614", "username": "Prophet Banana"},
+        {"uid": "1343812", "username": "Realizm"},
+        {"uid": "393754", "username": "Greybeard"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "users",
+      "title": "Account closures",
+      "description": "Soulmate (uid=837416) was closed. KillαMuvz (uid=579898) was closed per his request. garrit1222 (uid=427892) was closed.",
+      "url": "",
+      "users": [
+        {"uid": "837416", "username": "Soulmate"},
+        {"uid": "579898", "username": "KillαMuvz"},
+        {"uid": "427892", "username": "garrit1222"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "users",
+      "title": "Reputation kills",
+      "description": "ohCOUP (uid=2397679) was Rep Killed. Spyro The Dragon (uid=1743726) was Rep Killed. ๖ۣۜN (uid=552799) was Rep Killed. Soulmate (uid=837416) was Rep Killed. garrit1222 (uid=427892) was Rep Killed.",
+      "url": "",
+      "users": [
+        {"uid": "2397679", "username": "ohCOUP"},
+        {"uid": "1743726", "username": "Spyro The Dragon"},
+        {"uid": "552799", "username": "๖ۣۜN"},
+        {"uid": "837416", "username": "Soulmate"},
+        {"uid": "427892", "username": "garrit1222"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "Taranis (uid=2038822) donated for Grand Amethyst and subsequently received Black Hatter and The Alien. ๖ۣۜInfamy (uid=1843672) donated for Bitcoinage and received Hot Dog.",
+      "url": "",
+      "users": [
+        {"uid": "2038822", "username": "Taranis"},
+        {"uid": "1843672", "username": "๖ۣۜInfamy"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "[Tutorial] The Ultimate HTML Guide, Including a Large Section on CSS",
+      "description": "RenRioku™ has created a comprehensive guide on the basics of HTML and CSS.",
+      "url": "http://hackforums.net/showthread.php?tid=5192554",
+      "users": [
+        {"uid": "1041725", "username": "RenRioku™"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "How to Secure a Server / VPS | Beginner Friendly",
+      "description": "Cryptic™ created a tutorial with six methods to improve the security of a server or VPS.",
+      "url": "http://hackforums.net/showthread.php?tid=5189229",
+      "users": [
+        {"uid": "716331", "username": "Cryptic™"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "Malwar.io | Agar.io Private Server | INGAME CHAT WITH PUBLIC/PRIVATE CHANNELS! (IRC)",
+      "description": "Wardow created a private Agar.io server with an in-game chat featuring public and private IRC channels.",
+      "url": "http://hackforums.net/showthread.php?tid=5192736",
+      "users": [
+        {"uid": "1810243", "username": "Wardow"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "\"Hacked by\"",
+      "description": "Mr. Robot challenges users to find the best deface page.",
+      "url": "http://hackforums.net/showthread.php?tid=5192855",
+      "users": [
+        {"uid": "2682887", "username": "Mr. Robot"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "Why do people like these stupid shoes?",
+      "description": "Oliver Sykes asks the community why people like Kanye West's Yeezys.",
+      "url": "http://hackforums.net/showthread.php?tid=5192656",
+      "users": [
+        {"uid": "2290236", "username": "Oliver Sykes"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "$75 Giveaway | BTC [All Members]",
+      "description": "gunpowder is hosting a giveaway of $75 in BTC, open to all members.",
+      "url": "http://hackforums.net/showthread.php?tid=5190696",
+      "users": [
+        {"uid": "2948611", "username": "gunpowder"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "[SPECIALISTS] OG INSTAGRAM GIVEAWAY",
+      "description": "-Crusade- is hosting a contest to win an OG Instagram account.",
+      "url": "http://hackforums.net/showthread.php?tid=5191430",
+      "users": [
+        {"uid": "3015892", "username": "-Crusade-"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "Nostalgia, groups, activity, and the reality of leaving hackforums",
+      "description": "Soulmate goes in-depth on what he thinks of Hack Forums now compared to what it was in the past.",
+      "url": "http://hackforums.net/showthread.php?tid=5190208",
+      "users": [
+        {"uid": "837416", "username": "Soulmate"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "Time to say goodbye",
+      "description": "KillαMuvz says his farewell to Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5190956",
+      "users": [
+        {"uid": "579898", "username": "KillαMuvz"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "threads",
+      "title": "Former first lady Nancy Reagan dies at 94",
+      "description": "Walt Disney™ created a thread sharing articles about the passing of former first lady Nancy Reagan.",
+      "url": "http://hackforums.net/showthread.php?tid=5194413",
+      "users": [
+        {"uid": "1450348", "username": "Walt Disney™"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Silicon Valley",
+      "description": "Enterpriser interviews Silicon Valley about his hackforums.co email service, upcoming projects, and thoughts on HF.",
+      "url": "https://hackforums.net/showthread.php?pid=50111383",
+      "users": [
+        {"uid": "2969158", "username": "Silicon Valley"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    },
+    {
+      "category": "news",
+      "title": "Edition 282 credits",
+      "description": "MeshCollider: Scholar; Raptor.: Scholar; Queenie: Scholar; Wires: Scholar; Cooligan: Journalist (Headlines); illuminati▲: Journalist (User News); Grievous: Journalist (Notable Threads); .Sinister: Interviewer; Armada: Interviewer; illuminati▲: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; Nobility: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Harbo5: Journalist (Security News); Limit.: Journalist (Gaming News); Buffy Summers: Journalist (Gaming News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Phreakdaline: Journalist (World News); Astute: Journalist (World News); Wires: Comics; Designer: Graphical Artist; Wires: On-Call Team; King Cin: On-Call Team; Red Sоx: On-Call Team; -Hyperion: On-Call Team; Odus: On-Call Team; Ariana: On-Call Team; Froggy: Supervisor",
+      "url": "",
+      "users": [
+        {"uid": "2015410", "username": "MeshCollider"},
+        {"uid": "1453009", "username": "Raptor."},
+        {"uid": "2504443", "username": "Queenie"},
+        {"uid": "610356", "username": "Wires"},
+        {"uid": "777", "username": "Cooligan"},
+        {"uid": "525019", "username": "illuminati▲"},
+        {"uid": "1754121", "username": "Grievous"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "952566", "username": "Armada"},
+        {"uid": "1957866", "username": "Enterpriser"},
+        {"uid": "1148878", "username": "Clique"},
+        {"uid": "992067", "username": "Nobility"},
+        {"uid": "2577525", "username": "Hash G."},
+        {"uid": "1422600", "username": "Fox™"},
+        {"uid": "1696750", "username": "Harbo5"},
+        {"uid": "2384610", "username": "Limit."},
+        {"uid": "2364291", "username": "Buffy Summers"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "1352632", "username": "Phreakdaline"},
+        {"uid": "1014629", "username": "Astute"},
+        {"uid": "1290620", "username": "Designer"},
+        {"uid": "1221196", "username": "King Cin"},
+        {"uid": "1864779", "username": "Red Sоx"},
+        {"uid": "197132", "username": "-Hyperion"},
+        {"uid": "85546", "username": "Odus"},
+        {"uid": "692131", "username": "Ariana"},
+        {"uid": "1320406", "username": "Froggy"}
+      ],
+      "date": 1457495827,
+      "edition": 282
+    }
+  ]
+}

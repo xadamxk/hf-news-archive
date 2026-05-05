@@ -1,0 +1,216 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "title": "Staff changes",
+      "description": "RDCA was demoted to Mentor. Paradoxum was demoted but quickly reinstated. Emylbus and Wolves were removed from their positions for inactivity.",
+      "url": "",
+      "users": [
+        {"uid": "580684", "username": "RDCA"},
+        {"uid": "70881", "username": "Paradoxum"},
+        {"uid": "956054", "username": "Emylbus"},
+        {"uid": "651051", "username": "Wolves"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "groups",
+      "title": "OMC Group Auction closes; Royalty formed",
+      "description": "Cibor won the official Omnicoin group auction with a bid of 2,800,000 OMC (~$10,000 USD), beating out Connected and other bidders. The new group is expected to be named Royalty.",
+      "url": "http://hackforums.net/showthread.php?tid=4892502",
+      "users": [{"uid": "1866420", "username": "Cibor"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "groups",
+      "title": "Leadership change in Crypto",
+      "description": "Business was added as a leader of Crypto.",
+      "url": "",
+      "users": [{"uid": "1705027", "username": "Business"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "users",
+      "title": "Reputation milestones",
+      "description": "phybeя reached 3,000 positive reputation. Neat reached 2,000 positive reputation. Λaron, Royal !, and Exchange.(services) each reached 1,000 positive reputation.",
+      "url": "",
+      "users": [
+        {"uid": "195796", "username": "phybeя"},
+        {"uid": "1621500", "username": "Neat"},
+        {"uid": "2072010", "username": "Λaron"},
+        {"uid": "577996", "username": "Royal !"},
+        {"uid": "1870577", "username": "Exchange.(services)"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "users",
+      "title": "Bans",
+      "description": "jooglord was banned for trolling.",
+      "url": "",
+      "users": [
+        {"uid": "2359693", "username": "jooglord"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "NeoCode, Chucky | Wanna Play?, Βeta, Radiant Harmony, and The Dragon of the West took vacation bans.",
+      "url": "",
+      "users": [
+        {"uid": "1884283", "username": "NeoCode"},
+        {"uid": "2501920", "username": "Chucky | Wanna Play?"},
+        {"uid": "2154826", "username": "Βeta"},
+        {"uid": "1161614", "username": "Radiant Harmony"},
+        {"uid": "2286383", "username": "The Dragon of the West"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "users",
+      "title": "Repfucks",
+      "description": "Th3PonyWizard, The Judge, Walt Disney™, jooglord, and Hundo were repfucked.",
+      "url": "",
+      "users": [
+        {"uid": "531250", "username": "Th3PonyWizard"},
+        {"uid": "1057942", "username": "The Judge"},
+        {"uid": "1450348", "username": "Walt Disney™"},
+        {"uid": "2359693", "username": "jooglord"},
+        {"uid": "2163589", "username": "Hundo"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "DoctorSheep received the Businessman award. Cibor received the Grand Amethyst award. Tommy received the Royalty award.",
+      "url": "",
+      "users": [
+        {"uid": "1844751", "username": "DoctorSheep"},
+        {"uid": "1866420", "username": "Cibor"},
+        {"uid": "2529154", "username": "Tommy"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "threads",
+      "title": "Upgrade Problem",
+      "description": "Omniscient announced that Instant Payment Notification from Coinpayments is currently not working. This is only directly related to Coinpayments.",
+      "url": "http://hackforums.net/showthread.php?tid=4896074",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "threads",
+      "title": "Favorite Pizza Topping?",
+      "description": "A Hack Forums member implores the community to share their favorite pizza toppings.",
+      "url": "http://hackforums.net/showthread.php?tid=4896311",
+      "users": [{"uid": "2613410", "username": "Truthslayur"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "threads",
+      "title": "WOW - GROUP LEADER - DRAMA - 4 YEARS - LOVE, LAUGHTER AND LIFE - FEEDBACK",
+      "description": "Haydrazs gives an account of his time and experiences on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4887980",
+      "users": [{"uid": "892404", "username": "Haydrazs"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "threads",
+      "title": "L33T Contest! (2 UPGRADES) CONTEST ENDS JULY 8th",
+      "description": "Salty Bacon offers a chance to become L33T to members who fit the given requirements.",
+      "url": "http://hackforums.net/showthread.php?tid=4890555",
+      "users": [{"uid": "1342175", "username": "Salty Bacon"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "threads",
+      "title": "[Request] Group Userbar - Royalty - $150",
+      "description": "Look here to see some of the attempts at a userbar for the upcoming official group Royalty.",
+      "url": "http://hackforums.net/showthread.php?tid=4892986",
+      "users": [{"uid": "1866420", "username": "Cibor"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Buzz Lightyear",
+      "description": ".Sinister interviews Buzz Lightyear about his history on HF, graphic design, group experiences, and college life.",
+      "url": "https://hackforums.net/showthread.php?pid=46907326",
+      "users": [{"uid": "204984", "username": "Buzz Lightyear"}],
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: airpaws's setup was featured.",
+      "description": "airpaws's battlestation was featured this week.",
+      "url": "https://imgur.com/a/LSz6o",
+      "date": 1436241680,
+      "edition": 247
+    },
+    {
+      "category": "news",
+      "title": "Edition 247 Credits",
+      "description": "Wind Waker (1st Editor), iHydra (2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits), Vegas (3rd Editor), Raptor. (4th Editor), ӍeshCollider (5th Editor), Prada (1st Compiler), Apostle (2nd Compiler), Vanill‌a (3rd Compiler, 4th Compiler), Cooligan (Journalist (Headlines)), Odus (Journalist (Headlines)), Cody (Journalist (User News)), 630 (Journalist (User News)), Trust (Journalist (Notable Threads)), Clique (Interviewer), .Sinister (Interviewer), Justin Timberlake (Interviewer), Astute (Interviewer), Nobility (Journalist (Group News)), Ventures (Journalist (Group News)), Abraham Lincoln (Journalist (Omnicoin News)), Harlem (Journalist (Site News)), Charlemagne (Journalist (Site News)), Thornzzz (Journalist (Opinion Central)), Goodies (Journalist (Hacking News)), Virule (Journalist (Hacking News)), Harbo5 (Journalist (Security News)), Premortal (Journalist (Gaming News)), Red Sоx (Journalist (Gaming News)), Аngel (Journalist (Tech News)), Gladly (Journalist (Tech News)), Happeh (Journalist (World News); Breaking News Team (World News)), +One (Breaking News Team (Gaming News)), Abide (Breaking News Team (Tech News)), Designer (Graphical Artist), Rivalry (Art Gallery / Comics / Graphical Artist), Saged' (Reserve Writer), ven0m (Reserve Writer), zer0- (Reserve Writer), -Nas (Task Manager)",
+      "url": "",
+      "users": [
+        {"uid": "2173791", "username": "Wind Waker"},
+        {"uid": "561239", "username": "iHydra"},
+        {"uid": "370475", "username": "Vegas"},
+        {"uid": "1453009", "username": "Raptor."},
+        {"uid": "2015410", "username": "ӍeshCollider"},
+        {"uid": "1469364", "username": "Prada"},
+        {"uid": "1544384", "username": "Apostle"},
+        {"uid": "1422600", "username": "Vanill‌a"},
+        {"uid": "777", "username": "Cooligan"},
+        {"uid": "85546", "username": "Odus"},
+        {"uid": "1172544", "username": "Cody"},
+        {"uid": "797403", "username": "630"},
+        {"uid": "1446355", "username": "Trust"},
+        {"uid": "1148878", "username": "Clique"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "1958081", "username": "Justin Timberlake"},
+        {"uid": "1014629", "username": "Astute"},
+        {"uid": "992067", "username": "Nobility"},
+        {"uid": "1595524", "username": "Ventures"},
+        {"uid": "1256441", "username": "Abraham Lincoln"},
+        {"uid": "1079277", "username": "Harlem"},
+        {"uid": "2585207", "username": "Charlemagne"},
+        {"uid": "1992268", "username": "Thornzzz"},
+        {"uid": "1173142", "username": "Goodies"},
+        {"uid": "2282311", "username": "Virule"},
+        {"uid": "1696750", "username": "Harbo5"},
+        {"uid": "981500", "username": "Premortal"},
+        {"uid": "1864779", "username": "Red Sоx"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "279955", "username": "Happeh"},
+        {"uid": "2231695", "username": "+One"},
+        {"uid": "1698590", "username": "Abide"},
+        {"uid": "1290620", "username": "Designer"},
+        {"uid": "1138866", "username": "Rivalry"},
+        {"uid": "47360", "username": "Saged'"},
+        {"uid": "91531", "username": "ven0m"},
+        {"uid": "46411", "username": "zer0-"},
+        {"uid": "1452196", "username": "-Nas"}
+      ],
+      "date": 1436241680,
+      "edition": 247
+    }
+  ]
+}

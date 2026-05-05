@@ -1,0 +1,340 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Sir's account closed; iHydra appointed as new HFNT leader by Omniscient",
+      "description": "Sir, founder of the modern HF News and its leader for four years, had his account closed. Omniscient appointed iHydra in his place, saying 'I've chosen him to basically expedite this process so we can all get back to our normal thing. I see his dedication and I know he's not a polarizing figure.'",
+      "url": "",
+      "users": [
+        { "uid": "515249", "username": "Sir" },
+        { "uid": "561239", "username": "iHydra" },
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "Country blacklist introduced for PayPal upgrade payments",
+      "description": "Following a surge in fraudulent PayPal reversals, Omniscient created a whitelist of countries where PayPal upgrades are accepted. Members in blacklisted countries must use Bitcoin.",
+      "url": "http://hackforums.net/showthread.php?tid=4733801",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "Omnicoin listed on Bittrex; Crypto Miner awarded full medal set",
+      "description": "After losing AllCrypt and failing to get onto Cryptsy, OMC was listed on Bittrex through Crypto Miner's efforts. It quickly surpassed the 0.2 BTC daily exchange requirement. As a token of appreciation, Crypto Miner was rewarded with a Gold Medal, Silver Medal, and Bronze Tutorial Award. Omniscient stated he would prefer OMC not be listed on any other exchanges to keep the daily volume requirement met.",
+      "url": "http://hackforums.net/showthread.php?tid=4735808",
+      "users": [
+        { "uid": "1302310", "username": "Crypto Miner" },
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "Omniscient gauging interest in new Darkcoin donation award",
+      "description": "Three prototype award designs along with more information were posted in the announcement thread.",
+      "url": "http://hackforums.net/showthread.php?tid=4739691",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "Gambling discussion now permitted on HF",
+      "description": "Rules around Disallowed Blackhat Activity were adjusted to allow casino-related ventures, including an upcoming OMC gambling site project.",
+      "url": "http://hackforums.net/showthread.php?tid=4739617",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "10,000 OMC bounty for OMC price ticker won by Abraham Lincoln and .Matt",
+      "description": "When OMC moved to Bittrex, the existing omc-rates.com site stopped working. Omniscient offered a 10,000 OMC bounty for a replacement ticker. Abraham Lincoln and .Matt both won with omcticker.com and value.omnicoin.net respectively.",
+      "url": "http://hackforums.net/showthread.php?tid=4736786",
+      "users": [
+        { "uid": "1", "username": "Omniscient" },
+        { "uid": "1256441", "username": "Abraham Lincoln" },
+        { "uid": "1354902", "username": ".Matt" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "50,000 OMC bounty for gambling site; Abraham Lincoln launched Omnichain Casino",
+      "description": "Omniscient offered 50,000 OMC to the first two developers who could run an OMC gambling site for one month. Abraham Lincoln launched Omnichain Casino at omnicha.in/casino within an hour.",
+      "url": "http://hackforums.net/showthread.php?tid=4739603",
+      "users": [
+        { "uid": "1", "username": "Omniscient" },
+        { "uid": "1256441", "username": "Abraham Lincoln" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "site",
+      "title": "Free omnicoin.net subdomains offered for OMC-related projects",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4738458",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "Grin hit 40,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "789677", "username": "Grin" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "Cyph Jr and 'Snorlax were banned.",
+      "description": "'Snorlax left Debug after strong feelings about Sir's account closure, leaving pressure on the remaining three Debug leaders.",
+      "url": "",
+      "users": [
+        { "uid": "1659032", "username": "Cyph Jr" },
+        { "uid": "44755", "username": "'Snorlax" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "redpois0n, ℒitecoin, 'Fox, XTC., ShadowCloud, and Quiver took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1049662", "username": "redpois0n" },
+        { "uid": "1748669", "username": "ℒitecoin" },
+        { "uid": "1865604", "username": "'Fox" },
+        { "uid": "2464989", "username": "XTC." },
+        { "uid": "272608", "username": "ShadowCloud" },
+        { "uid": "1083964", "username": "Quiver" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "Sir and tdog0403 had their accounts closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "515249", "username": "Sir" },
+        { "uid": "1070150", "username": "tdog0403" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "Cyph Jr, XTC., Sir, 'Snorlax, and tdog0403 were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1659032", "username": "Cyph Jr" },
+        { "uid": "2464989", "username": "XTC." },
+        { "uid": "515249", "username": "Sir" },
+        { "uid": "44755", "username": "'Snorlax" },
+        { "uid": "1070150", "username": "tdog0403" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "Crypto Miner received Gold Medal, Silver Medal, and Bronze Tutorial Award; Wires received Cool; ӍeshCollider received Great Thinker.",
+      "description": "Crypto Miner's awards were for his crypto currency guide thread.",
+      "url": "",
+      "users": [
+        { "uid": "1302310", "username": "Crypto Miner" },
+        { "uid": "610356", "username": "Wires" },
+        { "uid": "2015410", "username": "ӍeshCollider" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "groups",
+      "title": "'Snorlax left Debug; iHydra replaces Sir as Writers leader; KillαMuvz added to Specialists",
+      "description": "'Snorlax departed Debug after Sir's account closure. iHydra was formally added as leader of Writers in Sir's place. KillαMuvz was added as leader of Specialists.",
+      "url": "",
+      "users": [
+        { "uid": "44755", "username": "'Snorlax" },
+        { "uid": "561239", "username": "iHydra" },
+        { "uid": "515249", "username": "Sir" },
+        { "uid": "579898", "username": "KillαMuvz" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "threads",
+      "title": "Top Hackers on Hack Forums",
+      "description": "Discussion about the top hackers on the forum.",
+      "url": "http://hackforums.net/showthread.php?tid=4734711",
+      "users": [
+        { "uid": "2501318", "username": "Deadbyte" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "threads",
+      "title": "The Ultimate Giveaway! $1000+ No God Damn Sig!",
+      "description": "$1000+ in prizes spread across nine winners.",
+      "url": "http://hackforums.net/showthread.php?tid=4722968",
+      "users": [
+        { "uid": "2499272", "username": "Aeroslim" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "threads",
+      "title": "Upgrading 50 Members to L33T/EP1C/UB3R | $1000 Giveaway!",
+      "description": "Swvg upgrading 50 members; all you need to do is post.",
+      "url": "http://hackforums.net/showthread.php?tid=4731707",
+      "users": [
+        { "uid": "2645908", "username": "Swvg" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "threads",
+      "title": "Have you ever been hit offline?",
+      "description": "Members share their experiences with being taken offline.",
+      "url": "http://hackforums.net/showthread.php?tid=4735071",
+      "users": [
+        { "uid": "2081920", "username": "Oxynov." }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "threads",
+      "title": "Omnichain Dice | Stats",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4740646",
+      "users": [
+        { "uid": "2046407", "username": "Dave Skylark" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "threads",
+      "title": "Omnichain Casino - 1st and only Omnicoin Dice Site",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4740830",
+      "users": [
+        { "uid": "1256441", "username": "Abraham Lincoln" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Tutelary conducted by .Sinister",
+      "description": "Tutelary discussed joining HF in 2010 to hack Facebook accounts, becoming an active contributor in the RAT section, his extensive knowledge of wikis and thoughts on the HF Wiki situation, and his plans to become a computer programmer or work in IT.",
+      "url": "https://hackforums.net/showthread.php?pid=45366751",
+      "users": [
+        { "uid": "341617", "username": "Tutelary" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Roger Waters conducted by D3xus",
+      "description": "Roger Waters discussed leading The Brotherhood since Aura's departure, retiring the Hacking and Graphics sectors to refocus on Computing and Gaming, plans for Debug including a Computing sector collaboration with The Brotherhood, and his belief that former groups like The Empire had a true family spirit now missing from most groups.",
+      "url": "https://hackforums.net/showthread.php?pid=45366751",
+      "users": [
+        { "uid": "1093501", "username": "Roger Waters" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: 'Prada's setup was featured.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1469364", "username": "'Prada" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
+        { "uid": "96230", "username": "Panik", "role": "2nd Editor" },
+        { "uid": "370475", "username": "Vegas", "role": "3rd Editor" },
+        { "uid": "1453009", "username": "Raptor.", "role": "4th Editor" },
+        { "uid": "2015410", "username": "ӍeshCollider", "role": "5th Editor" },
+        { "uid": "1469364", "username": "Prada", "role": "1st Compiler" },
+        { "uid": "1544384", "username": "Apostle", "role": "2nd Compiler" },
+        { "uid": "1422600", "username": "Vanill‌a", "role": "3rd Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "1108450", "username": "Baghead", "role": "Journalist (Podcast)" },
+        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "2154389", "username": "Orchid", "role": "Journalist (Notable Threads)" },
+        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
+        { "uid": "827711", "username": "D3xus", "role": "Interviewer" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
+        { "uid": "1014629", "username": "Astute", "role": "Interviewer" },
+        { "uid": "561239", "username": "iHydra", "role": "HF News Support / Team's Time / Weekly Update / Battlestations / Credits / Task Manager" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "1595524", "username": "Ventures", "role": "Journalist (Group News)" },
+        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
+        { "uid": "900087", "username": "Starstruck", "role": "Journalist (Site News)" },
+        { "uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)" },
+        { "uid": "2282311", "username": "Virule", "role": "Journalist (Hacking News)" },
+        { "uid": "1093501", "username": "Roger Waters", "role": "Journalist (Security News)" },
+        { "uid": "46411", "username": "zer0-", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Red Sоx", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "2572841", "username": "Chaos", "role": "Journalist (Tech News)" },
+        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "rennn", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "Reserve Writer" },
+        { "uid": "91531", "username": "ven0m", "role": "Reserve Writer" }
+      ],
+      "date": 1427078689,
+      "edition": 232
+    }
+  ]
+}

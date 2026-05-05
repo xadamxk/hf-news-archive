@@ -1,0 +1,249 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Cloudflare exploit exploited against HF; Omniscient switches to Sucuri for DDoS protection",
+      "description": "A Cloudflare exploit allowed users to appear logged into other accounts. Omniscient had reported it to Cloudflare months prior with no action. He paid for Sucuri protection and changed server configurations. NSFW may be lost in its current form.",
+      "url": "http://hackforums.net/showthread.php?tid=4811061",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "site",
+      "title": "Almost all countries unblocked for the first time in ~8 years",
+      "description": "Omniscient unblocked every country except China, Russia, and North Korea, opening up 40% of previously blocked traffic. Problematic countries may be re-blocked if issues arise.",
+      "url": "http://hackforums.net/showthread.php?tid=4811766",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "site",
+      "title": "Show Groups page now displays group owners",
+      "description": "Omniscient added the ability to view the owner of each group on the Show Groups page, with group owner leader-editing functions planned.",
+      "url": "http://hackforums.net/showthread.php?tid=4811745",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "site",
+      "title": "Trust Scan officially released from beta",
+      "description": "The Trust Scan feature for Ub3r and 3p1c members is now fully available, letting members view IP changes, deal disputes, and more before transacting.",
+      "url": "http://hackforums.net/showthread.php?tid=4811809",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "groups",
+      "title": "TommyD purchases Zero; adds Adam as leader; full rebrand planned",
+      "description": "TommyD bought the Zero group and is taking a back seat while Adam leads a complete rebrand, with a new name and userbar expected within a week.",
+      "url": "",
+      "users": [
+        { "uid": "2529154", "username": "TommyD" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "Omniscient reached 30,000 posts; Dean Winchester hit 10,000 posts; Suits, Jet, and ๖ۣۜSith Lord reached 1,000 reputation.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1", "username": "Omniscient" },
+        { "uid": "1284627", "username": "Dean Winchester‎" },
+        { "uid": "309501", "username": "Suits" },
+        { "uid": "1226762", "username": "Jet" },
+        { "uid": "504910", "username": "๖ۣۜSith Lord" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "H3God, Single Core, Druze, and TO0R were banned.",
+      "description": "H3God and Single Core for low quality posting; Druze and TO0R for advertising disallowed sites.",
+      "url": "",
+      "users": [
+        { "uid": "1359715", "username": "H3God" },
+        { "uid": "2230356", "username": "Single Core" },
+        { "uid": "2508228", "username": "Druze" },
+        { "uid": "2494288", "username": "TO0R" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "Th3PonyWizard, hey0 m9 rekt, Dark, Crypto Miner, NotEnoughLube, and Vicellus Drum took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "531250", "username": "Th3PonyWizard" },
+        { "uid": "2475448", "username": "hey0 m9 rekt" },
+        { "uid": "1490589", "username": "Dark" },
+        { "uid": "1302310", "username": "Crypto Miner" },
+        { "uid": "1503439", "username": "NotEnoughLube" },
+        { "uid": "1431463", "username": "Vicellus Drum" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "DamienVC had their account closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2334861", "username": "DamienVC" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "H3God, Single Core, and DamienVC were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1359715", "username": "H3God" },
+        { "uid": "2230356", "username": "Single Core" },
+        { "uid": "2334861", "username": "DamienVC" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "TommyD received Master Donator, Grand Amethyst, Asswipe, and Black Hatter; vurezo received The Protector; Maximum received Hot Dog.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2529154", "username": "TommyD" },
+        { "uid": "1918708", "username": "vurezo" },
+        { "uid": "1238642", "username": "Maximum" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "threads",
+      "title": "Yo mamma jokes",
+      "description": "A hilarious thread with members posting tons of jokes.",
+      "url": "http://hackforums.net/showthread.php?tid=2802548",
+      "users": [
+        { "uid": "674179", "username": "Nickfost" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "threads",
+      "title": "[V2][NO SIGNATURE] WIN TONS OF MONEY EASY AND FAST",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4801666",
+      "users": [
+        { "uid": "1849237", "username": "KFC Watermelon" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "threads",
+      "title": "Omnicha.in Casino disabled after 22,000 OMC stolen",
+      "description": "Hackers robbed over 22,000 OMC (~$57) from the Omnicha.in Casino over a month. Abraham Lincoln disabled the casino and pledged to cover the stolen coins from his own funds without affecting user wallets.",
+      "url": "http://hackforums.net/showthread.php?tid=4812578",
+      "users": [
+        { "uid": "1256441", "username": "Abraham Lincoln" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with TommyD conducted by Justin Timberlake",
+      "description": "TommyD discussed joining HF in 2009 to download a keylogger, running unspecified blackhat activities for income, purchasing the Zero group to rebrand it with Adam's leadership, being closed in early 2014 for annoying Omniscient, and what he'd change about HF (members' ego).",
+      "url": "https://hackforums.net/showthread.php?pid=46089172",
+      "users": [
+        { "uid": "2529154", "username": "TommyD" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: ToBeAdded's setup was featured.",
+      "description": "",
+      "url": "",
+      "date": 1431394427,
+      "edition": 239
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
+        { "uid": "561239", "username": "iHydra", "role": "2nd Editor" },
+        { "uid": "370475", "username": "Vegas", "role": "3rd Editor" },
+        { "uid": "1453009", "username": "Raptor.", "role": "4th Editor" },
+        { "uid": "2015410", "username": "ӍeshCollider", "role": "5th Editor" },
+        { "uid": "1469364", "username": "Prada", "role": "1st Compiler" },
+        { "uid": "1544384", "username": "Apostle", "role": "2nd Compiler" },
+        { "uid": "1422600", "username": "Vanill‌a", "role": "3rd Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
+        { "uid": "1014629", "username": "Astute", "role": "Interviewer" },
+        { "uid": "561239", "username": "iHydra", "role": "HF News Support / Opinion Weekly / Weekly Update / Battlestations / Credits" },
+        { "uid": "1992268", "username": "Thornzzz", "role": "Journalist (Opinion Weekly)" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "1595524", "username": "Ventures", "role": "Journalist (Group News)" },
+        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
+        { "uid": "900087", "username": "Starstruck", "role": "Journalist (Site News)" },
+        { "uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)" },
+        { "uid": "2282311", "username": "Virule", "role": "Journalist (Hacking News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "1864779", "username": "Red Sоx", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "279955", "username": "Happeh", "role": "Journalist (World News)" },
+        { "uid": "1697764", "username": "Redwall", "role": "Journalist (World News)" },
+        { "uid": "2231695", "username": "+One", "role": "Breaking News Team (Gaming News)" },
+        { "uid": "1698590", "username": "Abide", "role": "Breaking News Team (Tech News)" },
+        { "uid": "279955", "username": "Happeh", "role": "Breaking News Team (World News)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "rennn", "role": "Graphical Artist" },
+        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "Reserve Writer" },
+        { "uid": "91531", "username": "ven0m", "role": "Reserve Writer" },
+        { "uid": "46411", "username": "zer0-", "role": "Reserve Writer" },
+        { "uid": "1452196", "username": "-Nas", "role": "Task Manager" }
+      ],
+      "date": 1431394427,
+      "edition": 239
+    }
+  ]
+}

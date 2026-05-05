@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "AllCrypt attack on February 10th caused OMC auction cancellation, mining suspension, and disabling of 3P1C/OMC awards",
+      "description": "An attacker made ~3 million OMC worth of deposits on AllCrypt and sold them off, withdrawing at least 2 BTC. AllCrypt was short ~2.5 million OMC. The OMC Dev Team shut down all mining pools. Omniscient cancelled the official group OMC auction and disabled 3P1C upgrades and the OMC award. He remained optimistic about recovery within a week or two.",
+      "url": "http://hackforums.net/showthread.php?tid=4682815",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "site",
+      "title": "HF connection issues on February 10th attributed to CloudFlare disruption",
+      "description": "Users reported connection problems on HF. Omniscient opened a thread asking affected users to PM him information. It turned out to be a forum timeout with no errors from CF or HF.",
+      "url": "http://hackforums.net/showthread.php?tid=4681095",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "site",
+      "title": "Sticky price in the Monetizing Techniques forum reduced to $40/week",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4675058",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Grin hit 40,000 posts and Sir hit 10,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "789677", "username": "Grin" },
+        { "uid": "515249", "username": "Sir" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Bandors hit 2,000 reputation and Stoke City hit 1,000 reputation.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1189774", "username": "Bandors" },
+        { "uid": "1517518", "username": "Stoke City" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Trisomy 21, - Sam -, Fireworks, and Liban aka Finale were banned.",
+      "description": "Trisomy 21 for LQP; - Sam - for harassing members.",
+      "url": "",
+      "users": [
+        { "uid": "1848154", "username": "Trisomy 21" },
+        { "uid": "805825", "username": "- Sam -" },
+        { "uid": "1320455", "username": "Fireworks" },
+        { "uid": "506808", "username": "Liban aka Finale" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Mittens, Dex‌, Τrust, Ariana, Effexion, Liban aka Finale, Tɦɛ Gʀiɱ, dSqo, and zSerity took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "924862", "username": "Mittens" },
+        { "uid": "1607053", "username": "Dex‌" },
+        { "uid": "1446355", "username": "Τrust" },
+        { "uid": "692131", "username": "Ariana" },
+        { "uid": "229769", "username": "Effexion" },
+        { "uid": "506808", "username": "Liban aka Finale" },
+        { "uid": "431105", "username": "Tɦɛ Gʀiɱ" },
+        { "uid": "2210602", "username": "dSqo" },
+        { "uid": "1327245", "username": "zSerity" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "#DPT, Prince Gumball, and +Wolf had their accounts closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2483201", "username": "#DPT" },
+        { "uid": "2118669", "username": "Prince Gumball" },
+        { "uid": "2423635", "username": "+Wolf" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Tibit, Fireworks, Liban aka Finale, #DPT, and +Wolf were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "651337", "username": "Tibit" },
+        { "uid": "1320455", "username": "Fireworks" },
+        { "uid": "506808", "username": "Liban aka Finale" },
+        { "uid": "2483201", "username": "#DPT" },
+        { "uid": "2423635", "username": "+Wolf" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Moeseph donated for Bitcoinage and Master Donator awards and received Hot Dog; 'Chief received Sticky Man.",
+      "description": "'Chief received Sticky Man for a specific thread.",
+      "url": "http://hackforums.net/showthread.php?tid=3938193",
+      "users": [
+        { "uid": "1066501", "username": "Moeseph" },
+        { "uid": "1536004", "username": "'Chief" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "groups",
+      "title": "Fortune, Specialists, and Polymath leadership changes",
+      "description": "Department of Protection and Psycho removed as leaders of Fortune; Jake Miller added as leader of Fortune. Vinnie added as leader of Specialists. Τrust, Basquiat, and Ongoing removed as leaders of Polymath.",
+      "url": "",
+      "users": [
+        { "uid": "2477123", "username": "Department of Protection" },
+        { "uid": "493315", "username": "Psycho" },
+        { "uid": "1616077", "username": "Jake Miller" },
+        { "uid": "600771", "username": "Vinnie" },
+        { "uid": "1446355", "username": "Τrust" },
+        { "uid": "2470433", "username": "Basquiat" },
+        { "uid": "2275840", "username": "Ongoing" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "groups",
+      "title": "Nightfall Information Thread & Buyins",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4676286",
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "groups",
+      "title": "Polymath | End of an Era | Sale | BTC/WU | BIN: $7,500",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4573409",
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "groups",
+      "title": "The Brotherhood | Informational Thread",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4678372",
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "Priority #1 for Omnicoin",
+      "description": "Omniscient discusses the future of OMC and solicits opinions and suggestions from the community.",
+      "url": "http://hackforums.net/showthread.php?tid=4680204",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "The Brotherhood | Long Exposure Guide | Basics",
+      "description": "A well-laid-out tutorial to help members with long exposure photography.",
+      "url": "http://hackforums.net/showthread.php?tid=4674786",
+      "users": [
+        { "uid": "2456115", "username": "illustrator" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "whyd you choose you username HF?",
+      "description": "Members share the story behind their usernames.",
+      "url": "http://hackforums.net/showthread.php?tid=4680525",
+      "users": [
+        { "uid": "2611249", "username": "Phurkus" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "[TEN UPGRADES SO FAR] Post for a L33t/Ub3r Upgrade",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4613269",
+      "users": [
+        { "uid": "89623", "username": "Mark Webber" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "What do you want next group to be about?",
+      "description": "'Porygon purchased a group and is asking what the HF community wants for a group.",
+      "url": "http://hackforums.net/showthread.php?tid=4681853",
+      "users": [
+        { "uid": "2041579", "username": "'Porygon" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "Allcrypt disabled Omnicoin (temporarily?)",
+      "description": "OMC section weekly highlight — first notice of the AllCrypt/OMC attack.",
+      "url": "http://hackforums.net/showthread.php?tid=4679648",
+      "users": [
+        { "uid": "351788", "username": "Raoul Duke" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "threads",
+      "title": "Go help OMNICOIN, vote on c-cex.com",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4683812",
+      "users": [
+        { "uid": "2422301", "username": "Lord.Baltimore" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Realizm conducted by Justin Timberlake",
+      "description": "Realizm discussed joining HF 3 years ago for Minecraft, the Titans Casino event with 153 participants that used a virtual currency called Tittens, his views on the OMC group auction as a good way to boost OMC value, and future Titans events in the works.",
+      "url": "https://hackforums.net/showthread.php?pid=44849243",
+      "users": [
+        { "uid": "1343812", "username": "Realizm" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Justin Timberlake conducted by Clique",
+      "description": "Justin Timberlake discussed taking his username from the musician, joining HF as a bored kid looking for Xbox Live codes, his view that most groups are useless, and enjoying basketball and video games outside of HF.",
+      "url": "https://hackforums.net/showthread.php?pid=44849243",
+      "users": [
+        { "uid": "1958081", "username": "Justin Timberlake" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Nosymbols' setup was featured.",
+      "description": "50\" TV as a monitor with a tower running 16GB RAM and 1TB HDD, plus a widescreen monitor attached to a Linux machine and a mid-range laptop.",
+      "url": "",
+      "users": [
+        { "uid": "835530", "username": "Nosymbols" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
+        { "uid": "96230", "username": "Panik", "role": "2nd Editor" },
+        { "uid": "1453009", "username": "Raptor.", "role": "3rd Editor" },
+        { "uid": "2015410", "username": "ӍeshCollider", "role": "4th Editor" },
+        { "uid": "370475", "username": "Vegas", "role": "5th Editor" },
+        { "uid": "44755", "username": "Snorlax'", "role": "1st Compiler" },
+        { "uid": "127962", "username": "Slankey™", "role": "2nd Compiler" },
+        { "uid": "1422600", "username": "Swirled", "role": "3rd Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "1860651", "username": "Coppersan", "role": "Journalist (Headlines)" },
+        { "uid": "1108450", "username": "Baghead", "role": "Journalist (Podcast)" },
+        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "1374951", "username": "Evangelist", "role": "Journalist (Notable Threads)" },
+        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
+        { "uid": "827711", "username": "D3xus", "role": "Interviewer" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "515249", "username": "Sir", "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
+        { "uid": "1469364", "username": "Prada‌", "role": "Journalist (Site News)" },
+        { "uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)" },
+        { "uid": "692605", "username": "Nivarka", "role": "Journalist (Hacking News)" },
+        { "uid": "91531", "username": "ven0m", "role": "Journalist (Security News)" },
+        { "uid": "46411", "username": "zer0-", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "2282311", "username": "Virule", "role": "Journalist (Gaming News)" },
+        { "uid": "649674", "username": "Eternal.", "role": "Journalist (Tech News)" },
+        { "uid": "1698590", "username": "Abide", "role": "Journalist (Tech News)" },
+        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "Greed.", "role": "Graphical Artist" },
+        { "uid": "1944390", "username": "Skylar™", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Archon Sin", "role": "Reserve Writer" },
+        { "uid": "524451", "username": "Yellows", "role": "Task Manager" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1424159375,
+      "edition": 227
+    }
+  ]
+}

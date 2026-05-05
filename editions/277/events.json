@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "title": "Morchid's account went rampant on January 23, 2016, causing mass spam, moved threads, and disruption; all damage was fully repaired by Omniscient.",
+      "description": "Approximately 100,000 threads were moved and stuck, and some sections were cleared. Omniscient fixed the damage without a rollback to preserve member progress. Morchid was subsequently closed and rep killed.",
+      "url": "http://hackforums.net/showthread.php?tid=5144388",
+      "users": [
+        { "uid": "1452467", "username": "Morchid" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Vyrez, Black Soul, King Cin, and BTB™ reached 1,000 positive reputation; Mr Kewl and SWS. reached 2,000 positive reputation; Japanese reached 1 year of online time.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2439716", "username": "Vyrez" },
+        { "uid": "1117229", "username": "Black Soul" },
+        { "uid": "1221196", "username": "King Cin" },
+        { "uid": "640835", "username": "BTB™" },
+        { "uid": "183072", "username": "Mr Kewl" },
+        { "uid": "1697806", "username": "SWS." },
+        { "uid": "1618863", "username": "Japanese" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Robbieava, VipVince, Skill, and Glassy are no longer mentors.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "81075", "username": "Robbieava" },
+        { "uid": "7807", "username": "VipVince" },
+        { "uid": "65581", "username": "Skill" },
+        { "uid": "734805", "username": "Glassy" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Trojan and ĸondaх were banned.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1066893", "username": "Trojan" },
+        { "uid": "2377407", "username": "ĸondaх" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Morchid, +One, -zERAiT, blerthotel, Icy, Kirito, Fʀᴀɴᴋɪᴇ, Projec7, and lottomax were closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1452467", "username": "Morchid" },
+        { "uid": "2231695", "username": "+One" },
+        { "uid": "1900416", "username": "-zERAiT" },
+        { "uid": "1416735", "username": "blerthotel" },
+        { "uid": "1718571", "username": "Icy" },
+        { "uid": "1691626", "username": "Kirito" },
+        { "uid": "2561132", "username": "Fʀᴀɴᴋɪᴇ" },
+        { "uid": "2678738", "username": "Projec7" },
+        { "uid": "2961590", "username": "lottomax" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Morchid, XR8ED, +One, Rubentastic, -zERAiT, blerthotel, Jokeh, Icy, Kirito, Projec7, and lottomax were rep killed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1452467", "username": "Morchid" },
+        { "uid": "1896058", "username": "XR8ED" },
+        { "uid": "2231695", "username": "+One" },
+        { "uid": "67635", "username": "Rubentastic" },
+        { "uid": "1900416", "username": "-zERAiT" },
+        { "uid": "1416735", "username": "blerthotel" },
+        { "uid": "2186497", "username": "Jokeh" },
+        { "uid": "1718571", "username": "Icy" },
+        { "uid": "1691626", "username": "Kirito" },
+        { "uid": "2678738", "username": "Projec7" },
+        { "uid": "2961590", "username": "lottomax" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Morchid received Dunce and Asswipe; Ghost Rider™ received Dunce; Funtage donated for Grand Amethyst; Transe and AnonNinja™ received Dstat Power God; Onkel Dolan donated for Master Donator and Grand Amethyst; TRH4CK received Cool; Moseph received Golden Upload and Mad Scientist.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1452467", "username": "Morchid" },
+        { "uid": "2074566", "username": "Ghost Rider™" },
+        { "uid": "121026", "username": "Funtage" },
+        { "uid": "2038822", "username": "Transe" },
+        { "uid": "2230241", "username": "AnonNinja™" },
+        { "uid": "2814290", "username": "Onkel Dolan" },
+        { "uid": "1101548", "username": "TRH4CK" },
+        { "uid": "1066501", "username": "Moseph" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "Welcome to our new staff.",
+      "description": "Fudster announced Walt Disney as a new staff member.",
+      "url": "http://hackforums.net/showthread.php?tid=51528940",
+      "users": [
+        { "uid": "unknown", "username": "Fudster" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "Trolling = ACCOUNT CLOSED",
+      "description": "Omniscient announced that accounts related to trolling in the Counter Strike section will be closed.",
+      "url": "http://hackforums.net/showthread.php?tid=5152931",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "IP is now hidden on Skype!",
+      "description": "Ghost informs the community that Skype now prevents IP resolving, making Skype resolvers obsolete.",
+      "url": "http://hackforums.net/showthread.php?tid=5150167",
+      "users": [
+        { "uid": "2444198", "username": "Ghost" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "Complete Guide To Pickup & Relationships",
+      "description": "King Cin's stickied guide in the Innuendo section covering relationships and pickup techniques.",
+      "url": "http://hackforums.net/showthread.php?tid=5151310",
+      "users": [
+        { "uid": "1221196", "username": "King Cin" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "Where do you look when speaking directly to someone?",
+      "description": "A discussion thread asking where members look when talking to someone face to face.",
+      "url": "http://hackforums.net/showthread.php?tid=5150835",
+      "users": [
+        { "uid": "2081920", "username": "Orbul." }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "How much sleep do you function on?",
+      "description": "Krave's thread asking how much sleep HF members need to function.",
+      "url": "http://hackforums.net/showthread.php?tid=5151941",
+      "users": [
+        { "uid": "1165241", "username": "Krave" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "[GiftShark] Emerald Award Every 2 weeks!",
+      "description": "GiftShark's bi-weekly Emerald Donator award giveaway.",
+      "url": "http://hackforums.net/showthread.php?tid=5152258",
+      "users": [
+        { "uid": "2728537", "username": "GiftShark" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "Kill Joy's Monthly Giveaways & Upgrades - 2/12",
+      "description": "Kill Joy's monthly giveaway of upgrades.",
+      "url": "http://hackforums.net/showthread.php?tid=5150421",
+      "users": [
+        { "uid": "659087", "username": "Kill Joy" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "How my gf broke with me",
+      "description": "๖ۣۜVekzy๖ۣۜHere shares a personal story about how his girlfriend broke up with him.",
+      "url": "http://hackforums.net/showthread.php?tid=5152381",
+      "users": [
+        { "uid": "1887731", "username": "๖ۣۜVekzy๖ۣۜHere" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "threads",
+      "title": "How many of you failed/left school?",
+      "description": "Scymo asks the community how many members failed or dropped out of school.",
+      "url": "http://hackforums.net/showthread.php?tid=5151923",
+      "users": [
+        { "uid": "2436938", "username": "Scymo" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "groups",
+      "title": "Axiom was sold to Glit͙ch and rebranded into Riptide.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "55709", "username": "Glit͙ch" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "groups",
+      "title": "Loki123 was removed from The Brotherhood; Funtage became leader of Echo; Fiz, MagicFlakes, YoungThug., and Young Thug became leaders of Prism; Fiber became leader of Royalty.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "271731", "username": "Loki123" },
+        { "uid": "121026", "username": "Funtage" },
+        { "uid": "2553288", "username": "Fiz" },
+        { "uid": "2974209", "username": "MagicFlakes" },
+        { "uid": "2776397", "username": "YoungThug." },
+        { "uid": "710987", "username": "Young Thug" },
+        { "uid": "1185212", "username": "Fiber" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "groups",
+      "title": "Null was listed for sale.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=5152658",
+      "users": [],
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: PhiLLoW's setup was featured.",
+      "description": "PhiLLoW is a Reddit user.",
+      "url": "",
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: ninjapirate9901's setup was featured.",
+      "description": "ninjapirate9901 is a Reddit user.",
+      "url": "",
+      "date": 1454393790,
+      "edition": 277
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "2504443", "username": "reve4 neeuQ", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "525019", "username": "illuminati", "role": "Interviewer" },
+        { "uid": "1957866", "username": "Enterpriser", "role": "Interviewer" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2577525", "username": "Hash G.", "role": "Journalist (Site News)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Hacking News)" },
+        { "uid": "1422600", "username": "Fox™", "role": "Journalist (Hacking News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "2384610", "username": "Limit.", "role": "Journalist (Gaming News)" },
+        { "uid": "2364291", "username": "Buffy Summers", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Redizm", "role": "On-Call Team" },
+        { "uid": "197132", "username": "-Hyperion", "role": "On-Call Team" },
+        { "uid": "85546", "username": "Odus", "role": "On-Call Team" },
+        { "uid": "692131", "username": "Ariana", "role": "On-Call Team" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1454393790,
+      "edition": 277
+    }
+  ]
+}

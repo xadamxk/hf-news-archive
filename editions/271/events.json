@@ -1,0 +1,322 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Omniscient advised members to use Authy instead of Google Authenticator for 2FA backups.",
+      "description": "Google Authenticator does not backup 2FA accounts, leaving members locked out if they lose or change their phone. Authy was recommended as a safer alternative.",
+      "url": "http://hackforums.net/showthread.php?tid=5094498",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "site",
+      "title": "Ukraine, Vietnam, and Taiwan were added to Hack Forums' country block list due to persistent DDoS attacks.",
+      "description": "Omniscient stated the bans will not be lifted.",
+      "url": "http://hackforums.net/showthread.php?tid=5102420",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "Froggy and Regulus each reached 2,000 positive reputation; Gt403cyl reached 1,000 positive reputation; Squidward reached 10,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1320406", "username": "Froggy" },
+        { "uid": "1680975", "username": "Regulus" },
+        { "uid": "1125893", "username": "Gt403cyl" },
+        { "uid": "1320379", "username": "Squidward" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "YungTrigz was banned and is soon to be closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2710498", "username": "YungTrigz" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "630, Victini, Ciraze, and Dan Smith took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "797403", "username": "630" },
+        { "uid": "2282399", "username": "Victini" },
+        { "uid": "1698208", "username": "Ciraze" },
+        { "uid": "1612332", "username": "Dan Smith" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "YungTrigz and Stevage were rep killed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2710498", "username": "YungTrigz" },
+        { "uid": "471395", "username": "Stevage" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "DamienVC, Raymond Reddington, Grievοus, and Flacko Jodye donated for Grand Amethyst; xadamxk received Diamond; KɪɴG received GFX Guru; Froggy, Yakz, and Productivity donated for Master Donator; Kill Joy received Militant; Formant received The Protector.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2334861", "username": "DamienVC" },
+        { "uid": "2061024", "username": "Raymond Reddington" },
+        { "uid": "1306528", "username": "xadamxk" },
+        { "uid": "1407964", "username": "KɪɴG" },
+        { "uid": "1320406", "username": "Froggy" },
+        { "uid": "1410016", "username": "Yakz" },
+        { "uid": "1754121", "username": "Grievοus" },
+        { "uid": "2790629", "username": "Flacko Jodye" },
+        { "uid": "2930538", "username": "Productivity" },
+        { "uid": "659087", "username": "Kill Joy" },
+        { "uid": "2349826", "username": "Formant" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Omniscient's Q&A thread",
+      "description": "Green crack posted a thread asking what members would ask Omniscient; Omniscient showed up and answered questions over 23 pages.",
+      "url": "http://hackforums.net/showthread.php?tid=5102832",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "!BEWARE!: Currency Exchange Scammer",
+      "description": "Omniscient made an announcement about a large ongoing scam involving currency exchanges on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5095734",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Forums Removed",
+      "description": "Omniscient removed several forums including Omnicoin, Defender of the Ancients, Rust, Maple Story, and Elder Scrolls.",
+      "url": "http://hackforums.net/showthread.php?tid=5097789",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Email Logins",
+      "description": "Omniscient temporarily removed the email login feature to help fight compromised accounts.",
+      "url": "http://hackforums.net/showthread.php?tid=5095758",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Blocked While Posting",
+      "description": "Omniscient explained why users are commonly being blocked while posting.",
+      "url": "http://hackforums.net/showthread.php?tid=5093210",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Massive Pruning",
+      "description": "Omniscient pruned PMs, accounts, and some posts.",
+      "url": "http://hackforums.net/showthread.php?tid=5096843",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "I just got my lucid dream pills today UPDATE second nights results.",
+      "description": "Black Shadow discusses results from experimenting with lucid dream pills.",
+      "url": "http://hackforums.net/showthread.php?tid=5099539",
+      "users": [
+        { "uid": "63387", "username": "Black Shadow" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "My experience on HF",
+      "description": "Support™'s feedback thread about his experience on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4957170",
+      "users": [
+        { "uid": "218524", "username": "Support™" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Maximum's EMERALD DONATOR giveaway!",
+      "description": "A giveaway for a chance to win an Emerald Donator award.",
+      "url": "http://hackforums.net/showthread.php?tid=5100815",
+      "users": [
+        { "uid": "1238642", "username": "Maximum" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "Socrates Giveaway | ECHO boys | 100$ | No sig",
+      "description": "A giveaway offering $100 in Bitcoin.",
+      "url": "http://hackforums.net/showthread.php?tid=5094938",
+      "users": [
+        { "uid": "2195809", "username": "Socrates" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "15 Year Old Invents 3D PRINTED .70 Cal Bullets",
+      "description": "A discussion about a 15-year-old inventing 3D-printed .70 caliber bullets.",
+      "url": "http://hackforums.net/showthread.php?tid=5096902",
+      "users": [
+        { "uid": "1450348", "username": "Walt Disney™" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "threads",
+      "title": "How is CISA going to affect Hack Forums? (The bill that got passed)",
+      "description": "A discussion thread about the implications of the CISA bill for Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5100183",
+      "users": [
+        { "uid": "7744", "username": "Peter L" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "groups",
+      "title": "beslim sold Pirates to Razor; the group was rebranded to DARK.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1777085", "username": "beslim" },
+        { "uid": "1243825", "username": "Razor" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "groups",
+      "title": "[̲̅$̲̅(̲̅100)̲̅$̲̅] became leader of Divine; Hexicidal became owner of The Black Lodge; _r00t and Grievous became leaders of Royalty; Nine. became owner of Dawn; zSerity became owner of Enigma.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2867762", "username": "[̲̅$̲̅(̲̅100)̲̅$̲̅]" },
+        { "uid": "863752", "username": "Hexicidal" },
+        { "uid": "2950309", "username": "_r00t" },
+        { "uid": "1812679", "username": "Nine." },
+        { "uid": "1754121", "username": "Grievous" },
+        { "uid": "1327245", "username": "zSerity" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: RedLeeder's setup was featured.",
+      "description": "RedLeeder is a Reddit user.",
+      "url": "",
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: AndresAwesome's setup was featured.",
+      "description": "AndresAwesome is a Reddit user.",
+      "url": "",
+      "date": 1450768452,
+      "edition": 271
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "370475", "username": "Vegas", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "1469364", "username": "Prada", "role": "Compiler" },
+        { "uid": "1422600", "username": "Vanill\u200ca", "role": "Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "2250372", "username": "Optimized", "role": "Interviewer" },
+        { "uid": "1918708", "username": "Mugu", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2097293", "username": "Who Soup", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "197132", "username": "-Hyperion", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "279955", "username": "Happeh", "role": "Journalist (World News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "1775114", "username": "Ren", "role": "Journalist (Art Gallery)" },
+        { "uid": "789677", "username": "Grin", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "Ren", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "On-Call Team" },
+        { "uid": "91531", "username": "ven0m", "role": "On-Call Team" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "57618", "username": "| Flawless |", "role": "On-Call Team" },
+        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
+        { "uid": "46411", "username": "zer0", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Red S\u043ex", "role": "On-Call Team" },
+        { "uid": "1452196", "username": "-Nas", "role": "Task Reminder" },
+        { "uid": "X", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1450768452,
+      "edition": 271
+    }
+  ]
+}

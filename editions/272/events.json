@@ -1,0 +1,335 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Lost or stolen account policy was updated with new rules by upgrade tier.",
+      "description": "Non-upgraded stolen accounts without disputes will be closed with permission to open a new account. Upgraded account owners who fail to secure their accounts are personally responsible. Accounts with open disputes or scammer reputations will be closed regardless of rank.",
+      "url": "http://hackforums.net/showthread.php?tid=5106790",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "site",
+      "title": "Two-factor authentication (Gauth) was extended to all upgrade tiers, with a Marketplace Gauth requirement upcoming.",
+      "description": "Previously restricted to Ub3rs, 2FA is now available to all upgrade levels. Omniscient stated Gauth will be required to access the Marketplace.",
+      "url": "http://hackforums.net/showthread.php?tid=5104653",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "Levi reached 1 year of online time.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "492095", "username": "Levi" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "Realizm, godshawk, Logic⁢ ⁢, J.P Morgan, and Xerah took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1343812", "username": "Realizm" },
+        { "uid": "1999120", "username": "godshawk" },
+        { "uid": "2822650", "username": "Logic\u2062 \u2062" },
+        { "uid": "1589588", "username": "J.P Morgan" },
+        { "uid": "1728601", "username": "Xerah" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "PoisonKnife was closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "870436", "username": "PoisonKnife" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "Zyptic and PoisonKnife were rep killed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "103880", "username": "Zyptic" },
+        { "uid": "870436", "username": "PoisonKnife" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "Nex+ donated for Master Donator; .:[Hack]:. received Frog; 'Cynical received Cool; Cooligan received Sticky Man.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2194640", "username": "Nex+" },
+        { "uid": "2211567", "username": ".:[Hack]:." },
+        { "uid": "1883633", "username": "'Cynical" },
+        { "uid": "777", "username": "Cooligan" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Gauth for L33t, 3P1C, and Ub3r",
+      "description": "Omniscient enabled Gauth for all upgraded members and stressed its importance for Marketplace participation.",
+      "url": "http://hackforums.net/showthread.php?tid=5105600",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Security Email Notifications",
+      "description": "Omniscient added security email notifications to help protect accounts.",
+      "url": "http://hackforums.net/showthread.php?tid=5105036",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Nominations: December 2015",
+      "description": "Nominations for the monthly Member of the Month competition for December 2015.",
+      "url": "http://hackforums.net/showthread.php?tid=5103552",
+      "users": [
+        { "uid": "1320406", "username": "Froggy" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "The Ultimate Innuendo Thread | Section Information and More",
+      "description": "Cooligan's stickied informational thread about the Innuendo forum, its rules, and helpful resources.",
+      "url": "http://hackforums.net/showthread.php?tid=5106413",
+      "users": [
+        { "uid": "777", "username": "Cooligan" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "What did you get for Christmas? | Pictures! | Three years strong!",
+      "description": "A thread for members to show off their Christmas gifts.",
+      "url": "http://hackforums.net/showthread.php?tid=3951042",
+      "users": [
+        { "uid": "1422600", "username": "Fox™" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "The First Annual Hack Forums Time Capsule",
+      "description": "A thread where members can compare their accounts across a one-year timespan. Closes Jan. 1, 2016 and reopens Dec. 18, 2016.",
+      "url": "http://hackforums.net/showthread.php?tid=5098691",
+      "users": [
+        { "uid": "777", "username": "Cooligan" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "[Ex-Staff] 6.5 Year Feedback Thread",
+      "description": "Ex-staff Inveno (Phire Nuk3r) created a feedback thread after 6.5 years on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5103322",
+      "users": [
+        { "uid": "46373", "username": "Inveno" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Shark's 5 Year Feedback",
+      "description": "Shark's feedback thread after five years on Hack Forums, including his history on the site.",
+      "url": "http://hackforums.net/showthread.php?tid=5112695",
+      "users": [
+        { "uid": "393774", "username": "Shark" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Retribute's Personal Feedback | 4.5 years",
+      "description": "Retribute's feedback thread and story after 4.5 years on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5113544",
+      "users": [
+        { "uid": "393774", "username": "Retribute" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "[Upgrade Giveaway] Buying 3p1c For 1 Lucky Member! {Part 2}",
+      "description": "A giveaway for a chance to win a 3P1C upgrade.",
+      "url": "http://hackforums.net/showthread.php?tid=5101980",
+      "users": [
+        { "uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Gift Award From Miki --| [#3]",
+      "description": "A giveaway for a chance to win a Gift award.",
+      "url": "http://hackforums.net/showthread.php?tid=5103882",
+      "users": [
+        { "uid": "1315784", "username": "Miki" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Logic's New Years Eve Giveaway!! Ub3r Upgrade L33t Giveaway Gift Award PayPal",
+      "description": "A New Year's Eve giveaway offering L33t, Ub3r, Gift Award, and PayPal prizes.",
+      "url": "http://hackforums.net/showthread.php?tid=5112229",
+      "users": [
+        { "uid": "2592608", "username": "Logic" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Can you lie to someone face to face?",
+      "description": "A discussion thread about lying and members sharing their stories.",
+      "url": "http://hackforums.net/showthread.php?tid=5114218",
+      "users": [
+        { "uid": "525882", "username": "Modovich" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "threads",
+      "title": "Weird Things Who Soup sold on HF",
+      "description": "A humorous thread about the unusual items Who Soup has sold on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5113913",
+      "users": [
+        { "uid": "2097293", "username": "Who Soup" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with iHydra conducted by .Sinister and illuminati▲; covers his history on HF, group leadership, and personal stories.",
+      "description": "iHydra discusses joining HF in 2008 for hacking tools, returning in 2010, his graphic design journey, and how he became leader of Titans, Red Lions, and Writers.",
+      "url": "https://hackforums.net/showthread.php?pid=49196357",
+      "users": [
+        { "uid": "561239", "username": "iHydra" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "groups",
+      "title": "Armada stepped down as leader of Legends; _r00t was removed as leader of Royalty.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "952566", "username": "Armada" },
+        { "uid": "2950309", "username": "_r00t" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "groups",
+      "title": "Axiom was listed for sale.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=5113214",
+      "users": [],
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: abangmuz's setup was featured.",
+      "description": "abangmuz is a Reddit user.",
+      "url": "",
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Twelch_g35's setup was featured.",
+      "description": "Twelch_g35 is a Reddit user.",
+      "url": "",
+      "date": 1451541604,
+      "edition": 272
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "370475", "username": "Vegas", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "2250372", "username": "Optimized", "role": "Interviewer" },
+        { "uid": "1918708", "username": "Mugu", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "692131", "username": "Ariana", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2577525", "username": "Hash G.", "role": "Journalist (Site News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "197132", "username": "-Hyperion", "role": "Journalist (Security News)" },
+        { "uid": "2384610", "username": "Limit.", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "279955", "username": "Happeh", "role": "Journalist (World News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "561239", "username": "iHydra", "role": "Journalist (Art Gallery)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "On-Call Team" },
+        { "uid": "91531", "username": "ven0m", "role": "On-Call Team" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "46411", "username": "zer0", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Red S\u043ex", "role": "On-Call Team" },
+        { "uid": "1452196", "username": "-Nas", "role": "Task Reminder" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1451541604,
+      "edition": 272
+    }
+  ]
+}

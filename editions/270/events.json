@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Reputation policies for fraudulent or cheating members were revised; members must now paste canned text before reporting invalid rep.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=5087741",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "site",
+      "title": "Multi-quote was implemented on Hack Forums.",
+      "description": "A toggle was added to the postbit button bar allowing users to select multiple posts to quote at once, added to the Quick Reply field.",
+      "url": "http://hackforums.net/showthread.php?tid=5091630&pid=48934427#pid48934427",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "site",
+      "title": "\"Repfuck\" was renamed to \"Rep Kill\" (RK) in the site charter.",
+      "description": "A filter is expected to be introduced to update old instances of the term across the forum.",
+      "url": "http://hackforums.net/showthread.php?tid=5087790",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "Viral Dragon reached 2 years of online time; Who Soup and Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️ each reached 1,000 positive reputation.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "23809", "username": "Viral Dragon" },
+        { "uid": "2097293", "username": "Who Soup" },
+        { "uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "nokia2mon2's compromised account was banned; Illuminati was banned.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "80618", "username": "nokia2mon2" },
+        { "uid": "1871491", "username": "Illuminati" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "Optimized, Makar0v, and Excah took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2250372", "username": "Optimized" },
+        { "uid": "1684364", "username": "Makar0v" },
+        { "uid": "1743548", "username": "Excah" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "Banker was closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2858586", "username": "Banker" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "ᴊawe, Feelipe, Monkey D. Dragon., Illuminati, Optimized, and Banker were rep killed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2219785", "username": "ᴊawe" },
+        { "uid": "525068", "username": "Feelipe" },
+        { "uid": "1129796", "username": "Monkey D. Dragon." },
+        { "uid": "1871491", "username": "Illuminati" },
+        { "uid": "2250372", "username": "Optimized" },
+        { "uid": "2858586", "username": "Banker" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "Night Fury received the Turkey award; Exha donated for the Benefactor award.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2110841", "username": "Night Fury" },
+        { "uid": "476268", "username": "Exha" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Scammer Reputations",
+      "description": "Omniscient made changes to the scammer reputation policy.",
+      "url": "http://hackforums.net/showthread.php?tid=5087751",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Browser Userscript Conflicts",
+      "description": "Omniscient made firewall changes that can temporarily block users; relevant info for those using browser userscripts.",
+      "url": "http://hackforums.net/showthread.php?tid=5090876",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Money Giveaway Policy",
+      "description": "Omniscient changed the money giveaway policy to require a minimum of $5 to avoid reputation manipulation via small amounts.",
+      "url": "http://hackforums.net/showthread.php?tid=5087894",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "De-Anonymization & Information Gathering",
+      "description": "A guide by Aces. covering methods to gather information on another individual.",
+      "url": "http://hackforums.net/showthread.php?tid=4893179",
+      "users": [
+        { "uid": "1073426", "username": "Aces." }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Early New Years Resolution",
+      "description": "Omniscient shared his New Year's Resolution and what he plans to change about himself.",
+      "url": "http://hackforums.net/showthread.php?tid=5087720",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Drop a selfie!",
+      "description": "A thread for members to share photos of themselves.",
+      "url": "http://hackforums.net/showthread.php?tid=5086205",
+      "users": [
+        { "uid": "777814", "username": "2.15.19" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "A General Member's Feedback",
+      "description": "BR3TT's feedback thread after long-term membership since 2012.",
+      "url": "http://hackforums.net/showthread.php?tid=5089626",
+      "users": [
+        { "uid": "1189959", "username": "BR3TT" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Maximum's GIFT giveaway to 1 lucky user!",
+      "description": "A giveaway for a chance to win a Gift award.",
+      "url": "http://hackforums.net/showthread.php?tid=5086765",
+      "users": [
+        { "uid": "1238642", "username": "Maximum" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "Christmas Contest | Free 50$ to Lucky Winner - Just Post to Enter! [No Signature]",
+      "description": "A Christmas contest with a $50 prize for one winner.",
+      "url": "http://hackforums.net/showthread.php?tid=5089843",
+      "users": [
+        { "uid": "2887685", "username": "Antonio™" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "threads",
+      "title": "ISIS Militants Get What They Deserve",
+      "description": "A controversial video-based discussion in the News and Happenings section about ISIS.",
+      "url": "http://hackforums.net/showthread.php?tid=5088864",
+      "users": [
+        { "uid": "2460055", "username": "Declan" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Shockwave conducted by ɅʁɱªÐą; covers his development of Imminent Monitor RAT and programming history.",
+      "description": "Shockwave discusses joining HF to program Runescape bots, transitioning to .NET, developing Imminent Monitor, and his views on responsible software use.",
+      "url": "https://hackforums.net/showthread.php?pid=49006842",
+      "users": [
+        { "uid": "741482", "username": "Shockwave" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "groups",
+      "title": "Tommy sold Archive to Nine.; the group is expected to rebrand.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2529154", "username": "Tommy" },
+        { "uid": "1812679", "username": "Nine." }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: sidnis's setup was featured.",
+      "description": "sidnis is a Reddit user.",
+      "url": "",
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: ArcanineSays's setup was featured.",
+      "description": "ArcanineSays is a Reddit user.",
+      "url": "",
+      "date": 1450401604,
+      "edition": 270
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "370475", "username": "Vegas", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "1469364", "username": "Prada", "role": "Compiler" },
+        { "uid": "1422600", "username": "Vanill\u200ca", "role": "Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "2250372", "username": "Optimized", "role": "Interviewer" },
+        { "uid": "1918708", "username": "Mugu", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2097293", "username": "Who Soup", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "197132", "username": "-Hyperion", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "279955", "username": "Happeh", "role": "Journalist (World News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "1775114", "username": "Ren", "role": "Journalist (Art Gallery)" },
+        { "uid": "789677", "username": "Grin", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "Ren", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "On-Call Team" },
+        { "uid": "91531", "username": "ven0m", "role": "On-Call Team" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "57618", "username": "| Flawless |", "role": "On-Call Team" },
+        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
+        { "uid": "46411", "username": "zer0", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Red S\u043ex", "role": "On-Call Team" },
+        { "uid": "1452196", "username": "-Nas", "role": "Task Reminder" },
+        { "uid": "X", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1450401604,
+      "edition": 270
+    }
+  ]
+}

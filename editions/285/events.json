@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Deal Dispute Thread Prefixes",
+      "description": "Omniscient added thread prefixes to the Deal Dispute section for currency exchanges, product disputes, services not rendered, and trade disputes to help organize the section.",
+      "url": "http://hackforums.net/showthread.php?tid=5213055",
+      "users": [],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "site",
+      "title": "Prestige Requirement for C/C++/Obj-C Programming Section",
+      "description": "Omniscient added a minimum prestige requirement of 5 for non-upgraded members wishing to post in the C/C++/Obj-C Programming section.",
+      "url": "http://hackforums.net/showthread.php?tid=5214100",
+      "users": [],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "groups",
+      "title": "Group rebrands and leadership changes",
+      "description": "Tɦɛ Gʀiɱ (uid=431105) rebranded Specialists into Nightmare. Realizm (uid=1343812) rebranded Titans into Minecrafters. Bull™ (uid=1844212) is now a leader of Nightmare. iHydra (uid=561239) is now a leader of Minecrafters.",
+      "url": "",
+      "users": [],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "groups",
+      "title": "Group sales",
+      "description": "Null is on sale. Enigma Leadership is for sale.",
+      "url": "",
+      "users": [],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Reputation and prestige milestones",
+      "description": "Magicmann (uid=1964831) reached 1,000 positive reputation. xadamxk (uid=1306528) reached 1,000 prestige.",
+      "url": "",
+      "users": [
+        {"uid": "1964831", "username": "Magicmann"},
+        {"uid": "1306528", "username": "xadamxk"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Bans",
+      "description": "Cammy. (uid=2219785) was banned. ℳĄuℜⅈℭℰ (uid=3031538) was banned. Lacuna (uid=2634803) was banned and Named & Shamed.",
+      "url": "",
+      "users": [
+        {"uid": "2219785", "username": "Cammy."},
+        {"uid": "3031538", "username": "ℳĄuℜⅈℭℰ"},
+        {"uid": "2634803", "username": "Lacuna"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "Excah (uid=1743548) has taken a vacation. NGMA (uid=3031087) has extended their vacation ban.",
+      "url": "",
+      "users": [
+        {"uid": "1743548", "username": "Excah"},
+        {"uid": "3031087", "username": "NGMA"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Account closures",
+      "description": "Red Sоx (uid=1864779) was closed. Combustion (uid=1796736) was closed.",
+      "url": "",
+      "users": [
+        {"uid": "1864779", "username": "Red Sоx"},
+        {"uid": "1796736", "username": "Combustion"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Reputation kills",
+      "description": "Pimp. (uid=2642584) was Rep Killed. Cammy. (uid=2219785) was Rep Killed. SecretEtymology (uid=1827647) was Rep Killed and had his posting privileges permanently suspended. A$AP R‎o‎‎cky (uid=1809592) was Rep Killed. TheJοKer (uid=2289603) was Rep Killed. Post Malone (uid=2520450) was Rep Killed. Combustion (uid=1796736) was Rep Killed. jimmix (uid=2975563) was Rep Killed.",
+      "url": "",
+      "users": [
+        {"uid": "2642584", "username": "Pimp."},
+        {"uid": "2219785", "username": "Cammy."},
+        {"uid": "1827647", "username": "SecretEtymology"},
+        {"uid": "1809592", "username": "A$AP R‎o‎‎cky"},
+        {"uid": "2289603", "username": "TheJοKer"},
+        {"uid": "2520450", "username": "Post Malone"},
+        {"uid": "1796736", "username": "Combustion"},
+        {"uid": "2975563", "username": "jimmix"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "Regulus (uid=1680975) received Member of The Month. Delicious (uid=275104) received Spy. Divined (uid=2292899) received DaBomb. Night Fury (uid=2110841) received Cool. Cibor (uid=1866420) received Genius. Support™ (uid=218524) received Silver Medal.",
+      "url": "",
+      "users": [
+        {"uid": "1680975", "username": "Regulus"},
+        {"uid": "275104", "username": "Delicious"},
+        {"uid": "2292899", "username": "Divined"},
+        {"uid": "2110841", "username": "Night Fury"},
+        {"uid": "1866420", "username": "Cibor"},
+        {"uid": "218524", "username": "Support™"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "Safe Exchanging - By The Illusionist [Guide]",
+      "description": "The Illusionist created a guide on how to decrease your chance of getting scammed while exchanging on HF.",
+      "url": "http://hackforums.net/showthread.php?tid=5212001",
+      "users": [
+        {"uid": "1453525", "username": "The Illusionist"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "Nominations: March 2016",
+      "description": "Froggy is accepting nominations for the March 2016 Member of the Month contest.",
+      "url": "http://hackforums.net/showthread.php?tid=5210883",
+      "users": [
+        {"uid": "1320406", "username": "Froggy"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "Turn Offs/Offs & Unpopular Opinions",
+      "description": "Errors asks the community to share their preferences when it comes to women and their unpopular opinions on the matter.",
+      "url": "http://hackforums.net/showthread.php?tid=5212005",
+      "users": [
+        {"uid": "1960790", "username": "Errors"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "Finally done, 9 weeks of dying",
+      "description": "Wallet shares his gym progress after 9 weeks of training.",
+      "url": "http://hackforums.net/showthread.php?tid=5213018",
+      "users": [
+        {"uid": "1960131", "username": "Wallet"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "[UPGRADE GIVEAWAY] BACONS CONTEST - WIN AN UPGRADE",
+      "description": "Granny Bacon is giving away a free HF upgrade to a member who meets the listed requirements.",
+      "url": "http://hackforums.net/showthread.php?tid=5211589",
+      "users": [
+        {"uid": "2861221", "username": "Granny Bacon"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "RenRioku's Blowaway Giveaway [Upgrading 1 member each week]",
+      "description": "RenRioku™ is upgrading one member each week with a random upgrade.",
+      "url": "http://hackforums.net/showthread.php?tid=5196164",
+      "users": [
+        {"uid": "1041725", "username": "RenRioku™"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "3 years feedback",
+      "description": "Excah wrote a feedback thread celebrating his 3 years of activity on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5212619",
+      "users": [
+        {"uid": "1743548", "username": "Excah"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "threads",
+      "title": "In need of music",
+      "description": "King Cin asks the community for music recommendations for an upcoming party.",
+      "url": "http://hackforums.net/showthread.php?tid=5209675",
+      "users": [
+        {"uid": "1221196", "username": "King Cin"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with crazyycast13",
+      "description": ".Sinister interviews crazyycast13 about his history on HF, interest in cryptography and security, and career goals in the cybersecurity industry.",
+      "url": "https://hackforums.net/showthread.php?pid=50351117",
+      "users": [
+        {"uid": "1514932", "username": "crazyycast13"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: jallajalla21's setup was featured.",
+      "description": "jallajalla21's battlestation from reddit was featured.",
+      "url": "",
+      "date": 1459210134,
+      "edition": 285
+    },
+    {
+      "category": "news",
+      "title": "Edition 285 credits",
+      "description": "MeshCollider: Scholar; Raptor.: Scholar; Queenie: Scholar; Wires: Scholar; Cooligan: Journalist (Headlines); illuminati▲: Journalist (User News); Grievous: Journalist (Notable Threads); .Sinister: Interviewer; Armada: Interviewer; illuminati▲: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; Nobility: Journalist (Group News); illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Harbo5: Journalist (Security News); Limit.: Journalist (Gaming News); Buffy Summers: Journalist (Gaming News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Phreakdaline: Journalist (World News); Astute: Journalist (World News); Wires: Comics; Designer: Graphical Artist; Wires: On-Call Team; King Cin: On-Call Team; Ariana: On-Call Team; Froggy: Supervisor",
+      "url": "",
+      "users": [
+        {"uid": "2015410", "username": "MeshCollider"},
+        {"uid": "1453009", "username": "Raptor."},
+        {"uid": "2504443", "username": "Queenie"},
+        {"uid": "610356", "username": "Wires"},
+        {"uid": "777", "username": "Cooligan"},
+        {"uid": "525019", "username": "illuminati▲"},
+        {"uid": "1754121", "username": "Grievous"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "952566", "username": "Armada"},
+        {"uid": "1957866", "username": "Enterpriser"},
+        {"uid": "1148878", "username": "Clique"},
+        {"uid": "992067", "username": "Nobility"},
+        {"uid": "2577525", "username": "Hash G."},
+        {"uid": "1422600", "username": "Fox™"},
+        {"uid": "1696750", "username": "Harbo5"},
+        {"uid": "2384610", "username": "Limit."},
+        {"uid": "2364291", "username": "Buffy Summers"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "1352632", "username": "Phreakdaline"},
+        {"uid": "1014629", "username": "Astute"},
+        {"uid": "1290620", "username": "Designer"},
+        {"uid": "1221196", "username": "King Cin"},
+        {"uid": "692131", "username": "Ariana"},
+        {"uid": "1320406", "username": "Froggy"}
+      ],
+      "date": 1459210134,
+      "edition": 285
+    }
+  ]
+}

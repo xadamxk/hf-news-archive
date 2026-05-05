@@ -1,0 +1,204 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Development Roadmap Published",
+      "description": "Omniscient provided the community with a roadmap of what changes are coming to Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4905748",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Reputation milestones",
+      "description": "adampelletgun hit 4,000 reputation points. WaterSpice and .Sinister each hit 1,000 reputation points.",
+      "url": "",
+      "users": [
+        {"uid": "454666", "username": "adampelletgun"},
+        {"uid": "1498588", "username": "WaterSpice"},
+        {"uid": "2214473", "username": ".Sinister"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "iHydra won MOTM and received the MOTM award.",
+      "url": "",
+      "users": [
+        {"uid": "561239", "username": "iHydra"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Bans",
+      "description": "+Cyan was banned. Teh Afro was banned for being a scammer who tried to manipulate. Understalker and Craze Z were banned as precautions after their accounts were compromised.",
+      "url": "",
+      "users": [
+        {"uid": "651474", "username": "+Cyan"},
+        {"uid": "860828", "username": "Teh Afro"},
+        {"uid": "1726101", "username": "Understalker"},
+        {"uid": "1216255", "username": "Craze Z"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "Chisisi and Clark took vacation bans.",
+      "url": "",
+      "users": [
+        {"uid": "1535763", "username": "Chisisi"},
+        {"uid": "1648934", "username": "Clark"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Account closures",
+      "description": "ca9a2536fd8b17df76f7ee082, Matheus, Chrome Sparks, and yungloungegod had their accounts closed.",
+      "url": "",
+      "users": [
+        {"uid": "1617327", "username": "ca9a2536fd8b17df76f7ee082"},
+        {"uid": "1425901", "username": "Matheus"},
+        {"uid": "1313896", "username": "Chrome Sparks"},
+        {"uid": "1528462", "username": "yungloungegod"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Repfucks",
+      "description": "Payne, Matheus, +Cyan, Teh Afro, Αnime, and Evocati were repfucked.",
+      "url": "",
+      "users": [
+        {"uid": "2548722", "username": "Payne"},
+        {"uid": "1425901", "username": "Matheus"},
+        {"uid": "651474", "username": "+Cyan"},
+        {"uid": "860828", "username": "Teh Afro"},
+        {"uid": "2608028", "username": "Αnime"},
+        {"uid": "1929404", "username": "Evocati"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "threads",
+      "title": "HF is not hacked",
+      "description": "Following rumors that Hackforums' database was hacked, Omniscient released a statement regarding these rumors.",
+      "url": "http://hackforums.net/showthread.php?tid=4851162",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "threads",
+      "title": "What is the last illegal thing you did?",
+      "description": "Ekmete invites you to share the last illegal thing you did and got away with.",
+      "url": "http://hackforums.net/showthread.php?tid=4905591",
+      "users": [{"uid": "1423220", "username": "Ekmete"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "threads",
+      "title": "WOW - GROUP LEADER - DRAMA - 4 YEARS - LOVE, LAUGHTER AND LIFE - FEEDBACK",
+      "description": "Haydrazs gives an account of his time and experiences on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4887980",
+      "users": [{"uid": "892404", "username": "Haydrazs"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "threads",
+      "title": "[CAPO'S GIVEAWAY] UPGRADING ONE MEMBER TO 3P1C, L33T, OR UB3R!",
+      "description": "Test your luck with Capo's upgrade contest. Who knows, you might be upgraded at the end of it!",
+      "url": "http://hackforums.net/showthread.php?tid=4903410",
+      "users": [{"uid": "2390777", "username": "Capo™"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "threads",
+      "title": "Cinema4D House *Finished*",
+      "description": "Come check out Iggy Azalea's house made in Cinema4D.",
+      "url": "http://hackforums.net/showthread.php?tid=4894139",
+      "users": [{"uid": "2017155", "username": "Iggy Azalea"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Clique",
+      "description": "D3xus interviews Clique about his history on HF, groups, League of Legends, and his new job.",
+      "url": "https://hackforums.net/showthread.php?pid=46991864",
+      "users": [{"uid": "1148878", "username": "Clique"}],
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: geeklogan's setup was featured.",
+      "description": "geeklogan's battlestation was featured this week.",
+      "url": "https://i.imgur.com/5QnysMh.jpg",
+      "date": 1436797253,
+      "edition": 248
+    },
+    {
+      "category": "news",
+      "title": "Edition 248 Credits",
+      "description": "Wind Waker (1st Editor), iHydra (2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits), Vegas (3rd Editor), Raptor. (4th Editor), ӍeshCollider (5th Editor), Prada (1st Compiler), Apostle (2nd Compiler), Vanill‌a (3rd Compiler, 4th Compiler), Cooligan (Journalist (Headlines)), Odus (Journalist (Headlines)), Cody (Journalist (User News)), 630 (Journalist (User News)), Trust (Journalist (Notable Threads)), Clique (Interviewer), .Sinister (Interviewer), Justin Timberlake (Interviewer), Astute (Interviewer), Nobility (Journalist (Group News)), Ventures (Journalist (Group News)), Abraham Lincoln (Journalist (Omnicoin News)), Harlem (Journalist (Site News)), Charlemagne (Journalist (Site News)), Thornzzz (Journalist (Opinion Central)), Goodies (Journalist (Hacking News)), Virule (Journalist (Hacking News)), Harbo5 (Journalist (Security News)), Premortal (Journalist (Gaming News)), Red Sоx (Journalist (Gaming News)), Аngel (Journalist (Tech News)), Gladly (Journalist (Tech News)), Happeh (Journalist (World News); Breaking News Team (World News)), +One (Breaking News Team (Gaming News)), Abide (Breaking News Team (Tech News)), Designer (Graphical Artist), Rivalry (Art Gallery / Comics / Graphical Artist), Saged' (Reserve Writer), ven0m (Reserve Writer), zer0- (Reserve Writer), -Nas (Task Manager)",
+      "url": "",
+      "users": [
+        {"uid": "2173791", "username": "Wind Waker"},
+        {"uid": "561239", "username": "iHydra"},
+        {"uid": "370475", "username": "Vegas"},
+        {"uid": "1453009", "username": "Raptor."},
+        {"uid": "2015410", "username": "ӍeshCollider"},
+        {"uid": "1469364", "username": "Prada"},
+        {"uid": "1544384", "username": "Apostle"},
+        {"uid": "1422600", "username": "Vanill‌a"},
+        {"uid": "777", "username": "Cooligan"},
+        {"uid": "85546", "username": "Odus"},
+        {"uid": "1172544", "username": "Cody"},
+        {"uid": "797403", "username": "630"},
+        {"uid": "1446355", "username": "Trust"},
+        {"uid": "1148878", "username": "Clique"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "1958081", "username": "Justin Timberlake"},
+        {"uid": "1014629", "username": "Astute"},
+        {"uid": "992067", "username": "Nobility"},
+        {"uid": "1595524", "username": "Ventures"},
+        {"uid": "1256441", "username": "Abraham Lincoln"},
+        {"uid": "1079277", "username": "Harlem"},
+        {"uid": "2585207", "username": "Charlemagne"},
+        {"uid": "1992268", "username": "Thornzzz"},
+        {"uid": "1173142", "username": "Goodies"},
+        {"uid": "2282311", "username": "Virule"},
+        {"uid": "1696750", "username": "Harbo5"},
+        {"uid": "981500", "username": "Premortal"},
+        {"uid": "1864779", "username": "Red Sоx"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "279955", "username": "Happeh"},
+        {"uid": "2231695", "username": "+One"},
+        {"uid": "1698590", "username": "Abide"},
+        {"uid": "1290620", "username": "Designer"},
+        {"uid": "1138866", "username": "Rivalry"},
+        {"uid": "47360", "username": "Saged'"},
+        {"uid": "91531", "username": "ven0m"},
+        {"uid": "46411", "username": "zer0-"},
+        {"uid": "1452196", "username": "-Nas"}
+      ],
+      "date": 1436797253,
+      "edition": 248
+    }
+  ]
+}

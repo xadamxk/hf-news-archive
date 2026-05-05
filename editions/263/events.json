@@ -1,0 +1,264 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Further Tweaks",
+      "description": "Following the server move, Hack Forums' database has migrated from MySQL to MariaDB. User browsing (who is viewing a thread or forum) is now shown. The next planned upgrade is from Apache to Nginx for improved DDoS protection.",
+      "url": "http://hackforums.net/showthread.php?tid=5035605",
+      "users": [
+        {"uid": "1", "username": "Omniscient"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "users",
+      "title": "Several users were banned.",
+      "description": "BotMarket was banned for sales trashing and harassing members; Cʜᴀsᴇ was banned for reporting an admin's post.",
+      "url": "",
+      "users": [
+        {"uid": "1709393", "username": "BotMarket"},
+        {"uid": "2819045", "username": "C\u029c\u1d00s\u1d07"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "users",
+      "title": "Several users took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        {"uid": "2737613", "username": "UnNullRouted"},
+        {"uid": "952566", "username": "\u0245\u0281\u026f\u00aaD\u0105"},
+        {"uid": "1314004", "username": "aaaAa AAaaa a"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "users",
+      "title": "Hinch was closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        {"uid": "2471116", "username": "Hinch"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "users",
+      "title": "Several users were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        {"uid": "1709393", "username": "BotMarket"},
+        {"uid": "2471116", "username": "Hinch"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "users",
+      "title": "Several awards were given out.",
+      "description": "Spotify is a Hot Dog; ๖ۣۜRaymond Reddington donated for Master Donator and is now Cool; astr is a Black Hatter; Projec7 donated for Bitcoinage and is now a Businessman; Cooligan is a Top Banana.",
+      "url": "",
+      "users": [
+        {"uid": "2008952", "username": "Spotify"},
+        {"uid": "2061024", "username": "๖ۣۜRaymond Reddington"},
+        {"uid": "1486665", "username": "astr"},
+        {"uid": "2678738", "username": "Projec7"},
+        {"uid": "777", "username": "Cooligan"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "Server Move and Bugs",
+      "description": "Omniscient announces that Hack Forums is now on a new server.",
+      "url": "http://hackforums.net/showthread.php?tid=5027774",
+      "users": [
+        {"uid": "1", "username": "Omniscient"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "Search Like Gawd",
+      "description": "Omniscient has fixed the most hated feature on Hack Forums, the search button! The minimum limit to characters you can search by has been lowered to three.",
+      "url": "http://hackforums.net/member.php?action=profile&uid=1",
+      "users": [
+        {"uid": "1", "username": "Omniscient"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "Skype Imposter List - Updated Daily",
+      "description": "The user Bald. has taken the time out of his day to be able to provide Hack Forums a list of all Skype usernames that are imposters.",
+      "url": "http://hackforums.net/showthread.php?tid=5004742",
+      "users": [
+        {"uid": "2802817", "username": "Bald."}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "Weird Contact",
+      "description": "Omniscient explains a weird contact with a user who sent him a private message.",
+      "url": "http://hackforums.net/showthread.php?tid=5027398",
+      "users": [
+        {"uid": "1", "username": "Omniscient"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "What would you spend $2,000 on?",
+      "description": "The user darkeclipse asks the community \"What would you spend $2,000 on?\"",
+      "url": "http://hackforums.net/showthread.php?tid=5032292",
+      "users": [
+        {"uid": "1576888", "username": "darkeclipse"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "What does your phone set up look like?",
+      "description": "The user Grin asks the community what their phone set up looks like.",
+      "url": "http://hackforums.net/showthread.php?tid=5031989",
+      "users": [
+        {"uid": "789677", "username": "Grin"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "Macadelic a/k/a TheMostDopePizza feedback thread",
+      "description": "The user macadelic provides the community with some feedback and his story of what makes him the user he is today.",
+      "url": "http://hackforums.net/showthread.php?tid=5028428",
+      "users": [
+        {"uid": "2693790", "username": "macadelic"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "Upgrading 4/4 Members! - Look Inside -",
+      "description": "The user Morty has created a contest in which he will upgrade four members provided you write him a poem.",
+      "url": "http://hackforums.net/showthread.php?tid=5012282",
+      "users": [
+        {"uid": "2582276", "username": "Morty"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "threads",
+      "title": "15 mins of HF Purge",
+      "description": "Here is a recap of what happened during the server move purge!",
+      "url": "http://hackforums.net/showthread.php?tid=5029074",
+      "users": [
+        {"uid": "2133932", "username": "Blue"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "groups",
+      "title": "ɅʁɱªÐą is no longer a leader of Legends.",
+      "description": "",
+      "url": "",
+      "users": [
+        {"uid": "952566", "username": "\u0245\u0281\u026f\u00aaD\u0105"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "groups",
+      "title": "AnimeFAN! and L'appel du vide listed for sale.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4936160",
+      "users": [],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Regulus.",
+      "description": "",
+      "url": "https://hackforums.net/showthread.php?pid=48347116",
+      "users": [
+        {"uid": "1680975", "username": "Regulus"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Fistipup's and archie2992's setups were featured.",
+      "description": "",
+      "url": "",
+      "date": 1445961229,
+      "edition": 263
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {"uid": "370475", "username": "Vegas", "role": "1st Scholar"},
+        {"uid": "1453009", "username": "Raptor.", "role": "2nd Scholar"},
+        {"uid": "610356", "username": "Wires", "role": "3rd Scholar / On-Call Team"},
+        {"uid": "2015410", "username": "ӍeshCollider", "role": "4th Scholar"},
+        {"uid": "1469364", "username": "Prada", "role": "1st Compiler"},
+        {"uid": "1422600", "username": "Vanill\u200ca", "role": "2nd Compiler"},
+        {"uid": "85546", "username": "Odus", "role": "Journalist (Headlines)"},
+        {"uid": "797403", "username": "630", "role": "Journalist (User News)"},
+        {"uid": "1452953", "username": "420 Blaze It", "role": "Journalist (User News)"},
+        {"uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)"},
+        {"uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)"},
+        {"uid": "2214473", "username": ".Sinister", "role": "Interviewer"},
+        {"uid": "952566", "username": "Armada", "role": "Interviewer"},
+        {"uid": "2250372", "username": "Optimized", "role": "Interviewer"},
+        {"uid": "1918708", "username": "Mugu", "role": "Interviewer"},
+        {"uid": "992067", "username": "Nobility", "role": "Journalist (Group News)"},
+        {"uid": "2097293", "username": "Who Soup", "role": "Journalist (Omnicoin News)"},
+        {"uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)"},
+        {"uid": "2282311", "username": "Ginsum", "role": "Journalist (Hacking News)"},
+        {"uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)"},
+        {"uid": "197132", "username": "-Hyperion", "role": "Journalist (Security News)"},
+        {"uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)"},
+        {"uid": "1864779", "username": "Red S\u043ex", "role": "Journalist (Gaming News)"},
+        {"uid": "1356937", "username": "\u0410ngel", "role": "Journalist (Tech News)"},
+        {"uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)"},
+        {"uid": "279955", "username": "Happeh", "role": "Journalist (World News)"},
+        {"uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)"},
+        {"uid": "1775114", "username": "Ren", "role": "Art Gallery / Graphical Artist"},
+        {"uid": "789677", "username": "Grin", "role": "Comics"},
+        {"uid": "1290620", "username": "Designer", "role": "Graphical Artist"},
+        {"uid": "47360", "username": "Saged'", "role": "On-Call Team"},
+        {"uid": "91531", "username": "ven0m", "role": "On-Call Team"},
+        {"uid": "57618", "username": "| Flawless |", "role": "On-Call Team"},
+        {"uid": "530032", "username": "Curt.", "role": "On-Call Team"},
+        {"uid": "1221196", "username": "Cin", "role": "On-Call Team"},
+        {"uid": "46411", "username": "zer0", "role": "On-Call Team"},
+        {"uid": "1452196", "username": "-Nas", "role": "Task Reminder"},
+        {"uid": "1320406", "username": "Froggy", "role": "Supervisor"}
+      ],
+      "date": 1445961229,
+      "edition": 263
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Omniscient reminded the community that trolling and low-quality posting will result in immediate account closure without warning.",
+      "description": "Omniscient posted in the Counter Strike section noting increased trolling activity and declared that accounts found trolling will be closed on the spot.",
+      "url": "http://hackforums.net/showthread.php?tid=5152931",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "site",
+      "title": "Omniscient published new minimum requirements for Ub3r applications: 250 posts, 25 reputation, 60 days membership, and a 90-day reapplication wait after denial.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=5161486",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "Walt Disney™ became a Probational Staff Member.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1450348", "username": "Walt Disney™" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "Vicellus Drum, Bay, and Mr. Robot reached 1,000 positive reputation; Cooligan reached 10,000 posts; Mr Kewl reached 20,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1431463", "username": "Vicellus Drum" },
+        { "uid": "434812", "username": "Bay" },
+        { "uid": "2682887", "username": "Mr. Robot" },
+        { "uid": "777", "username": "Cooligan" },
+        { "uid": "183072", "username": "Mr Kewl" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "๖ۣۜHero was banned, pending closure.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2935267", "username": "๖ۣۜHero" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "NoHax, Daisy ♡, and Trojan were closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2563181", "username": "NoHax" },
+        { "uid": "1263952", "username": "Daisy ♡" },
+        { "uid": "1066893", "username": "Trojan" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "NoHax and Trojan were rep killed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2563181", "username": "NoHax" },
+        { "uid": "1066893", "username": "Trojan" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "Mr Kewl received Diamond; Nex+ received Mad Scientist; YoungThug. donated for Master Donator.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "183072", "username": "Mr Kewl" },
+        { "uid": "2194640", "username": "Nex+" },
+        { "uid": "2776397", "username": "YoungThug." }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Internal.",
+      "description": "Internal discusses joining HF through Runescape, his involvement in Specialists, plans for an RSPS project and a $500+ group giveaway, and his thoughts on the HF community.",
+      "url": "https://hackforums.net/showthread.php?pid=49748644",
+      "users": [
+        { "uid": "932616", "username": "Internal:" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "BMX Legend Dave Mirra Dead - 41 Years Old - Suicide.",
+      "description": "Regulus announced the passing of BMX star Dave Mirra to the Hack Forums community.",
+      "url": "http://hackforums.net/showthread.php?tid=5159188",
+      "users": [
+        { "uid": "1680975", "username": "Regulus" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "GF got beaten up by 3 guys...",
+      "description": "Layle's thread asking HF members how to respond to his girlfriend being harassed.",
+      "url": "http://hackforums.net/showthread.php?tid=5160424",
+      "users": [
+        { "uid": "2398940", "username": "Layle" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "The Day I Tried to Sell a Raccoon....As a Cat",
+      "description": "Effexion's humorous story about trying to pass off a raccoon as a cat.",
+      "url": "http://hackforums.net/showthread.php?tid=5139355",
+      "users": [
+        { "uid": "229769", "username": "Effexion" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "1 member upgrade",
+      "description": "Onkel Dolan's contest where one member wins an upgrade.",
+      "url": "http://hackforums.net/showthread.php?tid=5150327",
+      "users": [
+        { "uid": "2814290", "username": "Onkel Dolan" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "| ALL MEMBERS | Win L33t, Uber, Epic or Emerald Award! |",
+      "description": "NoMercy's contest giving away a L33T, UB3R, or 3P1C upgrade or an Emerald Award.",
+      "url": "http://hackforums.net/showthread.php?tid=5156866",
+      "users": [
+        { "uid": "2426337", "username": "NoMercy" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "Cooligan's Massive First Feedback Thread | In honor of 10,000 posts",
+      "description": "Cooligan's feedback thread celebrating his 10,000-post milestone.",
+      "url": "http://hackforums.net/forumdisplay.php?fid=2",
+      "users": [
+        { "uid": "777", "username": "Cooligan" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "threads",
+      "title": "[RANT] Are you out of your fucking mind?",
+      "description": "Sonex's rant about new users begging for and receiving reputation.",
+      "url": "http://hackforums.net/showthread.php?tid=5157401",
+      "users": [
+        { "uid": "411005", "username": "Sonex" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "groups",
+      "title": "Nex+ rebranded Prism into Eternal; Fiz, YoungThug., and Young Thug are leaders of Eternal.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2194640", "username": "Nex+" },
+        { "uid": "2553288", "username": "Fiz" },
+        { "uid": "2776397", "username": "YoungThug." },
+        { "uid": "710987", "username": "Young Thug" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "groups",
+      "title": "MeshCollider stepped down as leader of Legends.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2015410", "username": "MeshCollider" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "groups",
+      "title": "DARK was listed for sale.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=5153553",
+      "users": [],
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Raz0x's setup was featured.",
+      "description": "Raz0x is a Reddit user.",
+      "url": "",
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Cimrin's setup was featured.",
+      "description": "Cimrin is a Reddit user.",
+      "url": "",
+      "date": 1454999391,
+      "edition": 278
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "2504443", "username": "reve4 neeuQ", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "525019", "username": "illuminati", "role": "Interviewer" },
+        { "uid": "1957866", "username": "Enterpriser", "role": "Interviewer" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2577525", "username": "Hash G.", "role": "Journalist (Site News)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Hacking News)" },
+        { "uid": "1422600", "username": "Fox™", "role": "Journalist (Hacking News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "2384610", "username": "Limit.", "role": "Journalist (Gaming News)" },
+        { "uid": "2364291", "username": "Buffy Summers", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "1014629", "username": "Astute", "role": "Journalist (World News)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Redizm", "role": "On-Call Team" },
+        { "uid": "197132", "username": "-Hyperion", "role": "On-Call Team" },
+        { "uid": "85546", "username": "Odus", "role": "On-Call Team" },
+        { "uid": "692131", "username": "Ariana", "role": "On-Call Team" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1454999391,
+      "edition": 278
+    }
+  ]
+}

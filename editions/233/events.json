@@ -1,0 +1,375 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "SRPP now open to regular members with Prestige 25 or higher",
+      "description": "The Science, Religion, Philosophy, and Politics section was previously restricted to upgraded members. From March 26th, any member with a Prestige of 25+ can post regardless of rank.",
+      "url": "http://hackforums.net/showthread.php?tid=4747439",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "OMC Sales Tags introduced for Marketplace thread titles; beta for Ub3r members",
+      "description": "Tags purchasable with Omnicoin to decorate thread titles went live in testing on March 26th across several Marketplace subforums. Omniscient sought members to design new tags. A beta allowing Ub3r members to purchase tags was subsequently released.",
+      "url": "http://hackforums.net/showthread.php?tid=4748538",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "Session cookies tightened; one logout destroys all sessions across all devices",
+      "description": "Members may still log in on multiple devices, but a single logout now terminates cookies on every device simultaneously.",
+      "url": "http://hackforums.net/showthread.php?tid=4747565",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "Reputation comments restricted to Latin-alphabet characters only",
+      "description": "Special characters outside the Latin alphabet are no longer supported in reputation comment fields, preventing oversized entries from obstructing reputation table rows.",
+      "url": "http://hackforums.net/showthread.php?tid=4747641",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "Omniscient posted thread to end Sir-related drama; Darkcoin award implemented",
+      "description": "Omniscient stated the drama surrounding Sir's account closure had gone on too long and would no longer be tolerated. Separately, the Darkcoin donation award was implemented after positive community feedback.",
+      "url": "http://hackforums.net/showthread.php?tid=4745658",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "Nightfall suspended by Omniscient for harassment, doxing, and rep abuse against other groups",
+      "description": "Omniscient suspended Nightfall for one month due to members being encouraged to harass, dox, and rep abuse members of other groups. All leaders were removed. Omniscient warned Nightfall could be permanently removed if the behavior continues.",
+      "url": "http://hackforums.net/showthread.php?tid=4747338",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "iHydra announced Opinion Weekly section and podcast host change for HF News",
+      "description": "A new Opinion Weekly section with community polls will begin in edition 234. Baghead stepped down as podcast host and was replaced by Orchid permanently.",
+      "url": "",
+      "users": [
+        { "uid": "561239", "username": "iHydra" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "site",
+      "title": "OMC services rapidly developing: IRC tipping bot, dice game, and more",
+      "description": "Following the OMC bounties and free subdomain program, Omnicoin-related services proliferated including an Omnicoin Dice Game, an IRC chat with integrated tipping bot, and multiple new sites.",
+      "url": "http://hackforums.net/showthread.php?tid=4747365",
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Redwall hit 10,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1697764", "username": "Redwall" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Vinnie, Warriors, Salty, and Panik were banned.",
+      "description": "Vinnie and Salty for harassing members; Warriors for financial fraud; Panik for his role in the Nightfall harassment incident.",
+      "url": "",
+      "users": [
+        { "uid": "600771", "username": "Vinnie" },
+        { "uid": "1268770", "username": "Warriors" },
+        { "uid": "2470858", "username": "Salty" },
+        { "uid": "96230", "username": "Panik" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Chief., Tom ツ, diiaz, d4rkJ4y, and Feynman took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "458073", "username": "Chief." },
+        { "uid": "993083", "username": "Tom ツ" },
+        { "uid": "1706955", "username": "diiaz" },
+        { "uid": "597816", "username": "d4rkJ4y" },
+        { "uid": "1371476", "username": "Feynman" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Sktchy had their account closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2424397", "username": "Sktchy" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Vinnie and Warriors were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "600771", "username": "Vinnie" },
+        { "uid": "1268770", "username": "Warriors" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Martino, iHydra, Hexicidal, Tick, and Moeseph received awards.",
+      "description": "Martino received Drunk; iHydra received White Hat Helper; Hexicidal received Speaker of the House; Tick received Cool; Moeseph received Benefactor.",
+      "url": "",
+      "users": [
+        { "uid": "2134535", "username": "Martino" },
+        { "uid": "561239", "username": "iHydra" },
+        { "uid": "863752", "username": "Hexicidal" },
+        { "uid": "1965500", "username": "Tick" },
+        { "uid": "1066501", "username": "Moeseph" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "groups",
+      "title": "All Nightfall leaders removed: inxy, Jerv, Nobility, and Teh Afro",
+      "description": "Following Omniscient's suspension of Nightfall, all leaders were stripped of leadership.",
+      "url": "http://hackforums.net/showthread.php?tid=4747338",
+      "users": [
+        { "uid": "398783", "username": "inxy" },
+        { "uid": "2585523", "username": "Jerv" },
+        { "uid": "992067", "username": "Nobility" },
+        { "uid": "860828", "username": "Teh Afro" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "Trolls Have Personality Disorders",
+      "description": "Omniscient's thread about trolling on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4738770",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "Let's get #Hackforums trending on twitter.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4748913",
+      "users": [
+        { "uid": "2282192", "username": "Arcanine" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "Whats a good car to get? I got 40k...",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4747136",
+      "users": [
+        { "uid": "2419828", "username": "Cyber Army" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "Just when it rains - Voice Feedback to HackForums.",
+      "description": "Member feedback thread.",
+      "url": "http://hackforums.net/showthread.php?tid=4744799",
+      "users": [
+        { "uid": "863752", "username": "Hexicidal" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "Vanilla's final feedback/farewell thread",
+      "description": "Member feedback/farewell thread.",
+      "url": "http://hackforums.net/showthread.php?tid=4747369",
+      "users": [
+        { "uid": "1422600", "username": "Vanilla" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "[CRYPTEX / SPECIALISTS] MASSIVE CONTEST - 11 PRIZES - ALL INVITED",
+      "description": "KillαMuvz giving away upgrades, awards, and a product license.",
+      "url": "http://hackforums.net/showthread.php?tid=4750298",
+      "users": [
+        { "uid": "579898", "username": "KillαMuvz" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "40$ BTC GIVEAWAY for ALL MEMBERS | 3 WINNERS",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4743811",
+      "users": [
+        { "uid": "1624297", "username": "ErudiN" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "HF Username Glitch (Get any username)",
+      "description": "Thread explaining how to use special characters to get any username.",
+      "url": "http://hackforums.net/showthread.php?tid=4750062",
+      "users": [
+        { "uid": "2639265", "username": "OFWGKTA" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "OmniCoin IRC Chat with tipping bot!",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4747365",
+      "users": [
+        { "uid": "2192744", "username": "Fudster™" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "threads",
+      "title": "OMC RPC server ruby gem.",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4746903",
+      "users": [
+        { "uid": "2194264", "username": "severos" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with xadamxk conducted by Astute",
+      "description": "xadamxk discussed joining HF after his step brother showed him CyberGate, becoming active in the iOS section (suggesting the split into separate iOS and Android sections), working as a HF mentor for over a year after declining Omniscient's offer to become Staff, and his views on groups not living up to their potential.",
+      "url": "https://hackforums.net/showthread.php?pid=45482231",
+      "users": [
+        { "uid": "1306528", "username": "xadamxk" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Who Soup conducted by Justin Timberlake",
+      "description": "Who Soup discussed selling Hawaiian food products (pesto, ghost peppers, coconuts, cake in a cup) and 3D-printed iPhone cases on HF, growing most ingredients himself, his prior businesses including a Hawaiian artifacts company and a real estate development company, and being kicked from private school at 17 before becoming an entrepreneur.",
+      "url": "https://hackforums.net/showthread.php?pid=45482231",
+      "users": [
+        { "uid": "2097293", "username": "Who Soup" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: iHydra's setup was featured.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "561239", "username": "iHydra" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
+        { "uid": "561239", "username": "iHydra", "role": "2nd Editor" },
+        { "uid": "370475", "username": "Vegas", "role": "3rd Editor" },
+        { "uid": "1453009", "username": "Raptor.", "role": "4th Editor" },
+        { "uid": "2015410", "username": "ӍeshCollider", "role": "5th Editor" },
+        { "uid": "1469364", "username": "Prada", "role": "1st Compiler" },
+        { "uid": "1544384", "username": "Apostle", "role": "2nd Compiler" },
+        { "uid": "1422600", "username": "Vanill‌a", "role": "3rd Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "1108450", "username": "Baghead", "role": "Journalist (Podcast)" },
+        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "2154389", "username": "Orchid", "role": "Journalist (Notable Threads)" },
+        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
+        { "uid": "827711", "username": "D3xus", "role": "Interviewer" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
+        { "uid": "1014629", "username": "Astute", "role": "Interviewer" },
+        { "uid": "561239", "username": "iHydra", "role": "HF News Support / Weekly Update / Battlestations / Credits" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "1595524", "username": "Ventures", "role": "Journalist (Group News)" },
+        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
+        { "uid": "900087", "username": "Starstruck", "role": "Journalist (Site News)" },
+        { "uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)" },
+        { "uid": "2282311", "username": "Virule", "role": "Journalist (Hacking News)" },
+        { "uid": "1093501", "username": "Roger Waters", "role": "Journalist (Security News)" },
+        { "uid": "46411", "username": "zer0-", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "1864779", "username": "Red Sоx", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "2572841", "username": "Chaos", "role": "Journalist (Tech News)" },
+        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "rennn", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "Reserve Writer" },
+        { "uid": "91531", "username": "ven0m", "role": "Reserve Writer" },
+        { "uid": "1452196", "username": "-Nas", "role": "Task Manager" }
+      ],
+      "date": 1427759797,
+      "edition": 233
+    }
+  ]
+}

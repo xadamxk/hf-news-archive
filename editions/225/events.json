@@ -1,0 +1,349 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Omniscient opened a new Forums Software forum in the Website Construction section",
+      "description": "On January 27th a new forum was created for questions and discussion about forum software such as vBulletin, MyBB, and IP.board. All relevant existing threads were moved and thread prefixes were added.",
+      "url": "http://hackforums.net/showthread.php?tid=4658333",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "site",
+      "title": "HackerCraft shut down after Robust scammed and Peach proved incapable",
+      "description": "On January 31st Omniscient announced that HC was mismanaged and that he had been lied to repeatedly. After Robust scammed and Peach (Edward Snowden.) closed their account, Omniscient removed the nameserver and declared he has no plans to re-license the HC brand to anyone else.",
+      "url": "http://hackforums.net/showthread.php?tid=4664530",
+      "users": [
+        { "uid": "1", "username": "Omniscient" },
+        { "uid": "1205532", "username": "Robust" },
+        { "uid": "1180981", "username": "Edward Snowden." }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "630 hit 24,000 posts and Acewoman hit 30,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "797403", "username": "630" },
+        { "uid": "524451", "username": "Acewoman" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "Arrow hit 2,000 reputation points.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1191229", "username": "Arrow" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "Understalker, Japanese, Trvp, Sktchy, and Paranoid‌ were banned.",
+      "description": "Understalker for reputation abuse; Japanese for low quality posts; Trvp and Sktchy for harassing members; Paranoid‌ for infecting members.",
+      "url": "",
+      "users": [
+        { "uid": "1726101", "username": "Understalker" },
+        { "uid": "1618863", "username": "Japanese" },
+        { "uid": "2102751", "username": "Trvp" },
+        { "uid": "2424397", "username": "Sktchy" },
+        { "uid": "1770882", "username": "Paranoid‌" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "Gramatik, Saturlights, Ladax, .Matt, Reset, Suboptimal, NotCookie, Sagax, and Woden took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2271773", "username": "Gramatik" },
+        { "uid": "787112", "username": "Saturlights" },
+        { "uid": "1900416", "username": "Ladax" },
+        { "uid": "1354902", "username": ".Matt" },
+        { "uid": "417076", "username": "Reset" },
+        { "uid": "1838701", "username": "Suboptimal" },
+        { "uid": "198825", "username": "NotCookie" },
+        { "uid": "2312369", "username": "Sagax" },
+        { "uid": "1477964", "username": "Woden" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "'Psyduck had their account closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1639113", "username": "'Psyduck" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "Trvp, Sktchy, DamienVC, Paranoid‌, and 'Psyduck were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2102751", "username": "Trvp" },
+        { "uid": "2424397", "username": "Sktchy" },
+        { "uid": "2334861", "username": "DamienVC" },
+        { "uid": "1770882", "username": "Paranoid‌" },
+        { "uid": "1639113", "username": "'Psyduck" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "Tweety. donated for Master Donator and received Top Banana; 630 received 24k; Vinnie received Sticky Man.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1234585", "username": "Tweety." },
+        { "uid": "797403", "username": "630" },
+        { "uid": "600771", "username": "Vinnie" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "groups",
+      "title": "Fortune launched as successor to Revolution; leadership changes across Fortune and Specialists",
+      "description": "Jake Miller added as leader of Fortune. Orchid, Acedude, and Dorrance removed as leaders of Revolution. Aceman removed as leader of Specialists.",
+      "url": "http://hackforums.net/showthread.php?tid=4658522",
+      "users": [
+        { "uid": "1616077", "username": "Jake Miller" },
+        { "uid": "2154389", "username": "Orchid" },
+        { "uid": "1108450", "username": "Acedude" },
+        { "uid": "2185870", "username": "Dorrance" },
+        { "uid": "934881", "username": "Aceman" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "groups",
+      "title": "Titans Radio",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4656042",
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "groups",
+      "title": "Titans // Tittens",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4648622",
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "site",
+      "title": "Dark Gravity Wave algorithm release delayed for Omnicoin",
+      "description": "DGW was hoped to be implemented by block 140,000 but complications in the wallet building process prevented this. The team reached out to mircosfot for help with the release process.",
+      "url": "",
+      "users": [
+        { "uid": "2165859", "username": "mircosfot" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "TONS of Resources - Various Programming Languages.",
+      "description": "A thread compiling resources for many common coding languages.",
+      "url": "http://hackforums.net/showthread.php?tid=4655104",
+      "users": [
+        { "uid": "2313090", "username": "InexactSwigg" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "I work as an Apple Store Genius. Ask me anything!",
+      "description": "An informational and entertaining AMA thread.",
+      "url": "http://hackforums.net/showthread.php?tid=4656206",
+      "users": [
+        { "uid": "2286195", "username": "Sigur Rós" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "Old Fag yet?",
+      "description": "A simple question that turned into a debate about how old you need to be to earn the title of \"old fag.\"",
+      "url": "http://hackforums.net/showthread.php?tid=4662737",
+      "users": [
+        { "uid": "1289548", "username": "Sunlight" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "[ALL MEMBERS] 1-10$ PP Giveaway! x-Winners daily!",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4655077",
+      "users": [
+        { "uid": "1902138", "username": "Kiyoshi" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "[ALL MEMBERS] >>>>>100$ contest giveaway<<<<<[BTC/Paypal/eBook]",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4660722",
+      "users": [
+        { "uid": "2230356", "username": "Single Core" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "What operating system do you use? {vote}",
+      "description": "HF members sharing which OS they use.",
+      "url": "http://hackforums.net/showthread.php?tid=4659144",
+      "users": [
+        { "uid": "2217380", "username": "IrexoI" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "[Proposal] HackerCraft Directory Plugin",
+      "description": "A new suggestion for HackerCraft that gained significant attention.",
+      "url": "http://hackforums.net/showthread.php?tid=4642485",
+      "users": [
+        { "uid": "2153692", "username": "HawkEye™" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "New OMC Faucet - Need devs/partner!",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4656435",
+      "users": [
+        { "uid": "2262838", "username": "OMC Faucet" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "threads",
+      "title": "Mined and Blown",
+      "description": "OMC section weekly highlight.",
+      "url": "http://hackforums.net/showthread.php?tid=4649973",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Panik conducted by Justin Timberlake",
+      "description": "Panik discussed being an HF member since 2008, the evolution of the site from blackhat content to general discussion, creating Panik Gang as a parody that went viral, competitive shooting as a hobby, and his work as an NRA-certified instructor.",
+      "url": "https://hackforums.net/showthread.php?pid=44647264",
+      "users": [
+        { "uid": "96230", "username": "Panik" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with 630 conducted by Clique",
+      "description": "630 discussed rooting for the Patriots in the Super Bowl, his history in the HF appraisals section, choosing the username '630' (Chicago area code) and regretting it, working at a bar while attending college, and his thoughts on HF's declining community.",
+      "url": "https://hackforums.net/showthread.php?pid=44647264",
+      "users": [
+        { "uid": "797403", "username": "630" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Optimized's setup was featured.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2250372", "username": "Optimized" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
+        { "uid": "96230", "username": "Panik", "role": "2nd Editor" },
+        { "uid": "1453009", "username": "Raptor.", "role": "3rd Editor" },
+        { "uid": "2015410", "username": "ӍeshCollider", "role": "4th Editor" },
+        { "uid": "370475", "username": "Vegas", "role": "5th Editor" },
+        { "uid": "44755", "username": "Snorlax'", "role": "1st Compiler" },
+        { "uid": "127962", "username": "Slankey™", "role": "2nd Compiler" },
+        { "uid": "1422600", "username": "Swirled", "role": "3rd Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "1860651", "username": "Coppersan", "role": "Journalist (Headlines)" },
+        { "uid": "1108450", "username": "Baghead", "role": "Journalist (Podcast)" },
+        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
+        { "uid": "827711", "username": "D3xus", "role": "Journalist (Group News)" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
+        { "uid": "1469364", "username": "Prada‌", "role": "Journalist (Site News)" },
+        { "uid": "515249", "username": "Sir", "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits" },
+        { "uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)" },
+        { "uid": "692605", "username": "Nivarka", "role": "Journalist (Hacking News)" },
+        { "uid": "91531", "username": "ven0m", "role": "Journalist (Security News)" },
+        { "uid": "610658", "username": "Junkie™", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "2282311", "username": "Virule", "role": "Journalist (Gaming News)" },
+        { "uid": "649674", "username": "Eternal.", "role": "Journalist (Tech News)" },
+        { "uid": "1698590", "username": "Abide", "role": "Journalist (Tech News)" },
+        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "Greed.", "role": "Graphical Artist" },
+        { "uid": "1944390", "username": "Skylar™", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Archon Sin", "role": "Reserve Writer" },
+        { "uid": "524451", "username": "Yellows", "role": "Task Manager" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1422979367,
+      "edition": 225
+    }
+  ]
+}

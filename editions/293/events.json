@@ -1,0 +1,230 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Ethereum currency on Hack Forums",
+      "description": "Ethereum was added as a cryptocurrency on Hack Forums. The Ethereist award launched at $15 for the first 48 hours before rising to $20 USD; Ethereum can also be used as upgrade payment and may extend to sticky purchases depending on uptake.",
+      "url": "http://hackforums.net/showthread.php?tid=5285302",
+      "users": [],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "site",
+      "title": "Minimum $1 USD on non-free account sales",
+      "description": "Giveaways of non-free accounts for pennies were closed off; Omniscient ruled each sold account must cost at least $1 USD.",
+      "url": "http://hackforums.net/showthread.php?tid=5285153",
+      "users": [],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "site",
+      "title": "Music Lover award",
+      "description": "The Music Lover award was added (“For the lovers of music who have actual taste”). Requirements were still unclear; activity in Melody, Harmony, Rhythm, and MP3 was suggested.",
+      "url": "http://hackforums.net/myawards.php?awid=91",
+      "users": [],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "groups",
+      "title": "Group changes",
+      "description": "Krave (uid=1165241) updated The Order’s userbar. ‘Remix (uid=2240164) became a leader of The Brotherhood.",
+      "url": "",
+      "users": [],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Reputation milestones",
+      "description": "LeminLyme (uid=857807) reached 1,000 positive reputation. Tasemu (uid=62795) reached 1,000 positive reputation.",
+      "url": "",
+      "users": [
+        {"uid": "857807", "username": "LeminLyme"},
+        {"uid": "62795", "username": "Tasemu"}
+      ],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Bans",
+      "description": "B0ssMan (uid=2544623) was banned for asking for reputation. Funtage (uid=121026) was banned for a reputation violation.",
+      "url": "",
+      "users": [
+        {"uid": "2544623", "username": "B0ssMan"},
+        {"uid": "121026", "username": "Funtage"}
+      ],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "illuminati▲ (uid=525019), Leo (uid=2554239), Narrate (uid=1573931), R2-D2 (uid=2857264), Rivalry (uid=1138866), and True Demon (uid=902219) took vacations.",
+      "url": "",
+      "users": [
+        {"uid": "525019", "username": "illuminati▲"},
+        {"uid": "2554239", "username": "Leo"},
+        {"uid": "1573931", "username": "Narrate"},
+        {"uid": "2857264", "username": "R2-D2"},
+        {"uid": "1138866", "username": "Rivalry"},
+        {"uid": "902219", "username": "True Demon"}
+      ],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Account closures",
+      "description": "Rikk‌a (uid=3073350) was closed.",
+      "url": "",
+      "users": [{"uid": "3073350", "username": "Rikk‌a"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Reputation kills",
+      "description": "B0ssMan (uid=2544623) and Rikk‌a (uid=3073350) were Rep Killed.",
+      "url": "",
+      "users": [
+        {"uid": "2544623", "username": "B0ssMan"},
+        {"uid": "3073350", "username": "Rikk‌a"}
+      ],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "iHydra (uid=561239) received GFX Guru. King Cin (uid=1221196) was first to receive Music Lover. Krave (uid=1165241) received Flamer and FPS Gawd. Proxseas (uid=1700311) donated for Grand Amethyst and received Hot Dog. Realizm (uid=1343812) became Alien. Roytoy (uid=130086) received Sticky Man for a photography thread. Tommy (uid=2529154) received Black Hatter for the second time. Vanilla (uid=1754362) received Drunk.",
+      "url": "",
+      "users": [
+        {"uid": "561239", "username": "iHydra"},
+        {"uid": "1221196", "username": "King Cin"},
+        {"uid": "1165241", "username": "Krave"},
+        {"uid": "1700311", "username": "Proxseas"},
+        {"uid": "1343812", "username": "Realizm"},
+        {"uid": "130086", "username": "Roytoy"},
+        {"uid": "2529154", "username": "Tommy"},
+        {"uid": "1754362", "username": "Vanilla"}
+      ],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "NFA Feedback and Views",
+      "description": "Omniscient opened discussion on pricing for account shops before closing it quickly.",
+      "url": "http://hackforums.net/showthread.php?tid=5285153",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "Ethereist Award (Limited Time Sale)",
+      "description": "Announcement of the Ethereum donation award with launch pricing.",
+      "url": "http://hackforums.net/showthread.php?tid=5285302",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "THE ULTIMATE PHOTOGRAPHY THREAD | LENSES | RULES | RESOURCES",
+      "description": "Roytoy’s photography mega-thread covering gear and rules.",
+      "url": "http://hackforums.net/showthread.php?tid=5281601",
+      "users": [{"uid": "130086", "username": "Roytoy"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "[Part 2] How to make thread designs: Making it from scratch",
+      "description": "That Guy Maxim continued his thread-design tutorial series.",
+      "url": "http://hackforums.net/showthread.php?tid=5280608",
+      "users": [{"uid": "3077324", "username": "That Guy Maxim"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "HF imposting site - imposting users",
+      "description": "iLogic™ warned about a copycat site impersonating HF members.",
+      "url": "http://hackforums.net/showthread.php?tid=5285827",
+      "users": [{"uid": "2352298", "username": "iLogic™"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "Want to get the new HackForums Awards? // Cryptic's Lounge // Chillin",
+      "description": "Cryptic™ hosted discussion around lucky clover awards with a helper userscript.",
+      "url": "http://hackforums.net/showthread.php?tid=5291499",
+      "users": [{"uid": "716331", "username": "Cryptic™"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "threads",
+      "title": "Muhammad Ali Passes Away Aged 74.",
+      "description": "Alphapanda013 reported the boxer’s death.",
+      "url": "http://hackforums.net/showthread.php?tid=5292649",
+      "users": [{"uid": "3041232", "username": "Alphapanda013"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Orgy",
+      "description": "",
+      "url": "https://hackforums.net/showthread.php?pid=51119729",
+      "users": [{"uid": "182754", "username": "Orgy"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "users",
+      "title": "Spotlight of the week: \"2new.\"",
+      "description": "GFX spotlight piece credited to Denitorious.",
+      "url": "",
+      "users": [{"uid": "1377493", "username": "Denitorious"}],
+      "date": 1464741083,
+      "edition": 293
+    },
+    {
+      "category": "news",
+      "title": "Edition 293 credits",
+      "description": "Queenie: Scholar; Wires: Scholar; Joey: Scholar; Odus: Journalist (Headlines); illuminati▲: Journalist (User News); .Sinister: Interviewer; Armada: Interviewer; Enterpriser: Interviewer; Clique: Interviewer; illuminati▲: Journalist (Site News); Hash G.: Journalist (Site News); Wires: Journalist (Hacking News); Fox™: Journalist (Hacking News); Аngel: Journalist (Tech News); Gladly: Journalist (Tech News); Night Fury: Journalist (World News); Delirium™: Journalist (World News) [TRIAL]; Intelligent Sin: Journalist (Science News); Wires: Comics; Wires: On-Call Team supervisor; King Cin: On-Call Team; Odus: On-Call Team; Ariana: On-Call Team; Minimalist: On-Call Team [TRIAL]; reBELLYus: On-Call Team [TRIAL]",
+      "url": "",
+      "users": [
+        {"uid": "2504443", "username": "Queenie"},
+        {"uid": "610356", "username": "Wires"},
+        {"uid": "712376", "username": "Joey"},
+        {"uid": "85546", "username": "Odus"},
+        {"uid": "525019", "username": "illuminati▲"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "952566", "username": "Armada"},
+        {"uid": "1957866", "username": "Enterpriser"},
+        {"uid": "1148878", "username": "Clique"},
+        {"uid": "2577525", "username": "Hash G."},
+        {"uid": "1422600", "username": "Fox™"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "2110841", "username": "Night Fury"},
+        {"uid": "255459", "username": "Delirium™"},
+        {"uid": "910913", "username": "Intelligent Sin"},
+        {"uid": "1221196", "username": "King Cin"},
+        {"uid": "692131", "username": "Ariana"},
+        {"uid": "1915596", "username": "Minimalist"},
+        {"uid": "2905593", "username": "reBELLYus"}
+      ],
+      "date": 1464741083,
+      "edition": 293
+    }
+  ]
+}

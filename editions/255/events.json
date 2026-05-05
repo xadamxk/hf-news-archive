@@ -1,0 +1,223 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Omnicoin Bounces Back; OMC Award Reintroduced",
+      "description": "Omnicoin remained listed on Bittrex. The OMC Dev Team implemented an OMC plugin to the forum for address verification and history tracking. The OMC Award was reintroduced at a special price of $10 OMC. Plans were announced to integrate Omnicoin with a new automated signature sales system.",
+      "url": "http://hackforums.net/showthread.php?tid=4965694",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "site",
+      "title": "Reputation Purge Imminent",
+      "description": "Omniscient warned that all reputations given and received from closed accounts will be removed from member reputation counts sometime in September.",
+      "url": "http://hackforums.net/showthread.php?tid=4968134",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "site",
+      "title": "Gift Cards Reintroduced as Payment Option",
+      "description": "The Gift Card Restriction was removed from the Disallowed Blackhat Activity help document, allowing gift cards as a permitted form of payment for onsite transactions between members.",
+      "url": "http://hackforums.net/showthread.php?tid=4968103",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Reputation and post milestones",
+      "description": "Aggron received 1,000 positive reputation. Dr. Hobo and Hexicidal each made 10,000 posts.",
+      "url": "",
+      "users": [
+        {"uid": "2223238", "username": "Aggron"},
+        {"uid": "121792", "username": "Dr. Hobo"},
+        {"uid": "863752", "username": "Hexicidal"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Staff changes",
+      "description": "D3xus is no longer a Mentor. adampelletgun is no longer a Mentor.",
+      "url": "",
+      "users": [
+        {"uid": "827711", "username": "D3xus"},
+        {"uid": "454666", "username": "adampelletgun"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "Αnime, Pow, and Spyro The Dragon took vacation bans.",
+      "url": "",
+      "users": [
+        {"uid": "2608028", "username": "Αnime"},
+        {"uid": "2205331", "username": "Pow"},
+        {"uid": "1743726", "username": "Spyro The Dragon"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Account closures",
+      "description": "MisterPonzi, ClarkTheCoder, Teh Afro, and Raz3d had their accounts closed.",
+      "url": "",
+      "users": [
+        {"uid": "2729745", "username": "MisterPonzi"},
+        {"uid": "1653635", "username": "ClarkTheCoder"},
+        {"uid": "860828", "username": "Teh Afro"},
+        {"uid": "1229273", "username": "Raz3d"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Repfucks",
+      "description": "DamienVC, Prince of Seoul, and Anime were repfucked.",
+      "url": "",
+      "users": [
+        {"uid": "2334861", "username": "DamienVC"},
+        {"uid": "1270485", "username": "Prince of Seoul"},
+        {"uid": "2608028", "username": "Anime"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "xitoxic received the Graphics Master award. Cibor received the Businessman award. Arrow received the DaBomb award. ӍeshCollider received the Omnicoin award.",
+      "url": "",
+      "users": [
+        {"uid": "1205194", "username": "xitoxic"},
+        {"uid": "1866420", "username": "Cibor"},
+        {"uid": "1191229", "username": "Arrow"},
+        {"uid": "2015410", "username": "ӍeshCollider"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "groups",
+      "title": "Group leadership changes",
+      "description": "๖ۣۜNex is now the owner of Debug. TRH4CK is no longer a leader of Specialists. W̴̵̶̷̸̸̷̶̵̴̨̧̧̨̛̛̠̲͇αя∂σω and Dr.Watson are now leaders of Debug.",
+      "url": "",
+      "users": [
+        {"uid": "2194640", "username": "๖ۣۜNex"},
+        {"uid": "1101548", "username": "TRH4CK"},
+        {"uid": "1810243", "username": "W̴̵̶̷̸̸̷̶̵̴̨̧̧̨̛̛̠̲͇αя∂σω"},
+        {"uid": "2579314", "username": "Dr.Watson"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "threads",
+      "title": "What's your IQ? Take This quick 20 question test",
+      "description": "Have you always wondered what your IQ score is? Take this quick test and find the answer!",
+      "url": "http://hackforums.net/showthread.php?tid=4968740",
+      "users": [{"uid": "1049666", "username": "Scar™"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "threads",
+      "title": "APG's Feedback | END OF AN ERA | 5 YEARS ON HF",
+      "description": "adampelletgun provides his opinion on Hack Forums and announces that he will be leaving shortly.",
+      "url": "http://hackforums.net/showthread.php?tid=4968214",
+      "users": [{"uid": "454666", "username": "adampelletgun"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "threads",
+      "title": "I was asked, \"What purpose does HackForums serve for you?\"",
+      "description": "Grin created a thread expressing his feelings about Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4962498",
+      "users": [{"uid": "789677", "username": "Grin"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "threads",
+      "title": "[DETAILED] Complete Anonymity/OPSEC Guide",
+      "description": "A very useful and in-depth guide about anonymity by zer0.",
+      "url": "http://hackforums.net/showthread.php?tid=4888771",
+      "users": [{"uid": "46411", "username": "zer0"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "threads",
+      "title": "10 OMC AWARDS - Tell me why you like HF!",
+      "description": "KillαMuvz⁯⁯⁯⁯⁯ is hosting a contest where 10 winners will receive the OMC award.",
+      "url": "http://hackforums.net/showthread.php?tid=4968871",
+      "users": [{"uid": "579898", "username": "KillαMuvz⁯⁯⁯⁯⁯"}],
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: ThatMumboJumbo's setup was featured.",
+      "description": "ThatMumboJumbo's battlestation was featured this week.",
+      "url": "https://imgur.com/a/4UF1w",
+      "date": 1441079896,
+      "edition": 255
+    },
+    {
+      "category": "news",
+      "title": "Edition 255 Credits",
+      "description": "Wind Waker (1st Editor), iHydra (2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits; Journalist (World News)), Vegas (3rd Editor), Raptor. (4th Editor), ӍeshCollider (5th Editor), Prada (1st Compiler), Jodye (2nd Compiler), Vanill‌a (3rd Compiler), Ren (4th Compiler; Art Gallery / Comics / Graphical Artist), Cooligan (Journalist (Headlines)), Odus (Journalist (Headlines)), Cody (Journalist (User News)), 630 (Journalist (User News)), Trust (Journalist (Notable Threads)), .Sinister (Interviewer), vurezo (Interviewer), Nobility (Journalist (Group News)), Ventures (Journalist (Group News)), Harlem (Journalist (Site News)), Goodies (Journalist (Hacking News)), Ginsum (Journalist (Hacking News)), Harbo5 (Journalist (Security News)), -Hyperion (Journalist (Security News)), Premortal (Journalist (Gaming News)), Red Sоx (Journalist (Gaming News)), Аngel (Journalist (Tech News)), Gladly (Journalist (Tech News)), Happeh (Journalist (World News); Breaking News Team (World News)), +One (Breaking News Team (Gaming News)), Abide (Breaking News Team (Tech News)), Designer (Graphical Artist), Rivalry (Graphical Artist), Saged' (Reserve Writer), ven0m (Reserve Writer), zer0 (Reserve Writer), -Nas (Task Manager)",
+      "url": "",
+      "users": [
+        {"uid": "2173791", "username": "Wind Waker"},
+        {"uid": "561239", "username": "iHydra"},
+        {"uid": "370475", "username": "Vegas"},
+        {"uid": "1453009", "username": "Raptor."},
+        {"uid": "2015410", "username": "ӍeshCollider"},
+        {"uid": "1469364", "username": "Prada"},
+        {"uid": "2038812", "username": "Jodye"},
+        {"uid": "1422600", "username": "Vanill‌a"},
+        {"uid": "1775114", "username": "Ren"},
+        {"uid": "777", "username": "Cooligan"},
+        {"uid": "85546", "username": "Odus"},
+        {"uid": "1172544", "username": "Cody"},
+        {"uid": "797403", "username": "630"},
+        {"uid": "1446355", "username": "Trust"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "1918708", "username": "vurezo"},
+        {"uid": "992067", "username": "Nobility"},
+        {"uid": "1595524", "username": "Ventures"},
+        {"uid": "1079277", "username": "Harlem"},
+        {"uid": "1173142", "username": "Goodies"},
+        {"uid": "2282311", "username": "Ginsum"},
+        {"uid": "1696750", "username": "Harbo5"},
+        {"uid": "197132", "username": "-Hyperion"},
+        {"uid": "981500", "username": "Premortal"},
+        {"uid": "1864779", "username": "Red Sоx"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "279955", "username": "Happeh"},
+        {"uid": "2231695", "username": "+One"},
+        {"uid": "1698590", "username": "Abide"},
+        {"uid": "1290620", "username": "Designer"},
+        {"uid": "1138866", "username": "Rivalry"},
+        {"uid": "47360", "username": "Saged'"},
+        {"uid": "91531", "username": "ven0m"},
+        {"uid": "46411", "username": "zer0"},
+        {"uid": "1452196", "username": "-Nas"}
+      ],
+      "date": 1441079896,
+      "edition": 255
+    }
+  ]
+}

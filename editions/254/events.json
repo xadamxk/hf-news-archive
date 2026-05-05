@@ -1,0 +1,248 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Omnicoin Crisis: OMC Award Suspended",
+      "description": "Bittrex threatened to delist Omnicoin following a continuous low valuation. As a result, the OMC award was suspended and sales tags & 3p1c became purchasable with BTC, LTC, and DOGE. Omniscient reported suffering five-figure losses over OMC.",
+      "url": "http://hackforums.net/showthread.php?tid=4958381",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "site",
+      "title": "Award ToolTip Changed to Show Donor Username",
+      "description": "Award tooltips previously showed only the award name when hovered. Following a suggestion for the Gift award, tooltips now show the donor's username and this change supports every award.",
+      "url": "",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "users",
+      "title": "Reputation milestones",
+      "description": "Elegant and KFC Watermelon each reached 1,000 positive reputation.",
+      "url": "",
+      "users": [
+        {"uid": "1134879", "username": "Elegant"},
+        {"uid": "1849237", "username": "KFC Watermelon"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "users",
+      "title": "Bans",
+      "description": "G H 0 5 T was banned and their account is under investigation. Jake Miller was banned.",
+      "url": "",
+      "users": [
+        {"uid": "1535763", "username": "G H 0 5 T"},
+        {"uid": "1616077", "username": "Jake Miller"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "users",
+      "title": "Vacation bans",
+      "description": "Flaw', Floating, Red Soldier, Reset, Dan Smith, and Sur Justice took vacation bans.",
+      "url": "",
+      "users": [
+        {"uid": "2572841", "username": "Flaw'"},
+        {"uid": "1329472", "username": "Floating"},
+        {"uid": "2552202", "username": "Red Soldier"},
+        {"uid": "417076", "username": "Reset"},
+        {"uid": "1612332", "username": "Dan Smith"},
+        {"uid": "1331944", "username": "Sur Justice"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "users",
+      "title": "Repfucks",
+      "description": "G H 0 5 T and Jake Miller were repfucked.",
+      "url": "",
+      "users": [
+        {"uid": "1535763", "username": "G H 0 5 T"},
+        {"uid": "1616077", "username": "Jake Miller"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "users",
+      "title": "Awards",
+      "description": "King of Hearts received the Sticky Man award for their Java tutorial thread. Jake Miller received the DaBomb award.",
+      "url": "http://hackforums.net/showthread.php?tid=4941613",
+      "users": [
+        {"uid": "992020", "username": "King of Hearts"},
+        {"uid": "1616077", "username": "Jake Miller"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "groups",
+      "title": "Group leadership changes",
+      "description": "Happeh is now a leader of Titan. Red Sox is now a leader of Axiom. Th3PonyWizard is now a leader of Null.",
+      "url": "",
+      "users": [
+        {"uid": "279955", "username": "Happeh"},
+        {"uid": "1864779", "username": "Red Sox"},
+        {"uid": "531250", "username": "Th3PonyWizard"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "groups",
+      "title": "AnimeFAN! and L'appel du vide listed for sale",
+      "description": "AnimeFAN! official user group and L'appel du vide were both listed for sale.",
+      "url": "http://hackforums.net/showthread.php?tid=4961504",
+      "users": [],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "Very Important Information about Scammer Reps",
+      "description": "Omniscient makes it very clear about what constitutes a valid reputation accusing someone as a scammer.",
+      "url": "http://hackforums.net/showthread.php?tid=4386890",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "Whos your HF best friend?",
+      "description": "Have you made any friends on Hack Forums? Any best friends? If so, share who on this thread!",
+      "url": "http://hackforums.net/showthread.php?tid=4955112",
+      "users": [{"uid": "2351649", "username": "Chromosome 47"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "My Feedback On HackForums",
+      "description": "Crypt gives his feedback regarding Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=4953073",
+      "users": [{"uid": "1567847", "username": "Crypt"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "Forum Feedback - Submit Yours!",
+      "description": "xadamxk created a thread to allow users to vote on which section of Hack Forums needs the most improvement.",
+      "url": "http://hackforums.net/showthread.php?tid=4942814",
+      "users": [{"uid": "1306528", "username": "xadamxk"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "I was asked, \"What purpose does HackForums serve for you?\"",
+      "description": "Grin was asked a question and replied with a detailed response.",
+      "url": "http://hackforums.net/showthread.php?tid=4962498",
+      "users": [{"uid": "789677", "username": "Grin"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "Welcome to Java :: A complete, updated compilation of Tutorials and Source Codes",
+      "description": "A great and in-depth tutorial regarding the Java programming language.",
+      "url": "http://hackforums.net/showthread.php?tid=4941613",
+      "users": [{"uid": "992020", "username": "King of Hearts"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "[L33T / UB3R] WIN 25$ BTC / PAYPAL [SIGNATURE]",
+      "description": "Internet Explorer⁯⁯⁯⁯⁯ is hosting a contest in which the winner will receive twenty-five dollars.",
+      "url": "http://hackforums.net/showthread.php?tid=4953358",
+      "users": [{"uid": "1917880", "username": "Internet Explorer⁯⁯⁯⁯⁯"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "threads",
+      "title": "$100 PRIZE :: APOLLO REVENUE :: 3 WINNERS",
+      "description": "Ginsum is hosting a contest in which one winner will receive twenty-five dollars and two other winners will receive a money making E-book.",
+      "url": "http://hackforums.net/showthread.php?tid=4932937",
+      "users": [{"uid": "2282311", "username": "Ginsum"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Ren",
+      "description": ".Sinister interviews Ren about his graphic design background, his time as a writer for the HF News, the current state of HF groups, and his future plans for front-end development.",
+      "url": "https://hackforums.net/showthread.php?pid=47606972",
+      "users": [{"uid": "1775114", "username": "Ren"}],
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: PoopedMySpaceSuit's setup was featured.",
+      "description": "PoopedMySpaceSuit's battlestation was featured this week.",
+      "url": "https://imgur.com/a/XhVtj",
+      "date": 1440555903,
+      "edition": 254
+    },
+    {
+      "category": "news",
+      "title": "Edition 254 Credits",
+      "description": "Wind Waker (1st Editor), iHydra (2nd Editor; HF News Support / Memo / Battlestations / Moment / Credits), Vegas (3rd Editor), Raptor. (4th Editor), ӍeshCollider (5th Editor), Prada (1st Compiler), Jodye (2nd Compiler), Vanill‌a (3rd Compiler), Ren (4th Compiler), Cooligan (Journalist (Headlines)), Odus (Journalist (Headlines)), Cody (Journalist (User News)), 630 (Journalist (User News)), Trust (Journalist (Notable Threads)), Astute (Interviewer), Justin Timberlake (Interviewer), .Sinister (Interviewer), vurezo (Interviewer), Nobility (Journalist (Group News)), Ventures (Journalist (Group News)), Abraham Lincoln (Journalist (Omnicoin News)), Harlem (Journalist (Site News)), Charlemagne (Journalist (Site News)), Thornzzz (Journalist (Opinion Central)), Goodies (Journalist (Hacking News)), Ginsum (Journalist (Hacking News)), Harbo5 (Journalist (Security News)), -Hyperion (Journalist (Security News)), Premortal (Journalist (Gaming News)), Red Sоx (Journalist (Gaming News)), Аngel (Journalist (Tech News)), Gladly (Journalist (Tech News)), Happeh (Journalist (World News); Breaking News Team (World News)), +One (Breaking News Team (Gaming News)), Abide (Breaking News Team (Tech News)), Designer (Graphical Artist), Rivalry (Art Gallery / Comics / Graphical Artist), Saged' (Reserve Writer), ven0m (Reserve Writer), zer0 (Reserve Writer), -Nas (Task Manager)",
+      "url": "",
+      "users": [
+        {"uid": "2173791", "username": "Wind Waker"},
+        {"uid": "561239", "username": "iHydra"},
+        {"uid": "370475", "username": "Vegas"},
+        {"uid": "1453009", "username": "Raptor."},
+        {"uid": "2015410", "username": "ӍeshCollider"},
+        {"uid": "1469364", "username": "Prada"},
+        {"uid": "2038812", "username": "Jodye"},
+        {"uid": "1422600", "username": "Vanill‌a"},
+        {"uid": "1775114", "username": "Ren"},
+        {"uid": "777", "username": "Cooligan"},
+        {"uid": "85546", "username": "Odus"},
+        {"uid": "1172544", "username": "Cody"},
+        {"uid": "797403", "username": "630"},
+        {"uid": "1446355", "username": "Trust"},
+        {"uid": "1014629", "username": "Astute"},
+        {"uid": "1958081", "username": "Justin Timberlake"},
+        {"uid": "2214473", "username": ".Sinister"},
+        {"uid": "1918708", "username": "vurezo"},
+        {"uid": "992067", "username": "Nobility"},
+        {"uid": "1595524", "username": "Ventures"},
+        {"uid": "1256441", "username": "Abraham Lincoln"},
+        {"uid": "1079277", "username": "Harlem"},
+        {"uid": "2585207", "username": "Charlemagne"},
+        {"uid": "1992268", "username": "Thornzzz"},
+        {"uid": "1173142", "username": "Goodies"},
+        {"uid": "2282311", "username": "Ginsum"},
+        {"uid": "1696750", "username": "Harbo5"},
+        {"uid": "197132", "username": "-Hyperion"},
+        {"uid": "981500", "username": "Premortal"},
+        {"uid": "1864779", "username": "Red Sоx"},
+        {"uid": "1356937", "username": "Аngel"},
+        {"uid": "1730460", "username": "Gladly"},
+        {"uid": "279955", "username": "Happeh"},
+        {"uid": "2231695", "username": "+One"},
+        {"uid": "1698590", "username": "Abide"},
+        {"uid": "1290620", "username": "Designer"},
+        {"uid": "1138866", "username": "Rivalry"},
+        {"uid": "47360", "username": "Saged'"},
+        {"uid": "91531", "username": "ven0m"},
+        {"uid": "46411", "username": "zer0"},
+        {"uid": "1452196", "username": "-Nas"}
+      ],
+      "date": 1440555903,
+      "edition": 254
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Currency exchanging was permanently banned on Hack Forums.",
+      "description": "Omniscient announced on January 13, 2016 that all currency exchanging is no longer allowed, and deal disputes regarding currency exchanges are also banned. The rule was added as #19 under Rules and Etiquette.",
+      "url": "http://hackforums.net/showthread.php?tid=5132640",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "site",
+      "title": "Omniscient announced a possible return of HackerCraft.",
+      "description": "Omniscient is seriously considering reopening the HackerCraft Minecraft server after continued community requests.",
+      "url": "http://hackforums.net/showthread.php?tid=5133678",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "site",
+      "title": "Omniscient announced several HF changes including plans to re-implement currency exchanging in a safer way and a possible return of the VIP section.",
+      "description": "Currency exchanging may be re-introduced in a controlled form with a dedicated group. The VIP section may return with the MyBB 1.8x update.",
+      "url": "http://hackforums.net/showthread.php?tid=5133650",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Nyx- hit -4,000 reputation; illuminati▲ reached 10,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "11953", "username": "Nyx-" },
+        { "uid": "525019", "username": "illuminati▲" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Frawshy and Philly were banned, pending closure.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "1233686", "username": "Frawshy" },
+        { "uid": "674714", "username": "Philly" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Ahri and StackOverlowin took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2031636", "username": "Ahri" },
+        { "uid": "2501102", "username": "StackOverlowin" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Loki123 and Bin4ry were closed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "271731", "username": "Loki123" },
+        { "uid": "1947658", "username": "Bin4ry" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Loki123, The Watcher, Frawshy, and Philly were rep killed.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "271731", "username": "Loki123" },
+        { "uid": "2476428", "username": "The Watcher" },
+        { "uid": "1233686", "username": "Frawshy" },
+        { "uid": "674714", "username": "Philly" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "!Glitch purchased Grand Amethyst, Bitcoinage, Legalize It, and Litecoinage awards; Nex+ received Sticky Man; Redizm donated for Master Donator; Zayzo received Spy.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "55709", "username": "!Glitch" },
+        { "uid": "2194640", "username": "Nex+" },
+        { "uid": "1864779", "username": "Redizm" },
+        { "uid": "2373463", "username": "Zayzo" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "threads",
+      "title": "[For teh lulz:]>_How much is your HF profile *$* Worth *$* ?_[/Top 10 List]",
+      "description": "ｍＯｂｉＩｅ's thread asking how much a member's HF profile is worth.",
+      "url": "http://hackforums.net/showthread.php?tid=5102193",
+      "users": [
+        { "uid": "747953", "username": "ｍＯｂｉＩｅ" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "threads",
+      "title": "Be honest, are YOU racist?",
+      "description": "A discussion thread asking members if they are racist.",
+      "url": "http://hackforums.net/showthread.php?tid=5109868",
+      "users": [
+        { "uid": "2430705", "username": "Auze" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "threads",
+      "title": "[Ub3r only] $5 BTC Giveaway for Celebration of my 10,000 Posts! [Ub3r only]",
+      "description": "A Bitcoin giveaway for Ub3r members celebrating Elegantl's 10,000 posts.",
+      "url": "http://hackforums.net/showthread.php?tid=5136142",
+      "users": [
+        { "uid": "1315784", "username": "Elegantl" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "threads",
+      "title": "Free HF Upgrades/Awards (35 members)",
+      "description": "A giveaway by !Glitch offering upgrades and awards to 35 members.",
+      "url": "http://hackforums.net/showthread.php?tid=5119454",
+      "users": [
+        { "uid": "55709", "username": "!Glitch" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "threads",
+      "title": "Walmart closing 269 stores",
+      "description": "A discussion about Walmart closing 269 stores nationwide.",
+      "url": "http://hackforums.net/showthread.php?tid=5136031",
+      "users": [
+        { "uid": "93426", "username": "mrnapolean1" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "threads",
+      "title": "Netflix to crack down on proxies as it goes global",
+      "description": "A discussion about Netflix's plan to block VPNs and proxies as it expands globally.",
+      "url": "http://hackforums.net/showthread.php?tid=5133710",
+      "users": [
+        { "uid": "1450348", "username": "Walt Disney™" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with .Saint conducted by Enterpriser; covers his GFX work and life as a tattoo artist.",
+      "description": ".Saint discusses joining HF after being RAT'd, his three years of self-taught Photoshop work, his career as a tattoo artist, and hobbies including playing guitar and fishing.",
+      "url": "https://hackforums.net/showthread.php?pid=49478261",
+      "users": [
+        { "uid": "1841568", "username": ".Saint" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "groups",
+      "title": "Sakuto became a leader of Specialists; Computer Craft became a leader of Prism.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "695943", "username": "Sakuto" },
+        { "uid": "1948829", "username": "Computer Craft" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: pacomanila's setup was featured.",
+      "description": "pacomanila is a Reddit user.",
+      "url": "",
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: feat06's setup was featured.",
+      "description": "feat06 is a Reddit user.",
+      "url": "",
+      "date": 1453269588,
+      "edition": 275
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "2504443", "username": "reve4 neeuQ", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "525019", "username": "illuminati", "role": "Interviewer" },
+        { "uid": "1957866", "username": "Enterpriser", "role": "Interviewer" },
+        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2577525", "username": "Hash G.", "role": "Journalist (Site News)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Hacking News)" },
+        { "uid": "1422600", "username": "Fox™", "role": "Journalist (Hacking News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "2384610", "username": "Limit.", "role": "Journalist (Gaming News)" },
+        { "uid": "2364291", "username": "Buffy Summers", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "610356", "username": "Wires", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Redizm", "role": "On-Call Team" },
+        { "uid": "197132", "username": "-Hyperion", "role": "On-Call Team" },
+        { "uid": "85546", "username": "Odus", "role": "On-Call Team" },
+        { "uid": "692131", "username": "Ariana", "role": "On-Call Team" },
+        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1453269588,
+      "edition": 275
+    }
+  ]
+}

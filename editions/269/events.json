@@ -1,0 +1,243 @@
+{
+  "events": [
+    {
+      "category": "users",
+      "title": "nokia2mon2's account was compromised and used to scam a member out of $500.",
+      "description": "nokia2mon2's account was breached, likely via an email reset. 2-factor authentication was not enabled. The account was used to scam another member out of $500 USD.",
+      "url": "http://hackforums.net/showthread.php?tid=5084797&pid=48863526#pid48863526",
+      "users": [
+        { "uid": "80618", "username": "nokia2mon2" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "Black Shadow reached 10,000 posts.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "63387", "username": "Black Shadow" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "Aeroslim was banned for rep abuse; Grin and Dex‌ were banned.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2499272", "username": "Aeroslim" },
+        { "uid": "789677", "username": "Grin" },
+        { "uid": "1607053", "username": "Dex\u200c" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "Vegas, Granny Bacon, TheNaked, and Mr. Anodise took vacation bans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "370475", "username": "Vegas" },
+        { "uid": "2861221", "username": "Granny Bacon" },
+        { "uid": "973209", "username": "TheNaked" },
+        { "uid": "2403543", "username": "Mr. Anodise" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "Opti, root43, Grin, Dex‌, and Aeroslim were repfucked.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2250372", "username": "Opti" },
+        { "uid": "1560916", "username": "root43" },
+        { "uid": "789677", "username": "Grin" },
+        { "uid": "1607053", "username": "Dex\u200c" },
+        { "uid": "2499272", "username": "Aeroslim" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "ClawzTech donated for the Benefactor, Master Donator, and Grand Amethyst awards, and also received Hot Dog and Hustler.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2858602", "username": "ClawzTech" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "Server Configuration Problems",
+      "description": "Users may have experienced a brief error page late last week due to server configuration problems.",
+      "url": "http://hackforums.net/showthread.php?tid=5080427",
+      "users": [
+        { "uid": "1", "username": "Omniscient" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "[MEGA TUTORIAL] Introduction to Android Development [LEGENDS]",
+      "description": "A tutorial by MeshCollider enabling users to dive straight into Android development.",
+      "url": "http://hackforums.net/showthread.php?tid=4974477",
+      "users": [
+        { "uid": "2015410", "username": "MeshCollider" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "Who is someone your respect on HF and why?",
+      "description": "A thread asking members to share who they respect on the forum and why.",
+      "url": "http://hackforums.net/showthread.php?tid=5084579",
+      "users": [
+        { "uid": "1065856", "username": "Artic Wolf" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "Trump Will Be The Next President Of The United States",
+      "description": "A discussion thread asking if Donald Trump has what it takes to become president.",
+      "url": "http://hackforums.net/showthread.php?tid=5081961",
+      "users": [
+        { "uid": "2384831", "username": "Proxy Chief" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "[First Official] Hackforums Hide & Seek - Christmas Hunt Contest",
+      "description": "A Christmas-themed hide and seek contest on Hack Forums.",
+      "url": "http://hackforums.net/showthread.php?tid=5082773",
+      "users": [
+        { "uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "CloudCrypter's Christmas Contest - $300 Worth: Upgrades/Licenses/Awards!!",
+      "description": "A Christmas contest offering prizes including upgrades, CloudCrypter licenses, and awards.",
+      "url": "http://hackforums.net/showthread.php?tid=5077527",
+      "users": [
+        { "uid": "1101548", "username": "TRH4CK" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "threads",
+      "title": "Hey HF! What was the first RAT you used?",
+      "description": "A thread asking members to share the first Remote Administration Tool they ever used.",
+      "url": "http://hackforums.net/showthread.php?tid=5082629",
+      "users": [
+        { "uid": "1056010", "username": "elixir" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "groups",
+      "title": "Happeh stepped down as leader of Titans.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "279955", "username": "Happeh" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "groups",
+      "title": "AnimeFAN! was listed for sale.",
+      "description": "",
+      "url": "http://hackforums.net/showthread.php?tid=4936160",
+      "users": [],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Kondax's setup was featured.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "2377407", "username": "Kondax" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "users",
+      "title": "Battlestation of the week: Classic_Tim's setup was featured.",
+      "description": "Classic_Tim is a Reddit user.",
+      "url": "",
+      "date": 1449706085,
+      "edition": 269
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        { "uid": "370475", "username": "Vegas", "role": "Scholar" },
+        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
+        { "uid": "610356", "username": "Wires", "role": "Scholar" },
+        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
+        { "uid": "1469364", "username": "Prada", "role": "Compiler" },
+        { "uid": "1422600", "username": "Vanill\u200ca", "role": "Compiler" },
+        { "uid": "85546", "username": "Odus", "role": "Journalist (Headlines)" },
+        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
+        { "uid": "1446355", "username": "Trust", "role": "Journalist (Notable Threads)" },
+        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
+        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
+        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
+        { "uid": "2250372", "username": "Optimized", "role": "Interviewer" },
+        { "uid": "1918708", "username": "Mugu", "role": "Interviewer" },
+        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
+        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
+        { "uid": "2097293", "username": "Who Soup", "role": "Journalist (Omnicoin News)" },
+        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
+        { "uid": "197132", "username": "-Hyperion", "role": "Journalist (Security News)" },
+        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
+        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
+        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
+        { "uid": "279955", "username": "Happeh", "role": "Journalist (World News)" },
+        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
+        { "uid": "1775114", "username": "Ren", "role": "Journalist (Art Gallery)" },
+        { "uid": "789677", "username": "Grin", "role": "Journalist (Comics)" },
+        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
+        { "uid": "1775114", "username": "Ren", "role": "Graphical Artist" },
+        { "uid": "47360", "username": "Saged'", "role": "On-Call Team" },
+        { "uid": "91531", "username": "ven0m", "role": "On-Call Team" },
+        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
+        { "uid": "57618", "username": "| Flawless |", "role": "On-Call Team" },
+        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
+        { "uid": "46411", "username": "zer0", "role": "On-Call Team" },
+        { "uid": "1864779", "username": "Red S\u043ex", "role": "On-Call Team" },
+        { "uid": "1452196", "username": "-Nas", "role": "Task Reminder" },
+        { "uid": "X", "username": "Froggy", "role": "Supervisor" }
+      ],
+      "date": 1449706085,
+      "edition": 269
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "events": [
+    {
+      "category": "site",
+      "title": "Trust Scan Improvement (#3)",
+      "description": "Omniscient has updated the Trust Scan feature for the third time. Check out the new additions here.",
+      "url": "https://hackforums.net/showthread.php?tid=5241907",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "HackerCraft Blue Award",
+      "description": "Omniscient has added a new award to support the official Hack Forums Minecraft server, HackerCraft. The award is currently unavailable, but may be available again for purchase in the future.",
+      "url": "https://hackforums.net/showthread.php?tid=5244051",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "HackerCraft = Non-Profit",
+      "description": "Omniscient states that HackerCraft is a non-profit project and no payments should be sent to any staff member of the server. In great detail, Omniscient also explains other ways to support the server.",
+      "url": "https://hackforums.net/showthread.php?tid=5244276",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Award Policy Regarding Closed Accounts",
+      "description": "A policy was created in regards to closed accounts. Users with closed accounts will automatically lose all their awards.",
+      "url": "https://hackforums.net/showthread.php?tid=5248175",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Account Security Notification",
+      "description": "Omniscient created a thread in regards to account security.",
+      "url": "https://hackforums.net/showthread.php?tid=5258345",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Account Security Notification #2",
+      "description": "A continuation of the first thread was created. Omniscient made another thread regarding account security updating members on what is happening.",
+      "url": "https://hackforums.net/showthread.php?tid=5258844",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Account Security Notification #3",
+      "description": "In the third thread, Omniscient gave more tips on how to secure your Hack Forums account, including forced password changes that are soon to come.",
+      "url": "https://hackforums.net/showthread.php?tid=5262356",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Account Security Roadmap",
+      "description": "Omniscient shared with the public a security roadmap to let users know what will soon come to help better account security.",
+      "url": "https://hackforums.net/showthread.php?tid=5259437",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Past Password Reset",
+      "description": "It has been five years since the last forced password change. Omniscient has said members will be forced to do it once again soon.",
+      "url": "https://hackforums.net/showthread.php?tid=5259356",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Firewall Security",
+      "description": "Omniscient created a thread updating the community on account breaches and has enabled a firewall to increase security.",
+      "url": "https://hackforums.net/showthread.php?tid=5260890",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "$1k USD in BTC Bounty for HF Exploit",
+      "description": "Omniscient is offering a $1,000 bounty in BTC for anyone who can find an exploit in Hack Forums' working servers and provide proof.",
+      "url": "https://hackforums.net/showthread.php?tid=5259373",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "MoTM Suspended",
+      "description": "Due to Froggy stepping down, Omniscient has suspended the MoTM contest.",
+      "url": "https://hackforums.net/showthread.php?tid=5257194",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "site",
+      "title": "Account Security Saga Ends",
+      "description": "Omniscient is pleased to announce that there was no actual exploit and Hack Forums is confirmed safe. Everything you need to know is explained here!",
+      "url": "https://hackforums.net/showthread.php?tid=5263387",
+      "users": [{"uid": "1", "username": "Omniscient"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "groups",
+      "title": "Apex was created by ♋ Goat ♋.",
+      "description": "♋ Goat ♋ (2033319) created the group Apex and became its owner.",
+      "url": "",
+      "users": [{"uid": "2033319", "username": "♋ Goat ♋"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "groups",
+      "title": "Leadership changes were made in Apex and Squad.",
+      "description": "Egregious (1292907) became a leader of Apex. Mojo™ (1803989) became a leader of Squad.",
+      "url": "",
+      "users": [{"uid": "1292907", "username": "Egregious"}, {"uid": "1803989", "username": "Mojo™"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "♦ [̲̅$̲̅(̲̅1000)̲̅$̲̅] ♦ reached 1,000 positive reputation.",
+      "description": "♦ [̲̅$̲̅(̲̅1000)̲̅$̲̅] ♦ has reached 1,000 positive reputation.",
+      "url": "https://hackforums.net/member.php?action=profile&uid=1868624",
+      "users": [{"uid": "1868624", "username": "♦ [̲̅$̲̅(̲̅1000)̲̅$̲̅] ♦"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Game Freak reached 1,000 positive reputation.",
+      "description": "Game Freak has reached 1,000 positive reputation.",
+      "url": "https://hackforums.net/member.php?action=profile&uid=1994813",
+      "users": [{"uid": "1994813", "username": "Game Freak"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Vyrez reached 2,000 positive reputation.",
+      "description": "Vyrez has reached 2,000 positive reputation.",
+      "url": "https://hackforums.net/member.php?action=profile&uid=2439716",
+      "users": [{"uid": "2439716", "username": "Vyrez"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Several members were banned.",
+      "description": "N3oNight (300035) received a one month posting suspension. donethatbeenthere (2666618) was banned. Sir Neko (26375) was banned, pending closure.",
+      "url": "",
+      "users": [{"uid": "300035", "username": "N3oNight"}, {"uid": "2666618", "username": "donethatbeenthere"}, {"uid": "26375", "username": "Sir Neko"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Several members took vacation bans.",
+      "description": "Funtage (121026), Intelligent Sin (910913), and Lawsuit (2104118) took vacation bans.",
+      "url": "",
+      "users": [{"uid": "121026", "username": "Funtage"}, {"uid": "910913", "username": "Intelligent Sin"}, {"uid": "2104118", "username": "Lawsuit"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Several accounts were closed.",
+      "description": "MARVID (238542), beslim (1777085), DaPiranha (2037611), ❤️ BoxxyBabee ❤️ (227236), Codevade. (2878346), void account (2494924), and Ecto (3100272) were closed.",
+      "url": "",
+      "users": [{"uid": "238542", "username": "MARVID"}, {"uid": "1777085", "username": "beslim"}, {"uid": "2037611", "username": "DaPiranha"}, {"uid": "227236", "username": "❤️ BoxxyBabee ❤️"}, {"uid": "2878346", "username": "Codevade."}, {"uid": "2494924", "username": "void account"}, {"uid": "3100272", "username": "Ecto"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Several members were rep killed.",
+      "description": "MARVID (238542), beslim (1777085), Wardow (1810243), /mischief (1242874), N3oNight (300035), DaPiranha (2037611), donethatbeenthere (2666618), ❤️ BoxxyBabee ❤️ (227236), Codevade. (2878346), Sir Neko (26375), and Ecto (3100272) were rep killed.",
+      "url": "",
+      "users": [{"uid": "238542", "username": "MARVID"}, {"uid": "1777085", "username": "beslim"}, {"uid": "1810243", "username": "Wardow"}, {"uid": "1242874", "username": "/mischief"}, {"uid": "300035", "username": "N3oNight"}, {"uid": "2037611", "username": "DaPiranha"}, {"uid": "2666618", "username": "donethatbeenthere"}, {"uid": "227236", "username": "❤️ BoxxyBabee ❤️"}, {"uid": "2878346", "username": "Codevade."}, {"uid": "26375", "username": "Sir Neko"}, {"uid": "3100272", "username": "Ecto"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "users",
+      "title": "Several members received awards.",
+      "description": "Minimalist (1915596) received The Protector award. Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️ (1610871) received the YouTube award. Crapmo (2929519) received the YouTube award. Orgy (182754) received the Drunk award. Vyrez (2439716) received the Green Apple award.",
+      "url": "",
+      "users": [{"uid": "1915596", "username": "Minimalist"}, {"uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"}, {"uid": "2929519", "username": "Crapmo"}, {"uid": "182754", "username": "Orgy"}, {"uid": "2439716", "username": "Vyrez"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Tutorial Archive // Post your tutorials here (or someone else's).",
+      "description": "CypherPunk recently created a mega-thread consisting of various tutorials and guides from a variety of members.",
+      "url": "https://hackforums.net/showthread.php?tid=5243453",
+      "users": [{"uid": "2831806", "username": "CypherPunk"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "[LEGENDS] Education Nation Helpdesk",
+      "description": "The official Hack Forums group, Legends, created a help desk in the Education Nation forum. Need help in a certain subject? Legends members will assist.",
+      "url": "https://hackforums.net/showthread.php?tid=5238651",
+      "users": [{"uid": "1138866", "username": "Rivalry"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "[The Order] Free Rat Support | Reliable | Quick and Easy | 2+ Years of Experience",
+      "description": "Bo Burnham created a Rat Help desk that has recently been booming with activity.",
+      "url": "https://hackforums.net/showthread.php?tid=5226169",
+      "users": [{"uid": "2465185", "username": "Bo Burnam"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "What will you do on $1,000,000,000,000 BITCOINS?",
+      "description": "If you had the chance to own $1,000,000,000,000 Bitcoins, what would you do with your money?",
+      "url": "https://hackforums.net/showthread.php?tid=5247876",
+      "users": [{"uid": "3076944", "username": "Norous"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "What would you do as hackforums owner?",
+      "description": "Ever imagine you were the owner of Hack Forums? If you had the power Omniscient has, what would you do?",
+      "url": "https://hackforums.net/showthread.php?tid=5247998",
+      "users": [{"uid": "3025684", "username": "lexors"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "What's Your Favorite Ice Cream Flavor [Need 100 Users!]",
+      "description": "In the options given in the poll, what are your favorite ice cream flavors?",
+      "url": "https://hackforums.net/showthread.php?tid=5262706",
+      "users": [{"uid": "1446355", "username": "Trust"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Do you guys record your Dog's social interactions with others?",
+      "description": "Member 11.22.63 is curious to know if anyone records their dogs interactions with others.",
+      "url": "",
+      "users": [{"uid": "3025684", "username": "11.22.63"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Yes back again with another giveaway",
+      "description": "If you would like to enter the chance to win a L33t, 3P1C, or Ub3r upgrade, test your luck in this giveaway hosted by FamousHater!",
+      "url": "https://hackforums.net/showthread.php?tid=5211248",
+      "users": [{"uid": "2360425", "username": "FamousHater"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "[Legends] Free $50 Upgrade/Award Giveaway",
+      "description": "Stazzy is giving away multiple items for your Hack Forums account. Come check it out now!",
+      "url": "https://hackforums.net/showthread.php?tid=5231411",
+      "users": [{"uid": "1813061", "username": "Stazzy"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "[Upgrade Giveaway] Upgrade to 3PIC!",
+      "description": "Ever wanted to upgrade to 3P1C but could not? Now is your chance! Come enter this contest hosted by IronGold!",
+      "url": "https://hackforums.net/showthread.php?tid=5258044",
+      "users": [{"uid": "2417658", "username": "IronGold"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "[The Order] Member Upgrade / Award Contest",
+      "description": "Sahaj is hosting a contest where users can win either an upgrade for their account or an award!",
+      "url": "https://hackforums.net/showthread.php?tid=5261026",
+      "users": [{"uid": "2440338", "username": "Sahaj"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "2,556 day (7 year) feedback thread",
+      "description": "Glit͙ch, owner of the official Hack Forums group Riptide, recently created a really short feedback thread.",
+      "url": "https://hackforums.net/showthread.php?tid=5244161",
+      "users": [{"uid": "55709", "username": "Glit͙ch"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "My feedback to Omniscient and the HF Staff team.",
+      "description": "Silicon Valley shared with the community his thoughts about the Hack Forums Staff Team.",
+      "url": "https://hackforums.net/showthread.php?tid=5244415",
+      "users": [{"uid": "2969158", "username": "Silicon Valley"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Walt Disney's Staff Feedback",
+      "description": "Ex-Staff member, Walt Disney™, gives the community some feedback on how being a Staff Member was, as well as why he stepped down.",
+      "url": "https://hackforums.net/showthread.php?tid=5262417",
+      "users": [{"uid": "1450348", "username": "Walt Disney™"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Gross Gore PERMANENTLY banned from Twitch.TV",
+      "description": "Popular League of Legends streamer, Gross Gore, has recently been banned on Twitch. You can learn more about the situation thanks to this thread created by Rita Ora ❤️.",
+      "url": "https://hackforums.net/showthread.php?tid=5243317",
+      "users": [{"uid": "691918", "username": "Rita Ora ❤️"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Prince Singer Dies",
+      "description": "Famous singer, Prince, recently passed away at the age of 57. Rest in Peace.",
+      "url": "https://hackforums.net/showthread.php?tid=5245005",
+      "users": [{"uid": "3054431", "username": "$cumbag"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "What's everyone listening to?",
+      "description": "Popular thread topic \"What song are you listening to?\" has recently resurfaced after being inactive in the music forum.",
+      "url": "https://hackforums.net/showthread.php?tid=5089693",
+      "users": [{"uid": "1610871", "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "threads",
+      "title": "Victimless crimes",
+      "description": "Abraluna created a thread in the SRPP forum that has sparked some interest.",
+      "url": "https://hackforums.net/showthread.php?tid=5257789",
+      "users": [{"uid": "1508976", "username": "Abraluna"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "interviews",
+      "title": "Interview with Joey",
+      "description": "Joey was interviewed for the 290th edition of the HF News.",
+      "url": "https://hackforums.net/showthread.php?pid=50862373",
+      "users": [{"uid": "712376", "username": "Joey"}],
+      "date": 1462834725,
+      "edition": 290
+    },
+    {
+      "category": "news",
+      "title": "Edition 290 Credits",
+      "description": "MeshCollider (2015410) Scholar, Raptor. (1453009) Scholar, Queenie (2504443) Scholar, Wires (610356) Scholar / Journalist (Hacking News) / Art Gallery / Comics / Graphical Artist / On-Call Team, Cooligan (777) Journalist (Headlines), illuminati▲ (525019) Journalist (User News) / Journalist (Site News) / Interviewer, Grievous (1754121) Journalist (Notable Threads), .Sinister (2214473) Interviewer, Armada (952566) Interviewer, Enterpriser (1957866) Interviewer, Clique (1148878) Interviewer, Nobility (992067) Journalist (Group News), Hash G. (2577525) Journalist (Site News), Fox™ (1422600) Journalist (Hacking News), Harbo5 (1696750) Journalist (Security News), Limit. (2384610) Journalist (Gaming News), Buffy Summers (2364291) Journalist (Gaming News), Аngel (1356937) Journalist (Tech News), Gladly (1730460) Journalist (Tech News), Phreakdaline (1352632) Journalist (World News), Astute (1014629) Journalist (World News), Designer (1290620) Graphical Artist, King Cin (1221196) On-Call Team, Red Sоx (1864779) On-Call Team, -Hyperion (197132) On-Call Team, Odus (85546) On-Call Team, Ariana (692131) On-Call Team, Froggy (1320406) Supervisor",
+      "url": "",
+      "users": [{"uid": "2015410", "username": "MeshCollider"}, {"uid": "1453009", "username": "Raptor."}, {"uid": "2504443", "username": "Queenie"}, {"uid": "610356", "username": "Wires"}, {"uid": "777", "username": "Cooligan"}, {"uid": "525019", "username": "illuminati▲"}, {"uid": "1754121", "username": "Grievous"}, {"uid": "2214473", "username": ".Sinister"}, {"uid": "952566", "username": "Armada"}, {"uid": "1957866", "username": "Enterpriser"}, {"uid": "1148878", "username": "Clique"}, {"uid": "992067", "username": "Nobility"}, {"uid": "2577525", "username": "Hash G."}, {"uid": "1422600", "username": "Fox™"}, {"uid": "1696750", "username": "Harbo5"}, {"uid": "2384610", "username": "Limit."}, {"uid": "2364291", "username": "Buffy Summers"}, {"uid": "1356937", "username": "Аngel"}, {"uid": "1730460", "username": "Gladly"}, {"uid": "1352632", "username": "Phreakdaline"}, {"uid": "1014629", "username": "Astute"}, {"uid": "1290620", "username": "Designer"}, {"uid": "1221196", "username": "King Cin"}, {"uid": "1864779", "username": "Red Sоx"}, {"uid": "197132", "username": "-Hyperion"}, {"uid": "85546", "username": "Odus"}, {"uid": "692131", "username": "Ariana"}, {"uid": "1320406", "username": "Froggy"}],
+      "date": 1462834725,
+      "edition": 290
+    }
+  ]
+}
