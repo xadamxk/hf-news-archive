@@ -21,7 +21,6 @@ export type CompactEvent = {
 };
 
 export type EventsPayload = {
-  v: number;
   ed: CompactEditionRow[];
   n: number;
   a: CompactEvent[];

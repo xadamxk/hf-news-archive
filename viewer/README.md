@@ -4,7 +4,7 @@ Static React app (Vite + Bun) to browse aggregated HF News `events.json` data.
 
 ## Data bundle
 
-`public/events.json` is **generated** — compact minified JSON (`v`, `n`, `a[]` with short keys `c,t,d,l,u,e,s`). Regenerate after changing edition files:
+`public/events.json` is **generated** — compact minified JSON: `ed[]` (edition rows: `e,s,p,a,h`), `n` (event count), and `a[]` (events: `c,t,d,l,u,x` where `x` indexes `ed`). Regenerate after changing edition files:
 
 ```bash
 cd viewer

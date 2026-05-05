@@ -214,6 +214,24 @@ function UserLine({ u, userHighlight }: { u: CompactUser; userHighlight: string 
   );
 }
 
+/** Structural validation for aggregated events.json (no version field). */
+function parseEventsPayload(data: unknown): EventsPayload {
+  if (!data || typeof data !== "object") throw new Error("Invalid events payload");
+  const d = data as Record<string, unknown>;
+  if (!Array.isArray(d.ed)) throw new Error("Expected events.json with ed[] — run aggregate");
+  if (!Array.isArray(d.a)) throw new Error("Invalid events payload");
+  if (typeof d.n !== "number") throw new Error("Invalid events payload");
+  const ed = d.ed as CompactEditionRow[];
+  if (d.n !== d.a.length) throw new Error("Invalid events payload: n must match event count");
+  for (const ev of d.a as CompactEvent[]) {
+    if (!ev || typeof ev !== "object") throw new Error("Invalid events payload");
+    const x = ev.x;
+    if (typeof x !== "number" || !Number.isFinite(x) || x < 0 || x >= ed.length)
+      throw new Error("Invalid events payload: bad edition index x");
+  }
+  return data as EventsPayload;
+}
+
 function eventStableKey(ev: CompactEvent, ed: CompactEditionRow[]): string {
   const row = ed[ev.x];
   const s = row?.s ?? ev.x;
@@ -367,13 +385,8 @@ export default function App() {
       try {
         const res = await fetch(`${import.meta.env.BASE_URL}events.json`);
         if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
-        const data = (await res.json()) as EventsPayload;
-        if (!cancelled) {
-          if (!data?.a || !Array.isArray(data.a)) throw new Error("Invalid events payload");
-          if (data.v !== 2 || !Array.isArray(data.ed))
-            throw new Error("Expected events.json v=2 with ed[] — run aggregate after migration");
-          setRaw(data);
-        }
+        const json = await res.json();
+        if (!cancelled) setRaw(parseEventsPayload(json));
       } catch (e) {
         if (!cancelled)
           setErr(e instanceof Error ? e.message : "Failed to load events.json");

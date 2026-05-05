@@ -1,7 +1,7 @@
 /**
  * Aggregates each editions/<name>/events.json into viewer/public/events.json
  * Compact schema (short keys) for smaller static payload.
- * v2: edition rows in `ed`, events reference index via `x`.
+ * Edition rows in `ed`; each event references an edition row via `x`.
  *
  * Run from repo root: bun run viewer/scripts/aggregate.ts
  * Or from viewer/: bun run scripts/aggregate.ts
@@ -160,7 +160,7 @@ async function main() {
     return eb.e - ea.e;
   });
 
-  const payload = { v: 2, ed: editions, n: items.length, a: items };
+  const payload = { ed: editions, n: items.length, a: items };
   const min = JSON.stringify(payload);
   await mkdir(dirname(outFile), { recursive: true });
   await writeFile(outFile, min, "utf8");
