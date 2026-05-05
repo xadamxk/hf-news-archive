@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "103669",
           "username": "Factor8™"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "692131",
           "username": "Anima."
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "users",
@@ -164,9 +154,7 @@
           "uid": "1558856",
           "username": "Six-Nine"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "users",
@@ -210,9 +198,7 @@
           "uid": "1535763",
           "username": "The Don Killuminati"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "groups",
@@ -224,9 +210,7 @@
           "uid": "992989",
           "username": "Frostix"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "groups",
@@ -258,9 +242,7 @@
           "uid": "992067",
           "username": "Nobility"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "site",
@@ -272,9 +254,7 @@
           "uid": "2015410",
           "username": "ӍeshCollider"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "threads",
@@ -286,9 +266,7 @@
           "uid": "1642244",
           "username": "Dubitus™"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "threads",
@@ -300,9 +278,7 @@
           "uid": "2293777",
           "username": "skyler18424"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "threads",
@@ -314,9 +290,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "interviews",
@@ -332,9 +306,7 @@
           "uid": "8383",
           "username": "Wafflemonger"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "interviews",
@@ -350,9 +322,7 @@
           "uid": "1422600",
           "username": "Fox™"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     },
     {
       "category": "news",
@@ -505,9 +475,14 @@
           "username": "adampelletgun",
           "role": "Reserve Writer"
         }
-      ],
-      "date": 1408665402,
-      "edition": 205
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 205,
+    "date": 1408665402,
+    "pid": "41974339",
+    "author_uid": "515249",
+    "subject": "HF News - 205"
+  }
 }

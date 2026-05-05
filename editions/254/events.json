@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "users",
@@ -42,9 +38,7 @@
           "uid": "1849237",
           "username": "KFC Watermelon"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,7 @@
           "uid": "1616077",
           "username": "Jake Miller"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "1331944",
           "username": "Sur Justice"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "users",
@@ -112,9 +102,7 @@
           "uid": "1616077",
           "username": "Jake Miller"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "users",
@@ -130,9 +118,7 @@
           "uid": "1616077",
           "username": "Jake Miller"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "groups",
@@ -152,18 +138,14 @@
           "uid": "531250",
           "username": "Th3PonyWizard"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! and L'appel du vide listed for sale",
       "description": "AnimeFAN! official user group and L'appel du vide were both listed for sale.",
       "url": "http://hackforums.net/showthread.php?tid=4961504",
-      "users": [],
-      "date": 1440555903,
-      "edition": 254
+      "users": []
     },
     {
       "category": "threads",
@@ -175,9 +157,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -189,9 +169,7 @@
           "uid": "2351649",
           "username": "Chromosome 47"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -203,9 +181,7 @@
           "uid": "1567847",
           "username": "Crypt"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -217,9 +193,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -231,9 +205,7 @@
           "uid": "789677",
           "username": "Grin"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -245,9 +217,7 @@
           "uid": "992020",
           "username": "King of Hearts"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -259,9 +229,7 @@
           "uid": "1917880",
           "username": "Internet Explorer⁯⁯⁯⁯⁯"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "threads",
@@ -273,9 +241,7 @@
           "uid": "2282311",
           "username": "Ginsum"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "interviews",
@@ -287,17 +253,13 @@
           "uid": "1775114",
           "username": "Ren"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: PoopedMySpaceSuit's setup was featured.",
       "description": "PoopedMySpaceSuit's battlestation was featured this week.",
-      "url": "https://imgur.com/a/XhVtj",
-      "date": 1440555903,
-      "edition": 254
+      "url": "https://imgur.com/a/XhVtj"
     },
     {
       "category": "news",
@@ -510,9 +472,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1440555903,
-      "edition": 254
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 254,
+    "date": 1440555903,
+    "pid": "47606972",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 254"
+  }
 }

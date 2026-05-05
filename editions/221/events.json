@@ -26,9 +26,7 @@
           "uid": "1495452",
           "username": "Arrhythmia"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "site",
@@ -40,18 +38,14 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "site",
       "title": "December 2014 Member of the Month finalists voting opened for the last MOTM winner of the year.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4615053",
-      "users": [],
-      "date": 1420498768,
-      "edition": 221
+      "users": []
     },
     {
       "category": "users",
@@ -63,9 +57,7 @@
           "uid": "797403",
           "username": "630"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "users",
@@ -77,9 +69,7 @@
           "uid": "197132",
           "username": "-Hyperion"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "users",
@@ -107,9 +97,7 @@
           "uid": "747953",
           "username": "mObil3_xT"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "users",
@@ -125,9 +113,7 @@
           "uid": "1980205",
           "username": "Tirus"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "users",
@@ -143,9 +129,7 @@
           "uid": "2199984",
           "username": "Tremo"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "users",
@@ -177,9 +161,7 @@
           "uid": "1514281",
           "username": "Wilstar"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "users",
@@ -191,9 +173,7 @@
           "uid": "2154389",
           "username": "Orchid"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "site",
@@ -205,9 +185,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "threads",
@@ -219,9 +197,7 @@
           "uid": "85546",
           "username": "Odus"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "threads",
@@ -233,9 +209,7 @@
           "uid": "89623",
           "username": "Mark Webber"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "interviews",
@@ -251,9 +225,7 @@
           "uid": "797403",
           "username": "630"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "interviews",
@@ -269,9 +241,7 @@
           "uid": "1653635",
           "username": "Clark"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "groups",
@@ -299,17 +269,13 @@
           "uid": "1108450",
           "username": "Baghead"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "groups",
       "title": "Group recruitment and informational threads highlighted Enterprise, Nightfall, Brotherhood sectors,...",
       "description": "Threads included Enterprise general recruitment (4606666), Nightfall informational (4611182), Brotherhood hacking and design recruitment (4609077, 4610584), Revolution marketing and programming (4604191, 4605119), and Titans web developer recruitment (4612845).",
-      "url": "http://hackforums.net/showthread.php?tid=4606666",
-      "date": 1420498768,
-      "edition": 221
+      "url": "http://hackforums.net/showthread.php?tid=4606666"
     },
     {
       "category": "groups",
@@ -329,9 +295,7 @@
           "uid": "1777085",
           "username": "beslim"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "site",
@@ -343,17 +307,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "site",
       "title": "Site statistics snapshot: ~44.1M posts, ~3.19M threads, ~2.56M members; Lounge and RANF activity up...",
       "description": "Figures were as of the Friday before release; combined weekly bans 168 (+46) and staff bans 149 (+41) versus the prior edition.",
-      "url": "",
-      "date": 1420498768,
-      "edition": 221
+      "url": ""
     },
     {
       "category": "users",
@@ -365,9 +325,7 @@
           "uid": "2340563",
           "username": "thecamwars"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     },
     {
       "category": "news",
@@ -535,9 +493,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1420498768,
-      "edition": 221
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 221,
+    "date": 1420498768,
+    "pid": "44191122",
+    "author_uid": "515249",
+    "subject": "HF News - 221"
+  }
 }

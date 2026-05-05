@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "groups",
@@ -24,9 +22,7 @@
           "uid": "2103",
           "username": "Crow"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "groups",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "users",
@@ -52,9 +46,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "users",
@@ -66,9 +58,7 @@
           "uid": "68378",
           "username": "Canon"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "users",
@@ -80,9 +70,7 @@
           "uid": "535046",
           "username": "Emily"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "users",
@@ -94,9 +82,7 @@
           "uid": "1169208",
           "username": "King Messias"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "users",
@@ -108,9 +94,7 @@
           "uid": "453509",
           "username": "Blunt"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "threads",
@@ -122,9 +106,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "threads",
@@ -136,9 +118,7 @@
           "uid": "1133490",
           "username": "Alphonse"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "threads",
@@ -150,9 +130,7 @@
           "uid": "183072",
           "username": "Mr Kewl"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "threads",
@@ -164,9 +142,7 @@
           "uid": "92059",
           "username": "Relapse™"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "users",
@@ -178,9 +154,7 @@
           "uid": "920387",
           "username": "Hades"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "groups",
@@ -200,9 +174,7 @@
           "uid": "942724",
           "username": "Legacy."
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "interviews",
@@ -217,9 +189,7 @@
         {
           "username": "Sai"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "interviews",
@@ -234,9 +204,7 @@
         {
           "username": "Inspector Gadget"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     },
     {
       "category": "news",
@@ -284,9 +252,14 @@
           "username": "Rhythm",
           "role": "Interviewer"
         }
-      ],
-      "date": 1332994271,
-      "edition": 85
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 85,
+    "date": 1332994271,
+    "pid": "21201117",
+    "author_uid": "515249",
+    "subject": "[3/28/12] - HF News"
+  }
 }

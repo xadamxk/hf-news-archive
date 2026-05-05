@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "groups",
@@ -24,9 +22,7 @@
           "uid": "2292899",
           "username": "Divined"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "groups",
@@ -38,9 +34,7 @@
           "uid": "2052441",
           "username": "Billie Joe"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -52,9 +46,7 @@
           "uid": "2004660",
           "username": "#Programmer"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -66,9 +58,7 @@
           "uid": "2361854",
           "username": "Aerial"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -80,9 +70,7 @@
           "uid": "1915596",
           "username": "Minimalist"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -94,9 +82,7 @@
           "uid": "431105",
           "username": "Tɦɛ Gʀiɱ"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -108,9 +94,7 @@
           "uid": "130086",
           "username": "Roytoy"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -122,9 +106,7 @@
           "uid": "1680975",
           "username": "Regulus"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -136,9 +118,7 @@
           "uid": "805825",
           "username": "- Sam -"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -150,9 +130,7 @@
           "uid": "1450348",
           "username": "Walt Disney™"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -180,9 +158,7 @@
           "uid": "1992268",
           "username": "Thornzzz"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -194,9 +170,7 @@
           "uid": "892404",
           "username": "haydrazs"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -212,9 +186,7 @@
           "uid": "2743151",
           "username": "DRAΚE"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
@@ -246,9 +218,7 @@
           "uid": "2439716",
           "username": "Vyrеz"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -260,9 +230,7 @@
           "uid": "2436938",
           "username": "Scymo"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -274,9 +242,7 @@
           "uid": "1165241",
           "username": "Krave"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -288,9 +254,7 @@
           "uid": "2292899",
           "username": "Divined"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -302,9 +266,7 @@
           "uid": "1960790",
           "username": "Errors"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -316,9 +278,7 @@
           "uid": "1849237",
           "username": "KFC Watermelon"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -330,9 +290,7 @@
           "uid": "1915596",
           "username": "Minimalist"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -344,9 +302,7 @@
           "uid": "1221196",
           "username": "King Cin"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "threads",
@@ -358,17 +314,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: DJwipspeed's setup was featured.",
       "description": "DJwipspeed's battlestation was featured in the Spotlight section of edition 291.",
-      "url": "",
-      "date": 1463514428,
-      "edition": 291
+      "url": ""
     },
     {
       "category": "news",
@@ -521,9 +473,14 @@
           "username": "King of Hearts",
           "role": "Professional Thread Mover"
         }
-      ],
-      "date": 1463514428,
-      "edition": 291
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 291,
+    "date": 1463514428,
+    "pid": "50948811",
+    "author_uid": "561239",
+    "subject": "Hack Forums News // Edition 291"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "users",
@@ -66,9 +58,7 @@
           "uid": "1695694",
           "username": "BitMoney"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "users",
@@ -96,9 +86,7 @@
           "uid": "1466915",
           "username": "BeckyG ♥"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "users",
@@ -122,9 +110,7 @@
           "uid": "1543501",
           "username": "Warren Buffett"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "users",
@@ -144,9 +130,7 @@
           "uid": "2283479",
           "username": "Legion."
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "users",
@@ -182,9 +166,7 @@
           "uid": "2283479",
           "username": "Legion."
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "threads",
@@ -196,9 +178,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "threads",
@@ -210,9 +190,7 @@
           "uid": "2520017",
           "username": "thehackerguy1"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "threads",
@@ -224,9 +202,7 @@
           "uid": "2685129",
           "username": "Dank Memer"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +214,7 @@
           "uid": "2638284",
           "username": "Kogan"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "threads",
@@ -252,9 +226,7 @@
           "uid": "449192",
           "username": "IceLink"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "threads",
@@ -266,9 +238,7 @@
           "uid": "2101198",
           "username": "Vandie"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "interviews",
@@ -280,17 +250,13 @@
           "uid": "1057942",
           "username": "The Judge"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: r4z0r3's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1430186604,
-      "edition": 237
+      "url": ""
     },
     {
       "category": "news",
@@ -513,9 +479,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1430186604,
-      "edition": 237
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 237,
+    "date": 1430186604,
+    "pid": "45894797",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 237"
+  }
 }

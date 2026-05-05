@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "site",
@@ -24,25 +22,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "site",
       "title": "Debug back on track after leadership bans; recruiting teachers",
       "description": "After both Debug leaders were banned and the group fell to pieces, it is now back on course and seeking teachers.",
-      "url": "http://hackforums.net/showthread.php?tid=4768008",
-      "date": 1428986961,
-      "edition": 235
+      "url": "http://hackforums.net/showthread.php?tid=4768008"
     },
     {
       "category": "site",
       "title": "OMC team warns community about Ponzi schemes using Omnicoin",
       "description": "With OMC rising in popularity, scam posts offering incredible returns in days have appeared. The OMC team warned members these are explicitly disallowed blackhat activity.",
-      "url": "",
-      "date": 1428986961,
-      "edition": 235
+      "url": ""
     },
     {
       "category": "users",
@@ -62,9 +54,7 @@
           "uid": "1039681",
           "username": "Fictional"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
@@ -76,9 +66,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
@@ -110,9 +98,7 @@
           "uid": "2166938",
           "username": "Munch"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
@@ -140,9 +126,7 @@
           "uid": "1645227",
           "username": "Lovol"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
@@ -158,9 +142,7 @@
           "uid": "2426547",
           "username": "SwiftBot"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
@@ -184,9 +166,7 @@
           "uid": "572397",
           "username": "Neulen"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
@@ -210,9 +190,7 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "threads",
@@ -224,9 +202,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +214,7 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "threads",
@@ -252,9 +226,7 @@
           "uid": "2370059",
           "username": "PositiveEnergy"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "threads",
@@ -266,9 +238,7 @@
           "uid": "2686716",
           "username": "bobbycharles"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "threads",
@@ -280,9 +250,7 @@
           "uid": "1073934",
           "username": "crystal."
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "threads",
@@ -294,9 +262,7 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "interviews",
@@ -308,9 +274,7 @@
           "uid": "2572841",
           "username": "Chaos"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "interviews",
@@ -322,17 +286,13 @@
           "uid": "923753",
           "username": "Butt Cheeks"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: hellomisterjedi's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1428986961,
-      "edition": 235
+      "url": ""
     },
     {
       "category": "news",
@@ -520,9 +480,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1428986961,
-      "edition": 235
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 235,
+    "date": 1428986961,
+    "pid": "45700702",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 235"
+  }
 }

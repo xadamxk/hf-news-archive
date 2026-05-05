@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "users",
@@ -84,9 +78,7 @@
           "uid": "1453009",
           "username": "Raptor."
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "users",
@@ -134,9 +126,7 @@
           "uid": "1799321",
           "username": "๖ۣۜXilluX"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "users",
@@ -180,9 +170,7 @@
           "uid": "787112",
           "username": "Satu"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "groups",
@@ -194,9 +182,7 @@
           "uid": "1763815",
           "username": "syrah"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "groups",
@@ -208,9 +194,7 @@
           "uid": "600771",
           "username": "Vinnie"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "groups",
@@ -246,9 +230,7 @@
           "uid": "600771",
           "username": "Vinnie"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "interviews",
@@ -264,9 +246,7 @@
           "uid": "1739895",
           "username": "Avery"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "interviews",
@@ -282,9 +262,7 @@
           "uid": "965759",
           "username": "Fortis"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "interviews",
@@ -300,9 +278,7 @@
           "uid": "103669",
           "username": "Factor8™"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     },
     {
       "category": "news",
@@ -465,9 +441,14 @@
           "username": "Yellows",
           "role": "Overseer"
         }
-      ],
-      "date": 1412663594,
-      "edition": 208
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 208,
+    "date": 1412663594,
+    "pid": "42729206",
+    "author_uid": "515249",
+    "subject": "HF News - 208"
+  }
 }

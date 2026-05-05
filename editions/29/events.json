@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1293258070,
-      "edition": 29
+      ]
     },
     {
       "category": "site",
@@ -24,17 +22,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1293258070,
-      "edition": 29
+      ]
     },
     {
       "category": "site",
       "title": "Member of the Month award reinstated.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=920442",
-      "date": 1293258070,
-      "edition": 29
+      "url": "http://hackforums.net/showthread.php?tid=920442"
     },
     {
       "category": "threads",
@@ -46,9 +40,14 @@
           "username": "Gabber",
           "uid": "245853"
         }
-      ],
-      "date": 1293258070,
-      "edition": 29
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 29,
+    "date": 1293258070,
+    "pid": "8563860",
+    "author_uid": "0",
+    "subject": "[12/18/2010] - HF NEWS - HOLIDAY EDITION"
+  }
 }

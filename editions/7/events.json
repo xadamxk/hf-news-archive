@@ -4,17 +4,13 @@
       "category": "site",
       "title": "Modern Warfare section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=169",
-      "date": 1277591947,
-      "edition": 7
+      "url": "http://hackforums.net/forumdisplay.php?fid=169"
     },
     {
       "category": "site",
       "title": "Halo section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=168",
-      "date": 1277591947,
-      "edition": 7
+      "url": "http://hackforums.net/forumdisplay.php?fid=168"
     },
     {
       "category": "site",
@@ -26,17 +22,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1277591947,
-      "edition": 7
+      ]
     },
     {
       "category": "site",
       "title": "Pruning of private messages for regular members older than 6 months.",
       "description": "",
-      "url": "",
-      "date": 1277591947,
-      "edition": 7
+      "url": ""
     },
     {
       "category": "news",
@@ -48,9 +40,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1277591947,
-      "edition": 7
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 7,
+    "date": 1277591947,
+    "pid": "4805659",
+    "author_uid": "74244",
+    "subject": "[6/20-6/26] HF News Week! [COMMENT]"
+  }
 }

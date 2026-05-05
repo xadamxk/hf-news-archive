@@ -5,45 +5,35 @@
       "title": "PayPal Payments and Upgrades Temporarily Disabled",
       "description": "Omniscient announced that PayPal is no longer an accepted form of payment for payments and upgrades on HF, as PayPal made alterations to their TOS/AUP. HF will operate on crypto payments, primarily Bitcoin.",
       "url": "http://hackforums.net/showthread.php?tid=5169384",
-      "users": [],
-      "date": 1455596794,
-      "edition": 279
+      "users": []
     },
     {
       "category": "site",
       "title": "Currency Exchange Forum Reopened",
       "description": "Omniscient decided to reopen the Currency Exchange section after previously closing it.",
       "url": "http://hackforums.net/showthread.php?tid=5169489",
-      "users": [],
-      "date": 1455596794,
-      "edition": 279
+      "users": []
     },
     {
       "category": "site",
       "title": "Currency Exchange Sectional Rules and Words of Caution",
       "description": "After reopening the Currency Exchange section, Omniscient stickied a thread with rules and precautionary information for members dealing in the section.",
       "url": "http://hackforums.net/showthread.php?tid=5169477",
-      "users": [],
-      "date": 1455596794,
-      "edition": 279
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group leadership changes",
       "description": "ℭompleχ is now a leader of Enigma. ๖ۣۜCyber is now a leader of Enigma. Clique is now a leader of Riptide. Fiber is now a leader of Riptide. prada⁯⁯⁯⁯⁯⁯⁯⁯⁯⁯ is now a leader of Riptide. Zexo is now a leader of Riptide. illuminati▲ is now a leader of The Brotherhood. Red Sоx is now a leader of The Brotherhood. Razor is no longer a leader of DARK.",
       "url": "",
-      "users": [],
-      "date": 1455596794,
-      "edition": 279
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group sales",
       "description": "DARK Official Group is for sale. Black Lodge Leadership is for sale.",
       "url": "",
-      "users": [],
-      "date": 1455596794,
-      "edition": 279
+      "users": []
     },
     {
       "category": "users",
@@ -67,9 +57,7 @@
           "uid": "651773",
           "username": "Vitani's Mate"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "users",
@@ -81,9 +69,7 @@
           "uid": "2327316",
           "username": "ʕ•͡ᴥ•ʔ"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "users",
@@ -95,9 +81,7 @@
           "uid": "411005",
           "username": "sonex"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "users",
@@ -117,9 +101,7 @@
           "uid": "411005",
           "username": "sonex"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -131,9 +113,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -145,9 +125,7 @@
           "uid": "2077026",
           "username": "UTRONEX"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -159,9 +137,7 @@
           "uid": "2591780",
           "username": "IWantMelons"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -173,9 +149,7 @@
           "uid": "2153840",
           "username": "Pure Diamond"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -187,9 +161,7 @@
           "uid": "2969158",
           "username": "Silicon Valley"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -201,9 +173,7 @@
           "uid": "2829866",
           "username": "freepizza"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "threads",
@@ -215,9 +185,7 @@
           "uid": "1754121",
           "username": "Grievous"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "interviews",
@@ -229,25 +197,19 @@
           "uid": "85546",
           "username": "Odus"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: iLLGT3's setup was featured.",
       "description": "iLLGT3's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1455596794,
-      "edition": 279
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: suprasb's setup was featured.",
       "description": "suprasb's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1455596794,
-      "edition": 279
+      "url": ""
     },
     {
       "category": "news",
@@ -395,9 +357,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1455596794,
-      "edition": 279
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 279,
+    "date": 1455596794,
+    "pid": "49838652",
+    "author_uid": "561239",
+    "subject": "Hack Forums News // Edition 279"
+  }
 }

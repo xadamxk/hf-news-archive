@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "users",
@@ -38,9 +34,7 @@
           "uid": "23809",
           "username": "Viral Dragon"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "users",
@@ -52,9 +46,7 @@
           "uid": "1386412",
           "username": "SOAP."
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "users",
@@ -82,9 +74,7 @@
           "uid": "931798",
           "username": "Tiszy"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "users",
@@ -104,9 +94,7 @@
           "uid": "1671547",
           "username": "Κeyser"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "users",
@@ -138,9 +126,7 @@
           "uid": "1726101",
           "username": "Understalker"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "groups",
@@ -164,9 +150,7 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "interviews",
@@ -182,9 +166,7 @@
           "uid": "1320379",
           "username": "Squidward"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "interviews",
@@ -200,9 +182,7 @@
           "uid": "1172544",
           "username": "awhty"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "interviews",
@@ -218,9 +198,7 @@
           "uid": "761719",
           "username": "Jumanji"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     },
     {
       "category": "news",
@@ -303,9 +281,14 @@
           "username": "Package",
           "role": "Proofreader"
         }
-      ],
-      "date": 1390958574,
-      "edition": 179
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 179,
+    "date": 1390958574,
+    "pid": "37997123",
+    "author_uid": "515249",
+    "subject": "HF News - 179"
+  }
 }

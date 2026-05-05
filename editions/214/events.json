@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "users",
@@ -38,9 +34,7 @@
           "uid": "2177496",
           "username": "bοxxy"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "users",
@@ -92,9 +86,7 @@
           "uid": "2192405",
           "username": "Mapl3"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "users",
@@ -110,9 +102,7 @@
           "uid": "1754121",
           "username": "Grievous"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "groups",
@@ -124,9 +114,7 @@
           "uid": "600771",
           "username": "Vinnie"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "groups",
@@ -146,9 +134,7 @@
           "uid": "2010382",
           "username": "Vape"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "interviews",
@@ -164,9 +150,7 @@
           "uid": "827057",
           "username": "HOUstoner"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "interviews",
@@ -182,9 +166,7 @@
           "uid": "777",
           "username": "Cooligan"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     },
     {
       "category": "news",
@@ -337,9 +319,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1416263372,
-      "edition": 214
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 214,
+    "date": 1416263372,
+    "pid": "43376701",
+    "author_uid": "515249",
+    "subject": "HF News - 214"
+  }
 }

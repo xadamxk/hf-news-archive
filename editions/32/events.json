@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1296248515,
-      "edition": 32
+      ]
     },
     {
       "category": "threads",
@@ -24,9 +22,7 @@
           "username": "Hanzo",
           "uid": "4066"
         }
-      ],
-      "date": 1296248515,
-      "edition": 32
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1296248515,
-      "edition": 32
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1296248515,
-      "edition": 32
+      ]
     },
     {
       "category": "site",
@@ -66,9 +58,7 @@
           "username": "The Elite",
           "uid": "136025"
         }
-      ],
-      "date": 1296248515,
-      "edition": 32
+      ]
     },
     {
       "category": "users",
@@ -80,9 +70,14 @@
           "username": "WIZCRAFT",
           "uid": null
         }
-      ],
-      "date": 1296248515,
-      "edition": 32
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 32,
+    "date": 1296248515,
+    "pid": "9403171",
+    "author_uid": "0",
+    "subject": "HF News 1/28/2011"
+  }
 }

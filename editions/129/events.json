@@ -18,9 +18,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "site",
@@ -32,9 +30,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "users",
@@ -70,9 +66,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "users",
@@ -92,9 +86,7 @@
           "uid": "1664159",
           "username": "inet_addr"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "users",
@@ -118,9 +110,7 @@
           "uid": "1263952",
           "username": "Daisy"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "users",
@@ -148,9 +138,7 @@
           "uid": "1357063",
           "username": "Aeon ‹3"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "groups",
@@ -170,9 +158,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "threads",
@@ -184,9 +170,7 @@
           "uid": "1539015",
           "username": "-๖ۣۜDivine-"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "threads",
@@ -198,9 +182,7 @@
           "uid": "1142191",
           "username": "HØUSΣ MUSIC"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "interviews",
@@ -216,9 +198,7 @@
           "uid": "1050193",
           "username": "Connected"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "interviews",
@@ -234,9 +214,7 @@
           "uid": "1357063",
           "username": "Aeon ‹3"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     },
     {
       "category": "news",
@@ -304,9 +282,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1360730950,
-      "edition": 129
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 129,
+    "date": 1360730950,
+    "pid": "30541737",
+    "author_uid": "515249",
+    "subject": "[2/10/13] - HF News"
+  }
 }

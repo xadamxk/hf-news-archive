@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "users",
@@ -36,9 +34,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "users",
@@ -62,9 +58,7 @@
           "uid": "1450348",
           "username": "Walt Disney™"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "users",
@@ -84,9 +78,7 @@
           "uid": "2066850",
           "username": "Demo™"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "users",
@@ -122,9 +114,7 @@
           "uid": "2066850",
           "username": "Demo™"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "users",
@@ -144,9 +134,7 @@
           "uid": "952566",
           "username": "ȺʁɱªÐą"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "groups",
@@ -170,9 +158,7 @@
           "uid": "1101548",
           "username": "TRH4CK"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "threads",
@@ -184,9 +170,7 @@
           "uid": "1653606",
           "username": "High-Res"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "threads",
@@ -198,9 +182,7 @@
           "uid": "361543",
           "username": "Scooter"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "interviews",
@@ -212,9 +194,7 @@
           "uid": "1342175",
           "username": "Salty Bacon"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     },
     {
       "category": "news",
@@ -427,9 +407,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1438716140,
-      "edition": 251
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 251,
+    "date": 1438716140,
+    "pid": "47320012",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 251"
+  }
 }

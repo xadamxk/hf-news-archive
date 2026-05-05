@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "uid": "1221196",
           "username": "Anonymous⁠"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "uid": "1684364",
           "username": "Makar0v"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "users",
@@ -68,9 +62,7 @@
           "uid": "2068191",
           "username": "Null Byte"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "users",
@@ -82,9 +74,7 @@
           "uid": "2068191",
           "username": "Null Byte"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "users",
@@ -96,9 +86,7 @@
           "uid": "1812679",
           "username": "Ninetales."
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -110,9 +98,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -124,9 +110,7 @@
           "uid": "2752008",
           "username": "tl:dr❤️"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -138,9 +122,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -152,9 +134,7 @@
           "uid": "1610871",
           "username": "Rʟᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -166,9 +146,7 @@
           "uid": "1960131",
           "username": "Wallet"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -180,9 +158,7 @@
           "uid": "1302310",
           "username": "Crypto Miner"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -194,9 +170,7 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "threads",
@@ -208,9 +182,7 @@
           "uid": "2589803",
           "username": "TurtleClub"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "groups",
@@ -230,18 +202,14 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! and L'appel du vide listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
-      "users": [],
-      "date": 1447821531,
-      "edition": 266
+      "users": []
     },
     {
       "category": "interviews",
@@ -253,17 +221,13 @@
           "uid": "2703452",
           "username": "LSDoom"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: superduperdickbutt's and JayApex's setups were featured.",
       "description": "",
-      "url": "",
-      "date": 1447821531,
-      "edition": 266
+      "url": ""
     },
     {
       "category": "news",
@@ -446,9 +410,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1447821531,
-      "edition": 266
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 266,
+    "date": 1447821531,
+    "pid": "48610024",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 266"
+  }
 }

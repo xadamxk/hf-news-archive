@@ -10,9 +10,7 @@
           "username": "Saged",
           "uid": "47360"
         }
-      ],
-      "date": 1289730709,
-      "edition": 23
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "username": "Soldier of Fortune",
           "uid": "8480"
         }
-      ],
-      "date": 1289730709,
-      "edition": 23
+      ]
     },
     {
       "category": "site",
@@ -38,25 +34,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1289730709,
-      "edition": 23
+      ]
     },
     {
       "category": "news",
       "title": "HF News Crew formed (non-recruiting).",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=799449",
-      "date": 1289730709,
-      "edition": 23
+      "url": "http://hackforums.net/showthread.php?tid=799449"
     },
     {
       "category": "site",
       "title": "UB3R-only Negative Reputation Log added.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=811622",
-      "date": 1289730709,
-      "edition": 23
+      "url": "http://hackforums.net/showthread.php?tid=811622"
     },
     {
       "category": "users",
@@ -68,17 +58,13 @@
           "username": "Solidify",
           "uid": "176679"
         }
-      ],
-      "date": 1289730709,
-      "edition": 23
+      ]
     },
     {
       "category": "threads",
       "title": "Tinychat unbanned for HF room.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=814419",
-      "date": 1289730709,
-      "edition": 23
+      "url": "http://hackforums.net/showthread.php?tid=814419"
     },
     {
       "category": "threads",
@@ -90,9 +76,14 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1289730709,
-      "edition": 23
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 23,
+    "date": 1289730709,
+    "pid": "7681073",
+    "author_uid": "136025",
+    "subject": "[11/07/2010] - HF News"
+  }
 }

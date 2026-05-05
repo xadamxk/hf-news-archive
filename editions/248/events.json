@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
@@ -32,9 +30,7 @@
           "uid": "2214473",
           "username": ".Sinister"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
@@ -46,9 +42,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "1216255",
           "username": "Craze Z"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
@@ -90,9 +82,7 @@
           "uid": "1648934",
           "username": "Clark"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
@@ -116,9 +106,7 @@
           "uid": "1528462",
           "username": "yungloungegod"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
@@ -150,9 +138,7 @@
           "uid": "1929404",
           "username": "Evocati"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "threads",
@@ -164,9 +150,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "threads",
@@ -178,9 +162,7 @@
           "uid": "1423220",
           "username": "Ekmete"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "threads",
@@ -192,9 +174,7 @@
           "uid": "892404",
           "username": "Haydrazs"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "threads",
@@ -206,9 +186,7 @@
           "uid": "2390777",
           "username": "Capo™"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "threads",
@@ -220,9 +198,7 @@
           "uid": "2017155",
           "username": "Iggy Azalea"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "interviews",
@@ -234,17 +210,13 @@
           "uid": "1148878",
           "username": "Clique"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: geeklogan's setup was featured.",
       "description": "geeklogan's battlestation was featured this week.",
-      "url": "https://i.imgur.com/5QnysMh.jpg",
-      "date": 1436797253,
-      "edition": 248
+      "url": "https://i.imgur.com/5QnysMh.jpg"
     },
     {
       "category": "news",
@@ -447,9 +419,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1436797253,
-      "edition": 248
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 248,
+    "date": 1436797253,
+    "pid": "46991864",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 248"
+  }
 }

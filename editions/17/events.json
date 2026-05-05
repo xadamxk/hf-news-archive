@@ -4,33 +4,25 @@
       "category": "site",
       "title": "EU users experienced image server outages.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=699249",
-      "date": 1285709577,
-      "edition": 17
+      "url": "http://hackforums.net/showthread.php?tid=699249"
     },
     {
       "category": "site",
       "title": "Hack Forums reached 6,000,000 posts.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=701893",
-      "date": 1285709577,
-      "edition": 17
+      "url": "http://hackforums.net/showthread.php?tid=701893"
     },
     {
       "category": "groups",
       "title": "Reviewers applications reopened after a mass removal.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=703353",
-      "date": 1285709577,
-      "edition": 17
+      "url": "http://hackforums.net/showthread.php?tid=703353"
     },
     {
       "category": "site",
       "title": "Avatar upload bug reported by multiple users.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=704999",
-      "date": 1285709577,
-      "edition": 17
+      "url": "http://hackforums.net/showthread.php?tid=704999"
     },
     {
       "category": "users",
@@ -46,9 +38,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1285709577,
-      "edition": 17
+      ]
     },
     {
       "category": "interviews",
@@ -60,9 +50,7 @@
           "username": "Xch4ng3",
           "uid": "65784"
         }
-      ],
-      "date": 1285709577,
-      "edition": 17
+      ]
     },
     {
       "category": "news",
@@ -74,9 +62,14 @@
           "username": "The Elite",
           "uid": "136025"
         }
-      ],
-      "date": 1285709577,
-      "edition": 17
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 17,
+    "date": 1285709577,
+    "pid": "6716998",
+    "author_uid": "136025",
+    "subject": "[9/22/2010] - HF News"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "users",
@@ -52,9 +46,7 @@
           "uid": "1341148",
           "username": "John Herbert"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "users",
@@ -90,9 +82,7 @@
           "uid": "841133",
           "username": "Cloud"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "users",
@@ -112,9 +102,7 @@
           "uid": "1087653",
           "username": "Ramisme"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "users",
@@ -134,9 +122,7 @@
           "uid": "1121674",
           "username": "FroStorm"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "threads",
@@ -148,9 +134,7 @@
           "uid": "733760",
           "username": "Sparky56p"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "threads",
@@ -162,9 +146,7 @@
           "uid": "1700066",
           "username": "Gary"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "threads",
@@ -176,9 +158,7 @@
           "uid": "1187139",
           "username": "owned3600"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "interviews",
@@ -194,9 +174,7 @@
           "uid": "1700066",
           "username": "Gary"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "interviews",
@@ -212,9 +190,7 @@
           "uid": "1041725",
           "username": "RenRioku™"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "interviews",
@@ -230,9 +206,7 @@
           "uid": "370475",
           "username": "Vegas"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     },
     {
       "category": "news",
@@ -310,9 +284,14 @@
           "username": "Yellows",
           "role": "Reporter"
         }
-      ],
-      "date": 1393993701,
-      "edition": 184
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 184,
+    "date": 1393993701,
+    "pid": "38712345",
+    "author_uid": "515249",
+    "subject": "HF News - 184"
+  }
 }

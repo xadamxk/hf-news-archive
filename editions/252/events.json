@@ -5,18 +5,14 @@
       "title": "Warez Crackdown",
       "description": "Methods for obtaining Udemy courses were explicitly enforced as warez. Several members lost their accounts for offering the service and all related threads were locked or closed.",
       "url": "http://hackforums.net/showthread.php?tid=4942284",
-      "users": [],
-      "date": 1439274710,
-      "edition": 252
+      "users": []
     },
     {
       "category": "threads",
       "title": "Become a Writ3r!",
       "description": "The HF News Team recruited members for as-needed on-call writer roles to complete absentee articles.",
       "url": "http://hackforums.net/showthread.php?tid=4944556",
-      "users": [],
-      "date": 1439274710,
-      "edition": 252
+      "users": []
     },
     {
       "category": "site",
@@ -28,9 +24,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "groups",
@@ -46,9 +40,7 @@
           "uid": "1940510",
           "username": "Connected"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "users",
@@ -64,9 +56,7 @@
           "uid": "1689752",
           "username": "Αlmighty"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "users",
@@ -94,9 +84,7 @@
           "uid": "1653635",
           "username": "ClarkTheCoder"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "users",
@@ -124,9 +112,7 @@
           "uid": "1940510",
           "username": "Connected"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "users",
@@ -162,9 +148,7 @@
           "uid": "2563876",
           "username": "Serpius"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "groups",
@@ -176,9 +160,7 @@
           "uid": "279955",
           "username": "Happeh"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "threads",
@@ -190,9 +172,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "threads",
@@ -204,9 +184,7 @@
           "uid": "85546",
           "username": "Odus"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "threads",
@@ -218,9 +196,7 @@
           "uid": "2185309",
           "username": "Private Network"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "threads",
@@ -232,9 +208,7 @@
           "uid": "1844212",
           "username": "Bull™"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "interviews",
@@ -246,17 +220,13 @@
           "uid": "370510",
           "username": "!!* Alone Vampire *!!"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: xyouneed's setup was featured.",
       "description": "xyouneed's battlestation was featured this week.",
-      "url": "https://imgur.com/gallery/yCQPi/new",
-      "date": 1439274710,
-      "edition": 252
+      "url": "https://imgur.com/gallery/yCQPi/new"
     },
     {
       "category": "news",
@@ -469,9 +439,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1439274710,
-      "edition": 252
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 252,
+    "date": 1439274710,
+    "pid": "47411825",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 252"
+  }
 }

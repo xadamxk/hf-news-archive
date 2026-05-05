@@ -4,9 +4,7 @@
       "category": "site",
       "title": "The HF News team revealed their previous edition's closure announcement was an April Fools prank,...",
       "description": "The HF News team revealed their previous edition's closure announcement was an April Fools prank, citing the volume of negative criticism they received.",
-      "url": "",
-      "date": 1365478676,
-      "edition": 137
+      "url": ""
     },
     {
       "category": "groups",
@@ -22,9 +20,7 @@
           "uid": "661940",
           "username": "bugga"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "site",
@@ -36,9 +32,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "site",
@@ -50,9 +44,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "users",
@@ -64,9 +56,7 @@
           "uid": "1232842",
           "username": "#Skyline"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "site",
@@ -82,9 +72,7 @@
           "uid": "263345",
           "username": "Prince of Persia"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "users",
@@ -100,9 +88,7 @@
           "uid": "128873",
           "username": "T3h Hack3r"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "site",
@@ -118,9 +104,7 @@
           "uid": "956054",
           "username": "Emylbus"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "users",
@@ -140,9 +124,7 @@
           "uid": "649674",
           "username": "Eternal‎ ‎‎"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "users",
@@ -174,9 +156,7 @@
           "uid": "1137768",
           "username": "Kohsti"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "users",
@@ -208,9 +188,7 @@
           "uid": "1091100",
           "username": "Racutt"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "users",
@@ -254,9 +232,7 @@
           "uid": "1341017",
           "username": "Plaтiпuм"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "groups",
@@ -268,9 +244,7 @@
           "uid": "923197",
           "username": "KyleWTF"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "threads",
@@ -282,9 +256,7 @@
           "uid": "600771",
           "username": "Vіnnie"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "threads",
@@ -296,9 +268,7 @@
           "uid": "751152",
           "username": "Vazity"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "threads",
@@ -310,9 +280,7 @@
           "uid": "1327920",
           "username": "PinkBow"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "interviews",
@@ -328,9 +296,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "interviews",
@@ -346,9 +312,7 @@
           "uid": "751152",
           "username": "Vazity"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "groups",
@@ -368,9 +332,7 @@
           "uid": "4066",
           "username": "Judge Dredd"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     },
     {
       "category": "news",
@@ -438,9 +400,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1365478676,
-      "edition": 137
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 137,
+    "date": 1365478676,
+    "pid": "31835183",
+    "author_uid": "515249",
+    "subject": "[4/7/13] - HF News"
+  }
 }

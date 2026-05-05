@@ -5,36 +5,28 @@
       "title": "MyCode for Instagram",
       "description": "A new MyCode tag was introduced for Instagram following the launch of Omniscient's official Instagram account @hackforums. Users can wrap an Instagram post URL in 'ig' tags to embed it into a forum post.",
       "url": "http://hackforums.net/showthread.php?tid=5232199",
-      "users": [],
-      "date": 1460970170,
-      "edition": 288
+      "users": []
     },
     {
       "category": "site",
       "title": "Trust Scan Improvements",
       "description": "Hack Forums' Trust Scan feature underwent its third revision. Several entries received color coding (red, amber, and green), records were cut to consider only the last thirty days, and account age in days was added.",
       "url": "http://hackforums.net/showthread.php?tid=5241907",
-      "users": [],
-      "date": 1460970170,
-      "edition": 288
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group leadership changes",
       "description": "reve4 neeuQ is now the RHM for the HF Wiki Team.",
       "url": "",
-      "users": [],
-      "date": 1460970170,
-      "edition": 288
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group sales",
       "description": "Null is on sale. Riptide is for sale.",
       "url": "",
-      "users": [],
-      "date": 1460970170,
-      "edition": 288
+      "users": []
     },
     {
       "category": "users",
@@ -46,9 +38,7 @@
           "uid": "1021070",
           "username": "Sticky Man"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "users",
@@ -68,9 +58,7 @@
           "uid": "2582276",
           "username": "Morty"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "users",
@@ -82,9 +70,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "users",
@@ -112,9 +98,7 @@
           "uid": "2719306",
           "username": "Romantic"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "users",
@@ -190,9 +174,7 @@
           "uid": "2719306",
           "username": "Romantic"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "users",
@@ -232,9 +214,7 @@
           "uid": "182754",
           "username": "Orgy"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -246,9 +226,7 @@
           "uid": "1221196",
           "username": "King Cin"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -260,9 +238,7 @@
           "uid": "2969158",
           "username": "Silicon Valley"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -274,9 +250,7 @@
           "uid": "1742746",
           "username": "typhoid"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -288,9 +262,7 @@
           "uid": "67412",
           "username": "Vigor"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -302,9 +274,7 @@
           "uid": "1498262",
           "username": "White Noise"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -316,9 +286,7 @@
           "uid": "2661318",
           "username": "Vintar"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "threads",
@@ -330,9 +298,7 @@
           "uid": "2693790",
           "username": "dopepizza"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "interviews",
@@ -344,17 +310,13 @@
           "uid": "1957866",
           "username": "Enterpriser"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: mrrej89's setup was featured.",
       "description": "mrrej89's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1460970170,
-      "edition": 288
+      "url": ""
     },
     {
       "category": "users",
@@ -366,9 +328,7 @@
           "uid": "2031636",
           "username": "Ahri"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     },
     {
       "category": "news",
@@ -496,9 +456,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1460970170,
-      "edition": 288
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 288,
+    "date": 1460970170,
+    "pid": "50609226",
+    "author_uid": "2015410",
+    "subject": "Hack Forums News // Edition 288"
+  }
 }

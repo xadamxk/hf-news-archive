@@ -10,17 +10,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1284375010,
-      "edition": 13
+      ]
     },
     {
       "category": "site",
       "title": "HF officially #1 MyBB forum by activity.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=653939",
-      "date": 1284375010,
-      "edition": 13
+      "url": "http://hackforums.net/showthread.php?tid=653939"
     },
     {
       "category": "threads",
@@ -32,9 +28,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1284375010,
-      "edition": 13
+      ]
     },
     {
       "category": "users",
@@ -50,9 +44,7 @@
           "username": "Dykerosoft",
           "uid": "295518"
         }
-      ],
-      "date": 1284375010,
-      "edition": 13
+      ]
     },
     {
       "category": "users",
@@ -64,9 +56,7 @@
           "username": "Black Shadow™",
           "uid": "63387"
         }
-      ],
-      "date": 1284375010,
-      "edition": 13
+      ]
     },
     {
       "category": "users",
@@ -78,9 +68,7 @@
           "username": "Mute",
           "uid": "110746"
         }
-      ],
-      "date": 1284375010,
-      "edition": 13
+      ]
     },
     {
       "category": "news",
@@ -92,9 +80,14 @@
           "username": "Virtual Reality",
           "uid": "311070"
         }
-      ],
-      "date": 1284375010,
-      "edition": 13
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 13,
+    "date": 1284375010,
+    "pid": "6425423",
+    "author_uid": "30595",
+    "subject": "[13/09/2010] HF News"
+  }
 }

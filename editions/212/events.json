@@ -30,9 +30,7 @@
           "uid": "506782",
           "username": "Tony Stark"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "site",
@@ -44,9 +42,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "site",
@@ -58,9 +54,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "site",
@@ -76,9 +70,7 @@
           "uid": "1205532",
           "username": "Robust"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "users",
@@ -136,9 +126,7 @@
           "uid": "1725481",
           "username": "gizmoguy"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "users",
@@ -174,9 +162,7 @@
           "uid": "2010382",
           "username": "Vape™"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "groups",
@@ -188,9 +174,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "groups",
@@ -202,9 +186,7 @@
           "uid": "1726101",
           "username": "Understalker"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "interviews",
@@ -220,9 +202,7 @@
           "uid": "1583274",
           "username": "Soxy"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "interviews",
@@ -238,9 +218,7 @@
           "uid": "687297",
           "username": "Barneyyz™"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     },
     {
       "category": "news",
@@ -393,9 +371,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1415242239,
-      "edition": 212
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 212,
+    "date": 1415242239,
+    "pid": "43193988",
+    "author_uid": "515249",
+    "subject": "HF News - 212"
+  }
 }

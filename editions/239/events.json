@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "groups",
@@ -66,9 +58,7 @@
           "uid": "2529154",
           "username": "TommyD"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
@@ -96,9 +86,7 @@
           "uid": "504910",
           "username": "๖ۣۜSith Lord"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
@@ -122,9 +110,7 @@
           "uid": "2494288",
           "username": "TO0R"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
@@ -156,9 +142,7 @@
           "uid": "1431463",
           "username": "Vicellus Drum"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
@@ -170,9 +154,7 @@
           "uid": "2334861",
           "username": "DamienVC"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
@@ -192,9 +174,7 @@
           "uid": "2334861",
           "username": "DamienVC"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
@@ -214,9 +194,7 @@
           "uid": "1238642",
           "username": "Maximum"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "threads",
@@ -228,9 +206,7 @@
           "uid": "674179",
           "username": "Nickfost"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "threads",
@@ -242,9 +218,7 @@
           "uid": "1849237",
           "username": "KFC Watermelon"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "threads",
@@ -256,9 +230,7 @@
           "uid": "1256441",
           "username": "Abraham Lincoln"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "interviews",
@@ -270,17 +242,13 @@
           "uid": "2529154",
           "username": "TommyD"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: ToBeAdded's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1431394427,
-      "edition": 239
+      "url": ""
     },
     {
       "category": "news",
@@ -503,9 +471,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1431394427,
-      "edition": 239
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 239,
+    "date": 1431394427,
+    "pid": "46089172",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 239"
+  }
 }

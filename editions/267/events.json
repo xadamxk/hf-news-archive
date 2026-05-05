@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
@@ -28,9 +26,7 @@
           "uid": "992020",
           "username": "King of Hearts"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
@@ -46,9 +42,7 @@
           "uid": "1238642",
           "username": "Maximum"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
@@ -76,9 +70,7 @@
           "uid": "2092054",
           "username": "ha4x0r"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "246462",
           "username": "MiSTER NiCE GUY"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
@@ -124,9 +114,7 @@
           "uid": "1128082",
           "username": "Tricorn"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
@@ -146,9 +134,7 @@
           "uid": "1990800",
           "username": "Camerоn"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "threads",
@@ -160,9 +146,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "threads",
@@ -174,18 +158,14 @@
           "uid": "2562432",
           "username": "Toxyiic"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "threads",
       "title": "Looka's short random feedback thread",
       "description": "The user Looka provides the community with some feedback on the groups he/she is in and users he/she has dealt with.",
       "url": "http://hackforums.net/showthread.php?tid=5062535",
-      "users": [],
-      "date": 1448505051,
-      "edition": 267
+      "users": []
     },
     {
       "category": "threads",
@@ -197,9 +177,7 @@
           "uid": "1700066",
           "username": "Gary."
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "threads",
@@ -211,9 +189,7 @@
           "uid": "497949",
           "username": "eCoLoGy"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "threads",
@@ -225,9 +201,7 @@
           "uid": "1610871",
           "username": "Rʟᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "groups",
@@ -247,18 +221,14 @@
           "uid": "1080450",
           "username": "~Dec"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! and L'appel du vide listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
-      "users": [],
-      "date": 1448505051,
-      "edition": 267
+      "users": []
     },
     {
       "category": "interviews",
@@ -270,17 +240,13 @@
           "uid": "827890",
           "username": "Psychiatry"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: MordethMandragoran's and RJJ26's setups were featured.",
       "description": "",
-      "url": "",
-      "date": 1448505051,
-      "edition": 267
+      "url": ""
     },
     {
       "category": "news",
@@ -463,9 +429,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1448505051,
-      "edition": 267
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 267,
+    "date": 1448505051,
+    "pid": "48709926",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 267"
+  }
 }

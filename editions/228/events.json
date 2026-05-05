@@ -14,9 +14,7 @@
           "uid": "1256441",
           "username": "Abraham Lincoln"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "site",
@@ -36,9 +34,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "users",
@@ -58,9 +54,7 @@
           "uid": "1133821",
           "username": "Digital™"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "users",
@@ -96,9 +90,7 @@
           "uid": "2301878",
           "username": "Neyox"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "users",
@@ -114,9 +106,7 @@
           "uid": "1931708",
           "username": "Programming"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "users",
@@ -132,9 +122,7 @@
           "uid": "1931708",
           "username": "Programming"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "users",
@@ -166,9 +154,7 @@
           "uid": "1256441",
           "username": "Abraham Lincoln"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "groups",
@@ -184,25 +170,19 @@
           "uid": "493315",
           "username": "Syrah"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "groups",
       "title": "Group Leadership",
       "description": "Community thread tracking current group leadership.",
-      "url": "http://hackforums.net/showthread.php?tid=4694346",
-      "date": 1424758826,
-      "edition": 228
+      "url": "http://hackforums.net/showthread.php?tid=4694346"
     },
     {
       "category": "groups",
       "title": "Polymath | End of an Era | Sale | BTC/WU | BIN: $7,000",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=4573409",
-      "date": 1424758826,
-      "edition": 228
+      "url": "http://hackforums.net/showthread.php?tid=4573409"
     },
     {
       "category": "threads",
@@ -214,9 +194,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -228,9 +206,7 @@
           "uid": "1498588",
           "username": "WaterSpice"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -242,9 +218,7 @@
           "uid": "2000231",
           "username": "Unreal"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -256,9 +230,7 @@
           "uid": "1556823",
           "username": "Petaflop"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -270,9 +242,7 @@
           "uid": "1343812",
           "username": "Realizm"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -284,9 +254,7 @@
           "uid": "2024306",
           "username": "Calypo"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -298,9 +266,7 @@
           "uid": "1605501",
           "username": "ObscureCoder"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -312,9 +278,7 @@
           "uid": "2208857",
           "username": "rollerxray7"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "threads",
@@ -326,9 +290,7 @@
           "uid": "1233686",
           "username": "Frawshy"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "interviews",
@@ -340,9 +302,7 @@
           "uid": "1255973",
           "username": "Zayne"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "interviews",
@@ -354,9 +314,7 @@
           "uid": "1536004",
           "username": "'Chief"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "users",
@@ -368,9 +326,7 @@
           "uid": "2470858",
           "username": "Salty"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     },
     {
       "category": "news",
@@ -583,9 +539,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1424758826,
-      "edition": 228
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 228,
+    "date": 1424758826,
+    "pid": "44962777",
+    "author_uid": "515249",
+    "subject": "HF News - 228"
+  }
 }

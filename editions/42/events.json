@@ -4,9 +4,7 @@
       "category": "site",
       "title": "Suggestions & Ideas section re-opened; new sections approved.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=134",
-      "date": 1305871878,
-      "edition": 42
+      "url": "http://hackforums.net/forumdisplay.php?fid=134"
     },
     {
       "category": "site",
@@ -18,17 +16,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1305871878,
-      "edition": 42
+      ]
     },
     {
       "category": "site",
       "title": "New Xbox Live Gamertag section launched.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=195",
-      "date": 1305871878,
-      "edition": 42
+      "url": "http://hackforums.net/forumdisplay.php?fid=195"
     },
     {
       "category": "site",
@@ -40,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1305871878,
-      "edition": 42
+      ]
     },
     {
       "category": "site",
@@ -54,9 +46,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1305871878,
-      "edition": 42
+      ]
     },
     {
       "category": "site",
@@ -68,9 +58,14 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1305871878,
-      "edition": 42
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 42,
+    "date": 1305871878,
+    "pid": "12014043",
+    "author_uid": "295848",
+    "subject": "[5/18/2011] - HF News"
+  }
 }

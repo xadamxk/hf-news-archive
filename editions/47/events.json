@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "site",
@@ -52,17 +46,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "site",
       "title": "Word filter added for 'Lulz-sec'.",
       "description": "",
-      "url": "",
-      "date": 1308795438,
-      "edition": 47
+      "url": ""
     },
     {
       "category": "users",
@@ -74,9 +64,7 @@
           "username": "xerotic",
           "uid": "175033"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "groups",
@@ -92,9 +80,7 @@
           "username": "Atthackers",
           "uid": "616850"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "site",
@@ -106,9 +92,7 @@
           "username": "Cobalt+",
           "uid": "277712"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "groups",
@@ -124,17 +108,20 @@
           "username": "KillαMuvz",
           "uid": "579898"
         }
-      ],
-      "date": 1308795438,
-      "edition": 47
+      ]
     },
     {
       "category": "groups",
       "title": "RATs subsection description updated.",
       "description": "",
-      "url": "",
-      "date": 1308795438,
-      "edition": 47
+      "url": ""
     }
-  ]
+  ],
+  "edition": {
+    "number": 47,
+    "date": 1308795438,
+    "pid": "12914091",
+    "author_uid": "295848",
+    "subject": "[6/22/2011] - HF News"
+  }
 }

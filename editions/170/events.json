@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "users",
@@ -56,9 +50,7 @@
           "uid": "1087815",
           "username": "Nаte"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "users",
@@ -90,9 +82,7 @@
           "uid": "879431",
           "username": "Pali"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "groups",
@@ -108,9 +98,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "groups",
@@ -122,9 +110,7 @@
           "uid": "1341017",
           "username": "Plaтiпuм"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "threads",
@@ -136,9 +122,7 @@
           "uid": "950102",
           "username": "Bullet."
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "threads",
@@ -150,9 +134,7 @@
           "uid": "649674",
           "username": "Arcaina"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "interviews",
@@ -168,9 +150,7 @@
           "uid": "1452196",
           "username": "-Nas"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "interviews",
@@ -186,9 +166,7 @@
           "uid": "1659032",
           "username": "Cyph Jr"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "interviews",
@@ -204,9 +182,7 @@
           "uid": "262695",
           "username": "Freddy Krueger"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     },
     {
       "category": "news",
@@ -289,9 +265,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1385520906,
-      "edition": 170
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 170,
+    "date": 1385520906,
+    "pid": "36574067",
+    "author_uid": "515249",
+    "subject": "[11/25/13] - HF News"
+  }
 }

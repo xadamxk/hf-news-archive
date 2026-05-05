@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "site",
@@ -24,17 +22,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "groups",
       "title": "Rhythm cleaned out inactive members, retaining only active participants.",
       "description": "",
-      "url": "",
-      "date": 1344153705,
-      "edition": 103
+      "url": ""
     },
     {
       "category": "site",
@@ -46,9 +40,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -60,9 +52,7 @@
           "uid": "114319",
           "username": "Mr. Anderson"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -74,9 +64,7 @@
           "uid": "1125749",
           "username": "Kray"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -88,9 +76,7 @@
           "uid": "646916",
           "username": "Genuine"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -114,9 +100,7 @@
           "uid": "330676",
           "username": "Diabolic"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -140,9 +124,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -158,9 +140,7 @@
           "uid": "388560",
           "username": "Unreadable"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "users",
@@ -180,9 +160,7 @@
           "uid": "274613",
           "username": "Яǝʌǝɹsǝ"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "groups",
@@ -222,9 +200,7 @@
           "uid": "920387",
           "username": "Ηades"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "threads",
@@ -236,9 +212,7 @@
           "uid": "1044864",
           "username": "malichi"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "threads",
@@ -250,9 +224,7 @@
           "uid": "581954",
           "username": "Robert Hawkins"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "threads",
@@ -264,9 +236,7 @@
           "uid": "1090659",
           "username": "Argoi"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "threads",
@@ -278,9 +248,7 @@
           "uid": "1383700",
           "username": "Vike"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "interviews",
@@ -296,9 +264,7 @@
           "uid": "727139",
           "username": "Secrets"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "interviews",
@@ -314,9 +280,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     },
     {
       "category": "news",
@@ -384,9 +348,14 @@
           "username": "PyroStorm",
           "role": "Proofreader"
         }
-      ],
-      "date": 1344153705,
-      "edition": 103
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 103,
+    "date": 1344153705,
+    "pid": "25183828",
+    "author_uid": "515249",
+    "subject": "[8/5/12] - HF News"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "280287",
           "username": "førgive"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "users",
@@ -106,9 +98,7 @@
           "uid": "130245",
           "username": "Carl Sagan"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "users",
@@ -136,9 +126,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "groups",
@@ -150,9 +138,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "interviews",
@@ -168,9 +154,7 @@
           "uid": "1087815",
           "username": "Nate"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "interviews",
@@ -186,9 +170,7 @@
           "uid": "1658604",
           "username": "Tycoon"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "interviews",
@@ -204,9 +186,7 @@
           "uid": "741039",
           "username": "Assailant"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     },
     {
       "category": "news",
@@ -289,9 +269,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1386738644,
-      "edition": 172
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 172,
+    "date": 1386738644,
+    "pid": "36891051",
+    "author_uid": "515249",
+    "subject": "HF News - 172"
+  }
 }

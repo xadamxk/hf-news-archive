@@ -10,9 +10,7 @@
           "uid": "2584324",
           "username": "Incendiary."
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "users",
@@ -36,9 +34,7 @@
           "uid": "398783",
           "username": "Viper The Rapper"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "uid": "1743548",
           "username": "Excah"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "2433285",
           "username": "tunafish316"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "2698612",
           "username": "Neos07"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "users",
@@ -116,9 +106,7 @@
           "uid": "153533",
           "username": "Assault"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -130,9 +118,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -144,9 +130,7 @@
           "uid": "695943",
           "username": "Sakuto"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -158,9 +142,7 @@
           "uid": "151995",
           "username": "Tomvnoh"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -172,9 +154,7 @@
           "uid": "1315784",
           "username": "Miki"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -186,9 +166,7 @@
           "uid": "2040922",
           "username": "Brahmā™"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -200,9 +178,7 @@
           "uid": "1648812",
           "username": "F U Z I O N"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "threads",
@@ -214,9 +190,7 @@
           "uid": "2999974",
           "username": "Asynical"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "interviews",
@@ -228,9 +202,7 @@
           "uid": "902219",
           "username": "True Demon"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "groups",
@@ -250,25 +222,19 @@
           "uid": "2292899",
           "username": "Divined"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Pilot_H's setup was featured.",
       "description": "Pilot_H is a Reddit user.",
-      "url": "",
-      "date": 1452667488,
-      "edition": 274
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Zurqq's setup was featured.",
       "description": "Zurqq is a Reddit user.",
-      "url": "",
-      "date": 1452667488,
-      "edition": 274
+      "url": ""
     },
     {
       "category": "news",
@@ -451,9 +417,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1452667488,
-      "edition": 274
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 274,
+    "date": 1452667488,
+    "pid": "49382185",
+    "author_uid": "561239",
+    "subject": "Hack Forums News // Edition 274"
+  }
 }

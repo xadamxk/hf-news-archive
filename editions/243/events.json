@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
@@ -56,9 +50,7 @@
           "uid": "1700066",
           "username": "Gаry"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
@@ -82,9 +74,7 @@
           "uid": "2563991",
           "username": "$afe"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
@@ -132,9 +122,7 @@
           "uid": "1357063",
           "username": "Aeon ‹3"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
@@ -150,9 +138,7 @@
           "uid": "1103336",
           "username": "zerokhaos"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
@@ -184,9 +170,7 @@
           "uid": "1103336",
           "username": "zerokhaos"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
@@ -198,9 +182,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "threads",
@@ -212,9 +194,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "threads",
@@ -226,9 +206,7 @@
           "uid": "2732019",
           "username": "theRealShooKon3"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "threads",
@@ -240,9 +218,7 @@
           "uid": "1680975",
           "username": "Regulus"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "threads",
@@ -254,9 +230,7 @@
           "uid": "2298174",
           "username": "musique"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "interviews",
@@ -268,17 +242,13 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: efuentay216's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1433916373,
-      "edition": 243
+      "url": ""
     },
     {
       "category": "news",
@@ -481,9 +451,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1433916373,
-      "edition": 243
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 243,
+    "date": 1433916373,
+    "pid": "46521979",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 243"
+  }
 }

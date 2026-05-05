@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1290620",
           "username": "Designer"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,7 @@
           "uid": "524451",
           "username": "Yellows"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "users",
@@ -102,9 +94,7 @@
           "uid": "1415126",
           "username": "Remix™"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "users",
@@ -132,9 +122,7 @@
           "uid": "1787706",
           "username": "Xen0n"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "users",
@@ -146,9 +134,7 @@
           "uid": "538985",
           "username": "C0NN3X10N"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "groups",
@@ -192,9 +178,7 @@
           "uid": "1416892",
           "username": "Apex‌‌‌‌‌"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "groups",
@@ -218,9 +202,7 @@
           "uid": "1452196",
           "username": "-Nas"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "site",
@@ -236,9 +218,7 @@
           "uid": "1881806",
           "username": "Jack Sparrow™"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -249,9 +229,7 @@
         {
           "username": "Mr.Chargen"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -263,9 +241,7 @@
           "uid": "2281450",
           "username": "-----"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -277,9 +253,7 @@
           "uid": "1844751",
           "username": "Dr. R"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -291,9 +265,7 @@
           "uid": "2106326",
           "username": "Kayoz"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -305,9 +277,7 @@
           "uid": "2209419",
           "username": "MI-6"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -319,9 +289,7 @@
           "uid": "1243825",
           "username": "Razor"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -333,9 +301,7 @@
           "uid": "2163119",
           "username": "Snores"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "threads",
@@ -347,9 +313,7 @@
           "uid": "43211",
           "username": "Griffin"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "interviews",
@@ -365,9 +329,7 @@
           "uid": "1353694",
           "username": "OhMyQuad"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "interviews",
@@ -383,9 +345,7 @@
           "uid": "662860",
           "username": "mashuginaH"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     },
     {
       "category": "news",
@@ -528,9 +488,14 @@
           "username": "#Beau",
           "role": "Reserve Writer"
         }
-      ],
-      "date": 1401000853,
-      "edition": 195
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 195,
+    "date": 1401000853,
+    "pid": "40282307",
+    "author_uid": "515249",
+    "subject": "HF News - 195"
+  }
 }

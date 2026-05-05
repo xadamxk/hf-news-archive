@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1310663107,
-      "edition": 50
+      ]
     },
     {
       "category": "threads",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1310663107,
-      "edition": 50
+      ]
     },
     {
       "category": "threads",
@@ -38,9 +34,7 @@
           "username": "Judge Dredd",
           "uid": "4066"
         }
-      ],
-      "date": 1310663107,
-      "edition": 50
+      ]
     },
     {
       "category": "threads",
@@ -52,9 +46,7 @@
           "username": "xerotic",
           "uid": "175033"
         }
-      ],
-      "date": 1310663107,
-      "edition": 50
+      ]
     },
     {
       "category": "groups",
@@ -66,9 +58,7 @@
           "username": "-BoodyE-",
           "uid": "115612"
         }
-      ],
-      "date": 1310663107,
-      "edition": 50
+      ]
     },
     {
       "category": "users",
@@ -80,17 +70,20 @@
           "username": "Atthackers",
           "uid": "616850"
         }
-      ],
-      "date": 1310663107,
-      "edition": 50
+      ]
     },
     {
       "category": "groups",
       "title": "Groups recruiting: The Alliance, Graphic Masters, RATs Crew, Reverence, The Wraith.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=52",
-      "date": 1310663107,
-      "edition": 50
+      "url": "http://hackforums.net/forumdisplay.php?fid=52"
     }
-  ]
+  ],
+  "edition": {
+    "number": 50,
+    "date": 1310663107,
+    "pid": "13591845",
+    "author_uid": "295848",
+    "subject": "[7/14/2011] - HF News"
+  }
 }

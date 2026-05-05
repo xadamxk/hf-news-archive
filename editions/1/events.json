@@ -14,17 +14,13 @@
           "username": "Ph!sh",
           "uid": null
         }
-      ],
-      "date": 1273993936,
-      "edition": 1
+      ]
     },
     {
       "category": "site",
       "title": "Hack Forums upgraded to 4 servers.",
       "description": "",
-      "url": "",
-      "date": 1273993936,
-      "edition": 1
+      "url": ""
     },
     {
       "category": "site",
@@ -36,25 +32,19 @@
           "username": "ROTFL2",
           "uid": null
         }
-      ],
-      "date": 1273993936,
-      "edition": 1
+      ]
     },
     {
       "category": "site",
       "title": "Minimum character limit for posts increased from 20 to 25 characters.",
       "description": "",
-      "url": "",
-      "date": 1273993936,
-      "edition": 1
+      "url": ""
     },
     {
       "category": "site",
       "title": "Non-upgraded members limited to 10 posts in the Lounge per day.",
       "description": "",
-      "url": "",
-      "date": 1273993936,
-      "edition": 1
+      "url": ""
     },
     {
       "category": "users",
@@ -66,9 +56,7 @@
           "username": "Wazakindjes",
           "uid": "83269"
         }
-      ],
-      "date": 1273993936,
-      "edition": 1
+      ]
     },
     {
       "category": "users",
@@ -80,9 +68,7 @@
           "username": "Anthony",
           "uid": null
         }
-      ],
-      "date": 1273993936,
-      "edition": 1
+      ]
     },
     {
       "category": "news",
@@ -94,9 +80,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1273993936,
-      "edition": 1
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 1,
+    "date": 1273993936,
+    "pid": "4065473",
+    "author_uid": "74244",
+    "subject": "HF News Week - 5/09-5/16 [FIRST] [COMMENT]"
+  }
 }

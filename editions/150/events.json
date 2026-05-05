@@ -14,9 +14,7 @@
           "uid": "656453",
           "username": "Chris"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "site",
@@ -56,9 +50,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "site",
@@ -78,9 +70,7 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "users",
@@ -96,9 +86,7 @@
           "uid": "787112",
           "username": "Saturday"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "users",
@@ -130,9 +118,7 @@
           "uid": "1330504",
           "username": "S. Koda"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "users",
@@ -156,9 +142,7 @@
           "uid": "1539015",
           "username": "-๖ۣۜDivine-"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "users",
@@ -178,9 +162,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "groups",
@@ -192,9 +174,7 @@
           "uid": "1189774",
           "username": "Bandors"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "threads",
@@ -206,9 +186,7 @@
           "uid": "138871",
           "username": "Layfon"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "threads",
@@ -220,9 +198,7 @@
           "uid": "1472362",
           "username": "Prefix"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "threads",
@@ -234,9 +210,7 @@
           "uid": "1848154",
           "username": "Dr. Penguin"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "interviews",
@@ -252,9 +226,7 @@
           "uid": "878647",
           "username": "Kosmos"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "interviews",
@@ -270,9 +242,7 @@
           "uid": "1645227",
           "username": "Lovol"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "groups",
@@ -288,9 +258,7 @@
           "uid": "1239927",
           "username": "Fatal"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     },
     {
       "category": "news",
@@ -363,9 +331,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1373257057,
-      "edition": 150
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 150,
+    "date": 1373257057,
+    "pid": "33800129",
+    "author_uid": "515249",
+    "subject": "[7/7/13] - HF News"
+  }
 }

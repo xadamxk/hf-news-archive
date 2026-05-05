@@ -4,25 +4,19 @@
       "category": "site",
       "title": "A proxy killer plug-in was added that blocks proxies for both registration and login.",
       "description": "",
-      "url": "",
-      "date": 1317617969,
-      "edition": 61
+      "url": ""
     },
     {
       "category": "site",
       "title": "A new Graphics Market section was added under Service Offerings for graphics service sales.",
       "description": "",
-      "url": "",
-      "date": 1317617969,
-      "edition": 61
+      "url": ""
     },
     {
       "category": "site",
       "title": "Opera Mini has been firewalled because ban evaders and scammers were using it like a VPN.",
       "description": "",
-      "url": "",
-      "date": 1317617969,
-      "edition": 61
+      "url": ""
     },
     {
       "category": "site",
@@ -34,25 +28,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1317617969,
-      "edition": 61
+      ]
     },
     {
       "category": "site",
       "title": "Official mods list page (modlist.php) and staff list page (stafflist.php) were added.",
       "description": "",
-      "url": "",
-      "date": 1317617969,
-      "edition": 61
+      "url": ""
     },
     {
       "category": "site",
       "title": "An official Google +1 button was added to the footer to help with SEO.",
       "description": "",
-      "url": "",
-      "date": 1317617969,
-      "edition": 61
+      "url": ""
     },
     {
       "category": "interviews",
@@ -67,9 +55,14 @@
           "uid": "545127",
           "username": "Joey Tribbiani"
         }
-      ],
-      "date": 1317617969,
-      "edition": 61
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 61,
+    "date": 1317617969,
+    "pid": "16212303",
+    "author_uid": "0",
+    "subject": "[10/2/11] - HF News"
+  }
 }

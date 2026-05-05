@@ -10,9 +10,7 @@
           "username": "XCH4NG3",
           "uid": "65784"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "username": "Rusty_V",
           "uid": "47970"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     },
     {
       "category": "site",
@@ -38,33 +34,25 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     },
     {
       "category": "site",
       "title": "Marketplace Discussions section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=163",
-      "date": 1276377365,
-      "edition": 5
+      "url": "http://hackforums.net/forumdisplay.php?fid=163"
     },
     {
       "category": "site",
       "title": "Virtual Machines section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=165",
-      "date": 1276377365,
-      "edition": 5
+      "url": "http://hackforums.net/forumdisplay.php?fid=165"
     },
     {
       "category": "site",
       "title": "CyberGate section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=166",
-      "date": 1276377365,
-      "edition": 5
+      "url": "http://hackforums.net/forumdisplay.php?fid=166"
     },
     {
       "category": "site",
@@ -76,9 +64,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     },
     {
       "category": "users",
@@ -90,9 +76,7 @@
           "username": "Fusion",
           "uid": "112997"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     },
     {
       "category": "users",
@@ -104,9 +88,7 @@
           "username": "Korrupt",
           "uid": "130373"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     },
     {
       "category": "news",
@@ -118,9 +100,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1276377365,
-      "edition": 5
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 5,
+    "date": 1276377365,
+    "pid": "4557624",
+    "author_uid": "74244",
+    "subject": "[6/6-6/13] HF News  [HEADLINE FILLED!] [COMMENT]"
+  }
 }

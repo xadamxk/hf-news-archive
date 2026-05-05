@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "groups",
@@ -52,9 +46,7 @@
           "uid": "1172544",
           "username": "Cody"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "users",
@@ -82,9 +74,7 @@
           "uid": "398783",
           "username": "inxy"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "users",
@@ -112,9 +102,7 @@
           "uid": "1600147",
           "username": "Divert"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "users",
@@ -134,9 +122,7 @@
           "uid": "1453009",
           "username": "Raptor."
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "users",
@@ -164,9 +150,7 @@
           "uid": "811504",
           "username": "eKKiM"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "threads",
@@ -178,9 +162,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "threads",
@@ -192,9 +174,7 @@
           "uid": "1119610",
           "username": "Winner"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "site",
@@ -234,9 +214,7 @@
           "uid": "1125749",
           "username": "Kray"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "interviews",
@@ -252,9 +230,7 @@
           "uid": "1491834",
           "username": "mad76e"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "interviews",
@@ -270,9 +246,7 @@
           "uid": "600771",
           "username": "Vinnie'"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     },
     {
       "category": "news",
@@ -350,9 +324,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1379995190,
-      "edition": 161
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 161,
+    "date": 1379995190,
+    "pid": "35362948",
+    "author_uid": "515249",
+    "subject": "[9/23/13] - HF News"
+  }
 }

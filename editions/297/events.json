@@ -5,18 +5,14 @@
       "title": "Contact form overhaul",
       "description": "Omniscient improved contact-form handling with filters and canned replies—responding to roughly 100% of messages over two weeks versus ~20% previously.",
       "url": "http://hackforums.net/showthread.php?tid=5320862",
-      "users": [],
-      "date": 1467216922,
-      "edition": 297
+      "users": []
     },
     {
       "category": "groups",
       "title": "Nightmare leadership",
       "description": "TheChief is noted again as a Nightmare leader alongside broader recruitment listings.",
       "url": "",
-      "users": [],
-      "date": 1467216922,
-      "edition": 297
+      "users": []
     },
     {
       "category": "users",
@@ -40,9 +36,7 @@
           "uid": "175033",
           "username": "Xerotic"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "users",
@@ -66,9 +60,7 @@
           "uid": "2283162",
           "username": "TehBVM"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "users",
@@ -100,9 +92,7 @@
           "uid": "2765684",
           "username": "Montana of 300"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "users",
@@ -130,9 +120,7 @@
           "uid": "2929519",
           "username": "BassBoostOfficial"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "users",
@@ -180,9 +168,7 @@
           "uid": "2929519",
           "username": "BassBoostOfficial"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "users",
@@ -206,9 +192,7 @@
           "uid": "2682887",
           "username": "Mr. Robot"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "threads",
@@ -220,9 +204,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "threads",
@@ -234,9 +216,7 @@
           "uid": "187420",
           "username": "iDuL"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "threads",
@@ -248,9 +228,7 @@
           "uid": "1803034",
           "username": "KnucklezHF"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "interviews",
@@ -262,9 +240,7 @@
           "uid": "2739889",
           "username": "heartthrob."
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "users",
@@ -276,9 +252,7 @@
           "uid": "1399665",
           "username": ".NETGuard"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     },
     {
       "category": "news",
@@ -391,9 +365,14 @@
           "username": "Vitani",
           "role": "On-Call Team [TRIAL]"
         }
-      ],
-      "date": 1467216922,
-      "edition": 297
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 297,
+    "date": 1467216922,
+    "pid": "51484531",
+    "author_uid": "1999047",
+    "subject": "Hack Forums News // Edition 297"
+  }
 }

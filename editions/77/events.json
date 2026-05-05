@@ -14,9 +14,7 @@
           "uid": "570186",
           "username": "TheHackersLove"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "site",
@@ -56,9 +50,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "site",
@@ -70,9 +62,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "users",
@@ -84,9 +74,7 @@
           "uid": "661940",
           "username": "bugga"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "users",
@@ -98,9 +86,7 @@
           "uid": "330676",
           "username": "Diabolic"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "users",
@@ -112,9 +98,7 @@
           "uid": "127956",
           "username": "Plutonium"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "users",
@@ -130,9 +114,7 @@
           "uid": "4066",
           "username": "Judge Dredd"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "users",
@@ -144,9 +126,7 @@
           "uid": "524451",
           "username": "Yellows"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "users",
@@ -162,9 +142,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "threads",
@@ -176,9 +154,7 @@
           "uid": "309536",
           "username": "Verilog"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "threads",
@@ -190,9 +166,7 @@
           "uid": "91473",
           "username": "Coffee"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "threads",
@@ -204,9 +178,7 @@
           "uid": "613009",
           "username": "Morchid"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "threads",
@@ -218,9 +190,7 @@
           "uid": "678298",
           "username": "Kamz89"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "threads",
@@ -232,9 +202,7 @@
           "uid": "811057",
           "username": "Wheelz"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "groups",
@@ -258,9 +226,7 @@
           "uid": "734805",
           "username": "Glassy"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "interviews",
@@ -275,9 +241,7 @@
         {
           "username": "Irise"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "interviews",
@@ -292,9 +256,7 @@
           "username": "Legacy.",
           "uid": "942724"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     },
     {
       "category": "news",
@@ -352,9 +314,14 @@
           "username": "Tasemu",
           "role": "Graphical Editor"
         }
-      ],
-      "date": 1327554655,
-      "edition": 77
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 77,
+    "date": 1327554655,
+    "pid": "19387323",
+    "author_uid": "515249",
+    "subject": "[1/25/12] - HF News"
+  }
 }

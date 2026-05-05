@@ -10,9 +10,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "groups",
@@ -56,9 +50,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "site",
@@ -70,9 +62,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "users",
@@ -112,9 +102,7 @@
           "uid": "11960",
           "username": "Kn1ght"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "users",
@@ -150,9 +138,7 @@
           "uid": "1748474",
           "username": "Fly By Night"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "users",
@@ -180,9 +166,7 @@
           "uid": "952870",
           "username": "Αlien"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "groups",
@@ -202,9 +186,7 @@
           "uid": "1172544",
           "username": "Cody‍"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "threads",
@@ -216,9 +198,7 @@
           "uid": "1403633",
           "username": "Vandal"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "threads",
@@ -230,9 +210,7 @@
           "uid": "23809",
           "username": "Viral Dragon"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "interviews",
@@ -248,9 +226,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "interviews",
@@ -266,9 +242,7 @@
           "uid": "900087",
           "username": "Starstruck"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     },
     {
       "category": "news",
@@ -341,9 +315,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1378182761,
-      "edition": 158
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 158,
+    "date": 1378182761,
+    "pid": "34998587",
+    "author_uid": "515249",
+    "subject": "[9/2/13] - HF News"
+  }
 }

@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1298744952,
-      "edition": 34
+      ]
     },
     {
       "category": "users",
@@ -28,9 +26,7 @@
           "username": "Xch4ng3",
           "uid": "65784"
         }
-      ],
-      "date": 1298744952,
-      "edition": 34
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1298744952,
-      "edition": 34
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,14 @@
           "username": "Infallible",
           "uid": "170785"
         }
-      ],
-      "date": 1298744952,
-      "edition": 34
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 34,
+    "date": 1298744952,
+    "pid": "10131999",
+    "author_uid": "175033",
+    "subject": "[2/26/2011] - HF News"
+  }
 }

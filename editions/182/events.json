@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "83317",
           "username": "Automatic Coding"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "1726101",
           "username": "Understalker"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "users",
@@ -128,9 +118,7 @@
           "uid": "482888",
           "username": "mad"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "threads",
@@ -142,9 +130,7 @@
           "uid": "482888",
           "username": "mad"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "threads",
@@ -156,9 +142,7 @@
           "uid": "485087",
           "username": "ChRoNiC™"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "threads",
@@ -170,9 +154,7 @@
           "uid": "524451",
           "username": "Yellows"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "interviews",
@@ -188,9 +170,7 @@
           "uid": "692131",
           "username": "Anima Libera"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "interviews",
@@ -206,9 +186,7 @@
           "uid": "1743726",
           "username": "Spyro The Dragon"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "interviews",
@@ -224,9 +202,7 @@
           "uid": "272608",
           "username": "ShadowCloud"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     },
     {
       "category": "news",
@@ -309,9 +285,14 @@
           "username": "Xerucide",
           "role": "Proofreader"
         }
-      ],
-      "date": 1392877456,
-      "edition": 182
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 182,
+    "date": 1392877456,
+    "pid": "38446486",
+    "author_uid": "515249",
+    "subject": "HF News - 182"
+  }
 }

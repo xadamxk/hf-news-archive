@@ -42,9 +42,7 @@
           "uid": "325101",
           "username": "VirusTotal"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "users",
@@ -72,9 +70,7 @@
           "uid": "792136",
           "username": "Krew"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "users",
@@ -114,9 +110,7 @@
           "uid": "51932",
           "username": "iPhone"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "users",
@@ -152,9 +146,7 @@
           "uid": "856824",
           "username": "'An0ny"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "users",
@@ -166,9 +158,7 @@
           "uid": "878768",
           "username": "SomeWhiteGuy"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "groups",
@@ -180,9 +170,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "groups",
@@ -202,9 +190,7 @@
           "uid": "42927",
           "username": "Lani"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "groups",
@@ -228,9 +214,7 @@
           "uid": "1642244",
           "username": "Dubitus™"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "site",
@@ -246,9 +230,7 @@
           "uid": "877866",
           "username": "ιcүsερтεмвεя"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -260,9 +242,7 @@
           "uid": "1492625",
           "username": "xVulnerable"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -274,9 +254,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -288,9 +266,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -302,9 +278,7 @@
           "uid": "2284465",
           "username": "'Dane"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -316,9 +290,7 @@
           "uid": "837500",
           "username": "zero5"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -330,9 +302,7 @@
           "uid": "279955",
           "username": "Happeh"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -344,9 +314,7 @@
           "uid": "293155",
           "username": "Yui Hirasawa"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "threads",
@@ -358,9 +326,7 @@
           "uid": "944024",
           "username": "Neal Caffrey"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "interviews",
@@ -376,9 +342,7 @@
           "uid": "1492625",
           "username": "xVulnerable"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "interviews",
@@ -394,9 +358,7 @@
           "uid": "1148878",
           "username": "Clique"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "interviews",
@@ -412,9 +374,7 @@
           "uid": "1653635",
           "username": "Clark"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "interviews",
@@ -430,9 +390,7 @@
           "uid": "1616077",
           "username": "Jake Miller"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     },
     {
       "category": "news",
@@ -580,9 +538,14 @@
           "username": "#Beau",
           "role": "Reserve Writer"
         }
-      ],
-      "date": 1403505816,
-      "edition": 199
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 199,
+    "date": 1403505816,
+    "pid": "40836493",
+    "author_uid": "515249",
+    "subject": "HF News - 199"
+  }
 }

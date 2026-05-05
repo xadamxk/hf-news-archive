@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1290317245,
-      "edition": 24
+      ]
     },
     {
       "category": "users",
@@ -32,9 +30,7 @@
           "username": "Saged",
           "uid": "47360"
         }
-      ],
-      "date": 1290317245,
-      "edition": 24
+      ]
     },
     {
       "category": "users",
@@ -62,9 +58,7 @@
           "username": "Nofear1999",
           "uid": "64677"
         }
-      ],
-      "date": 1290317245,
-      "edition": 24
+      ]
     },
     {
       "category": "threads",
@@ -80,9 +74,14 @@
           "username": "Catch-22™",
           "uid": "154374"
         }
-      ],
-      "date": 1290317245,
-      "edition": 24
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 24,
+    "date": 1290317245,
+    "pid": "7822102",
+    "author_uid": "136025",
+    "subject": "[11/15/2010] - HF News"
+  }
 }

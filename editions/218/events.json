@@ -10,9 +10,7 @@
           "uid": "1406453",
           "username": "Escrow"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1860651",
           "username": "Coppersan"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "users",
@@ -54,9 +50,7 @@
           "uid": "600771",
           "username": "Vinnie"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "users",
@@ -116,9 +110,7 @@
           "uid": "2031636",
           "username": "Popstar Ahri"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "users",
@@ -146,9 +138,7 @@
           "uid": "1446355",
           "username": "Τrust"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "groups",
@@ -160,9 +150,7 @@
           "uid": "42927",
           "username": "Lani"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "interviews",
@@ -178,9 +166,7 @@
           "uid": "879431",
           "username": "Pali"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "interviews",
@@ -196,9 +182,7 @@
           "uid": "771382",
           "username": "Balloon"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     },
     {
       "category": "news",
@@ -366,9 +350,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1418712236,
-      "edition": 218
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 218,
+    "date": 1418712236,
+    "pid": "43838243",
+    "author_uid": "515249",
+    "subject": "HF News - 218 {Featuring the Omnicast!}"
+  }
 }

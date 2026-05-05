@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "groups",
@@ -56,9 +50,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "users",
@@ -70,9 +62,7 @@
           "uid": "1039681",
           "username": "Fictional"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "users",
@@ -100,9 +90,7 @@
           "uid": "12274",
           "username": "Yck"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "users",
@@ -130,9 +118,7 @@
           "uid": "354242",
           "username": "Greyersting"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "users",
@@ -152,9 +138,7 @@
           "uid": "1624866",
           "username": "Rogue"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "users",
@@ -166,9 +150,7 @@
           "uid": "600771",
           "username": "Vinnie'"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "users",
@@ -192,9 +174,7 @@
           "uid": "600771",
           "username": "Vinnie'"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "groups",
@@ -230,9 +210,7 @@
           "uid": "632426",
           "username": "+Awesome"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "threads",
@@ -244,9 +222,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "threads",
@@ -262,9 +238,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "threads",
@@ -276,9 +250,7 @@
           "uid": "864480",
           "username": "Sаi"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "interviews",
@@ -294,9 +266,7 @@
           "uid": "279955",
           "username": "Happeh"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "interviews",
@@ -312,9 +282,7 @@
           "uid": "898564",
           "username": "KostyDays"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     },
     {
       "category": "news",
@@ -387,9 +355,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1376970053,
-      "edition": 156
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 156,
+    "date": 1376970053,
+    "pid": "34718072",
+    "author_uid": "515249",
+    "subject": "[8/19/13] - HF News"
+  }
 }

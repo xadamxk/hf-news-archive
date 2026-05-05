@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "groups",
@@ -52,9 +50,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "site",
@@ -66,9 +62,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "users",
@@ -92,9 +86,7 @@
           "uid": "956054",
           "username": "Emylbus"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "users",
@@ -138,9 +130,7 @@
           "uid": "91473",
           "username": "Coffee"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "users",
@@ -168,9 +158,7 @@
           "uid": "2066492",
           "username": "Nina Dobrev ™"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "users",
@@ -182,9 +170,7 @@
           "uid": "992989",
           "username": "Frostix"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "groups",
@@ -216,9 +202,7 @@
           "uid": "190854",
           "username": "CarrotMilk"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "threads",
@@ -230,9 +214,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "threads",
@@ -244,9 +226,7 @@
           "uid": "797403",
           "username": "630"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "threads",
@@ -258,9 +238,7 @@
           "uid": "960727",
           "username": "-zYMTOM'"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "users",
@@ -272,9 +250,7 @@
           "uid": "984082",
           "username": "-Maryland™"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "interviews",
@@ -290,9 +266,7 @@
           "uid": "969003",
           "username": "Tom"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "interviews",
@@ -308,9 +282,7 @@
           "uid": "1595524",
           "username": "bitcube"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "interviews",
@@ -326,9 +298,7 @@
           "uid": "1243825",
           "username": "Razor"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     },
     {
       "category": "news",
@@ -421,9 +391,14 @@
           "username": "awhty",
           "role": "Reporter"
         }
-      ],
-      "date": 1397014821,
-      "edition": 189
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 189,
+    "date": 1397014821,
+    "pid": "39378524",
+    "author_uid": "515249",
+    "subject": "HF News - 189"
+  }
 }

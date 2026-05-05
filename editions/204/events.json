@@ -30,9 +30,7 @@
           "uid": "649674",
           "username": "Eternal."
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "site",
@@ -44,9 +42,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "users",
@@ -62,9 +58,7 @@
           "uid": "23809",
           "username": "Viral Dragon"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "users",
@@ -104,9 +98,7 @@
           "uid": "393774",
           "username": "Shаrk"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "users",
@@ -154,9 +146,7 @@
           "uid": "1886302",
           "username": "Promethazine."
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "users",
@@ -180,9 +170,7 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "groups",
@@ -194,9 +182,7 @@
           "uid": "863752",
           "username": "Hexicidal"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "groups",
@@ -232,9 +218,7 @@
           "uid": "23809",
           "username": "Viral Dragon"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "site",
@@ -254,9 +238,7 @@
           "uid": "1901733",
           "username": "Boldheart"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "threads",
@@ -268,9 +250,7 @@
           "uid": "1330658",
           "username": "Angеl Beats"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "threads",
@@ -282,9 +262,7 @@
           "uid": "2382329",
           "username": "Fortune-ChaosHackerz"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "threads",
@@ -296,9 +274,7 @@
           "uid": "952870",
           "username": "Alien"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "interviews",
@@ -314,9 +290,7 @@
           "uid": "1080516",
           "username": "Eric"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "interviews",
@@ -332,9 +306,7 @@
           "uid": "398783",
           "username": "inxy"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     },
     {
       "category": "news",
@@ -492,9 +464,14 @@
           "username": "Pillows",
           "role": "Reserve Writer"
         }
-      ],
-      "date": 1407712680,
-      "edition": 204
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 204,
+    "date": 1407712680,
+    "pid": "41751914",
+    "author_uid": "515249",
+    "subject": "HF News - 204"
+  }
 }

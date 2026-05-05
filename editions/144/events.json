@@ -14,9 +14,7 @@
           "uid": "4066",
           "username": "Judge Dredd"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "users",
@@ -68,9 +62,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "1747438",
           "username": "SimplyTran"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "users",
@@ -148,9 +138,7 @@
           "uid": "1168966",
           "username": "Guac"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "users",
@@ -174,9 +162,7 @@
           "uid": "663417",
           "username": "Хchg"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "groups",
@@ -192,9 +178,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "threads",
@@ -206,9 +190,7 @@
           "uid": "1452467",
           "username": "Morchid"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "threads",
@@ -220,9 +202,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "threads",
@@ -234,9 +214,7 @@
           "uid": "1050193",
           "username": "Connected"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "threads",
@@ -248,9 +226,7 @@
           "uid": "1539015",
           "username": "-๖ۣۜDivine-"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "threads",
@@ -262,9 +238,7 @@
           "uid": "40895",
           "username": "BV1 ツ"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "interviews",
@@ -280,9 +254,7 @@
           "uid": "47360",
           "username": "Saged"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "interviews",
@@ -298,9 +270,7 @@
           "uid": "1118885",
           "username": "Penar"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     },
     {
       "category": "news",
@@ -368,9 +338,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1369713667,
-      "edition": 144
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 144,
+    "date": 1369713667,
+    "pid": "32909146",
+    "author_uid": "515249",
+    "subject": "[5/26/13] - HF News"
+  }
 }

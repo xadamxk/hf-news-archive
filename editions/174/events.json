@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "site",
@@ -56,9 +50,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "users",
@@ -86,9 +78,7 @@
           "uid": "23809",
           "username": "Viral Dragon"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "users",
@@ -100,9 +90,7 @@
           "uid": "752389",
           "username": "eiqhtworks"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "users",
@@ -130,9 +118,7 @@
           "uid": "860828",
           "username": "Teh Afro"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "users",
@@ -148,9 +134,7 @@
           "uid": "873409",
           "username": "Emperor"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "users",
@@ -178,9 +162,7 @@
           "uid": "1796284",
           "username": "ѕнα∂σω"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "groups",
@@ -208,9 +190,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "groups",
@@ -222,9 +202,7 @@
           "uid": "923197",
           "username": "KyleWTF"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "interviews",
@@ -240,9 +218,7 @@
           "uid": "1308266",
           "username": "Vodge"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "interviews",
@@ -258,9 +234,7 @@
           "uid": "923197",
           "username": "KyleWTF"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     },
     {
       "category": "news",
@@ -338,9 +312,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1388038425,
-      "edition": 174
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 174,
+    "date": 1388038425,
+    "pid": "37233518",
+    "author_uid": "515249",
+    "subject": "HF News - 174 - Christmas Edition"
+  }
 }

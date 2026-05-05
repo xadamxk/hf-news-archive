@@ -4,17 +4,13 @@
       "category": "site",
       "title": "LUA Coding section created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=161",
-      "date": 1275850743,
-      "edition": 4
+      "url": "http://hackforums.net/forumdisplay.php?fid=161"
     },
     {
       "category": "site",
       "title": "Hacking Tutorials reaches 8,000 threads.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=47",
-      "date": 1275850743,
-      "edition": 4
+      "url": "http://hackforums.net/forumdisplay.php?fid=47"
     },
     {
       "category": "site",
@@ -26,9 +22,7 @@
           "username": "Luchien Lachance",
           "uid": "52868"
         }
-      ],
-      "date": 1275850743,
-      "edition": 4
+      ]
     },
     {
       "category": "users",
@@ -40,9 +34,7 @@
           "username": "Soul Collector",
           "uid": "63671"
         }
-      ],
-      "date": 1275850743,
-      "edition": 4
+      ]
     },
     {
       "category": "news",
@@ -54,9 +46,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1275850743,
-      "edition": 4
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 4,
+    "date": 1275850743,
+    "pid": "4445377",
+    "author_uid": "74244",
+    "subject": "HF News - [5/30-6/6] [COMMENT]  [FOURTH]"
+  }
 }

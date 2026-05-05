@@ -4,9 +4,7 @@
       "category": "site",
       "title": "Video Editing section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=160",
-      "date": 1275252847,
-      "edition": 3
+      "url": "http://hackforums.net/forumdisplay.php?fid=160"
     },
     {
       "category": "users",
@@ -18,17 +16,13 @@
           "username": "Braco22",
           "uid": "277061"
         }
-      ],
-      "date": 1275252847,
-      "edition": 3
+      ]
     },
     {
       "category": "site",
       "title": "Batch coding subforum moved from Hacking to Coding.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=49",
-      "date": 1275252847,
-      "edition": 3
+      "url": "http://hackforums.net/forumdisplay.php?fid=49"
     },
     {
       "category": "users",
@@ -40,9 +34,7 @@
           "username": "Crust",
           "uid": "70346"
         }
-      ],
-      "date": 1275252847,
-      "edition": 3
+      ]
     },
     {
       "category": "news",
@@ -54,9 +46,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1275252847,
-      "edition": 3
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 3,
+    "date": 1275252847,
+    "pid": "4316110",
+    "author_uid": "74244",
+    "subject": "HF News Week 5/23 - 5/30 [THIRD] [COMMENT]"
+  }
 }

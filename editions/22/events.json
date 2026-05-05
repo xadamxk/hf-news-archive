@@ -14,9 +14,7 @@
           "username": "KewlHotRod",
           "uid": "82773"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     },
     {
       "category": "threads",
@@ -32,9 +30,7 @@
           "username": "Paradoxum",
           "uid": "70881"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     },
     {
       "category": "site",
@@ -46,9 +42,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     },
     {
       "category": "users",
@@ -64,9 +58,7 @@
           "username": "Ectoplasm",
           "uid": "416897"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     },
     {
       "category": "users",
@@ -78,9 +70,7 @@
           "username": "OG iFuck",
           "uid": "59160"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     },
     {
       "category": "threads",
@@ -92,9 +82,7 @@
           "username": "Marik™",
           "uid": "496620"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     },
     {
       "category": "threads",
@@ -106,9 +94,14 @@
           "username": "Malware Boss",
           "uid": "141530"
         }
-      ],
-      "date": 1289093594,
-      "edition": 22
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 22,
+    "date": 1289093594,
+    "pid": "7534184",
+    "author_uid": "136025",
+    "subject": "[10/31/2010] - HF News"
+  }
 }

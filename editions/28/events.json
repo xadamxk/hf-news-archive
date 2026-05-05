@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     },
     {
       "category": "threads",
@@ -24,9 +22,7 @@
           "username": "Asus",
           "uid": "292686"
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     },
     {
       "category": "users",
@@ -38,9 +34,7 @@
           "username": "+ad.QnA",
           "uid": "152441"
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     },
     {
       "category": "threads",
@@ -52,9 +46,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     },
     {
       "category": "site",
@@ -66,9 +58,7 @@
           "username": "Saged",
           "uid": "47360"
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     },
     {
       "category": "threads",
@@ -80,9 +70,7 @@
           "username": "Kewlhotrod",
           "uid": "82773"
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     },
     {
       "category": "threads",
@@ -98,9 +86,14 @@
           "username": "Jenni*",
           "uid": null
         }
-      ],
-      "date": 1292644503,
-      "edition": 28
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 28,
+    "date": 1292644503,
+    "pid": "8399295",
+    "author_uid": "0",
+    "subject": "[12/11/2010] - HF News"
+  }
 }

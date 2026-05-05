@@ -14,9 +14,7 @@
           "uid": "42221",
           "username": "tester"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "users",
@@ -48,9 +46,7 @@
           "uid": "1148878",
           "username": "Clique"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "groups",
@@ -62,9 +58,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "users",
@@ -84,9 +78,7 @@
           "uid": "183072",
           "username": "Mr Kewl"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "users",
@@ -118,9 +110,7 @@
           "uid": "40895",
           "username": "Citizen Snips"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "groups",
@@ -148,9 +138,7 @@
           "uid": "1017396",
           "username": "Prox"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "threads",
@@ -162,9 +150,7 @@
           "uid": "1431113",
           "username": "Antigen"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "threads",
@@ -176,9 +162,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "threads",
@@ -190,9 +174,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "interviews",
@@ -208,9 +190,7 @@
           "uid": "509788",
           "username": "Makaveli The Don"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "interviews",
@@ -226,9 +206,7 @@
           "uid": "65784",
           "username": "Xch4ng3"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     },
     {
       "category": "news",
@@ -296,9 +274,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1374561924,
-      "edition": 152
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 152,
+    "date": 1374561924,
+    "pid": "34127165",
+    "author_uid": "515249",
+    "subject": "[7/21/13] - HF News"
+  }
 }

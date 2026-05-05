@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1321043023,
-      "edition": 66.1
+      ]
     },
     {
       "category": "interviews",
@@ -24,9 +22,14 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1321043023,
-      "edition": 66.1
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 66.1,
+    "date": 1321043023,
+    "pid": "17293237",
+    "author_uid": "515249",
+    "subject": "[11/11/11] - HF News ~Special Edition~"
+  }
 }

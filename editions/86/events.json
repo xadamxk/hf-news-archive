@@ -13,17 +13,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "groups",
       "title": "The Minecrafters group was suspended at the owner's request, likely due to owner inactivity.",
       "description": "The Minecrafters group was suspended at the owner's request, likely due to owner inactivity. The BlackShades team purchased a new group for customer support and Blackshades discussion.",
-      "url": "",
-      "date": 1333586483,
-      "edition": 86
+      "url": ""
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
         {
           "username": "php"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "site",
@@ -66,17 +58,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "site",
       "title": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory...",
       "description": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory websites; alternate domains have been recommended.",
-      "url": "",
-      "date": 1333586483,
-      "edition": 86
+      "url": ""
     },
     {
       "category": "users",
@@ -92,9 +80,7 @@
           "uid": "4066",
           "username": "Judge Dredd"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -114,9 +100,7 @@
           "uid": "651773",
           "username": "Vitani's Mate"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -128,9 +112,7 @@
           "uid": "67727",
           "username": "єץє"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -146,9 +128,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -160,9 +140,7 @@
           "uid": "458073",
           "username": "Chief."
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -174,9 +152,7 @@
           "uid": "790138",
           "username": "!stric_tags($userName)"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "threads",
@@ -188,9 +164,7 @@
           "uid": "651773",
           "username": "Vitani's Mate"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "threads",
@@ -202,9 +176,7 @@
           "uid": "426299",
           "username": "Oldskool."
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "threads",
@@ -216,9 +188,7 @@
           "uid": "526511",
           "username": "[M]"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "threads",
@@ -230,9 +200,7 @@
           "uid": "398194",
           "username": "туℓєя"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -260,9 +228,7 @@
           "uid": "94732",
           "username": "*Drew Pickles*™"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "users",
@@ -274,9 +240,7 @@
           "uid": "656453",
           "username": "ReactioNz"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "groups",
@@ -296,9 +260,7 @@
           "uid": "128873",
           "username": "T3h Hack3r"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "interviews",
@@ -314,9 +276,7 @@
           "username": "Skirex",
           "uid": "398532"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "interviews",
@@ -350,9 +310,7 @@
         {
           "username": "Intrepid"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     },
     {
       "category": "news",
@@ -395,9 +353,14 @@
           "username": "Michael Westen",
           "role": "Interviewer"
         }
-      ],
-      "date": 1333586483,
-      "edition": 86
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 86,
+    "date": 1333586483,
+    "pid": "21401253",
+    "author_uid": "515249",
+    "subject": "[4/4/12] - HF News"
+  }
 }

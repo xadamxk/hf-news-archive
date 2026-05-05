@@ -10,9 +10,7 @@
           "uid": "197132",
           "username": "-Hyperion"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -32,9 +30,7 @@
           "uid": "1205532",
           "username": "Robust"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "site",
@@ -46,9 +42,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -64,9 +58,7 @@
           "uid": "1990800",
           "username": "Camerοn"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -86,9 +78,7 @@
           "uid": "432291",
           "username": "Virus1x"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -136,9 +126,7 @@
           "uid": "1535763",
           "username": "The Don Killuminati"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -158,9 +146,7 @@
           "uid": "903902",
           "username": "Minnesota"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -180,9 +166,7 @@
           "uid": "1045121",
           "username": "Bibl"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "users",
@@ -210,9 +194,7 @@
           "uid": "1694616",
           "username": "P1st."
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "threads",
@@ -224,9 +206,7 @@
           "uid": "1495835",
           "username": "Aura"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +218,7 @@
           "uid": "89623",
           "username": "Mark Webber"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "interviews",
@@ -256,9 +234,7 @@
           "uid": "1958081",
           "username": "Justin Timberlake"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "interviews",
@@ -274,9 +250,7 @@
           "uid": "797403",
           "username": "630"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "groups",
@@ -344,9 +318,7 @@
           "uid": "493315",
           "username": "Pyscho"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "groups",
@@ -370,9 +342,7 @@
           "uid": "1726101",
           "username": "Understalker"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "site",
@@ -384,17 +354,13 @@
           "uid": "1439038",
           "username": "Doctor Blue"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     },
     {
       "category": "site",
       "title": "Site statistics snapshot with totals, averages, ban counts, and forum tab deltas.",
       "description": "",
-      "url": "https://hackforums.net/showthread.php?tid=4634325&pid=44313406",
-      "date": 1421129063,
-      "edition": 222
+      "url": "https://hackforums.net/showthread.php?tid=4634325&pid=44313406"
     },
     {
       "category": "news",
@@ -562,9 +528,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1421129063,
-      "edition": 222
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 222,
+    "date": 1421129063,
+    "pid": "44313404",
+    "author_uid": "515249",
+    "subject": "HF News - 222"
+  }
 }

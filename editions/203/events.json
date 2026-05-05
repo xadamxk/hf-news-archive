@@ -10,9 +10,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "site",
@@ -32,9 +30,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "site",
@@ -46,9 +42,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "1422600",
           "username": "Fox™"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "users",
@@ -122,9 +114,7 @@
           "uid": "1667822",
           "username": "Juicy Jake"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "users",
@@ -156,9 +146,7 @@
           "uid": "1221196",
           "username": "Unknown •"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "groups",
@@ -170,25 +158,19 @@
           "uid": "128873",
           "username": "T3h Hack3r"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "site",
       "title": "The Astrocoin team submitted a pull request fixing the long-standing 'pfork != NULL' Omnicoin wallet...",
       "description": "The Astrocoin team submitted a pull request fixing the long-standing 'pfork != NULL' Omnicoin wallet bug; new binary versions are pending compilation.",
-      "url": "",
-      "date": 1407098913,
-      "edition": 203
+      "url": ""
     },
     {
       "category": "site",
       "title": "Allcrypt suddenly stopped processing trades around July 28 and marked their Omnicoin wallet under ma...",
       "description": "Allcrypt suddenly stopped processing trades around July 28 and marked their Omnicoin wallet under maintenance until August 1.",
-      "url": "",
-      "date": 1407098913,
-      "edition": 203
+      "url": ""
     },
     {
       "category": "site",
@@ -208,9 +190,7 @@
           "uid": "392740",
           "username": "The Moen"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "threads",
@@ -222,9 +202,7 @@
           "uid": "1953860",
           "username": "Stealth™"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "threads",
@@ -236,9 +214,7 @@
           "uid": "2153563",
           "username": "Trademark ™"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "threads",
@@ -250,9 +226,7 @@
           "uid": "1534733",
           "username": "Tommy"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "threads",
@@ -264,9 +238,7 @@
           "uid": "912779",
           "username": "Swift™"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "interviews",
@@ -282,9 +254,7 @@
           "uid": "1166170",
           "username": "zасh"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "interviews",
@@ -300,9 +270,7 @@
           "uid": "175033",
           "username": "Xerotic"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     },
     {
       "category": "news",
@@ -455,9 +423,14 @@
           "username": "Fade™",
           "role": "Graphical Artist"
         }
-      ],
-      "date": 1407098913,
-      "edition": 203
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 203,
+    "date": 1407098913,
+    "pid": "41613840",
+    "author_uid": "515249",
+    "subject": "HF News - 203"
+  }
 }

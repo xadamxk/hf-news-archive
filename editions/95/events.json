@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "site",
@@ -24,17 +22,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "site",
       "title": "The 'Tinychat and other chat invites' section was renamed to 'Tinychat, Join.me, Skype and Other Cha...",
       "description": "The 'Tinychat and other chat invites' section was renamed to 'Tinychat, Join.me, Skype and Other Chat Invites'.",
-      "url": "",
-      "date": 1339294303,
-      "edition": 95
+      "url": ""
     },
     {
       "category": "users",
@@ -58,9 +52,7 @@
           "uid": "323740",
           "username": "Positive"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "users",
@@ -72,9 +64,7 @@
           "uid": "33279",
           "username": "iBruteforce"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "users",
@@ -86,9 +76,7 @@
           "uid": "1059931",
           "username": "Pepsi"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "users",
@@ -100,9 +88,7 @@
           "uid": "817877",
           "username": "Guess Who Is Back"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "users",
@@ -118,9 +104,7 @@
           "uid": "989666",
           "username": "Gpizzle"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "users",
@@ -132,9 +116,7 @@
           "uid": "260570",
           "username": "Fetus Flipper"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "threads",
@@ -146,9 +128,7 @@
           "uid": "298746",
           "username": "Grammar Rays"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "threads",
@@ -160,9 +140,7 @@
           "uid": "114319",
           "username": "Mr. Anderson"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "threads",
@@ -174,9 +152,7 @@
           "uid": "246178",
           "username": "67-bit"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "threads",
@@ -188,9 +164,7 @@
           "uid": "1044864",
           "username": "malichi"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "users",
@@ -218,9 +192,7 @@
           "uid": "600771",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "groups",
@@ -232,9 +204,7 @@
           "uid": "731778",
           "username": "Lemonade"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "interviews",
@@ -250,9 +220,7 @@
           "uid": "646916",
           "username": "Genuine"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     },
     {
       "category": "news",
@@ -300,9 +268,14 @@
           "username": "Barneyyz™",
           "role": "Graphical Editor"
         }
-      ],
-      "date": 1339294303,
-      "edition": 95
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 95,
+    "date": 1339294303,
+    "pid": "23366362",
+    "author_uid": "515249",
+    "subject": "[6/9/12] - HF News"
+  }
 }

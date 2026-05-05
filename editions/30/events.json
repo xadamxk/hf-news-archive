@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1295117578,
-      "edition": 30
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1295117578,
-      "edition": 30
+      ]
     },
     {
       "category": "users",
@@ -42,9 +38,7 @@
           "username": "phire nuk3r",
           "uid": "46373"
         }
-      ],
-      "date": 1295117578,
-      "edition": 30
+      ]
     },
     {
       "category": "threads",
@@ -56,9 +50,7 @@
           "username": "PhobiiA",
           "uid": null
         }
-      ],
-      "date": 1295117578,
-      "edition": 30
+      ]
     },
     {
       "category": "users",
@@ -74,9 +66,7 @@
           "username": "Jesús",
           "uid": null
         }
-      ],
-      "date": 1295117578,
-      "edition": 30
+      ]
     },
     {
       "category": "users",
@@ -92,9 +82,14 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1295117578,
-      "edition": 30
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 30,
+    "date": 1295117578,
+    "pid": "9078894",
+    "author_uid": "0",
+    "subject": "[1/12/2011] - HF News"
+  }
 }

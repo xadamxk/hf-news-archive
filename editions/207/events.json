@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "groups",
@@ -66,9 +58,7 @@
           "uid": "42927",
           "username": "Lani"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "users",
@@ -128,9 +118,7 @@
           "uid": "128873",
           "username": "T3h Hack3r"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "users",
@@ -162,9 +150,7 @@
           "uid": "923197",
           "username": "KyleWTF"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "users",
@@ -232,9 +218,7 @@
           "uid": "1558856",
           "username": "Six-Nine"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "users",
@@ -270,17 +254,13 @@
           "uid": "1043300",
           "username": "Fresh Prince"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "groups",
       "title": "Two new groups appeared during the HF News' absence: The Revolution and Titans, both converted from...",
       "description": "Two new groups appeared during the HF News' absence: The Revolution and Titans, both converted from previous groups with three new leaders each.",
-      "url": "http://hackforums.net/showthread.php?tid=4452939",
-      "date": 1409723020,
-      "edition": 207
+      "url": "http://hackforums.net/showthread.php?tid=4452939"
     },
     {
       "category": "groups",
@@ -304,9 +284,7 @@
           "uid": "1343812",
           "username": "Realizm"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "groups",
@@ -318,9 +296,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "interviews",
@@ -336,9 +312,7 @@
           "uid": "837416",
           "username": "Soulmate"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "interviews",
@@ -354,9 +328,7 @@
           "uid": "692605",
           "username": "Nivarka"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "interviews",
@@ -372,9 +344,7 @@
           "uid": "2134273",
           "username": "Krixus"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     },
     {
       "category": "news",
@@ -522,9 +492,14 @@
           "username": "Fade™",
           "role": "Graphical Artist"
         }
-      ],
-      "date": 1409723020,
-      "edition": 207
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 207,
+    "date": 1409723020,
+    "pid": "42196350",
+    "author_uid": "515249",
+    "subject": "HF News - 207"
+  }
 }

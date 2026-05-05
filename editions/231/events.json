@@ -4,9 +4,7 @@
       "category": "site",
       "title": "Weekly Reports merged into HF News editions; off-topic posts no longer accepted",
       "description": "The weekly report system was moved into each edition's thread to give the news a 'last week in review' format, with comments serving as the current week's live feed. Off-topic posts and quoting already-reported items are no longer permitted.",
-      "url": "http://hackforums.net/showthread.php?tid=4735087",
-      "date": 1426533620,
-      "edition": 231
+      "url": "http://hackforums.net/showthread.php?tid=4735087"
     },
     {
       "category": "site",
@@ -18,17 +16,13 @@
           "uid": "458069",
           "username": "Ethereal"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "site",
       "title": "HFNT releases community-maintained unofficial Wiki",
       "description": "Dissatisfied with the official Wiki's direction, the HFNT created an alternative Wiki where any Verified member can make edits, with a team policing updates for quality.",
-      "url": "http://hackforums.net/showthread.php?tid=4734026",
-      "date": 1426533620,
-      "edition": 231
+      "url": "http://hackforums.net/showthread.php?tid=4734026"
     },
     {
       "category": "site",
@@ -40,17 +34,13 @@
           "uid": "1825653",
           "username": "Vaillant"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "site",
       "title": "AllCrypt shutting down",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=4724457",
-      "date": 1426533620,
-      "edition": 231
+      "url": "http://hackforums.net/showthread.php?tid=4724457"
     },
     {
       "category": "users",
@@ -62,9 +52,7 @@
           "uid": "1958081",
           "username": "Justin Timberlake"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -80,9 +68,7 @@
           "uid": "458073",
           "username": "Chief."
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -110,9 +96,7 @@
           "uid": "1413772",
           "username": "Gambino™"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -152,9 +136,7 @@
           "uid": "878612",
           "username": "Auron"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -170,9 +152,7 @@
           "uid": "879431",
           "username": "hαcker22"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -200,9 +180,7 @@
           "uid": "1413772",
           "username": "Gambino™"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -218,9 +196,7 @@
           "uid": "1191229",
           "username": "Arrow"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "threads",
@@ -232,9 +208,7 @@
           "uid": "2200575",
           "username": "Purest."
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "threads",
@@ -246,9 +220,7 @@
           "uid": "1093501",
           "username": "Litecoin"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "threads",
@@ -260,9 +232,7 @@
           "uid": "2154389",
           "username": "-Hyperion"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "threads",
@@ -274,9 +244,7 @@
           "uid": "2024306",
           "username": "Calypo"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "threads",
@@ -288,9 +256,7 @@
           "uid": "1354902",
           "username": ".Matt"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "interviews",
@@ -302,9 +268,7 @@
           "uid": "1284627",
           "username": "Dean Winchester"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "interviews",
@@ -316,9 +280,7 @@
           "uid": "892404",
           "username": "Haydrazs"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "users",
@@ -330,9 +292,7 @@
           "uid": "2154389",
           "username": "Orchid"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     },
     {
       "category": "news",
@@ -545,9 +505,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1426533620,
-      "edition": 231
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 231,
+    "date": 1426533620,
+    "pid": "45269104",
+    "author_uid": "515249",
+    "subject": "HF News - 231 {Changes Implemented! Weekly Reports Only! NO OFF-TOPIC POSTS!}"
+  }
 }

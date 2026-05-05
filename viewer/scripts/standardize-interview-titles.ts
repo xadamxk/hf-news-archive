@@ -24,8 +24,6 @@ type RawEvent = {
   description?: string;
   url?: string;
   users?: RawUser[];
-  date: number;
-  edition: number;
 };
 
 function squash(s: string): string {

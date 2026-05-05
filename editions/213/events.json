@@ -26,9 +26,7 @@
           "uid": "2015410",
           "username": "ӍeshCollider"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "users",
@@ -48,9 +46,7 @@
           "uid": "863752",
           "username": "Hexicidal"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "groups",
@@ -62,9 +58,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "users",
@@ -76,9 +70,7 @@
           "uid": "879431",
           "username": "Pali"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "users",
@@ -114,9 +106,7 @@
           "uid": "1921183",
           "username": "Watchman."
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "users",
@@ -144,9 +134,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "groups",
@@ -162,9 +150,7 @@
           "uid": "805825",
           "username": "- Sam -"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "interviews",
@@ -180,9 +166,7 @@
           "uid": "1871289",
           "username": "SlightlyNuclear"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "interviews",
@@ -198,9 +182,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     },
     {
       "category": "news",
@@ -353,9 +335,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1415677706,
-      "edition": 213
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 213,
+    "date": 1415677706,
+    "pid": "43270876",
+    "author_uid": "515249",
+    "subject": "HF News - 213"
+  }
 }

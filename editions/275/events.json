@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
@@ -56,9 +50,7 @@
           "uid": "525019",
           "username": "illuminati▲"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
@@ -74,9 +66,7 @@
           "uid": "674714",
           "username": "Philly"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
@@ -92,9 +82,7 @@
           "uid": "2501102",
           "username": "StackOverlowin"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
@@ -110,9 +98,7 @@
           "uid": "1947658",
           "username": "Bin4ry"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
@@ -136,9 +122,7 @@
           "uid": "674714",
           "username": "Philly"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
@@ -162,9 +146,7 @@
           "uid": "2373463",
           "username": "Zayzo"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "threads",
@@ -176,9 +158,7 @@
           "uid": "747953",
           "username": "ｍＯｂｉＩｅ"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "threads",
@@ -190,9 +170,7 @@
           "uid": "2430705",
           "username": "Auze"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "threads",
@@ -204,9 +182,7 @@
           "uid": "1315784",
           "username": "Elegantl"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "threads",
@@ -218,9 +194,7 @@
           "uid": "55709",
           "username": "!Glitch"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "threads",
@@ -232,9 +206,7 @@
           "uid": "93426",
           "username": "mrnapolean1"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "threads",
@@ -246,9 +218,7 @@
           "uid": "1450348",
           "username": "Walt Disney™"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "interviews",
@@ -260,9 +230,7 @@
           "uid": "1841568",
           "username": ".Saint"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "groups",
@@ -278,25 +246,19 @@
           "uid": "1948829",
           "username": "Computer Craft"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: pacomanila's setup was featured.",
       "description": "pacomanila is a Reddit user.",
-      "url": "",
-      "date": 1453269588,
-      "edition": 275
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: feat06's setup was featured.",
       "description": "feat06 is a Reddit user.",
-      "url": "",
-      "date": 1453269588,
-      "edition": 275
+      "url": ""
     },
     {
       "category": "news",
@@ -439,9 +401,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1453269588,
-      "edition": 275
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 275,
+    "date": 1453269588,
+    "pid": "49478261",
+    "author_uid": "561239",
+    "subject": "Hack Forums News // Edition 275"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,7 @@
           "uid": "863752",
           "username": "Hexicidal"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
@@ -78,9 +70,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
@@ -100,9 +90,7 @@
           "uid": "1743726",
           "username": "Spyro The Dragon"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
@@ -126,9 +114,7 @@
           "uid": "1229273",
           "username": "Raz3d"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
@@ -148,9 +134,7 @@
           "uid": "2608028",
           "username": "Anime"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
@@ -174,9 +158,7 @@
           "uid": "2015410",
           "username": "ӍeshCollider"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "groups",
@@ -200,9 +182,7 @@
           "uid": "2579314",
           "username": "Dr.Watson"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "threads",
@@ -214,9 +194,7 @@
           "uid": "1049666",
           "username": "Scar™"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "threads",
@@ -228,9 +206,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "threads",
@@ -242,9 +218,7 @@
           "uid": "789677",
           "username": "Grin"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "threads",
@@ -256,9 +230,7 @@
           "uid": "46411",
           "username": "zer0"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "threads",
@@ -270,17 +242,13 @@
           "uid": "579898",
           "username": "KillαMuvz⁯⁯⁯⁯⁯"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: ThatMumboJumbo's setup was featured.",
       "description": "ThatMumboJumbo's battlestation was featured this week.",
-      "url": "https://imgur.com/a/4UF1w",
-      "date": 1441079896,
-      "edition": 255
+      "url": "https://imgur.com/a/4UF1w"
     },
     {
       "category": "news",
@@ -468,9 +436,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1441079896,
-      "edition": 255
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 255,
+    "date": 1441079896,
+    "pid": "47681632",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 255"
+  }
 }

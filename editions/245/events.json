@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "groups",
@@ -50,9 +46,7 @@
           "uid": "370510",
           "username": "!!* Alone Vampire *!!"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
@@ -68,9 +62,7 @@
           "uid": "1595524",
           "username": "Ventures"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "2374989",
           "username": "0x1312"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
@@ -124,9 +114,7 @@
           "uid": "2256314",
           "username": "Tyrannosaurus"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
@@ -142,9 +130,7 @@
           "uid": "1930772",
           "username": "Oghma"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
@@ -180,9 +166,7 @@
           "uid": "1930772",
           "username": "Oghma"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
@@ -206,9 +190,7 @@
           "uid": "2230241",
           "username": "AnonNinja™"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "threads",
@@ -220,9 +202,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "threads",
@@ -234,9 +214,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "threads",
@@ -248,9 +226,7 @@
           "uid": "1706412",
           "username": "Transcendent"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "threads",
@@ -262,9 +238,7 @@
           "uid": "805825",
           "username": "- Sam -"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "threads",
@@ -276,9 +250,7 @@
           "uid": "727139",
           "username": "Secrets"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "interviews",
@@ -290,17 +262,13 @@
           "uid": "1343812",
           "username": "Realizm"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: watch3r99's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1435037247,
-      "edition": 245
+      "url": ""
     },
     {
       "category": "news",
@@ -503,9 +471,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1435037247,
-      "edition": 245
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 245,
+    "date": 1435037247,
+    "pid": "46708573",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 245"
+  }
 }

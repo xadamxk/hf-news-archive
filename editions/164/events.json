@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "341617",
           "username": "Lakai"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "site",
@@ -56,9 +50,7 @@
           "uid": "32695",
           "username": "Etheryte"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "users",
@@ -78,9 +70,7 @@
           "uid": "860828",
           "username": "Teh Afro"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "users",
@@ -104,9 +94,7 @@
           "uid": "101228",
           "username": "Tate"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "users",
@@ -130,9 +118,7 @@
           "uid": "87647",
           "username": "Fernandez"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "users",
@@ -164,9 +150,7 @@
           "uid": "1575886",
           "username": "Trill"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "threads",
@@ -178,9 +162,7 @@
           "uid": "1055259",
           "username": "Soccer"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "threads",
@@ -192,9 +174,7 @@
           "uid": "1121653",
           "username": "KevinMcCormick"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "threads",
@@ -206,9 +186,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "site",
@@ -220,9 +198,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "interviews",
@@ -238,9 +214,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "interviews",
@@ -256,9 +230,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "interviews",
@@ -274,9 +246,7 @@
           "uid": "947940",
           "username": "webdev77"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     },
     {
       "category": "news",
@@ -369,9 +339,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1381887369,
-      "edition": 164
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 164,
+    "date": 1381887369,
+    "pid": "35735769",
+    "author_uid": "515249",
+    "subject": "[10/14/13] - HF News"
+  }
 }

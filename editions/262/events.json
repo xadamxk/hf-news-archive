@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "uid": "1871491",
           "username": "Illuminati"
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "users",
@@ -46,9 +42,7 @@
           "uid": "2240415",
           "username": "Rico Suave"
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "users",
@@ -84,9 +78,7 @@
           "uid": "2240415",
           "username": "Rico Suave"
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "2005733",
           "username": "dye."
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "users",
@@ -124,9 +114,7 @@
           "uid": "2005733",
           "username": "dye."
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "users",
@@ -158,9 +146,7 @@
           "uid": "2194640",
           "username": "๖ۣۜNex"
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     },
     {
       "category": "interviews",
@@ -172,9 +158,14 @@
           "uid": "681713",
           "username": "DaFreak"
         }
-      ],
-      "date": 1445397035,
-      "edition": 262
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 262,
+    "date": 1445397035,
+    "pid": "48267358",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 262"
+  }
 }

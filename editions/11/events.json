@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1280804801,
-      "edition": 11
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1280804801,
-      "edition": 11
+      ]
     },
     {
       "category": "users",
@@ -54,9 +50,14 @@
           "username": "M0D3RN H4X3R 1™",
           "uid": "115975"
         }
-      ],
-      "date": 1280804801,
-      "edition": 11
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 11,
+    "date": 1280804801,
+    "pid": "5565332",
+    "author_uid": "74244",
+    "subject": "[7/25-8/1] HF News"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "1639102",
           "username": "ShadowLock"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "users",
@@ -120,9 +110,7 @@
           "uid": "1536004",
           "username": "Chief"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "threads",
@@ -134,9 +122,7 @@
           "uid": "1688769",
           "username": "Conky"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "threads",
@@ -148,9 +134,7 @@
           "uid": "1539015",
           "username": "-๖ۣۜDivine-"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "threads",
@@ -162,9 +146,7 @@
           "uid": "1050193",
           "username": "Connected"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "interviews",
@@ -180,9 +162,7 @@
           "uid": "649674",
           "username": "Arcaina"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "interviews",
@@ -198,9 +178,7 @@
           "uid": "874137",
           "username": "Computer Professor"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     },
     {
       "category": "news",
@@ -283,9 +261,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1383710086,
-      "edition": 167
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 167,
+    "date": 1383710086,
+    "pid": "36147745",
+    "author_uid": "515249",
+    "subject": "[11/4/13] - HF News"
+  }
 }

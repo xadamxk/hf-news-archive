@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -46,9 +42,7 @@
           "uid": "1570078",
           "username": "Sam Winchester"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "1234585",
           "username": "Tweety."
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "496501",
           "username": "Вreaking Βad"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -120,9 +110,7 @@
           "uid": "1964831",
           "username": "Magicmann"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -142,9 +130,7 @@
           "uid": "524451",
           "username": "Douchebag # 145"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -176,9 +162,7 @@
           "uid": "1757970",
           "username": "iloominati"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
@@ -194,9 +178,7 @@
           "uid": "2329831",
           "username": "๖ۣۜAverage"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "groups",
@@ -228,9 +210,7 @@
           "uid": "279955",
           "username": "Happeh"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -242,9 +222,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -256,9 +234,7 @@
           "uid": "506782",
           "username": "Tony Stark"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -270,9 +246,7 @@
           "uid": "1809520",
           "username": "illuminaughty"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -284,9 +258,7 @@
           "uid": "2471116",
           "username": "Hinch"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -298,9 +270,7 @@
           "uid": "2194640",
           "username": "๖ۣۜNex"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -312,9 +282,7 @@
           "uid": "20073",
           "username": "iGnite"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "threads",
@@ -326,9 +294,7 @@
           "uid": "2620119",
           "username": "Abhax"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "interviews",
@@ -340,17 +306,13 @@
           "uid": "1570078",
           "username": "Sam Winchester"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Fabtech's setup was featured.",
       "description": "Fabtech's battlestation was featured this week.",
-      "url": "https://imgur.com/a/YLcEh",
-      "date": 1438112315,
-      "edition": 250
+      "url": "https://imgur.com/a/YLcEh"
     },
     {
       "category": "news",
@@ -563,9 +525,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1438112315,
-      "edition": 250
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 250,
+    "date": 1438112315,
+    "pid": "47217564",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 250"
+  }
 }

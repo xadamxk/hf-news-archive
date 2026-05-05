@@ -14,9 +14,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "site",
@@ -63,9 +57,7 @@
         {
           "username": "Emily"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "site",
@@ -77,9 +69,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "groups",
@@ -98,9 +88,7 @@
           "username": "Wolves",
           "uid": "651051"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "groups",
@@ -116,9 +104,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "users",
@@ -130,9 +116,7 @@
           "uid": "295848",
           "username": "Qwazz"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "users",
@@ -144,9 +128,7 @@
           "username": "Soldier of Fortune",
           "uid": "8480"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "users",
@@ -158,9 +140,7 @@
           "username": "DiscipLе",
           "uid": "808208"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "users",
@@ -176,9 +156,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "users",
@@ -190,9 +168,7 @@
           "username": "-mothered-",
           "uid": "137645"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "threads",
@@ -207,9 +183,7 @@
         {
           "username": "Valik"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "threads",
@@ -221,9 +195,7 @@
           "username": "Suhinder™",
           "uid": "869826"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "threads",
@@ -235,9 +207,7 @@
           "username": "Storm Watch",
           "uid": "415606"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "threads",
@@ -249,9 +219,7 @@
           "username": "Prokill",
           "uid": "629212"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "threads",
@@ -263,9 +231,7 @@
           "username": "mrwhich",
           "uid": "121256"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "threads",
@@ -277,9 +243,7 @@
           "username": "Mr. Apple",
           "uid": "819696"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "groups",
@@ -295,9 +259,7 @@
           "uid": "406243",
           "username": "WiFi."
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "users",
@@ -337,9 +299,7 @@
         {
           "username": "RRain"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "interviews",
@@ -355,9 +315,7 @@
           "username": "Mark Webber",
           "uid": "89623"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     },
     {
       "category": "interviews",
@@ -372,9 +330,14 @@
         {
           "username": "Riggs"
         }
-      ],
-      "date": 1320294038,
-      "edition": 65
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 65,
+    "date": 1320294038,
+    "pid": "17062995",
+    "author_uid": "515249",
+    "subject": "[11/2/11] - HF News"
+  }
 }

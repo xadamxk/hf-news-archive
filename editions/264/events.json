@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "uid": "1048392",
           "username": "brian188246"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "users",
@@ -42,9 +38,7 @@
           "uid": "1452953",
           "username": "420 Blaze It"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "users",
@@ -68,9 +62,7 @@
           "uid": "2904020",
           "username": "fl3xy"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "users",
@@ -86,9 +78,7 @@
           "uid": "1057942",
           "username": "The Judge"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "users",
@@ -100,9 +90,7 @@
           "uid": "1002569",
           "username": "Anima Libera"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "threads",
@@ -114,9 +102,7 @@
           "uid": "1439038",
           "username": "Doctor Blue"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "threads",
@@ -128,9 +114,7 @@
           "uid": "351788",
           "username": "Raoul Duke"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "threads",
@@ -142,9 +126,7 @@
           "uid": "2097293",
           "username": "Who Soup"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "groups",
@@ -160,18 +142,14 @@
           "uid": "2015410",
           "username": "MeshCollider"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! and L'appel du vide listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
-      "users": [],
-      "date": 1446698240,
-      "edition": 264
+      "users": []
     },
     {
       "category": "interviews",
@@ -183,17 +161,13 @@
           "uid": "1469364",
           "username": "Prada"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: shadowfax217's and Peevedkitten's setups were featured.",
       "description": "",
-      "url": "",
-      "date": 1446698240,
-      "edition": 264
+      "url": ""
     },
     {
       "category": "news",
@@ -391,9 +365,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1446698240,
-      "edition": 264
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 264,
+    "date": 1446698240,
+    "pid": "48450799",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 264"
+  }
 }

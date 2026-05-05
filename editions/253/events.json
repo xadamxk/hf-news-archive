@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
@@ -28,9 +26,7 @@
           "uid": "1536004",
           "username": "'Chief"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
@@ -54,9 +50,7 @@
           "uid": "1469214",
           "username": "Sparta."
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
@@ -84,9 +78,7 @@
           "uid": "2763456",
           "username": "Trygon"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
@@ -102,9 +94,7 @@
           "uid": "2786557",
           "username": "G Thang"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
@@ -136,9 +126,7 @@
           "uid": "1469214",
           "username": "Sparta."
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
@@ -150,9 +138,7 @@
           "uid": "506782",
           "username": "Tony Stark"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "interviews",
@@ -164,17 +150,13 @@
           "uid": "952566",
           "username": "ȺʁɱªÐą"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Blauwy's setup was featured.",
       "description": "Blauwy's battlestation was featured this week.",
-      "url": "https://www.reddit.com/user/Blauwy",
-      "date": 1439944544,
-      "edition": 253
+      "url": "https://www.reddit.com/user/Blauwy"
     },
     {
       "category": "news",
@@ -387,9 +369,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1439944544,
-      "edition": 253
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 253,
+    "date": 1439944544,
+    "pid": "47516837",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 253 - Happy Birthday Omni!"
+  }
 }

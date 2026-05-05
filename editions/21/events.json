@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "users",
@@ -42,17 +38,13 @@
           "username": "VipVince",
           "uid": "7807"
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "site",
       "title": "Halloween banner deployed; connectivity issues reported.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=779711",
-      "date": 1288556020,
-      "edition": 21
+      "url": "http://hackforums.net/showthread.php?tid=779711"
     },
     {
       "category": "groups",
@@ -64,9 +56,7 @@
           "username": "Mendacious",
           "uid": null
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "users",
@@ -78,9 +68,7 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "users",
@@ -92,9 +80,7 @@
           "username": "Zach",
           "uid": "200751"
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "threads",
@@ -106,17 +92,20 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1288556020,
-      "edition": 21
+      ]
     },
     {
       "category": "threads",
       "title": "YouTuber claims he’ll set himself on fire at 10k subs (Arruke thread).",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=780919",
-      "date": 1288556020,
-      "edition": 21
+      "url": "http://hackforums.net/showthread.php?tid=780919"
     }
-  ]
+  ],
+  "edition": {
+    "number": 21,
+    "date": 1288556020,
+    "pid": "7383073",
+    "author_uid": "136025",
+    "subject": "[10/23/2010] - HF News"
+  }
 }

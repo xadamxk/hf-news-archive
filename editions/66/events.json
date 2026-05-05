@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -41,9 +37,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -55,9 +49,7 @@
           "username": "Prokill",
           "uid": "629212"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -69,9 +61,7 @@
           "username": "SeaNanners™",
           "uid": "766442"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -83,9 +73,7 @@
           "username": "-paradox-",
           "uid": "444249"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -97,9 +85,7 @@
           "uid": "382745",
           "username": "Confidence"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "threads",
@@ -111,9 +97,7 @@
           "username": "Cynical Soul",
           "uid": "438034"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "threads",
@@ -125,9 +109,7 @@
           "username": "Genuine",
           "uid": "646916"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "threads",
@@ -139,9 +121,7 @@
           "username": "Mother Teresa",
           "uid": "654037"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "threads",
@@ -153,9 +133,7 @@
           "username": ".Nielz",
           "uid": "176753"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "threads",
@@ -167,9 +145,7 @@
           "username": "DragonX433",
           "uid": "622955"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "threads",
@@ -181,9 +157,7 @@
           "username": "Tsgh Mike",
           "uid": "81119"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "groups",
@@ -195,9 +169,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -208,9 +180,7 @@
         {
           "username": "Ron Paul"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "users",
@@ -248,9 +218,7 @@
           "username": ".Nielz",
           "uid": "176753"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "interviews",
@@ -265,9 +233,7 @@
         {
           "username": "Riggs"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "interviews",
@@ -283,9 +249,7 @@
           "uid": "620004",
           "username": "iceybunneh"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     },
     {
       "category": "news",
@@ -333,9 +297,14 @@
           "role": "Reporter",
           "uid": "946680"
         }
-      ],
-      "date": 1320902474,
-      "edition": 66
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 66,
+    "date": 1320902474,
+    "pid": "17257608",
+    "author_uid": "515249",
+    "subject": "[11/9/11] - HF News"
+  }
 }

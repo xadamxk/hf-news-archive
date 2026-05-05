@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "site",
@@ -24,33 +22,25 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "site",
       "title": "The postbit buttons were converted to CSS to improve thread loading times.",
       "description": "",
-      "url": "",
-      "date": 1321505333,
-      "edition": 67
+      "url": ""
     },
     {
       "category": "groups",
       "title": "The Reverence group dropped the Coders section completely, attributed to lack of commitment from the...",
       "description": "The Reverence group dropped the Coders section completely, attributed to lack of commitment from the coders.",
-      "url": "",
-      "date": 1321505333,
-      "edition": 67
+      "url": ""
     },
     {
       "category": "site",
       "title": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the long...",
       "description": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the longest in a long time.",
-      "url": "",
-      "date": 1321505333,
-      "edition": 67
+      "url": ""
     },
     {
       "category": "users",
@@ -62,9 +52,7 @@
           "username": "Bytes",
           "uid": "767002"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "users",
@@ -76,9 +64,7 @@
           "username": "CM Punk",
           "uid": "229123"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "users",
@@ -90,9 +76,7 @@
           "uid": "101228",
           "username": "Tate"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "threads",
@@ -104,9 +88,7 @@
           "uid": "101228",
           "username": "Tate"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "threads",
@@ -118,9 +100,7 @@
           "uid": "126243",
           "username": "Decoy"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "threads",
@@ -132,9 +112,7 @@
           "username": "Genuine",
           "uid": "646916"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "threads",
@@ -146,9 +124,7 @@
           "username": "clectric",
           "uid": "617612"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "threads",
@@ -160,9 +136,7 @@
           "username": "treestompz",
           "uid": "864621"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "threads",
@@ -173,9 +147,7 @@
         {
           "username": "maniac"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "groups",
@@ -190,9 +162,7 @@
           "username": "Wolves",
           "uid": "651051"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "users",
@@ -212,9 +182,7 @@
           "username": "VeNoMz",
           "uid": "454600"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "interviews",
@@ -229,9 +197,7 @@
         {
           "username": "Reliable"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "interviews",
@@ -247,9 +213,7 @@
           "username": "Bentley",
           "uid": "679685"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     },
     {
       "category": "news",
@@ -297,9 +261,14 @@
           "role": "Reporter",
           "uid": "946680"
         }
-      ],
-      "date": 1321505333,
-      "edition": 67
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 67,
+    "date": 1321505333,
+    "pid": "17421554",
+    "author_uid": "515249",
+    "subject": "[11/16/11] - HF News"
+  }
 }

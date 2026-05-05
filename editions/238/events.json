@@ -10,9 +10,7 @@
           "uid": "65784",
           "username": "Xch4ng3"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
@@ -74,9 +66,7 @@
           "uid": "797403",
           "username": "630"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
@@ -96,9 +86,7 @@
           "uid": "2470858",
           "username": "Salty"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
@@ -126,9 +114,7 @@
           "uid": "1490589",
           "username": "Dark"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
@@ -144,9 +130,7 @@
           "uid": "1862873",
           "username": "StacksAMillionaire"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
@@ -170,9 +154,7 @@
           "uid": "1862873",
           "username": "StacksAMillionaire"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
@@ -196,9 +178,7 @@
           "uid": "1695694",
           "username": "BitMoney"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "threads",
@@ -210,9 +190,7 @@
           "uid": "1700066",
           "username": "Gary."
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "threads",
@@ -224,9 +202,7 @@
           "uid": "2639007",
           "username": "Erick Tesla"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +214,7 @@
           "uid": "2650616",
           "username": "G-Eazyy"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "threads",
@@ -252,9 +226,7 @@
           "uid": "2015410",
           "username": "ӍeshCollider"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "interviews",
@@ -266,17 +238,13 @@
           "uid": "2231695",
           "username": "+One"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: sharknice's 8-monitor setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1430790859,
-      "edition": 238
+      "url": ""
     },
     {
       "category": "news",
@@ -499,9 +467,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1430790859,
-      "edition": 238
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 238,
+    "date": 1430790859,
+    "pid": "45994281",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 238"
+  }
 }

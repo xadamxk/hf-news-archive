@@ -10,9 +10,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "site",
@@ -46,17 +42,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "site",
       "title": "The Lounge section reached 5,000,000 posts, accounting for nearly a sixth of all forum posts.",
       "description": "",
-      "url": "",
-      "date": 1389756970,
-      "edition": 177
+      "url": ""
     },
     {
       "category": "users",
@@ -84,9 +76,7 @@
           "uid": "827711",
           "username": "Richard Grayson"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "users",
@@ -110,9 +100,7 @@
           "uid": "1465028",
           "username": "Swirl"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "users",
@@ -132,9 +120,7 @@
           "uid": "798312",
           "username": "Realistic"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "groups",
@@ -150,9 +136,7 @@
           "uid": "1008442",
           "username": "Phаraoh"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "interviews",
@@ -168,9 +152,7 @@
           "uid": "789677",
           "username": "Grin"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "interviews",
@@ -186,9 +168,7 @@
           "uid": "1964831",
           "username": "Magicmann"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     },
     {
       "category": "news",
@@ -271,9 +251,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1389756970,
-      "edition": 177
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 177,
+    "date": 1389756970,
+    "pid": "37701873",
+    "author_uid": "515249",
+    "subject": "HF News - 177"
+  }
 }

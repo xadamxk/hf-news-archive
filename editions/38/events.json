@@ -14,9 +14,7 @@
           "username": "Zach",
           "uid": "200751"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "users",
@@ -28,9 +26,7 @@
           "username": "нα¢кєя",
           "uid": "58642"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "username": "iolaka",
           "uid": null
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "users",
@@ -76,9 +70,7 @@
           "username": "Sin ♥",
           "uid": null
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "users",
@@ -90,9 +82,7 @@
           "username": "mothered",
           "uid": "137645"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "groups",
@@ -112,9 +102,7 @@
           "username": "hackdeveto",
           "uid": null
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "users",
@@ -126,9 +114,7 @@
           "username": "Qwazz",
           "uid": "295848"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "threads",
@@ -140,9 +126,7 @@
           "username": "Tyler777",
           "uid": "168826"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "threads",
@@ -154,9 +138,7 @@
           "username": "ProKill",
           "uid": "629212"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     },
     {
       "category": "users",
@@ -168,9 +150,14 @@
           "username": "Mike.",
           "uid": "458073"
         }
-      ],
-      "date": 1303316339,
-      "edition": 38
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 38,
+    "date": 1303316339,
+    "pid": "11335879",
+    "author_uid": "295848",
+    "subject": "[4/20/2011] - HF News"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "uid": "111287",
           "username": "xvisceral"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -41,9 +37,7 @@
         {
           "username": "samirdip"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "site",
@@ -55,9 +49,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -69,9 +61,7 @@
           "uid": "175033",
           "username": "xerotic"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -83,9 +73,7 @@
           "uid": "524451",
           "username": "Heir"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -101,9 +89,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -119,9 +105,7 @@
           "uid": "119160",
           "username": "~NaDe"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -133,9 +117,7 @@
           "uid": "170785",
           "username": "Infallible"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "threads",
@@ -147,9 +129,7 @@
           "uid": "398007",
           "username": "Apathy"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "threads",
@@ -161,9 +141,7 @@
           "uid": "114319",
           "username": "Mr. Anderson"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "threads",
@@ -175,9 +153,7 @@
           "uid": "865083",
           "username": "Bangarang"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "threads",
@@ -189,9 +165,7 @@
           "uid": "1160000",
           "username": "nigrin"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "users",
@@ -207,9 +181,7 @@
           "uid": "765374",
           "username": "Crash™"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "groups",
@@ -221,9 +193,7 @@
           "uid": "111287",
           "username": "xvisceral"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "interviews",
@@ -239,9 +209,7 @@
           "uid": "1222901",
           "username": "[๖ۣۜNoxx]The_Master"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "interviews",
@@ -257,9 +225,7 @@
           "uid": "451192",
           "username": "Existence"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "interviews",
@@ -275,9 +241,7 @@
           "uid": "1115097",
           "username": "TheVortex"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     },
     {
       "category": "news",
@@ -350,9 +314,14 @@
           "username": "PyroStorm",
           "role": "Proofreader"
         }
-      ],
-      "date": 1341123145,
-      "edition": 98
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 98,
+    "date": 1341123145,
+    "pid": "24046388",
+    "author_uid": "515249",
+    "subject": "[6/30/12] - HF News"
+  }
 }

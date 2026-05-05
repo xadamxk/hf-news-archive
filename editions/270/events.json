@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,7 @@
           "uid": "1610871",
           "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
@@ -78,9 +70,7 @@
           "uid": "1871491",
           "username": "Illuminati"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
@@ -100,9 +90,7 @@
           "uid": "1743548",
           "username": "Excah"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
@@ -114,9 +102,7 @@
           "uid": "2858586",
           "username": "Banker"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
@@ -148,9 +134,7 @@
           "uid": "2858586",
           "username": "Banker"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
@@ -166,9 +150,7 @@
           "uid": "476268",
           "username": "Exha"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -180,9 +162,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -194,9 +174,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -208,9 +186,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -222,9 +198,7 @@
           "uid": "1073426",
           "username": "Aces."
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -236,9 +210,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -250,9 +222,7 @@
           "uid": "777814",
           "username": "2.15.19"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -264,9 +234,7 @@
           "uid": "1189959",
           "username": "BR3TT"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -278,9 +246,7 @@
           "uid": "1238642",
           "username": "Maximum"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -292,9 +258,7 @@
           "uid": "2887685",
           "username": "Antonio™"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "threads",
@@ -306,9 +270,7 @@
           "uid": "2460055",
           "username": "Declan"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "interviews",
@@ -320,9 +282,7 @@
           "uid": "741482",
           "username": "Shockwave"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "groups",
@@ -338,25 +298,19 @@
           "uid": "1812679",
           "username": "Nine."
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: sidnis's setup was featured.",
       "description": "sidnis is a Reddit user.",
-      "url": "",
-      "date": 1450401604,
-      "edition": 270
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: ArcanineSays's setup was featured.",
       "description": "ArcanineSays is a Reddit user.",
-      "url": "",
-      "date": 1450401604,
-      "edition": 270
+      "url": ""
     },
     {
       "category": "news",
@@ -539,9 +493,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1450401604,
-      "edition": 270
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 270,
+    "date": 1450401604,
+    "pid": "49006842",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 270"
+  }
 }

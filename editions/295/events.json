@@ -5,18 +5,14 @@
       "title": "Lucky Clover awards odds announced",
       "description": "Omniscient disclosed RNG odds for Green (1:2000), Purple (1:12500), and Gold (1:50000) clover awards on qualifying posts over 100 characters.",
       "url": "http://hackforums.net/showthread.php?tid=5291481",
-      "users": [],
-      "date": 1465968717,
-      "edition": 295
+      "users": []
     },
     {
       "category": "groups",
       "title": "Nightmare leadership",
       "description": "TheChief became a leader of Nightmare.",
       "url": "",
-      "users": [],
-      "date": 1465968717,
-      "edition": 295
+      "users": []
     },
     {
       "category": "users",
@@ -44,9 +40,7 @@
           "uid": "2682887",
           "username": "Mr. Robot"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "users",
@@ -58,9 +52,7 @@
           "uid": "1743548",
           "username": "Excah"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "users",
@@ -88,9 +80,7 @@
           "uid": "2119013",
           "username": "Shay Mitchell"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "users",
@@ -102,9 +92,7 @@
           "uid": "2968052",
           "username": "Sevn Alias"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "users",
@@ -116,9 +104,7 @@
           "uid": "2968052",
           "username": "Sevn Alias"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "users",
@@ -146,9 +132,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "threads",
@@ -160,9 +144,7 @@
           "uid": "2308580",
           "username": "Black Flash ⚡"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "threads",
@@ -174,9 +156,7 @@
           "uid": "1165241",
           "username": "Krave"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "threads",
@@ -188,9 +168,7 @@
           "uid": "2135886",
           "username": "Google Chrome"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "interviews",
@@ -202,9 +180,7 @@
           "uid": "55709",
           "username": "Glitch"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "users",
@@ -216,9 +192,7 @@
           "uid": "790312",
           "username": "whoyodaddy"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     },
     {
       "category": "news",
@@ -331,9 +305,14 @@
           "username": "Vitani",
           "role": "On-Call Team [TRIAL]"
         }
-      ],
-      "date": 1465968717,
-      "edition": 295
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 295,
+    "date": 1465968717,
+    "pid": "51310930",
+    "author_uid": "2776397",
+    "subject": "Hack Forums News // Edition 295"
+  }
 }

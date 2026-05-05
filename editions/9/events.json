@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1279498601,
-      "edition": 9
+      ]
     },
     {
       "category": "site",
@@ -24,25 +22,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1279498601,
-      "edition": 9
+      ]
     },
     {
       "category": "site",
       "title": "Giveaways section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=174",
-      "date": 1279498601,
-      "edition": 9
+      "url": "http://hackforums.net/forumdisplay.php?fid=174"
     },
     {
       "category": "site",
       "title": "Requests section (ub3r only) added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=173",
-      "date": 1279498601,
-      "edition": 9
+      "url": "http://hackforums.net/forumdisplay.php?fid=173"
     },
     {
       "category": "site",
@@ -54,9 +46,7 @@
           "username": "killerpop89",
           "uid": "57913"
         }
-      ],
-      "date": 1279498601,
-      "edition": 9
+      ]
     },
     {
       "category": "site",
@@ -68,9 +58,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1279498601,
-      "edition": 9
+      ]
     },
     {
       "category": "news",
@@ -82,9 +70,14 @@
           "username": "Robbieava",
           "uid": "81075"
         }
-      ],
-      "date": 1279498601,
-      "edition": 9
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 9,
+    "date": 1279498601,
+    "pid": "5235674",
+    "author_uid": "74244",
+    "subject": "HF News [7/10-7/17] [COMMENT] [edition made by Robbieava, thanks]"
+  }
 }

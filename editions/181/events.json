@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "threads",
@@ -38,9 +34,7 @@
           "uid": "67412",
           "username": "Thyonic"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "users",
@@ -60,9 +54,7 @@
           "uid": "1695694",
           "username": "BitMoney"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "users",
@@ -86,9 +78,7 @@
           "uid": "1584453",
           "username": "Mortality"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "users",
@@ -112,9 +102,7 @@
           "uid": "1793976",
           "username": "Nutrients"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "users",
@@ -134,9 +122,7 @@
           "uid": "1839274",
           "username": "Skitlz"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "interviews",
@@ -152,9 +138,7 @@
           "uid": "1871421",
           "username": "Ty ™"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "interviews",
@@ -170,9 +154,7 @@
           "uid": "958226",
           "username": "Mommy"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "interviews",
@@ -188,9 +170,7 @@
           "uid": "1653635",
           "username": "Clark"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     },
     {
       "category": "news",
@@ -273,9 +253,14 @@
           "username": "Xerucide",
           "role": "Proofreader"
         }
-      ],
-      "date": 1392179804,
-      "edition": 181
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 181,
+    "date": 1392179804,
+    "pid": "38277768",
+    "author_uid": "515249",
+    "subject": "HF News - 181"
+  }
 }

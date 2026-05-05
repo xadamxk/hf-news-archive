@@ -10,9 +10,14 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1335418578,
-      "edition": 88.1
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 88.1,
+    "date": 1335418578,
+    "pid": "22044903",
+    "author_uid": "515249",
+    "subject": "[4/25/12] - HF News (Notice)"
+  }
 }

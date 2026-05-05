@@ -14,9 +14,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "site",
@@ -28,17 +26,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "site",
       "title": "HF IM XMPP server went down",
       "description": "The HF IM XMPP server was offline. The cause (maintenance or server issue) was unknown at time of publication.",
-      "url": "",
-      "date": 1423632607,
-      "edition": 226
+      "url": ""
     },
     {
       "category": "site",
@@ -50,9 +44,7 @@
           "uid": "1446355",
           "username": "Τrust"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "site",
@@ -64,9 +56,7 @@
           "uid": "1088934",
           "username": "Crypto™"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "users",
@@ -78,9 +68,7 @@
           "uid": "1088934",
           "username": "Crypto™"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "users",
@@ -108,9 +96,7 @@
           "uid": "2265259",
           "username": "Paradoxium"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "users",
@@ -158,9 +144,7 @@
           "uid": "1528826",
           "username": "Furroh"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "users",
@@ -176,9 +160,7 @@
           "uid": "1205532",
           "username": "Robust"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "users",
@@ -210,9 +192,7 @@
           "uid": "1320455",
           "username": "Fireworks"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "groups",
@@ -240,25 +220,19 @@
           "uid": "1374951",
           "username": "Evangelist"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "groups",
       "title": "Null Consolidated looking for a skilled artist",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=4663019",
-      "date": 1423632607,
-      "edition": 226
+      "url": "http://hackforums.net/showthread.php?tid=4663019"
     },
     {
       "category": "groups",
       "title": "Official Usergroup \"Craft\" userbar needed — $100 reward",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=4665038",
-      "date": 1423632607,
-      "edition": 226
+      "url": "http://hackforums.net/showthread.php?tid=4665038"
     },
     {
       "category": "threads",
@@ -270,9 +244,7 @@
           "uid": "1472133",
           "username": "jdog3366"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "threads",
@@ -284,9 +256,7 @@
           "uid": "1637026",
           "username": "Ҫactus"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "threads",
@@ -298,9 +268,7 @@
           "uid": "2097293",
           "username": "Who Soup"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "threads",
@@ -312,9 +280,7 @@
           "uid": "2312369",
           "username": "Sagax"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "threads",
@@ -326,9 +292,7 @@
           "uid": "672755",
           "username": "Camilo543"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "threads",
@@ -340,9 +304,7 @@
           "uid": "2561132",
           "username": "Fʀᴀɴᴋɪᴇ"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "interviews",
@@ -354,9 +316,7 @@
           "uid": "2177496",
           "username": "boxxy"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "interviews",
@@ -368,9 +328,7 @@
           "uid": "2148285",
           "username": "Ego™"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "users",
@@ -382,9 +340,7 @@
           "uid": "2200598",
           "username": "YA BOY CHRIS"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     },
     {
       "category": "news",
@@ -602,9 +558,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1423632607,
-      "edition": 226
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 226,
+    "date": 1423632607,
+    "pid": "44762267",
+    "author_uid": "515249",
+    "subject": "HF News - 226"
+  }
 }

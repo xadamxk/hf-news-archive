@@ -21,8 +21,11 @@ type RawEvent = {
   description?: string;
   url?: string;
   users?: RawUser[];
-  date: number;
-  edition: number;
+};
+
+type EventsFile = {
+  edition?: { number?: unknown };
+  events?: RawEvent[];
 };
 
 type Post = { pid: string; message: string };
@@ -133,13 +136,24 @@ const MANUAL_INTERVIEW_PID = new Map<string, string>([
   ["83:Comedic self-interview by Sir.", "20796783"],
 ]);
 
-function manualPid(ev: RawEvent): string | null {
-  const k = `${String(ev.edition)}:${ev.title.trim()}`;
+function editionNumberFromFolderOrFile(folder: string, data: EventsFile): number {
+  const n = data.edition?.number;
+  if (typeof n === "number" && Number.isFinite(n)) return n;
+  if (typeof n === "string" && n.trim() !== "") {
+    const parsed = Number(n);
+    if (Number.isFinite(parsed)) return parsed;
+  }
+  const fromFolder = Number.parseFloat(folder);
+  return Number.isFinite(fromFolder) ? fromFolder : NaN;
+}
+
+function manualPid(ev: RawEvent, editionNum: number): string | null {
+  const k = `${String(editionNum)}:${ev.title.trim()}`;
   return MANUAL_INTERVIEW_PID.get(k) ?? null;
 }
 
-function findPidForInterview(ev: RawEvent, posts: Post[]): string | null {
-  const manual = manualPid(ev);
+function findPidForInterview(ev: RawEvent, posts: Post[], editionNum: number): string | null {
+  const manual = manualPid(ev, editionNum);
   if (manual) return manual;
 
   if (posts.length === 1) return posts[0].pid;
@@ -221,10 +235,10 @@ async function main() {
       continue;
     }
 
-    let data: { events?: RawEvent[] };
+    let data: EventsFile;
     let postsData: { posts?: Post[] };
     try {
-      data = JSON.parse(eventsRaw) as { events?: RawEvent[] };
+      data = JSON.parse(eventsRaw) as EventsFile;
       postsData = JSON.parse(postsRaw) as { posts?: Post[] };
     } catch {
       warnings.push(`${d.name}: invalid JSON`);
@@ -237,10 +251,12 @@ async function main() {
     const events = data.events;
     if (!Array.isArray(events)) continue;
 
+    const editionNum = editionNumberFromFolderOrFile(d.name, data);
+
     let changed = false;
     for (const ev of events) {
       if (!ev || ev.category !== "interviews") continue;
-      const pid = findPidForInterview(ev, posts);
+      const pid = findPidForInterview(ev, posts, editionNum);
       if (!pid) {
         warnings.push(`${d.name}: no pid for interview "${ev.title.slice(0, 72)}…"`);
         skipped++;

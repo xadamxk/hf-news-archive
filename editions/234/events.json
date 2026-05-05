@@ -14,9 +14,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "site",
@@ -28,17 +26,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "site",
       "title": "OMC Bittrex exchange volume exceeds 2.7 BTC in a week",
       "description": "Omnicoin on Bittrex far surpassed the required 0.2 BTC daily exchange volume, demonstrating strong community adoption of the new exchange.",
-      "url": "",
-      "date": 1428377212,
-      "edition": 234
+      "url": ""
     },
     {
       "category": "site",
@@ -50,9 +44,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
@@ -64,9 +56,7 @@
           "uid": "1844212",
           "username": "Bull™"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
@@ -82,9 +72,7 @@
           "uid": "1108450",
           "username": "Baghead"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
@@ -120,9 +108,7 @@
           "uid": "1108450",
           "username": "Baghead"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
@@ -142,9 +128,7 @@
           "uid": "99838",
           "username": "Prefix"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
@@ -164,9 +148,7 @@
           "uid": "99838",
           "username": "Prefix"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
@@ -190,9 +172,7 @@
           "uid": "1191229",
           "username": "Arrow"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "groups",
@@ -224,9 +204,7 @@
           "uid": "600771",
           "username": "Vinnie"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +216,7 @@
           "uid": "1700066",
           "username": "Gary."
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -252,9 +228,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -266,9 +240,7 @@
           "uid": "2277548",
           "username": "Shirnox™"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -280,9 +252,7 @@
           "uid": "2194640",
           "username": "๖ۣۜNex"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -294,9 +264,7 @@
           "uid": "923753",
           "username": "Butt Cheeks"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -308,9 +276,7 @@
           "uid": "1992268",
           "username": "Thornzzz"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "threads",
@@ -322,9 +288,7 @@
           "uid": "0",
           "username": "Sniper"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "interviews",
@@ -336,9 +300,7 @@
           "uid": "531250",
           "username": "Th3PonyWizard"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "interviews",
@@ -350,17 +312,13 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: CrosephMcDroseph's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1428377212,
-      "edition": 234
+      "url": ""
     },
     {
       "category": "news",
@@ -553,9 +511,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1428377212,
-      "edition": 234
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 234,
+    "date": 1428377212,
+    "pid": "45590046",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 234"
+  }
 }

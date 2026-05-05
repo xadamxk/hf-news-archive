@@ -11,9 +11,14 @@
           "username": "The Elite",
           "role": "Editor"
         }
-      ],
-      "date": 1289072975,
-      "edition": 21.1
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 21.1,
+    "date": 1289072975,
+    "pid": "7526811",
+    "author_uid": "136025",
+    "subject": "HF News"
+  }
 }

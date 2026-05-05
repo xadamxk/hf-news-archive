@@ -4,9 +4,7 @@
       "category": "site",
       "title": "HF News announced its closure following DMCA and copyright infringement notices from another forum...",
       "description": "HF News announced its closure following DMCA and copyright infringement notices from another forum claiming ownership of the news system; this would be the last full edition.",
-      "url": "",
-      "date": 1364775237,
-      "edition": 136
+      "url": ""
     },
     {
       "category": "site",
@@ -18,9 +16,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "site",
@@ -32,17 +28,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "site",
       "title": "A new CPA / PPD Make Money subforum was added for Cost Per Acquisition and Pay Per Download discussi...",
       "description": "A new CPA / PPD Make Money subforum was added for Cost Per Acquisition and Pay Per Download discussions.",
-      "url": "",
-      "date": 1364775237,
-      "edition": 136
+      "url": ""
     },
     {
       "category": "users",
@@ -58,9 +50,7 @@
           "uid": "295848",
           "username": "Qwazz"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "users",
@@ -84,9 +74,7 @@
           "uid": "496063",
           "username": "νιяυ"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "users",
@@ -170,9 +158,7 @@
           "uid": "992333",
           "username": "Accident"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "users",
@@ -196,9 +182,7 @@
           "uid": "37251",
           "username": "Baked"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "groups",
@@ -210,9 +194,7 @@
           "uid": "990748",
           "username": "Kentucky"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "threads",
@@ -224,9 +206,7 @@
           "uid": "879431",
           "username": "Pali"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +218,7 @@
           "uid": "947940",
           "username": "webdev77"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "interviews",
@@ -256,9 +234,7 @@
           "uid": "763021",
           "username": "Retribute"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "interviews",
@@ -274,9 +250,7 @@
           "uid": "1278319",
           "username": "iNuke"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "groups",
@@ -300,9 +274,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     },
     {
       "category": "news",
@@ -370,9 +342,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1364775237,
-      "edition": 136
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 136,
+    "date": 1364775237,
+    "pid": "31628657",
+    "author_uid": "515249",
+    "subject": "[3/31/13] - HF News - Goodbye </3"
+  }
 }

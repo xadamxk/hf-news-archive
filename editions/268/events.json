@@ -14,9 +14,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
@@ -40,9 +38,7 @@
           "uid": "1697764",
           "username": "Redwall"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
@@ -54,9 +50,7 @@
           "uid": "1754121",
           "username": "Roses"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
@@ -76,9 +70,7 @@
           "uid": "1624237",
           "username": "DeadOne1"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "2536311",
           "username": "Jokes"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
@@ -124,9 +114,7 @@
           "uid": "2536311",
           "username": "Jokes"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
@@ -138,9 +126,7 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "threads",
@@ -152,9 +138,7 @@
           "uid": "1741546",
           "username": "God of Saradomin"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "threads",
@@ -166,9 +150,7 @@
           "uid": "1088934",
           "username": "Crypto™"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "threads",
@@ -180,9 +162,7 @@
           "uid": "2015410",
           "username": "MeshCollider"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "threads",
@@ -194,9 +174,7 @@
           "uid": "2297053",
           "username": "Starved."
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "threads",
@@ -208,9 +186,7 @@
           "uid": "1087518",
           "username": ".Reef"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "threads",
@@ -222,9 +198,7 @@
           "uid": "2667861",
           "username": "#Skyline"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "interviews",
@@ -236,9 +210,7 @@
           "uid": "525019",
           "username": "illuminati▲"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "groups",
@@ -266,33 +238,25 @@
           "uid": "271731",
           "username": "Loki123"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: jrlawton12's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1449102327,
-      "edition": 268
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: AwakenedIssues's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1449102327,
-      "edition": 268
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: marskod's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1449102327,
-      "edition": 268
+      "url": ""
     },
     {
       "category": "news",
@@ -475,9 +439,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1449102327,
-      "edition": 268
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 268,
+    "date": 1449102327,
+    "pid": "48802035",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 268"
+  }
 }

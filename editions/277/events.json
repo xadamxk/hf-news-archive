@@ -10,9 +10,7 @@
           "uid": "1452467",
           "username": "Morchid"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "users",
@@ -48,9 +46,7 @@
           "uid": "1618863",
           "username": "Japanese"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "users",
@@ -74,9 +70,7 @@
           "uid": "734805",
           "username": "Glassy"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "users",
@@ -92,9 +86,7 @@
           "uid": "2377407",
           "username": "ĸondaх"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "users",
@@ -138,9 +130,7 @@
           "uid": "2961590",
           "username": "lottomax"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "users",
@@ -192,9 +182,7 @@
           "uid": "2961590",
           "username": "lottomax"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "users",
@@ -234,9 +222,7 @@
           "uid": "1066501",
           "username": "Moseph"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -248,9 +234,7 @@
           "uid": "unknown",
           "username": "Fudster"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -262,9 +246,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -276,9 +258,7 @@
           "uid": "2444198",
           "username": "Ghost"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -290,9 +270,7 @@
           "uid": "1221196",
           "username": "King Cin"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -304,9 +282,7 @@
           "uid": "2081920",
           "username": "Orbul."
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -318,9 +294,7 @@
           "uid": "1165241",
           "username": "Krave"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -332,9 +306,7 @@
           "uid": "2728537",
           "username": "GiftShark"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -346,9 +318,7 @@
           "uid": "659087",
           "username": "Kill Joy"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -360,9 +330,7 @@
           "uid": "1887731",
           "username": "๖ۣۜVekzy๖ۣۜHere"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "threads",
@@ -374,9 +342,7 @@
           "uid": "2436938",
           "username": "Scymo"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "groups",
@@ -388,9 +354,7 @@
           "uid": "55709",
           "username": "Glit͙ch"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "groups",
@@ -426,34 +390,26 @@
           "uid": "1185212",
           "username": "Fiber"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     },
     {
       "category": "groups",
       "title": "Null was listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=5152658",
-      "users": [],
-      "date": 1454393790,
-      "edition": 277
+      "users": []
     },
     {
       "category": "users",
       "title": "Battlestation of the week: PhiLLoW's setup was featured.",
       "description": "PhiLLoW is a Reddit user.",
-      "url": "",
-      "date": 1454393790,
-      "edition": 277
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: ninjapirate9901's setup was featured.",
       "description": "ninjapirate9901 is a Reddit user.",
-      "url": "",
-      "date": 1454393790,
-      "edition": 277
+      "url": ""
     },
     {
       "category": "news",
@@ -596,9 +552,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1454393790,
-      "edition": 277
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 277,
+    "date": 1454393790,
+    "pid": "49658873",
+    "author_uid": "561239",
+    "subject": "Hack Forums News // Edition 277"
+  }
 }

@@ -18,9 +18,7 @@
           "uid": "1570078",
           "username": "Sam Winchester"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "threads",
@@ -32,9 +30,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
@@ -68,9 +62,7 @@
           "uid": "795605",
           "username": "American Apathy"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "1698590",
           "username": "Abide"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
@@ -132,9 +122,7 @@
           "uid": "2287456",
           "username": "incoming"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
@@ -194,9 +182,7 @@
           "uid": "1768222",
           "username": "BigHecks"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
@@ -216,9 +202,7 @@
           "uid": "1749126",
           "username": "Sida"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "groups",
@@ -230,9 +214,7 @@
           "uid": "1866420",
           "username": "Cibor"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "groups",
@@ -248,9 +230,7 @@
           "uid": "1726101",
           "username": "Understalker"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "threads",
@@ -262,9 +242,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "threads",
@@ -276,9 +254,7 @@
           "uid": "2613410",
           "username": "Ekmete"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "threads",
@@ -290,9 +266,7 @@
           "uid": "55709",
           "username": "Glitch"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "threads",
@@ -304,9 +278,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "interviews",
@@ -318,17 +290,13 @@
           "uid": "1866420",
           "username": "Cibor"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Myhamstring's setup was featured.",
       "description": "Myhamstring's battlestation was featured this week.",
-      "url": "https://imgur.com/a/BHA1u",
-      "date": 1437456832,
-      "edition": 249
+      "url": "https://imgur.com/a/BHA1u"
     },
     {
       "category": "news",
@@ -541,9 +509,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1437456832,
-      "edition": 249
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 249,
+    "date": 1437456832,
+    "pid": "47101190",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 249"
+  }
 }

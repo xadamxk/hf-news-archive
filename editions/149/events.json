@@ -10,9 +10,7 @@
           "uid": "600771",
           "username": "Vinnie'"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "groups",
@@ -24,9 +22,7 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "users",
@@ -74,9 +66,7 @@
           "uid": "646916",
           "username": "Genuine"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "users",
@@ -100,9 +90,7 @@
           "uid": "608523",
           "username": "Soliloquy"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "users",
@@ -138,9 +126,7 @@
           "uid": "1371476",
           "username": "Feynman"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "users",
@@ -172,9 +158,7 @@
           "uid": "646916",
           "username": "Genuine"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "groups",
@@ -194,9 +178,7 @@
           "uid": "900087",
           "username": "Starstruck"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "threads",
@@ -208,9 +190,7 @@
           "uid": "789677",
           "username": "Grin"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "threads",
@@ -222,9 +202,7 @@
           "uid": "121196",
           "username": "Natha"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "interviews",
@@ -240,9 +218,7 @@
           "uid": "1135004",
           "username": "Corso"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "interviews",
@@ -258,9 +234,7 @@
           "uid": "562793",
           "username": "Programmargorp"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     },
     {
       "category": "news",
@@ -328,9 +302,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1372747413,
-      "edition": 149
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 149,
+    "date": 1372747413,
+    "pid": "33672112",
+    "author_uid": "515249",
+    "subject": "[6/30/13] - HF News"
+  }
 }

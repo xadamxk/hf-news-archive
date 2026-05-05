@@ -18,9 +18,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "site",
@@ -32,9 +30,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "site",
@@ -46,9 +42,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "1754121",
           "username": "Grievous"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "users",
@@ -130,9 +122,7 @@
           "uid": "2509800",
           "username": "FleXiN RunZ HF"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "users",
@@ -148,9 +138,7 @@
           "uid": "1777085",
           "username": "beslim"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "interviews",
@@ -166,9 +154,7 @@
           "uid": "370475",
           "username": "Vegas"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "interviews",
@@ -184,9 +170,7 @@
           "uid": "1446355",
           "username": "Trust"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     },
     {
       "category": "news",
@@ -394,9 +378,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1419313046,
-      "edition": 219
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 219,
+    "date": 1419313046,
+    "pid": "43946220",
+    "author_uid": "515249",
+    "subject": "HF News - 219 {Happy Holidays!}"
+  }
 }

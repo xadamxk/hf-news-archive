@@ -4,20 +4,30 @@ Do not create a script to do this, but manually read through and categorize/save
 Goal: Extract data into each edition's folder as json files.
 Example: Folder "1" would extract from "1/posts.json" and save the results to "/events.json"
 
-The contents of events.json should be json and have 1 root properties: events
+The contents of events.json should be json with two root properties:
+
+1) edition — metadata for this edition file (same for every event in the file):
+   - number: the news edition id (decimal), e.g. 1 or 8.1 — should match the folder name when possible
+   - date: Unix time (integer) of the first post in posts.json — example: 1289072975
+   - pid: post id string of that first post
+   - author_uid: uid string of the author of that first post (same as uid in posts.json)
+   - subject: thread subject line from that first post (often "Hack Forums News // Edition N")
+
+2) events — array of event objects.
+
 All events should include the thread link associated to them - typically ending in tid=
 All users should include the UID along with the username if provided
 
-Events should have the following properties:
+Each event should have the following properties:
 - category: category of the event (same values as topic used to use; see below)
 - title: Short title summary of the event (if there is no title, derive one from the description)
 - description: Additional detail about the event - details go here
 - url: url of the related thread (use "" when there is no link)
 - users: array of uid & username object
-- date: the date of the first post in posts.json (integer) - example: 1289072975
-- edition: the news edition that the event belongs to (decimal) - example: 1 or 8.1
 
-Do not create events that only summarize off-site world news, general technology industry news, or general gaming industry news (for example long third-post columns with no Hack Forums thread to attach). HF threads that appear in the edition’s linked notable-thread lists are still in scope for `threads` when they meet the notable-thread rule.
+Do not put date or edition on individual events — they live only on the root "edition" object.
+
+Do not create events that only summarize off-site world news, general technology industry news, or general gaming industry news (for example long third-post columns with no Hack Forums thread to attach). HF threads that appear in the edition's linked notable-thread lists are still in scope for `threads` when they meet the notable-thread rule.
 
 Individual events need to be labeled by category: 
 - site: Headlines/Site News - events related to the site (which is HackForums) or the owner (Omniscient)

@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1308329637,
-      "edition": 46
+      ]
     },
     {
       "category": "site",
@@ -24,17 +22,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1308329637,
-      "edition": 46
+      ]
     },
     {
       "category": "site",
       "title": "Welcome-back username now links to profile; portal.php removed.",
       "description": "",
-      "url": "",
-      "date": 1308329637,
-      "edition": 46
+      "url": ""
     },
     {
       "category": "users",
@@ -54,9 +48,14 @@
           "username": "Domasaurus",
           "uid": null
         }
-      ],
-      "date": 1308329637,
-      "edition": 46
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 46,
+    "date": 1308329637,
+    "pid": "12752007",
+    "author_uid": "295848",
+    "subject": "[6/16/2011] - HF News"
+  }
 }

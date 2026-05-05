@@ -10,9 +10,7 @@
           "username": "Kutmuskaturt",
           "uid": null
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "username": "VipVince",
           "uid": "7807"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -38,9 +34,7 @@
           "username": "Kewlhotrod",
           "uid": "82773"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -52,9 +46,7 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -66,9 +58,7 @@
           "username": "Hanzo",
           "uid": "4066"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -80,9 +70,7 @@
           "username": "Kr4z1",
           "uid": "143654"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -98,9 +86,7 @@
           "username": "The Elite",
           "uid": "136025"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "site",
@@ -112,9 +98,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "users",
@@ -126,9 +110,7 @@
           "username": "Cobija",
           "uid": "100071"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "threads",
@@ -140,17 +122,13 @@
           "username": "iBruteforce",
           "uid": "33279"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "site",
       "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=653939",
-      "date": 1285142926,
-      "edition": 16
+      "url": "http://hackforums.net/showthread.php?tid=653939"
     },
     {
       "category": "news",
@@ -166,9 +144,7 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     },
     {
       "category": "interviews",
@@ -180,9 +156,14 @@
           "username": "N3w_2_H@Ck1n™",
           "uid": "49806"
         }
-      ],
-      "date": 1285142926,
-      "edition": 16
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 16,
+    "date": 1285142926,
+    "pid": "6590389",
+    "author_uid": "136025",
+    "subject": "[9/15/2010] - HF News"
+  }
 }

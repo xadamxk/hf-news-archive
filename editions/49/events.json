@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "users",
@@ -66,17 +58,13 @@
           "username": "panDa.",
           "uid": "566671"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "site",
       "title": "Display of section moderators re-enabled.",
       "description": "",
-      "url": "",
-      "date": 1310018751,
-      "edition": 49
+      "url": ""
     },
     {
       "category": "groups",
@@ -92,9 +80,7 @@
           "username": "Etheryte",
           "uid": "32695"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "groups",
@@ -106,17 +92,20 @@
           "username": "xerotic",
           "uid": "175033"
         }
-      ],
-      "date": 1310018751,
-      "edition": 49
+      ]
     },
     {
       "category": "groups",
       "title": "Techsperts temporarily close recruitment to review applications.",
       "description": "",
-      "url": "",
-      "date": 1310018751,
-      "edition": 49
+      "url": ""
     }
-  ]
+  ],
+  "edition": {
+    "number": 49,
+    "date": 1310018751,
+    "pid": "13354141",
+    "author_uid": "295848",
+    "subject": "[7/6/2011] - HF News"
+  }
 }

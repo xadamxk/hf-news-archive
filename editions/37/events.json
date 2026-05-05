@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     },
     {
       "category": "site",
@@ -24,17 +22,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     },
     {
       "category": "site",
       "title": "Official TinyChat plugin removed (impersonation, flaming).",
       "description": "",
-      "url": "",
-      "date": 1302737368,
-      "edition": 37
+      "url": ""
     },
     {
       "category": "threads",
@@ -46,9 +40,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     },
     {
       "category": "threads",
@@ -60,9 +52,7 @@
           "username": "Crow",
           "uid": "2103"
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     },
     {
       "category": "users",
@@ -74,9 +64,7 @@
           "username": "Xch4ng3",
           "uid": "65784"
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     },
     {
       "category": "threads",
@@ -88,9 +76,7 @@
           "username": "phire nuk3r",
           "uid": "46373"
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     },
     {
       "category": "groups",
@@ -114,9 +100,14 @@
           "username": "Cняιs ★ Hуѕтєяιa X™",
           "uid": null
         }
-      ],
-      "date": 1302737368,
-      "edition": 37
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 37,
+    "date": 1302737368,
+    "pid": "11179309",
+    "author_uid": "295848",
+    "subject": "[4/13/2011] - HF News"
+  }
 }

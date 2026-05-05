@@ -10,17 +10,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "groups",
       "title": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budgin...",
       "description": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budging.",
-      "url": "",
-      "date": 1339873982,
-      "edition": 96
+      "url": ""
     },
     {
       "category": "groups",
@@ -31,17 +27,13 @@
         {
           "username": "Castle Bravo"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "site",
       "title": "Over one million posts were deleted from the Lounge, likely a routine post prune.",
       "description": "",
-      "url": "",
-      "date": 1339873982,
-      "edition": 96
+      "url": ""
     },
     {
       "category": "users",
@@ -53,9 +45,7 @@
           "uid": "734805",
           "username": "Glassy"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "users",
@@ -67,9 +57,7 @@
           "uid": "361543",
           "username": "Scooter"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "users",
@@ -81,9 +69,7 @@
           "uid": "119173",
           "username": "Xenochrist"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "users",
@@ -95,9 +81,7 @@
           "uid": "127732",
           "username": "I Smoke Loud"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "threads",
@@ -109,9 +93,7 @@
           "uid": "1044864",
           "username": "malichi"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "threads",
@@ -123,9 +105,7 @@
           "uid": "1171778",
           "username": "RIPPER"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "threads",
@@ -137,9 +117,7 @@
           "uid": "114319",
           "username": "Mr. Anderson"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "threads",
@@ -151,9 +129,7 @@
           "uid": "65167",
           "username": "Horkos"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "users",
@@ -165,9 +141,7 @@
           "uid": "379282",
           "username": "Bok1ca"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "interviews",
@@ -183,9 +157,7 @@
           "uid": "1099423",
           "username": "Jae"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "interviews",
@@ -201,9 +173,7 @@
           "uid": "298746",
           "username": "Grammar Rays"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "interviews",
@@ -219,9 +189,7 @@
           "uid": "847499",
           "username": "Brandenx781"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     },
     {
       "category": "news",
@@ -294,9 +262,14 @@
           "username": "PyroStorm",
           "role": "Proofreader"
         }
-      ],
-      "date": 1339873982,
-      "edition": 96
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 96,
+    "date": 1339873982,
+    "pid": "23583683",
+    "author_uid": "515249",
+    "subject": "[6/16/12] - HF News"
+  }
 }

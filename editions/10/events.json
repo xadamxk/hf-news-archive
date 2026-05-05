@@ -14,9 +14,7 @@
           "username": "TylerDurdenr",
           "uid": "28373"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "users",
@@ -32,9 +30,7 @@
           "username": "TylerDurdenr",
           "uid": "28373"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "site",
@@ -46,17 +42,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "site",
       "title": "Green MSN-like online indicator added next to usernames.",
       "description": "",
-      "url": "",
-      "date": 1280005694,
-      "edition": 10
+      "url": ""
     },
     {
       "category": "site",
@@ -68,9 +60,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "site",
@@ -82,9 +72,7 @@
           "username": "N2H",
           "uid": null
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "site",
@@ -96,9 +84,7 @@
           "username": "Prone",
           "uid": "78860"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "users",
@@ -110,9 +96,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     },
     {
       "category": "news",
@@ -124,9 +108,14 @@
           "username": "Robbieava",
           "uid": "81075"
         }
-      ],
-      "date": 1280005694,
-      "edition": 10
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 10,
+    "date": 1280005694,
+    "pid": "5359443",
+    "author_uid": "74244",
+    "subject": "HF News [7/17-7/24] [COMMENT]"
+  }
 }

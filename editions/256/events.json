@@ -5,9 +5,7 @@
       "title": "Red Lions Returns!",
       "description": "After almost three years, the Red Lions group reopened their doors to the community in search of members willing to help make Hack Forums a better place.",
       "url": "http://hackforums.net/showthread.php?tid=4972676",
-      "users": [],
-      "date": 1441771831,
-      "edition": 256
+      "users": []
     },
     {
       "category": "users",
@@ -23,9 +21,7 @@
           "uid": "1271661",
           "username": "‎‎‎‎Colors"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "users",
@@ -37,9 +33,7 @@
           "uid": "96230",
           "username": "Panik"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "users",
@@ -71,9 +65,7 @@
           "uid": "1958275",
           "username": "Scary‌"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "users",
@@ -101,9 +93,7 @@
           "uid": "2286383",
           "username": "The Dragon of the West"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "users",
@@ -139,9 +129,7 @@
           "uid": "2286383",
           "username": "The Dragon of the West"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "users",
@@ -165,9 +153,7 @@
           "uid": "85546",
           "username": "Odus"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "groups",
@@ -179,9 +165,7 @@
           "uid": "2015410",
           "username": "ӍeshCollider"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -193,9 +177,7 @@
           "uid": "2377407",
           "username": "ĸondaх"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -207,9 +189,7 @@
           "uid": "1624297",
           "username": "ErudiN"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -221,9 +201,7 @@
           "uid": "2184829",
           "username": "Sapio"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -235,9 +213,7 @@
           "uid": "85546",
           "username": "Odus"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -249,9 +225,7 @@
           "uid": "992020",
           "username": "King Of Hearts"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -263,9 +237,7 @@
           "uid": "2471116",
           "username": "Hinch"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "threads",
@@ -277,9 +249,7 @@
           "uid": "2634803",
           "username": "Lacuna"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "interviews",
@@ -291,17 +261,13 @@
           "uid": "2471116",
           "username": "Hinch"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: aphelps231's setup was featured.",
       "description": "aphelps231's battlestation was featured this week.",
-      "url": "https://imgur.com/a/nJlv4",
-      "date": 1441771831,
-      "edition": 256
+      "url": "https://imgur.com/a/nJlv4"
     },
     {
       "category": "news",
@@ -489,9 +455,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1441771831,
-      "edition": 256
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 256,
+    "date": 1441771831,
+    "pid": "47779122",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 256"
+  }
 }

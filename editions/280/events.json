@@ -5,36 +5,28 @@
       "title": "Upgrade Shipping Information",
       "description": "Omniscient posted information about upgrade shipping times and delays.",
       "url": "http://hackforums.net/showthread.php?tid=5175320",
-      "users": [],
-      "date": 1456280236,
-      "edition": 280
+      "users": []
     },
     {
       "category": "site",
       "title": "200+ PMs and Workload",
       "description": "Omniscient posted about having a large backlog of PMs and requests due to his workload.",
       "url": "http://hackforums.net/showthread.php?tid=5173932",
-      "users": [],
-      "date": 1456280236,
-      "edition": 280
+      "users": []
     },
     {
       "category": "site",
       "title": "Removal of Private Data in Orders Database",
       "description": "Omniscient announced the removal of private data from the orders database, including names and addresses.",
       "url": "http://hackforums.net/showthread.php?tid=5177902",
-      "users": [],
-      "date": 1456280236,
-      "edition": 280
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group leadership changes",
       "description": "Krave is now the leader of DARK. Clique is now a leader of Riptide. Fiber is now a leader of Riptide. prada is now a leader of Riptide. Zexo is now a leader of Riptide. RenRioku™ is now a leader of The Brotherhood. AXiS is now a leader of The Brotherhood. illuminati▲ is now a leader of The Brotherhood. AXiS is now a leader of Enigma.",
       "url": "",
-      "users": [],
-      "date": 1456280236,
-      "edition": 280
+      "users": []
     },
     {
       "category": "users",
@@ -54,9 +46,7 @@
           "uid": "2636436",
           "username": "Raymond Reddington"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "users",
@@ -68,9 +58,7 @@
           "uid": "2660434",
           "username": "Gag"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "users",
@@ -86,9 +74,7 @@
           "uid": "3039219",
           "username": "Aeolian"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "threads",
@@ -100,9 +86,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "threads",
@@ -114,9 +98,7 @@
           "uid": "1610871",
           "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "threads",
@@ -128,9 +110,7 @@
           "uid": "1148878",
           "username": "Clique"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "threads",
@@ -142,9 +122,7 @@
           "uid": "610356",
           "username": "Wires"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "threads",
@@ -156,9 +134,7 @@
           "uid": "2888576",
           "username": "Venomous Sniper"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "interviews",
@@ -170,25 +146,19 @@
           "uid": "1148878",
           "username": "Clique"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: GoodAtIt's setup was featured.",
       "description": "GoodAtIt's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1456280236,
-      "edition": 280
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: L3pje's setup was featured.",
       "description": "L3pje's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1456280236,
-      "edition": 280
+      "url": ""
     },
     {
       "category": "news",
@@ -336,9 +306,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1456280236,
-      "edition": 280
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 280,
+    "date": 1456280236,
+    "pid": "49943112",
+    "author_uid": "561239",
+    "subject": "Hack Forums News // Edition 280"
+  }
 }

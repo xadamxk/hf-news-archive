@@ -5,18 +5,14 @@
       "title": "Omniscient recovering from hernia surgery",
       "description": "Omniscient announced surgery for a double inguinal hernia; HF News wished him a speedy recovery with an NHS explainer link.",
       "url": "http://hackforums.net/showthread.php?tid=5314363",
-      "users": [],
-      "date": 1466574016,
-      "edition": 296
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group leadership update",
       "description": "Narrate stepped down as a leader of The Order.",
       "url": "",
-      "users": [],
-      "date": 1466574016,
-      "edition": 296
+      "users": []
     },
     {
       "category": "users",
@@ -56,9 +52,7 @@
           "uid": "67412",
           "username": "Vigor"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "users",
@@ -86,9 +80,7 @@
           "uid": "1666545",
           "username": "Prodigy"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "users",
@@ -112,9 +104,7 @@
           "uid": "900087",
           "username": "Starstruck"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "users",
@@ -126,9 +116,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "users",
@@ -176,9 +164,7 @@
           "uid": "1666545",
           "username": "Prodigy"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "users",
@@ -206,9 +192,7 @@
           "uid": "1494170",
           "username": "Nysta"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "threads",
@@ -220,9 +204,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "threads",
@@ -234,9 +216,7 @@
           "uid": "2744191",
           "username": "Lovo"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "threads",
@@ -248,9 +228,7 @@
           "uid": "2849820",
           "username": "Wuss"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "interviews",
@@ -262,9 +240,7 @@
           "uid": "1359715",
           "username": "H3God"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "users",
@@ -276,9 +252,7 @@
           "uid": "669174",
           "username": "silently loud"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     },
     {
       "category": "news",
@@ -391,9 +365,14 @@
           "username": "Young Thug",
           "role": "On-Call Team [TRIAL]"
         }
-      ],
-      "date": 1466574016,
-      "edition": 296
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 296,
+    "date": 1466574016,
+    "pid": "51396906",
+    "author_uid": "1446355",
+    "subject": "Hack Forums News // Edition 296"
+  }
 }

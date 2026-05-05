@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "users",
@@ -70,9 +62,7 @@
           "uid": "1422600",
           "username": "Vanill‌a"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "users",
@@ -84,9 +74,7 @@
           "uid": "26287",
           "username": "OldFag"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "users",
@@ -110,9 +98,7 @@
           "uid": "796061",
           "username": "Aesthetics"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "users",
@@ -128,9 +114,7 @@
           "uid": "2574257",
           "username": "bashя"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "users",
@@ -150,9 +134,7 @@
           "uid": "2574257",
           "username": "bashя"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "threads",
@@ -164,9 +146,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "threads",
@@ -178,9 +158,7 @@
           "uid": "1768561",
           "username": "Exodus."
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "threads",
@@ -192,9 +170,7 @@
           "uid": "2283154",
           "username": "SneakyGorillaMan"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "threads",
@@ -206,9 +182,7 @@
           "uid": "2090924",
           "username": "Seven"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "threads",
@@ -220,17 +194,13 @@
           "uid": "2561132",
           "username": "Fʀᴀɴᴋɪᴇ"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: ZF1's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1434432506,
-      "edition": 244
+      "url": ""
     },
     {
       "category": "news",
@@ -433,9 +403,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1434432506,
-      "edition": 244
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 244,
+    "date": 1434432506,
+    "pid": "46605101",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 244"
+  }
 }

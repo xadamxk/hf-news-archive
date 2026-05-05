@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "users",
@@ -80,9 +74,7 @@
           "uid": "792136",
           "username": "Krew"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "users",
@@ -114,9 +106,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "groups",
@@ -128,9 +118,7 @@
           "uid": "1777085",
           "username": "beslim"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "interviews",
@@ -146,9 +134,7 @@
           "uid": "1968914",
           "username": "Present"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "interviews",
@@ -164,9 +150,7 @@
           "uid": "197132",
           "username": "-Hyperion"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     },
     {
       "category": "news",
@@ -329,9 +313,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1418099173,
-      "edition": 217
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 217,
+    "date": 1418099173,
+    "pid": "43728265",
+    "author_uid": "515249",
+    "subject": "HF News - 217"
+  }
 }

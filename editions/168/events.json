@@ -18,9 +18,7 @@
           "uid": "787112",
           "username": "Saturday"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "site",
@@ -32,9 +30,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "users",
@@ -58,9 +54,7 @@
           "uid": "1043300",
           "username": "Abel"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "users",
@@ -88,9 +82,7 @@
           "uid": "1043071",
           "username": "MHC"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "users",
@@ -122,9 +114,7 @@
           "uid": "690666",
           "username": "404™"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "groups",
@@ -140,9 +130,7 @@
           "uid": "1114693",
           "username": "Keeper"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "threads",
@@ -154,9 +142,7 @@
           "uid": "875895",
           "username": "Haste."
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "threads",
@@ -168,9 +154,7 @@
           "uid": "382745",
           "username": "Kn1gh7"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "threads",
@@ -182,9 +166,7 @@
           "uid": "687175",
           "username": "Hubert"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "interviews",
@@ -200,9 +182,7 @@
           "uid": "7807",
           "username": "VipVince"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "interviews",
@@ -218,9 +198,7 @@
           "uid": "33319",
           "username": "SkullTraill"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "interviews",
@@ -236,9 +214,7 @@
           "uid": "1579189",
           "username": "Catalyst"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     },
     {
       "category": "news",
@@ -321,9 +297,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1384233703,
-      "edition": 168
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 168,
+    "date": 1384233703,
+    "pid": "36265101",
+    "author_uid": "515249",
+    "subject": "[11/11/13] - HF News"
+  }
 }

@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "groups",
@@ -32,9 +30,7 @@
           "uid": "1180981",
           "username": "Edward Snowden."
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "users",
@@ -46,9 +42,7 @@
           "uid": "1607053",
           "username": "Dex‌"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "users",
@@ -104,9 +98,7 @@
           "uid": "1369647",
           "username": "YOLOnline"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "users",
@@ -118,9 +110,7 @@
           "uid": "1125635",
           "username": "BooGod"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "interviews",
@@ -136,9 +126,7 @@
           "uid": "2072010",
           "username": "Λaron"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "interviews",
@@ -154,9 +142,7 @@
           "uid": "1229273",
           "username": "Raz3d"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     },
     {
       "category": "news",
@@ -324,9 +310,14 @@
           "username": "Yellows",
           "role": "Task Manager"
         }
-      ],
-      "date": 1419919302,
-      "edition": 220
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 220,
+    "date": 1419919302,
+    "pid": "44067331",
+    "author_uid": "515249",
+    "subject": "HF News - 220 {Happy New Year!}"
+  }
 }

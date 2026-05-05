@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1303944833,
-      "edition": 39
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "username": "/A/ (Ace)",
           "uid": null
         }
-      ],
-      "date": 1303944833,
-      "edition": 39
+      ]
     },
     {
       "category": "threads",
@@ -38,9 +34,7 @@
           "username": "Hanzo",
           "uid": "4066"
         }
-      ],
-      "date": 1303944833,
-      "edition": 39
+      ]
     },
     {
       "category": "threads",
@@ -56,9 +50,7 @@
           "username": "Tate",
           "uid": "101228"
         }
-      ],
-      "date": 1303944833,
-      "edition": 39
+      ]
     },
     {
       "category": "groups",
@@ -78,9 +70,7 @@
           "username": "xerotic",
           "uid": "175033"
         }
-      ],
-      "date": 1303944833,
-      "edition": 39
+      ]
     },
     {
       "category": "users",
@@ -92,9 +82,14 @@
           "username": "Zeon",
           "uid": "58683"
         }
-      ],
-      "date": 1303944833,
-      "edition": 39
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 39,
+    "date": 1303944833,
+    "pid": "11517093",
+    "author_uid": "295848",
+    "subject": "[4/27/2011] - HF News"
+  }
 }

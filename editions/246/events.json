@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
@@ -36,9 +34,7 @@
           "uid": "370510",
           "username": "!!* Alone Vampire *!!"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
@@ -62,9 +58,7 @@
           "uid": "2454679",
           "username": "⊰ ℊℋℴs₮ ⊱"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
@@ -96,9 +90,7 @@
           "uid": "2205331",
           "username": "Pow‎‎‎‎"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
@@ -114,9 +106,7 @@
           "uid": "1659032",
           "username": "Cyph Jr"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
@@ -140,9 +130,7 @@
           "uid": "2454679",
           "username": "⊰ ℊℋℴs₮ ⊱"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
@@ -158,9 +146,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -172,9 +158,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -186,9 +170,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -200,9 +182,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -214,9 +194,7 @@
           "uid": "2033728",
           "username": "Unparanormal"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -228,9 +206,7 @@
           "uid": "1121882",
           "username": "Avunit‌"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -242,9 +218,7 @@
           "uid": "1644588",
           "username": "Dеath"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -256,9 +230,7 @@
           "uid": "1773169",
           "username": "Hazy"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -270,9 +242,7 @@
           "uid": "1221196",
           "username": "Ataraxis"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -284,9 +254,7 @@
           "uid": "1775114",
           "username": "Ren‍‌"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "threads",
@@ -298,9 +266,7 @@
           "uid": "2585207",
           "username": "Charlemagne"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "interviews",
@@ -312,17 +278,13 @@
           "uid": "2259041",
           "username": "Radar7"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Schuyler_'s setup was featured.",
       "description": "Schuyler_'s battlestation was featured this week.",
-      "url": "https://imgur.com/a/OZlIx",
-      "date": 1435638100,
-      "edition": 246
+      "url": "https://imgur.com/a/OZlIx"
     },
     {
       "category": "news",
@@ -525,9 +487,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1435638100,
-      "edition": 246
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 246,
+    "date": 1435638100,
+    "pid": "46812108",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 246"
+  }
 }

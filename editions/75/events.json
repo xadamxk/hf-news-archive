@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -38,9 +34,7 @@
           "uid": "140749",
           "username": "Poppins"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -52,9 +46,7 @@
           "uid": "330676",
           "username": "Diabolic"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -66,9 +58,7 @@
           "uid": "574192",
           "username": "Defcon"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -80,9 +70,7 @@
           "uid": "11953",
           "username": "Nyx-"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -94,9 +82,7 @@
           "uid": "415606",
           "username": "Costal Waters"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -108,9 +94,7 @@
           "uid": "622763",
           "username": "Quiet"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -122,9 +106,7 @@
           "uid": "371170",
           "username": "OVO™"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "threads",
@@ -136,9 +118,7 @@
           "uid": "285755",
           "username": "Cody8295"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "threads",
@@ -150,9 +130,7 @@
           "uid": "103669",
           "username": "Factor8™"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "threads",
@@ -164,9 +142,7 @@
           "uid": "730111",
           "username": "devilpsn"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "threads",
@@ -178,9 +154,7 @@
           "uid": "183072",
           "username": "Mr Kewl"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "users",
@@ -204,9 +178,7 @@
           "uid": "175033",
           "username": "xerotic"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "interviews",
@@ -222,9 +194,7 @@
           "uid": "330676",
           "username": "Diabolic"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "interviews",
@@ -239,9 +209,7 @@
         {
           "username": ".Zo"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     },
     {
       "category": "news",
@@ -299,9 +267,14 @@
           "username": "Tasemu",
           "role": "Graphical Editor"
         }
-      ],
-      "date": 1326347528,
-      "edition": 75
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 75,
+    "date": 1326347528,
+    "pid": "18981778",
+    "author_uid": "515249",
+    "subject": "[1/11/12] - HF News"
+  }
 }

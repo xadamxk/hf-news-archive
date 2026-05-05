@@ -14,9 +14,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "groups",
@@ -28,9 +26,7 @@
           "username": "Skill",
           "uid": "65581"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "users",
@@ -42,9 +38,7 @@
           "username": "iBruteforce",
           "uid": "33279"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "users",
@@ -56,9 +50,7 @@
           "username": "Crow",
           "uid": "2103"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "site",
@@ -70,9 +62,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "site",
@@ -84,9 +74,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "users",
@@ -98,9 +86,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     },
     {
       "category": "news",
@@ -112,9 +98,14 @@
           "username": "The Elite",
           "uid": "136025"
         }
-      ],
-      "date": 1286334808,
-      "edition": 18
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 18,
+    "date": 1286334808,
+    "pid": "6864305",
+    "author_uid": "136025",
+    "subject": "[9/30/2010] - HF News"
+  }
 }

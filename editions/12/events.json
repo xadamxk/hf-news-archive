@@ -4,9 +4,7 @@
       "category": "threads",
       "title": "No news events this week.",
       "description": "",
-      "url": "",
-      "date": 1281937142,
-      "edition": 12
+      "url": ""
     },
     {
       "category": "news",
@@ -18,9 +16,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1281937142,
-      "edition": 12
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 12,
+    "date": 1281937142,
+    "pid": "5841504",
+    "author_uid": "74244",
+    "subject": "[8/7-8/13] No news this week"
+  }
 }

@@ -9,7 +9,7 @@ import {
 } from "react";
 import type { ReactNode } from "react";
 import DatePicker from "react-datepicker";
-import type { CompactEvent, CompactUser, EventsPayload } from "./types";
+import type { CompactEditionRow, CompactEvent, CompactUser, EventsPayload } from "./types";
 import { PROFILE_BASE } from "./types";
 
 type DateFilterMode = "off" | "before" | "after" | "between";
@@ -214,8 +214,11 @@ function UserLine({ u, userHighlight }: { u: CompactUser; userHighlight: string 
   );
 }
 
-function eventStableKey(ev: CompactEvent): string {
-  return `${ev.s}:${ev.e}:${ev.c}:${ev.t}`;
+function eventStableKey(ev: CompactEvent, ed: CompactEditionRow[]): string {
+  const row = ed[ev.x];
+  const s = row?.s ?? ev.x;
+  const e = row?.e ?? ev.x;
+  return `${s}:${e}:${ev.c}:${ev.t}`;
 }
 
 function PaginationBar({
@@ -267,15 +270,18 @@ function PaginationBar({
 
 const EventCard = memo(function EventCard({
   ev,
+  edition,
   userHighlight,
   searchHighlight,
 }: {
   ev: CompactEvent;
+  edition: CompactEditionRow | undefined;
   userHighlight: string;
   searchHighlight: string;
 }) {
-  const iso = useMemo(() => isoDateTime(ev.s), [ev.s]);
-  const displayDate = useMemo(() => formatDate(ev.s), [ev.s]);
+  const sec = edition?.s ?? 0;
+  const iso = useMemo(() => isoDateTime(sec), [sec]);
+  const displayDate = useMemo(() => (edition ? formatDate(sec) : "—"), [edition, sec]);
   const titleNodes = useMemo(
     () => highlightSearchTerms(ev.t, searchHighlight),
     [ev.t, searchHighlight]
@@ -298,7 +304,9 @@ const EventCard = memo(function EventCard({
             )}
           </h2>
           <p className="post-meta">
-            <span className="post-meta-strong">Edition {ev.e}</span>
+            <span className="post-meta-strong">
+              Edition {edition != null ? edition.e : "?"}
+            </span>
             <span className="post-meta-sep" aria-hidden="true">
               {" "}
               ·{" "}
@@ -362,6 +370,8 @@ export default function App() {
         const data = (await res.json()) as EventsPayload;
         if (!cancelled) {
           if (!data?.a || !Array.isArray(data.a)) throw new Error("Invalid events payload");
+          if (data.v !== 2 || !Array.isArray(data.ed))
+            throw new Error("Expected events.json v=2 with ed[] — run aggregate after migration");
           setRaw(data);
         }
       } catch (e) {
@@ -384,30 +394,28 @@ export default function App() {
     return [...s].sort();
   }, [raw]);
 
-  /** Highest edition number in the archive, with the latest event date within that edition. */
+  /** Highest edition number in the archive (tie-break by newer edition row timestamp). */
   const latestEditionHeadline = useMemo(() => {
-    if (!raw?.a.length) return null;
-    let maxEd = -Infinity;
-    for (const ev of raw.a) {
-      const ne = Number(ev.e);
-      if (Number.isFinite(ne) && ne > maxEd) maxEd = ne;
+    if (!raw?.ed.length) return null;
+    let best: CompactEditionRow | null = null;
+    for (const row of raw.ed) {
+      if (
+        !best ||
+        row.e > best.e ||
+        (row.e === best.e && row.s > best.s)
+      )
+        best = row;
     }
-    if (maxEd === -Infinity) return null;
-    let dateSec = 0;
-    let editionLabel = String(maxEd);
-    for (const ev of raw.a) {
-      if (Number(ev.e) !== maxEd) continue;
-      if (ev.s > dateSec) dateSec = ev.s;
-      editionLabel = String(ev.e);
-    }
-    return { edition: editionLabel, dateSec };
+    return best ? { edition: String(best.e), dateSec: best.s } : null;
   }, [raw]);
 
   const filtered = useMemo(() => {
     if (!raw) return [];
+    const ed = raw.ed;
     const qq = deferredQ.trim().toLowerCase();
     const uq = deferredUserQ.trim().toLowerCase();
     return raw.a.filter((ev) => {
+      const sec = ed[ev.x]?.s ?? 0;
       if (selectedCats.size > 0 && !selectedCats.has(ev.c)) return false;
       if (qq) {
         const blob = `${ev.t} ${ev.d ?? ""}`.toLowerCase();
@@ -416,10 +424,10 @@ export default function App() {
       if (uq && !eventMatchesUserExact(ev, uq)) return false;
       if (dateFilterMode === "before") {
         const lim = startOfLocalDaySec(dateFilterA);
-        if (lim !== null && !(ev.s < lim)) return false;
+        if (lim !== null && !(sec < lim)) return false;
       } else if (dateFilterMode === "after") {
         const lim = endOfLocalDayExclusiveSec(dateFilterA);
-        if (lim !== null && !(ev.s >= lim)) return false;
+        if (lim !== null && !(sec >= lim)) return false;
       } else if (dateFilterMode === "between") {
         const a = dateFilterA.trim();
         const b = dateFilterB.trim();
@@ -428,7 +436,7 @@ export default function App() {
           const dHi = a <= b ? b : a;
           const t0 = startOfLocalDaySec(dLo);
           const t1 = endOfLocalDayExclusiveSec(dHi);
-          if (t0 !== null && t1 !== null && !(ev.s >= t0 && ev.s < t1)) return false;
+          if (t0 !== null && t1 !== null && !(sec >= t0 && sec < t1)) return false;
         }
       }
       return true;
@@ -436,15 +444,21 @@ export default function App() {
   }, [raw, deferredQ, deferredUserQ, selectedCats, dateFilterMode, dateFilterA, dateFilterB]);
 
   const displayEvents = useMemo(() => {
+    if (!raw) return [];
+    const ed = raw.ed;
     const arr = [...filtered];
     arr.sort((a, b) => {
-      const cmpS = a.s - b.s;
+      const sa = ed[a.x]?.s ?? 0;
+      const sb = ed[b.x]?.s ?? 0;
+      const cmpS = sa - sb;
       if (cmpS !== 0) return sortOrder === "newest" ? -cmpS : cmpS;
-      const cmpE = Number(a.e) - Number(b.e);
+      const ea = ed[a.x]?.e ?? 0;
+      const eb = ed[b.x]?.e ?? 0;
+      const cmpE = ea - eb;
       return sortOrder === "newest" ? -cmpE : cmpE;
     });
     return arr;
-  }, [filtered, sortOrder]);
+  }, [raw, filtered, sortOrder]);
 
   useEffect(() => {
     setPage(0);
@@ -816,8 +830,9 @@ export default function App() {
       <div className="feed">
         {visibleEvents.map((ev) => (
           <EventCard
-            key={eventStableKey(ev)}
+            key={eventStableKey(ev, raw.ed)}
             ev={ev}
+            edition={raw.ed[ev.x]}
             userHighlight={userHighlight}
             searchHighlight={searchHighlight}
           />

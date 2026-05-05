@@ -10,9 +10,7 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "users",
@@ -46,9 +42,7 @@
           "uid": "1607053",
           "username": "Dex‌"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "2403543",
           "username": "Mr. Anodise"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "users",
@@ -102,9 +94,7 @@
           "uid": "2499272",
           "username": "Aeroslim"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "users",
@@ -116,9 +106,7 @@
           "uid": "2858602",
           "username": "ClawzTech"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -130,9 +118,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -144,9 +130,7 @@
           "uid": "2015410",
           "username": "MeshCollider"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -158,9 +142,7 @@
           "uid": "1065856",
           "username": "Artic Wolf"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -172,9 +154,7 @@
           "uid": "2384831",
           "username": "Proxy Chief"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -186,9 +166,7 @@
           "uid": "1610871",
           "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -200,9 +178,7 @@
           "uid": "1101548",
           "username": "TRH4CK"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "threads",
@@ -214,9 +190,7 @@
           "uid": "1056010",
           "username": "elixir"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "groups",
@@ -228,18 +202,14 @@
           "uid": "279955",
           "username": "Happeh"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! was listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
-      "users": [],
-      "date": 1449706085,
-      "edition": 269
+      "users": []
     },
     {
       "category": "users",
@@ -251,17 +221,13 @@
           "uid": "2377407",
           "username": "Kondax"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Classic_Tim's setup was featured.",
       "description": "Classic_Tim is a Reddit user.",
-      "url": "",
-      "date": 1449706085,
-      "edition": 269
+      "url": ""
     },
     {
       "category": "news",
@@ -444,9 +410,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1449706085,
-      "edition": 269
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 269,
+    "date": 1449706085,
+    "pid": "48895890",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 269"
+  }
 }

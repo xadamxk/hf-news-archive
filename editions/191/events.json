@@ -14,9 +14,7 @@
           "uid": "469528",
           "username": "Odin the Wanderer"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "users",
@@ -56,9 +54,7 @@
           "uid": "1660795",
           "username": "A‏d‏am"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "users",
@@ -78,9 +74,7 @@
           "uid": "1607053",
           "username": "Dex‌"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "users",
@@ -100,9 +94,7 @@
           "uid": "111824",
           "username": "MiserAble"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "users",
@@ -114,9 +106,7 @@
           "uid": "1439038",
           "username": "Doctor Blue"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "groups",
@@ -128,9 +118,7 @@
           "uid": "42927",
           "username": "Lani"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "groups",
@@ -142,9 +130,7 @@
           "uid": "1055259",
           "username": "Soccer"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "threads",
@@ -156,9 +142,7 @@
           "uid": "1453525",
           "username": "The Illusionist"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "threads",
@@ -170,9 +154,7 @@
           "uid": "431105",
           "username": "Tɦɛ Gʀiɱ"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "threads",
@@ -184,9 +166,7 @@
           "uid": "1290620",
           "username": "Designer"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "threads",
@@ -198,9 +178,7 @@
           "uid": "1495835",
           "username": "Aurа"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "interviews",
@@ -216,9 +194,7 @@
           "uid": "1033713",
           "username": "Formula1"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "interviews",
@@ -234,9 +210,7 @@
           "uid": "1238642",
           "username": "Maximum"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "interviews",
@@ -252,9 +226,7 @@
           "uid": "1205532",
           "username": "Robust"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     },
     {
       "category": "news",
@@ -352,9 +324,14 @@
           "username": "Lovol",
           "role": "Proofreader"
         }
-      ],
-      "date": 1398314800,
-      "edition": 191
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 191,
+    "date": 1398314800,
+    "pid": "39677678",
+    "author_uid": "515249",
+    "subject": "HF News - 191"
+  }
 }

@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1299958932,
-      "edition": 36
+      ]
     },
     {
       "category": "users",
@@ -24,17 +22,13 @@
           "username": "xerotic",
           "uid": "175033"
         }
-      ],
-      "date": 1299958932,
-      "edition": 36
+      ]
     },
     {
       "category": "groups",
       "title": "D.S. Inc and Reviewers recruiting.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1073637",
-      "date": 1299958932,
-      "edition": 36
+      "url": "http://hackforums.net/showthread.php?tid=1073637"
     },
     {
       "category": "site",
@@ -46,9 +40,14 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1299958932,
-      "edition": 36
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 36,
+    "date": 1299958932,
+    "pid": "10401049",
+    "author_uid": "0",
+    "subject": "[3/12/2011] - HF News"
+  }
 }

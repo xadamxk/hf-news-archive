@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "groups",
@@ -66,9 +58,7 @@
           "uid": "1500602",
           "username": "Bonfire."
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
@@ -84,9 +74,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
@@ -102,9 +90,7 @@
           "uid": "2436262",
           "username": "ℜuby"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
@@ -124,9 +110,7 @@
           "uid": "2624934",
           "username": "Alby"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
@@ -150,9 +134,7 @@
           "uid": "1829588",
           "username": "Circular"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
@@ -180,9 +162,7 @@
           "uid": "2436938",
           "username": "Auction"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
@@ -202,9 +182,7 @@
           "uid": "797403",
           "username": "630"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "threads",
@@ -216,9 +194,7 @@
           "uid": "1992268",
           "username": "Thornzzz"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "threads",
@@ -230,9 +206,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "threads",
@@ -244,9 +218,7 @@
           "uid": "1138866",
           "username": "Rivalry"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "threads",
@@ -258,9 +230,7 @@
           "uid": "839351",
           "username": "GL1TCH3D"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "threads",
@@ -272,9 +242,7 @@
           "uid": "2301878",
           "username": "Nullware"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "threads",
@@ -286,9 +254,7 @@
           "uid": "1562598",
           "username": "GammaRay"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "interviews",
@@ -300,17 +266,13 @@
           "uid": "2148285",
           "username": "Ego™"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: BryceBeatty's setup was featured.",
       "description": "",
-      "url": "",
-      "date": 1433216819,
-      "edition": 242
+      "url": ""
     },
     {
       "category": "news",
@@ -518,9 +480,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1433216819,
-      "edition": 242
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 242,
+    "date": 1433216819,
+    "pid": "46401963",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 242"
+  }
 }

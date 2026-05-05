@@ -10,9 +10,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1307591524,
-      "edition": 45
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1307591524,
-      "edition": 45
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1307591524,
-      "edition": 45
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1307591524,
-      "edition": 45
+      ]
     },
     {
       "category": "site",
@@ -66,17 +58,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1307591524,
-      "edition": 45
+      ]
     },
     {
       "category": "site",
       "title": "New MapleStory subforum created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=197",
-      "date": 1307591524,
-      "edition": 45
+      "url": "http://hackforums.net/forumdisplay.php?fid=197"
     },
     {
       "category": "users",
@@ -92,17 +80,20 @@
           "username": "xerotic",
           "uid": "175033"
         }
-      ],
-      "date": 1307591524,
-      "edition": 45
+      ]
     },
     {
       "category": "groups",
       "title": "RATs Crew launches weekly 'Tips n’ Tricks' series.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1326112",
-      "date": 1307591524,
-      "edition": 45
+      "url": "http://hackforums.net/showthread.php?tid=1326112"
     }
-  ]
+  ],
+  "edition": {
+    "number": 45,
+    "date": 1307591524,
+    "pid": "12519712",
+    "author_uid": "295848",
+    "subject": "[6/8/2011] - HF News"
+  }
 }

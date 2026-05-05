@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "users",
@@ -28,9 +26,7 @@
           "uid": "2819045",
           "username": "Cʜᴀsᴇ"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "uid": "1314004",
           "username": "aaaAa AAaaa a"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "users",
@@ -64,9 +58,7 @@
           "uid": "2471116",
           "username": "Hinch"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "users",
@@ -82,9 +74,7 @@
           "uid": "2471116",
           "username": "Hinch"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "users",
@@ -112,9 +102,7 @@
           "uid": "777",
           "username": "Cooligan"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -126,9 +114,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -140,9 +126,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -154,9 +138,7 @@
           "uid": "2802817",
           "username": "Bald."
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -168,9 +150,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -182,9 +162,7 @@
           "uid": "1576888",
           "username": "darkeclipse"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -196,9 +174,7 @@
           "uid": "789677",
           "username": "Grin"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -210,9 +186,7 @@
           "uid": "2693790",
           "username": "macadelic"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -224,9 +198,7 @@
           "uid": "2582276",
           "username": "Morty"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "threads",
@@ -238,9 +210,7 @@
           "uid": "2133932",
           "username": "Blue"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "groups",
@@ -252,18 +222,14 @@
           "uid": "952566",
           "username": "ɅʁɯªDą"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! and L'appel du vide listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
-      "users": [],
-      "date": 1445961229,
-      "edition": 263
+      "users": []
     },
     {
       "category": "interviews",
@@ -275,17 +241,13 @@
           "uid": "1680975",
           "username": "Regulus"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: Fistipup's and archie2992's setups were featured.",
       "description": "",
-      "url": "",
-      "date": 1445961229,
-      "edition": 263
+      "url": ""
     },
     {
       "category": "news",
@@ -483,9 +445,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1445961229,
-      "edition": 263
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 263,
+    "date": 1445961229,
+    "pid": "48347116",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 263"
+  }
 }

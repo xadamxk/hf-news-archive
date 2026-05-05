@@ -4,9 +4,7 @@
       "category": "site",
       "title": "Thanksgiving banner deployed.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=845534",
-      "date": 1291026874,
-      "edition": 25
+      "url": "http://hackforums.net/showthread.php?tid=845534"
     },
     {
       "category": "site",
@@ -18,17 +16,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1291026874,
-      "edition": 25
+      ]
     },
     {
       "category": "site",
       "title": "DNS issues cause access problems; guidance threads posted.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=854831",
-      "date": 1291026874,
-      "edition": 25
+      "url": "http://hackforums.net/showthread.php?tid=854831"
     },
     {
       "category": "site",
@@ -40,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1291026874,
-      "edition": 25
+      ]
     },
     {
       "category": "users",
@@ -54,9 +46,7 @@
           "username": "Solidify",
           "uid": "176679"
         }
-      ],
-      "date": 1291026874,
-      "edition": 25
+      ]
     },
     {
       "category": "users",
@@ -68,9 +58,14 @@
           "username": "N3w_2_H@Ck1n™",
           "uid": "49806"
         }
-      ],
-      "date": 1291026874,
-      "edition": 25
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 25,
+    "date": 1291026874,
+    "pid": "7993618",
+    "author_uid": "136025",
+    "subject": "[11/22/2010] - HF News"
+  }
 }

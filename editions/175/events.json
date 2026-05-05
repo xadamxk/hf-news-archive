@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "site",
@@ -38,17 +34,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "groups",
       "title": "iNviZ and TheHackersLove ran an Infamous Coats-For-Kids charity selling group spots and raised over ...",
       "description": "iNviZ and TheHackersLove ran an Infamous Coats-For-Kids charity selling group spots and raised over $4,000 for children's winter clothing.",
-      "url": "",
-      "date": 1388562526,
-      "edition": 175
+      "url": ""
     },
     {
       "category": "users",
@@ -68,9 +60,7 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "users",
@@ -106,9 +96,7 @@
           "uid": "1693297",
           "username": ".Alerion"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "users",
@@ -128,9 +116,7 @@
           "uid": "1402183",
           "username": "Claptrap™"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "users",
@@ -146,9 +132,7 @@
           "uid": "1659032",
           "username": "Cyph Jr"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "interviews",
@@ -164,9 +148,7 @@
           "uid": "434812",
           "username": "Bay"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "interviews",
@@ -182,9 +164,7 @@
           "uid": "1021070",
           "username": "#Thunder"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     },
     {
       "category": "news",
@@ -262,9 +242,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1388562526,
-      "edition": 175
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 175,
+    "date": 1388562526,
+    "pid": "37377779",
+    "author_uid": "515249",
+    "subject": "HF News - 175 - New Years Edition"
+  }
 }

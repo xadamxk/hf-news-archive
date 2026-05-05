@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -24,9 +22,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -72,9 +66,7 @@
           "uid": "1648194",
           "username": "Blam"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -102,9 +94,7 @@
           "uid": "2717628",
           "username": "'Axel"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -128,9 +118,7 @@
           "uid": "1463591",
           "username": "Andy Botwin"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -146,9 +134,7 @@
           "uid": "1648194",
           "username": "Blam"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -184,9 +170,7 @@
           "uid": "579898",
           "username": "KillαMuvz"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "threads",
@@ -198,9 +182,7 @@
           "uid": "2814806",
           "username": "Cares"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "threads",
@@ -212,9 +194,7 @@
           "uid": "2623907",
           "username": "๖ۣۜShadow"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "threads",
@@ -226,9 +206,7 @@
           "uid": "2471116",
           "username": "Hinch"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "threads",
@@ -240,9 +218,7 @@
           "uid": "1482070",
           "username": "+Haze"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "threads",
@@ -254,9 +230,7 @@
           "uid": "2636436",
           "username": "Epilepsy"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "threads",
@@ -268,9 +242,7 @@
           "uid": "561239",
           "username": "iHydra"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "groups",
@@ -290,18 +262,14 @@
           "uid": "1810243",
           "username": "Wardow"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "groups",
       "title": "AnimeFAN! and L'appel du vide listed for sale.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
-      "users": [],
-      "date": 1443052970,
-      "edition": 258
+      "users": []
     },
     {
       "category": "interviews",
@@ -313,9 +281,7 @@
           "uid": "1748669",
           "username": "ℒitecoin"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "users",
@@ -327,9 +293,7 @@
           "uid": "2384610",
           "username": "Limit."
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     },
     {
       "category": "news",
@@ -517,9 +481,14 @@
           "username": "-Nas",
           "role": "Task Enforcer"
         }
-      ],
-      "date": 1443052970,
-      "edition": 258
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 258,
+    "date": 1443052970,
+    "pid": "47951692",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 258"
+  }
 }

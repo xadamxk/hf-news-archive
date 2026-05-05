@@ -4,9 +4,7 @@
       "category": "groups",
       "title": "Gamers Crew removed; new Gamers Lounge section created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=65",
-      "date": 1309377301,
-      "edition": 48
+      "url": "http://hackforums.net/forumdisplay.php?fid=65"
     },
     {
       "category": "groups",
@@ -18,9 +16,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1309377301,
-      "edition": 48
+      ]
     },
     {
       "category": "site",
@@ -32,9 +28,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1309377301,
-      "edition": 48
+      ]
     },
     {
       "category": "site",
@@ -46,9 +40,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1309377301,
-      "edition": 48
+      ]
     },
     {
       "category": "threads",
@@ -60,9 +52,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1309377301,
-      "edition": 48
+      ]
     },
     {
       "category": "groups",
@@ -98,17 +88,20 @@
           "username": "Wolves",
           "uid": "651051"
         }
-      ],
-      "date": 1309377301,
-      "edition": 48
+      ]
     },
     {
       "category": "groups",
       "title": "The Alliance opens recruitment.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1421354",
-      "date": 1309377301,
-      "edition": 48
+      "url": "http://hackforums.net/showthread.php?tid=1421354"
     }
-  ]
+  ],
+  "edition": {
+    "number": 48,
+    "date": 1309377301,
+    "pid": "13120371",
+    "author_uid": "295848",
+    "subject": "[6/29/2011] - HF News"
+  }
 }

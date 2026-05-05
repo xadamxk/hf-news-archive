@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "groups",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "users",
@@ -82,9 +74,7 @@
           "uid": "646916",
           "username": "Genuine"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "users",
@@ -228,9 +218,7 @@
           "uid": "1308266",
           "username": "Vodge"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "users",
@@ -258,9 +246,7 @@
           "uid": "274613",
           "username": "Яǝʌǝɹsǝ"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "users",
@@ -332,9 +318,7 @@
           "uid": "1315365",
           "username": "+Amaze"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "users",
@@ -370,9 +354,7 @@
           "uid": "1049662",
           "username": "redpois0n"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "threads",
@@ -384,9 +366,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "threads",
@@ -398,9 +378,7 @@
           "uid": "1066539",
           "username": "ComponY"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "threads",
@@ -412,9 +390,7 @@
           "uid": "529870",
           "username": "+Pirate"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "interviews",
@@ -430,9 +406,7 @@
           "uid": "1182524",
           "username": "CoBrAxXx"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "interviews",
@@ -448,9 +422,7 @@
           "uid": "692131",
           "username": "Anima Libera"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     },
     {
       "category": "news",
@@ -518,9 +490,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1369075996,
-      "edition": 143
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 143,
+    "date": 1369075996,
+    "pid": "32752963",
+    "author_uid": "515249",
+    "subject": "[5/19/13] - HF News"
+  }
 }

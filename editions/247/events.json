@@ -22,9 +22,7 @@
           "uid": "651051",
           "username": "Wolves"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "groups",
@@ -36,9 +34,7 @@
           "uid": "1866420",
           "username": "Cibor"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "groups",
@@ -50,9 +46,7 @@
           "uid": "1705027",
           "username": "Business"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "users",
@@ -80,9 +74,7 @@
           "uid": "1870577",
           "username": "Exchange.(services)"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "users",
@@ -94,9 +86,7 @@
           "uid": "2359693",
           "username": "jooglord"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "users",
@@ -124,9 +114,7 @@
           "uid": "2286383",
           "username": "The Dragon of the West"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "users",
@@ -154,9 +142,7 @@
           "uid": "2163589",
           "username": "Hundo"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "users",
@@ -176,9 +162,7 @@
           "uid": "2529154",
           "username": "Tommy"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "threads",
@@ -190,9 +174,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "threads",
@@ -204,9 +186,7 @@
           "uid": "2613410",
           "username": "Truthslayur"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "threads",
@@ -218,9 +198,7 @@
           "uid": "892404",
           "username": "Haydrazs"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "threads",
@@ -232,9 +210,7 @@
           "uid": "1342175",
           "username": "Salty Bacon"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "threads",
@@ -246,9 +222,7 @@
           "uid": "1866420",
           "username": "Cibor"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "interviews",
@@ -260,17 +234,13 @@
           "uid": "204984",
           "username": "Buzz Lightyear"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: airpaws's setup was featured.",
       "description": "airpaws's battlestation was featured this week.",
-      "url": "https://imgur.com/a/LSz6o",
-      "date": 1436241680,
-      "edition": 247
+      "url": "https://imgur.com/a/LSz6o"
     },
     {
       "category": "news",
@@ -473,9 +443,14 @@
           "username": "-Nas",
           "role": "Task Manager"
         }
-      ],
-      "date": 1436241680,
-      "edition": 247
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 247,
+    "date": 1436241680,
+    "pid": "46907326",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 247"
+  }
 }

@@ -5,27 +5,21 @@
       "title": "Instagram MyCode",
       "description": "Omniscient added a new Instagram MyCode tag to Hack Forums, allowing users to embed Instagram posts directly into forum posts.",
       "url": "http://hackforums.net/showthread.php?tid=5232199",
-      "users": [],
-      "date": 1460464865,
-      "edition": 287
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group leadership changes",
       "description": "Eyesome is now a leader of Eternal. Errors is now a leader of Eternal. NeoCode is now a leader of Minecrafters. Bull™ is no longer a leader of Nightmare. iHydra is no longer a leader of Red Lions & Minecrafters. YoungThug. is no longer a leader of Eternal.",
       "url": "",
-      "users": [],
-      "date": 1460464865,
-      "edition": 287
+      "users": []
     },
     {
       "category": "groups",
       "title": "Group sales",
       "description": "Null is on sale. Riptide is for sale.",
       "url": "",
-      "users": [],
-      "date": 1460464865,
-      "edition": 287
+      "users": []
     },
     {
       "category": "users",
@@ -49,9 +43,7 @@
           "uid": "1697764",
           "username": "Redwall"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
@@ -67,9 +59,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
@@ -89,9 +79,7 @@
           "uid": "2426788",
           "username": "Vos."
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
@@ -115,9 +103,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
@@ -137,9 +123,7 @@
           "uid": "1413125",
           "username": "Shockley"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
@@ -171,9 +155,7 @@
           "uid": "2426788",
           "username": "Vos."
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
@@ -201,9 +183,7 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -215,9 +195,7 @@
           "uid": "3017782",
           "username": "TheEntrepreneur"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -229,9 +207,7 @@
           "uid": "1221196",
           "username": "King Cin"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -243,9 +219,7 @@
           "uid": "182754",
           "username": "Orgy"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -257,9 +231,7 @@
           "uid": "1961000",
           "username": "Zexo"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -271,9 +243,7 @@
           "uid": "1813061",
           "username": "Stazzy"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -285,9 +255,7 @@
           "uid": "2033319",
           "username": "♋ Goat ♋"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -299,9 +267,7 @@
           "uid": "1093501",
           "username": "Roger Waters"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -313,9 +279,7 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "threads",
@@ -327,25 +291,19 @@
           "uid": "1610871",
           "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: tbSWEGGY's setup was featured.",
       "description": "tbSWEGGY's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1460464865,
-      "edition": 287
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: xPriddy's setup was featured.",
       "description": "xPriddy's battlestation from reddit was featured.",
-      "url": "",
-      "date": 1460464865,
-      "edition": 287
+      "url": ""
     },
     {
       "category": "news",
@@ -473,9 +431,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1460464865,
-      "edition": 287
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 287,
+    "date": 1460464865,
+    "pid": "50536063",
+    "author_uid": "2577525",
+    "subject": "Hack Forums News // Edition 287"
+  }
 }

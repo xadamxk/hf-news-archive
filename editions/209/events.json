@@ -14,9 +14,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "users",
@@ -76,9 +70,7 @@
           "uid": "752857",
           "username": "benzi"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "groups",
@@ -94,9 +86,7 @@
           "uid": "934881",
           "username": "Aceman"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "interviews",
@@ -112,9 +102,7 @@
           "uid": "992989",
           "username": "Frostix"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "interviews",
@@ -130,9 +118,7 @@
           "uid": "1453009",
           "username": "Raptor."
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     },
     {
       "category": "news",
@@ -295,9 +281,14 @@
           "username": "Yellows",
           "role": "Overseer"
         }
-      ],
-      "date": 1413257065,
-      "edition": 209
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 209,
+    "date": 1413257065,
+    "pid": "42834087",
+    "author_uid": "515249",
+    "subject": "HF News - 209"
+  }
 }

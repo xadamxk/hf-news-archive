@@ -10,17 +10,13 @@
           "username": "AsSaSs@iN",
           "uid": "70909"
         }
-      ],
-      "date": 1278319507,
-      "edition": 8
+      ]
     },
     {
       "category": "site",
       "title": "Signature of the Week (SoTW) in introduced in Graphics section.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=157",
-      "date": 1278319507,
-      "edition": 8
+      "url": "http://hackforums.net/forumdisplay.php?fid=157"
     },
     {
       "category": "site",
@@ -36,9 +32,7 @@
           "username": "Skill",
           "uid": "65581"
         }
-      ],
-      "date": 1278319507,
-      "edition": 8
+      ]
     },
     {
       "category": "news",
@@ -50,9 +44,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1278319507,
-      "edition": 8
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 8,
+    "date": 1278319507,
+    "pid": "4960428",
+    "author_uid": "74244",
+    "subject": "HF News [Minor edition] [6/26 - 7/3]"
+  }
 }

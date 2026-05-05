@@ -10,9 +10,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "site",
@@ -52,9 +46,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "users",
@@ -86,9 +78,7 @@
           "uid": "632426",
           "username": "+Awesome"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "users",
@@ -116,9 +106,7 @@
           "uid": "1397332",
           "username": "eWhоre"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "users",
@@ -154,9 +142,7 @@
           "uid": "566671",
           "username": "Panda"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "users",
@@ -180,9 +166,7 @@
           "uid": "1764087",
           "username": "pǝǝɹפ"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "users",
@@ -198,9 +182,7 @@
           "uid": "1644378",
           "username": "JABanking"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "groups",
@@ -212,9 +194,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "interviews",
@@ -230,9 +210,7 @@
           "uid": "632426",
           "username": "+Awesome"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "interviews",
@@ -248,9 +226,7 @@
           "uid": "117245",
           "username": "Phenomenal"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "interviews",
@@ -266,9 +242,7 @@
           "uid": "879232",
           "username": "Saturn"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     },
     {
       "category": "news",
@@ -351,9 +325,14 @@
           "username": "D3xus",
           "role": "Proofreader"
         }
-      ],
-      "date": 1386134625,
-      "edition": 171
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 171,
+    "date": 1386134625,
+    "pid": "36733685",
+    "author_uid": "515249",
+    "subject": "[12/2/13] - HF News"
+  }
 }

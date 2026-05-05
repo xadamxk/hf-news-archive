@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "23809",
           "username": "Viral Dragon"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "users",
@@ -56,9 +50,7 @@
           "uid": "1011943",
           "username": "-Elision- ★"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "users",
@@ -142,9 +134,7 @@
           "uid": "561331",
           "username": "D4rKn3s5"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "users",
@@ -172,9 +162,7 @@
           "uid": "2206",
           "username": "Crying"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "users",
@@ -186,9 +174,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "groups",
@@ -204,9 +190,7 @@
           "uid": "827711",
           "username": "D3xus"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "groups",
@@ -222,9 +206,7 @@
           "uid": "4066",
           "username": "Judge Dredd"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "threads",
@@ -236,9 +218,7 @@
           "uid": "677529",
           "username": "Αnonymous"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "threads",
@@ -250,9 +230,7 @@
           "uid": "1958081",
           "username": "Justin Timberlake"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "threads",
@@ -264,9 +242,7 @@
           "uid": "869934",
           "username": "Ethereal."
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "interviews",
@@ -282,9 +258,7 @@
           "uid": "382745",
           "username": "Kn1gh7"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "interviews",
@@ -300,9 +274,7 @@
           "uid": "1869260",
           "username": "Wizard"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "interviews",
@@ -318,9 +290,7 @@
           "uid": "1583274",
           "username": "Sox"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     },
     {
       "category": "news",
@@ -428,9 +398,14 @@
           "username": "Lovol",
           "role": "Proofreader"
         }
-      ],
-      "date": 1399160826,
-      "edition": 192
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 192,
+    "date": 1399160826,
+    "pid": "39874335",
+    "author_uid": "515249",
+    "subject": "HF News - 192"
+  }
 }

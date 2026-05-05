@@ -4,9 +4,7 @@
       "category": "groups",
       "title": "The Alliance was dismantled and its members removed; the new Null usergroup focused on security took...",
       "description": "The Alliance was dismantled and its members removed; the new Null usergroup focused on security took its place, led by T3h Hacker, Vinnie, and Soccer.",
-      "url": "http://hackforums.net/showthread.php?tid=4025378",
-      "date": 1391659464,
-      "edition": 180
+      "url": "http://hackforums.net/showthread.php?tid=4025378"
     },
     {
       "category": "site",
@@ -18,9 +16,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "users",
@@ -36,9 +32,7 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "users",
@@ -66,9 +60,7 @@
           "uid": "96230",
           "username": "Panik"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "users",
@@ -100,9 +92,7 @@
           "uid": "1165235",
           "username": "Kaph"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "users",
@@ -122,9 +112,7 @@
           "uid": "900087",
           "username": "Starstruck"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "users",
@@ -140,9 +128,7 @@
           "uid": "1492504",
           "username": "Devil Driver"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "users",
@@ -162,9 +148,7 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "groups",
@@ -196,9 +180,7 @@
           "uid": "1108178",
           "username": "Remorsal"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "interviews",
@@ -214,9 +196,7 @@
           "uid": "787112",
           "username": "Saturday"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "interviews",
@@ -232,9 +212,7 @@
           "uid": "875895",
           "username": "Haste"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "interviews",
@@ -250,9 +228,7 @@
           "uid": "1726101",
           "username": "Understalker"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     },
     {
       "category": "news",
@@ -335,9 +311,14 @@
           "username": "Package",
           "role": "Proofreader"
         }
-      ],
-      "date": 1391659464,
-      "edition": 180
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 180,
+    "date": 1391659464,
+    "pid": "38162110",
+    "author_uid": "515249",
+    "subject": "HF News - 180"
+  }
 }

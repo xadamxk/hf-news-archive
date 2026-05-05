@@ -14,9 +14,7 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "site",
@@ -28,9 +26,7 @@
           "uid": "1320406",
           "username": "Froggy"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "site",
@@ -42,9 +38,7 @@
           "uid": "175033",
           "username": "Xerotic"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "users",
@@ -88,9 +82,7 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "users",
@@ -174,9 +166,7 @@
           "uid": "121843",
           "username": "Spoderman"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "users",
@@ -204,17 +194,13 @@
           "uid": "1492625",
           "username": "xVulnerable"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "site",
       "title": "OMCWallet.com finally went offline after its hosting expired, ending the long-since-hacked online...",
       "description": "OMCWallet.com finally went offline after its hosting expired, ending the long-since-hacked online wallet that had caused user confusion and coin losses.",
-      "url": "http://hackforums.net/showthread.php?tid=4366601",
-      "date": 1409168155,
-      "edition": 206
+      "url": "http://hackforums.net/showthread.php?tid=4366601"
     },
     {
       "category": "threads",
@@ -226,9 +212,7 @@
           "uid": "1495835",
           "username": "Aurа"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "threads",
@@ -240,9 +224,7 @@
           "uid": "2289853",
           "username": "KyoZ"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "threads",
@@ -254,9 +236,7 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "interviews",
@@ -272,9 +252,7 @@
           "uid": "1412810",
           "username": "Jay"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "interviews",
@@ -290,9 +268,7 @@
           "uid": "1055259",
           "username": "Soccer"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     },
     {
       "category": "news",
@@ -435,9 +411,14 @@
           "username": "adampelletgun",
           "role": "Reserve Writer"
         }
-      ],
-      "date": 1409168155,
-      "edition": 206
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 206,
+    "date": 1409168155,
+    "pid": "42077792",
+    "author_uid": "515249",
+    "subject": "HF News - 206"
+  }
 }

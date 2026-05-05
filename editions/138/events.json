@@ -16,9 +16,7 @@
         {
           "username": "AsSaSs@iN"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "groups",
@@ -34,9 +32,7 @@
           "uid": "1452467",
           "username": "Morchid"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "site",
@@ -48,9 +44,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "site",
@@ -62,9 +56,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "users",
@@ -108,9 +100,7 @@
           "uid": "1049662",
           "username": "redpois0n"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "users",
@@ -154,9 +144,7 @@
           "uid": "801804",
           "username": "BloodDrain"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "users",
@@ -188,9 +176,7 @@
           "uid": "1232842",
           "username": "#Skyline"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "threads",
@@ -202,9 +188,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "threads",
@@ -216,9 +200,7 @@
           "uid": "1474343",
           "username": "Umbreon"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "threads",
@@ -230,9 +212,7 @@
           "uid": "1759684",
           "username": "OSIRIS Security"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "interviews",
@@ -248,9 +228,7 @@
           "uid": "1315784",
           "username": "Miki"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "interviews",
@@ -266,17 +244,13 @@
           "uid": "482888",
           "username": "mad"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     },
     {
       "category": "groups",
       "title": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for...",
       "description": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for the winner and $10 each for two runner-ups.",
-      "url": "http://hackforums.net/showthread.php?tid=3400010",
-      "date": 1366002426,
-      "edition": 138
+      "url": "http://hackforums.net/showthread.php?tid=3400010"
     },
     {
       "category": "news",
@@ -344,9 +318,14 @@
           "username": "Retribute",
           "role": "Proofreader"
         }
-      ],
-      "date": 1366002426,
-      "edition": 138
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 138,
+    "date": 1366002426,
+    "pid": "31980894",
+    "author_uid": "515249",
+    "subject": "[4/14/13] - HF News"
+  }
 }

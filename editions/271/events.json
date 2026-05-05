@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "site",
@@ -24,9 +22,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "users",
@@ -50,9 +46,7 @@
           "uid": "1320379",
           "username": "Squidward"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "users",
@@ -64,9 +58,7 @@
           "uid": "2710498",
           "username": "YungTrigz"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "users",
@@ -90,9 +82,7 @@
           "uid": "1612332",
           "username": "Dan Smith"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "users",
@@ -108,9 +98,7 @@
           "uid": "471395",
           "username": "Stevage"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "users",
@@ -162,9 +150,7 @@
           "uid": "2349826",
           "username": "Formant"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -176,9 +162,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -190,9 +174,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -204,9 +186,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -218,9 +198,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -232,9 +210,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -246,9 +222,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -260,9 +234,7 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -274,9 +246,7 @@
           "uid": "218524",
           "username": "Support™"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -288,9 +258,7 @@
           "uid": "1238642",
           "username": "Maximum"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -302,9 +270,7 @@
           "uid": "2195809",
           "username": "Socrates"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -316,9 +282,7 @@
           "uid": "1450348",
           "username": "Walt Disney™"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "threads",
@@ -330,9 +294,7 @@
           "uid": "7744",
           "username": "Peter L"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "groups",
@@ -348,9 +310,7 @@
           "uid": "1243825",
           "username": "Razor"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "groups",
@@ -382,25 +342,19 @@
           "uid": "1327245",
           "username": "zSerity"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     },
     {
       "category": "users",
       "title": "Battlestation of the week: RedLeeder's setup was featured.",
       "description": "RedLeeder is a Reddit user.",
-      "url": "",
-      "date": 1450768452,
-      "edition": 271
+      "url": ""
     },
     {
       "category": "users",
       "title": "Battlestation of the week: AndresAwesome's setup was featured.",
       "description": "AndresAwesome is a Reddit user.",
-      "url": "",
-      "date": 1450768452,
-      "edition": 271
+      "url": ""
     },
     {
       "category": "news",
@@ -583,9 +537,14 @@
           "username": "Froggy",
           "role": "Supervisor"
         }
-      ],
-      "date": 1450768452,
-      "edition": 271
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 271,
+    "date": 1450768452,
+    "pid": "49066622",
+    "author_uid": "561239",
+    "subject": "HF News // Edition 271 --- WINTER EDITION"
+  }
 }

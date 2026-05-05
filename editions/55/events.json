@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "site",
@@ -24,41 +22,31 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "site",
       "title": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups...",
       "description": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups works.",
-      "url": "",
-      "date": 1313809945,
-      "edition": 55
+      "url": ""
     },
     {
       "category": "site",
       "title": "The thread rating system was disabled forum-wide as it was found not useful.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1616863",
-      "date": 1313809945,
-      "edition": 55
+      "url": "http://hackforums.net/showthread.php?tid=1616863"
     },
     {
       "category": "site",
       "title": "CloudFlare services are now being tested on HackForums to help thwart larger DDoS attacks.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1602484",
-      "date": 1313809945,
-      "edition": 55
+      "url": "http://hackforums.net/showthread.php?tid=1602484"
     },
     {
       "category": "site",
       "title": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50...",
       "description": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50 posts; minimum post length lowered from 50 to 40 characters.",
-      "url": "",
-      "date": 1313809945,
-      "edition": 55
+      "url": ""
     },
     {
       "category": "users",
@@ -70,9 +58,7 @@
           "uid": "100071",
           "username": "cobija"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -84,9 +70,7 @@
           "username": "Oldies",
           "uid": "133256"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "groups",
@@ -102,17 +86,13 @@
           "username": "Amp™",
           "uid": "496906"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "groups",
       "title": "Three official groups are now recruiting: Red Lions, Black Knights, and Reverence.",
       "description": "",
-      "url": "",
-      "date": 1313809945,
-      "edition": 55
+      "url": ""
     },
     {
       "category": "users",
@@ -128,9 +108,7 @@
           "uid": "120522",
           "username": "Volenar"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -146,9 +124,7 @@
           "username": "тнє Jσкєя",
           "uid": "729921"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -160,9 +136,7 @@
           "uid": "657392",
           "username": "Astonish is NJ"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -178,9 +152,7 @@
           "uid": "515249",
           "username": "Sir"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -196,9 +168,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -210,9 +180,7 @@
           "username": "Boots",
           "uid": "465769"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -224,9 +192,7 @@
           "username": "«MammoTh™",
           "uid": "572367"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -238,9 +204,7 @@
           "uid": "323740",
           "username": "Positive"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "users",
@@ -252,9 +216,7 @@
           "username": "n4z1",
           "uid": "580204"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "interviews",
@@ -269,9 +231,7 @@
         {
           "username": "Valiant"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "interviews",
@@ -287,9 +247,7 @@
           "uid": "120522",
           "username": "Volenar"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     },
     {
       "category": "news",
@@ -392,9 +350,14 @@
           "username": "DaL33T",
           "role": "Editor-in-Chief"
         }
-      ],
-      "date": 1313809945,
-      "edition": 55
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 55,
+    "date": 1313809945,
+    "pid": "14848387",
+    "author_uid": "0",
+    "subject": "[8/19/11] - HF News"
+  }
 }

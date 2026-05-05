@@ -22,9 +22,7 @@
           "uid": "559352",
           "username": "Castle Bravo"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "groups",
@@ -44,9 +42,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "groups",
@@ -66,9 +62,7 @@
           "uid": "1452467",
           "username": "Morchid"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "site",
@@ -80,9 +74,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "users",
@@ -102,9 +94,7 @@
           "uid": "115612",
           "username": "-BoodyE-"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "users",
@@ -160,9 +150,7 @@
           "uid": "900087",
           "username": "Starstruck"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "users",
@@ -226,9 +214,7 @@
           "uid": "141275",
           "username": "aiir"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "users",
@@ -256,9 +242,7 @@
           "uid": "1050193",
           "username": "Connected"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "groups",
@@ -286,9 +270,7 @@
           "uid": "1452467",
           "username": "Morchid"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "threads",
@@ -300,9 +282,7 @@
           "uid": "1695165",
           "username": "nacho"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "threads",
@@ -314,9 +294,7 @@
           "uid": "1341017",
           "username": "Plaтiпuм"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "threads",
@@ -328,9 +306,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "interviews",
@@ -346,9 +322,7 @@
           "uid": "330445",
           "username": "ManDoR"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "interviews",
@@ -364,9 +338,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     },
     {
       "category": "news",
@@ -424,9 +396,14 @@
           "username": "+Awesome",
           "role": "Graphical Editor"
         }
-      ],
-      "date": 1362979355,
-      "edition": 133
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 133,
+    "date": 1362979355,
+    "pid": "31156204",
+    "author_uid": "515249",
+    "subject": "[3/10/13] - HF News"
+  }
 }

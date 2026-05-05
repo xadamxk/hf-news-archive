@@ -10,9 +10,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "site",
@@ -24,17 +22,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "groups",
       "title": "Rhythm and Graphic Masters both began recruiting, looking for members with particular talent in thei...",
       "description": "Rhythm and Graphic Masters both began recruiting, looking for members with particular talent in their respective subjects.",
-      "url": "http://hackforums.net/showthread.php?tid=2684648",
-      "date": 1342917908,
-      "edition": 101
+      "url": "http://hackforums.net/showthread.php?tid=2684648"
     },
     {
       "category": "users",
@@ -46,9 +40,7 @@
           "uid": "657392",
           "username": "Astonish"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -60,9 +52,7 @@
           "uid": "361543",
           "username": "Scooter"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -74,9 +64,7 @@
           "uid": "1222901",
           "username": "The Master™"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -88,9 +76,7 @@
           "uid": "1135141",
           "username": "єиιgмα"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -102,9 +88,7 @@
           "uid": "1220739",
           "username": "deadlyicedragon"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -116,9 +100,7 @@
           "uid": "1302707",
           "username": "SuperToad"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -130,9 +112,7 @@
           "uid": "682899",
           "username": "Bassline"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "users",
@@ -160,9 +140,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "interviews",
@@ -178,9 +156,7 @@
           "uid": "195796",
           "username": "phybeя"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "interviews",
@@ -196,9 +172,7 @@
           "uid": "1172544",
           "username": "Cody"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     },
     {
       "category": "news",
@@ -271,9 +245,14 @@
           "username": "PyroStorm",
           "role": "Proofreader"
         }
-      ],
-      "date": 1342917908,
-      "edition": 101
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 101,
+    "date": 1342917908,
+    "pid": "24705554",
+    "author_uid": "515249",
+    "subject": "[7/21/12] - HF News"
+  }
 }

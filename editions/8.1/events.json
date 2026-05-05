@@ -10,25 +10,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1279084150,
-      "edition": 8.1
+      ]
     },
     {
       "category": "site",
       "title": "VPN Hosting and Services section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=171",
-      "date": 1279084150,
-      "edition": 8.1
+      "url": "http://hackforums.net/forumdisplay.php?fid=171"
     },
     {
       "category": "site",
       "title": "Website Showcase and Reviews section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=172",
-      "date": 1279084150,
-      "edition": 8.1
+      "url": "http://hackforums.net/forumdisplay.php?fid=172"
     },
     {
       "category": "site",
@@ -40,9 +34,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1279084150,
-      "edition": 8.1
+      ]
     },
     {
       "category": "news",
@@ -54,9 +46,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1279084150,
-      "edition": 8.1
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 8.1,
+    "date": 1279084150,
+    "pid": "5136767",
+    "author_uid": "74244",
+    "subject": "HF News [7/4-7/11] [late] [COMMENT]"
+  }
 }

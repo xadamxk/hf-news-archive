@@ -4,9 +4,7 @@
       "category": "site",
       "title": "Contests section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=155",
-      "date": 1274536387,
-      "edition": 2
+      "url": "http://hackforums.net/forumdisplay.php?fid=155"
     },
     {
       "category": "users",
@@ -18,9 +16,7 @@
           "username": "--([-S7N-])--",
           "uid": "110893"
         }
-      ],
-      "date": 1274536387,
-      "edition": 2
+      ]
     },
     {
       "category": "site",
@@ -32,9 +28,7 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1274536387,
-      "edition": 2
+      ]
     },
     {
       "category": "site",
@@ -46,17 +40,13 @@
           "username": "Omniscient",
           "uid": "1"
         }
-      ],
-      "date": 1274536387,
-      "edition": 2
+      ]
     },
     {
       "category": "site",
       "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
       "description": "",
-      "url": "",
-      "date": 1274536387,
-      "edition": 2
+      "url": ""
     },
     {
       "category": "threads",
@@ -68,9 +58,7 @@
           "username": "Delphinum",
           "uid": null
         }
-      ],
-      "date": 1274536387,
-      "edition": 2
+      ]
     },
     {
       "category": "users",
@@ -82,9 +70,7 @@
           "username": "Psyk",
           "uid": "52160"
         }
-      ],
-      "date": 1274536387,
-      "edition": 2
+      ]
     },
     {
       "category": "news",
@@ -96,9 +82,14 @@
           "username": "Yin",
           "uid": "74244"
         }
-      ],
-      "date": 1274536387,
-      "edition": 2
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 2,
+    "date": 1274536387,
+    "pid": "4167667",
+    "author_uid": "74244",
+    "subject": "HF News Week (5/16-5/23) [COMMENT]"
+  }
 }

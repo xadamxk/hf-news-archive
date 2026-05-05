@@ -10,9 +10,7 @@
           "uid": "801804",
           "username": "iScythe++"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "groups",
@@ -24,9 +22,7 @@
           "uid": "431105",
           "username": "Tɦɛ Gʀiɱ"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "site",
@@ -38,9 +34,7 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "users",
@@ -64,9 +58,7 @@
           "uid": "183072",
           "username": "Mr Kewl"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "users",
@@ -98,9 +90,7 @@
           "uid": "1049666",
           "username": "ShibbX8"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "users",
@@ -124,9 +114,7 @@
           "uid": "101228",
           "username": "Tate"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "users",
@@ -142,9 +130,7 @@
           "uid": "1452467",
           "username": "Morchid"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "threads",
@@ -156,9 +142,7 @@
           "uid": "651337",
           "username": "Tibit"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "threads",
@@ -170,9 +154,7 @@
           "uid": "654446",
           "username": "javaPro"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "interviews",
@@ -188,9 +170,7 @@
           "uid": "789677",
           "username": "Grin"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "interviews",
@@ -206,9 +186,7 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     },
     {
       "category": "news",
@@ -271,9 +249,14 @@
           "role": "Proofreader",
           "uid": "763021"
         }
-      ],
-      "date": 1354597725,
-      "edition": 120
+      ]
     }
-  ]
+  ],
+  "edition": {
+    "number": 120,
+    "date": 1354597725,
+    "pid": "28584639",
+    "author_uid": "515249",
+    "subject": "[12/2/12] - HF News"
+  }
 }
