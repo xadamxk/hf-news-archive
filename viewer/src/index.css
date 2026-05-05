@@ -543,6 +543,36 @@ input[type="search"] {
   opacity: 0.85;
 }
 
+.pagination-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  padding: 0.65rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.pagination-summary {
+  font-size: 0.9rem;
+  color: var(--muted);
+  min-width: 8rem;
+  text-align: center;
+}
+
+.pagination-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pagination-bar--bottom {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
 .feed {
   display: flex;
   flex-direction: column;

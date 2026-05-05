@@ -18,6 +18,8 @@ type DateFilterMode = "off" | "before" | "after" | "between";
 const DATE_FILTER_MIN = new Date(2000, 0, 1);
 const DATE_FILTER_MAX = new Date(2040, 11, 31);
 
+const PAGE_SIZE = 100;
+
 const datePickerDropdownProps = {
   showMonthDropdown: true,
   showYearDropdown: true,
@@ -207,6 +209,53 @@ function eventStableKey(ev: CompactEvent): string {
   return `${ev.s}:${ev.e}:${ev.c}:${ev.t}`;
 }
 
+function PaginationBar({
+  variant,
+  pageClamped,
+  totalPages,
+  onPrev,
+  onNext,
+}: {
+  variant: "top" | "bottom";
+  pageClamped: number;
+  totalPages: number;
+  onPrev: () => void;
+  onNext: () => void;
+}) {
+  const atStart = pageClamped <= 0;
+  const atEnd = pageClamped >= totalPages - 1;
+  return (
+    <nav
+      className={`pagination-bar${variant === "bottom" ? " pagination-bar--bottom" : ""}`}
+      aria-label={variant === "bottom" ? "Results pages, end of list" : "Results pages"}
+    >
+      <button
+        type="button"
+        className="btn-text pagination-btn"
+        disabled={atStart}
+        aria-disabled={atStart}
+        aria-label="Previous page"
+        onClick={() => startTransition(onPrev)}
+      >
+        Previous
+      </button>
+      <span className="pagination-summary" aria-live="polite">
+        Page {pageClamped + 1} of {totalPages}
+      </span>
+      <button
+        type="button"
+        className="btn-text pagination-btn"
+        disabled={atEnd}
+        aria-disabled={atEnd}
+        aria-label="Next page"
+        onClick={() => startTransition(onNext)}
+      >
+        Next
+      </button>
+    </nav>
+  );
+}
+
 const EventCard = memo(function EventCard({
   ev,
   userHighlight,
@@ -287,6 +336,13 @@ export default function App() {
   const [dateFilterA, setDateFilterA] = useState("");
   const [dateFilterB, setDateFilterB] = useState("");
   const [sortOrder, setSortOrder] = useState<SortOrder>("newest");
+  const [page, setPage] = useState(0);
+  const prevPageClampedRef = useRef<number | null>(null);
+
+  const selectedCatsSignature = useMemo(
+    () => [...selectedCats].sort().join(","),
+    [selectedCats],
+  );
 
   useEffect(() => {
     let cancelled = false;
@@ -388,6 +444,43 @@ export default function App() {
     });
     return arr;
   }, [filtered, sortOrder]);
+
+  useEffect(() => {
+    setPage(0);
+  }, [
+    deferredQ,
+    deferredUserQ,
+    selectedCatsSignature,
+    dateFilterMode,
+    dateFilterA,
+    dateFilterB,
+    sortOrder,
+  ]);
+
+  const totalFiltered = displayEvents.length;
+  const totalPages =
+    totalFiltered === 0 ? 1 : Math.ceil(totalFiltered / PAGE_SIZE);
+  const pageClamped = Math.min(page, Math.max(0, totalPages - 1));
+  const visibleEvents = useMemo(() => {
+    const start = pageClamped * PAGE_SIZE;
+    return displayEvents.slice(start, start + PAGE_SIZE);
+  }, [displayEvents, pageClamped]);
+
+  useEffect(() => {
+    if (prevPageClampedRef.current === null) {
+      prevPageClampedRef.current = pageClamped;
+      return;
+    }
+    if (prevPageClampedRef.current !== pageClamped) {
+      prevPageClampedRef.current = pageClamped;
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  }, [pageClamped]);
+
+  const showPagination =
+    totalFiltered > 0 && totalFiltered > PAGE_SIZE;
+  const rangeStart = totalFiltered === 0 ? 0 : pageClamped * PAGE_SIZE + 1;
+  const rangeEnd = Math.min(totalFiltered, (pageClamped + 1) * PAGE_SIZE);
 
   /** Normalized user filter for highlighting (matches deferred filter used in the list). */
   const userHighlight = useMemo(() => deferredUserQ.trim().toLowerCase(), [deferredUserQ]);
@@ -682,7 +775,22 @@ export default function App() {
           </div>
         </div>
         <div className="meta">
-          Showing <strong style={{ color: "var(--text)" }}>{displayEvents.length}</strong> of {raw.n}
+          {totalFiltered > PAGE_SIZE ? (
+            <>
+              Showing{" "}
+              <strong style={{ color: "var(--text)" }}>
+                {rangeStart}–{rangeEnd}
+              </strong>{" "}
+              of{" "}
+              <strong style={{ color: "var(--text)" }}>{totalFiltered}</strong> matching ·{" "}
+              <strong style={{ color: "var(--text)" }}>{raw.n}</strong> total
+            </>
+          ) : (
+            <>
+              Showing{" "}
+              <strong style={{ color: "var(--text)" }}>{totalFiltered}</strong> of {raw.n}
+            </>
+          )}
           {(deferredQ !== q || deferredUserQ !== userQ) && (
             <span className="meta-deferred" aria-live="polite">
               {" "}
@@ -692,8 +800,20 @@ export default function App() {
         </div>
       </section>
 
+      {showPagination ? (
+        <PaginationBar
+          variant="top"
+          pageClamped={pageClamped}
+          totalPages={totalPages}
+          onPrev={() => setPage((p) => Math.max(0, p - 1))}
+          onNext={() =>
+            setPage((p) => Math.min(totalPages - 1, p + 1))
+          }
+        />
+      ) : null}
+
       <div className="feed">
-        {displayEvents.map((ev) => (
+        {visibleEvents.map((ev) => (
           <EventCard
             key={eventStableKey(ev)}
             ev={ev}
@@ -702,6 +822,18 @@ export default function App() {
           />
         ))}
       </div>
+
+      {showPagination ? (
+        <PaginationBar
+          variant="bottom"
+          pageClamped={pageClamped}
+          totalPages={totalPages}
+          onPrev={() => setPage((p) => Math.max(0, p - 1))}
+          onNext={() =>
+            setPage((p) => Math.min(totalPages - 1, p + 1))
+          }
+        />
+      ) : null}
 
       <footer className="site-footer">
         <p className="meta">
