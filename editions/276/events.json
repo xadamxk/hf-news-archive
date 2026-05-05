@@ -6,7 +6,10 @@
       "description": "Following the Morchid account-sale incident, IP changes now automatically log users out to prevent buyers of sold accounts from abusing session cookies.",
       "url": "http://hackforums.net/showthread.php?tid=5144968",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -17,7 +20,10 @@
       "description": "The change came after Morchid's actions as a staff member. Only full staff and admins may now move threads.",
       "url": "http://hackforums.net/showthread.php?tid=5145608",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -28,8 +34,14 @@
       "description": "Icy induced Ghost Rider to send Bitcoin funds and then did not honor the deal. !Glitch separately contacted Omniscient before purchasing Axiom legitimately.",
       "url": "http://hackforums.net/showthread.php?tid=5147812",
       "users": [
-        { "uid": "1718571", "username": "Icy" },
-        { "uid": "2074566", "username": "Ghost Rider" }
+        {
+          "uid": "1718571",
+          "username": "Icy"
+        },
+        {
+          "uid": "2074566",
+          "username": "Ghost Rider"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -40,10 +52,22 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "2194640", "username": "Nex+" },
-        { "uid": "2308322", "username": "Autocorrect" },
-        { "uid": "63387", "username": "Black Shadow" },
-        { "uid": "431105", "username": "Tɦɛ Gʀiɱ" }
+        {
+          "uid": "2194640",
+          "username": "Nex+"
+        },
+        {
+          "uid": "2308322",
+          "username": "Autocorrect"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        },
+        {
+          "uid": "431105",
+          "username": "Tɦɛ Gʀiɱ"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -54,8 +78,14 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "992020", "username": "King of Hearts" },
-        { "uid": "1093501", "username": "Roger Waters" }
+        {
+          "uid": "992020",
+          "username": "King of Hearts"
+        },
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -66,9 +96,18 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "1845059", "username": "Trenchguns" },
-        { "uid": "2561132", "username": "Fʀᴀɴᴋɪᴇ" },
-        { "uid": "2377407", "username": "ĸondaх" }
+        {
+          "uid": "1845059",
+          "username": "Trenchguns"
+        },
+        {
+          "uid": "2561132",
+          "username": "Fʀᴀɴᴋɪᴇ"
+        },
+        {
+          "uid": "2377407",
+          "username": "ĸondaх"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -79,9 +118,18 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "857042", "username": "PATEL" },
-        { "uid": "1480634", "username": "Xepher The Cat" },
-        { "uid": "1420194", "username": "CyberneticTitan" }
+        {
+          "uid": "857042",
+          "username": "PATEL"
+        },
+        {
+          "uid": "1480634",
+          "username": "Xepher The Cat"
+        },
+        {
+          "uid": "1420194",
+          "username": "CyberneticTitan"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -92,8 +140,14 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "1743548", "username": "Excah" },
-        { "uid": "934881", "username": "Aceman" }
+        {
+          "uid": "1743548",
+          "username": "Excah"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -104,9 +158,18 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "1845059", "username": "Trenchguns" },
-        { "uid": "2377407", "username": "ĸondaх" },
-        { "uid": "934881", "username": "Aceman" }
+        {
+          "uid": "1845059",
+          "username": "Trenchguns"
+        },
+        {
+          "uid": "2377407",
+          "username": "ĸondaх"
+        },
+        {
+          "uid": "934881",
+          "username": "Aceman"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -117,9 +180,18 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "1466467", "username": "Isidar" },
-        { "uid": "63387", "username": "Black Shadow" },
-        { "uid": "1107374", "username": "Doxicity" }
+        {
+          "uid": "1466467",
+          "username": "Isidar"
+        },
+        {
+          "uid": "63387",
+          "username": "Black Shadow"
+        },
+        {
+          "uid": "1107374",
+          "username": "Doxicity"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -130,7 +202,10 @@
       "description": "Oxyde's thread noting that BBCode can now be embedded in Pastebin format; Omniscient confirmed this in the thread.",
       "url": "http://hackforums.net/showthread.php?tid=5140546&pid=49509570#pid49509570",
       "users": [
-        { "uid": "2936771", "username": "Oxyde" }
+        {
+          "uid": "2936771",
+          "username": "Oxyde"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -141,7 +216,10 @@
       "description": "Omniscient closed all non-upgraded accounts inactive over 6 months and upgraded accounts inactive over a year, to prevent scammers from purchasing old accounts.",
       "url": "http://hackforums.net/showthread.php?tid=5138454",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -152,7 +230,10 @@
       "description": "Omniscient notified the community of countermeasures taken to deal with Morchid's account-sale abuse.",
       "url": "http://hackforums.net/showthread.php?tid=5144388",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -163,7 +244,10 @@
       "description": "Omniscient further addressed the aftermath of Morchid's abuse and how the site was repaired.",
       "url": "http://hackforums.net/showthread.php?tid=5144819",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -174,7 +258,10 @@
       "description": "Fiber was selected to lead the HackerCraft revival and is recruiting volunteers.",
       "url": "http://hackforums.net/showthread.php?tid=5137296",
       "users": [
-        { "uid": "1185212", "username": "Fiber" }
+        {
+          "uid": "1185212",
+          "username": "Fiber"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -185,7 +272,10 @@
       "description": "A thread for members to share their battlestations; also an invitation to submit to the HF News battlestation section.",
       "url": "http://hackforums.net/showthread.php?tid=5144991",
       "users": [
-        { "uid": "1110588", "username": ".Virtue" }
+        {
+          "uid": "1110588",
+          "username": ".Virtue"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -196,7 +286,10 @@
       "description": "A political discussion thread about Hillary Clinton.",
       "url": "http://hackforums.net/showthread.php?tid=5143618",
       "users": [
-        { "uid": "910913", "username": "Intelligent Sin" }
+        {
+          "uid": "910913",
+          "username": "Intelligent Sin"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -207,7 +300,10 @@
       "description": "zSerity's multi-prize contest on WriteWave.",
       "url": "http://hackforums.net/showthread.php?tid=5138000",
       "users": [
-        { "uid": "1327245", "username": "zSerity" }
+        {
+          "uid": "1327245",
+          "username": "zSerity"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -218,7 +314,10 @@
       "description": "Zefox's giveaway with over $2,000 worth of prizes.",
       "url": "http://hackforums.net/showthread.php?tid=5141496",
       "users": [
-        { "uid": "2999186", "username": "Zefox" }
+        {
+          "uid": "2999186",
+          "username": "Zefox"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -229,7 +328,10 @@
       "description": "Effexion shares his personal experience with heroin as a cautionary tale.",
       "url": "http://hackforums.net/showthread.php?tid=5144436",
       "users": [
-        { "uid": "229769", "username": "Effexion" }
+        {
+          "uid": "229769",
+          "username": "Effexion"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -240,7 +342,10 @@
       "description": "Flacko Jodye shares a video of getting a bee high on marijuana.",
       "url": "http://hackforums.net/showthread.php?tid=5145754",
       "users": [
-        { "uid": "2790629", "username": "Flacko Jodye" }
+        {
+          "uid": "2790629",
+          "username": "Flacko Jodye"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -251,7 +356,10 @@
       "description": "!Glitch contacted Omniscient before proceeding with the purchase to ensure legitimacy after Icy's scam attempt using the same group.",
       "url": "",
       "users": [
-        { "uid": "55709", "username": "!Glitch" }
+        {
+          "uid": "55709",
+          "username": "!Glitch"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -262,7 +370,10 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "1469364", "username": "Young Prada" }
+        {
+          "uid": "1469364",
+          "username": "Young Prada"
+        }
       ],
       "date": 1453872440,
       "edition": 276
@@ -289,38 +400,141 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "2015410", "username": "MeshCollider", "role": "Scholar" },
-        { "uid": "1453009", "username": "Raptor.", "role": "Scholar" },
-        { "uid": "2504443", "username": "reve4 neeuQ", "role": "Scholar" },
-        { "uid": "610356", "username": "Wires", "role": "Scholar" },
-        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
-        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (User News)" },
-        { "uid": "1754121", "username": "Grievous", "role": "Journalist (Notable Threads)" },
-        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
-        { "uid": "952566", "username": "Armada", "role": "Interviewer" },
-        { "uid": "525019", "username": "illuminati", "role": "Interviewer" },
-        { "uid": "1957866", "username": "Enterpriser", "role": "Interviewer" },
-        { "uid": "1148878", "username": "Clique", "role": "Interviewer" },
-        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
-        { "uid": "525019", "username": "illuminati▲", "role": "Journalist (Site News)" },
-        { "uid": "2577525", "username": "Hash G.", "role": "Journalist (Site News)" },
-        { "uid": "610356", "username": "Wires", "role": "Journalist (Hacking News)" },
-        { "uid": "1422600", "username": "Fox™", "role": "Journalist (Hacking News)" },
-        { "uid": "1696750", "username": "Harbo5", "role": "Journalist (Security News)" },
-        { "uid": "2384610", "username": "Limit.", "role": "Journalist (Gaming News)" },
-        { "uid": "2364291", "username": "Buffy Summers", "role": "Journalist (Gaming News)" },
-        { "uid": "1356937", "username": "Аngel", "role": "Journalist (Tech News)" },
-        { "uid": "1730460", "username": "Gladly", "role": "Journalist (Tech News)" },
-        { "uid": "1352632", "username": "Phreakdaline", "role": "Journalist (World News)" },
-        { "uid": "610356", "username": "Wires", "role": "Journalist (Comics)" },
-        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
-        { "uid": "610356", "username": "Wires", "role": "On-Call Team" },
-        { "uid": "1221196", "username": "Cin", "role": "On-Call Team" },
-        { "uid": "1864779", "username": "Redizm", "role": "On-Call Team" },
-        { "uid": "197132", "username": "-Hyperion", "role": "On-Call Team" },
-        { "uid": "85546", "username": "Odus", "role": "On-Call Team" },
-        { "uid": "692131", "username": "Ariana", "role": "On-Call Team" },
-        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+        {
+          "uid": "2015410",
+          "username": "MeshCollider",
+          "role": "Scholar"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "Scholar"
+        },
+        {
+          "uid": "2504443",
+          "username": "reve4 neeuQ",
+          "role": "Scholar"
+        },
+        {
+          "uid": "610356",
+          "username": "Wires",
+          "role": "Scholar / Journalist (Hacking News) / Journalist (Comics) / On-Call Team"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "525019",
+          "username": "illuminati▲",
+          "role": "Journalist (User News) / Interviewer / Journalist (Site News)"
+        },
+        {
+          "uid": "1754121",
+          "username": "Grievous",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "952566",
+          "username": "Armada",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1957866",
+          "username": "Enterpriser",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1148878",
+          "username": "Clique",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "2577525",
+          "username": "Hash G.",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1422600",
+          "username": "Fox™",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1696750",
+          "username": "Harbo5",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "2384610",
+          "username": "Limit.",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "2364291",
+          "username": "Buffy Summers",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1730460",
+          "username": "Gladly",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1352632",
+          "username": "Phreakdaline",
+          "role": "Journalist (World News)"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1221196",
+          "username": "Cin",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1864779",
+          "username": "Redizm",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "197132",
+          "username": "-Hyperion",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "692131",
+          "username": "Ariana",
+          "role": "On-Call Team"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Supervisor"
+        }
       ],
       "date": 1453872440,
       "edition": 276

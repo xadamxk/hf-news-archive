@@ -296,22 +296,22 @@
         {
           "uid": "610356",
           "username": "Wires",
-          "role": "Scholar"
+          "role": "Scholar / Journalist (Hacking News) / On-Call Team supervisor"
         },
         {
           "uid": "712376",
           "username": "Joey",
-          "role": "Scholar"
+          "role": "Scholar / Journalist (Trends)"
         },
         {
           "uid": "85546",
           "username": "Odus",
-          "role": "Journalist (Headlines)"
+          "role": "Journalist (Headlines) / On-Call Team"
         },
         {
           "uid": "525019",
           "username": "illuminati▲",
-          "role": "Journalist (User News)"
+          "role": "Journalist (User News) / Journalist (Site News)"
         },
         {
           "uid": "1446355",
@@ -339,19 +339,9 @@
           "role": "Journalist (Group News)"
         },
         {
-          "uid": "525019",
-          "username": "illuminati▲",
-          "role": "Journalist (Site News)"
-        },
-        {
           "uid": "2577525",
           "username": "Hash G.",
           "role": "Journalist (Site News)"
-        },
-        {
-          "uid": "610356",
-          "username": "Wires",
-          "role": "Journalist (Hacking News)"
         },
         {
           "uid": "1422600",
@@ -379,19 +369,9 @@
           "role": "Journalist (Science News)"
         },
         {
-          "uid": "712376",
-          "username": "Joey",
-          "role": "Journalist (Trends)"
-        },
-        {
           "uid": "2776397",
           "username": "Young Thug",
-          "role": "Journalist (Comics)"
-        },
-        {
-          "uid": "610356",
-          "username": "Wires",
-          "role": "On-Call Team supervisor"
+          "role": "Journalist (Comics) / On-Call Team [TRIAL]"
         },
         {
           "uid": "1221196",
@@ -399,19 +379,9 @@
           "role": "On-Call Team"
         },
         {
-          "uid": "85546",
-          "username": "Odus",
-          "role": "On-Call Team"
-        },
-        {
           "uid": "692131",
           "username": "Ariana",
           "role": "On-Call Team"
-        },
-        {
-          "uid": "2776397",
-          "username": "Young Thug",
-          "role": "On-Call Team [TRIAL]"
         },
         {
           "uid": "1999047",

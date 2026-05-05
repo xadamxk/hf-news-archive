@@ -6,7 +6,10 @@
       "description": "Omniscient posted a final update confirming everything related to the February 10th AllCrypt attack was now resolved. The OMC auction, EP1C upgrades, and OMC awards all resumed.",
       "url": "http://hackforums.net/showthread.php?tid=4679979",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -17,7 +20,10 @@
       "description": "On February 25th Omniscient performed a junk purge and post recount. All posts in the late Phoenix group were also junked, meaning post counts now reflect posts in currently active sections only.",
       "url": "http://hackforums.net/showthread.php?tid=4704587",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -28,8 +34,14 @@
       "description": "On February 27th the new official group Debug was revealed. It was purchased by 'Porygon after Phoenix was deleted. The group focuses on helping HF members learn to code, with a teacher/student structure.",
       "url": "http://hackforums.net/showthread.php?tid=4706637",
       "users": [
-        { "uid": "2041579", "username": "'Porygon" },
-        { "uid": "44755", "username": "'Snorlax" }
+        {
+          "uid": "2041579",
+          "username": "'Porygon"
+        },
+        {
+          "uid": "44755",
+          "username": "'Snorlax"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -40,7 +52,10 @@
       "description": "Member of the Month was officially discontinued. Members were directed to PM Aceman with questions.",
       "url": "http://hackforums.net/showthread.php?tid=4713036",
       "users": [
-        { "uid": "1", "username": "Omniscient" }
+        {
+          "uid": "1",
+          "username": "Omniscient"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -51,7 +66,10 @@
       "description": "After hard work by the team, OMC was added to Cryptsy's coin vote. The move to Cryptsy from AllCrypt was expected to provide greater stability and safety for OMC trading.",
       "url": "http://hackforums.net/showthread.php?tid=4707437",
       "users": [
-        { "uid": "2015410", "username": "ӍeshCollider" }
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -62,11 +80,26 @@
       "description": "Gotal for multiple accounts; A Hack Forums Member (uid 524451) for Group Join Spam; iPhone for blackhat activity; ๖ۣۣۜۜSpecial for threatening members; +Nemesis for financial fraud.",
       "url": "",
       "users": [
-        { "uid": "2597905", "username": "Gotal" },
-        { "uid": "524451", "username": "A Hack Forums Member" },
-        { "uid": "51932", "username": "iPhone" },
-        { "uid": "1307767", "username": "๖ۣۣۜۜSpecial" },
-        { "uid": "1084879", "username": "+Nemesis" }
+        {
+          "uid": "2597905",
+          "username": "Gotal"
+        },
+        {
+          "uid": "524451",
+          "username": "A Hack Forums Member"
+        },
+        {
+          "uid": "51932",
+          "username": "iPhone"
+        },
+        {
+          "uid": "1307767",
+          "username": "๖ۣۣۜۜSpecial"
+        },
+        {
+          "uid": "1084879",
+          "username": "+Nemesis"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -77,12 +110,30 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "1255973", "username": "Zayne" },
-        { "uid": "375185", "username": "causevd" },
-        { "uid": "1698590", "username": "Abide" },
-        { "uid": "382745", "username": "Kn1gh7" },
-        { "uid": "1289548", "username": "Sunlight" },
-        { "uid": "882103", "username": "Mostwanted™" }
+        {
+          "uid": "1255973",
+          "username": "Zayne"
+        },
+        {
+          "uid": "375185",
+          "username": "causevd"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide"
+        },
+        {
+          "uid": "382745",
+          "username": "Kn1gh7"
+        },
+        {
+          "uid": "1289548",
+          "username": "Sunlight"
+        },
+        {
+          "uid": "882103",
+          "username": "Mostwanted™"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -93,9 +144,18 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "2244528", "username": "Simply™" },
-        { "uid": "2300529", "username": "Kouichi" },
-        { "uid": "651337", "username": "Tibit" }
+        {
+          "uid": "2244528",
+          "username": "Simply™"
+        },
+        {
+          "uid": "2300529",
+          "username": "Kouichi"
+        },
+        {
+          "uid": "651337",
+          "username": "Tibit"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -106,12 +166,30 @@
       "description": "Gotal for multiple accounts; iPhone for blackhat activity.",
       "url": "",
       "users": [
-        { "uid": "2244528", "username": "Simply™" },
-        { "uid": "2597905", "username": "Gotal" },
-        { "uid": "2300529", "username": "Kouichi" },
-        { "uid": "2134273", "username": "Krixus" },
-        { "uid": "51932", "username": "iPhone" },
-        { "uid": "1307767", "username": "๖ۣۣۜۜSpecial" }
+        {
+          "uid": "2244528",
+          "username": "Simply™"
+        },
+        {
+          "uid": "2597905",
+          "username": "Gotal"
+        },
+        {
+          "uid": "2300529",
+          "username": "Kouichi"
+        },
+        {
+          "uid": "2134273",
+          "username": "Krixus"
+        },
+        {
+          "uid": "51932",
+          "username": "iPhone"
+        },
+        {
+          "uid": "1307767",
+          "username": "๖ۣۣۜۜSpecial"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -122,7 +200,10 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "579898", "username": "KillαMuvz" }
+        {
+          "uid": "579898",
+          "username": "KillαMuvz"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -133,7 +214,10 @@
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4707955",
       "users": [
-        { "uid": "1763815", "username": "Syrah" }
+        {
+          "uid": "1763815",
+          "username": "Syrah"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -144,7 +228,10 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "892404", "username": "Haydrazs" }
+        {
+          "uid": "892404",
+          "username": "Haydrazs"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -163,7 +250,10 @@
       "description": "Members sharing and browsing each other's rarest items.",
       "url": "http://hackforums.net/showthread.php?tid=4683274",
       "users": [
-        { "uid": "1646525", "username": "Casey" }
+        {
+          "uid": "1646525",
+          "username": "Casey"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -174,7 +264,10 @@
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4707147",
       "users": [
-        { "uid": "1093501", "username": "Roger Waters" }
+        {
+          "uid": "1093501",
+          "username": "Roger Waters"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -185,7 +278,10 @@
       "description": "$0.10 to all L33ts and $0.20 to all Ub3rs.",
       "url": "http://hackforums.net/showthread.php?tid=4702877",
       "users": [
-        { "uid": "777", "username": "Cooligan" }
+        {
+          "uid": "777",
+          "username": "Cooligan"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -196,7 +292,10 @@
       "description": "A photography contest awarding $30 to whoever takes the best pictures.",
       "url": "http://hackforums.net/showthread.php?tid=4704623",
       "users": [
-        { "uid": "2456115", "username": "illustrator" }
+        {
+          "uid": "2456115",
+          "username": "illustrator"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -207,7 +306,10 @@
       "description": "A detailed guide on which programs best remove malicious items.",
       "url": "http://hackforums.net/showthread.php?tid=4687403",
       "users": [
-        { "uid": "2154389", "username": "Orchid" }
+        {
+          "uid": "2154389",
+          "username": "Orchid"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -218,7 +320,10 @@
       "description": "OMC section weekly highlight.",
       "url": "http://hackforums.net/showthread.php?tid=4699467",
       "users": [
-        { "uid": "2262838", "username": "Coniuratio" }
+        {
+          "uid": "2262838",
+          "username": "Coniuratio"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -229,7 +334,10 @@
       "description": "OMC section weekly highlight.",
       "url": "http://hackforums.net/showthread.php?tid=4699530",
       "users": [
-        { "uid": "2208857", "username": "rollerxray7" }
+        {
+          "uid": "2208857",
+          "username": "rollerxray7"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -240,7 +348,10 @@
       "description": "OMC section weekly highlight.",
       "url": "http://hackforums.net/showthread.php?tid=4703908",
       "users": [
-        { "uid": "1328204", "username": "Ryu." }
+        {
+          "uid": "1328204",
+          "username": "Ryu."
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -251,7 +362,10 @@
       "description": "OMC section weekly highlight.",
       "url": "http://hackforums.net/showthread.php?tid=4705399",
       "users": [
-        { "uid": "1256441", "username": "Abraham Lincoln" }
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -262,7 +376,10 @@
       "description": "Spyro The Dragon discussed living in the Nightfall group lounge, his positive impressions of the new Debug group, joining HF through a friend who was getting free Netflix accounts, making over £1,000 e-whoring one summer, and playing snooker at least 3 times a week.",
       "url": "https://hackforums.net/showthread.php?pid=45085999",
       "users": [
-        { "uid": "1743726", "username": "Spyro The Dragon" }
+        {
+          "uid": "1743726",
+          "username": "Spyro The Dragon"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -273,7 +390,10 @@
       "description": "illustrator discussed starting photography at age 13, receiving a Sony A35 DSLR for his 16th birthday, being in The Brotherhood, Echo, and Fortune, wanting to intern at sporting events or weddings after high school, and a close call with police while doing graffiti that ended in teen court.",
       "url": "https://hackforums.net/showthread.php?pid=45085999",
       "users": [
-        { "uid": "2456115", "username": "illustrator" }
+        {
+          "uid": "2456115",
+          "username": "illustrator"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -284,7 +404,10 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "2506556", "username": "✧Jay" }
+        {
+          "uid": "2506556",
+          "username": "✧Jay"
+        }
       ],
       "date": 1425444020,
       "edition": 229
@@ -295,48 +418,211 @@
       "description": "",
       "url": "",
       "users": [
-        { "uid": "2173791", "username": "Wind Waker", "role": "1st Editor" },
-        { "uid": "96230", "username": "Panik", "role": "2nd Editor" },
-        { "uid": "1453009", "username": "Raptor.", "role": "3rd Editor" },
-        { "uid": "2015410", "username": "ӍeshCollider", "role": "4th Editor" },
-        { "uid": "370475", "username": "Vegas", "role": "5th Editor" },
-        { "uid": "44755", "username": "Snorlax'", "role": "1st Compiler" },
-        { "uid": "1544384", "username": "Niklaus", "role": "2nd Compiler" },
-        { "uid": "1422600", "username": "Swirled", "role": "3rd Compiler" },
-        { "uid": "85546", "username": "Odus", "role": "4th Compiler" },
-        { "uid": "777", "username": "Cooligan", "role": "Journalist (Headlines)" },
-        { "uid": "1108450", "username": "Baghead", "role": "Journalist (Podcast)" },
-        { "uid": "1172544", "username": "Cody", "role": "Journalist (User News)" },
-        { "uid": "797403", "username": "630", "role": "Journalist (User News)" },
-        { "uid": "2154389", "username": "Orchid", "role": "Journalist (Notable Threads)" },
-        { "uid": "1343812", "username": "Realizm", "role": "Journalist (Notable Threads)" },
-        { "uid": "827711", "username": "D3xus", "role": "Interviewer" },
-        { "uid": "2214473", "username": ".Sinister", "role": "Interviewer" },
-        { "uid": "1958081", "username": "Justin Timberlake", "role": "Interviewer" },
-        { "uid": "1014629", "username": "Astute", "role": "Interviewer" },
-        { "uid": "515249", "username": "Sir", "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits" },
-        { "uid": "992067", "username": "Nobility", "role": "Journalist (Group News)" },
-        { "uid": "1595524", "username": "Venture Capital", "role": "Journalist (Group News)" },
-        { "uid": "1088934", "username": "Crypto™", "role": "Journalist (Omnicoin News)" },
-        { "uid": "1256441", "username": "Abraham Lincoln", "role": "Journalist (Omnicoin News)" },
-        { "uid": "1079277", "username": "Harlem", "role": "Journalist (Site News)" },
-        { "uid": "1469364", "username": "Prada‌", "role": "Journalist (Site News)" },
-        { "uid": "1173142", "username": "Goodies", "role": "Journalist (Hacking News)" },
-        { "uid": "1356937", "username": "Red Sоx", "role": "Journalist (Hacking News)" },
-        { "uid": "91531", "username": "ven0m", "role": "Journalist (Security News)" },
-        { "uid": "46411", "username": "zer0-", "role": "Journalist (Security News)" },
-        { "uid": "981500", "username": "Premortal", "role": "Journalist (Gaming News)" },
-        { "uid": "2282311", "username": "Virule", "role": "Journalist (Gaming News)" },
-        { "uid": "649674", "username": "Eternal.", "role": "Journalist (Tech News)" },
-        { "uid": "1698590", "username": "Abide", "role": "Journalist (Tech News)" },
-        { "uid": "1138866", "username": "Rivalry", "role": "Art Gallery / Comics / Graphical Artist" },
-        { "uid": "1290620", "username": "Designer", "role": "Graphical Artist" },
-        { "uid": "1775114", "username": "Greed.", "role": "Graphical Artist" },
-        { "uid": "1944390", "username": "Skylar™", "role": "Graphical Artist" },
-        { "uid": "47360", "username": "Archon Sin", "role": "Reserve Writer" },
-        { "uid": "1356937", "username": "Аngel", "role": "Reserve Writer" },
-        { "uid": "561239", "username": "iHydra", "role": "Task Manager" },
-        { "uid": "1320406", "username": "Froggy", "role": "Supervisor" }
+        {
+          "uid": "2173791",
+          "username": "Wind Waker",
+          "role": "1st Editor"
+        },
+        {
+          "uid": "96230",
+          "username": "Panik",
+          "role": "2nd Editor"
+        },
+        {
+          "uid": "1453009",
+          "username": "Raptor.",
+          "role": "3rd Editor"
+        },
+        {
+          "uid": "2015410",
+          "username": "ӍeshCollider",
+          "role": "4th Editor"
+        },
+        {
+          "uid": "370475",
+          "username": "Vegas",
+          "role": "5th Editor"
+        },
+        {
+          "uid": "44755",
+          "username": "Snorlax'",
+          "role": "1st Compiler"
+        },
+        {
+          "uid": "1544384",
+          "username": "Niklaus",
+          "role": "2nd Compiler"
+        },
+        {
+          "uid": "1422600",
+          "username": "Swirled",
+          "role": "3rd Compiler"
+        },
+        {
+          "uid": "85546",
+          "username": "Odus",
+          "role": "4th Compiler"
+        },
+        {
+          "uid": "777",
+          "username": "Cooligan",
+          "role": "Journalist (Headlines)"
+        },
+        {
+          "uid": "1108450",
+          "username": "Baghead",
+          "role": "Journalist (Podcast)"
+        },
+        {
+          "uid": "1172544",
+          "username": "Cody",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "797403",
+          "username": "630",
+          "role": "Journalist (User News)"
+        },
+        {
+          "uid": "2154389",
+          "username": "Orchid",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "1343812",
+          "username": "Realizm",
+          "role": "Journalist (Notable Threads)"
+        },
+        {
+          "uid": "827711",
+          "username": "D3xus",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1958081",
+          "username": "Justin Timberlake",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "1014629",
+          "username": "Astute",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "HFN Support / Team's Time / Sir's Second / Battlestations / Credits"
+        },
+        {
+          "uid": "992067",
+          "username": "Nobility",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1595524",
+          "username": "Venture Capital",
+          "role": "Journalist (Group News)"
+        },
+        {
+          "uid": "1088934",
+          "username": "Crypto™",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1256441",
+          "username": "Abraham Lincoln",
+          "role": "Journalist (Omnicoin News)"
+        },
+        {
+          "uid": "1079277",
+          "username": "Harlem",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1469364",
+          "username": "Prada‌",
+          "role": "Journalist (Site News)"
+        },
+        {
+          "uid": "1173142",
+          "username": "Goodies",
+          "role": "Journalist (Hacking News)"
+        },
+        {
+          "uid": "1356937",
+          "username": "Аngel",
+          "role": "Journalist (Hacking News) / Reserve Writer"
+        },
+        {
+          "uid": "91531",
+          "username": "ven0m",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "46411",
+          "username": "zer0-",
+          "role": "Journalist (Security News)"
+        },
+        {
+          "uid": "981500",
+          "username": "Premortal",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "2282311",
+          "username": "Virule",
+          "role": "Journalist (Gaming News)"
+        },
+        {
+          "uid": "649674",
+          "username": "Eternal.",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1698590",
+          "username": "Abide",
+          "role": "Journalist (Tech News)"
+        },
+        {
+          "uid": "1138866",
+          "username": "Rivalry",
+          "role": "Art Gallery / Comics / Graphical Artist"
+        },
+        {
+          "uid": "1290620",
+          "username": "Designer",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1775114",
+          "username": "Greed.",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "1944390",
+          "username": "Skylar™",
+          "role": "Graphical Artist"
+        },
+        {
+          "uid": "47360",
+          "username": "Archon Sin",
+          "role": "Reserve Writer"
+        },
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "Task Manager"
+        },
+        {
+          "uid": "1320406",
+          "username": "Froggy",
+          "role": "Supervisor"
+        }
       ],
       "date": 1425444020,
       "edition": 229
