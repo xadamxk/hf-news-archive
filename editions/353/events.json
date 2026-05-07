@@ -1,0 +1,247 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Notifications To Be Implemented",
+            "description": "Omniscient has announced that he intends to implement notifcations properly onto the site. Giving credit to this thread for realizing the change needed to happen, Omniscient has already laying out a plan to see this much wanted feature into fruition.",
+            "url": "https://hackforums.net/showthread.php?tid=5675353",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "From Zero to Hero",
+            "description": "The gates of the marketplace have finally been opened to newly opened accounts after Omniscient reduced the required reputation to post from one to zero.",
+            "url": "https://hackforums.net/showthread.php?tid=5675443",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "A New Smile For Your Profile",
+            "description": "The following profile rules have been removed: 1) No religious, nationality, or political expression in your profile 2) No image rotation or scripts images (ip grabber) for your avatar or signature 3) No advertising of NFA (Non-Free Account) threads, sales, or services in your profile",
+            "url": "https://hackforums.net/showthread.php?tid=5675449",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Post to PM Allowed Now",
+            "description": "Omniscient has removed the rule dissallowing users to require a post before the item or service was sent via private message",
+            "url": "http://hackforums.net/showthread.php?tid=5675446",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "New Meme Forum Added",
+            "description": "A new section has been added, Meme Shit Meme, or the MSM section with the sole purpose of meme-ing. The section requires all threads to be meme oriented with anything else being closed or junked. low-quality posting (LQP) rules do not apply in this section.",
+            "url": "http://hackforums.net/showthread.php?tid=5675385",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Hack Forums Wiki - Recruiting Journalists/ #2.",
+            "url": "http://hackforums.net/showthread.php?tid=5641020",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Bromo-DragonFLY has reached 5,000 posts; Japanese has reached 24,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2446418",
+                    "username": "Bromo-DragonFLY"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Concussive was banned for 6 months; ⍵olf and shooky were banned for one year; Mr. Reviewer was banned for one month; Fade‌ was banned for one week.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3134358",
+                    "username": "Concussive"
+                },
+                {
+                    "uid": "2010382",
+                    "username": "⍵olf"
+                },
+                {
+                    "uid": "1269135",
+                    "username": "shooky"
+                },
+                {
+                    "uid": "3553985",
+                    "username": "Mr. Reviewer"
+                },
+                {
+                    "uid": "1716927",
+                    "username": "Fade‌"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Bull™ has taken a 2 week vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1844212",
+                    "username": "Bull™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "896173",
+                    "username": "Scarlet"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "xadamxk has received the Green Clover award being his 3rd and final clover; Mittens has received the Cuddly and Cute award; Mesh Collider has received the Diamond award for the 'invaluable assistance [they] provided for the API.'; Riyu' donated for the Master Donator award; Steve received the Fox award; Leroy Jethro Gibbs has received the Drunk award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "924862",
+                    "username": "Mittens"
+                },
+                {
+                    "uid": "3129680",
+                    "username": "Riyu'"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "1512695",
+                    "username": "Leroy Jethro Gibbs"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "L33T + API = AWESOME",
+            "description": "Omniscient have just enabled HF API v1 access for L33T, UB3R, and R3KT members. He states that this should greatly encourage the usage of the API to further incorporate and inspire app development.",
+            "url": "http://hackforums.net/showthread.php?tid=5673293",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My 7 Years on HF",
+            "description": "A seven year old member presenting their feedback regarding their positive experiences here on Hack Forums.",
+            "url": "http://hackforums.net/showthread.php?tid=5674499",
+            "users": [
+                {
+                    "uid": "493661",
+                    "username": "NTFS"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Riyu' conducted by bοxxy.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "Riyu'"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Group News / User News)"
+                },
+                {
+                    "uid": "3283060",
+                    "username": "ᏙictorҮ",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Memo)"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News / Hacking News)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics)"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 353,
+        "date": 1501104608,
+        "pid": "55446968",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 353"
+    }
+}
