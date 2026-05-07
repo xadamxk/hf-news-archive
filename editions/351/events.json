@@ -1,0 +1,314 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "API discussions regarding using base64 for images",
+            "description": "Highlighted in the opener alongside an otherwise light headline week for site stories.",
+            "url": "http://hackforums.net/showthread.php?tid=5666513",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "A new group, Polyzen, has made its debut this week. 'Fox is the owner of the group with iHydra as the leader. >>see thread",
+            "url": "",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                },
+                {
+                    "uid": "2041579",
+                    "username": "'Fox"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Hack Forums Wiki - Recruiting Journalists/ #2.",
+            "url": "http://hackforums.net/showthread.php?tid=5641020",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Coder1 has reached 1,000 posts; netpulse has reached 1,000 posts; Fortunate has reached 5,000 posts; Froggy has reached 5,000 posts; Chief. has reached 10,000 low quality posts; 'Riyu has reached 10,000 posts, again; SlyCoyote has reached 1,000 positive reputation; FamousHater has reached 4,000 positive reputation; Shutdown has reached 1,000 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3332775",
+                    "username": "Coder1"
+                },
+                {
+                    "uid": "2657050",
+                    "username": "netpulse"
+                },
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                },
+                {
+                    "uid": "458073",
+                    "username": "Chief."
+                },
+                {
+                    "uid": "3129680",
+                    "username": "'Riyu"
+                },
+                {
+                    "uid": "1349466",
+                    "username": "SlyCoyote"
+                },
+                {
+                    "uid": "2360425",
+                    "username": "FamousHater"
+                },
+                {
+                    "uid": "1536004",
+                    "username": "Shutdown"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "spooky hacker was banned, for LQP; Holdstrom was banned, pending closure; Fluff- was banned for reputation abuse; Mons was banned for reputation abuse; php was banned for PM spamming; others just normal bans.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2582112",
+                    "username": "spooky hacker"
+                },
+                {
+                    "uid": "3391639",
+                    "username": "Holdstrom"
+                },
+                {
+                    "uid": "2180835",
+                    "username": "Fluff-"
+                },
+                {
+                    "uid": "2193596",
+                    "username": "Mons"
+                },
+                {
+                    "uid": "2569034",
+                    "username": "DIGITΛL"
+                },
+                {
+                    "uid": "3610428",
+                    "username": "Freakyy"
+                },
+                {
+                    "uid": "1482707",
+                    "username": "gucci bear"
+                },
+                {
+                    "uid": "3396018",
+                    "username": "Pronouncer"
+                },
+                {
+                    "uid": "113705",
+                    "username": "php"
+                },
+                {
+                    "uid": "2975563",
+                    "username": "LoRdVagrant"
+                },
+                {
+                    "uid": "2356707",
+                    "username": "SkullCandyy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3070972",
+                    "username": "Banadmin"
+                },
+                {
+                    "uid": "2682347",
+                    "username": "Caliban"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3573927",
+                    "username": "X X X X"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3391639",
+                    "username": "Holdstrom"
+                },
+                {
+                    "uid": "2193596",
+                    "username": "Mons"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "'Fox reveived the Fox award; Mr. Reviewer received the Genius award for this thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5664016",
+            "users": [
+                {
+                    "uid": "2041579",
+                    "username": "'Fox"
+                },
+                {
+                    "uid": "3553985",
+                    "username": "Mr. Reviewer"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF API v1 Beta",
+            "description": "Omniscient has announced the official release for the beta of the first version of Hack Forums API.",
+            "url": "http://hackforums.net/showthread.php?tid=5662721",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "API v2 Roadmap",
+            "description": "The upcoming changes for API v2 has been planned. Further suggestions and ideas will be needed from the community to improve the API for Hack Forums.",
+            "url": "http://hackforums.net/showthread.php?tid=5663026",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Tax information for Cryptocurrency (United States)",
+            "description": "Great thread with knowledgeable responses about taxes on cryptocurrencies.",
+            "url": "http://hackforums.net/showthread.php?tid=5663991",
+            "users": [
+                {
+                    "uid": "2172949",
+                    "username": "Eagerkid"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Crypto Currency is Dead, Long Live Crypto Assets",
+            "description": "Omni explains his opinions on the market of crypto currencies and why this term should now be updated to \"crypto assets\".",
+            "url": "http://hackforums.net/showthread.php?tid=5664055",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Excavated conducted by Enterpriser.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3402022",
+                    "username": "Excavated"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Headlines / Memo)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "3283060",
+                    "username": "ᏙictorҮ",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "1393336",
+                    "username": "Cyaddd",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News / Hacking News)"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 351,
+        "date": 1499919682,
+        "pid": "55335832",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 351"
+    }
+}

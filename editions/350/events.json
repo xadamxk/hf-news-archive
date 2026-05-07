@@ -36,7 +36,7 @@
         {
             "category": "users",
             "title": "Reputation and posts milestones",
-            "description": "Vitani's Mate. reached highest forum reputation (4500+); Formula1 reached 1,000 positive reputation; bdawn 1,000 posts; Mr. Robot 24,000 posts.",
+            "description": "Vitani's Mate. reached highest forum reputation at 4500+; Formula1 reached 1,000 positive reputation; bdawn 1,000 posts; Mr. Robot 24,000 posts.",
             "url": "",
             "users": [
                 {
@@ -60,7 +60,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "Bans including Lisk, Kanami (competing site), JumpMan23Shop, HaloMCC...., Black Shadow (pending closure), and several reputation-abuse bans.",
+            "description": "Kanami was banned for advertising a competing site; Black Shadow was banned, pending closure; DIGITΛL, GUCCI, Recep Ivedik, ImportedGoods, Egregious, Naruto, Thornzzz were banned for reputation abuse.",
             "url": "",
             "users": [
                 {
@@ -216,7 +216,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "#Skyline RAT Expert; zer0 c00l Purple Clover.",
+            "description": "#Skyline received the RAT Expert award; zer0 c00l received the Purple Clover award.",
             "url": "",
             "users": [
                 {
@@ -230,83 +230,14 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation features",
-            "description": "GFX battlestation spotlights in the third post.",
-            "url": "http://hackforums.net/showthread.php?tid=5661726",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features (2)",
-            "description": "Second battlestation spotlight.",
-            "url": "http://hackforums.net/showthread.php?tid=5661523",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Vitani comic strip",
-            "description": "HF-related comic panels in the archived third post.",
-            "url": "",
-            "users": []
-        },
-        {
             "category": "threads",
-            "title": "\"Closing Inactive Accounts\"",
+            "title": "Closing Inactive Accounts",
             "description": "Omniscient ended the inactive-account closure practice and may restore eligible L33T/Ub3r accounts.",
             "url": "http://hackforums.net/showthread.php?tid=5659792",
             "users": [
                 {
                     "uid": "1",
                     "username": "Omniscient"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"[Informational] Patronymic Patterns\"",
-            "description": "Aces. on patronymic patterns and guessing regional origin from surnames.",
-            "url": "http://hackforums.net/showthread.php?tid=5656038",
-            "users": [
-                {
-                    "uid": "1073426",
-                    "username": "Aces."
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"[Consensus] Arbitraging Crypto Currencies\"",
-            "description": "Trappy explains arbitrage mechanics across crypto markets.",
-            "url": "http://hackforums.net/showthread.php?tid=5657686",
-            "users": [
-                {
-                    "uid": "3323516",
-                    "username": "Trappy"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"Coinbase is Shady\"",
-            "description": "Omniscient argues Coinbase trustworthiness and exchange behavior.",
-            "url": "http://hackforums.net/showthread.php?tid=5652639",
-            "users": [
-                {
-                    "uid": "1",
-                    "username": "Omniscient"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"I swear this generation is actually retarded\"",
-            "description": "Humorous Coinbase ID-verification thread by O t t o.",
-            "url": "http://hackforums.net/showthread.php?tid=5656703",
-            "users": [
-                {
-                    "uid": "2591780",
-                    "username": "O t t o"
                 }
             ]
         },
@@ -324,31 +255,7 @@
         },
         {
             "category": "threads",
-            "title": "\"Maxim's 3P1C Upgrade Contest [Part 1]\"",
-            "description": "Weekly EP1C upgrade contest open to all members.",
-            "url": "http://hackforums.net/showthread.php?tid=5659859",
-            "users": [
-                {
-                    "uid": "3077324",
-                    "username": "Maxim"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"[Upgraded members only] 1x $50 BTC & 2x $25 BTC - POST TO ENTER!\"",
-            "description": "DenizZ BTC giveaway for upgraded members.",
-            "url": "http://hackforums.net/showthread.php?tid=5655636",
-            "users": [
-                {
-                    "uid": "3541671",
-                    "username": "DenizZ"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"One Simple Word: BUY\"",
+            "title": "One Simple Word: BUY",
             "description": "Omniscient argues major coins may be at or near a bottom.",
             "url": "http://hackforums.net/showthread.php?tid=5656981",
             "users": [
@@ -379,7 +286,53 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Headlines / Memo)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "3283060",
+                    "username": "ᏙictorҮ",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh",
+                    "role": "Journalist (World News / Science News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News / Hacking News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {
