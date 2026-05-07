@@ -1,0 +1,488 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Poll: Private Message Made Public for Deal Disputes",
+            "description": "Omniscient opened a Rules/Announcements poll on allowing either party to make deal-related PMs public for disputes.",
+            "url": "http://hackforums.net/showthread.php?tid=5358009",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Pokémon GO Has Its Own Section",
+            "description": "After booming traffic in the Pokémon GO subforum, Omni promoted it into its own top-level Gaming tab section following community feedback.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Members Referred Removed from Profile View",
+            "description": "Profiles no longer list referral counts/names — likely saved resources for a seldom-used statistic.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group changes (Illuminati rebranding).",
+            "description": "Bandors purchased Kingpin and rebranded the group Illuminati under new ownership.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1189774",
+                    "username": "Bandors"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment",
+            "description": "Standing HF Wiki Recruitment thread surfaced in HF News recruiting lists.",
+            "url": "http://hackforums.net/showthread.php?tid=5337930",
+            "users": [
+                {
+                    "uid": "2504443",
+                    "username": "Queenie"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Tutelary and Viral Dragon became Illuminati leaders; Epilepsy accepted leadership of The Order.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "341617",
+                    "username": "Tutelary"
+                },
+                {
+                    "uid": "23809",
+                    "username": "Viral Dragon"
+                },
+                {
+                    "uid": "2636436",
+                    "username": "Epilepsy"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Pokemon GO Skype Group",
+            "description": "Group-sponsored Skype coordination promoted via Group Spotlight Threads.",
+            "url": "http://hackforums.net/showthread.php?tid=5355067",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Dark Smile and Steve surpassed 1,000 posts; DamienVC surpassed 10,000 posts; Natha surpassed 15,000 posts; Krave and Happeh surpassed 1,000 positive reputation; Mr. Robot surpassed 2,000 positive reputation; Vitani's Mate totaled one cumulative year online.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "189350",
+                    "username": "Dark Smile"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "2334861",
+                    "username": "DamienVC"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha"
+                },
+                {
+                    "uid": "1165241",
+                    "username": "Krave"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "651773",
+                    "username": "Vitani's Mate"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077364",
+                    "username": "Evolved ®"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Travis Bickle, Niku, Guru, Villezzai, TheChief, and Formula1 took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3026066",
+                    "username": "Travis Bickle"
+                },
+                {
+                    "uid": "2624934",
+                    "username": "Niku"
+                },
+                {
+                    "uid": "2819045",
+                    "username": "Gᴜʀᴜ"
+                },
+                {
+                    "uid": "2608128",
+                    "username": "Villezzai"
+                },
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                },
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Omoi, Silicon Valley, Acceptable, Morrakiu, LilDurk, and Scymo were closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2899518",
+                    "username": "Omoi"
+                },
+                {
+                    "uid": "2969158",
+                    "username": "Silicon Valley"
+                },
+                {
+                    "uid": "3057494",
+                    "username": "Acceptable"
+                },
+                {
+                    "uid": "3123898",
+                    "username": "Morrakiu"
+                },
+                {
+                    "uid": "2723829",
+                    "username": "LilDurk"
+                },
+                {
+                    "uid": "2436938",
+                    "username": "Scymo"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Silicon Valley, Acceptable, Morrakiu, Evolved ®, DumpCake, and Ahri absorbed rep resets/kills disclosed in-news.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2969158",
+                    "username": "Silicon Valley"
+                },
+                {
+                    "uid": "3057494",
+                    "username": "Acceptable"
+                },
+                {
+                    "uid": "3123898",
+                    "username": "Morrakiu"
+                },
+                {
+                    "uid": "3077364",
+                    "username": "Evolved ®"
+                },
+                {
+                    "uid": "2350135",
+                    "username": "DumpCake"
+                },
+                {
+                    "uid": "2031636",
+                    "username": "Ahri"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Xerotic and Steve received Mad Scientist for the prestige-formula thread; Sadistic claimed Turkey HFAlert staff commendation; Monostable555 Grammar Nazi; Regulus Drunk award; H3God had Businessman stripped.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "2860998",
+                    "username": "Sadistic"
+                },
+                {
+                    "uid": "3086450",
+                    "username": "Monostable555"
+                },
+                {
+                    "uid": "1680975",
+                    "username": "Regulus"
+                },
+                {
+                    "uid": "1359715",
+                    "username": "H3God"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Pornographic Anime",
+            "description": "Omniscient reiterated enforcement stance on distributing pornographic anime material.",
+            "url": "http://hackforums.net/showthread.php?tid=5352329",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Subforum or Main Forum?",
+            "description": "Omniscient explained moving Pokémon GO from subforum territory into its own main forum grouping.",
+            "url": "http://hackforums.net/showthread.php?tid=5353901",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Tutorial] All-in-one Thread Design Tutorial",
+            "description": "That Guy Maxim bundled resources/instructions for custom thread layouts.",
+            "url": "http://hackforums.net/showthread.php?tid=5346682",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "That Guy Maxim"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Levi's (kind of) efficient OSRS help desk (skilling, pvp and pvm)",
+            "description": "Levi stood up OSRS mentorship covering skilling/PvP/PvM topics.",
+            "url": "http://hackforums.net/showthread.php?tid=5356533",
+            "users": [
+                {
+                    "uid": "492095",
+                    "username": "Levi"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Ultimate Guide - Anonymity and Security",
+            "description": "Sirental tackled broader anonymity playbook materials for everyday OPSEC posture.",
+            "url": "http://hackforums.net/showthread.php?tid=5355274",
+            "users": [
+                {
+                    "uid": "3198050",
+                    "username": "Sirental"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What award(s) do you want?",
+            "description": "Lrrr asked which HF awards members would nominate for themselves hypothetically.",
+            "url": "http://hackforums.net/showthread.php?tid=5356494",
+            "users": [
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Bandors conducted by Enterpriser.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1189774",
+                    "username": "Bandors"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: sienna II",
+            "description": "GFX spotlight credited to Denitorious.",
+            "url": "http://hackforums.net/showthread.php?tid=5341825",
+            "users": [
+                {
+                    "uid": "1377493",
+                    "username": "Denitorious"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Hockey Logo Concept",
+            "description": "GFX spotlight credited to Branding.",
+            "url": "http://hackforums.net/showthread.php?tid=5361444",
+            "users": [
+                {
+                    "uid": "1900284",
+                    "username": "Branding"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2504443",
+                    "username": "Queenie",
+                    "role": "Scholar"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Scholar / Journalist (Hacking News) / Journalist (Comics) / On-Call Team supervisor"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Scholar / Journalist (Trends)"
+                },
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "Journalist (Headlines) / On-Call Team"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News) / Journalist (Site News)"
+                },
+                {
+                    "uid": "1446355",
+                    "username": "Trust",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer supervisor"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1595524",
+                    "username": "Ventures",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Аngel",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team [TRIAL]"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "On-Call Team [TRIAL]"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 302,
+        "date": 1470259245,
+        "pid": "51950738",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 302"
+    }
+}

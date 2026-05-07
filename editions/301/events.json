@@ -1,0 +1,444 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Rule: Pornographic Anime",
+            "description": "Omniscient clarified a zero-tolerance policy for posting pornographic anime in the Anime Adventure subforum, with offenders facing account closures; details are pinned in-thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5352329",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HackForums Prestige Formula Finally Cracked",
+            "description": "Steve and Xerotic published an in-depth prestige formula breakdown (posts, reputation, time online and other contributing factors).",
+            "url": "http://hackforums.net/showthread.php?tid=5349368",
+            "users": [
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Pokemon Go Bonanza (New Poké Ball award)",
+            "description": "The Pokémon Go subforum surged activity; the randomized Poké Ball award (currently about 1:250 odds) rewarded active posters.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Omniscient's Inactivity",
+            "description": "Members noticed slower upgrades and awards amid Omniscient’s absence; his profile listed him away recovering from illness, with activity ticking up again.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment",
+            "description": "Queenie’s standing Wiki Team recruitment thread for community-facing wiki work.",
+            "url": "http://hackforums.net/showthread.php?tid=5337930",
+            "users": [
+                {
+                    "uid": "2504443",
+                    "username": "Queenie"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Confound joined Apex leadership; Motown and LUCKYMR7 joined Enigma leadership; Bandors stepped down from Enigma; Nysta left Apex leadership; TheChief stepped down from Nightmare leadership.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                },
+                {
+                    "uid": "2867762",
+                    "username": "LUCKYMR7"
+                },
+                {
+                    "uid": "1209782",
+                    "username": "Motown"
+                },
+                {
+                    "uid": "1494170",
+                    "username": "Nysta"
+                },
+                {
+                    "uid": "1189774",
+                    "username": "Bandors"
+                },
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Anyone Remember Archive?",
+            "description": "Group spotlight thread advertised in HF News.",
+            "url": "http://hackforums.net/showthread.php?tid=5344716",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "AXiS reclaimed 1,000 positive reputation; Minimalist crossed 2,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1104007",
+                    "username": "AXiS"
+                },
+                {
+                    "uid": "1915596",
+                    "username": "Minimalist"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "!!* Alone Vampire *!!, Vanilla, dt0x, and CyberGuard were banned; Scymo was banned pending closure.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "370510",
+                    "username": "!!* Alone Vampire *!!"
+                },
+                {
+                    "uid": "1754362",
+                    "username": "Vanilla"
+                },
+                {
+                    "uid": "2360526",
+                    "username": "dt0x"
+                },
+                {
+                    "uid": "2825754",
+                    "username": "CyberGuard"
+                },
+                {
+                    "uid": "2436938",
+                    "username": "Scymo"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Phrog and zSerity logged vacation bans.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1589910",
+                    "username": "Phrog"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "johnathontaylor’s account closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3040379",
+                    "username": "johnathontaylor"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "John Herbert, Vanilla, Enterpriser, dt0x, Scymo, and TheSuspect received rep kills; Miniscule’s reputation score was reset.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1341148",
+                    "username": "John Herbert"
+                },
+                {
+                    "uid": "1754362",
+                    "username": "Vanilla"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                },
+                {
+                    "uid": "2360526",
+                    "username": "dt0x"
+                },
+                {
+                    "uid": "2436938",
+                    "username": "Scymo"
+                },
+                {
+                    "uid": "2781826",
+                    "username": "TheSuspect"
+                },
+                {
+                    "uid": "2008416",
+                    "username": "Miniscule"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "worlockt received the Gold Clover award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2584237",
+                    "username": "worlockt"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "New Marketplace Violation (Multi-Vouching)",
+            "description": "Omniscient added a marketplace moderation note on multi‑vouching rule enforcement.",
+            "url": "http://hackforums.net/showthread.php?tid=5343520",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I'm BV1, Ex Blackshades Admin + Current Convicted Felon - Lets Discuss the Past",
+            "description": "Previously Known As.... opened a Q&A about his past with Blackshades and related legal fallout.",
+            "url": "http://hackforums.net/showthread.php?tid=5347622",
+            "users": [
+                {
+                    "uid": "3183372",
+                    "username": "Previously Known As...."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HACK FORUMS SONG [Work In Progress] - GET YOUR NAME MENTIONED!",
+            "description": "Soonami ran a participatory thread pitching an HF anthem.",
+            "url": "http://hackforums.net/showthread.php?tid=5351040",
+            "users": [
+                {
+                    "uid": "3210805",
+                    "username": "Soonami"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[PRIZE $20 PAYPAL] Story Contest (Max 250 words)",
+            "description": "Pebbles ran a micro-fiction contest awarding PayPal prizes.",
+            "url": "http://hackforums.net/showthread.php?tid=5349501",
+            "users": [
+                {
+                    "uid": "2178666",
+                    "username": "Pebbles"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "RealMafia / FeedBack Thread / 1000th Post",
+            "description": "RealMafia posted a feedback/market-thread milestone marking 1,000 posts.",
+            "url": "http://hackforums.net/showthread.php?tid=5349341",
+            "users": [
+                {
+                    "uid": "2492457",
+                    "username": "RealMafia"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "So... Yeah 1 year online time!",
+            "description": "Vitani's Mate crossed one full year cumulative online.",
+            "url": "http://hackforums.net/showthread.php?tid=5350986",
+            "users": [
+                {
+                    "uid": "651773",
+                    "username": "Vitani's Mate."
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Conor McGregor conducted by Armada.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2761269",
+                    "username": "Conor McGregor"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Self-Portrait Illustration - Night",
+            "description": "GFX spotlight credited to silently loud.",
+            "url": "http://hackforums.net/showthread.php?tid=5349856",
+            "users": [
+                {
+                    "uid": "669174",
+                    "username": "silently loud"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Fart Noises - Illustration",
+            "description": "GFX spotlight credited to #Doge.",
+            "url": "http://hackforums.net/showthread.php?tid=5349502",
+            "users": [
+                {
+                    "uid": "2305968",
+                    "username": "#Doge"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2504443",
+                    "username": "Queenie",
+                    "role": "Scholar"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Scholar / Journalist (Hacking News) / Journalist (Comics) / On-Call Team supervisor"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Scholar / Journalist (Trends)"
+                },
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "Journalist (Headlines) / On-Call Team"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News) / Journalist (Site News)"
+                },
+                {
+                    "uid": "1446355",
+                    "username": "Trust",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer supervisor"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1595524",
+                    "username": "Ventures",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Аngel",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team [TRIAL]"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "On-Call Team [TRIAL]"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 301,
+        "date": 1469602540,
+        "pid": "51834215",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 301"
+    }
+}

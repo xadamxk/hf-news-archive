@@ -1,0 +1,239 @@
+{
+    "events": [
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Saffron is now a leader of Enigma. ๖ۣۜCyber is no longer a leader of Enigma. Motown is no longer a leader of Enigma. Highlighted one Group Spotlight discussion (tid 5379045).",
+            "url": "http://hackforums.net/showthread.php?tid=5379045",
+            "users": [
+                {
+                    "uid": "1103830",
+                    "username": "Saffron"
+                },
+                {
+                    "uid": "2540775",
+                    "username": "๖ۣۜCyber"
+                },
+                {
+                    "uid": "1209782",
+                    "username": "Motown"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Wraith has reached 1,000 posts.; Web Dev has reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1839849",
+                    "username": "Wraith"
+                },
+                {
+                    "uid": "2221376",
+                    "username": "Web Dev"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Jacoobzy was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3082515",
+                    "username": "Jacoobzy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Branding has taken a vacation.; iRead has taken a vacation.; Black Soul has taken a vacation.; D3xus has taken a vacation.; Eagle 95 has taken a vacation.; Antidote has taken a vacation.; Tyrell Wellick has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1900284",
+                    "username": "Branding"
+                },
+                {
+                    "uid": "838184",
+                    "username": "iRead"
+                },
+                {
+                    "uid": "1117229",
+                    "username": "Black Soul"
+                },
+                {
+                    "uid": "827711",
+                    "username": "D3xus"
+                },
+                {
+                    "uid": "129349",
+                    "username": "Eagle 95"
+                },
+                {
+                    "uid": "3072007",
+                    "username": "Antidote"
+                },
+                {
+                    "uid": "2770452",
+                    "username": "Tyrell Wellick"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Inspiring was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2744191",
+                    "username": "Inspiring"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Niveus~ has received the Gold Clover award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2401811",
+                    "username": "Niveus~"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Ultimate Guide to Pokemon Go!",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5338296",
+            "users": [
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "Journalist (Headlines) / On-Call Team"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News) / Journalist (Site News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Hacking News) / Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1446355",
+                    "username": "Trust",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "1595524",
+                    "username": "Ventures",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 305,
+        "date": 1472087151,
+        "pid": "52213680",
+        "author_uid": "1093501",
+        "subject": "Hack Forums News // Edition 305"
+    }
+}

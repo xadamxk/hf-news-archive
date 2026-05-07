@@ -1,0 +1,325 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Paid Whitelisting?",
+            "description": "Omniscient has posted a thread in the Rules, Announcements, News, and Feedback section asking members if they would like to have an option to white list an IP. Omniscient included this could be a VPN IP OR data center. If this came into implementation there would be a small fee of $10 for an example. Previously the data center's configuration where HacKForums is hosted wouldn't allow white listing, but the firewall is being reconfigured and Omniscient claims he will be able to implement this which will also increase the speed when browsing HackForums, preventing Cloudflare captchas and so forth. If you are interested in giving your feedback about this you can view the thread here .",
+            "url": "http://hackforums.net/showthread.php?tid=5366920",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Awards Went on Sale",
+            "description": "Earlier this week Omniscient put certain awards on a 20% sale due to the Bitcoin's that were stolen over at Bitfinex. Omniscient was informing members to \"cut their bitcoin losses\". This deal only went on for a limited time of 3 days. That thread can be viewed here .",
+            "url": "http://hackforums.net/showthread.php?tid=5361641",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Who Soup is no longer a leader of Apex. Highlighted one Group Spotlight discussion (tid 5368975).",
+            "url": "http://hackforums.net/showthread.php?tid=5368975",
+            "users": [
+                {
+                    "uid": "2097293",
+                    "username": "Who Soup"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Prince of all Saiyans has reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "595279",
+                    "username": "Prince of all Saiyans"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Prestige milestones",
+            "description": "Black Shadow has reached 1,000 prestige. You're so cool, not.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "63387",
+                    "username": "Black Shadow"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Gary. has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1700066",
+                    "username": "Gary."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "The Judge was banned.; Squealed was banned, pending closure.; +Nemesis was banned, account under investigation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2905523",
+                    "username": "The Judge"
+                },
+                {
+                    "uid": "2244559",
+                    "username": "Squealed"
+                },
+                {
+                    "uid": "1084879",
+                    "username": "+Nemesis"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "630 has taken a vacation.; Pow has taken a vacation.; 'Remix has taken a vacation. rip.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "797403",
+                    "username": "630"
+                },
+                {
+                    "uid": "2205331",
+                    "username": "Pow"
+                },
+                {
+                    "uid": "2240164",
+                    "username": "'Remix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Miniscule was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2008416",
+                    "username": "Miniscule"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "The Judge was Rep Killed.; Miniscule was Rep Killed.; Cʜᴀsᴇ was Rep Killed, again.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2905523",
+                    "username": "The Judge"
+                },
+                {
+                    "uid": "2008416",
+                    "username": "Miniscule"
+                },
+                {
+                    "uid": "2819045",
+                    "username": "Cʜᴀsᴇ"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Don Vasquez has received the Hustler award.; Confound has received the Genius award.; That Guy Maxim has received the Sticky Man award, for this thread.; Cameron received the Green Apple and Royalty awards.; Mr. Burnham has received the Businessman award.; Ariana has received the Gold Clover award.; DrDoof has received the Gold Clover award.; mark leonardi has received the Hustler , The Alien , and Top Banana awards.; boo5t has received the Cool award.; B ronx has received the Drunk award.; Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️ has received the Drunk award.; Krave has had 5 or 6 of their awards removed, per their request.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3189428",
+                    "username": "Don Vasquez"
+                },
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                },
+                {
+                    "uid": "3077324",
+                    "username": "That Guy Maxim"
+                },
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                },
+                {
+                    "uid": "2518836",
+                    "username": "Mr. Burnham"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana"
+                },
+                {
+                    "uid": "2240993",
+                    "username": "DrDoof"
+                },
+                {
+                    "uid": "2975563",
+                    "username": "mark leonardi"
+                },
+                {
+                    "uid": "265939",
+                    "username": "boo5t"
+                },
+                {
+                    "uid": "1012051",
+                    "username": "B ronx"
+                },
+                {
+                    "uid": "1610871",
+                    "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
+                },
+                {
+                    "uid": "1165241",
+                    "username": "Krave"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Realizm conducted by Clique.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=52044727",
+            "users": [
+                {
+                    "uid": "1343812",
+                    "username": "Realizm"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "Journalist (Headlines) / On-Call Team"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News) / Journalist (Site News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Hacking News) / Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1446355",
+                    "username": "Trust",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "1595524",
+                    "username": "Ventures",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 303,
+        "date": 1470898542,
+        "pid": "52044727",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 303"
+    }
+}
