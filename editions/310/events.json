@@ -1,0 +1,284 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "No Marketplace Threads in GFX Contests",
+            "description": "As a reminder, all marketplace threads should be kept in the Marketplace forum. For graphics, there is a dedicated subforum in the marketplace that users can request or offer their services for money. The GFX Contests subforum is strictly for contests just like how the regular contests subforum is (and giveaways).",
+            "url": "http://hackforums.net/showthread.php?tid=5413804",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": ".Reef is now a leader of Incentive. Baphomet™ is now a leader of Illuminati. LUCKYMR7 is no longer a leader of Incentive. Tutelary is no longer a leader of Illuminati. Nex+ has re-branded Eternal into Incentive.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1087518",
+                    "username": ".Reef"
+                },
+                {
+                    "uid": "3049211",
+                    "username": "Baphomet™"
+                },
+                {
+                    "uid": "2867762",
+                    "username": "LUCKYMR7"
+                },
+                {
+                    "uid": "341617",
+                    "username": "Tutelary"
+                },
+                {
+                    "uid": "2194640",
+                    "username": "Nex+"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Riyu has reached 5,000 posts.; Roger Waters has reached 20,000 posts, again...",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "Riyu"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Tɦɛ Gʀiɱ was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "431105",
+                    "username": "Tɦɛ Gʀiɱ"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Armada has taken a vacation.; Mr. Robot has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "OnTheFly was closed.; Young Thug was closed.; King of Diamonds was closed.; exod was closed.; Rox was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "891268",
+                    "username": "OnTheFly"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug"
+                },
+                {
+                    "uid": "1164025",
+                    "username": "King of Diamonds"
+                },
+                {
+                    "uid": "96732",
+                    "username": "exod"
+                },
+                {
+                    "uid": "3181877",
+                    "username": "Rox"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Vizi was Rep Killed.; OnTheFly was Rep Killed.; Barrier. was Rep Killed.; Young Thug was Rep Killed.; King of Diamonds was Rep Killed.; exod was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3080905",
+                    "username": "Vizi"
+                },
+                {
+                    "uid": "891268",
+                    "username": "OnTheFly"
+                },
+                {
+                    "uid": "2029278",
+                    "username": "Barrier."
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug"
+                },
+                {
+                    "uid": "1164025",
+                    "username": "King of Diamonds"
+                },
+                {
+                    "uid": "96732",
+                    "username": "exod"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Premortal conducted by Clique.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=52576878",
+            "users": [
+                {
+                    "uid": "981500",
+                    "username": "Premortal"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters",
+                    "role": "Support (Backup Publisher)"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 310,
+        "date": 1474952181,
+        "pid": "52576878",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 310"
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "DNSSEC Enabled",
+            "description": "On September the 28th our administrator Omniscient announced that he enabled DNSSEC on Hack Forums. DNSSEC could help prevent certain types of spoofing and poisoning. Members have reacted in a very positive way to this new additional security measure for HF. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5418678",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Computer and technical knowledge on Hack Forums",
+            "description": "A few days ago Omniscient created a thread asking people to rate their computer and technical knowledge from terrible noob to expert. The poll attached to the thread received over 300 votes, with Pretty good and Expert in the lead. Many members still wonder if this is really the truth or if people think they know more then they actually do. >>Source https://i.imgur.com/W4AjjOA.png",
+            "url": "http://hackforums.net/showthread.php?tid=5418710",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "ViewsFromThe6ix is now a leader of Synergy. Chicken Buff is no longer a leader of Illuminati. LUCKYMR7 is no longer a leader of Enigma. There are currently no group changes.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "ViewsFromThe6ix"
+                },
+                {
+                    "uid": "3049211",
+                    "username": "Chicken Buff"
+                },
+                {
+                    "uid": "2867762",
+                    "username": "LUCKYMR7"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "tldr! has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2752008",
+                    "username": "tldr!"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "DoctorSheep has taken a vacation.; Slade has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1844751",
+                    "username": "DoctorSheep"
+                },
+                {
+                    "uid": "2205331",
+                    "username": "Slade"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "LUCKYMR7 was closed.; Chicken Buff was closed.; Spyro The Dragon was closed.; Craze Z was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2867762",
+                    "username": "LUCKYMR7"
+                },
+                {
+                    "uid": "3049211",
+                    "username": "Chicken Buff"
+                },
+                {
+                    "uid": "1743726",
+                    "username": "Spyro The Dragon"
+                },
+                {
+                    "uid": "1216255",
+                    "username": "Craze Z"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "LUCKYMR7 was Rep Killed.; Craze Z was Rep Killed.; Chicken Buff was Rep Killed.; Spyro The Dragon was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2867762",
+                    "username": "LUCKYMR7"
+                },
+                {
+                    "uid": "1216255",
+                    "username": "Craze Z"
+                },
+                {
+                    "uid": "3049211",
+                    "username": "Chicken Buff"
+                },
+                {
+                    "uid": "1743726",
+                    "username": "Spyro The Dragon"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "heartthrob received the Green , Purple , and Gold Clover .; Steve received the Sticky Man award.; Parker received the Sticky Man award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2739889",
+                    "username": "heartthrob"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "2945848",
+                    "username": "Parker"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters",
+                    "role": "Support (Backup Publisher)"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 311,
+        "date": 1475645846,
+        "pid": "52664375",
+        "author_uid": "2947999",
+        "subject": "Hack Forums News // Edition 311"
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Cloudflare update",
+            "description": "On October the 14th our administrator Omniscient announced that he enabled additional Cloudflare features on Hack Forums. These features could help prevent all sorts of advanced DDos attacks. Members have reacted in a very positive way to the new additional security measure for HF despite the fact that many members saw a temporarely banned by Cloudflare message when Omniscient was implementing this change to Hack Forums. >>Source https://i.imgur.com/wYi4ilf.jpg",
+            "url": "http://hackforums.net/showthread.php?tid=5431584",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Mr. Burnham is now a leader of Nightmare. There were no group changes this week.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2518836",
+                    "username": "Mr. Burnham"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "VeloCityMods has reached 5,000 posts.; CodeFuser has reached 1,000 posts.; kpown has reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3106226",
+                    "username": "VeloCityMods"
+                },
+                {
+                    "uid": "3186417",
+                    "username": "CodeFuser"
+                },
+                {
+                    "uid": "2808710",
+                    "username": "kpown"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Vitani has reached 1,000 positive reputation.; Condoms has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "54244",
+                    "username": "Condoms"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Google was banned.; Elijah Mikaelson was banned.; Will Grigg was banned.; The Grim was banned.; Natalie Dormerr was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1799660",
+                    "username": "Google"
+                },
+                {
+                    "uid": "3015892",
+                    "username": "Elijah Mikaelson"
+                },
+                {
+                    "uid": "3116015",
+                    "username": "Will Grigg"
+                },
+                {
+                    "uid": "431105",
+                    "username": "The Grim"
+                },
+                {
+                    "uid": "2384831",
+                    "username": "Natalie Dormerr"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "European Union was closed.; Roger Waters was closed upon request.; Boston was closed.; Matrix Programmer was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3159561",
+                    "username": "European Union"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters"
+                },
+                {
+                    "uid": "2447024",
+                    "username": "Boston"
+                },
+                {
+                    "uid": "2298174",
+                    "username": "Matrix Programmer"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Google was rep killed.; Elijah Mikaelson was rep killed.; Will Grigg was rep killed.; The Grim was rep killed.; Natalie Dormerr was rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1799660",
+                    "username": "Google"
+                },
+                {
+                    "uid": "3015892",
+                    "username": "Elijah Mikaelson"
+                },
+                {
+                    "uid": "3116015",
+                    "username": "Will Grigg"
+                },
+                {
+                    "uid": "431105",
+                    "username": "The Grim"
+                },
+                {
+                    "uid": "2384831",
+                    "username": "Natalie Dormerr"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Excah received a fourth Black Hatter award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1743548",
+                    "username": "Excah"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Romania conducted by zSerity.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=52816889",
+            "users": [
+                {
+                    "uid": "2273342",
+                    "username": "Romania"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1012051",
+                    "username": "Vossen",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 313,
+        "date": 1476845227,
+        "pid": "52816889",
+        "author_uid": "2110841",
+        "subject": "Hack Forums News // Edition 313"
+    }
+}

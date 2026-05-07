@@ -1,0 +1,224 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums. Trademarked or not?",
+            "description": "On October the 22th our administrator Omniscient replied to a thread regarding the question alot of people have been asking themselves for quite some time. Is Hack Forums a registered trademark or not? Omniscient replied to this saying \"We are not a registered trademark with USPTO but that's not required in order to actually have a legal trademark. The same is true for copyright. \". >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5440165",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Nex+ is now a leader of Illuminati. Brusk is now a leader of Null(Notorious). There were no group changes this week.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2194640",
+                    "username": "Nex+"
+                },
+                {
+                    "uid": "2859279",
+                    "username": "Brusk"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "King of Hearts has reached 5,000 posts.; bοxxy has reached 25,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Vitani has reached 1,000 positive reputation.; Devοur has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "1568351",
+                    "username": "Devοur"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "ParadiseDealz was banned.; Nikk‍i took a vacation ban.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3095679",
+                    "username": "ParadiseDealz"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Nikk‍i"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Max P™ was closed.; SYLDD was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3256619",
+                    "username": "Max P™"
+                },
+                {
+                    "uid": "389405",
+                    "username": "SYLDD"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Max P™ was rep killed.; SYLDD was rep killed.; ParadiseDealz was rep killed.; Craze Products was rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3256619",
+                    "username": "Max P™"
+                },
+                {
+                    "uid": "389405",
+                    "username": "SYLDD"
+                },
+                {
+                    "uid": "3095679",
+                    "username": "ParadiseDealz"
+                },
+                {
+                    "uid": "3051660",
+                    "username": "Craze Products"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Top Hat And Monocle. is a Great thinker .; Mr. Robot received the Purple Clover award.; Secret Agent received the Purple Clover award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "438034",
+                    "username": "Top Hat And Monocle."
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "1398948",
+                    "username": "Secret Agent"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Cyber Security Logo Design",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5419428",
+            "users": [
+                {
+                    "uid": "1098418",
+                    "username": "TheInspiredOne"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Bitcoin Poster",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5442533",
+            "users": [
+                {
+                    "uid": "3100104",
+                    "username": "Vlone"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1012051",
+                    "username": "Vossen",
+                    "role": "Journalist (Notable Threads) / On-Call Team"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Headlines) / Journalist (User News) / Journalist (Group News) / Journalist (Site News) / Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 314,
+        "date": 1477280806,
+        "pid": "52870550",
+        "author_uid": "662802",
+        "subject": "Hack Forums News // Edition 3.14159"
+    }
+}

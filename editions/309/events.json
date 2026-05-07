@@ -1,0 +1,235 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums under maintenance",
+            "description": "On September the 18th our administrator Omniscient announced that he was working on a server which was causing HF to crash multiple times this past week. After a good few hours of researching what was causing the crashes Omniscient discovered that the recent crashes were probably due to a broken SSD drive in the RAID configuration. In the upcoming few days this is most likely going to be fixed by the hosting company.",
+            "url": "http://hackforums.net/showthread.php?tid=5409220",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "New Prestige requirement in Counter Strike forum",
+            "description": "Two days ago Omniscient announced that members are now required to have atleast 25 prestige to post in the Counter Strike forum. This new requirement was added in an attempt to reduce the amount of trolling and LQ posts. If you're upgraded into L33T or UB3R (not 3P1C) this requirement is bypassed. >>Source http://i.imgur.com/W4AjjOA.png",
+            "url": "http://hackforums.net/showthread.php?tid=5408230",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Mino is no longer a leader of Nightmare.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3123642",
+                    "username": "Mino"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Jason has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2623266",
+                    "username": "Jason"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Linux™ has taken a vacation.; Sakuto has taken a vacation.; Verdict has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1768521",
+                    "username": "Linux™"
+                },
+                {
+                    "uid": "695943",
+                    "username": "Sakuto"
+                },
+                {
+                    "uid": "2282793",
+                    "username": "Verdict"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Ventriloquism was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2265387",
+                    "username": "Ventriloquism"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Linux™ was Rep Killed.; Skilo was Rep Killed.; Ventriloquism was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1768521",
+                    "username": "Linux™"
+                },
+                {
+                    "uid": "2073436",
+                    "username": "Skilo"
+                },
+                {
+                    "uid": "2265387",
+                    "username": "Ventriloquism"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "RYDIOO has received the Sticky Man award for this thread.; MeshCollider has received the following awards again; Sticky Man , Genius , & Great Thinker .",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2848947",
+                    "username": "RYDIOO"
+                },
+                {
+                    "uid": "2015410",
+                    "username": "MeshCollider"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters",
+                    "role": "Support (Backup Publisher)"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 309,
+        "date": 1474328046,
+        "pid": "52499041",
+        "author_uid": "610356",
+        "subject": "Hack Forums News // Edition 309"
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HTTPS Support Added",
+            "description": "On October 4th Omniscient made the changes for HF to be served with HTTPS as opposed to HTTP which was what served HF before. This was done in an effort to make HF more secure by using the HTTPS (Hypertext Transfer Protocol Secure) instead of the HTTP (The Hypertext Transfer Protocol) protocol. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5424059",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "IMG tags require HTTPS",
+            "description": "On the same day HTTPS was added Omniscient made several announcements on the new image formatting, one of which was requiring HTTPS in all IMG tags for the images to be displayed correctly. For our convenience Omniscient added a filter which automatically converts all i.imgur.com, the most popular image host, links to HTTPS. However, if the images in your thread are not hosted on imgur you must convert them to HTTPS manually. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5424165",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Change your images to HTTPS",
+            "description": "In another effort to make HF more secure, Omniscient has asked all members to review their profiles and threads to make sure all their images are using HTTPS instead of HTTP. Omniscient also stated that if you have an avatar, signature, or thread with images and image tags which are not HTTPS then they will either be deleted or not displayed correctly. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5424144",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Signature IMG tags require HTTPS",
+            "description": "Relating to the previous announcements, Omniscient has deleted all image based signatures which did not have an HTTPS link. As with the regular IMG tags, all i.imgur.com images have been automatically converted but the the rest must be manually updated to HTTPS. >>Source https://i.imgur.com/wYi4ilf.jpg",
+            "url": "http://hackforums.net/showthread.php?tid=5424266",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "TheChief is now a leader of Null. FlossinRod is now a leader of Enigma. heartthrob is now a leader of Enigma. TheChief has purchased Null.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                },
+                {
+                    "uid": "2640623",
+                    "username": "FlossinRod"
+                },
+                {
+                    "uid": "2739889",
+                    "username": "heartthrob"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "KA34 has reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2983477",
+                    "username": "KA34"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "TheChief has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "YayHar was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2759618",
+                    "username": "YayHar"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Gary has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1700066",
+                    "username": "Gary"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "ⱱersace was closed.; Silent Storm™ was closed.; false alarm was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3247217",
+                    "username": "ⱱersace"
+                },
+                {
+                    "uid": "2278679",
+                    "username": "Silent Storm™"
+                },
+                {
+                    "uid": "3087767",
+                    "username": "false alarm"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "__Digital__ was Rep Killed.; Katarina Du Couteau was Rep Killed.; ParadiseDealz was Rep Killed.; Silent Storm™ was Rep Killed.; YayHar was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "100480",
+                    "username": "__Digital__"
+                },
+                {
+                    "uid": "2876608",
+                    "username": "Katarina Du Couteau"
+                },
+                {
+                    "uid": "3095679",
+                    "username": "ParadiseDealz"
+                },
+                {
+                    "uid": "2278679",
+                    "username": "Silent Storm™"
+                },
+                {
+                    "uid": "2759618",
+                    "username": "YayHar"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Wiz Khalifa -- Double Exposure",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5425655",
+            "users": [
+                {
+                    "uid": "705074",
+                    "username": "Arcanecfg"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Girl's Vector Art",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5426485",
+            "users": [
+                {
+                    "uid": "776749",
+                    "username": "Rodrigo Duterte"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters",
+                    "role": "Support (Backup Publisher)"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 312,
+        "date": 1476137153,
+        "pid": "52723490",
+        "author_uid": "2947999",
+        "subject": "Hack Forums News // Edition 312"
+    }
+}
