@@ -1,0 +1,213 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Cryptocurrency markets swung then rebounded",
+            "description": "Headline summarized broad crypto volatility and recovery with only an external market-cap source in the archived post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group programs and recruitments",
+            "description": "Notorious and Royalty student programs; Baka, Dawn, Echo, Wiki, Legends, Novus, Royalty, SheepGang, Brotherhood recruitments and info threads listed.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "xmaximxk reached 500 prestige; Sysmin reached 1,000 posts; Leroy Jethro Gibbs and Vitani reached 5,000 posts; illuminati▲ reached 15,000 posts again.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "xmaximxk"
+                },
+                {
+                    "uid": "3287231",
+                    "username": "Sysmin"
+                },
+                {
+                    "uid": "1512695",
+                    "username": "Leroy Jethro Gibbs"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "woobawoob, Z.A.C., and ihopeshe18 were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3263006",
+                    "username": "woobawoob"
+                },
+                {
+                    "uid": "1091097",
+                    "username": "Z.A.C."
+                },
+                {
+                    "uid": "2172949",
+                    "username": "ihopeshe18"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "JASON AND MEDEA and Sqch took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2761269",
+                    "username": "JASON AND MEDEA"
+                },
+                {
+                    "uid": "121380",
+                    "username": "Sqch"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Becky G, Web_Development, and Denzel Washington. were closed (two cited for pump-and-dump).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1446919",
+                    "username": "Becky G"
+                },
+                {
+                    "uid": "3064414",
+                    "username": "Web_Development"
+                },
+                {
+                    "uid": "3561697",
+                    "username": "Denzel Washington."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Several listed members were rep killed alongside pump-and-dump enforcement.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1446919",
+                    "username": "Becky G"
+                },
+                {
+                    "uid": "3064414",
+                    "username": "Web_Development"
+                },
+                {
+                    "uid": "3263006",
+                    "username": "woobawoob"
+                },
+                {
+                    "uid": "1787593",
+                    "username": "w o o f"
+                },
+                {
+                    "uid": "1961318",
+                    "username": ".Robert"
+                },
+                {
+                    "uid": "3126298",
+                    "username": "FireNice"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Lookin, Divined, Gilli, Robert (TM), and Funtela received donation- or post-linked awards per the edition list.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3308493",
+                    "username": "Lookin"
+                },
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                },
+                {
+                    "uid": "1279471",
+                    "username": "Gilli"
+                },
+                {
+                    "uid": "3121258",
+                    "username": "Robert (TM)"
+                },
+                {
+                    "uid": "1610871",
+                    "username": "Funtela"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features",
+            "description": "GFX battlestation spotlights linked in the third post.",
+            "url": "http://hackforums.net/showthread.php?tid=5636055",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features (2)",
+            "description": "Second battlestation spotlight link.",
+            "url": "http://hackforums.net/showthread.php?tid=5632249",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Vitani comic strip",
+            "description": "Five numbered comic panels in the archived third post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Blizzard' conducted by Tsundere.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54994274",
+            "users": [
+                {
+                    "uid": "249035",
+                    "username": "Blizzard'"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 345,
+        "date": 1496300882,
+        "pid": "54994274",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 345"
+    }
+}

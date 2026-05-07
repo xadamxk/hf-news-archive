@@ -1,0 +1,398 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "No More Discussions in Weekly Reports",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5698512",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Stop the Thread Editing Abuse!",
+            "description": "Due to members junking old, unwanted threads, Omniscient removed the Junk feature a while back. With that being said, this left members unable to junk the threads that they possibly made when they first joined the website and are now embarrassing to look at. Everyone has those types of threads so do not try and hide that. With that being said, members have found a way to get around this Junk feature removal by just simply editing their threads. Members are editing them by changing the title to, \"closed\" or \"junk\" and removing the body (content) of the thread and replacing it with \"Please junk this thread\", \"Pleas",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Multiple official groups advertised recruitment or informational threads; see Group News listings in the edition post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=5680175",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Nuworld has reached 1,000 posts; 0xDEAD10CC has reached 10,000 posts; Meow has reached 15,000 High Quality posts; Soulmate～っ☆ has reached 500 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "279157",
+                    "username": "0xDEAD10CC"
+                },
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate～っ☆"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2781179",
+                    "username": "Viral"
+                },
+                {
+                    "uid": "732981",
+                    "username": "M3RLIN"
+                },
+                {
+                    "uid": "2282793",
+                    "username": "'Verdict"
+                },
+                {
+                    "uid": "3472996",
+                    "username": "VAGUΞ"
+                },
+                {
+                    "uid": "3400446",
+                    "username": "XCorruptX"
+                },
+                {
+                    "uid": "1320379",
+                    "username": "Squidward"
+                },
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                },
+                {
+                    "uid": "2278582",
+                    "username": "Parker"
+                },
+                {
+                    "uid": "2748373",
+                    "username": "Collected"
+                },
+                {
+                    "uid": "1241686",
+                    "username": "Iambic"
+                },
+                {
+                    "uid": "2073436",
+                    "username": "Skilō"
+                },
+                {
+                    "uid": "2211894",
+                    "username": "Currency"
+                },
+                {
+                    "uid": "563964",
+                    "username": "Junx"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2501407",
+                    "username": "Act of Valor"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3090794",
+                    "username": "Testaccountplsignore"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "A Complete Guide to Shiny Pokemon",
+            "description": "If you are a fan of Pokemon, come check this thread out. You will get the chance to learn what shiny Pokemon are and how to obtain them.",
+            "url": "http://hackforums.net/showthread.php?tid=5709422",
+            "users": [
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "A Comprehensive Guide to Raising a Puppy",
+            "description": "Raising a puppy might be more difficult than you think. If you want to learn some tips on how to raise your cute puppy, come check out Confounds thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5708720",
+            "users": [
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Red Hawk - Information Gathering & Vulnerability Scanning Tool",
+            "description": "Video tutorial on the Red Hawk tool which is used to gather information and find vulnerabilities.",
+            "url": "http://hackforums.net/showthread.php?tid=5715110",
+            "users": [
+                {
+                    "uid": "1448718",
+                    "username": "Cyber Warrior"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How To Bypass WAF CloudProxy",
+            "description": "First part on how to bypass WAF CloudProxy.",
+            "url": "http://hackforums.net/showthread.php?tid=5710677",
+            "users": [
+                {
+                    "uid": "3179306",
+                    "username": "InjectorBoy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How To Bypass WAF CloudProxy",
+            "description": "Part two of how to bypass WAF CloudProxy.",
+            "url": "http://hackforums.net/showthread.php?tid=5710679",
+            "users": [
+                {
+                    "uid": "3179306",
+                    "username": "InjectorBoy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Disguise an application file extension to doc/pdf/pptx/ any you want",
+            "description": "If you want to learn how to change a file extention with ease, view this video tutorial.",
+            "url": "http://hackforums.net/showthread.php?tid=5714848",
+            "users": [
+                {
+                    "uid": "3588010",
+                    "username": "Blackshield_real"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "C Basic hooking tutorial",
+            "description": "Basic coding tutorial in C.",
+            "url": "http://hackforums.net/showthread.php?tid=5710283",
+            "users": [
+                {
+                    "uid": "3700763",
+                    "username": "Prock"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "#3 : Child Classes",
+            "description": "For those who want to learn about GDI development, here is the third tutorial created by Narwin on child classes.",
+            "url": "http://hackforums.net/showthread.php?tid=5714921",
+            "users": [
+                {
+                    "uid": "3304362",
+                    "username": "Narwin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Writing a Metamorphic Engine / Real USG; Part 3",
+            "description": "Those familiar with C have the opportunity on how to help practice their skill in coding.",
+            "url": "http://hackforums.net/showthread.php?tid=5715247",
+            "users": [
+                {
+                    "uid": "2807283",
+                    "username": "movsx"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Precautions of Progress: The example of Starlite",
+            "description": "Participate in DerMensch24's 53 SRPP discussion thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5714916",
+            "users": [
+                {
+                    "uid": "3066693",
+                    "username": "DerMensch24"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "BitcoinGold - Second Hardfork",
+            "description": "Come view this thread in the Coin Speak forum about a hard fork.",
+            "url": "http://hackforums.net/showthread.php?tid=5710939",
+            "users": [
+                {
+                    "uid": "1453525",
+                    "username": "The Illusionist"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What is your favorite shoe",
+            "description": "Everyone tries their best to look nice, from their shoes to their shirt. What shoes do you typically wear?",
+            "url": "http://hackforums.net/showthread.php?tid=5713859",
+            "users": [
+                {
+                    "uid": "3370727",
+                    "username": "Fresh"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Here is a photo of me.",
+            "description": "Check out this ugly ass picture of the user Japanese and his terrible taste in animated girls.",
+            "url": "http://hackforums.net/showthread.php?tid=5715283",
+            "users": [
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Scramble's Testimonail - 5 years",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5712091",
+            "users": [
+                {
+                    "uid": "1603045",
+                    "username": "Scramble"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Testimonial",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5712800",
+            "users": [
+                {
+                    "uid": "42927",
+                    "username": "amid"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Snow's Testimonial | 5 Years",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5715005",
+            "users": [
+                {
+                    "uid": "1243490",
+                    "username": "Snow"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Free 1-year Anti-Malware Giveaway!",
+            "description": "No one is a fan of malware! Here is your chance to win some anti-malware.",
+            "url": "http://hackforums.net/showthread.php?tid=5713743",
+            "users": [
+                {
+                    "uid": "3704187",
+                    "username": "imanode"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$25 Giveaway/Contest",
+            "description": "Some easy ways to make a few quick bucks.",
+            "url": "http://hackforums.net/showthread.php?tid=5713590",
+            "users": [
+                {
+                    "uid": "2171898",
+                    "username": "West Coast Ghost"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Win ONE MONTH Instagram Growth Service!",
+            "description": "Enter for your chance to grow your Instagram!",
+            "url": "http://hackforums.net/showthread.php?tid=5704701",
+            "users": [
+                {
+                    "uid": "2992674",
+                    "username": "tevaat"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with ScreemS conducted by Tsundere.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1729678",
+                    "username": "ScreemS"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 360,
+        "date": 1505172483,
+        "pid": "55833949",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 360 - 9/11/17"
+    }
+}

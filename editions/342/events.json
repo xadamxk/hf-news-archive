@@ -1,0 +1,296 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Buddy bumping crackdown",
+            "description": "Omniscient warned that coordinated friend bumping will draw indefinite closures, including against groups.",
+            "url": "http://hackforums.net/showthread.php?tid=5615054",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Graphic of the Month (April)",
+            "description": "SkullTrail won the April Graphic Master; follow-up competition theme noted as Thread Designs.",
+            "url": "http://hackforums.net/showthread.php?tid=5590099",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group programs and recruitments",
+            "description": "Notorious apprenticeship and Royalty student program ran; recruitments listed for Aequitas, Baka, Dawn, Echo, Wiki, Legends, Notorious, Novus, Royalty, Brotherhood, and related info threads.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Wespa and The Arrow reached 1,000 posts; Armada reached 1,000 prestige; Decerto reached 1,000 reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2791600",
+                    "username": "Wespa"
+                },
+                {
+                    "uid": "2642500",
+                    "username": "The Arrow"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "627531",
+                    "username": "Decerto"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Kira, Trojan, Enterpriser, Vyrez., and Rezpy were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2288151",
+                    "username": "'Kira"
+                },
+                {
+                    "uid": "237516",
+                    "username": "Trojan"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                },
+                {
+                    "uid": "3201883",
+                    "username": "Rezpy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Fresh and Kira were rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3370727",
+                    "username": "Fresh"
+                },
+                {
+                    "uid": "2288151",
+                    "username": "'Kira"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "SkullTrail won Graphic of the Month; Wander received Eclipse; Mr. Reviewer received Golden Content for a thread.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "33319",
+                    "username": "SkullTrail"
+                },
+                {
+                    "uid": "2181175",
+                    "username": "Wander"
+                },
+                {
+                    "uid": "3553985",
+                    "username": "Mr. Reviewer"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features",
+            "description": "GFX spotlight images linked to threads; no credited artist in the archived third post.",
+            "url": "http://hackforums.net/showthread.php?tid=5619592",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features (2)",
+            "description": "Second battlestation image feature.",
+            "url": "http://hackforums.net/showthread.php?tid=5619209",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Vitani comic strip",
+            "description": "Numbered comic panels; no showthread per panel in archived third post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "BUDDY BUMPS",
+            "description": "Staff policy thread on buddy bumping enforcement.",
+            "url": "http://hackforums.net/showthread.php?tid=5615054",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Welcome to Hack Forums: A Beginner's Guide",
+            "description": "Updated beginner orientation thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5616502",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Craziest thing you'll see today. 10000%",
+            "description": "Lounge shock-content thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5619393",
+            "users": [
+                {
+                    "uid": "2279561",
+                    "username": "Black Kodak"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Boy at my highschool pretends to be gay so he can go round and touch girls.",
+            "description": "Lounge discussion thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5619155",
+            "users": [
+                {
+                    "uid": "3143717",
+                    "username": "free707"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Trump Fires FBI Director James Comey",
+            "description": "Current events thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5619409",
+            "users": [
+                {
+                    "uid": "3052347",
+                    "username": "luxity"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Visual Freedom's testimonial",
+            "description": "Member testimonial.",
+            "url": "http://hackforums.net/showthread.php?tid=5614164",
+            "users": [
+                {
+                    "uid": "2155469",
+                    "username": "Visual Freedom"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Tony Stark's Testimonial, A Journey, A Dream.",
+            "description": "Member testimonial.",
+            "url": "http://hackforums.net/showthread.php?tid=5613439",
+            "users": [
+                {
+                    "uid": "506782",
+                    "username": "Tony Stark"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Grilla's Feedback | Through Hell & Back | 2,089 Days | 7,000 Posts | 5 1/2 Years!",
+            "description": "Long-form feedback thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5613412",
+            "users": [
+                {
+                    "uid": "932616",
+                    "username": "Gørilla"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "DenizZ' Contest || 10-20 Upgrades & $10 BTC || Make me laugh || Open to all members",
+            "description": "Humor contest with upgrades/BTC prizes.",
+            "url": "http://hackforums.net/showthread.php?tid=5612181",
+            "users": [
+                {
+                    "uid": "3541671",
+                    "username": "DenizZ"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Member upgrade or some cash (BTC)",
+            "description": "Upgrade or BTC giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5619601",
+            "users": [
+                {
+                    "uid": "3183463",
+                    "username": "Mongu"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "05/07/17 Baka News Weekly - Issue #11",
+            "description": "Baka group news roundup thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5617012",
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with neeuQ conducted by Armada.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54812368",
+            "users": [
+                {
+                    "uid": "2504443",
+                    "username": "neeuQ"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 342,
+        "date": 1494440219,
+        "pid": "54812368",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 342"
+    }
+}

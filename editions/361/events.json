@@ -1,0 +1,286 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "CCLEANER INFECTED WITH MALWARE -- CLICK TO READ MORE",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5720380",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF XMPP Downtime & Future of XMPP?",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718189",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Silent Departure",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718091",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Revolution has been suspended by Omniscient until further notice. All leaders have been removed and the owner, Vyrez, has been placed on a temporary two-week ban. >>thread; Socialites, dedicated to facilitating the growth of new members, has finalized their graphics and opened recruitment; however, it is invite-only. Currently the only leader is Chief. with Froggy as owner. >>thread",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "458073",
+                    "username": "Chief."
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=5680175",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Vana has reached 1,000 posts; Charm ❤️ has reached 1,000 posts; FamousHater has reached 10,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3655618",
+                    "username": "Vana"
+                },
+                {
+                    "uid": "3357844",
+                    "username": "Charm ❤️"
+                },
+                {
+                    "uid": "2360425",
+                    "username": "FamousHater"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2798435",
+                    "username": "Ambien"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez"
+                },
+                {
+                    "uid": "481087",
+                    "username": "√ΛレΛƦ ＭΘƦＧHƱĿῘꜘS™"
+                },
+                {
+                    "uid": "3635114",
+                    "username": "MR. I"
+                },
+                {
+                    "uid": "1817298",
+                    "username": "AlexJohn83"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2646762",
+                    "username": "Throw"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Vacation",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718091",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Revolution Group",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718108",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "tar Archiving Utility - Practical Examples | Linux",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718312",
+            "users": [
+                {
+                    "uid": "1448718",
+                    "username": "Cyber Warrior"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How to learn Coding (from a newbie)",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5716955",
+            "users": [
+                {
+                    "uid": "3150804",
+                    "username": "sw0p"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How To Increase Your Memory & Brain Function",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5719465",
+            "users": [
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "CAT 5 Hurricane Irma Discussions",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5710985",
+            "users": [
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I'm going to legally change my name and gender.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5719232",
+            "users": [
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "LOOK AT MY CAR SHOOT SHOTS POP POP POP",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5717162",
+            "users": [
+                {
+                    "uid": "2790629",
+                    "username": "Flacko Jodye"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "would you fuck a shemale?",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718171",
+            "users": [
+                {
+                    "uid": "3177887",
+                    "username": "sichtsale"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How to get unlimited Playstation Plus!",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5719741",
+            "users": [
+                {
+                    "uid": "3706378",
+                    "username": "Souf"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "FREE VPN ALL USERS",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718751",
+            "users": [
+                {
+                    "uid": "3525824",
+                    "username": "Brian Finch"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Giving Away 100 Instagram Followers",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5718646",
+            "users": [
+                {
+                    "uid": "1125635",
+                    "username": "BooGod"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Eclipse  + Final Eclipse award  Sale",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5719848",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 361,
+        "date": 1505779251,
+        "pid": "55882932",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 361"
+    }
+}

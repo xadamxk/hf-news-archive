@@ -1,0 +1,168 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Thread Subscriptions Deleted",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5723635",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Makaveli The Don is now a leader of Harmony and Consensus.; ScreemS is now leader of Harmony and Consensus.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "509788",
+                    "username": "Makaveli The Don"
+                },
+                {
+                    "uid": "1729678",
+                    "username": "ScreemS"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=5680175",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Baby Groot has reached 1,000 posts; Zens has reached 1,000 posts; Funtela has reached 24,000 posts; Charger has reached 1,000 reputation; Caliban has reached 1,000 reputation; Shutdown has reached 1,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3673238",
+                    "username": "Baby Groot"
+                },
+                {
+                    "uid": "3601872",
+                    "username": "Zens"
+                },
+                {
+                    "uid": "1610871",
+                    "username": "Funtela"
+                },
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                },
+                {
+                    "uid": "2682347",
+                    "username": "Caliban"
+                },
+                {
+                    "uid": "1536004",
+                    "username": "Shutdown"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3143060",
+                    "username": "Don Genovese"
+                },
+                {
+                    "uid": "2053312",
+                    "username": "Chef Curry"
+                },
+                {
+                    "uid": "1968194",
+                    "username": "Silent Uprising"
+                },
+                {
+                    "uid": "1284627",
+                    "username": "Dean Winchester"
+                },
+                {
+                    "uid": "2126148",
+                    "username": "Mr.Peanut"
+                },
+                {
+                    "uid": "492095",
+                    "username": "Levi"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1049662",
+                    "username": "Redpois0n"
+                },
+                {
+                    "uid": "1508976",
+                    "username": "Abraluna"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1320379",
+                    "username": "Squidward"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1610871",
+                    "username": "Funtela"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with ｋａ＄ｈ conducted by Night Fury.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3294208",
+                    "username": "ｋａ＄ｈ"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 362,
+        "date": 1506446930,
+        "pid": "55935858",
+        "author_uid": "3176965",
+        "subject": "Hack Forums News // Edition 362"
+    }
+}

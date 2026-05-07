@@ -1,0 +1,164 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Auto-close thread limit increased",
+            "description": "On 9th February, our administrator Omniscient posted a thread stating that he has increased the Auto-close thread limit from 2.000 replies to 2.500 replies. You can read more about it here. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5547228",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Bitcoin value changing rapidly",
+            "description": "For a few months now bitcoin has been rising in value and having an occasional fallback. This week has been no different with bitcoin surpassing the $1.000,- a coin mark yet again. As of today bitcoin's worth is a little below $1.000,- again but the future of the coin looks promising. >>Source",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "vapierboy has reached 1,000 posts.; TheVBScripter has reached 5,000 posts.; Lante has reached 5,000 posts.; BRΞNDΞN has reached 10,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3269177",
+                    "username": "vapierboy"
+                },
+                {
+                    "uid": "3152803",
+                    "username": "TheVBScripter"
+                },
+                {
+                    "uid": "3152803",
+                    "username": "Lante"
+                },
+                {
+                    "uid": "1193715",
+                    "username": "BRΞNDΞN"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Prestige milestones",
+            "description": "Steve has reached 500 prestige.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️ was banned.; VeloCityMods was banned.; Description was banned.; Romping was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1610871",
+                    "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
+                },
+                {
+                    "uid": "3106226",
+                    "username": "VeloCityMods"
+                },
+                {
+                    "uid": "2653697",
+                    "username": "Description"
+                },
+                {
+                    "uid": "2662420",
+                    "username": "Romping"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️ was Rep Killed twice.; Description was Rep Killed.; Romping was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1610871",
+                    "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
+                },
+                {
+                    "uid": "2653697",
+                    "username": "Description"
+                },
+                {
+                    "uid": "2662420",
+                    "username": "Romping"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Formula1 has received the MOTM http://hackforums.net/uploads/awards/7.jpg award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Noseless Zombie",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5547441",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Octopus Logo",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5548050",
+            "users": [
+                {
+                    "uid": "1900284",
+                    "username": "Pacioli"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Roger Waters conducted by iHydra.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54098498",
+            "users": [
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 330,
+        "date": 1487099099,
+        "pid": "54098498",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 330"
+    }
+}

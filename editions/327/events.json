@@ -1,0 +1,378 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Site Downtime",
+            "description": "Hack Forums recently had a 10 hour long downtime due to server conflicts. According to Omniscient , the server ran updates and the updates messed with the PHP service which resulted in the entire forum to be offline until Omniscient started the service back up. All good though, nothing serious. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5524036",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Views is now a leader of The Marketers . Nuworld is now a leader of The Marketers . Nightmare has been re-branded into The Marketers. http://hackforums.net/images/modern_bl/groupimages/english/marketers.gif",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                },
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Dr. Who has reached 1,000 posts.; Jamieee has reached 10,000 posts.; - Sam - has reached 20,000 posts.; ZuGgY has reached 20,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3371835",
+                    "username": "Dr. Who"
+                },
+                {
+                    "uid": "403479",
+                    "username": "Jamieee"
+                },
+                {
+                    "uid": "805825",
+                    "username": "- Sam -"
+                },
+                {
+                    "uid": "1522601",
+                    "username": "ZuGgY"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Danny Khalifa has reached 1,000 positive reputation.; dusty verdict has reached 1,000 positive reputation.; GODTIER has reached 1,000 positive reputation.; william. has reached 1,000 positive reputation.; Japanese has reached 3,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2952200",
+                    "username": "Danny Khalifa"
+                },
+                {
+                    "uid": "2282793",
+                    "username": "dusty verdict"
+                },
+                {
+                    "uid": "1869260",
+                    "username": "GODTIER"
+                },
+                {
+                    "uid": "2901733",
+                    "username": "william."
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "SRT Maniac was banned.; Dеath was banned.; Jenicke was banned, pending closure.; Bugs Bunny was banned, pending closure.; High Bridge was banned.; Oedipus was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1188988",
+                    "username": "SRT Maniac"
+                },
+                {
+                    "uid": "1644588",
+                    "username": "Dеath"
+                },
+                {
+                    "uid": "2433989",
+                    "username": "Jenicke"
+                },
+                {
+                    "uid": "3079662",
+                    "username": "Bugs Bunny"
+                },
+                {
+                    "uid": "3359299",
+                    "username": "High Bridge"
+                },
+                {
+                    "uid": "2998667",
+                    "username": "Oedipus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Rubixa has taken a vacation.; Hash G. has taken a vacation.; Premortal has taken a vacation.; fannas1 is vacation banned until further notice. :(",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3110628",
+                    "username": "Rubixa"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G."
+                },
+                {
+                    "uid": "981500",
+                    "username": "Premortal"
+                },
+                {
+                    "uid": "3282602",
+                    "username": "fannas1"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Contact. was closed.; Wolves was closed due to inactivity.; GeekedUp was closed.; D4rk0 was closed.; ๖ۣۜShady was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3281212",
+                    "username": "Contact."
+                },
+                {
+                    "uid": "651051",
+                    "username": "Wolves"
+                },
+                {
+                    "uid": "3082949",
+                    "username": "GeekedUp"
+                },
+                {
+                    "uid": "1513487",
+                    "username": "D4rk0"
+                },
+                {
+                    "uid": "3011293",
+                    "username": "๖ۣۜShady"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Contact. was Rep Killed.; Dеath was Rep Killed.; GeekedUp was Rep Killed.; Jenicke was Rep Killed.; Bugs Bunny was Rep Killed.; High Bridge was Rep Killed.; D4rk0 was Rep Killed.; ๖ۣۜShady was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3281212",
+                    "username": "Contact."
+                },
+                {
+                    "uid": "1644588",
+                    "username": "Dеath"
+                },
+                {
+                    "uid": "3082949",
+                    "username": "GeekedUp"
+                },
+                {
+                    "uid": "2433989",
+                    "username": "Jenicke"
+                },
+                {
+                    "uid": "3079662",
+                    "username": "Bugs Bunny"
+                },
+                {
+                    "uid": "3359299",
+                    "username": "High Bridge"
+                },
+                {
+                    "uid": "1513487",
+                    "username": "D4rk0"
+                },
+                {
+                    "uid": "3011293",
+                    "username": "๖ۣۜShady"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Waterfall Photography",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5523805",
+            "users": [
+                {
+                    "uid": "3001796",
+                    "username": "That One Random"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Group Graphics",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5533575",
+            "users": [
+                {
+                    "uid": "1655295",
+                    "username": "#Doge"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Minimalist conducted by Armada.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=53899933",
+            "users": [
+                {
+                    "uid": "1915596",
+                    "username": "Minimalist"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Scholar"
+                },
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk",
+                    "role": "Support (Reminder)"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "boxxy",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "1522601",
+                    "username": "ZuGgY",
+                    "role": "Journalist (Memo)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2905593",
+                    "username": "reBELLYus",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 327,
+        "date": 1485223390,
+        "pid": "53899933",
+        "author_uid": "1522601",
+        "subject": "Hack Forums News // Edition 327"
+    }
+}

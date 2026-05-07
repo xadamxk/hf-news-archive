@@ -1,0 +1,376 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Omniscient: Bitcoin near-term dip to ~$1300",
+            "description": "Administrator posted a forward-looking Bitcoin price discussion in the cited thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5621556",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Reputation purge for group rep abuse",
+            "description": "Several users were rep killed over group/gang repping; context summarized with Weekly Reports link.",
+            "url": "http://hackforums.net/showthread.php?tid=5470739",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group programs and recruitments",
+            "description": "Notorious and Royalty student programs continued; recruitments and info threads for Baka, Dawn, Echo, Wiki, Legends, Novus, Royalty, Brotherhood, Order, and SheepGang were listed.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts and milestones",
+            "description": "DenizZ, Seohyun, Deathmask, and ℣ictorY reached 1,000 posts; M.D. reached 5,000; ihopeshe18 and Durham reached 10,000; Jaimeee reached 15,000; Minimalist reached 20,000; ra1d reached 4,000 reported posts; Froggy was reopened.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3541671",
+                    "username": "DenizZ"
+                },
+                {
+                    "uid": "2894791",
+                    "username": "Seohyun"
+                },
+                {
+                    "uid": "3290528",
+                    "username": "Deathmask"
+                },
+                {
+                    "uid": "3283060",
+                    "username": "℣ictorY"
+                },
+                {
+                    "uid": "2864302",
+                    "username": "M.D."
+                },
+                {
+                    "uid": "2172949",
+                    "username": "ihopeshe18"
+                },
+                {
+                    "uid": "1800872",
+                    "username": "Durham"
+                },
+                {
+                    "uid": "403479",
+                    "username": "Jaimeee"
+                },
+                {
+                    "uid": "1915596",
+                    "username": "Minimalist"
+                },
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "7up(TM), heartthrob, and Caleb(TM) were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3198233",
+                    "username": "7up(TM)"
+                },
+                {
+                    "uid": "2739889",
+                    "username": "heartthrob"
+                },
+                {
+                    "uid": "3320508",
+                    "username": "Caleb(TM)"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Lrrr, Nevieth, and ｋａ＄ｈ took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                },
+                {
+                    "uid": "988432",
+                    "username": "Nevieth"
+                },
+                {
+                    "uid": "3294208",
+                    "username": "ｋａ＄ｈ"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Bagged Genius, Visual Freedom, Gαɴjα, and Queen of Hearts were closed (some for reputation abuse).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2946251",
+                    "username": "Bagged Genius"
+                },
+                {
+                    "uid": "2155469",
+                    "username": "Visual Freedom"
+                },
+                {
+                    "uid": "2655025",
+                    "username": "Gαɴjα"
+                },
+                {
+                    "uid": "1823316",
+                    "username": "Queen of Hearts"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Multiple members were rep killed in the enforcement wave, including notable marketplace/staff-adjacent names listed in the edition.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3198233",
+                    "username": "7up(TM)"
+                },
+                {
+                    "uid": "2946251",
+                    "username": "Bagged Genius"
+                },
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                },
+                {
+                    "uid": "3143060",
+                    "username": "The Broker"
+                },
+                {
+                    "uid": "2652076",
+                    "username": "961Group"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "James!"
+                },
+                {
+                    "uid": "2155469",
+                    "username": "Visual Freedom"
+                },
+                {
+                    "uid": "3320508",
+                    "username": "Caleb(TM)"
+                },
+                {
+                    "uid": "1201211",
+                    "username": "bzrK"
+                },
+                {
+                    "uid": "556242",
+                    "username": "CodeineCrazy"
+                },
+                {
+                    "uid": "2655025",
+                    "username": "Gαɴjα"
+                },
+                {
+                    "uid": "1823316",
+                    "username": "Queen of Hearts"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Kyrus received Gold Clover; Eagle 95 received Top Banana; DevNet received DaBomb; MrJamieMcC received Fish Err Man; Maxim received Sticky Man for his beginner guide; Views donated and received related awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1916122",
+                    "username": "Kyrus"
+                },
+                {
+                    "uid": "129349",
+                    "username": "Eagle 95"
+                },
+                {
+                    "uid": "2274819",
+                    "username": "DevNet"
+                },
+                {
+                    "uid": "2699669",
+                    "username": "MrJamieMcC"
+                },
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                },
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features",
+            "description": "GFX battlestation images in the third post; no credited artist line in the archive.",
+            "url": "http://hackforums.net/showthread.php?tid=5623518",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features (2)",
+            "description": "Second battlestation feature image.",
+            "url": "http://hackforums.net/showthread.php?tid=5625207",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Vitani comic strip",
+            "description": "Numbered panels including one marked NSFW in the archived post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "Let's Fix Bitcoin! | Support Bitcoin Unlimited & Avoid Having Your Coins Disappear",
+            "description": "Discussion advocating Bitcoin Unlimited during chain/upgrade debates.",
+            "url": "http://hackforums.net/showthread.php?tid=5618567",
+            "users": [
+                {
+                    "uid": "564566",
+                    "username": "PiraX"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hold your Bitcoin",
+            "description": "Vittorio’s conditional bet thread on Bitcoin volatility.",
+            "url": "http://hackforums.net/showthread.php?pid=54807954#pid54807954",
+            "users": [
+                {
+                    "uid": "2091037",
+                    "username": "Vittorio"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Pretty Sure I Found Bandors",
+            "description": "Lounge investigation thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5621009",
+            "users": [
+                {
+                    "uid": "2883163",
+                    "username": "Copywriter"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Six year anniversary today",
+            "description": "Member milestone/feedback thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5615984",
+            "users": [
+                {
+                    "uid": "787112",
+                    "username": "Tonight"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "G*59's UPGRADE CONTEST | $20 BTC | L33T | AWARDS | OPEN TO ALL",
+            "description": "Signature contest for upgrades/BTC/awards.",
+            "url": "http://hackforums.net/showthread.php?tid=5617202",
+            "users": [
+                {
+                    "uid": "2053689",
+                    "username": "G*59"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$150 Giveaway | Very Simple to Enter |",
+            "description": "Forum signup raffle giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5621307",
+            "users": [
+                {
+                    "uid": "3479077",
+                    "username": "-Virtuous"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "SMM-Panel.com - 300,000 Instagram Likes Giveaway! FREE for everyone ! Take it now :-)",
+            "description": "Signature-based social-media likes giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5590332",
+            "users": [
+                {
+                    "uid": "2562991",
+                    "username": "⭐WhatTheJoint⭐"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Healthcare",
+            "description": "Discussion thread on healthcare policy opinions.",
+            "url": "http://hackforums.net/showthread.php?tid=5616723",
+            "users": [
+                {
+                    "uid": "1446449",
+                    "username": "TayterJ"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Brenton conducted by boxxy.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54872441",
+            "users": [
+                {
+                    "uid": "1107978",
+                    "username": "Brenton"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "boxxy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 343,
+        "date": 1495046320,
+        "pid": "54872441",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 343"
+    }
+}

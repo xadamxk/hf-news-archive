@@ -1,0 +1,323 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Cryptocurrency section: no pump-and-dump threads",
+            "description": "New rule added; violations draw permanent closures.",
+            "url": "http://hackforums.net/showthread.php?tid=5628209",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Bitcoin passes $2,000",
+            "description": "Edition noted Bitcoin passing $2,000 with Omniscient’s getting-started cheatsheet linked on-forum.",
+            "url": "http://hackforums.net/showthread.php?tid=5627512",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Ripple and XEM profile awards",
+            "description": "Two new purchasable awards appeared for Ripple and XEM per the headline; purchase flow referenced on-site.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "New official group: Sheep Gang",
+            "description": "Gaming group launched with listed leadership; recruitment and info threads appeared in the edition block.",
+            "url": "http://hackforums.net/showthread.php?tid=5626560",
+            "users": [
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲"
+                },
+                {
+                    "uid": "3571033",
+                    "username": "Dead Prince"
+                },
+                {
+                    "uid": "1655295",
+                    "username": "#Doge"
+                },
+                {
+                    "uid": "2997478",
+                    "username": "cuck"
+                },
+                {
+                    "uid": "3333105",
+                    "username": "KelseyM"
+                },
+                {
+                    "uid": "533812",
+                    "username": "Daddy‎‎‎‎‎‎‎‎‎‎‎‎"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group programs and recruitments",
+            "description": "Notorious and Royalty student programs; recruitments for Baka, Dawn, Echo, Wiki, Legends, Novus, Royalty, SheepGang, Torque, and info threads continued.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Lingo reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1873561",
+                    "username": "Lingo"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "tron and TheChief were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "47842",
+                    "username": "tron"
+                },
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Tɦɛ Gʀiɱ and ~Jay~ took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "431105",
+                    "username": "Tɦɛ Gʀiɱ"
+                },
+                {
+                    "uid": "2168684",
+                    "username": "~Jay~"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Raz3r was closed for inactivity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2524964",
+                    "username": "Raz3r"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "ASAC Schrader and tron were rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3464905",
+                    "username": "ASAC Schrader"
+                },
+                {
+                    "uid": "47842",
+                    "username": "tron"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "⭐ ＰＲＯＦＩＴ ⭐ received Gold Clover for a highlighted thread.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2315080",
+                    "username": "⭐ ＰＲＯＦＩＴ ⭐"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features",
+            "description": "GFX battlestation spotlights in the third post.",
+            "url": "http://hackforums.net/showthread.php?tid=5630304",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features (2)",
+            "description": "Second battlestation spotlight image.",
+            "url": "http://hackforums.net/showthread.php?tid=5624993",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Vitani comic strip",
+            "description": "Numbered comic strip panels in the archived third post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "Pumping Disallowed",
+            "description": "Announcement mirroring the crypto pump-thread ban policy.",
+            "url": "http://hackforums.net/showthread.php?tid=5628209",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Dafont.com was HACKED !!!",
+            "description": "Breach disclosure discussion for the font site.",
+            "url": "http://hackforums.net/showthread.php?tid=5627046",
+            "users": [
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "New awards",
+            "description": "Thread noting new Ripple/XEM awards visibility.",
+            "url": "http://hackforums.net/showthread.php?tid=5626933",
+            "users": [
+                {
+                    "uid": "651773",
+                    "username": "Vitani's Mate."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Tattoos of HackForums",
+            "description": "Members share tattoo photos/discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5627924",
+            "users": [
+                {
+                    "uid": "1964831",
+                    "username": "Magicmann"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Widebody is finished on the Z",
+            "description": "Car build showcase thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5627895",
+            "users": [
+                {
+                    "uid": "1012051",
+                    "username": "1320 Vossen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Sea lion drags girl into ocean",
+            "description": "Viral clip discussion thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5628428",
+            "users": [
+                {
+                    "uid": "1382464",
+                    "username": "Βluffer"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Trust's Testimonial",
+            "description": "Feedback/testimonial thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5623039",
+            "users": [
+                {
+                    "uid": "1446355",
+                    "username": "Τrust"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Free Signature Designs!",
+            "description": "Signature design giveaway for upgraded members.",
+            "url": "http://hackforums.net/showthread.php?tid=5628140",
+            "users": [
+                {
+                    "uid": "3283060",
+                    "username": "℣ictorY"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$10 BTC giveaway - FOR EVERYONE",
+            "description": "Simple-entry BTC raffle.",
+            "url": "http://hackforums.net/showthread.php?tid=5628409",
+            "users": [
+                {
+                    "uid": "2130408",
+                    "username": "Dot PHP"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Upgrading a member",
+            "description": "Creative username contest for a free upgrade.",
+            "url": "http://hackforums.net/showthread.php?tid=5626754",
+            "users": [
+                {
+                    "uid": "3238125",
+                    "username": "εvσℓυтιση™"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Grizzlies conducted by .Sinister.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54940929",
+            "users": [
+                {
+                    "uid": "3229805",
+                    "username": "Grizzlies"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 344,
+        "date": 1495736913,
+        "pid": "54940929",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 344"
+    }
+}

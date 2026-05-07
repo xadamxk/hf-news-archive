@@ -1,0 +1,413 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Final reminder: Gauth purge",
+            "description": "Edition reminded members to re-enable Google Authenticator after the purge and to use strong passwords and Authy.",
+            "url": "http://hackforums.net/showthread.php?tid=5578405",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Skill group relaunch",
+            "description": "Skill replaced Fusion as the official gaming group with leaders Raptor. and Starstruck; recruitments and programs for Notorious, Royalty, Aequitas, Baka, Dawn, Brotherhood, Marketers, and others were listed.",
+            "url": "http://hackforums.net/showthread.php?tid=5582074",
+            "users": [
+                {
+                    "uid": "1453009",
+                    "username": "Raptor."
+                },
+                {
+                    "uid": "900087",
+                    "username": "Starstruck"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Cylow and Zack reached 1,000 posts; Bender 5,000 posts; Slтн lояD 10,000 posts; Charger 500 prestige; Vyrez 3,000 reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3444267",
+                    "username": "Cylow"
+                },
+                {
+                    "uid": "3370727",
+                    "username": "Zack"
+                },
+                {
+                    "uid": "2960032",
+                    "username": "Bender"
+                },
+                {
+                    "uid": "1452306",
+                    "username": "Slтн lояD"
+                },
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Sejskaler, Blood Moon, Mystikal, and Cokeboy were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "587939",
+                    "username": "Sejskaler"
+                },
+                {
+                    "uid": "2799283",
+                    "username": "Blood Moon"
+                },
+                {
+                    "uid": "3049128",
+                    "username": "Mystikal"
+                },
+                {
+                    "uid": "2361088",
+                    "username": "Cokeboy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "DeathByCum took a vacation (same member as Mystikal in the edition’s ban list).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3049128",
+                    "username": "DeathByCum"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "SHOLLEX and Cylow were rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2897384",
+                    "username": "SHOLLEX"
+                },
+                {
+                    "uid": "3444267",
+                    "username": "Cylow"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Th4nat0s received Genius for a referenced post.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3360209",
+                    "username": "Th4nat0s"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Trust Scan Now Requires Ub3r or 3P1C",
+            "description": "Higher upgrade now required for trust scans.",
+            "url": "http://hackforums.net/showthread.php?tid=5581076",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Must Read for Beginners: The Ultimate eWhoring Guide",
+            "description": "Beginner eWhoring guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5582730",
+            "users": [
+                {
+                    "uid": "2518836",
+                    "username": "Mr. Burnham"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Article: 6 affordable ways to get rid of dark circles under eyes",
+            "description": "Skincare article.",
+            "url": "http://hackforums.net/showthread.php?tid=5584149",
+            "users": [
+                {
+                    "uid": "825353",
+                    "username": "Dabangg"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Dawn Innuendo] Suicide Crisis Hotlines --- You don't need to suffer, get help.",
+            "description": "Crisis resources thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5580378",
+            "users": [
+                {
+                    "uid": "988432",
+                    "username": "Nevieth"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Exploit] CCTV Camera Scanner",
+            "description": "CCTV scanner thread (placeholder thread URL in edition).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129634",
+                    "username": "Jihadi ϗ"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How to create a semi Undetectable Keylogger! [Video Tutorial]",
+            "description": "Keylogger video guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5582216",
+            "users": [
+                {
+                    "uid": "3418257",
+                    "username": "frostyy07"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Notorious] Free Computer Checkup and Cleanup Services",
+            "description": "Free PC cleanup offer.",
+            "url": "http://hackforums.net/showthread.php?tid=5582479",
+            "users": [
+                {
+                    "uid": "1512695",
+                    "username": "Leroy Jethro Gibbs"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "best soundtrack ever?",
+            "description": "Gaming soundtrack discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5583189",
+            "users": [
+                {
+                    "uid": "3508470",
+                    "username": "ElfBot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Sushi Lover Song (To Omni)",
+            "description": "Parody song thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5581349",
+            "users": [
+                {
+                    "uid": "3002402",
+                    "username": "goth"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How does HF members like their steak cooked?",
+            "description": "Food preference thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5584353",
+            "users": [
+                {
+                    "uid": "3471921",
+                    "username": "Smexi"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Have you typed an entire web address within the last three years?",
+            "description": "Lounge discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5584650",
+            "users": [
+                {
+                    "uid": "3504033",
+                    "username": "mazyoona"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF is like that dysfunctional family you argue with alot but still love",
+            "description": "Community discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5584090",
+            "users": [
+                {
+                    "uid": "3483205",
+                    "username": "Ahseyo"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I want to quit my job. Skipped 5 days now. Mom says I'm irresponsible?",
+            "description": "Personal advice thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5577895",
+            "users": [
+                {
+                    "uid": "769614",
+                    "username": "Prophet Banana"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Weekly Updates] New Music Thread - Stay in the Loop",
+            "description": "Music discovery thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5580635",
+            "users": [
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Intelligent Sin's Testimonial",
+            "description": "Member testimonial.",
+            "url": "http://hackforums.net/showthread.php?tid=5583440",
+            "users": [
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Harden's 3DS Pokemon Genning Service",
+            "description": "Pokemon genning giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5584369",
+            "users": [
+                {
+                    "uid": "2094905",
+                    "username": "Harden"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Eclipse - Meme Off [BEST MEME WINS AN AWARD]",
+            "description": "Meme contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5584108",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Logo Contest | Winner Gets: Free Lifetime Domain, Free SSL, and Unlimited Hosting",
+            "description": "Graphics contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5583639",
+            "users": [
+                {
+                    "uid": "1280231",
+                    "username": "PremiumUSAHosting"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Thread Design Generator",
+            "description": "Tool announcement.",
+            "url": "http://hackforums.net/showthread.php?tid=5575627",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "JUSTICE LEAGUE - Official Trailer 1",
+            "description": "Trailer discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5584703",
+            "users": [
+                {
+                    "uid": "2004660",
+                    "username": "#Programmer"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "'RUMOR: Art work suggest COD 2017 will be called Call of Duty: WWII'",
+            "description": "COD rumor thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5583542",
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "XSS Challenge 4 | Test your skills",
+            "description": "Web security challenge.",
+            "url": "http://hackforums.net/showthread.php?tid=5583960",
+            "users": [
+                {
+                    "uid": "2569948",
+                    "username": "redlightrouter"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "No Game, No Life Zero Anime Film Slated for July 15",
+            "description": "Anime film news.",
+            "url": "http://hackforums.net/showthread.php?tid=5581448",
+            "users": [
+                {
+                    "uid": "2087047",
+                    "username": "ℛainbowℋℯȵȶᴀį"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 336,
+        "date": 1490752939,
+        "pid": "54459086",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 336"
+    }
+}

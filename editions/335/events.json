@@ -1,0 +1,415 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Zcash award",
+            "description": "Omniscient added a purchasable Zcash cryptocurrency award.",
+            "url": "http://hackforums.net/showthread.php?tid=5577600",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Gauth purge and paid account recovery",
+            "description": "Omniscient reset Google Authenticator keys site-wide and said lost-account recovery would carry a fee going forward.",
+            "url": "http://hackforums.net/showthread.php?tid=5578405",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group programs and recruitment (stub)",
+            "description": "Notorious and Royalty ran student programs. Aequitas, Baka, Dawn, Echo, Legends, MightyAssassins, Royalty, Brotherhood, Marketers, Illuminati feedback, The Order buy-in, Fusion sale, and related threads were listed (Fusion member count anomaly in edition).",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts and reputation milestones",
+            "description": "asvps and 'Ben reached 1,000 and 5,000 posts respectively; xitoxic reached 1,000 reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2985509",
+                    "username": "asvps"
+                },
+                {
+                    "uid": "1452306",
+                    "username": "'Ben"
+                },
+                {
+                    "uid": "1205194",
+                    "username": "xitoxic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Infαmous, Abdul.HF, Hearthstone, #Programmer, and The Poseidon were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3433475",
+                    "username": "Infαmous"
+                },
+                {
+                    "uid": "2491315",
+                    "username": "Abdul.HF"
+                },
+                {
+                    "uid": "2830142",
+                    "username": "Hearthstone"
+                },
+                {
+                    "uid": "2004660",
+                    "username": "#Programmer"
+                },
+                {
+                    "uid": "2045005",
+                    "username": "The Poseidon"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Armada and Tyrell Wellick took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "2770452",
+                    "username": "Tyrell Wellick"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "TSG and ๖ۣۜBusinessman™ were closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "642694",
+                    "username": "TSG"
+                },
+                {
+                    "uid": "1476604",
+                    "username": "๖ۣۜBusinessman™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Hearthstone and ๖ۣۜBusinessman™ were rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2830142",
+                    "username": "Hearthstone"
+                },
+                {
+                    "uid": "1476604",
+                    "username": "๖ۣۜBusinessman™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Views donated for Master Donator and received White Hat Helper.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Mascot Logo",
+            "description": "GFX spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5580868",
+            "users": [
+                {
+                    "uid": "3033823",
+                    "username": "Kornis"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Cinder",
+            "description": "GFX spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5580382",
+            "users": [
+                {
+                    "uid": "1655295",
+                    "username": "#Doge"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Gauth Purge",
+            "description": "2FA reset and recovery policy announcement.",
+            "url": "http://hackforums.net/showthread.php?tid=5578405",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Getting Started With Private Investigation [Methods, Explanations, Compilations...]",
+            "description": "PI introduction thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5567475",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[TUT] HOW TO MAKE PYTHON KEYLOGGER[TUT]",
+            "description": "Python keylogger tutorial.",
+            "url": "http://hackforums.net/showthread.php?tid=5576090",
+            "users": [
+                {
+                    "uid": "3432646",
+                    "username": "Greg8Tacos"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "DataStructures and Algorithms - Part 2 - LinkedLists 1.1",
+            "description": "Linked list tutorial continuation.",
+            "url": "http://hackforums.net/showthread.php?tid=5574953",
+            "users": [
+                {
+                    "uid": "371032",
+                    "username": "c-_-m"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What do you put in your smoothies?",
+            "description": "Smoothie recipes discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5577977",
+            "users": [
+                {
+                    "uid": "3503137",
+                    "username": "hfaccount"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Good Burgers You've Had?",
+            "description": "Food thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5575537",
+            "users": [
+                {
+                    "uid": "3402022",
+                    "username": "Excavated"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Who's your favorite HF member?",
+            "description": "Community poll.",
+            "url": "http://hackforums.net/showthread.php?tid=5577232",
+            "users": [
+                {
+                    "uid": "3343369",
+                    "username": "Scrub Lord"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How many towels do you use when showering?",
+            "description": "Lounge thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5577511",
+            "users": [
+                {
+                    "uid": "274613",
+                    "username": "Яǝʌǝɹsǝ"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Best of Omni | Savage Edition",
+            "description": "Omniscient quotes collection.",
+            "url": "http://hackforums.net/showthread.php?tid=5574478",
+            "users": [
+                {
+                    "uid": "1512695",
+                    "username": "Leroy Jethro Gibbs"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Got four wisdom teeth taken out today. UPDATE : 3/19",
+            "description": "Personal update thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5576044",
+            "users": [
+                {
+                    "uid": "1650008",
+                    "username": "Sudsy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Maxim's lil One-Year Feedback",
+            "description": "Anniversary feedback.",
+            "url": "http://hackforums.net/showthread.php?tid=5577675",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[The Marketers] [Everyone] FRESH METHOD TO GET REAL AND ACTIVE YOUTUBE VIEWS!",
+            "description": "YouTube method share.",
+            "url": "http://hackforums.net/showthread.php?tid=5573120",
+            "users": [
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Get FREE] LifeTime VPN 50GB/Month 8 Countries",
+            "description": "VPN offer thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5578154",
+            "users": [
+                {
+                    "uid": "386525",
+                    "username": "ɨɲ$๏ʍɲɨąȼ"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hacker contest win huge stacks of $$$",
+            "description": "Puzzle contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5578155",
+            "users": [
+                {
+                    "uid": "784227",
+                    "username": "Alpha"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[HFCC] The Hack Forums Coding Contest - Week 3",
+            "description": "Coding contest round.",
+            "url": "http://hackforums.net/showthread.php?tid=5574047",
+            "users": [
+                {
+                    "uid": "183596",
+                    "username": "Haxalot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Weekly Q's #28] (Rotobitc) Automation of the Economy: A good or bad thing?",
+            "description": "Weekly discussion series.",
+            "url": "http://hackforums.net/showthread.php?tid=5577206",
+            "users": [
+                {
+                    "uid": "3066693",
+                    "username": "DerMensch24"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Userscript] HF Live Preview",
+            "description": "Browser userscript for post preview.",
+            "url": "http://hackforums.net/showthread.php?tid=5579726",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hack Forums - Saint Patrick's Day + Easter - Avatar Gallery",
+            "description": "Holiday avatar gallery.",
+            "url": "http://hackforums.net/showthread.php?tid=5574023",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "TRY NOT TO HEADBANG CHALLENGE",
+            "description": "Music challenge thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5578262",
+            "users": [
+                {
+                    "uid": "3378868",
+                    "username": "55an1"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Bender conducted by Tsundere.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54398518",
+            "users": [
+                {
+                    "uid": "2960032",
+                    "username": "Bender"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 335,
+        "date": 1490132076,
+        "pid": "54398518",
+        "author_uid": "610356",
+        "subject": "Hack Forums News // Edition 335"
+    }
+}

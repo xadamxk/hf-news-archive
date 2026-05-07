@@ -1,0 +1,277 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "None...",
+            "description": "No major onsite headlines this week per the edition.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "The Order listed for sale",
+            "description": "Krave listed The Order for sale.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1165241",
+                    "username": "Krave"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group programs, recruitments, and informational threads",
+            "description": "Notorious apprenticeship; Consensus, Dawn, Wiki, Harmony, Legends, Notorious, Novus, Royalty, Torque recruitments; Aequitas, Dawn, Harmony, Influence, Legends, Marketers, Novus, Order, and Royalty informational threads.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Gangin' reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3113723",
+                    "username": "Gangin'"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Windows 98 LQP; Ninetails.; Danny Khalifa and Medd spamming; Death RKO complaining.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3360889",
+                    "username": "Windows 98"
+                },
+                {
+                    "uid": "1812679",
+                    "username": "Ninetails."
+                },
+                {
+                    "uid": "2952200",
+                    "username": "Danny Khalifa"
+                },
+                {
+                    "uid": "3215593",
+                    "username": "Medd"
+                },
+                {
+                    "uid": "3259699",
+                    "username": "Death"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Marwix, Thermal, and αlphα mαlє took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1817532",
+                    "username": "Marwix"
+                },
+                {
+                    "uid": "2951661",
+                    "username": "Thermal"
+                },
+                {
+                    "uid": "3213238",
+                    "username": "αlphα mαlє"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "RektNub420, ⭐ ＰＲＯＦＩＴ ⭐, YinYang, and ๖ۣۜSuperyui were closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3042305",
+                    "username": "RektNub420"
+                },
+                {
+                    "uid": "2315080",
+                    "username": "⭐ ＰＲＯＦＩＴ ⭐"
+                },
+                {
+                    "uid": "2321860",
+                    "username": "YinYang"
+                },
+                {
+                    "uid": "308654",
+                    "username": "๖ۣۜSuperyui"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "RektNub420, Death, YinYang, ๖ۣۜSuperyui rep killed; Crypto Trader reputation reset.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3042305",
+                    "username": "RektNub420"
+                },
+                {
+                    "uid": "3259699",
+                    "username": "Death"
+                },
+                {
+                    "uid": "2321860",
+                    "username": "YinYang"
+                },
+                {
+                    "uid": "308654",
+                    "username": "๖ۣۜSuperyui"
+                },
+                {
+                    "uid": "3599641",
+                    "username": "Crypto Trader"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Windows 98 Dunce; Golden Content to TyrantKingBen and Designer for Snipta; Ezrfkn The Protector; Binary101 Dicey.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3360889",
+                    "username": "Windows 98"
+                },
+                {
+                    "uid": "2525478",
+                    "username": "TyrantKingBen"
+                },
+                {
+                    "uid": "1290620",
+                    "username": "Designer"
+                },
+                {
+                    "uid": "2047033",
+                    "username": "Ezrfkn"
+                },
+                {
+                    "uid": "3580970",
+                    "username": "Binary101"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features",
+            "description": "GFX battlestation spotlights in the third post.",
+            "url": "http://hackforums.net/showthread.php?tid=5656988",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features (retina test)",
+            "description": "Alternate-resolution battlestation spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5657582",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Vitani comic strip",
+            "description": "HF-related comic panels in the archived third post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "\"Antshares\"",
+            "description": "Informational thread on China's Antshares public-chain project.",
+            "url": "http://hackforums.net/showthread.php?tid=5649891",
+            "users": [
+                {
+                    "uid": "2969510",
+                    "username": "Gameh3x"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "\"How Hack Forums Helped Me | Happeh's Testimonial\"",
+            "description": "Seven-year member testimonial and feedback thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5644815",
+            "users": [
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "\"Giveaway | L33T | UB3R | 3P1C | All Users\"",
+            "description": "Nexio's upgrade giveaway contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5647594",
+            "users": [
+                {
+                    "uid": "2189980",
+                    "username": "Nexio"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "\"SUMMER GIVEAWAY -----GIVING $5 BTC TO 5 DIFFERENT PEOPLE\"",
+            "description": "Summer BTC giveaway to multiple winners.",
+            "url": "http://hackforums.net/showthread.php?tid=5647547",
+            "users": [
+                {
+                    "uid": "3113723",
+                    "username": "Gangin'"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "\"ETH dropped to $74 for a brief second?\"",
+            "description": "Discussion on ETH price action and crypto bubble narratives.",
+            "url": "http://hackforums.net/showthread.php?tid=5652308",
+            "users": [
+                {
+                    "uid": "3141586",
+                    "username": "Wolf"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "\"Consensus | consensus.fun | CryptoCurrency Investing Simulator | $50 + GROUP INVITES!\"",
+            "description": "Lookin's competition with prizes and Consensus invites.",
+            "url": "http://hackforums.net/showthread.php?tid=5652519",
+            "users": [
+                {
+                    "uid": "3308493",
+                    "username": "Lookin"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 349,
+        "date": 1498718750,
+        "pid": "55224170",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 349"
+    }
+}

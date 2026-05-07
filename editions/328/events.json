@@ -1,0 +1,81 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Omniscient Threatened",
+            "description": "Tommy has contacted Omniscient through the forum to let him know he is coming after him and his family. No thread was created by Omniscient however he did tweet out a screenshot of Tommy's post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "exploit.c is stepping down as a leader in Royalty. >>read here . Thermal the Prophet is now a leader in Royalty. >>read here .",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2875087",
+                    "username": "exploit.c"
+                },
+                {
+                    "uid": "2951661",
+                    "username": "Thermal the Prophet"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: WoW and Lineage II",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=3590292",
+            "users": [
+                {
+                    "uid": "1551705",
+                    "username": "ArdentFX"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Some Ugly Shit",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5529672",
+            "users": [
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with xadamxk conducted by bοxxy.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=53975638",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 328,
+        "date": 1485901299,
+        "pid": "53975638",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 328"
+    }
+}

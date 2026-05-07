@@ -1,0 +1,400 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Premium Tools and Programs subforum",
+            "description": "New Premium Sellers subforum to separate tool/program sales from ebooks and services; move requests via staff PM.",
+            "url": "http://hackforums.net/showthread.php?tid=5595523",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Server infrastructure upgrade",
+            "description": "Omniscient leased additional servers ahead of the API rollout; security and ops handled personally.",
+            "url": "http://hackforums.net/showthread.php?tid=5596692",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Classic userbars restored",
+            "description": "Official Hack Forums userbars reverted to their older visual style (unclear if permanent); comparison image in edition.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "R3KT promotion usergroup",
+            "description": "New free promotion group (Ub3r, 1000+ rep, posts, and account age); rep cap raised to ±4; upgrades automatic.",
+            "url": "http://hackforums.net/showthread.php?tid=5602178",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Illuminati rebranded to Novus Ordo Seclorum",
+            "description": "Group renamed with Gambling Zone and Crypto subforums; recruitments for Aequitas, Baka, Dawn, Echo, Wiki, Legends, Royalty sectors, Brotherhood, Marketers, and informational threads were listed in the edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5596923",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "thales reached 5,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2448195",
+                    "username": "thales"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Plasta was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3526874",
+                    "username": "Plasta"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "grail took a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3150737",
+                    "username": "grail"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "liam270591 was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3357694",
+                    "username": "liam270591"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Izuku Midoriya was rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3462434",
+                    "username": "Izuku Midoriya"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Octavia received the Gold Clover award for a highlighted post.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2280806",
+                    "username": "Octavia"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Vitani comic strip",
+            "description": "GFX spotlight post with five numbered comic panels; no showthread or credited artist link in the archived third post.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "Premium Tools and Program Threads",
+            "description": "Announcement of the Premium Tools and Programs subforum and move policy.",
+            "url": "http://hackforums.net/showthread.php?tid=5595523",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Server Changes",
+            "description": "Notice on new rental servers and infrastructure ahead of the API.",
+            "url": "http://hackforums.net/showthread.php?tid=5596692",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "R3KT Group",
+            "description": "Official thread for the R3KT promotion usergroup and rep changes.",
+            "url": "http://hackforums.net/showthread.php?tid=5602178",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "| Dawn Innuendo | Relationship Support / Help Desk",
+            "description": "Support thread for relationship questions.",
+            "url": "http://hackforums.net/showthread.php?tid=5506137",
+            "users": [
+                {
+                    "uid": "988432",
+                    "username": "Nevieth"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How I went from G2 to Plat 4 with Plat 2 MMR by following these guidelines.",
+            "description": "League of Legends climbing guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5595637",
+            "users": [
+                {
+                    "uid": "401053",
+                    "username": "-F0rsak3n-"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Run your own Caching non-Logging/Censoring, DNSSEC/DNSCrypt-enabled DNS Resolver",
+            "description": "Technical write-up on hosting a privacy-focused DNS resolver.",
+            "url": "http://hackforums.net/showthread.php?tid=5600866",
+            "users": [
+                {
+                    "uid": "3183372",
+                    "username": "Previously Known As..."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Equilibrium] Cracking your hashes & Official Cryptography Help Desk",
+            "description": "Hash cracking and cryptography help desk.",
+            "url": "http://hackforums.net/showthread.php?tid=5551622",
+            "users": [
+                {
+                    "uid": "2703452",
+                    "username": "LSDoom"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What does your Username mean?",
+            "description": "Discussion on origins of member usernames.",
+            "url": "http://hackforums.net/showthread.php?tid=5593509",
+            "users": [
+                {
+                    "uid": "3517421",
+                    "username": "Old School Cracker"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What's the Longest You've Gone Without Sleep?",
+            "description": "Sleep-deprivation discussion; OP cited 40 hours.",
+            "url": "http://hackforums.net/showthread.php?tid=5594970",
+            "users": [
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Pineapple on pizza",
+            "description": "Debate on pineapple as a pizza topping.",
+            "url": "http://hackforums.net/showthread.php?tid=5592267",
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate～っ☆"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Young Thug is the greatest rapper alive",
+            "description": "Rap opinions thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5600383",
+            "users": [
+                {
+                    "uid": "2091037",
+                    "username": "Vittorio"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Day I Tried to Sell a Raccoon....As a Cat [Update 17/04/17]",
+            "description": "Updated lounge story thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5139355",
+            "users": [
+                {
+                    "uid": "229769",
+                    "username": "Effexion"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Abortion - Defining life",
+            "description": "Debate on when life begins in abortion discourse.",
+            "url": "http://hackforums.net/showthread.php?tid=5597466",
+            "users": [
+                {
+                    "uid": "2772971",
+                    "username": "Motiv"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Kendrick Lamar - Damn",
+            "description": "Discussion of Kendrick Lamar’s album and career.",
+            "url": "http://hackforums.net/showthread.php?tid=5599605",
+            "users": [
+                {
+                    "uid": "290801",
+                    "username": "Yin Yang"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Lookin's Feedback 2017",
+            "description": "Member feedback thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5596892",
+            "users": [
+                {
+                    "uid": "3308493",
+                    "username": "Lookin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Four Years | Vanilla",
+            "description": "Anniversary / testimonial thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5592971",
+            "users": [
+                {
+                    "uid": "1754362",
+                    "username": "'Vanilla"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$50 Anime Tattoo Reccomendations",
+            "description": "Contest: recommend an anime tattoo for a $50 prize.",
+            "url": "http://hackforums.net/showthread.php?tid=5600581",
+            "users": [
+                {
+                    "uid": "3052383",
+                    "username": "INOOB"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "3p1c GIVEAWAY #5",
+            "description": "3pic upgrade giveaway for eligible members.",
+            "url": "http://hackforums.net/showthread.php?tid=5595170",
+            "users": [
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Worth $49] Snapchat marketing course for FREE!",
+            "description": "Free course access giveaway for Snapchat marketing.",
+            "url": "http://hackforums.net/showthread.php?tid=5601051",
+            "users": [
+                {
+                    "uid": "2887685",
+                    "username": "Antonio™"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How do you protect yourself ?",
+            "description": "Discussion on personal security tools and practices.",
+            "url": "http://hackforums.net/showthread.php?tid=5599198",
+            "users": [
+                {
+                    "uid": "3433648",
+                    "username": "Corrupt3d"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Get an OG MAL username",
+            "description": "Guide to claiming inactive MyAnimeList usernames.",
+            "url": "http://hackforums.net/showthread.php?tid=5596647",
+            "users": [
+                {
+                    "uid": "3478389",
+                    "username": "Yui-Senpai"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Starstruck conducted by .Sinister.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54637895",
+            "users": [
+                {
+                    "uid": "900087",
+                    "username": "Starstruck"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 339,
+        "date": 1492640767,
+        "pid": "54637895",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 339"
+    }
+}

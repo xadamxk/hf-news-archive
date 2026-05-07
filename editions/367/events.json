@@ -1,0 +1,207 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Reputation Bumping has Been Disabled",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5745265",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Avatars Make a Return",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5741402",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Laundry List of Future UI Fixes Posted",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5746227",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Ash Ketchum is now a leader of Terminal.; 'Fox is no longer a leader of Influence.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1865979",
+                    "username": "Ash Ketchum"
+                },
+                {
+                    "uid": "2041579",
+                    "username": "'Fox"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Omniscient has reached 40,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3183372",
+                    "username": "Previously Known As..."
+                },
+                {
+                    "uid": "1369647",
+                    "username": "Mr. WAVES"
+                },
+                {
+                    "uid": "1356224",
+                    "username": "LastSession"
+                },
+                {
+                    "uid": "1865979",
+                    "username": "Ash Ketchum"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1741582",
+                    "username": "Nadisty"
+                },
+                {
+                    "uid": "74674",
+                    "username": "Blazin"
+                },
+                {
+                    "uid": "3323508",
+                    "username": "00100100"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF Features Broken",
+            "description": "HF Features Broken - Omniscient",
+            "url": "http://hackforums.net/showthread.php?tid=5741402",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF Theme UI Problems and Fixes",
+            "description": "An official list of fixes that will be made regarding the new theme.",
+            "url": "http://hackforums.net/showthread.php?tid=5746227",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Rep Bump",
+            "description": "Omniscient altered the reputation feature so that updated reputations are not bumped to the top.",
+            "url": "http://hackforums.net/showthread.php?tid=5745265",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How To Get Started With Linux | A Beginner's Guide",
+            "description": "How To Get Started With Linux | A Beginner's Guide - Sahaj",
+            "url": "http://hackforums.net/showthread.php?tid=5287536",
+            "users": [
+                {
+                    "uid": "2440338",
+                    "username": "Sahaj"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Virtual Machines 101 | Ultimate Beginner Guide",
+            "description": "The ultimate beginner guide for virtual machines.",
+            "url": "http://hackforums.net/showthread.php?tid=5720978",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Beginner's Guide to Social Networking | Social Media Help Desk",
+            "description": "A beginner guide to social networking.",
+            "url": "http://hackforums.net/showthread.php?tid=5734031",
+            "users": [
+                {
+                    "uid": "1610871",
+                    "username": "Funtela"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Almost a year in.",
+            "description": "Almost a year in. - Ctrl+Alt+Del",
+            "url": "http://hackforums.net/showthread.php?tid=5745201",
+            "users": [
+                {
+                    "uid": "3427514",
+                    "username": "Ctrl+Alt+Del"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 367,
+        "date": 1509593899,
+        "pid": "56160517",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 367"
+    }
+}

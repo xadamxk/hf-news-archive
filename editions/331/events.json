@@ -1,0 +1,378 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Recent downtime",
+            "description": "Omniscient said intermittent outages were routine server issues (NGINX / PHP CGI), not attacks.",
+            "url": "http://hackforums.net/showthread.php?tid=5555898",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "MariaDB SQL maintenance",
+            "description": "Forum closed briefly while Omniscient updated MariaDB after a failed build.",
+            "url": "http://hackforums.net/showthread.php?tid=5556408",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "G.Root became a Torque leader. Wiki, Royalty, Notorious, Aequitas, Echo, Eclipse, Legends, Torque, Brotherhood, and other groups posted recruitment or information threads (see Group News lists).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3134890",
+                    "username": "G.Root"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts and reputation milestones",
+            "description": "Tom Cruise reached 1,000 posts; Career 5,000 posts; TryAgain 10,000 posts; ra1d 2,000 reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3372466",
+                    "username": "Tom Cruise"
+                },
+                {
+                    "uid": "1785331",
+                    "username": "Career"
+                },
+                {
+                    "uid": "1073887",
+                    "username": "TryAgain"
+                },
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Cough, Jok3r (VersionTwo), Rᴇɴᴇɢᴀᴅᴇ, and Jammer were closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2794225",
+                    "username": "Cough"
+                },
+                {
+                    "uid": "3358685",
+                    "username": "Jok3r (VersionTwo)"
+                },
+                {
+                    "uid": "3014849",
+                    "username": "Rᴇɴᴇɢᴀᴅᴇ"
+                },
+                {
+                    "uid": "2828861",
+                    "username": "Jammer"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "ChaoticForce and Zachary. were Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3278044",
+                    "username": "ChaoticForce"
+                },
+                {
+                    "uid": "2960032",
+                    "username": "Zachary."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Flat Grim Reaper",
+            "description": "GFX spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5557007",
+            "users": [
+                {
+                    "uid": "1867648",
+                    "username": "Stellar"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Rawrr!!",
+            "description": "GFX spotlight (artist link in the edition pointed to the wrong URL; no credited artist in the post body).",
+            "url": "http://hackforums.net/showthread.php?tid=5552782",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "Server Problems",
+            "description": "Hardware failure caused ongoing server issues and possible downtime.",
+            "url": "http://hackforums.net/showthread.php?tid=5551316",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "MariaDB SQL Updated",
+            "description": "Announcement of MariaDB update.",
+            "url": "http://hackforums.net/showthread.php?tid=5556408",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "NanoCore - Remote Desktop Protocol Guide and Support.",
+            "description": "NanoCore RAT usage guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5547418",
+            "users": [
+                {
+                    "uid": "1769039",
+                    "username": "{Nexus}"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Basic Traceroute Script",
+            "description": "Python traceroute tutorial.",
+            "url": "http://hackforums.net/showthread.php?tid=5556504",
+            "users": [
+                {
+                    "uid": "3388985",
+                    "username": "FriendOfRaven"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Context Managers",
+            "description": "Python context managers tutorial.",
+            "url": "http://hackforums.net/showthread.php?tid=5557139",
+            "users": [
+                {
+                    "uid": "955820",
+                    "username": "(╯°□°）╯︵ ┻━━┻"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Pokemon GO - Generation #2 Coming This Week!!!",
+            "description": "Pokémon Go Gen 2 discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5552015",
+            "users": [
+                {
+                    "uid": "497949",
+                    "username": "eCoLoGy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Mousepad",
+            "description": "Show custom mousepads.",
+            "url": "http://hackforums.net/showthread.php?tid=5555529",
+            "users": [
+                {
+                    "uid": "591405",
+                    "username": "Maradonnie"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What do you think of Parkour?",
+            "description": "Parkour discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5553612",
+            "users": [
+                {
+                    "uid": "2284369",
+                    "username": "Ted™"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What songs make you feel nostalgic?",
+            "description": "Music nostalgia thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5550879",
+            "users": [
+                {
+                    "uid": "3431345",
+                    "username": "Daniel"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Do you shave your ass?",
+            "description": "Lounge discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5554668",
+            "users": [
+                {
+                    "uid": "646178",
+                    "username": "♥Spartan"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Do you believe in Aliens?",
+            "description": "Aliens discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5555364",
+            "users": [
+                {
+                    "uid": "1683739",
+                    "username": "mrpker9"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "3 Years, 3+3+2 days, 30k posts",
+            "description": "bοxxy feedback milestone thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5555214",
+            "users": [
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$100 Awards contest [OFFICIAL] [LONG]",
+            "description": "Joke contest for awards.",
+            "url": "http://hackforums.net/showthread.php?tid=5554499",
+            "users": [
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I want to upgrade you to EPIC :: PART 2",
+            "description": "Upgrade giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5556151",
+            "users": [
+                {
+                    "uid": "2623266",
+                    "username": "Jason"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$100 BTC giveaway",
+            "description": "BTC giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5554549",
+            "users": [
+                {
+                    "uid": "3423769",
+                    "username": "yaltmark"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Are you a creative person? Win a gamertag",
+            "description": "Creative contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5550254",
+            "users": [
+                {
+                    "uid": "2754642",
+                    "username": "Abel"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My road to kill 5K Gargoyles",
+            "description": "Runescape progress thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5551348",
+            "users": [
+                {
+                    "uid": "3040956",
+                    "username": "L A S S 3"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "DrugMC - Drugs - Raiding - Scamming - Griefing - Stealing - Custom Plugins - Factions",
+            "description": "Minecraft server ad.",
+            "url": "http://hackforums.net/showthread.php?tid=5548734",
+            "users": [
+                {
+                    "uid": "2990242",
+                    "username": "HostingSpecialists"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My first Singed Montage :D (Singed One Trick for 3 Seasons)",
+            "description": "League montage.",
+            "url": "http://hackforums.net/showthread.php?tid=5554273",
+            "users": [
+                {
+                    "uid": "2290255",
+                    "username": "Kastow"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Nintendo Switch OS Design leaked",
+            "description": "Switch OS leak thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5553480",
+            "users": []
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with spooky hacker conducted by Tsundere.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54158133",
+            "users": [
+                {
+                    "uid": "2582112",
+                    "username": "spooky hacker"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 331,
+        "date": 1487707232,
+        "pid": "54158133",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 331"
+    }
+}

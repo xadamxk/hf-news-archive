@@ -1,0 +1,299 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "No Time for Downtime",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5675353",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "No Time for Downtime",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5688516",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Nex+ rebranded Echo into Limitless.; Froggy is now the owner of The Entrepreneurs after Formula1 gifted her ownership. Soon after, she rebraned the group into the Socialites.; topdog77 purchased The Order and has rebranded it into The Executives.; Meow & Juicy- are now leaders of Revolution.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "923753",
+                    "username": "Juicy-"
+                },
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                },
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "2194640",
+                    "username": "Nex+"
+                },
+                {
+                    "uid": "2853444",
+                    "username": "topdog77"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=5680175",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Bitmora has reached 1,000 posts; Horus God has reached 1,000 posts; Shay÷ has reached 1,000 positive reputation; Social Engineer has reached 1,000 positive reputation; zSerity has reached 3,000 positive reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1924961",
+                    "username": "Bitmora"
+                },
+                {
+                    "uid": "547589",
+                    "username": "Horus God"
+                },
+                {
+                    "uid": "2119013",
+                    "username": "Shay÷"
+                },
+                {
+                    "uid": "957249",
+                    "username": "Social Engineer"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1041189",
+                    "username": "Obli"
+                },
+                {
+                    "uid": "2223238",
+                    "username": "Aggron"
+                },
+                {
+                    "uid": "2230336",
+                    "username": "Hastur"
+                },
+                {
+                    "uid": "3360889",
+                    "username": "Windows 98"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "3080905",
+                    "username": "Xeria"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3142667",
+                    "username": "~ Left HF For Good ~ a/k/a anguish"
+                },
+                {
+                    "uid": "50808",
+                    "username": "g4143"
+                },
+                {
+                    "uid": "2759618",
+                    "username": "YayHar"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Juicy- donated for Bitcoinage and Master Donator and received the Drunk award; Cheif. donated for Bitcoinage; Steve donated for Grand Amethyst and received the FPS Gawd and Ninja awards; Lexsern donated for 2x Grand Amethyst and subsequently received the Nina, Jailbreak Freak, and Music Lover awards; g4143 has all their awards removed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "923753",
+                    "username": "Juicy-"
+                },
+                {
+                    "uid": "458073",
+                    "username": "Chief."
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "12145",
+                    "username": "Lexsern"
+                },
+                {
+                    "uid": "50808",
+                    "username": "g4143"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hack Forums Mobile",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5687506",
+            "users": [
+                {
+                    "uid": "1250012",
+                    "username": "Polunom"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Private Investigation Section Guide.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5689252",
+            "users": [
+                {
+                    "uid": "3329364",
+                    "username": "Bromden"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Buffer Overflow Part 2 : Introduction to assembly",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5690465",
+            "users": [
+                {
+                    "uid": "2780869",
+                    "username": "7_R3X"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Skwiid's Testimonial",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5687647",
+            "users": [
+                {
+                    "uid": "2765837",
+                    "username": "๖ۣۜSkwiid"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Airbus - 7 years and counting",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5688490",
+            "users": [
+                {
+                    "uid": "108555",
+                    "username": "Airbus"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Bromden's Testimonial",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5688648",
+            "users": [
+                {
+                    "uid": "3329364",
+                    "username": "Bromden"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My Transformation - From 130kg to 95kg",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5688995",
+            "users": [
+                {
+                    "uid": "1343245",
+                    "username": "What"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My Destiny Gundam is now 100% complete",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5690108",
+            "users": [
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Sorzus conducted by Tsundere.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2883763",
+                    "username": "Sorzus"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 356,
+        "date": 1502762686,
+        "pid": "55619539",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 356"
+    }
+}

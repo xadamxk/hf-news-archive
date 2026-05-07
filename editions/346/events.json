@@ -1,0 +1,196 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Datacenter / VPN block policy under review",
+            "description": "Omniscient discussed loosening datacenter blocks to help the future API and VPN access, with noted risks.",
+            "url": "http://hackforums.net/showthread.php?tid=5634552",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "On-site cryptocurrency calculator offer",
+            "description": "Omniscient invited an ajax-driven exchange-rate calculator implementation to be added to the site.",
+            "url": "http://hackforums.net/showthread.php?tid=5641511",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Echo listed for sale",
+            "description": "Arrow put Echo up for sale after long-term ownership.",
+            "url": "http://hackforums.net/showthread.php?tid=5639636",
+            "users": [
+                {
+                    "uid": "1191229",
+                    "username": "Arrow"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group programs and recruitments",
+            "description": "Notorious and Royalty student programs continued; Notorious recruitment #4, Novus, Royalty, SheepGang, Brotherhood threads listed with informational buy-ins.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts and reputation milestones",
+            "description": "Carazy and Excavated reached 1,000 posts; Stashy reached 10,000 again; Parks reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3051651",
+                    "username": "Carazy"
+                },
+                {
+                    "uid": "3402022",
+                    "username": "Excavated"
+                },
+                {
+                    "uid": "2941702",
+                    "username": "Stashy"
+                },
+                {
+                    "uid": "2945848",
+                    "username": "Parks"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "**Zoo, Incapability, and Stratis were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1550131",
+                    "username": "**Zoo"
+                },
+                {
+                    "uid": "2484853",
+                    "username": "Incapability"
+                },
+                {
+                    "uid": "3567637",
+                    "username": "Stratis"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Thehackerguy1, Elitas, and Bean lol took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2520017",
+                    "username": "Thehackerguy1"
+                },
+                {
+                    "uid": "3165279",
+                    "username": "Elitas"
+                },
+                {
+                    "uid": "2670171",
+                    "username": "Bean lol"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "JDCL was closed for inactivity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2494228",
+                    "username": "JDCL"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Incapability was rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2484853",
+                    "username": "Incapability"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Vitani received a third Sticky Man award; Rikz and 'Fox received large donation-award bundles per the list.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "3583661",
+                    "username": "Rikz"
+                },
+                {
+                    "uid": "2041579",
+                    "username": "'Fox"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features",
+            "description": "GFX battlestation spotlights in the third post.",
+            "url": "http://hackforums.net/showthread.php?tid=5637072",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation features (2)",
+            "description": "Second battlestation spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5639648",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Comic strip",
+            "description": "Numbered comic panels in the archived third post (no per-panel HF thread links).",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with ra1d conducted by Enterpriser.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=55039449",
+            "users": [
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 346,
+        "date": 1496760486,
+        "pid": "55039449",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 346"
+    }
+}

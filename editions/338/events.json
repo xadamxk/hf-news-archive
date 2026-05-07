@@ -1,0 +1,205 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Minor edition",
+            "description": "Writers published a reduced edition while moving HF News to a new backend workflow; editions 339+ expected to return to full sections.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and purchases",
+            "description": "Illuminati was purchased by zSerity. Nevieth and Tsundere became Baka leaders; MoneyManeLaFlare became an Illuminati leader. Notorious and Royalty ran programs; recruitments and info threads for Aequitas, Baka, Dawn, Echo, Wiki, Legends, Royalty, Skill, Brotherhood, Marketers, Order, and Novus renaming were listed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                },
+                {
+                    "uid": "988432",
+                    "username": "Nevieth"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                },
+                {
+                    "uid": "3323508",
+                    "username": "MoneyManeLaFlare"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Bow N' Arrows and Charger reached 1,000 and 5,000 posts; Nate 10,000 posts; Mr. Robot 20,000 posts; Gt403cyl 1,000 prestige; Medd, Dredd, Ombra 1,000 reputation; H3God 2,000 reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2682037",
+                    "username": "Bow N' Arrows"
+                },
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                },
+                {
+                    "uid": "1087815",
+                    "username": "Nate"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "1125893",
+                    "username": "Gt403cyl"
+                },
+                {
+                    "uid": "3215593",
+                    "username": "Medd"
+                },
+                {
+                    "uid": "1661823",
+                    "username": "Dredd"
+                },
+                {
+                    "uid": "1454187",
+                    "username": "Ombra"
+                },
+                {
+                    "uid": "1359715",
+                    "username": "H3God"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "TheVBScripter, Codefuser, and Picoloco were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "495580",
+                    "username": "TheVBScripter"
+                },
+                {
+                    "uid": "3186417",
+                    "username": "Codefuser"
+                },
+                {
+                    "uid": "3119132",
+                    "username": "Picoloco"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Quinck took a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1235445",
+                    "username": "Quinck"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Tides was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3202613",
+                    "username": "Tides"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Picoloco and Codefuser were rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3119132",
+                    "username": "Picoloco"
+                },
+                {
+                    "uid": "3186417",
+                    "username": "Codefuser"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Parker received Turkey; Ⅴanguish Eclipse; Marwix and Travis Bickle Gold Clover; NGMA Black Hatter; Steve Master Donator plus Genius and Green Apple; Computer Craft DaBomb for HF API work.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2945848",
+                    "username": "Parker"
+                },
+                {
+                    "uid": "3451448",
+                    "username": "Ⅴanguish"
+                },
+                {
+                    "uid": "1817532",
+                    "username": "Marwix"
+                },
+                {
+                    "uid": "3026066",
+                    "username": "Travis Bickle"
+                },
+                {
+                    "uid": "3031087",
+                    "username": "NGMA"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "1948829",
+                    "username": "Computer Craft"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Kanami conducted by bοxxy.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54582157",
+            "users": [
+                {
+                    "uid": "1208894",
+                    "username": "Kanami"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 338,
+        "date": 1492057304,
+        "pid": "54582157",
+        "author_uid": "662802",
+        "subject": "Hack Forums News // Edition 338"
+    }
+}

@@ -1,0 +1,345 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Hack Forums header",
+            "description": "Omniscient updated the forum header and hinted at a future theme refresh with MyBB 1.9.",
+            "url": "http://hackforums.net/showthread.php?tid=5566295",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Views stepped down from The Brotherhood leadership. Notorious and Royalty ran programs; MightyAssassins, Marketers, Baka, The Order, Echo, Eclipse, Wiki, Legends, Royalty, Brotherhood, and others posted recruitments or information threads.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestone",
+            "description": "Infαmous reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3433475",
+                    "username": "Infαmous"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Denmark, Proximity, A NEW ERA..., and uʍop ǝpısdn were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "631703",
+                    "username": "Denmark"
+                },
+                {
+                    "uid": "564400",
+                    "username": "Proximity"
+                },
+                {
+                    "uid": "3082515",
+                    "username": "A NEW ERA..."
+                },
+                {
+                    "uid": "631307",
+                    "username": "uʍop ǝpısdn"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Ostricist received Eclipse; Cat Warrior received Protector for reporting the Web Cache Deception Attack.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2814290",
+                    "username": "Ostricist"
+                },
+                {
+                    "uid": "3274507",
+                    "username": "Cat Warrior"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Deadpool UI",
+            "description": "GFX spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5543756",
+            "users": [
+                {
+                    "uid": "1098418",
+                    "username": "TheInspiredOne"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Cinema 4D - Abstract Wallpaper",
+            "description": "GFX spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5567783",
+            "users": [
+                {
+                    "uid": "2444713",
+                    "username": "Lennie D."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Junk Pruning and User Post Recount",
+            "description": "Omniscient explained post count drops from junk pruning.",
+            "url": "http://hackforums.net/showthread.php?tid=5565781",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Bitcoinage Award Change",
+            "description": "Bitcoinage award repriced to $250.",
+            "url": "http://hackforums.net/showthread.php?tid=5564217",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "View Self Posts",
+            "description": "New profile feature to view your posts in a thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5567263",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Notorious] Basic Doxing Guide",
+            "description": "Introductory doxing resources.",
+            "url": "http://hackforums.net/showthread.php?tid=5566469",
+            "users": [
+                {
+                    "uid": "2837356",
+                    "username": "Voxi"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Notorious] Mobile Helpdesk // Help for your Smartphone // Ask questions/troubleshoot",
+            "description": "Mobile device helpdesk.",
+            "url": "http://hackforums.net/showthread.php?tid=5566460",
+            "users": [
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Remove iCloud from an activated device (iOS 10.X) (Filza)",
+            "description": "Jailbroken iCloud removal guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5566033",
+            "users": [
+                {
+                    "uid": "1689778",
+                    "username": "Λlex"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What computer chair do you have?",
+            "description": "Chair discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5560611",
+            "users": [
+                {
+                    "uid": "59047",
+                    "username": "Keat"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "if you can watch this without cringe pausing, you're a god",
+            "description": "Cringe video challenge.",
+            "url": "http://hackforums.net/showthread.php?tid=5567430",
+            "users": [
+                {
+                    "uid": "2441572",
+                    "username": "Weapon of ass destruction"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Ass or tits?",
+            "description": "Lounge poll (thread URL malformed in archived edition; author Bender).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2960032",
+                    "username": "Bender"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How often do you change your bong water?",
+            "description": "Cannabis culture thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5567495",
+            "users": [
+                {
+                    "uid": "2864302",
+                    "username": "M.D."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What is Your Pet Peeve?",
+            "description": "Pet peeves discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5566350",
+            "users": [
+                {
+                    "uid": "3386932",
+                    "username": "Yakama"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Seven Years | 4,000 Posts | Charger's Feedback",
+            "description": "Milestone feedback thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5565037",
+            "users": [
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[HFCC] The Hack Forums Coding Contest - Week 1",
+            "description": "Weekly coding contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5564022",
+            "users": [
+                {
+                    "uid": "183596",
+                    "username": "Haxalot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "FREE DRAWING/AVATAR",
+            "description": "Art giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5564846",
+            "users": [
+                {
+                    "uid": "3163195",
+                    "username": "Kαѕρer"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "(All Users) Upgrade or Award Giveaway",
+            "description": "Upgrade and award contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5565472",
+            "users": [
+                {
+                    "uid": "2930339",
+                    "username": "Tenseigan"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "==> Your Name next to a $12k+ Audemars Piguet Royal Oak <==",
+            "description": "Luxury watch giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5567116",
+            "users": [
+                {
+                    "uid": "3260999",
+                    "username": "The Ebook Giant"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Recommend Movie #1 - DOPE",
+            "description": "Movie recommendation.",
+            "url": "http://hackforums.net/showthread.php?tid=5566930",
+            "users": [
+                {
+                    "uid": "3187052",
+                    "username": "VAP3"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Looking for an anime to pass the time?",
+            "description": "Anime recommendations.",
+            "url": "http://hackforums.net/showthread.php?tid=5567164",
+            "users": [
+                {
+                    "uid": "3478389",
+                    "username": "Yui-Senpai"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with David Haller conducted by bοxxy.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54281717",
+            "users": [
+                {
+                    "uid": "3134890",
+                    "username": "David Haller"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 333,
+        "date": 1488927039,
+        "pid": "54281717",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 333"
+    }
+}

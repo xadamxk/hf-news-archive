@@ -1,0 +1,460 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bitcoinage award repriced",
+            "description": "Omniscient lowered the Bitcoinage award from 1 BTC to $250 as Bitcoin rose far above the original ~$100 pricing.",
+            "url": "http://hackforums.net/showthread.php?tid=5564217",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group changes and recruitment (stub)",
+            "description": "Krave planned a graphics overhaul for The Order’s one-year anniversary. Notorious and Royalty ran group programs; Baka, The Order, Echo, Eclipse, Wiki, Illuminati, Legends, Royalty, Brotherhood, and others posted recruitment or information threads.",
+            "url": "http://hackforums.net/showthread.php?tid=5558133",
+            "users": [
+                {
+                    "uid": "1165241",
+                    "username": "Krave"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "boxxy reached 30,000 posts; Riggs 1,000 prestige; Views and Wander reached 2,000 reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2177496",
+                    "username": "boxxy"
+                },
+                {
+                    "uid": "402384",
+                    "username": "Riggs"
+                },
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                },
+                {
+                    "uid": "2181175",
+                    "username": "Wander"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "spooky hacker, Mr. Robot, gunpowder, firenice, and Wrist were banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2582112",
+                    "username": "spooky hacker"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "2948611",
+                    "username": "gunpowder"
+                },
+                {
+                    "uid": "3126298",
+                    "username": "firenice"
+                },
+                {
+                    "uid": "3092286",
+                    "username": "Wrist"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Soulmate～っ☆, xXxCHaSExXx, zSerity, and Kill Joy took vacations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate～っ☆"
+                },
+                {
+                    "uid": "2943761",
+                    "username": "xXxCHaSExXx"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                },
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "ChaoticForce, Koopa, and Exiled™ were closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3278044",
+                    "username": "ChaoticForce"
+                },
+                {
+                    "uid": "2950465",
+                    "username": "Koopa"
+                },
+                {
+                    "uid": "405595",
+                    "username": "Exiled™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "firenice, @Verdict, and Wrist were rep killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3126298",
+                    "username": "firenice"
+                },
+                {
+                    "uid": "2282793",
+                    "username": "@Verdict"
+                },
+                {
+                    "uid": "3092286",
+                    "username": "Wrist"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Orgy received Hustler; Matt AH, Ohio State, and Shermy received Businessman; Escrow received Cool; yaltmark Master Donator and Award Whore; ๖ۣۜMaximus Master Donator, Grand Amethyst, Top Banana, and Drunk; Starstruck Joker; Widow's Son Master Donator, Award Whore, and Hot Dog.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "182754",
+                    "username": "Orgy"
+                },
+                {
+                    "uid": "362018",
+                    "username": "Matt AH"
+                },
+                {
+                    "uid": "526511",
+                    "username": "Ohio State"
+                },
+                {
+                    "uid": "1636880",
+                    "username": "Shermy"
+                },
+                {
+                    "uid": "1406453",
+                    "username": "Escrow"
+                },
+                {
+                    "uid": "3423769",
+                    "username": "yaltmark"
+                },
+                {
+                    "uid": "2153840",
+                    "username": "๖ۣۜMaximus"
+                },
+                {
+                    "uid": "900087",
+                    "username": "Starstruck"
+                },
+                {
+                    "uid": "3451448",
+                    "username": "Widow's Son"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Coming Alive",
+            "description": "GFX illustration spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5536016",
+            "users": [
+                {
+                    "uid": "2234857",
+                    "username": "Jayollow"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Juggernaut Dota 2",
+            "description": "GFX Dota 2 illustration spotlight.",
+            "url": "http://hackforums.net/showthread.php?tid=5562876",
+            "users": [
+                {
+                    "uid": "669174",
+                    "username": "silently loud"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[ALERT] CloudBleed and HF",
+            "description": "Omniscient clarified HF was not impacted by the Cloudflare data leak.",
+            "url": "http://hackforums.net/showthread.php?tid=5559708",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Notorious] Basic Linux Virtual Machine Install Guide",
+            "description": "Linux VM setup guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5561014",
+            "users": [
+                {
+                    "uid": "2327983",
+                    "username": "Amidst"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Brotherhood | Bane | Emotional Support Desk.",
+            "description": "Bane reopened an emotional support desk thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5513070",
+            "users": [
+                {
+                    "uid": "3280351",
+                    "username": "Bane"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Tut] How to Change Your IP Address with a Netgear Router",
+            "description": "Router IP change tutorial (author profile link not present in edition text).",
+            "url": "http://hackforums.net/showthread.php?tid=5560777",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "[FREE GUIDE] Graphic Design for Beginners (Basics)",
+            "description": "Beginner graphics guide.",
+            "url": "http://hackforums.net/showthread.php?tid=5561503",
+            "users": [
+                {
+                    "uid": "3281617",
+                    "username": "Zetrex"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Best underground rappers?",
+            "description": "Underground rap discussion.",
+            "url": "http://hackforums.net/showthread.php?tid=5559024",
+            "users": [
+                {
+                    "uid": "3431345",
+                    "username": "Daniel"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Zebra Yeezy's I took an L",
+            "description": "Sneaker release thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5560355",
+            "users": [
+                {
+                    "uid": "2787889",
+                    "username": "Rhinoo"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Can you recognize these HF members by their avatar? #3",
+            "description": "Avatar guessing game.",
+            "url": "http://hackforums.net/showthread.php?tid=5562107",
+            "users": [
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Your favorite boxer?",
+            "description": "Boxing favorites thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5548784",
+            "users": [
+                {
+                    "uid": "2739590",
+                    "username": "int main()"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Spring Anime Chart is Here!",
+            "description": "Seasonal anime chart share.",
+            "url": "http://hackforums.net/showthread.php?tid=5540382",
+            "users": [
+                {
+                    "uid": "1365773",
+                    "username": "Crya"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Russian Man Convicted of Murder After Killing Friend Over AMD vs NVIDIA Argument",
+            "description": "News discussion thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5561453",
+            "users": [
+                {
+                    "uid": "2160301",
+                    "username": "Piramyd"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Upgrading one member to L33T",
+            "description": "L33t upgrade contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5561607",
+            "users": [
+                {
+                    "uid": "2181175",
+                    "username": "Wander"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[ALL USERS] Upgrade / Award Giveaway -- Ends March 15th 2017",
+            "description": "Upgrade and award giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5561612",
+            "users": [
+                {
+                    "uid": "1059950",
+                    "username": "ᴄᴍxᴄᴠ"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Free Drawing #2 (Win up to $1000 BTC, Awards, Upgrades)",
+            "description": "Large prize drawing.",
+            "url": "http://hackforums.net/showthread.php?tid=5561617",
+            "users": [
+                {
+                    "uid": "3202613",
+                    "username": "Tides"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Riley's Upgrade Contest [NO LIMIT]",
+            "description": "Upgrade contest.",
+            "url": "http://hackforums.net/showthread.php?tid=5558230",
+            "users": [
+                {
+                    "uid": "3409874",
+                    "username": "Riley"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "FREE SPOTIFY PREMIUM METHOD!",
+            "description": "Spotify method giveaway.",
+            "url": "http://hackforums.net/showthread.php?tid=5560859",
+            "users": [
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "02/27/2017 Baka News Weekly - Issue #3",
+            "description": "Baka News weekly issue.",
+            "url": "http://hackforums.net/showthread.php?tid=5561981",
+            "users": [
+                {
+                    "uid": "2356707",
+                    "username": "SkullCandyy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Dawn] Taking any editing requests and feedback!",
+            "description": "Video editing requests thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5551279",
+            "users": [
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My panda after surgery :(",
+            "description": "Pet recovery thread.",
+            "url": "http://hackforums.net/showthread.php?tid=5557064",
+            "users": [
+                {
+                    "uid": "2859279",
+                    "username": "Brusk"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with TheChief conducted by Armada.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=54230758",
+            "users": [
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 332,
+        "date": 1488415073,
+        "pid": "54230758",
+        "author_uid": "3176965",
+        "subject": "Hack Forums News // Edition 332"
+    }
+}
