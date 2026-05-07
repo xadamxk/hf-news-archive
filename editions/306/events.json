@@ -1,0 +1,345 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Invalid Deal Disputes",
+            "description": "Omniscient has made changes to the Deal Disputes DB that will help members who have a deal dispute open against them. If a thread is created in deal disputes subforum but later moved out of there (such as being junked) or deleted, the deal dispute in the database will tag the report as \"INVALID\" and the change will reflect properly in the Trust Scan results as well.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "The Death of Hidden Characters",
+            "description": "With the help of the members on Hack Forums, Omniscient has most likely gotten rid of all the invisible characters that members on Hack Forums use to get a username that is taken already. Members either used it for malicious reasons such as impersonation of a member or for benign reasons like using a closed member's username.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Moxxi is now a leader of Nightmare. Mino is now a leader of Nightmare. iHydra is now a leader of Titans. Avunit‌ is no longer a leader of Null. Dubitus™ is no longer a leader of Null. Escrow is no longer a leader of Null. Highlighted one Group Spotlight discussion (tid 5388845).",
+            "url": "http://hackforums.net/showthread.php?tid=5388845",
+            "users": [
+                {
+                    "uid": "1813663",
+                    "username": "Moxxi"
+                },
+                {
+                    "uid": "3123642",
+                    "username": "Mino"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                },
+                {
+                    "uid": "1121882",
+                    "username": "Avunit‌"
+                },
+                {
+                    "uid": "1642244",
+                    "username": "Dubitus™"
+                },
+                {
+                    "uid": "1406453",
+                    "username": "Escrow"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "testaccountplsignore has reached 1,000 posts.; LastSession has reached 5,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3090794",
+                    "username": "testaccountplsignore"
+                },
+                {
+                    "uid": "1356224",
+                    "username": "LastSession"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Coton Pker has reached 1,000 positive reputation.; Tonight has reached 2,500 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "556004",
+                    "username": "Coton Pker"
+                },
+                {
+                    "uid": "787112",
+                    "username": "Tonight"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Miscellaneous user milestones / role updates",
+            "description": "Excah was reopened.; Tommy was reopened.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1743548",
+                    "username": "Excah"
+                },
+                {
+                    "uid": "2529154",
+                    "username": "Tommy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Lipton's Ice Tea™ was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2708476",
+                    "username": "Lipton's Ice Tea™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Infinity. has taken a vacation.; Novica has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "642769",
+                    "username": "Infinity."
+                },
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "EagleScream was closed.; Maggie Simpson was closed.; ✪6God✪ was closed, account under investigation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1305949",
+                    "username": "EagleScream"
+                },
+                {
+                    "uid": "3243945",
+                    "username": "Maggie Simpson"
+                },
+                {
+                    "uid": "1102732",
+                    "username": "✪6God✪"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "EagleScream was Rep Killed.; ✪6God✪ was Rep Killed.; Lipton's Ice Tea™ was Rep Killed.; MaxCrypto was Rep Killed.; Excah was Rep Killed.; Tommy was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1305949",
+                    "username": "EagleScream"
+                },
+                {
+                    "uid": "1102732",
+                    "username": "✪6God✪"
+                },
+                {
+                    "uid": "2708476",
+                    "username": "Lipton's Ice Tea™"
+                },
+                {
+                    "uid": "2153840",
+                    "username": "MaxCrypto"
+                },
+                {
+                    "uid": "1743548",
+                    "username": "Excah"
+                },
+                {
+                    "uid": "2529154",
+                    "username": "Tommy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Tɦɛ Gʀiɱ has received the Green Apple award.; Epilepsy has received The Alien award.; Mr. Peanut has received The Protector award.; KFC Watermelon has received the Rat Expert award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "431105",
+                    "username": "Tɦɛ Gʀiɱ"
+                },
+                {
+                    "uid": "2636436",
+                    "username": "Epilepsy"
+                },
+                {
+                    "uid": "2126148",
+                    "username": "Mr. Peanut"
+                },
+                {
+                    "uid": "1849237",
+                    "username": "KFC Watermelon"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Return From Vacation",
+            "description": "Omniscient returned from vacation.",
+            "url": "http://hackforums.net/showthread.php?tid=5384625",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with #Doge conducted by Enterpriser.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=52285824",
+            "users": [
+                {
+                    "uid": "1655295",
+                    "username": "#Doge"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "Journalist (Headlines) / On-Call Team"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News) / Journalist (Site News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Hacking News) / Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1446355",
+                    "username": "Trust",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "1595524",
+                    "username": "Ventures",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 306,
+        "date": 1472620722,
+        "pid": "52285824",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 306"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Junk and PM Prune",
+            "description": "On August the 31st our administrator Omniscient took Hack Forums offline for about 15 minutes to do a Junk and PM prune. This means that all the junked threads and PM's have been deleted from the server. User post counts have been recounted and are accurate once again. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5392182",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Possible new award",
+            "description": "Two days ago Omniscient hinted that he was thinking about adding a Monero award to Hack Forums, and asked the community for opinions. The majority of our members expressed their exitement about the possibility of a new award. If this award is implemented members can donate using the Monero (XMR) cryptocoin to obtain it. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5394128",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Served How?",
+            "description": "A couple of days ago ago Omniscient made a thread in which he explained how he is hosting Hack Forums. In this thread he explains through which layers of security all traffic goes, before it reaches the server on which the website is hosted. Omniscient also mentioned that Hack Forums got around 3 billion requests last month, of which The majority originated from attacks on the website. Some members joked about the fact that they now know everything about Hack Forum's security, but Omniscient is clearly not one to be startled easily. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5394059",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Highlighted one Group Spotlight discussion (tid 5395722).",
+            "url": "http://hackforums.net/showthread.php?tid=5395722",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Jacoobzy was banned.; Orthonym was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3082515",
+                    "username": "Jacoobzy"
+                },
+                {
+                    "uid": "1918708",
+                    "username": "Orthonym"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Shay♥ has taken a vacation.; Flacko Jodye has taken a vacation.; Intelligent Sin has taken a vacation.; Hypnotist has taken a vacation.; Starved has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2119013",
+                    "username": "Shay♥"
+                },
+                {
+                    "uid": "2790629",
+                    "username": "Flacko Jodye"
+                },
+                {
+                    "uid": "910913",
+                    "username": "Intelligent Sin"
+                },
+                {
+                    "uid": "2476428",
+                    "username": "Hypnotist"
+                },
+                {
+                    "uid": "2297053",
+                    "username": "Starved"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Pew was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2351649",
+                    "username": "Pew"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Jacoobzy was Rep Killed, again...; Pew was Rep Killed.; Orthonym was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3082515",
+                    "username": "Jacoobzy"
+                },
+                {
+                    "uid": "2351649",
+                    "username": "Pew"
+                },
+                {
+                    "uid": "1918708",
+                    "username": "Orthonym"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Tommy has received the following awards; Black Hatter x3, Genius , Royalty , Flamer , & Spy .",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2529154",
+                    "username": "Tommy"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Happeh conducted by Clique.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=52374899",
+            "users": [
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters",
+                    "role": "Support (Backup Publisher)"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 307,
+        "date": 1473309630,
+        "pid": "52374899",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 307"
+    }
+}

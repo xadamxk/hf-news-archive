@@ -1,0 +1,346 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Project?",
+            "description": "Omniscient posted a thread with 3 images which resemble some type of characters.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Roger Waters found the new project's hidden page",
+            "description": "then eventually found the hidden page ( http://hackforums.net/battle.php ) that Omniscient teased at and after 12 pages of discussions, Omniscient told us there will be another thread for the next phase of the project. Who's excited for this next project? From my interpretation, I'm thinking a Pokemon Go style battle with 3 factions. Excited and eager to see what comes next! >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5398896",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "New Policy Addition - Username Visible Characters",
+            "description": "Omniscient has added a new rule for usernames that a member must have at least four visible characters in their username or else they risk penalties. If you do not meet the requirements of four visible characters, change your username right away before actions are taken against your account. >>Source http://i.imgur.com/W4AjjOA.png",
+            "url": "http://hackforums.net/showthread.php?tid=5396293",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Nuworld is now a leader of Enigma. bezbo is now a leader of Illuminati. nerotone is now a leader of Illuminati.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "2652421",
+                    "username": "bezbo"
+                },
+                {
+                    "uid": "3158082",
+                    "username": "nerotone"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "tldr! has reached 10,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2752008",
+                    "username": "tldr!"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Miscellaneous user milestones / role updates",
+            "description": "Novica is now a Mentor. Congratulations.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Ash Ketchum was banned.; Regulus was banned. \"Use contact form to recover.\"",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1865979",
+                    "username": "Ash Ketchum"
+                },
+                {
+                    "uid": "1680975",
+                    "username": "Regulus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Meow has taken a vacation.; heartthrob has taken a vacation.; cyphax has taken a vacation.; NotYourNormalApproach has taken a vacation.; Tommy has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "2739889",
+                    "username": "heartthrob"
+                },
+                {
+                    "uid": "59416",
+                    "username": "cyphax"
+                },
+                {
+                    "uid": "713348",
+                    "username": "NotYourNormalApproach"
+                },
+                {
+                    "uid": "2529154",
+                    "username": "Tommy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "ℛoot was closed.; Matt Honest was closed.; Odus was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2419828",
+                    "username": "ℛoot"
+                },
+                {
+                    "uid": "1246777",
+                    "username": "Matt Honest"
+                },
+                {
+                    "uid": "85546",
+                    "username": "Odus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "ℛoot was Rep Killed.; Matt Honest was Rep Killed.; excah was Rep Killed.; Motiv was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2419828",
+                    "username": "ℛoot"
+                },
+                {
+                    "uid": "1246777",
+                    "username": "Matt Honest"
+                },
+                {
+                    "uid": "1743548",
+                    "username": "excah"
+                },
+                {
+                    "uid": "2772971",
+                    "username": "Motiv"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "The Judge has received the Drunk award.; Tommy has received 5 Black Hatter awards..; Excah has received 3 Black Hatter awards.; Viewsfromthe6ix has received the Cool award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2905523",
+                    "username": "The Judge"
+                },
+                {
+                    "uid": "2529154",
+                    "username": "Tommy"
+                },
+                {
+                    "uid": "1743548",
+                    "username": "Excah"
+                },
+                {
+                    "uid": "2947999",
+                    "username": "Viewsfromthe6ix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Perspective Ocean",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5403141",
+            "users": [
+                {
+                    "uid": "2234857",
+                    "username": "Jorthmo"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Clean Logo - \"V\"",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5381114",
+            "users": [
+                {
+                    "uid": "2861505",
+                    "username": "unknowcrank"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Parker conducted by .Sinister.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=52422859",
+            "users": [
+                {
+                    "uid": "2945848",
+                    "username": "Parker"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "85546",
+                    "username": "Odus",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Ariana",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1093501",
+                    "username": "Roger Waters",
+                    "role": "Support (Backup Publisher)"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1221196",
+                    "username": "King Cin",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2776397",
+                    "username": "Young Thug",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 308,
+        "date": 1473709358,
+        "pid": "52422859",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 308"
+    }
+}
