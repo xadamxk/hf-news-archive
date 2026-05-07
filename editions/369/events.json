@@ -1,0 +1,91 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Tabs & Modern Blue Theme Returning",
+            "description": "After many complaints regarding the new Hack Forums theme, Omniscient announced that the previous site layout will make a comeback. Throughout the next few weeks he will be discarding the current theme and rebuilding the Modern Blue theme and tabs navigation. He also stated that he will no longer be working on making the site responsive or mobile compliant.",
+            "url": "http://hackforums.net/showthread.php?tid=5751402",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Omniscient Injured in Car Accident",
+            "description": "On Wednesday, November 8, Omniscient was involved in a car accident that resulted in a totaled vehicle, a concussion, bruised ribs, and a sore neck. This unfortunate event has caused delays on his work while he meets with lawyers, doctors, and insurance agents.",
+            "url": "http://hackforums.net/showthread.php?tid=5749792",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Suggestions and Ideas Forum Reopened",
+            "description": "Omniscient has reopened the Suggestions and Ideas forum, allowing members to share their ideas on how to improve the site. It was originally closed on August 6, 2017, after Omniscient stated he would like to focus more on improving features that currently exist.",
+            "url": "https://hackforums.net/showthread.php?tid=5751411",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Danny Khalifa was banned for leaving an invalid scammer reputation; Jean Paul Sartre was banned for sales trashing and harassing members; Mon£y was banned for abusing the report feature.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2952200",
+                    "username": "Danny Khalifa"
+                },
+                {
+                    "uid": "2599742",
+                    "username": "Jean Paul Sartre"
+                },
+                {
+                    "uid": "123689",
+                    "username": "Mon£y"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Shelter took a 6 month vacation ban.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1559430",
+                    "username": "Shelter"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Group Leadership Changes",
+            "description": "Camerοn is now the owner of Revolution; Crystallize. is no longer a leader of Torque; Vyrez. is no longer the owner of Revolution.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1990800",
+                    "username": "Camerοn"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 369,
+        "date": 1510617264,
+        "pid": "56214412",
+        "author_uid": "1320406",
+        "subject": "Hack Forums News // Edition 369"
+    }
+}

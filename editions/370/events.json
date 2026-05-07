@@ -1,0 +1,87 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Avatar Gallery Installed",
+            "description": "The gallery of avatars is now available to all members.  Omniscient also mentioned that remote avatars aren't being allowed at this time and urged upgraded users to upload images they wish to use as an avatar. Removing avatars has also been disabled for the time being.",
+            "url": "http://hackforums.net/showthread.php?tid=5754639",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Let the man Work",
+            "description": "Omniscient is asking the community as a whole to give his inbox a break over the upgrade situation and allow him to work on making the necessary improvements rather than replying to dozens of private messages about the same thing.",
+            "url": "http://hackforums.net/showthread.php?tid=5753447",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "deVoid Theme and Tabs Go Live",
+            "description": "Omniscient created a new theme for Hack Forums.",
+            "url": "http://hackforums.net/showthread.php?tid=5753853",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": "Lukas is now a leader of Influence.; ScreemS is no longer a leader of Influence.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                },
+                {
+                    "uid": "1729678",
+                    "username": "ScreemS"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member User Achievements",
+            "description": "GoldenEra has reached 1,000 posts; #Programmer has reached 500 prestige; Froggy has reached 500 prestige.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3405327",
+                    "username": "GoldenEra"
+                },
+                {
+                    "uid": "2004660",
+                    "username": "#Programmer"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 370,
+        "date": 1511232192,
+        "pid": "56248007",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 370"
+    }
+}

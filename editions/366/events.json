@@ -3,57 +3,50 @@
         {
             "category": "site",
             "title": "Vast changes incoming",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5741003",
+            "description": "Yesterday, October 20th, our administrator Omniscient announced that big changes will be made to Hack Forums in the upcoming week. Because of this you may expect the website to be offline a lot, either as closed or simply returning a 403 error. More information about the specific changes that are going to be happening will undoubtedly follow in the near future.",
+            "url": "http://hackforums.net/showthread.php?tid=5748921",
             "users": []
         },
         {
             "category": "site",
             "title": "Thread EDIT restriction removed",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5740228",
+            "description": "The reason behind this was simply to end the continues thread EDIT abuse by members every day. Thread abuse was done by deleting content from older threads to 'erase footprints' or for other reasons, which hurt Hack Forums SEO. The restriction prevented members from editing their threads if it was older then a set amount of days.",
+            "url": "http://hackforums.net/showthread.php?tid=5741402",
             "users": []
         },
         {
             "category": "site",
             "title": "Mentor site group deleted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5740970",
+            "description": "Last night our administrator Omniscient made a thread in the Rules, Announcements, News and Feedback section stating the mentor group had been deleted. No specific reason has been given for this change at this time.",
+            "url": "https://hackforums.net/showthread.php?tid=5740970",
             "users": []
         },
         {
             "category": "site",
             "title": "Hack Forums IM Deleted",
-            "description": "",
+            "description": "Yesterday night we were notified by Omniscient that he would be deleting the Hack Forums IM service. This is the xmpp service that was specifically designed to be used for instant communication between HF members. No specific reason has been given for removing this service although it was known that the service itself was rarely used within the community. The newly launched hacker.im service, which is a public xmpp service for HF users and others alike, will still continue to exist.",
             "url": "http://hackforums.net/showthread.php?tid=5740972",
             "users": []
         },
         {
             "category": "site",
             "title": "Forum Tabs Deleted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5740974",
+            "description": "Among the changes that were made last night by our admin Omniscient was the removal of the forum tabs. Omniscient made a thread saying 'We will no longer have the tabs on HF'.",
+            "url": "https://hackforums.net/showthread.php?tid=5740974",
             "users": []
         },
         {
             "category": "site",
             "title": "Purple HF Theme Deleted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5740975",
+            "description": "Another change that was made yesterday was the removal of the Purple Theme option. Many users used this theme as they preferred it over the standard 'Modern Blue' theme. For now we don't know if we will be getting another new or possibly revamped theme in the future however we do know Omniscient had a liking to the widely used 'Flat Darkness' theme made by iHydra.",
+            "url": "https://hackforums.net/showthread.php?tid=5740975",
             "users": []
         },
         {
             "category": "site",
             "title": "All Non-Essential Moderators Removed",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5741357",
-            "users": []
-        },
-        {
-            "category": "site",
-            "title": "HF Writers Group and Wiki Deleted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5740983",
+            "description": "In light of recent changes all non-essential moderators have been removed. This includes but is not limited to (sub)forum moderators and site groups with special permissions such as the mentors group. In the thread where Omniscient announced this change, he also mentioned he will consider new moderators and other options as we go forward. Furthermore he said 'We need a clean slate on a lot of HF'.",
+            "url": "https://hackforums.net/showthread.php?tid=5741357",
             "users": []
         },
         {
@@ -64,11 +57,63 @@
             "users": []
         },
         {
-            "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Multiple official groups advertised recruitment or informational threads; see Group News listings in the edition post.",
-            "url": "",
+            "category": "site",
+            "title": "HF Writers Group and Wiki DELETED",
+            "description": "The final change we will report in this weeks news edition is the removal of the HF Writers group along with the HF Wiki. Both the group and the wiki have been deleted by Omniscient and are said to be done for. As this is a major change for the very news and the people behind it, we would like to make it known that even without the group we will continue to bring the news to you each and every week. This of course assuming we have the permission to keep doing so by the administrator.",
+            "url": "http://hackforums.net/showthread.php?tid=5740983",
             "users": []
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "imscheurkie received the Grammar Nazi award; Steve received the Stick Man award for this thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5735996",
+            "users": [
+                {
+                    "uid": "3602291",
+                    "username": "imscheurkie"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Linux™ was banned for reputation abuse, pending closure.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1768521",
+                    "username": "Linux™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2682347",
+                    "username": "Caliban"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and rebrand.",
+            "description": "Daniel is now leader of Eclipse; Sheep Gang was rebranded to Terminal.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1413758",
+                    "username": "Daniel"
+                }
+            ]
         },
         {
             "category": "news",
