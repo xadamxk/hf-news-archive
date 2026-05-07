@@ -133,7 +133,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Lookin, Divined, Gilli, Robert (TM), and Funtela received donation- or post-linked awards per the edition list.",
+            "description": "Lookin donated for Master Donator and received the Hustler award; Divined received the Cool award; Gilli received the Gold Clover award; Robert ™ donated for Master Donator, Grand Amethyst, and Bitcoinage awards and received the Drink and Hot Dog awards; Funtela received the Award Whore award.",
             "url": "",
             "users": [
                 {
@@ -150,34 +150,13 @@
                 },
                 {
                     "uid": "3121258",
-                    "username": "Robert (TM)"
+                    "username": "Robert ™"
                 },
                 {
                     "uid": "1610871",
                     "username": "Funtela"
                 }
             ]
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features",
-            "description": "GFX battlestation spotlights linked in the third post.",
-            "url": "http://hackforums.net/showthread.php?tid=5636055",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features (2)",
-            "description": "Second battlestation spotlight link.",
-            "url": "http://hackforums.net/showthread.php?tid=5632249",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Vitani comic strip",
-            "description": "Five numbered comic panels in the archived third post.",
-            "url": "",
-            "users": []
         },
         {
             "category": "interviews",
@@ -200,7 +179,48 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Headlines / Comics)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Memo)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

@@ -110,27 +110,6 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation features",
-            "description": "GFX spotlight images linked to threads; no credited artist in the archived third post.",
-            "url": "http://hackforums.net/showthread.php?tid=5619592",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features (2)",
-            "description": "Second battlestation image feature.",
-            "url": "http://hackforums.net/showthread.php?tid=5619209",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Vitani comic strip",
-            "description": "Numbered comic panels; no showthread per panel in archived third post.",
-            "url": "",
-            "users": []
-        },
-        {
             "category": "threads",
             "title": "BUDDY BUMPS",
             "description": "Staff policy thread on buddy bumping enforcement.",
@@ -151,42 +130,6 @@
                 {
                     "uid": "3077324",
                     "username": "Mαxim"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Craziest thing you'll see today. 10000%",
-            "description": "Lounge shock-content thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5619393",
-            "users": [
-                {
-                    "uid": "2279561",
-                    "username": "Black Kodak"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Boy at my highschool pretends to be gay so he can go round and touch girls.",
-            "description": "Lounge discussion thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5619155",
-            "users": [
-                {
-                    "uid": "3143717",
-                    "username": "free707"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Trump Fires FBI Director James Comey",
-            "description": "Current events thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5619409",
-            "users": [
-                {
-                    "uid": "3052347",
-                    "username": "luxity"
                 }
             ]
         },
@@ -228,30 +171,6 @@
         },
         {
             "category": "threads",
-            "title": "DenizZ' Contest || 10-20 Upgrades & $10 BTC || Make me laugh || Open to all members",
-            "description": "Humor contest with upgrades/BTC prizes.",
-            "url": "http://hackforums.net/showthread.php?tid=5612181",
-            "users": [
-                {
-                    "uid": "3541671",
-                    "username": "DenizZ"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Member upgrade or some cash (BTC)",
-            "description": "Upgrade or BTC giveaway.",
-            "url": "http://hackforums.net/showthread.php?tid=5619601",
-            "users": [
-                {
-                    "uid": "3183463",
-                    "username": "Mongu"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "05/07/17 Baka News Weekly - Issue #11",
             "description": "Baka group news roundup thread.",
             "url": "http://hackforums.net/showthread.php?tid=5617012",
@@ -283,7 +202,58 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (Headlines / Group News / Notable Threads)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Memo)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (Crypto News)"
+                },
+                {
+                    "uid": "1393336",
+                    "username": "Cyaddd",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

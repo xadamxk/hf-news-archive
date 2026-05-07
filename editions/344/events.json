@@ -149,27 +149,6 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation features",
-            "description": "GFX battlestation spotlights in the third post.",
-            "url": "http://hackforums.net/showthread.php?tid=5630304",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features (2)",
-            "description": "Second battlestation spotlight image.",
-            "url": "http://hackforums.net/showthread.php?tid=5624993",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Vitani comic strip",
-            "description": "Numbered comic strip panels in the archived third post.",
-            "url": "",
-            "users": []
-        },
-        {
             "category": "threads",
             "title": "Pumping Disallowed",
             "description": "Announcement mirroring the crypto pump-thread ban policy.",
@@ -219,30 +198,6 @@
         },
         {
             "category": "threads",
-            "title": "Widebody is finished on the Z",
-            "description": "Car build showcase thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5627895",
-            "users": [
-                {
-                    "uid": "1012051",
-                    "username": "1320 Vossen"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Sea lion drags girl into ocean",
-            "description": "Viral clip discussion thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5628428",
-            "users": [
-                {
-                    "uid": "1382464",
-                    "username": "Βluffer"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Trust's Testimonial",
             "description": "Feedback/testimonial thread.",
             "url": "http://hackforums.net/showthread.php?tid=5623039",
@@ -250,42 +205,6 @@
                 {
                     "uid": "1446355",
                     "username": "Τrust"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Free Signature Designs!",
-            "description": "Signature design giveaway for upgraded members.",
-            "url": "http://hackforums.net/showthread.php?tid=5628140",
-            "users": [
-                {
-                    "uid": "3283060",
-                    "username": "℣ictorY"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "$10 BTC giveaway - FOR EVERYONE",
-            "description": "Simple-entry BTC raffle.",
-            "url": "http://hackforums.net/showthread.php?tid=5628409",
-            "users": [
-                {
-                    "uid": "2130408",
-                    "username": "Dot PHP"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Upgrading a member",
-            "description": "Creative username contest for a free upgrade.",
-            "url": "http://hackforums.net/showthread.php?tid=5626754",
-            "users": [
-                {
-                    "uid": "3238125",
-                    "username": "εvσℓυтιση™"
                 }
             ]
         },
@@ -310,7 +229,53 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Headlines / Noteable Threads)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Memo / Podcast)"
+                },
+                {
+                    "uid": "1393336",
+                    "username": "Cyaddd",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {
