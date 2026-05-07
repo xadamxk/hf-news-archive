@@ -3,7 +3,7 @@
         {
             "category": "site",
             "title": "Suggestions and Ideas Forum Closed",
-            "description": "",
+            "description": "With no intentions on deleting the forum itself,  Omniscient would like to focus more on features that are already part of Hack Forums, rather than those that most likely have been already suggested as he stated in his thread.",
             "url": "http://hackforums.net/showthread.php?tid=5688168",
             "users": []
         },
@@ -11,7 +11,7 @@
             "category": "site",
             "title": "Sports World Moved",
             "description": "In addition to the Writer Tales sub-forum that was moved to the Personal Life category,  Sports World finds a new home. The forum was originally in The Lounge prior to it being moved. The Personal Life forum now has 10 sub-forums under the category.\n\n \n\n       \n\n \n\nhttps://i.imgur.com/wYi4ilf.jpg",
-            "url": "",
+            "url": "https://hackforums.net/forumdisplay.php?fid=259",
             "users": []
         },
         {
@@ -79,7 +79,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Fried Chicken was banned, pending closure.",
             "url": "",
             "users": [
                 {
@@ -115,12 +115,16 @@
         {
             "category": "users",
             "title": "Account closures",
-            "description": "",
-            "url": "",
+            "description": "Gary was closed upon request.",
+            "url": "https://hackforums.net/showthread.php?tid=5666464",
             "users": [
                 {
                     "uid": "3283060",
                     "username": "VictorY"
+                },
+                {
+                    "uid": "1700066",
+                    "username": "Gary"
                 }
             ]
         },
@@ -149,18 +153,6 @@
                 {
                     "uid": "1033713",
                     "username": "Formula1"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "10 E-whore Packs",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5685732",
-            "users": [
-                {
-                    "uid": "2681040",
-                    "username": "GuardianAngel"
                 }
             ]
         },
@@ -197,18 +189,6 @@
                 {
                     "uid": "3005497",
                     "username": "FORC3FI3LD"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "My second release!",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5686589",
-            "users": [
-                {
-                    "uid": "1741582",
-                    "username": "Nadisty"
                 }
             ]
         },
@@ -281,7 +261,43 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Headlines / Group Changes / Trends / Gaming News / Hacking News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {
