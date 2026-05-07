@@ -255,7 +255,43 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Group News / World News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Site News / Trends / Gaming News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "",
+                    "username": "TODO: SOURCE THIS AUTHOR - LOOK UP IN WRITERS SUBFORUM",
+                    "role": "Journalist (Anime News)"
+                }
+            ]
         }
     ],
     "edition": {

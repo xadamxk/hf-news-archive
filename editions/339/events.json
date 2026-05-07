@@ -176,30 +176,6 @@
         },
         {
             "category": "threads",
-            "title": "Run your own Caching non-Logging/Censoring, DNSSEC/DNSCrypt-enabled DNS Resolver",
-            "description": "Technical write-up on hosting a privacy-focused DNS resolver.",
-            "url": "http://hackforums.net/showthread.php?tid=5600866",
-            "users": [
-                {
-                    "uid": "3183372",
-                    "username": "Previously Known As..."
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "[Equilibrium] Cracking your hashes & Official Cryptography Help Desk",
-            "description": "Hash cracking and cryptography help desk.",
-            "url": "http://hackforums.net/showthread.php?tid=5551622",
-            "users": [
-                {
-                    "uid": "2703452",
-                    "username": "LSDoom"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "What does your Username mean?",
             "description": "Discussion on origins of member usernames.",
             "url": "http://hackforums.net/showthread.php?tid=5593509",
@@ -212,18 +188,6 @@
         },
         {
             "category": "threads",
-            "title": "What's the Longest You've Gone Without Sleep?",
-            "description": "Sleep-deprivation discussion; OP cited 40 hours.",
-            "url": "http://hackforums.net/showthread.php?tid=5594970",
-            "users": [
-                {
-                    "uid": "910913",
-                    "username": "Intelligent Sin"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Pineapple on pizza",
             "description": "Debate on pineapple as a pizza topping.",
             "url": "http://hackforums.net/showthread.php?tid=5592267",
@@ -231,54 +195,6 @@
                 {
                     "uid": "3176965",
                     "username": "Soulmate～っ☆"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Young Thug is the greatest rapper alive",
-            "description": "Rap opinions thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5600383",
-            "users": [
-                {
-                    "uid": "2091037",
-                    "username": "Vittorio"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "The Day I Tried to Sell a Raccoon....As a Cat [Update 17/04/17]",
-            "description": "Updated lounge story thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5139355",
-            "users": [
-                {
-                    "uid": "229769",
-                    "username": "Effexion"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Abortion - Defining life",
-            "description": "Debate on when life begins in abortion discourse.",
-            "url": "http://hackforums.net/showthread.php?tid=5597466",
-            "users": [
-                {
-                    "uid": "2772971",
-                    "username": "Motiv"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Kendrick Lamar - Damn",
-            "description": "Discussion of Kendrick Lamar’s album and career.",
-            "url": "http://hackforums.net/showthread.php?tid=5599605",
-            "users": [
-                {
-                    "uid": "290801",
-                    "username": "Yin Yang"
                 }
             ]
         },
@@ -307,66 +223,6 @@
             ]
         },
         {
-            "category": "threads",
-            "title": "$50 Anime Tattoo Reccomendations",
-            "description": "Contest: recommend an anime tattoo for a $50 prize.",
-            "url": "http://hackforums.net/showthread.php?tid=5600581",
-            "users": [
-                {
-                    "uid": "3052383",
-                    "username": "INOOB"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "3p1c GIVEAWAY #5",
-            "description": "3pic upgrade giveaway for eligible members.",
-            "url": "http://hackforums.net/showthread.php?tid=5595170",
-            "users": [
-                {
-                    "uid": "400724",
-                    "username": "Charger"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "[Worth $49] Snapchat marketing course for FREE!",
-            "description": "Free course access giveaway for Snapchat marketing.",
-            "url": "http://hackforums.net/showthread.php?tid=5601051",
-            "users": [
-                {
-                    "uid": "2887685",
-                    "username": "Antonio™"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "How do you protect yourself ?",
-            "description": "Discussion on personal security tools and practices.",
-            "url": "http://hackforums.net/showthread.php?tid=5599198",
-            "users": [
-                {
-                    "uid": "3433648",
-                    "username": "Corrupt3d"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Get an OG MAL username",
-            "description": "Guide to claiming inactive MyAnimeList usernames.",
-            "url": "http://hackforums.net/showthread.php?tid=5596647",
-            "users": [
-                {
-                    "uid": "3478389",
-                    "username": "Yui-Senpai"
-                }
-            ]
-        },
-        {
             "category": "interviews",
             "title": "Interview with Starstruck conducted by .Sinister.",
             "description": "",
@@ -387,7 +243,43 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Headlines / Group News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News / User News / Notable Threads)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Memo)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "1393336",
+                    "username": "Cyaddd",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

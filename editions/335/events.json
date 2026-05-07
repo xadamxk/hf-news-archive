@@ -203,30 +203,6 @@
         },
         {
             "category": "threads",
-            "title": "What do you put in your smoothies?",
-            "description": "Smoothie recipes discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5577977",
-            "users": [
-                {
-                    "uid": "3503137",
-                    "username": "hfaccount"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Good Burgers You've Had?",
-            "description": "Food thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5575537",
-            "users": [
-                {
-                    "uid": "3402022",
-                    "username": "Excavated"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Who's your favorite HF member?",
             "description": "Community poll.",
             "url": "http://hackforums.net/showthread.php?tid=5577232",
@@ -234,18 +210,6 @@
                 {
                     "uid": "3343369",
                     "username": "Scrub Lord"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "How many towels do you use when showering?",
-            "description": "Lounge thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5577511",
-            "users": [
-                {
-                    "uid": "274613",
-                    "username": "Яǝʌǝɹsǝ"
                 }
             ]
         },
@@ -263,18 +227,6 @@
         },
         {
             "category": "threads",
-            "title": "Got four wisdom teeth taken out today. UPDATE : 3/19",
-            "description": "Personal update thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5576044",
-            "users": [
-                {
-                    "uid": "1650008",
-                    "username": "Sudsy"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Maxim's lil One-Year Feedback",
             "description": "Anniversary feedback.",
             "url": "http://hackforums.net/showthread.php?tid=5577675",
@@ -282,30 +234,6 @@
                 {
                     "uid": "3077324",
                     "username": "Mαxim"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "[The Marketers] [Everyone] FRESH METHOD TO GET REAL AND ACTIVE YOUTUBE VIEWS!",
-            "description": "YouTube method share.",
-            "url": "http://hackforums.net/showthread.php?tid=5573120",
-            "users": [
-                {
-                    "uid": "3123052",
-                    "username": "Fortunate"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "[Get FREE] LifeTime VPN 50GB/Month 8 Countries",
-            "description": "VPN offer thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5578154",
-            "users": [
-                {
-                    "uid": "386525",
-                    "username": "ɨɲ$๏ʍɲɨąȼ"
                 }
             ]
         },
@@ -335,18 +263,6 @@
         },
         {
             "category": "threads",
-            "title": "[Weekly Q's #28] (Rotobitc) Automation of the Economy: A good or bad thing?",
-            "description": "Weekly discussion series.",
-            "url": "http://hackforums.net/showthread.php?tid=5577206",
-            "users": [
-                {
-                    "uid": "3066693",
-                    "username": "DerMensch24"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "[Userscript] HF Live Preview",
             "description": "Browser userscript for post preview.",
             "url": "http://hackforums.net/showthread.php?tid=5579726",
@@ -366,18 +282,6 @@
                 {
                     "uid": "502172",
                     "username": "Novica"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "TRY NOT TO HEADBANG CHALLENGE",
-            "description": "Music challenge thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5578262",
-            "users": [
-                {
-                    "uid": "3378868",
-                    "username": "55an1"
                 }
             ]
         },
@@ -402,7 +306,48 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Site News / Trends / Gaming News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

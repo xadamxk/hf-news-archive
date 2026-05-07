@@ -169,66 +169,6 @@
         },
         {
             "category": "threads",
-            "title": "What computer chair do you have?",
-            "description": "Chair discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5560611",
-            "users": [
-                {
-                    "uid": "59047",
-                    "username": "Keat"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "if you can watch this without cringe pausing, you're a god",
-            "description": "Cringe video challenge.",
-            "url": "http://hackforums.net/showthread.php?tid=5567430",
-            "users": [
-                {
-                    "uid": "2441572",
-                    "username": "Weapon of ass destruction"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Ass or tits?",
-            "description": "Lounge poll (thread URL malformed in archived edition; author Bender).",
-            "url": "",
-            "users": [
-                {
-                    "uid": "2960032",
-                    "username": "Bender"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "How often do you change your bong water?",
-            "description": "Cannabis culture thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5567495",
-            "users": [
-                {
-                    "uid": "2864302",
-                    "username": "M.D."
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "What is Your Pet Peeve?",
-            "description": "Pet peeves discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5566350",
-            "users": [
-                {
-                    "uid": "3386932",
-                    "username": "Yakama"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Seven Years | 4,000 Posts | Charger's Feedback",
             "description": "Milestone feedback thread.",
             "url": "http://hackforums.net/showthread.php?tid=5565037",
@@ -276,42 +216,6 @@
             ]
         },
         {
-            "category": "threads",
-            "title": "==> Your Name next to a $12k+ Audemars Piguet Royal Oak <==",
-            "description": "Luxury watch giveaway.",
-            "url": "http://hackforums.net/showthread.php?tid=5567116",
-            "users": [
-                {
-                    "uid": "3260999",
-                    "username": "The Ebook Giant"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Recommend Movie #1 - DOPE",
-            "description": "Movie recommendation.",
-            "url": "http://hackforums.net/showthread.php?tid=5566930",
-            "users": [
-                {
-                    "uid": "3187052",
-                    "username": "VAP3"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Looking for an anime to pass the time?",
-            "description": "Anime recommendations.",
-            "url": "http://hackforums.net/showthread.php?tid=5567164",
-            "users": [
-                {
-                    "uid": "3478389",
-                    "username": "Yui-Senpai"
-                }
-            ]
-        },
-        {
             "category": "interviews",
             "title": "Interview with David Haller conducted by bοxxy.",
             "description": "",
@@ -332,7 +236,43 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Site News / Trends / Gaming News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

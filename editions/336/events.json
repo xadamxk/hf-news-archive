@@ -145,18 +145,6 @@
         },
         {
             "category": "threads",
-            "title": "Article: 6 affordable ways to get rid of dark circles under eyes",
-            "description": "Skincare article.",
-            "url": "http://hackforums.net/showthread.php?tid=5584149",
-            "users": [
-                {
-                    "uid": "825353",
-                    "username": "Dabangg"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "[Dawn Innuendo] Suicide Crisis Hotlines --- You don't need to suffer, get help.",
             "description": "Crisis resources thread.",
             "url": "http://hackforums.net/showthread.php?tid=5580378",
@@ -169,30 +157,6 @@
         },
         {
             "category": "threads",
-            "title": "[Exploit] CCTV Camera Scanner",
-            "description": "CCTV scanner thread (placeholder thread URL in edition).",
-            "url": "",
-            "users": [
-                {
-                    "uid": "3129634",
-                    "username": "Jihadi ϗ"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "How to create a semi Undetectable Keylogger! [Video Tutorial]",
-            "description": "Keylogger video guide.",
-            "url": "http://hackforums.net/showthread.php?tid=5582216",
-            "users": [
-                {
-                    "uid": "3418257",
-                    "username": "frostyy07"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "[Notorious] Free Computer Checkup and Cleanup Services",
             "description": "Free PC cleanup offer.",
             "url": "http://hackforums.net/showthread.php?tid=5582479",
@@ -200,18 +164,6 @@
                 {
                     "uid": "1512695",
                     "username": "Leroy Jethro Gibbs"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "best soundtrack ever?",
-            "description": "Gaming soundtrack discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5583189",
-            "users": [
-                {
-                    "uid": "3508470",
-                    "username": "ElfBot"
                 }
             ]
         },
@@ -241,18 +193,6 @@
         },
         {
             "category": "threads",
-            "title": "Have you typed an entire web address within the last three years?",
-            "description": "Lounge discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5584650",
-            "users": [
-                {
-                    "uid": "3504033",
-                    "username": "mazyoona"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "HF is like that dysfunctional family you argue with alot but still love",
             "description": "Community discussion.",
             "url": "http://hackforums.net/showthread.php?tid=5584090",
@@ -260,30 +200,6 @@
                 {
                     "uid": "3483205",
                     "username": "Ahseyo"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "I want to quit my job. Skipped 5 days now. Mom says I'm irresponsible?",
-            "description": "Personal advice thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5577895",
-            "users": [
-                {
-                    "uid": "769614",
-                    "username": "Prophet Banana"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "[Weekly Updates] New Music Thread - Stay in the Loop",
-            "description": "Music discovery thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5580635",
-            "users": [
-                {
-                    "uid": "2920830",
-                    "username": "Confound"
                 }
             ]
         },
@@ -301,18 +217,6 @@
         },
         {
             "category": "threads",
-            "title": "Harden's 3DS Pokemon Genning Service",
-            "description": "Pokemon genning giveaway.",
-            "url": "http://hackforums.net/showthread.php?tid=5584369",
-            "users": [
-                {
-                    "uid": "2094905",
-                    "username": "Harden"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Eclipse - Meme Off [BEST MEME WINS AN AWARD]",
             "description": "Meme contest.",
             "url": "http://hackforums.net/showthread.php?tid=5584108",
@@ -325,18 +229,6 @@
         },
         {
             "category": "threads",
-            "title": "Logo Contest | Winner Gets: Free Lifetime Domain, Free SSL, and Unlimited Hosting",
-            "description": "Graphics contest.",
-            "url": "http://hackforums.net/showthread.php?tid=5583639",
-            "users": [
-                {
-                    "uid": "1280231",
-                    "username": "PremiumUSAHosting"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Thread Design Generator",
             "description": "Tool announcement.",
             "url": "http://hackforums.net/showthread.php?tid=5575627",
@@ -344,30 +236,6 @@
                 {
                     "uid": "1306528",
                     "username": "xadamxk"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "JUSTICE LEAGUE - Official Trailer 1",
-            "description": "Trailer discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5584703",
-            "users": [
-                {
-                    "uid": "2004660",
-                    "username": "#Programmer"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "'RUMOR: Art work suggest COD 2017 will be called Call of Duty: WWII'",
-            "description": "COD rumor thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5583542",
-            "users": [
-                {
-                    "uid": "692131",
-                    "username": "Tsundere"
                 }
             ]
         },
@@ -400,7 +268,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight / Tech News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Site News / Trends / Gaming News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Group News / Science News / Comics)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                }
+            ]
         }
     ],
     "edition": {
