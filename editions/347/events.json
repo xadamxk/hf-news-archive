@@ -176,7 +176,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Broad Stratis purchases; ๖ۣۜMaximus Spy; Views Award Whore; AJ911 Genius.",
+            "description": "Many users purchased the new Stratis award; ๖ۣۜMaximus received the Spy award; Views received the Award Whore award; AJ911 received the Genius award.",
             "url": "",
             "users": [
                 {
@@ -194,29 +194,8 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation features",
-            "description": "Battlestation GFX threads in the third post.",
-            "url": "http://hackforums.net/showthread.php?tid=5645285",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features (2)",
-            "description": "Second battlestation spotlight.",
-            "url": "http://hackforums.net/showthread.php?tid=5646617",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Vitani comic strip",
-            "description": "HF-related comic panels in the archived third post.",
-            "url": "",
-            "users": []
-        },
-        {
             "category": "threads",
-            "title": "\"Blocks and Less of Them\"",
+            "title": "Blocks and Less of Them",
             "description": "Omniscient detailed reduced blocking, CAPTCHA shifts, and country access changes.",
             "url": "http://hackforums.net/showthread.php?tid=5642995",
             "users": [
@@ -228,7 +207,7 @@
         },
         {
             "category": "threads",
-            "title": "\"Ethereum is Changing Algorithms to Proof of Stake\"",
+            "title": "Ethereum is Changing Algorithms to Proof of Stake",
             "description": "Technical Ethereum roadmap discussion.",
             "url": "http://hackforums.net/showthread.php?tid=5645432",
             "users": [
@@ -240,7 +219,7 @@
         },
         {
             "category": "threads",
-            "title": "\"How to Properly Research for Your Investments\"",
+            "title": "How to Properly Research for Your Investments",
             "description": "Long-form crypto research diligence thread.",
             "url": "http://hackforums.net/showthread.php?tid=5638176",
             "users": [
@@ -264,30 +243,6 @@
         },
         {
             "category": "threads",
-            "title": "\"Up to 50$ Giveaway\"",
-            "description": "E-book giveaway up to $50.",
-            "url": "http://hackforums.net/showthread.php?tid=5642992",
-            "users": [
-                {
-                    "uid": "3553985",
-                    "username": "Mr. Reviewer"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"5$ BTC Giveaway\"",
-            "description": "Small BTC giveaway thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5645014",
-            "users": [
-                {
-                    "uid": "3519964",
-                    "username": "Skyion"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Happy Good Will Monday",
             "description": "Holiday thread for distributing positive reputation (held the second Monday after Omniscient missed the first).",
             "url": "http://hackforums.net/showthread.php?tid=5644986",
@@ -303,7 +258,53 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Headlines / Memo)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "3283060",
+                    "username": "ᏙictorҮ",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist (Science News / World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Gaming News / Hacking News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

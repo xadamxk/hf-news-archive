@@ -140,7 +140,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Panik Cuddly and Cute; Courage The Dog Top Banana; scorpi0n Grand Amethyst plus Black Hatter and Flamer; Kill Joy Bronze Tutorial.",
+            "description": "Panik received the Cuddly and Cute award; Courage The Dog received the Top Banana award; scorpi0n donated for the Grand Amethyst award and received the Black Hatter and Flamer awards; Kill Joy received the Bronze Tutorial award.",
             "url": "",
             "users": [
                 {
@@ -162,27 +162,6 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation features",
-            "description": "GFX battlestation spotlights in the third post.",
-            "url": "http://hackforums.net/showthread.php?tid=5650968",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation features (2)",
-            "description": "Second battlestation spotlight thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5633289",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Vitani comic strip",
-            "description": "HF-related comic panels in the archived third post.",
-            "url": "",
-            "users": []
-        },
-        {
             "category": "threads",
             "title": "Happy Good Will Monday",
             "description": "Good Will Monday celebrated the second Monday in June after the usual date was missed.",
@@ -195,71 +174,52 @@
             ]
         },
         {
-            "category": "threads",
-            "title": "\"Not Science\"",
-            "description": "Discussion thread on what counts as science.",
-            "url": "http://hackforums.net/showthread.php?tid=5647021",
-            "users": [
-                {
-                    "uid": "50808",
-                    "username": "g4143"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"NVO Redflag\"",
-            "description": "Thread with Coin Interview video on the NVO team.",
-            "url": "http://hackforums.net/showthread.php?tid=5648506",
-            "users": [
-                {
-                    "uid": "183072",
-                    "username": "Mr Kewl"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"SUMMER GIVEAWAY -----GIVING $5 BTC TO 5 DIFFERENT PEOPLE\"",
-            "description": "$5 BTC each to five winners.",
-            "url": "http://hackforums.net/showthread.php?tid=5647547",
-            "users": [
-                {
-                    "uid": "3113723",
-                    "username": "Gangin'"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"Free Spotify Premium Upgrade Service\"",
-            "description": "Giveaway for Spotify Premium upgrade service.",
-            "url": "http://hackforums.net/showthread.php?tid=5647218",
-            "users": [
-                {
-                    "uid": "3596957",
-                    "username": "Top Shotta"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "\"Fries on Pizza\"",
-            "description": "Light community banter thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5647602",
-            "users": [
-                {
-                    "uid": "3077324",
-                    "username": "Maxim"
-                }
-            ]
-        },
-        {
             "category": "news",
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Headlines / Group News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "3283060",
+                    "username": "ᏙictorҮ",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Science News / Gaming News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {
