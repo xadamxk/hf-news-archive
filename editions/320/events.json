@@ -1,0 +1,369 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF News Notifier",
+            "description": "On October the 30th, our favorite mentor xadamxk released the official HF News Notifier script. The purpose of this userscript is fairly simple but most usefull. It will create a notification when a new edition of the HF news is released. We would like to personally thank xadamxk for creating this userscript. Great work! >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5480003",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Ban reason on trust scan?",
+            "description": "On December the 2nd, our administrator Omniscient hinted at wanting to add ban reason to the trust scan. This way upgraded users will no longe have to search in the bans list to see why a user got banned. Omniscient also mentioned wanting to add something for closed & inactive accounts as well. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5482543",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Firmware is now a leader of Illuminati. Mr. Burnham has stepped down as a leader of Nightmare. Cameron is considering ideas for new group. Post them here .",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2642575",
+                    "username": "Firmware"
+                },
+                {
+                    "uid": "2518836",
+                    "username": "Mr. Burnham"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Bobby Tarantino has reached 1,000 posts.; MeshCollider has reached 5,000 posts, again.; Jamieee has reached 5,000 posts.; Aura has reached 10,000 posts in the White Hat Help section, congrats!; #Programmer has reached 5,000 posts.; Views has reached 1,000 posts.; Nixhxlas has reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3013967",
+                    "username": "Bobby Tarantino"
+                },
+                {
+                    "uid": "2015410",
+                    "username": "MeshCollider"
+                },
+                {
+                    "uid": "403479",
+                    "username": "Jamieee"
+                },
+                {
+                    "uid": "1495835",
+                    "username": "Aura"
+                },
+                {
+                    "uid": "2004660",
+                    "username": "#Programmer"
+                },
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                },
+                {
+                    "uid": "2",
+                    "username": "Nixhxlas"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Prestige milestones",
+            "description": "TryAgain has reached 500 prestige.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1073887",
+                    "username": "TryAgain"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Ambien has reached 1,000 positive reputation.; Nevieth has reached 1,000 positive reputation.; Eagle 95 has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2798435",
+                    "username": "Ambien"
+                },
+                {
+                    "uid": "988432",
+                    "username": "Nevieth"
+                },
+                {
+                    "uid": "129349",
+                    "username": "Eagle 95"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Rubixa got a one month ban for marketplace sales trashing.; Wires was banned indefinitely for: \"Account Under Investigation\"; Toni Petris Gamer got a one month ban for rep abuse.; Nøitpyrcne was banned for two weeks due to rep abuse.; Armada was banned for two weeks with the following reason: \"Do not assume what I do and do not know. NEVER put words into my mouth.\"; YayHar was banned for 3 months with the following reason: \" I will not tolerate you questioning my policies.\"",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3110628",
+                    "username": "Rubixa"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires"
+                },
+                {
+                    "uid": "2777316",
+                    "username": "Toni Petris Gamer"
+                },
+                {
+                    "uid": "3173149",
+                    "username": "Nøitpyrcne"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "2759618",
+                    "username": "YayHar"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Whiterose has taken a 6-month vacation.; Steve has taken a two week long vacation.; Rage™ has taken a 6-month vacation.; Epilepsy has taken a 3-month vacation.; Reset has taken a 6-month vacation.; うるさい Shana has taken a 1-month vacation.; Happeh has taken a 6-month vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2342145",
+                    "username": "Whiterose"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "1183390",
+                    "username": "Rage™"
+                },
+                {
+                    "uid": "2636436",
+                    "username": "Epilepsy"
+                },
+                {
+                    "uid": "417076",
+                    "username": "Reset"
+                },
+                {
+                    "uid": "2967477",
+                    "username": "うるさい Shana"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "The Silenced was closed.; Bandors Jr. was closed.; Surday was closed.; Yoshikage Kira was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1607785",
+                    "username": "The Silenced"
+                },
+                {
+                    "uid": "662806",
+                    "username": "Bandors Jr."
+                },
+                {
+                    "uid": "2745761",
+                    "username": "Surday"
+                },
+                {
+                    "uid": "1100154",
+                    "username": "Yoshikage Kira"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Rubixa was Rep Killed.; Katarina Du Couteau was Rep Killed.; Bluffer had their reputation reset.; Toni Petris Gamer was Rep Killed.; Nøitpyrcne was Rep Killed.; vapefag was Rep Killed.; YayHar had their reputation reset.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3110628",
+                    "username": "Rubixa"
+                },
+                {
+                    "uid": "2876608",
+                    "username": "Katarina Du Couteau"
+                },
+                {
+                    "uid": "1382464",
+                    "username": "Bluffer"
+                },
+                {
+                    "uid": "2777316",
+                    "username": "Toni Petris Gamer"
+                },
+                {
+                    "uid": "3173149",
+                    "username": "Nøitpyrcne"
+                },
+                {
+                    "uid": "2619090",
+                    "username": "vapefag"
+                },
+                {
+                    "uid": "2759618",
+                    "username": "YayHar"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Grail received the Spy and Sticky Man awards.; Soulmate received the Legend and Stick Man awards.; Ronan. received the Ninja and Genius awards.; Vittorio received the Dog Lover award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3150737",
+                    "username": "Grail"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate"
+                },
+                {
+                    "uid": "751846",
+                    "username": "Ronan."
+                },
+                {
+                    "uid": "2091037",
+                    "username": "Vittorio"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1012051",
+                    "username": "Vossen",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 320,
+        "date": 1480981634,
+        "pid": "53342917",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 320"
+    }
+}

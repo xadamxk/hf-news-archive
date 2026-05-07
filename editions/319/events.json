@@ -1,0 +1,330 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Gamble your life away for an award!",
+            "description": "We've gotten another award added to our list on Hack Forums and this time it is for those who gamble. This is a standard award that seems not to be a purchaseable award but an award you earn. http://hackforums.net/uploads/awards/dice.png >>Source",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "xadamxk is now a leader of Legends. ra1d is now a leader of Legends. Bull™ is no longer a leader of Legends. Perfect is now a leader of Illuminati. Firmware is now a leader of Illuminati. There were no ownership changes or rebrands this week.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                },
+                {
+                    "uid": "1844212",
+                    "username": "Bull™"
+                },
+                {
+                    "uid": "1327432",
+                    "username": "Perfect"
+                },
+                {
+                    "uid": "2642575",
+                    "username": "Firmware"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Description has reached 5,000 posts.; Durham has reached 10,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2653697",
+                    "username": "Description"
+                },
+                {
+                    "uid": "1800872",
+                    "username": "Durham"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Prestige milestones",
+            "description": "Jason has reached 500 prestige.; Cameron has reached 1,000 prestige.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2623266",
+                    "username": "Jason"
+                },
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "eCoLoGy has reached 1,000 positive reputation.; Factor8(TM) has reached 2,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "497949",
+                    "username": "eCoLoGy"
+                },
+                {
+                    "uid": "103669",
+                    "username": "Factor8(TM)"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Sift was banned for harassing members.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Davkul has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3097399",
+                    "username": "Davkul"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Elliot Alderson. was closed.; Moshi Moshi was closed.; Ray Palmer was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2284224",
+                    "username": "Elliot Alderson."
+                },
+                {
+                    "uid": "1108437",
+                    "username": "Moshi Moshi"
+                },
+                {
+                    "uid": "3324289",
+                    "username": "Ray Palmer"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Elliot Alderson. was Rep Killed.; Moshi Moshi was Rep Killed.; * DEAD * was Rep Killed.; DumpCake was Rep Killed.; 我是欧米茄 was Rep Killed.; Description was Rep Killed.; Incognito(TM) had their reputation reset.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2284224",
+                    "username": "Elliot Alderson."
+                },
+                {
+                    "uid": "1108437",
+                    "username": "Moshi Moshi"
+                },
+                {
+                    "uid": "2641906",
+                    "username": "* DEAD *"
+                },
+                {
+                    "uid": "2350135",
+                    "username": "DumpCake"
+                },
+                {
+                    "uid": "355364",
+                    "username": "我是欧米茄"
+                },
+                {
+                    "uid": "2653697",
+                    "username": "Description"
+                },
+                {
+                    "uid": "2112829",
+                    "username": "Incognito(TM)"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Mark Zuckerberg received the DaBomb award.; zSerity received the Businessman award.; testaccountplsignore was the first to recieve the Dicey award.; Mr. Robot recieved the Dicey award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "785388",
+                    "username": "Mark Zuckerberg"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                },
+                {
+                    "uid": "3090794",
+                    "username": "testaccountplsignore"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Photo",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5474237",
+            "users": [
+                {
+                    "uid": "2104118",
+                    "username": "Lawsuit"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: somnium.",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5476486",
+            "users": [
+                {
+                    "uid": "1377493",
+                    "username": "Denitorious"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1012051",
+                    "username": "Vossen",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 319,
+        "date": 1480488253,
+        "pid": "53280558",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 319"
+    }
+}

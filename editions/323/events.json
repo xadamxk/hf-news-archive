@@ -1,0 +1,327 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Year Banner",
+            "description": "Calling all graphic designers! Hack Forums is in need of a New Year banner so if you got the time, get working on it. You've got until Thursday or Friday to come up with something - make sure it's awesome! There's been a few submissions so far but Omniscient is still looking for more entries to choose from. >>Source",
+            "url": "http://hackforums.net/showthread.php?tid=5506107",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Honey Singh is now a leader of Escrow. Factor8™ finally got his user group Escrow. To know more about this group, check here .",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1443720",
+                    "username": "Honey Singh"
+                },
+                {
+                    "uid": "103669",
+                    "username": "Factor8™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "Jauz has reached 1,000 posts.; Undefined has reached 5,000 posts.; #Skyline has reached 5,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3202613",
+                    "username": "Jauz"
+                },
+                {
+                    "uid": "16998",
+                    "username": "Undefined"
+                },
+                {
+                    "uid": "2667861",
+                    "username": "#Skyline"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Prestige milestones",
+            "description": "Grail has reached 500 prestige.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3150737",
+                    "username": "Grail"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Sahaj has reached 1,000 positive reputation.; Wirt has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2440338",
+                    "username": "Sahaj"
+                },
+                {
+                    "uid": "1748669",
+                    "username": "Wirt"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Nimbus. was banned for Rep Killed complaining.; Jamaal Al Fayeed was banned.; Baysick was banned, pending closure.; ChoaticForce was banned.; Alprazolam was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1677568",
+                    "username": "Nimbus."
+                },
+                {
+                    "uid": "2900765",
+                    "username": "Jamaal Al Fayeed"
+                },
+                {
+                    "uid": "1206386",
+                    "username": "Baysick"
+                },
+                {
+                    "uid": "3278044",
+                    "username": "ChoaticForce"
+                },
+                {
+                    "uid": "3224674",
+                    "username": "Alprazolam"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Caliban has taken a vacation.; Bandors has taken a vacation.; Phantom has taken a vacation.; Sniper has taken a vacation.; Ariana Grande has taken a vacation.; Mαxim has taken a vacation.; Mr. Robot has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2682347",
+                    "username": "Caliban"
+                },
+                {
+                    "uid": "1189774",
+                    "username": "Bandors"
+                },
+                {
+                    "uid": "3142667",
+                    "username": "Phantom"
+                },
+                {
+                    "uid": "2159700",
+                    "username": "Sniper"
+                },
+                {
+                    "uid": "168299",
+                    "username": "Ariana Grande"
+                },
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Reflection was closed.; Gulddreng was closed.; nique ta mere (Excah) was closed.; Kaspah was closed.; DamienVC was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1262704",
+                    "username": "Reflection"
+                },
+                {
+                    "uid": "3124454",
+                    "username": "Gulddreng"
+                },
+                {
+                    "uid": "1743548",
+                    "username": "nique ta mere (Excah)"
+                },
+                {
+                    "uid": "3116832",
+                    "username": "Kaspah"
+                },
+                {
+                    "uid": "2334861",
+                    "username": "DamienVC"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Purple Kief was Rep Killed.; Reflection was Rep Killed.; Nimbus. was Rep Killed for losing his Guath.; Jamaal Al Fayeed was Rep Killed.; Gulddreng was Rep Killed.; Kubaa was Rep Killed.; DamienVC was Rep Killed.; Alprazolam was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2630650",
+                    "username": "Purple Kief"
+                },
+                {
+                    "uid": "1262704",
+                    "username": "Reflection"
+                },
+                {
+                    "uid": "1677568",
+                    "username": "Nimbus."
+                },
+                {
+                    "uid": "2900765",
+                    "username": "Jamaal Al Fayeed"
+                },
+                {
+                    "uid": "3124454",
+                    "username": "Gulddreng"
+                },
+                {
+                    "uid": "117120",
+                    "username": "Kubaa"
+                },
+                {
+                    "uid": "2334861",
+                    "username": "DamienVC"
+                },
+                {
+                    "uid": "3224674",
+                    "username": "Alprazolam"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "712376",
+                    "username": "Joey",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1012051",
+                    "username": "Vossen",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "1148878",
+                    "username": "Clique",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 323,
+        "date": 1482828038,
+        "pid": "53587707",
+        "author_uid": "525019",
+        "subject": "Hack Forums News // Edition 323 -- Happy New Year 2017"
+    }
+}

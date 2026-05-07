@@ -1,0 +1,344 @@
+{
+    "events": [
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Armada is now a leader of Legends . xadamxk is now a leader of Fusion . ra1d recently purchased Enigma and has rebranded it into Aequitas .",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts milestones",
+            "description": "James! has reached 1,000 posts.; ɴᴀᴢɢᴜʟ has reached 1,000 posts.; Evanescence has reached 5,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2774521",
+                    "username": "James!"
+                },
+                {
+                    "uid": "2371818",
+                    "username": "ɴᴀᴢɢᴜʟ"
+                },
+                {
+                    "uid": "1670964",
+                    "username": "Evanescence"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation milestones",
+            "description": "Aurora has reached 1,000 positive reputation, again!; Daddy has reached 1,000 positive reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "888979",
+                    "username": "Aurora"
+                },
+                {
+                    "uid": "533812",
+                    "username": "Daddy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Miscellaneous user milestones / role updates",
+            "description": "Eagle 95 is now a Staff Member.; Minimalist is now a Staff Member.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "129349",
+                    "username": "Eagle 95"
+                },
+                {
+                    "uid": "1915596",
+                    "username": "Minimalist"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "ze-slade was banned.; Kondry was banned.; Dawn was banned for 2 years.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2545159",
+                    "username": "ze-slade"
+                },
+                {
+                    "uid": "121732",
+                    "username": "Kondry"
+                },
+                {
+                    "uid": "2972010",
+                    "username": "Dawn"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Deadpan has taken a vacation.; Flacko Joyde has taken a vacation.; ChromeProducts has taken a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "964740",
+                    "username": "Deadpan"
+                },
+                {
+                    "uid": "2790629",
+                    "username": "Flacko Joyde"
+                },
+                {
+                    "uid": "1472133",
+                    "username": "ChromeProducts"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Ｅssence was closed.; Perfume was closed.; BLURRYFACE was closed.; Tommy has requested closure, and has been closed.; DONT USE ROCKETR was closed.; Bugs Bunny was closed.; Dabbi was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2891462",
+                    "username": "Ｅssence"
+                },
+                {
+                    "uid": "1721412",
+                    "username": "Perfume"
+                },
+                {
+                    "uid": "1918708",
+                    "username": "BLURRYFACE"
+                },
+                {
+                    "uid": "2529154",
+                    "username": "Tommy"
+                },
+                {
+                    "uid": "2044944",
+                    "username": "DONT USE ROCKETR"
+                },
+                {
+                    "uid": "3079662",
+                    "username": "Bugs Bunny"
+                },
+                {
+                    "uid": "453602",
+                    "username": "Dabbi"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Reputation kills",
+            "description": "Ｅssence was Rep Killed.; Perfume was Rep Killed.; BLURRYFACE was Rep Killed.; Bugs Bunny was Rep Killed.; Dabbi was Rep Killed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2891462",
+                    "username": "Ｅssence"
+                },
+                {
+                    "uid": "1721412",
+                    "username": "Perfume"
+                },
+                {
+                    "uid": "1918708",
+                    "username": "BLURRYFACE"
+                },
+                {
+                    "uid": "3079662",
+                    "username": "Bugs Bunny"
+                },
+                {
+                    "uid": "453602",
+                    "username": "Dabbi"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Formula1 has received the Sticky Man award, for this thread.; Medicated. has received the Gold Clover award.",
+            "url": "https://hackforums.net/showthread.php?tid=5511772",
+            "users": [
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                },
+                {
+                    "uid": "1703942",
+                    "username": "Medicated."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Web Browser UI",
+            "description": "GFX piece featured under the HF News Spotlight banner for this edition.",
+            "url": "http://hackforums.net/showthread.php?tid=5525679",
+            "users": [
+                {
+                    "uid": "669174",
+                    "username": "silenty loud"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Mαxim conducted by Enterpriser.",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?pid=53845893",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica",
+                    "role": "Support (Graphics)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "On-Call Team"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts",
+                    "role": "Support (Edition Mover)"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk",
+                    "role": "Support (Reminder)"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics) / On-Call Team"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "boxxy",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2364291",
+                    "username": "Buffy Summers",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "2577525",
+                    "username": "Hash G.",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "2905593",
+                    "username": "reBELLYus",
+                    "role": "Journalist (Trends)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 326,
+        "date": 1484767369,
+        "pid": "53845893",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 326"
+    }
+}
