@@ -1,0 +1,169 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF XMPP Chat Service Now Live",
+            "description": "Omniscient has recommended those wishing to join an XMPP chat service may try Hacker.im. The chatroom can be found by searching the server, 'im.hacker.im' and those looking to register can do so at hacker.im.",
+            "url": "http://hackforums.net/showthread.php?tid=5735745",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Hacker.IM Graphics Battle",
+            "description": "A graphics battle is being held to determine the new web design for the recently announced Hacker.IM. Although typical competitions usually run for one month, this round will be especially difficult having only two weeks to complete and submit your designs.",
+            "url": "http://hackforums.net/showthread.php?tid=5738473",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership and recruitment (stub)",
+            "description": ".Chief is no longer a leader of Socialites.; Crystallize. is now a leader of Unity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "458073",
+                    "username": ".Chief"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki recruitment (Hack Forums Wiki)",
+            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
+            "url": "http://hackforums.net/showthread.php?tid=5680175",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Mustys has reached 1,000 posts; Escrow has reached 500 prestige; Effexion has reached 1,000 prestige, Atta girl",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3506627",
+                    "username": "Mustys"
+                },
+                {
+                    "uid": "1406453",
+                    "username": "Escrow"
+                },
+                {
+                    "uid": "229769",
+                    "username": "Effexion"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3028527",
+                    "username": "Kiyo"
+                },
+                {
+                    "uid": "2361088",
+                    "username": "Cokeboy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Riyu～っ☆ received the Spy award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "Riyu～っ☆"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Cryptocurrency Guide and Tutorial Mega Thread",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5727953",
+            "users": [
+                {
+                    "uid": "2172949",
+                    "username": "Eagerkid"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "oxid's Testimonial",
+            "description": "",
+            "url": "http://hackforums.net/showthread.php?tid=5738376",
+            "users": [
+                {
+                    "uid": "3680778",
+                    "username": "oxid"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation picks",
+            "description": "GFX spotlight (battlestation showcase).",
+            "url": "http://hackforums.net/showthread.php?tid=5738792",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Spotlight: Battlestation picks",
+            "description": "GFX spotlight (battlestation showcase).",
+            "url": "http://hackforums.net/showthread.php?tid=5725546",
+            "users": []
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with oxid conducted by Tsundere.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3680778",
+                    "username": "oxid"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 365,
+        "date": 1508298900,
+        "pid": "56087956",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 365"
+    }
+}

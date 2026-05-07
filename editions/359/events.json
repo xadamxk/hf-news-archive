@@ -1,0 +1,30 @@
+{
+    "events": [
+        {
+            "category": "news",
+            "title": "Missing HF News Content",
+            "description": "The HF News content for editions 359 is missing. The original post was deleted.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": 3176965,
+                    "username": "Soulmate～っ☆"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 359,
+        "date": 1504580438,
+        "pid": "55784827",
+        "author_uid": "3176965",
+        "subject": "Hack Forums News // Edition 359"
+    }
+}
