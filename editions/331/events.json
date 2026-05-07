@@ -147,18 +147,6 @@
         },
         {
             "category": "threads",
-            "title": "Basic Traceroute Script",
-            "description": "Python traceroute tutorial.",
-            "url": "http://hackforums.net/showthread.php?tid=5556504",
-            "users": [
-                {
-                    "uid": "3388985",
-                    "username": "FriendOfRaven"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Context Managers",
             "description": "Python context managers tutorial.",
             "url": "http://hackforums.net/showthread.php?tid=5557139",
@@ -183,66 +171,6 @@
         },
         {
             "category": "threads",
-            "title": "Mousepad",
-            "description": "Show custom mousepads.",
-            "url": "http://hackforums.net/showthread.php?tid=5555529",
-            "users": [
-                {
-                    "uid": "591405",
-                    "username": "Maradonnie"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "What do you think of Parkour?",
-            "description": "Parkour discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5553612",
-            "users": [
-                {
-                    "uid": "2284369",
-                    "username": "Ted™"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "What songs make you feel nostalgic?",
-            "description": "Music nostalgia thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5550879",
-            "users": [
-                {
-                    "uid": "3431345",
-                    "username": "Daniel"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Do you shave your ass?",
-            "description": "Lounge discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5554668",
-            "users": [
-                {
-                    "uid": "646178",
-                    "username": "♥Spartan"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Do you believe in Aliens?",
-            "description": "Aliens discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5555364",
-            "users": [
-                {
-                    "uid": "1683739",
-                    "username": "mrpker9"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "3 Years, 3+3+2 days, 30k posts",
             "description": "bοxxy feedback milestone thread.",
             "url": "http://hackforums.net/showthread.php?tid=5555214",
@@ -255,18 +183,6 @@
         },
         {
             "category": "threads",
-            "title": "$100 Awards contest [OFFICIAL] [LONG]",
-            "description": "Joke contest for awards.",
-            "url": "http://hackforums.net/showthread.php?tid=5554499",
-            "users": [
-                {
-                    "uid": "3125649",
-                    "username": "Crystallize."
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "I want to upgrade you to EPIC :: PART 2",
             "description": "Upgrade giveaway.",
             "url": "http://hackforums.net/showthread.php?tid=5556151",
@@ -274,66 +190,6 @@
                 {
                     "uid": "2623266",
                     "username": "Jason"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "$100 BTC giveaway",
-            "description": "BTC giveaway.",
-            "url": "http://hackforums.net/showthread.php?tid=5554549",
-            "users": [
-                {
-                    "uid": "3423769",
-                    "username": "yaltmark"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Are you a creative person? Win a gamertag",
-            "description": "Creative contest.",
-            "url": "http://hackforums.net/showthread.php?tid=5550254",
-            "users": [
-                {
-                    "uid": "2754642",
-                    "username": "Abel"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "My road to kill 5K Gargoyles",
-            "description": "Runescape progress thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5551348",
-            "users": [
-                {
-                    "uid": "3040956",
-                    "username": "L A S S 3"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "DrugMC - Drugs - Raiding - Scamming - Griefing - Stealing - Custom Plugins - Factions",
-            "description": "Minecraft server ad.",
-            "url": "http://hackforums.net/showthread.php?tid=5548734",
-            "users": [
-                {
-                    "uid": "2990242",
-                    "username": "HostingSpecialists"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "My first Singed Montage :D (Singed One Trick for 3 Seasons)",
-            "description": "League montage.",
-            "url": "http://hackforums.net/showthread.php?tid=5554273",
-            "users": [
-                {
-                    "uid": "2290255",
-                    "username": "Kastow"
                 }
             ]
         },
@@ -365,7 +221,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Trends / Site News / Group News / Gaming News / Comics)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team (User News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "1356937",
+                    "username": "Angеl",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                }
+            ]
         }
     ],
     "edition": {

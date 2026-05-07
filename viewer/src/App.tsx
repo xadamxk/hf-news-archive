@@ -33,6 +33,12 @@ const datePickerDropdownProps = {
   maxDate: DATE_FILTER_MAX,
 };
 
+/** Category labels in the filter UI (data uses lowercase: news, interviews, …). */
+function formatCategoryLabel(c: string): string {
+  if (!c) return c;
+  return c.charAt(0).toUpperCase() + c.slice(1);
+}
+
 function badgeClass(cat: string): string {
   const m: Record<string, string> = {
     site: "badge-site",
@@ -241,7 +247,9 @@ function eventStableKey(ev: CompactEvent, ed: CompactEditionRow[]): string {
   const row = ed[ev.x];
   const s = row?.s ?? ev.x;
   const e = row?.e ?? ev.x;
-  return `${s}:${e}:${ev.c}:${ev.t}`;
+  /** Disambiguates rows that share edition + category + title (e.g. multiple Spotlight items). */
+  const link = ev.l?.trim() ?? "";
+  return `${s}:${e}:${ev.c}:${ev.t}:${link}`;
 }
 
 function PaginationBar({
@@ -399,6 +407,11 @@ export default function App() {
     [selectedCats],
   );
 
+  const selectedCategoryLabels = useMemo(
+    () => [...selectedCats].sort().map(formatCategoryLabel),
+    [selectedCats],
+  );
+
   useEffect(() => {
     let cancelled = false;
     (async () => {
@@ -537,13 +550,11 @@ export default function App() {
   const searchHighlight = useMemo(() => deferredQ.trim().toLowerCase(), [deferredQ]);
 
   function toggleCategory(c: string) {
-    startTransition(() => {
-      setSelectedCats((prev) => {
-        const n = new Set(prev);
-        if (n.has(c)) n.delete(c);
-        else n.add(c);
-        return n;
-      });
+    setSelectedCats((prev) => {
+      const n = new Set(prev);
+      if (n.has(c)) n.delete(c);
+      else n.add(c);
+      return n;
     });
   }
 
@@ -743,7 +754,9 @@ export default function App() {
                 }}
               >
                 <span id="cat-dropdown-value" className="cat-dropdown-value">
-                  {selectedCats.size === 0 ? "All categories" : `${selectedCats.size} selected`}
+                  {selectedCats.size === 0
+                    ? "All categories"
+                    : selectedCategoryLabels.join(", ")}
                 </span>
                 <span className={`cat-chevron${catMenuOpen ? " cat-chevron-open" : ""}`} aria-hidden>
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -777,7 +790,7 @@ export default function App() {
                             <span className="cat-dropdown-option-mark" aria-hidden>
                               {selected ? "✓" : "\u00a0"}
                             </span>
-                            <span className="cat-dropdown-option-label">{c}</span>
+                            <span className="cat-dropdown-option-label">{formatCategoryLabel(c)}</span>
                           </button>
                         </li>
                       );

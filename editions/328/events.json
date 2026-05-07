@@ -68,7 +68,43 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight / Memo)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Trends / Site News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "boxxy",
+                    "role": "Interviewer"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1422600",
+                    "username": "Fox™",
+                    "role": "Journalist (Hacking News)"
+                }
+            ]
         }
     ],
     "edition": {

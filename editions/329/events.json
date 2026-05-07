@@ -226,7 +226,28 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Spotlight / Memo)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Site News / Group News / Gaming News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Journalist (World News)"
+                }
+            ]
         }
     ],
     "edition": {

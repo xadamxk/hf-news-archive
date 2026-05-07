@@ -151,7 +151,43 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "On Call Team (Headlines)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Trends / Site News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "On-Call Team (User News)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Interviewer)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (World News / Tech News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Gaming News)"
+                },
+                {
+                    "uid": "610356",
+                    "username": "Wires",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

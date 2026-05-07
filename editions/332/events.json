@@ -242,9 +242,14 @@
         {
             "category": "threads",
             "title": "[Tut] How to Change Your IP Address with a Netgear Router",
-            "description": "Router IP change tutorial (author profile link not present in edition text).",
+            "description": "Router IP change tutorial.",
             "url": "http://hackforums.net/showthread.php?tid=5560777",
-            "users": []
+            "users": [
+                {
+                    "uid": "3454965",
+                    "username": "Qean"
+                }
+            ]
         },
         {
             "category": "threads",
@@ -255,30 +260,6 @@
                 {
                     "uid": "3281617",
                     "username": "Zetrex"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Best underground rappers?",
-            "description": "Underground rap discussion.",
-            "url": "http://hackforums.net/showthread.php?tid=5559024",
-            "users": [
-                {
-                    "uid": "3431345",
-                    "username": "Daniel"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Zebra Yeezy's I took an L",
-            "description": "Sneaker release thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5560355",
-            "users": [
-                {
-                    "uid": "2787889",
-                    "username": "Rhinoo"
                 }
             ]
         },
@@ -315,18 +296,6 @@
                 {
                     "uid": "1365773",
                     "username": "Crya"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Russian Man Convicted of Murder After Killing Friend Over AMD vs NVIDIA Argument",
-            "description": "News discussion thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5561453",
-            "users": [
-                {
-                    "uid": "2160301",
-                    "username": "Piramyd"
                 }
             ]
         },
@@ -380,18 +349,6 @@
         },
         {
             "category": "threads",
-            "title": "FREE SPOTIFY PREMIUM METHOD!",
-            "description": "Spotify method giveaway.",
-            "url": "http://hackforums.net/showthread.php?tid=5560859",
-            "users": [
-                {
-                    "uid": "2439716",
-                    "username": "Vyrez."
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "02/27/2017 Baka News Weekly - Issue #3",
             "description": "Baka News weekly issue.",
             "url": "http://hackforums.net/showthread.php?tid=5561981",
@@ -411,18 +368,6 @@
                 {
                     "uid": "3123052",
                     "username": "Fortunate"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "My panda after surgery :(",
-            "description": "Pet recovery thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5557064",
-            "users": [
-                {
-                    "uid": "2859279",
-                    "username": "Brusk"
                 }
             ]
         },
@@ -447,7 +392,38 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Headlines / User News / Memo / Science News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Site News / Trends / Gaming News)"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryand8",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "2922555",
+                    "username": "Cimex",
+                    "role": "Journalist (World News / Security News)"
+                },
+                {
+                    "uid": "1730460",
+                    "username": "Gladly",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {
