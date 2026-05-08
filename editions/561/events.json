@@ -1,0 +1,60 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Omniscient's Vacation",
+            "description": "Omniscient returned from a vacation in Santa Barbara, California, sharing pictures and his experience.",
+            "url": "https://hackforums.net/showthread.php?tid=6313364",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Octoberfest Winners",
+            "description": "Omniscient announced Octoberfest 2025 winners with massive prizes; the $500 reward may still be unclaimed.",
+            "url": "https://hackforums.net/showthread.php?tid=6312808",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 2112829, uid 1349010, uid 1250012, uid 2302499, and uid 2838777 received King Decade. uid 4225267 and uid 3018464 received Lounge Head.",
+            "url": "",
+            "users": [
+                {"uid": "2112829", "username": ""},
+                {"uid": "1349010", "username": ""},
+                {"uid": "1250012", "username": ""},
+                {"uid": "2302499", "username": ""},
+                {"uid": "2838777", "username": ""},
+                {"uid": "4225267", "username": ""},
+                {"uid": "3018464", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. Gambler (uid 2028907) was removed as a leader of Pink LSZ.",
+            "url": "",
+            "users": [
+                {"uid": "2028907", "username": "Gambler"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 561,
+        "date": 1762789689,
+        "pid": "62871440",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 22"
+    }
+}

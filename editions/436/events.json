@@ -1,0 +1,69 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "$100 ScratchCard with Guaranteed Wins",
+            "description": "A new nine-slot scratch card was added to the Scratch Card section for $100, ensuring a guaranteed win.",
+            "url": "https://hackforums.net/showthread.php?tid=5972259",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Member Pruning",
+            "description": "Omniscient pruned 250,000 accounts that had been in the closed category for the last 3 years.",
+            "url": "https://hackforums.net/showthread.php?tid=5972078",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership and leadership changes.",
+            "description": "Spaark became owner of Sui Generis; Profitvolt became owner of Entropy. ECHO joined Sui Generis leadership; Spaark became a leader of Sociopaths, Wolfpack, and Samaritans; scam became a leader of Equilibrium and Wolfpack; Mazak82 became a leader of Influence and Masterminds; Aficionado became a leader of Masterminds.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1573817",
+                    "username": "Spaark"
+                },
+                {
+                    "uid": "2180411",
+                    "username": "Profitvolt"
+                },
+                {
+                    "uid": "4223457",
+                    "username": "ECHO"
+                },
+                {
+                    "uid": "1314004",
+                    "username": "scam"
+                },
+                {
+                    "uid": "3758521",
+                    "username": "Mazak82"
+                },
+                {
+                    "uid": "3403141",
+                    "username": "Aficionado"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 436,
+        "date": 1559177526,
+        "pid": "58626825",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 436"
+    }
+}

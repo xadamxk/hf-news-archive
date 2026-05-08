@@ -1,0 +1,91 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Contracts Required for all Deals",
+            "description": "Omniscient announced that starting March 1, all deals must be done through Hack Forums Contracts. Deals without contracts can result in actions against the offender.",
+            "url": "https://hackforums.net/showthread.php?tid=5935709",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Scratch Cards v2",
+            "description": "Scratch Cards can now be purchased through Coin Payments (BTC, XMR, ETH, LTC, BCH, DASH) in addition to Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=5936276",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "The Game Beta",
+            "description": "A new hacking-related game is on its way; the roadmap is detailed in a dedicated thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5937740",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "110k Closed Accounts Pruned",
+            "description": "All accounts that had been closed for 7+ years were pruned from the database.",
+            "url": "https://hackforums.net/showthread.php?tid=5937887",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "iNviZ has reached 5,000 posts; Buildoman has reached 2,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "619030",
+                    "username": "iNviZ"
+                },
+                {
+                    "uid": "2875347",
+                    "username": "Buildoman"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Tekashi69 was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "817597",
+                    "username": "Tekashi69"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Gt403cyl was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1125893",
+                    "username": "Gt403cyl"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 425,
+        "date": 1549576098,
+        "pid": "58239527",
+        "author_uid": "1705027",
+        "subject": "Hack Forums News // Edition 425"
+    }
+}

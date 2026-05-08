@@ -1,0 +1,150 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums Moving to a Bigger and Better Home",
+            "description": "Omniscient announced that Hack Forums will move to a new server in May, with upgraded RAM, an EU location, and a switch from FreeBSD to a Linux flavor. Migration is expected to require 24+ hours of downtime. The previous migration was on October 19, 2015.",
+            "url": "https://hackforums.net/showthread.php?tid=5829294",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Reported Posts Statistic is Back",
+            "description": "Omniscient announced the Reported Posts statistic has returned, with the plugin updated by Xerotic to be compatible with the MyBB upgrade. Reports prior to the upgrade were pruned due to incompatible MyBB report changes.",
+            "url": "https://hackforums.net/showthread.php?tid=5831164",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Wiki Team leadership.",
+            "description": "Nuworld is no longer the Leader of the Wiki Team. Makaveli The Don is now the Leader of the Wiki Team.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "509788",
+                    "username": "Makaveli The Don"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Charger has reached 1,000 prestige; 630 has reached 2,000 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                },
+                {
+                    "uid": "797403",
+                    "username": "630"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Night-fox was banned for thread edit abuse.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2326206",
+                    "username": "Night-fox"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                },
+                {
+                    "uid": "3332775",
+                    "username": "Hyphonix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Nuworld received the Asswipe award; ｍＯｂｉＩｅ received the Cool and Black Hatter awards; Mr. Robot received the Silver Medal award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "747953",
+                    "username": "ｍＯｂｉＩｅ"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The video you have been waiting for",
+            "description": "Nuworld's HF drama alert episode of the week.",
+            "url": "https://hackforums.net/showthread.php?tid=5829308",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Bitcoin Art :)",
+            "description": "J.P Morgan's HF Bitcoin art.",
+            "url": "https://hackforums.net/showthread.php?tid=5830538",
+            "users": [
+                {
+                    "uid": "1589588",
+                    "username": "J.P Morgan"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 389,
+        "date": 1525161547,
+        "pid": "57032776",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 389"
+    }
+}

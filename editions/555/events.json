@@ -1,0 +1,84 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Octoberfest Energy",
+            "description": "Omniscient gauged interest in this year's Octoberfest event, which is approaching with a new annual award.",
+            "url": "https://hackforums.net/showthread.php?tid=6308363",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Octoberfest Award Design",
+            "description": "Omniscient is gathering member submissions and feedback on the new Octoberfest award design.",
+            "url": "https://hackforums.net/showthread.php?tid=6309084",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 1140211 received Quickly Loved. uid 941199 and uid 2335494 received King Decade. uid 5697524 received Dicey.",
+            "url": "",
+            "users": [
+                {"uid": "1140211", "username": ""},
+                {"uid": "941199", "username": ""},
+                {"uid": "2335494", "username": ""},
+                {"uid": "5697524", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. MarlboroMan was added as a leader of Quantum.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "uid 5655428 was temp-banned. uid 5432602 and uid 3890624 were banned.",
+            "url": "",
+            "users": [
+                {"uid": "5655428", "username": ""},
+                {"uid": "5432602", "username": ""},
+                {"uid": "3890624", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 5404814 on vacation until October 18, 2025.",
+            "url": "",
+            "users": [
+                {"uid": "5404814", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Staff Promotion",
+            "description": "The Pact (uid 1411092) was promoted to Staff.",
+            "url": "",
+            "users": [
+                {"uid": "1411092", "username": "The Pact"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 555,
+        "date": 1759160298,
+        "pid": "62829059",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 16"
+    }
+}

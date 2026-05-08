@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hide Awards Feature (Individual Awards)",
+            "description": "Omniscient updated the Hide Awards feature so users can individually select which specific awards to hide on their profile.",
+            "url": "https://hackforums.net/showthread.php?tid=6304160",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Set Display Group as Registered",
+            "description": "Members can now hide their userbar or set their displayed usergroup to 'Registered' for a cleaner profile appearance.",
+            "url": "https://hackforums.net/showthread.php?tid=6303889",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Group Automated Welcome PM",
+            "description": "Group leaders can now customize a welcome PM that is automatically sent when a new member is accepted into the group.",
+            "url": "https://hackforums.net/showthread.php?tid=6303661",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 5568595 received Speaker of the House. uid 5526553 received Green Apple. uid 1555761 received King Decade. uid 4189082 received Green Apple, Dicey, and SportsBook awards.",
+            "url": "",
+            "users": [
+                {"uid": "5568595", "username": ""},
+                {"uid": "5526553", "username": ""},
+                {"uid": "1555761", "username": ""},
+                {"uid": "4189082", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "H4CK3R$ Group Spotlight",
+            "description": "Special collaboration with the H4CK3R$ group covering their projects: HackHF (a hacking quest/exploit website), H4CK3R$ Casino (a closed-alpha bytes-based casino with blackjack, coinflip, and Guess the Number). Group has live scoreboard, a point system (members earn points for posts/threads), monthly $100 prize for top earner, and three rank-based awards (Blue Hat/TR41N33, Red Hat/0P3R8T0R, Black Hat/3L173). Coordinated with uid 6 and skull.",
+            "url": "",
+            "users": [
+                {"uid": "6", "username": ""},
+                {"uid": "3740051", "username": "skull"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "TWIXX was closed.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 546,
+        "date": 1753729941,
+        "pid": "62792222",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Seven"
+    }
+}

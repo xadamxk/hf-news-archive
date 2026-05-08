@@ -1,0 +1,81 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Moving Forward And Recent Events",
+            "description": "Omniscient announced changes including the removal of long-time members as part of a new direction for the community. He acknowledged change is uncomfortable but necessary for progress, and encouraged remaining members to contribute ideas and skills.",
+            "url": "https://hackforums.net/showthread.php?tid=6302553",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Userbars: Aliens vs Cosmic Poll",
+            "description": "Omniscient launched a community poll to choose between two new userbar themes — Aliens and Cosmic. The Aliens design was leading at the time of writing.",
+            "url": "https://hackforums.net/showthread.php?tid=6302361",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Group Convo Rooms",
+            "description": "Omniscient is converting Group Convo Rooms (GCRs) to function more like the old Public Convo Room — only the latest 20 messages will display, with no notifications, and fun features like /flip and /rain returning. Socket-based features may be unstable during development.",
+            "url": "https://hackforums.net/showthread.php?tid=6302843",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 5343398 received the Speaker of the House award. uid 113707 and uid 564681 received the King Decade award.",
+            "url": "",
+            "users": [
+                {"uid": "5343398", "username": ""},
+                {"uid": "113707", "username": ""},
+                {"uid": "564681", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus group remains listed for sale. Olympians and Benevolence groups listed for sale by uid 1342286.",
+            "url": "https://hackforums.net/showthread.php?tid=6302394",
+            "users": [
+                {"uid": "1342286", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "MFUK was closed.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 3 went on vacation until 10.08.2025.",
+            "url": "",
+            "users": [
+                {"uid": "3", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 544,
+        "date": 1752517963,
+        "pid": "62782494",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Five"
+    }
+}

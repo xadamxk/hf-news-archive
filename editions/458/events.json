@@ -1,0 +1,49 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Marketplace Feature - Featured Link",
+            "description": "Members can now buy a 'Featured Link' for their threads to gain more exposure, with custom text up to 65 characters per forum.",
+            "url": "https://hackforums.net/showthread.php?tid=6052653",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Zeus was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "cryp was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4098852",
+                    "username": "cryp"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 458,
+        "date": 1582837713,
+        "pid": "59475300",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 458"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "The Mentors Are Coming",
+            "description": "Omniscient stated that permissions for the Mentors group have been fixed, allowing them proper access to moderate their sections. New Mentors will be selected this coming week.",
+            "url": "https://hackforums.net/showthread.php?tid=5784848",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Future of Bitcoin Haughtily Debated",
+            "description": "As Bitcoin plunges to values not seen since late last year, members are split on whether Bitcoin will rebound or another cryptocurrency will take its place. A discussion thread on Bitcoin technology and its value has been spotlighted.",
+            "url": "https://hackforums.net/showthread.php?tid=5793619",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Dawn leadership changes.",
+            "description": "Novica is no longer a leader of Dawn. bzrΚ is now a leader of Dawn. DerMensch24 is now a leader of Dawn. iKinky is now a leader of Dawn.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                },
+                {
+                    "uid": "1201211",
+                    "username": "bzrΚ"
+                },
+                {
+                    "uid": "3066693",
+                    "username": "DerMensch24"
+                },
+                {
+                    "uid": "1203712",
+                    "username": "iKinky"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "New Mentors",
+            "description": "Makaveli The Don is now a Mentor; Riyu～っ☆ is now a Mentor; Crystallize. is now a Mentor; Confound is now a Mentor; MeshCollider is now a Mentor; Vitani is now a Mentor.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "509788",
+                    "username": "Makaveli The Don"
+                },
+                {
+                    "uid": "3129680",
+                    "username": "Riyu～っ☆"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                },
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                },
+                {
+                    "uid": "2015410",
+                    "username": "MeshCollider"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Leo Mikaelson was banned; Velocity1214 was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3708977",
+                    "username": "Leo Mikaelson"
+                },
+                {
+                    "uid": "2971732",
+                    "username": "Velocity1214"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3201883",
+                    "username": "Repzy"
+                },
+                {
+                    "uid": "950064",
+                    "username": "Wolfin"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "00100100 received the Dicey award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3323508",
+                    "username": "00100100"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Five Year Feedback",
+            "description": "☃BowmanBot☃ shares his user feedback throughout his 5 year tenure on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5789381",
+            "users": [
+                {
+                    "uid": "1651695",
+                    "username": "☃BowmanBot☃"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[GUIDE] How to improve at CS:GO",
+            "description": "Biggy's guide on improving your skill in Counter-Strike: Global Offensive.",
+            "url": "https://hackforums.net/showthread.php?tid=5792911",
+            "users": [
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Beginner's Guide for Cryptocurrency Investing",
+            "description": "Infαmous' beginner's guide for crypto investing.",
+            "url": "https://hackforums.net/showthread.php?tid=5793546",
+            "users": [
+                {
+                    "uid": "3433475",
+                    "username": "Infαmous"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Ultimate Compilation of All Nintendo Consoles",
+            "description": "Sigma's thread covering all past and present Nintendo consoles.",
+            "url": "https://hackforums.net/showthread.php?tid=5793647",
+            "users": [
+                {
+                    "uid": "89554",
+                    "username": "Sigma"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Found a guy who stole some money from me IRL, here in HF",
+            "description": "Crystallize. shares a story about finding someone from real life on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5791880",
+            "users": [
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 377,
+        "date": 1517863438,
+        "pid": "56638284",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 377"
+    }
+}

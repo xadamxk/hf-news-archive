@@ -1,0 +1,254 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Contracts for Marketplace",
+            "description": "After several years of talks, the long-announced Vouch system is now live as 'Contracts'. It replaces reputation in the marketplace and stickies site-wide. MyCode and a 'Contracted Customer' label have been added. Xerotic and Omniscient continue to improve it.",
+            "url": "https://hackforums.net/showthread.php?tid=5847086",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Reputation Deleted",
+            "description": "With Contracts enabled for the marketplace, reputation across the site has been fully reset for all members.",
+            "url": "https://hackforums.net/showthread.php?tid=5847386",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Canned Reputation",
+            "description": "Reputation no longer accepts custom text — members can only choose from pre-defined positive, neutral, and negative options via dropdown.",
+            "url": "https://hackforums.net/showthread.php?tid=5847699",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Ub3r Suspended",
+            "description": "Ub3r is closed for applications and will no longer accept new members. A new replacement group will launch and current Ub3r members will remain.",
+            "url": "https://hackforums.net/showthread.php?tid=5849002",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "r00t Group",
+            "description": "Omniscient teased a new group called r00t to replace Ub3r, with a userbar and award. It's designed for automatic approval rather than manual, with the same or more features than Ub3r.",
+            "url": "https://hackforums.net/showthread.php?tid=5850367",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Importance of SEO",
+            "description": "Omniscient discussed the importance of SEO and mobile-ready optimizations for HF's future. Google ranks mobile-first websites above all others, and HF not being mobile-ready is hurting it. Effort is being put into a new mobile-friendly theme.",
+            "url": "https://hackforums.net/showthread.php?tid=5851032",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Post Reputations",
+            "description": "Post Reputations were enabled briefly but then disabled again. The feature would have allowed members to rep the same member multiple times for unique posts. Omniscient may reconsider it after adjustments.",
+            "url": "https://hackforums.net/showthread.php?tid=5851974",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Stress and Patience",
+            "description": "Omniscient discussed personal/family stress and asked for member patience while the Staff team continues working on new changes.",
+            "url": "https://hackforums.net/showthread.php?tid=5850705",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Rep4Rep Doesn't Excuse LQP",
+            "description": "Omniscient warned that asking for reputation does not excuse low-quality posting. Profile rep goals, PM spam, and Rep4Rep threads are still bannable. Staff have been instructed to close and warn offenders, and Omniscient has been banning members for LQP.",
+            "url": "https://hackforums.net/showthread.php?tid=5847963",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Influence leadership.",
+            "description": "ScreemS is no longer a leader of Influence. Xerotic is now a leader of Influence. Aerodactyl is now a leader of Influence.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1729678",
+                    "username": "ScreemS"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Steve has reached 5,000 moderately high-quality posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "FamousHater was banned for two years for trashing HF updates; Ninetales. was banned for six months for PM spamming; Confound was banned for one month for PM spamming; Purple Kief was banned for one month with the reason 'FUCK YOU!'",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2360425",
+                    "username": "FamousHater"
+                },
+                {
+                    "uid": "1812679",
+                    "username": "Ninetales."
+                },
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                },
+                {
+                    "uid": "2630650",
+                    "username": "Purple Kief"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "worlockt took a 6-month vacation ban; Lukas took a three-day vacation ban to clear his mind; Roytoy took a one-week vacation ban; Leroy Jethro Gibbs took a six-month vacation ban.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2584237",
+                    "username": "worlockt"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                },
+                {
+                    "uid": "130086",
+                    "username": "Roytoy"
+                },
+                {
+                    "uid": "1512695",
+                    "username": "Leroy Jethro Gibbs"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "ra1d was closed upon request; Cagey was closed for a multitude of reasons.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                },
+                {
+                    "uid": "2944211",
+                    "username": "Cagey"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "DamienVC received the Master Donator, 2 Grand Amethysts, Black Hatter, and Hustler awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2334861",
+                    "username": "DamienVC"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Meow conducted by iHydra.",
+            "description": "Meow, almost 6 years on HF, discusses his HF early days (joining for a Facebook 'hacker' tool), the origin of his username (named after his deceased cat), his time as a leader of Revolution, his memories of older groups (Instinct, The Order), and his views on the new Contracts and canned reputation system — questioning the timing and execution of the changes while praising Xerotic's effort.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 396,
+        "date": 1529462341,
+        "pid": "57241476",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 396"
+    }
+}

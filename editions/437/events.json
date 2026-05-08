@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Telegram integration suggestion",
+            "description": "Omniscient asked for member opinions on whether to integrate Telegram for chat.",
+            "url": "https://hackforums.net/showthread.php?tid=5978462",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Social Media Login suggestion",
+            "description": "A discussion thread asked members whether they would prefer social media account login or custom logins on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5978475",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Riot.IM community room",
+            "description": "A new community room on Riot.im was set up for members to try, with the possibility of HF integration.",
+            "url": "https://hackforums.net/showthread.php?tid=5978550",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership and leadership changes.",
+            "description": "Nas became owner of Prevail; Thornzzz became a leader of Prevail; Spaark became a leader of Appraisers; catvomit became a leader of Sui Generis.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1452196",
+                    "username": "Nas"
+                },
+                {
+                    "uid": "1992268",
+                    "username": "Thornzzz"
+                },
+                {
+                    "uid": "1573817",
+                    "username": "Spaark"
+                },
+                {
+                    "uid": "4223457",
+                    "username": "catvomit"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 437,
+        "date": 1560227779,
+        "pid": "58663123",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 437"
+    }
+}

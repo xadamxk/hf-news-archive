@@ -1,0 +1,70 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "URL Parser Updated",
+            "description": "Pasting a forum link is now automatically parsed into a styled link to that thread/forum. Does not interfere with the [URL] tag.",
+            "url": "https://hackforums.net/showthread.php?tid=5788777&pid=57996690#pid57996690",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Lavish Living has obtained 1,000 Popularity",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Vanderbilt was closed indefinitely.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2765684",
+                    "username": "Vanderbilt"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Omniscient awarded himself two Omni Face awards; iHydra awarded himself all four parts of the iHydra award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 420,
+        "date": 1544677667,
+        "pid": "58006750",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 420"
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Hack Forums Administration",
+            "description": "Omniscient reinstated former admin Factor8 and appointed Phixel and Xerotic as new admins. He stated he can no longer function as the only admin of the site due to limitations of time, energy, and knowledge.",
+            "url": "https://hackforums.net/showthread.php?tid=5798755",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "103669",
+                    "username": "Factor8"
+                },
+                {
+                    "uid": "3021787",
+                    "username": "Phixel"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Escrow has reached 500 prestige; Malicious` has reached 1,000 posts; WolfBoss has reached 1,000 posts; Motusora has reached 1,000 positive reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1406453",
+                    "username": "Escrow"
+                },
+                {
+                    "uid": "3767891",
+                    "username": "Malicious`"
+                },
+                {
+                    "uid": "3693346",
+                    "username": "WolfBoss"
+                },
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Divined promoted to Mentor",
+            "description": "Divined is now a Mentor.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Game Freak was banned, pending closure; Kuso was banned for forwarding harassing messages for - Sam -; James_ was banned; Copywriter was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1994813",
+                    "username": "Game Freak"
+                },
+                {
+                    "uid": "984082",
+                    "username": "Kuso"
+                },
+                {
+                    "uid": "805825",
+                    "username": "- Sam -"
+                },
+                {
+                    "uid": "510910",
+                    "username": "James_"
+                },
+                {
+                    "uid": "2883163",
+                    "username": "Copywriter"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Ben Shapiro was closed; - Sam - was closed for harassing members.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3768619",
+                    "username": "Ben Shapiro"
+                },
+                {
+                    "uid": "805825",
+                    "username": "- Sam -"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "National Crime Agency UK received the Speaker of the House award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3384307",
+                    "username": "National Crime Agency UK"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I just had my first date on valentine's day!",
+            "description": "M0HX shares having his first date on Valentine's Day.",
+            "url": "https://hackforums.net/showthread.php?tid=5799641",
+            "users": [
+                {
+                    "uid": "1441945",
+                    "username": "M0HX"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What is your favourite rep you have received?",
+            "description": "☃BowmanBot☃'s thread asking members about their favorite reputations received.",
+            "url": "https://hackforums.net/showthread.php?tid=5796852",
+            "users": [
+                {
+                    "uid": "1651695",
+                    "username": "☃BowmanBot☃"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 379,
+        "date": 1519111622,
+        "pid": "56710680",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 379"
+    }
+}

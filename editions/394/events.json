@@ -1,0 +1,150 @@
+{
+    "events": [
+        {
+            "category": "groups",
+            "title": "Superior ownership.",
+            "description": "Kawen is now the owner of Superior. KɪɴG is now a leader of Superior.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3894729",
+                    "username": "Kawen"
+                },
+                {
+                    "uid": "1407964",
+                    "username": "KɪɴG"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "BottomNotch has reached 1,000 reputation; BottomNotch has received access to the R3kt usergroup; Nyx- hit -5,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "881874",
+                    "username": "BottomNotch"
+                },
+                {
+                    "uid": "11953",
+                    "username": "Nyx-"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Tree of Life was banned for spamming the group join feature; Crystallize was banned for harassment; Cagey was banned for staff impersonation, having 'Mentor' as user title.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3065650",
+                    "username": "Tree of Life"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize"
+                },
+                {
+                    "uid": "2944211",
+                    "username": "Cagey"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "841866",
+                    "username": "Cight"
+                },
+                {
+                    "uid": "77274",
+                    "username": "Anubis™"
+                },
+                {
+                    "uid": "3274649",
+                    "username": "Möngool"
+                },
+                {
+                    "uid": "1754362",
+                    "username": "Trapezium"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "630 received the DaBomb award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "797403",
+                    "username": "630"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Advice you would give to yourself when you were 14-16?",
+            "description": "LuvXo72's discussion thread on advice members would give their younger selves.",
+            "url": "https://hackforums.net/showthread.php?tid=5830847",
+            "users": [
+                {
+                    "uid": "2795968",
+                    "username": "LuvXo72"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Happy Goodwill Monday!",
+            "description": "Aurora's Goodwill Monday thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5844489",
+            "users": [
+                {
+                    "uid": "2214473",
+                    "username": "Aurora"
+                }
+            ]
+        },
+        {
+            "category": "interviews",
+            "title": "Interview with Xerotic conducted by iHydra.",
+            "description": "Xerotic, recently appointed admin, discusses his upcoming work on the Marketplace 'Contracts' system (a deal tracker with B-Rating system that will replace forum reputation for Marketplace), planned new HF messaging system, his 2010 origin story (joining to hack a flash game called Tank Mania), how the Python section shaped his programming career, his three-day ban for cross-posting on day one, his roommate Steve being introduced to HF by him, and being the first ever to crack the Prestige formula together.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 394,
+        "date": 1528228809,
+        "pid": "57168108",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 394 - Interview with Xerotic, -Nyx reaches -5,000 rep"
+    }
+}

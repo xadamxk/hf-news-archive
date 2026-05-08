@@ -1,0 +1,37 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Mosaic Background",
+            "description": "The Mosaic background was added back from the old Modern theme.",
+            "url": "https://hackforums.net/showthread.php?tid=5929496",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Scratch Card Game",
+            "description": "Omniscient added a Scratch Card game where members buy cards for 1,000 β to scratch for prizes ranging from 1,000 β to 100,000 β. Cards can also be transferred to other members and may be used for deals, contests, or giveaways.",
+            "url": "https://hackforums.net/showthread.php?tid=5931881",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 424,
+        "date": 1548805799,
+        "pid": "58196431",
+        "author_uid": "1705027",
+        "subject": "Hack Forums News // Edition 424"
+    }
+}

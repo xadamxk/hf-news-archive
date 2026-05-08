@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF T-Shirts proposed",
+            "description": "Omniscient suggested making HF-branded T-Shirts to offer to members for Bytes as a reward, and is gathering suggestions before proceeding.",
+            "url": "https://hackforums.net/showthread.php?tid=5891869",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Viral Dragon no longer Mentor",
+            "description": "Viral Dragon is no longer a Mentor.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "23809",
+                    "username": "Viral Dragon"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "V3ndor invitations",
+            "description": "Horus God, Lani, zSerity, and Trappy were invited and accepted into the new V3ndor group.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "547589",
+                    "username": "Horus God"
+                },
+                {
+                    "uid": "42927",
+                    "username": "Lani"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Endless Night was granted the Cool and Drunk awards; Horus God purchased his third Xerotic Bot DNA award and received the Hustler award; KyleKim obtained the Lounge Head award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1237824",
+                    "username": "Endless Night"
+                },
+                {
+                    "uid": "547589",
+                    "username": "Horus God"
+                },
+                {
+                    "uid": "4002628",
+                    "username": "KyleKim"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 411,
+        "date": 1539127880,
+        "pid": "57695956",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 411"
+    }
+}

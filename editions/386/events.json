@@ -1,0 +1,122 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Alerts and Notifications",
+            "description": "Omniscient announced a new My Alerts and Notifications feature with customizable alert settings and recent notification history, accessible via the User CP menu or hackforums.net/alerts.php.",
+            "url": "https://hackforums.net/showthread.php?tid=5818377",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Official Award Graphic Chosen",
+            "description": "Omniscient selected Novica's 'DNA Strand' as the winning graphic for a new official award. Honorable mention went to Bad Code for his entries — he received the GFX Guru award for his efforts. The award will serve as Xerotic's personal award, grantable once a month.",
+            "url": "https://hackforums.net/showthread.php?tid=5818760",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                },
+                {
+                    "uid": "3832831",
+                    "username": "Bad Code"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Skill ownership.",
+            "description": "MoneyManeLaFlare is now the leader and owner of Skill.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3323508",
+                    "username": "MoneyManeLaFlare"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "imaloser has reached 1,000 posts; Meow has reached 15,000 posts; Armada has reached 20,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3487365",
+                    "username": "imaloser"
+                },
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1575216",
+                    "username": "AlphaDelta"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Fixed Bugs",
+            "description": "Omniscient explains some recent bugs and fixes.",
+            "url": "https://hackforums.net/showthread.php?tid=5820235",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Almost two years later.",
+            "description": "testaccountplsignore gives his 2 year feedback on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5814584",
+            "users": [
+                {
+                    "uid": "3090794",
+                    "username": "testaccountplsignore"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 386,
+        "date": 1523591812,
+        "pid": "56953987",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 386"
+    }
+}

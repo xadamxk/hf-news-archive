@@ -1,0 +1,130 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums Mobile Theme Progress",
+            "description": "Omniscient posted progress pictures of the new mobile theme in his HF Mobile Friendly thread, showcasing it in an early state.",
+            "url": "https://hackforums.net/showthread.php?tid=5757685",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Tʀᴀᴜᴍᴀ was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2819045",
+                    "username": "Tʀᴀᴜᴍᴀ"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1610871",
+                    "username": "Funtela"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "topdog77 was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2853444",
+                    "username": "topdog77"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Armada received the Golden Clover award; Raymond Reddington received the Ninja award; Jesse Pinkman received the Drunk award for his Half Decade later thread; ra1d received the Diamond award; Divined received the Diamond, Green Apple, and Hustler awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                },
+                {
+                    "uid": "2061024",
+                    "username": "Raymond Reddington"
+                },
+                {
+                    "uid": "1582798",
+                    "username": "Jesse Pinkman"
+                },
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                },
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Half Decade later.",
+            "description": "Jesse Pinkman shares his feedback after being on Hack Forums for 5 years.",
+            "url": "https://hackforums.net/showthread.php?tid=5767725",
+            "users": [
+                {
+                    "uid": "1582798",
+                    "username": "Jesse Pinkman"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[GUIDE] Demystifying the Windows Registry - A Comprehensive Guide",
+            "description": "AsSaSs@iN's guide to the fundamentals of the Windows Registry.",
+            "url": "https://hackforums.net/showthread.php?tid=5768154",
+            "users": [
+                {
+                    "uid": "70909",
+                    "username": "AsSaSs@iN"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Pimp your HF Profile] Special characters & symbols",
+            "description": "Duke Buccellati's compilation of special characters and symbols for use around your profile.",
+            "url": "https://hackforums.net/showthread.php?tid=5766230",
+            "users": [
+                {
+                    "uid": "3773001",
+                    "username": "Duke Buccellati"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 374,
+        "date": 1513812383,
+        "pid": "56402673",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 374"
+    }
+}

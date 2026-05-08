@@ -1,0 +1,154 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums API Extension (HAX)",
+            "description": "Xerotic released HAX, a JavaScript library for development using the Hack Forums API. The library covers a wide array of class methods (getUser, getPost, etc.) to simplify and speed up projects.",
+            "url": "https://hackforums.net/showthread.php?tid=5801102",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Lounge Head Award Implemented",
+            "description": "The Lounge Head award has been implemented. Requirements: make 1,000 posts in the Lounge within a 30 day period; if you receive a Post Etiquette warning the time period adjusts; posts moved out of Lounge or soft-deleted don't count. Members can check progress at hackforums.net/loungehead.php.",
+            "url": "https://hackforums.net/showthread.php?tid=5801124",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Aerodactyl has reached 1,000 positive reputation; Ash Ketchum has reached 1,000 positive reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                },
+                {
+                    "uid": "1865979",
+                    "username": "Ash Ketchum"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Starstruck was banned with the reason 'Lost Gauth. Wait out your ban.'",
+            "url": "",
+            "users": [
+                {
+                    "uid": "900087",
+                    "username": "Starstruck"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3713117",
+                    "username": "Wnipeg"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Aerodactyl received the Lounge Head award (the first user to receive it); Wnipeg received the Lounge Head award; ƤAIƝ received the Lounge Head award; Biggy received the Lounge Head award; Japanese received the Lounge Head award; EasyGhost received the Sticky Man award for thread tid=5788781.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                },
+                {
+                    "uid": "3713117",
+                    "username": "Wnipeg"
+                },
+                {
+                    "uid": "2126129",
+                    "username": "ƤAIƝ"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                },
+                {
+                    "uid": "3498571",
+                    "username": "EasyGhost"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Why I still visit HF after 9 years.",
+            "description": "Warbeast (aka C4Vendetta) gives his feedback after 9 years on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5790592",
+            "users": [
+                {
+                    "uid": "123584",
+                    "username": "Warbeast"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Grateful since 2013.",
+            "description": "Sysadmin gives his feedback after 5 years on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5802663",
+            "users": [
+                {
+                    "username": "Sysadmin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How did you find out about HackForums?",
+            "description": "Sysadmin's discussion thread on how members found HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5803645",
+            "users": [
+                {
+                    "username": "Sysadmin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Your longest flight?",
+            "description": "Wraxu's discussion on the longest flight members have taken.",
+            "url": "https://hackforums.net/showthread.php?tid=5802440",
+            "users": [
+                {
+                    "username": "Wraxu"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 380,
+        "date": 1519725836,
+        "pid": "56746917",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 380"
+    }
+}

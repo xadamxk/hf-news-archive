@@ -1,0 +1,78 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "3p1c Being Removed",
+            "description": "Omniscient announced that the official 3p1c group will be defunct in the coming weeks, with some features moved to L33t or r00t. Existing members keep their group features, and 3p1c remains purchasable, though r00t members do not need it.",
+            "url": "https://hackforums.net/showthread.php?tid=5889691",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership changes.",
+            "description": "iNviZ purchased SheepGang and rebranded it to the OG group Infamous; Bromden purchased Prosperity with Trappy and rebranded it to Wolfpack; Lani purchased Polymath.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "619030",
+                    "username": "iNviZ"
+                },
+                {
+                    "uid": "3329364",
+                    "username": "Bromden"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                },
+                {
+                    "uid": "42927",
+                    "username": "Lani"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Charger resigned from Mentor",
+            "description": "Charger has resigned from his Mentor position.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Ahri obtained the Silver Medal award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3257834",
+                    "username": "Ahri"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 410,
+        "date": 1538594433,
+        "pid": "57670881",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 410"
+    }
+}

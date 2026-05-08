@@ -1,0 +1,56 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Official Vendor List",
+            "description": "An official Vendor List was added to the Market CP. Vendors can edit their market profile, while other usergroups can browse the list to find reputable Vendors.",
+            "url": "https://hackforums.net/showthread.php?tid=5948050",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "New Marketplace Contract Policy",
+            "description": "Omniscient added a new Hack Forums policy concerning the Marketplace and Contracts, with all members required to comply with immediate effect.",
+            "url": "https://hackforums.net/showthread.php?tid=5946658",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Game Updates",
+            "description": "HF Game Beta development continued with new lifelike features and additional shop items.",
+            "url": "https://hackforums.net/showthread.php?tid=5945374",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group changes.",
+            "description": "Security renamed to Entropy; Trappy now owns c$sh.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 427,
+        "date": 1551978095,
+        "pid": "58341617",
+        "author_uid": "1992268",
+        "subject": "Hack Forums News // Edition 427"
+    }
+}

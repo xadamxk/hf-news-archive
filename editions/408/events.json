@@ -1,0 +1,30 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bytes for Regular Members",
+            "description": "On September 14, Omniscient announced that regular (unupgraded) members can now earn Bytes by posting and making threads, just like upgraded users. Differential earnings based on usergroups may come in the future.",
+            "url": "https://hackforums.net/showthread.php?tid=5884751",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 408,
+        "date": 1537253689,
+        "pid": "57611536",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 408"
+    }
+}

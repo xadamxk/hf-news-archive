@@ -1,0 +1,75 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Your Blacklisted Members (April Fools)",
+            "description": "An April Fools 'feature' added to the Market CP allowing members to mark others as Blacklisted, blocking them from visiting threads made by or containing posts from the user. Initially restricted to Writ3rs and Mentor members.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "An0n Applications (April Fools)",
+            "description": "An April Fools announcement of a new An0n group requiring application approval by Omniscient based on paranoia level, alias history, and rebellious traits. Promised perks: anonymous theme, no-log VPN, and a private subforum ignoring all site rules. Cost: $1,000 base + $100 per added member.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Staff Deleted (April Fools)",
+            "description": "April Fools announcement: r00t, 3p1c, and Staff usergroups were 'deleted', with all Staff moved into Mentors after alleged staff bribery incidents.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Ub3r Upgrade Available (April Fools)",
+            "description": "April Fools announcement bringing back HF Ub3r as a 3-month subscription ($30, PayPal and Tron). Existing Ub3r members were said to receive a 6-month subscription. 6-month and 1-year plans were teased.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Free Vend0r Upgrade for 3p1c+l33t (April Fools)",
+            "description": "April Fools announcement: members holding both 3p1c and L33t would get a free permanent Vend0r upgrade; 3p1c-only members would be moved to L33t — pitched as balancing power against Ub3r.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Writ3rs Evacuated (April Fools)",
+            "description": "April Fools announcement: everyone in the Writ3rs HF News Team was kicked, with only Headlines remaining until new journalists were recruited.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 430,
+        "date": 1554156715,
+        "pid": "58424054",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 430"
+    }
+}

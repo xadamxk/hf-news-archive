@@ -1,0 +1,92 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Mentions Feature Added",
+            "description": "After years of community suggestions, a Mentions feature went live. Members can now mention others by wrapping a username with @ symbols.",
+            "url": "https://hackforums.net/showthread.php?tid=6018733",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Group Moderator Permissions Fix",
+            "description": "Group moderator permissions were corrected. Group mods cannot edit posts, move threads outside their moderated subforums, view IPs, delete threads/posts, or use the ModCP.",
+            "url": "https://hackforums.net/showthread.php?tid=5800486",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Default theme color poll",
+            "description": "Omniscient opened a poll for which of the four colorways should become the default HF theme; he favors green while purple led the vote at the time.",
+            "url": "https://hackforums.net/showthread.php?tid=6016622",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Threat attained the Bronze Tutorial award; Cooligan attained the Lounge Head award and reached over 10,000 posts; Natas reached over 10,000 posts and attained the Green Apple award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3565973",
+                    "username": "Threat"
+                },
+                {
+                    "uid": "777",
+                    "username": "Cooligan"
+                },
+                {
+                    "uid": "1201566",
+                    "username": "Natas"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Spaark has left for the time being; One took a vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1573817",
+                    "username": "Spaark"
+                },
+                {
+                    "uid": "4059543",
+                    "username": "One"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Lukas was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 446,
+        "date": 1572317299,
+        "pid": "59096825",
+        "author_uid": "900087",
+        "subject": "Hack Forums News // Edition 446"
+    }
+}

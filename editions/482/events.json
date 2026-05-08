@@ -1,0 +1,79 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Convo Pruning",
+            "description": "As a regular activity, Convos older than six months will be pruned. Members can export chats to PDF if they wish to save them.",
+            "url": "https://hackforums.net/showthread.php?tid=6107094",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Zero won the August 2020 Member of the Month award.",
+            "url": "",
+            "users": [
+                {"uid": "3493494", "username": "Zero"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Exposed74 reached 2,000 posts; Percy reached 1,000 posts; GoldenEra reached 2,000 posts; Sweatpants reached 3,000 posts; killmenow reached 1,000 posts; Doubt reached 4,000 posts; Spearmint reached 2,000 posts; Mr Kewl reached 16,000 posts; MavenGradle reached 3,000 posts; spiral reached 6,000 posts; Adidas reached 1,000 posts; Algo-rhythm reached 1,000 posts; Bacardi Cola Lime reached 8,000 posts; Дождь reached 2,000 posts; KeelanxHacks, Skateboard, Nixhxlas, Leads, Τroye, ~~((HACKER))~~, StarZ, Doubt, Mr. Corleone, oRequiem, Nuts, Houtarou, Real Rudy, and ~HF~ each surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {"uid": "1767745", "username": "Exposed74"},
+                {"uid": "3514013", "username": "Percy"},
+                {"uid": "3405327", "username": "GoldenEra"},
+                {"uid": "1493736", "username": "Sweatpants"},
+                {"uid": "4071789", "username": "killmenow"},
+                {"uid": "2896649", "username": "Doubt"},
+                {"uid": "1055609", "username": "Spearmint"},
+                {"uid": "183072", "username": "Mr Kewl"},
+                {"uid": "4316656", "username": "MavenGradle"},
+                {"uid": "2743782", "username": "spiral"},
+                {"uid": "3949418", "username": "Adidas"},
+                {"uid": "2436833", "username": "Algo-rhythm"},
+                {"uid": "581766", "username": "Bacardi Cola Lime"},
+                {"uid": "4774695", "username": "Дождь"},
+                {"uid": "1399003", "username": "KeelanxHacks"},
+                {"uid": "4637507", "username": "Skateboard"},
+                {"uid": "2", "username": "Nixhxlas"},
+                {"uid": "3935784", "username": "Leads"},
+                {"uid": "3964154", "username": "Τroye"},
+                {"uid": "777383", "username": "~~((HACKER))~~"},
+                {"uid": "69588", "username": "StarZ"},
+                {"uid": "1551759", "username": "Mr. Corleone"},
+                {"uid": "2359475", "username": "oRequiem"},
+                {"uid": "317107", "username": "Nuts"},
+                {"uid": "2605759", "username": "Houtarou"},
+                {"uid": "3904626", "username": "Real Rudy"},
+                {"uid": "1042439", "username": "~HF~"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Quen was banned for repeated deals without contracts. Nаte was banned for posting useless threads in Hacking Tutorials to farm the Bronze Tutorial Goal Award.",
+            "url": "",
+            "users": [
+                {"uid": "4540418", "username": "Quen"},
+                {"uid": "1087815", "username": "Nаte"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 482,
+        "date": 1601319634,
+        "pid": "60227944",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 482"
+    }
+}

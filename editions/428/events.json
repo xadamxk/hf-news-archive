@@ -1,0 +1,80 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Colored Usernames in forum displays",
+            "description": "After thread ratings were removed, Omniscient added colored usernames for the last poster and original poster in forum displays based on usergroup.",
+            "url": "https://hackforums.net/showthread.php?tid=5950253",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Vendor Private Forum",
+            "description": "Vendors now have a private forum for assistance and Marketplace discussions; only Vendor group members can access it.",
+            "url": "https://hackforums.net/showthread.php?tid=5948613",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Thread Ratings Disabled",
+            "description": "Omniscient disabled site-wide thread ratings after considering requests from many users; the forum now looks neater and more spacious.",
+            "url": "https://hackforums.net/showthread.php?tid=5948617",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "r00t Group Price Reduced",
+            "description": "The r00t group price was slashed from $50 to $40.",
+            "url": "https://hackforums.net/showthread.php?tid=5950414",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Sociopaths leadership.",
+            "description": "Mimikyu was added as a leader to Sociopaths.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2890436",
+                    "username": "Mimikyu"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Trappy banned, c$sh closed.",
+            "description": "Trappy was banned and his group c$sh was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 428,
+        "date": 1552586282,
+        "pid": "58365286",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 428"
+    }
+}

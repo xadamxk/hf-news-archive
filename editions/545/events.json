@@ -1,0 +1,83 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Convo Public Room Reopened",
+            "description": "Omniscient temporarily reopened the Public Conversation Room while looking for a JavaScript-proficient developer to resolve issues with the Group Convo Rooms (GCRs). The long-term goal remains to fully transition to GCRs.",
+            "url": "https://hackforums.net/showthread.php?tid=6303093",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Large DDoS Attacks",
+            "description": "Omniscient informed the community of several high-traffic DDoS attacks targeting HackForums in recent weeks, with virtually no impact on site performance.",
+            "url": "https://hackforums.net/showthread.php?tid=6303090",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Staff and Vendor Userbars",
+            "description": "Omniscient is gathering feedback on new Staff and Vendor userbar designs, following recent updates to the Admin, UB3R, and L33T userbars.",
+            "url": "https://hackforums.net/showthread.php?tid=6303174",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Honesty and Dark Moods",
+            "description": "Omniscient publicly addressed recent troll activity and DDoS attempts following the removal of disruptive ex-members. He acknowledged a past comment made during a difficult moment and reaffirmed his 18-year commitment to HackForums.",
+            "url": "https://hackforums.net/showthread.php?tid=6303183",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "uid 6 was awarded Member of the Month.",
+            "url": "",
+            "users": [
+                {"uid": "6", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 2920830 received the Green Apple award. uid 2681494, uid 1871421, uid 158249, and uid 2333986 received the King Decade award.",
+            "url": "",
+            "users": [
+                {"uid": "2920830", "username": ""},
+                {"uid": "2681494", "username": ""},
+                {"uid": "1871421", "username": ""},
+                {"uid": "158249", "username": ""},
+                {"uid": "2333986", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group Userbar Bytes Multiplier",
+            "description": "New exclusive perk: members wearing the H4CK3R$ userbar earn 10x bytes for posts and threads, while The Academy userbar earns 5x bytes. Succubus, Olympians, and Benevolence groups remain listed for sale.",
+            "url": "https://hackforums.net/showthread.php?tid=6303358",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 545,
+        "date": 1753115110,
+        "pid": "62786472",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Six"
+    }
+}

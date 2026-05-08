@@ -1,0 +1,126 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Buddy List Popup Change",
+            "description": "Members can now quickly check the posts or threads of buddies via the 'Buddies' link on the top menu.",
+            "url": "https://hackforums.net/showthread.php?tid=5893683",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "YouTube 2018 Video Award Contest",
+            "description": "Omniscient is offering the YouTube 2018 Award via a contest. Members can earn the award and up to 10K Bytes by making a video about HF in one of three categories: Testimonial, Tutorial, or Promotional.",
+            "url": "https://hackforums.net/showthread.php?tid=5905722",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Change Award Order",
+            "description": "Members can now reorder their awards for a fee of 100 Bytes. Available to all members.",
+            "url": "https://hackforums.net/showthread.php?tid=5905145",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Award Market",
+            "description": "An Award Market was introduced — members can buy or sell awards for Bytes. Some awards are exempt. Any member can buy, but sellers must be r00t or Ub3r. Sale prices range from 1,000 to 500,000 Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=5905569",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Upgrade Changes - Stripe Integration",
+            "description": "Omniscient announced Stripe will be added as a payment method, enabling credit card upgrades. Members will also be able to upgrade to L33t on a subscription basis or via one-time payment.",
+            "url": "https://hackforums.net/showthread.php?tid=5905953",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Infamous leadership.",
+            "description": "Cameron is now a leader of Infamous.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Skorp stepped down as Staff",
+            "description": "Skorp has stepped down as Staff after many years of service.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1292605",
+                    "username": "Skorp"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "wraxu was banned for toxicity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3808139",
+                    "username": "wraxu"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Riyu was closed for proxy selling for Vyrez, who is also closed.",
+            "url": "https://hackforums.net/showthread.php?tid=5904008",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Ombra was granted the Dicey award via Blackjack; Mr. Robot was granted the Diamond award; Skorp was granted the Cool award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1454187",
+                    "username": "Ombra"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "1292605",
+                    "username": "Skorp"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 416,
+        "date": 1542244597,
+        "pid": "57876811",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 416"
+    }
+}

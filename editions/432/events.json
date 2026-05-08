@@ -1,0 +1,49 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Login Resets",
+            "description": "After rumors of a competitive site being compromised that may have exposed HF members with shared accounts, login session keys were reset, logging every user out of all devices as a precaution.",
+            "url": "https://hackforums.net/showthread.php?tid=5963358",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Hack Game Update",
+            "description": "Brand-new shop items and elements were added to the HF Hack Game. Due to the update, the game was reset — all levels, game cash, and XP set to 0.",
+            "url": "https://hackforums.net/showthread.php?tid=5960605",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "YasPresents purchased and renamed.",
+            "description": "Dorrance purchased YasPresents and renamed it to Masterminds.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2185870",
+                    "username": "Dorrance"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 432,
+        "date": 1556095749,
+        "pid": "58504014",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 432"
+    }
+}

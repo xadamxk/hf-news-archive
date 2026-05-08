@@ -1,0 +1,133 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Discord Authorization and Integration",
+            "description": "A new feature allows users to link their Discord account with their HF account to reduce scams via the new API.",
+            "url": "https://hackforums.net/showthread.php?tid=6088813",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Unique Passwords for HF reminder",
+            "description": "Omniscient reminded users to use unique passwords and 2FA for their HF profile to prevent account compromise.",
+            "url": "https://hackforums.net/showthread.php?tid=6089695",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Genesis sold; Welcome Panthers.",
+            "description": "Genesis was sold and rebranded to Panthers.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Lotus reached 14,000 posts; nCuX0, faxxgrid, ¢∆ɲ¢φʁ, Zoomers, ⁯Michael Kors, Gerymc, Temp_reassign, rith, Mac Miller, and Shoto Todoroki reached 1,000 posts; Yseurk reached 3,000 posts; eXceptional surpassed 2,000 popularity; SaintJimmy reached 2,000 posts; Focus Broken reached 4,000 posts; Simplex reached 2,000 posts; Megatron reached 1,000 posts; Psychedelic. reached 2,000 posts; VisualSoft reached 3,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "888979",
+                    "username": "Lotus"
+                },
+                {
+                    "uid": "1160828",
+                    "username": "eXceptional"
+                },
+                {
+                    "uid": "3995095",
+                    "username": "Yseurk"
+                },
+                {
+                    "uid": "3209658",
+                    "username": "Focus Broken"
+                },
+                {
+                    "uid": "4658650",
+                    "username": "Simplex"
+                },
+                {
+                    "uid": "2386520",
+                    "username": "Megatron"
+                },
+                {
+                    "uid": "4052328",
+                    "username": "Psychedelic."
+                },
+                {
+                    "uid": "3114397",
+                    "username": "VisualSoft"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Vyrez. received the Drunk award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "667700",
+                    "username": "Enginerd"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate～っ☆"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "secretachiever101 was banned for payment account fraud; Divined was banned for Coinbase fraud.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3604010",
+                    "username": "secretachiever101"
+                },
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 474,
+        "date": 1593481941,
+        "pid": "59943471",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 474"
+    }
+}

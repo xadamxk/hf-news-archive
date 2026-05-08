@@ -1,0 +1,65 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Warning Forgiveness",
+            "description": "A new feature lets members take a quiz to remove their warning level. Available once per warning type per member.",
+            "url": "https://hackforums.net/showthread.php?tid=6073069",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Icon Library Upgrade",
+            "description": "HF changed its icon pack — slight changes to icon visuals throughout the site.",
+            "url": "https://hackforums.net/showthread.php?tid=6073000",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Award Lotteries",
+            "description": "Awards can now be won via lotteries, working similarly to the Bytes lottery.",
+            "url": "https://hackforums.net/showthread.php?tid=6075066",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Staff Updates",
+            "description": "Staff team changes were announced.",
+            "url": "https://hackforums.net/showthread.php?tid=6073461",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Thread Status Icons",
+            "description": "Thread icons were updated.",
+            "url": "https://hackforums.net/showthread.php?tid=6075112",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "AYMG attained the Great Thinker award for Convo suggestions.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4357897",
+                    "username": "AYMG"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 467,
+        "date": 1588896727,
+        "pid": "59754225",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 467"
+    }
+}

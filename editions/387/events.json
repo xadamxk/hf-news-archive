@@ -1,0 +1,170 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Post Editing Updates & Limits",
+            "description": "A finalized list of post editing restrictions was implemented and added to the Help Documents. Stickies (paid or free) have unlimited edits.",
+            "url": "https://hackforums.net/showthread.php?tid=5808840",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Old Wounds Finally Sealed, Massive Bot Closures",
+            "description": "On April 12, 2018, Hack Forums received about 30,000 bot login attempts on accounts whose passwords had been compromised by an old database dump from 2011. Omniscient used logs to track down and permanently close all the stolen accounts.",
+            "url": "https://hackforums.net/showthread.php?tid=5825504",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "International World Tab",
+            "description": "A new International subforum has been added under the World tab, encouraging participation from members worldwide with sections in Chinese, Spanish, Indian, Scandinavian, and more.",
+            "url": "https://hackforums.net/showthread.php?tid=5823110",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Soulmate～っ☆ has reached 5,000 High Quality Posts; Slade has reached 10,000 shit posts; Xerotic has reached 1,000 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate～っ☆"
+                },
+                {
+                    "uid": "2205331",
+                    "username": "Slade"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Maxim was banned with the reason 'Your much-needed vacation is here.'; 'Suicide was banned with the reason 'Compromised Account'.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                },
+                {
+                    "uid": "2640623",
+                    "username": "'Suicide"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                },
+                {
+                    "uid": "1959130",
+                    "username": "Surfent"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Transcendent was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1706412",
+                    "username": "Transcendent"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Bad Code received the GFX Guru award; Makaveli The Don received the Genius award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3832831",
+                    "username": "Bad Code"
+                },
+                {
+                    "uid": "509788",
+                    "username": "Makaveli The Don"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Pontifex - 7 Year Testimonial",
+            "description": "Maximus (Pontifex) gives his 7 year feedback on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5821513",
+            "users": [
+                {
+                    "uid": "1066105",
+                    "username": "Maximus"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "GuardianAngel's Testimonial ~ 3 YEARS TODAY",
+            "description": "GuardianAngel gives his 3 year feedback.",
+            "url": "https://hackforums.net/showthread.php?tid=5688237",
+            "users": [
+                {
+                    "uid": "2681040",
+                    "username": "GuardianAngel"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Unwritten Rules of HackForums",
+            "description": "Copywriter's amusing thread on the unwritten HF rules.",
+            "url": "https://hackforums.net/showthread.php?tid=5823930",
+            "users": [
+                {
+                    "uid": "2883163",
+                    "username": "Copywriter"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 387,
+        "date": 1524086498,
+        "pid": "56977996",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 387"
+    }
+}

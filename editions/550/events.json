@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Stats Update",
+            "description": "Omniscient shared recent traffic stats showing the site has been growing significantly over the last few months despite low post counts.",
+            "url": "https://hackforums.net/showthread.php?tid=6305900",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 749691, Rin™, uid 1041724, and spiral received the King Decade award. uid 5655318 and uid 1263507 received Dicey. uid 4189082 received Flip Reaper and Bronze Tutorial Award.",
+            "url": "",
+            "users": [
+                {"uid": "749691", "username": ""},
+                {"uid": "1357269", "username": "Rin™"},
+                {"uid": "1041724", "username": ""},
+                {"uid": "2743782", "username": "spiral"},
+                {"uid": "5655318", "username": ""},
+                {"uid": "1263507", "username": ""},
+                {"uid": "4189082", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Benevolence, and Mystery Inc groups remain listed for sale. Yakless was added as leader to Olympians; Trust was removed as leader from Olympians and Benevolence.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "KinGxKeV on vacation until 19.02.2026.",
+            "url": "",
+            "users": [
+                {"uid": "533443", "username": "KinGxKeV"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 550,
+        "date": 1756148109,
+        "pid": "62810173",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 11"
+    }
+}

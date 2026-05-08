@@ -1,0 +1,60 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Award Goals",
+            "description": "Members can now earn awards by completing specific goals; six goal awards are available initially with more to come.",
+            "url": "https://hackforums.net/showthread.php?tid=5986499",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Cancel Active Contracts",
+            "description": "Members can now cancel active contracts only if both parties agree; otherwise the contract remains active.",
+            "url": "https://hackforums.net/showthread.php?tid=5986528",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "MoTM Automation",
+            "description": "Member of the Month awards will now be granted automatically on the first of each month based on Popularity points. The winner receives a PM and a thread is auto-created by Help Bot.",
+            "url": "https://hackforums.net/showthread.php?tid=5985440",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Alerts & Notifications poll",
+            "description": "A poll asked members whether they prefer an on-site alert system or push notifications.",
+            "url": "https://hackforums.net/showthread.php?tid=5987116",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "New Profile Design",
+            "description": "A new member profile page design is under development; members were invited to vote on changes.",
+            "url": "https://hackforums.net/showthread.php?tid=5989026",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Game Tab Overhauled",
+            "description": "The Game Tab was completely overhauled, with everything organized by Category and Genre.",
+            "url": "https://hackforums.net/showthread.php?tid=5989792",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 439,
+        "date": 1563219818,
+        "pid": "58767993",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 439"
+    }
+}

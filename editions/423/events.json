@@ -1,0 +1,34 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Game points name suggestion",
+            "description": "Omniscient and Xerotic continue working on the upcoming HF Game and asked the community to suggest a name for the in-game points (Loot, Bits, Cash, Dollar, etc.).",
+            "url": "https://hackforums.net/showthread.php?tid=5927224",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 423,
+        "date": 1547188229,
+        "pid": "58118106",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 423"
+    }
+}

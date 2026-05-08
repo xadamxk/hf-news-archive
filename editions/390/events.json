@@ -1,0 +1,118 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Prestige Requirement Lowered for Sections",
+            "description": "Omniscient lowered the prestige requirement to 5 for SRPP, Innuendo, C Programming, Counter Strike, and the Premium Sellers Section. Previously requirements ranged between 5 and 25.",
+            "url": "https://hackforums.net/showthread.php?tid=5833388",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Care For Some Fun?",
+            "description": "Omniscient created a discussion thread for potential interactive Hack Forums activities. Concepts include a fake crypto market exchange with monthly winners, a monster pet game, an on-site gambling/points system, and fake hacking challenges.",
+            "url": "https://hackforums.net/showthread.php?tid=5833328",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Shutdоwn is now a leader of Terminal.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1536004",
+                    "username": "Shutdоwn"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Judge Judy has reached 1,000 posts; Motusora has reached 5,000 posts; Gt403cyl has reached 15,000 High Quality Posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "894098",
+                    "username": "Judge Judy"
+                },
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                },
+                {
+                    "uid": "1125893",
+                    "username": "Gt403cyl"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "LastSession was closed; elemein was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1356224",
+                    "username": "LastSession"
+                },
+                {
+                    "uid": "765732",
+                    "username": "elemein"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Froggy is getting married LIVE?!",
+            "description": "Fagiyu's thread about Froggy getting married live on Twitch.",
+            "url": "https://hackforums.net/showthread.php?tid=5833083",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "Fagiyu"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Motivating Myself] My journey on Saving $1,000 for my dream Gaming pc!",
+            "description": "vaxton's progress thread on saving for a dream gaming PC.",
+            "url": "https://hackforums.net/showthread.php?tid=5829403",
+            "users": [
+                {
+                    "uid": "3696619",
+                    "username": "vaxton"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 390,
+        "date": 1525754365,
+        "pid": "57058703",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 390"
+    }
+}

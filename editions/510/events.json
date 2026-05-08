@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Octoberfest 2021",
+            "description": "The Octoberfest 2021 award is live; making 500 posts in October earns the Pumpkin award (claimable through November 10). A new Hackuman monster, Vice, is coming. Donation awards rotated: Emerald Heart for $25 and Ruby Heart for $500.",
+            "url": "https://hackforums.net/showthread.php?tid=6174771",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "guardian won the September 2021 Member of the Month award.",
+            "url": "https://hackforums.net/showthread.php?tid=6174806",
+            "users": [
+                {"uid": "4899375", "username": "guardian"}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group Changes",
+            "description": "New crew Bank was created. iTrade was removed as the user was closed. Shroomers was rebranded to Cuties.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "The Pact reached 5,000 posts; Keisuke reached 4,000 posts; Photograph reached 1,000 posts; Crypt reached 6,000 posts; Rin™ reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {"uid": "1411092", "username": "The Pact"},
+                {"uid": "1396418", "username": "Keisuke"},
+                {"uid": "136552", "username": "Photograph"},
+                {"uid": "3523609", "username": "Crypt"},
+                {"uid": "1357269", "username": "Rin™"}
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "First to earn Octoberfest Pumpkin award",
+            "description": "flavoral was the first to earn the Octoberfest Pumpkin award by making 500 posts in a single day, shortly followed by Demize.",
+            "url": "https://hackforums.net/showthread.php?tid=6174823",
+            "users": [
+                {"uid": "3459543", "username": "flavoral"},
+                {"uid": "1257324", "username": "Demize"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 510,
+        "date": 1633400346,
+        "pid": "61037355",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 510"
+    }
+}

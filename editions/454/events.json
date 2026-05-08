@@ -1,0 +1,60 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Convo Changes - HF Group Chats",
+            "description": "HF Convo system features were updated.",
+            "url": "https://hackforums.net/showthread.php?tid=6035180",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Inactivity and Bytes Policy",
+            "description": "Bytes are now reset to 0 if there is no account activity for a year.",
+            "url": "https://hackforums.net/showthread.php?tid=6035092",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Sir was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "900087",
+                    "username": "Sir"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Pyro received the SportsBook award; Zero received the Businessman award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3424522",
+                    "username": "Pyro"
+                },
+                {
+                    "uid": "3493494",
+                    "username": "Zero"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 454,
+        "date": 1580149269,
+        "pid": "59368197",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 454"
+    }
+}

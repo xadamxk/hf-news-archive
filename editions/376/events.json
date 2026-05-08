@@ -1,0 +1,285 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Official Groups Make a Return",
+            "description": "Omniscient reinstated the previously disbanded Writers and Mentors groups. iHydra has been appointed as the group leader and moderator of Writers, while Omniscient retains sole control of Mentors.",
+            "url": "https://hackforums.net/showthread.php?tid=5787273",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hack Forums Mobile Beta",
+            "description": "Omniscient announced a working mobile theme for Hack Forums users and asked members to test it on their devices and report bugs/feedback. No official release date provided yet.",
+            "url": "https://hackforums.net/showthread.php?tid=5782785",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group rebrands.",
+            "description": "Escrow has been rebranded to Sui Generis. Legends has been rebranded to Appraisers. Thorium has been rebranded to Famous. MRT has been rebranded to Security.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership and leadership changes.",
+            "description": "Camerοn is no longer the owner of Torque. Froggy is no longer the owner of Socialites. Lukas is no longer a leader of Influence. Noтorious is no longer a leader of Torque. Views is no longer a leader of Socialites. Aerodactyl is now a leader of Influence. Aggron is now a leader of SheepGang. Biggy is now a leader of Famous. c$sh is now a leader of Socialites and Torque. Divined is now the owner of Socialites and Torque. Japanese is now a leader of Influence. Lukas is now a leader of Sui Generis. Lrrr is now a leader of Appraisers. lzedsosa is now a leader of Torque. Nuworld is now a leader of Influence. Raymond Reddington is now the owner of The Executives. Sigma is now a leader of Security. xadamxk is now a leader of Security. zer0 c00l is now a leader of Influence.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1990800",
+                    "username": "Camerοn"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                },
+                {
+                    "uid": "1553778",
+                    "username": "Noтorious"
+                },
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                },
+                {
+                    "uid": "2223238",
+                    "username": "Aggron"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                },
+                {
+                    "uid": "2414597",
+                    "username": "c$sh"
+                },
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                },
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                },
+                {
+                    "uid": "3795261",
+                    "username": "lzedsosa"
+                },
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "2061024",
+                    "username": "Raymond Reddington"
+                },
+                {
+                    "uid": "89554",
+                    "username": "Sigma"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "20431",
+                    "username": "zer0 c00l"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Trappy once again has reached 5,000 low quality posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Trevor Phillips was banned, pending closure; Trappy was banned for buddy bumping.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3492554",
+                    "username": "Trevor Phillips"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                },
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                },
+                {
+                    "uid": "1661823",
+                    "username": "Dredd"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Aerodactyl received the Sticky Man award for his Shiny Pokemon thread; AsSaSs@iN received the Sticky Man award four times for various tutorials; SuperPom received the Sticky Man award; Biggy received the Sticky Man award twice for his Fitness and Overwatch guides; MeshCollider received the Sticky Man award for his Lightning Network tutorial; Abraluna received the Sticky Man award for the air-gapped crypto wallet guide; AsSaSs@iN received the Diamond award; MeshCollider received the Bitcoinage award with the custom reason 'A true Bitcoinist.'",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                },
+                {
+                    "uid": "70909",
+                    "username": "AsSaSs@iN"
+                },
+                {
+                    "uid": "3134890",
+                    "username": "SuperPom"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                },
+                {
+                    "uid": "2015410",
+                    "username": "MeshCollider"
+                },
+                {
+                    "uid": "1508976",
+                    "username": "Abraluna"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My years on HF",
+            "description": "#Boss gives his feedback on his HF adventure over the years.",
+            "url": "https://hackforums.net/showthread.php?tid=5788692",
+            "users": [
+                {
+                    "uid": "1173673",
+                    "username": "#Boss"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "5 Year Feedback",
+            "description": "Who Soup gives his feedback after 5 years on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5785026",
+            "users": [
+                {
+                    "uid": "2097293",
+                    "username": "Who Soup"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Ultimate Overwatch Beginner's Guide",
+            "description": "Biggy's beginner's guide for Overwatch.",
+            "url": "https://hackforums.net/showthread.php?tid=5785473",
+            "users": [
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[GUIDE] Secure air-gapped crypto wallet storage method",
+            "description": "Abraluna's guide on securing crypto wallets via air-gapped storage.",
+            "url": "https://hackforums.net/showthread.php?tid=5787861",
+            "users": [
+                {
+                    "uid": "1508976",
+                    "username": "Abraluna"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[TUT] Getting Started with the Lightning Network!",
+            "description": "MeshCollider's guide on the Lightning Network.",
+            "url": "https://hackforums.net/showthread.php?tid=5788856",
+            "users": [
+                {
+                    "uid": "2015410",
+                    "username": "MeshCollider"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Decrypt any Bitcoin Private Key",
+            "description": "Omniscient's interesting thread on decrypting any private bitcoin key.",
+            "url": "https://hackforums.net/showthread.php?tid=5788839",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 376,
+        "date": 1517251003,
+        "pid": "56599581",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 376 -- We're Back!"
+    }
+}

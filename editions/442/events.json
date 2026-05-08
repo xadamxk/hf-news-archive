@@ -1,0 +1,63 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "My Bio Box",
+            "description": "Members can now add a short Bio (up to 2,048 characters) to their profile to show off skills and information.",
+            "url": "https://hackforums.net/showthread.php?tid=5997509",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "GitHub Social Login",
+            "description": "Members can now log in to HF using their GitHub account.",
+            "url": "https://hackforums.net/showthread.php?tid=5997762",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Lounge Head Award Goal Lowered",
+            "description": "The Lounge Head award goal was reduced from 1,000 posts to 500 posts in the Lounge section.",
+            "url": "https://hackforums.net/showthread.php?tid=5997696",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Less Bans, More Warnings and Suspensions",
+            "description": "Omniscient amended the Warning, Ban, and Suspension policies on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5998898",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Android 17 has reached his first 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4167649",
+                    "username": "Android 17"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 442,
+        "date": 1565829922,
+        "pid": "58857886",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 442"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Lavish Living acquired a number of awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 449,
+        "date": 1574475231,
+        "pid": "59169652",
+        "author_uid": "3176965",
+        "subject": "Hack Forums News // Edition 449"
+    }
+}

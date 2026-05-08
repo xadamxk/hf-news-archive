@@ -1,0 +1,68 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Mobale Red Version",
+            "description": "A red version of HF's Mobale theme is now available.",
+            "url": "https://hackforums.net/showthread.php?tid=5995525",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Wolfpack Deleted",
+            "description": "The group Wolfpack was deleted following the account closure of its owner Chief Bromden.",
+            "url": "https://hackforums.net/showthread.php?tid=5996473",
+            "users": [
+                {
+                    "uid": "3329364",
+                    "username": "Chief Bromden"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "SEO, Google Analytics, and Plans",
+            "description": "An update was published showing how HF has been progressing in search engines over the past 90 days.",
+            "url": "https://hackforums.net/showthread.php?tid=5996147",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "HACKED received the July 2019 Member of the Month award.",
+            "url": "https://hackforums.net/showthread.php?tid=5995146",
+            "users": [
+                {
+                    "uid": "2039397",
+                    "username": "HACKED"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Chief Bromden was banned and is awaiting closure.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3329364",
+                    "username": "Chief Bromden"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 441,
+        "date": 1565285122,
+        "pid": "58838820",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 441"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Discord Rules Incoming",
+            "description": "Members must authorize and verify their Discord to advertise Discord IDs in posts or profile; new Discord-based rules are coming over the next week.",
+            "url": "https://hackforums.net/showthread.php?tid=6092225",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Quickly Loved Goal Award",
+            "description": "A new award is granted for receiving 100 Quick Loves from 100 unique members within the current year.",
+            "url": "https://hackforums.net/showthread.php?tid=6093164",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Zeus attained the June 2020 Member of the Month award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Sprinkle reached 1,000 posts; Prettykitty reached 7,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4702631",
+                    "username": "Sprinkle"
+                },
+                {
+                    "uid": "49365",
+                    "username": "Prettykitty"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Sterling Malory Archer was banned with the reason 'fugg YOU + don't ban evade'; Yert was banned (Account Under Investigation); Cameron was banned with the reason 'Relax.'",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4732323",
+                    "username": "Sterling Malory Archer"
+                },
+                {
+                    "uid": "3966158",
+                    "username": "Yert"
+                },
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3790579",
+                    "username": "Joel"
+                },
+                {
+                    "uid": "3577028",
+                    "username": "SimpCity"
+                },
+                {
+                    "uid": "564315",
+                    "username": "Brаdley"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                },
+                {
+                    "uid": "3364775",
+                    "username": "Bossk"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Simplex was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4658650",
+                    "username": "Simplex"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 475,
+        "date": 1594170457,
+        "pid": "59969143",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 475"
+    }
+}

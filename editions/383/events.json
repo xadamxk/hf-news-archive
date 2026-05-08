@@ -1,0 +1,130 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Another Post Editing Change",
+            "description": "Two weeks after the initial post editing changes, Omniscient updated the 'Time Between Edits' setting from 30 seconds down to 10 seconds.",
+            "url": "https://hackforums.net/showthread.php?tid=5808840",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Terminal ownership.",
+            "description": "MoneyManeLaFlare is now Owner and Leader of Terminal.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3323508",
+                    "username": "MoneyManeLaFlare"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Neal Caffrey was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "944024",
+                    "username": "Neal Caffrey"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1661823",
+                    "username": "Dredd"
+                },
+                {
+                    "uid": "58546",
+                    "username": "CheesyApricot"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Shutdown received the Dunce award; Japanese received the 24k award; Kill Joy received the Drunk and The Alien awards; Tancrede received the Flamer and Hustler awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1536004",
+                    "username": "Shutdown"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                },
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                },
+                {
+                    "uid": "3731200",
+                    "username": "Tancrede"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Sui Generis] Getting Started in Music Production Tutorial",
+            "description": "The-Fluffy-Kitty's guide to getting started in music production.",
+            "url": "https://hackforums.net/showthread.php?tid=5804968",
+            "users": [
+                {
+                    "uid": "3470779",
+                    "username": "The-Fluffy-Kitty"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Sui Generis] Create Your Own Profile Picture [Tutorial]",
+            "description": "Invisible's simple guide to making your own profile picture.",
+            "url": "https://hackforums.net/showthread.php?tid=5805167",
+            "users": [
+                {
+                    "uid": "1865323",
+                    "username": "Invisible"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Sui Generis] Digital Pixellation Effect [Tutorial]",
+            "description": "ryan⚜'s guide to digital pixelation effects.",
+            "url": "https://hackforums.net/showthread.php?tid=5805980",
+            "users": [
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 383,
+        "date": 1521515290,
+        "pid": "56838932",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 383"
+    }
+}

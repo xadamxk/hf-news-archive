@@ -1,0 +1,130 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Search Feature Fixed",
+            "description": "Omniscient fixed a bug in the Search functionality where typing any word under three characters returned zero results.",
+            "url": "https://hackforums.net/showthread.php?tid=5921096",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Automated Banner Ads Purchase System",
+            "description": "Ad spots can now be acquired automatically via a link, and the Header Ad price was reduced from $200 to $150 per week.",
+            "url": "https://hackforums.net/showthread.php?tid=5921421",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Quick Thread Beta",
+            "description": "Members can create a Quick Thread by clicking 'Start a New Thread' in the top right corner — it helps members find the right forum category.",
+            "url": "https://hackforums.net/showthread.php?tid=5922094",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Omners Crew",
+            "description": "Omniscient started his own crew named 'Omners', accessible in the Crew CP.",
+            "url": "https://hackforums.net/showthread.php?tid=5922347",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Crew Pricing Increase",
+            "description": "All Crew Tier prices will go up in the first week of January 2019.",
+            "url": "https://hackforums.net/showthread.php?tid=5923690",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "The HF Game Roadmap",
+            "description": "Omniscient announced an upcoming gaming project for Hack Forums, expected to take 3 to 6 weeks to complete.",
+            "url": "https://hackforums.net/showthread.php?tid=5923279",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Awards Market Pricing",
+            "description": "Minimum sale price in the Awards Market increased from β1,000 to β5,000.",
+            "url": "https://hackforums.net/showthread.php?tid=5923891",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Bytes Symbol β",
+            "description": "Omniscient added the Greek letter Beta (β) as the symbol denoting Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=5923892",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Computer Professor renames to You Just Got Sarged",
+            "description": "You Just Got Sarged changed his name from Computer Professor, an alias used for over 5 years.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "874137",
+                    "username": "You Just Got Sarged"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Meow has reached 20,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "iNviZ received the Omni Face award with the description 'Let's face it.'",
+            "url": "",
+            "users": [
+                {
+                    "uid": "619030",
+                    "username": "iNviZ"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 422,
+        "date": 1546505886,
+        "pid": "58084017",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 422"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Set Reminder",
+            "description": "A new feature lets members set reminders on a thread to be notified at a later point in time.",
+            "url": "https://hackforums.net/showthread.php?tid=6060767",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hackuman Graphics Update",
+            "description": "Hackuman received a UI overhaul thanks in part to community member Novica.",
+            "url": "https://hackforums.net/showthread.php?tid=6060458",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 462,
+        "date": 1585638374,
+        "pid": "59576982",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 462"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "events": [
+        {
+            "category": "groups",
+            "title": "Group Leadership Changes",
+            "description": "James is now the Leader of Panthers.",
+            "url": "",
+            "users": [
+                {"uid": "2774521", "username": "James"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Target™ reached 7,000 posts; Aeowulf reached 3,000 posts; Juoku reached 1,000 posts; Davkul reached 2,000 posts; KasprDev surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {"uid": "1124123", "username": "Target™"},
+                {"uid": "1486387", "username": "Aeowulf"},
+                {"uid": "4674072", "username": "Juoku"},
+                {"uid": "3097399", "username": "Davkul"},
+                {"uid": "3978907", "username": "KasprDev"}
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "VATOP MyCode for Crypto",
+            "description": "Xerotic released a new MyCode widget that displays the value of a cryptocurrency at the time of posting compared to its current value, including a chart showing the change over time.",
+            "url": "https://hackforums.net/showthread.php?tid=6135040",
+            "users": [
+                {"uid": "175033", "username": "Xerotic"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {"uid": "4451198", "username": "StayPlural"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Guardis was closed.",
+            "url": "",
+            "users": [
+                {"uid": "2953250", "username": "Guardis"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 489,
+        "date": 1611632920,
+        "pid": "60530562",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 489"
+    }
+}

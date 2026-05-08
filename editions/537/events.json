@@ -1,0 +1,95 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hackúman Season 4",
+            "description": "After a delay for updates and bug fixes, Hackúman returned with Season 4 and a new HUM. Members can post to earn an Amethyst Egg award and hatch the new HUM \"Vise.\"",
+            "url": "https://hackforums.net/showthread.php?tid=6252681",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Octoberfest 2023",
+            "description": "Octoberfest 2023's award goal is the Purple Octoberfest Pumpkin, awarded for making 600 posts during October.",
+            "url": "https://hackforums.net/showthread.php?tid=6252663",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Marketers, COINED, and Profit groups are still listed for sale. BlackCats, Cult, Mafia, and Red Lions crews remain listed for sale.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 1834476 received the Top Banana award. uid 2436943 received the Black Hatter award. uid 801999 was the first to earn the Octoberfest 2023 award.",
+            "url": "",
+            "users": [
+                {"uid": "1834476", "username": ""},
+                {"uid": "2436943", "username": ""},
+                {"uid": "801999", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "uid 5362586 was banned for having a second account. Several evading scammers and bots were also banned.",
+            "url": "",
+            "users": [
+                {"uid": "5362586", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 279955 took a 6-month vacation, returning March 20, 2024. uid 5051324 took a two-week vacation, returning October 14, 2023.",
+            "url": "",
+            "users": [
+                {"uid": "279955", "username": ""},
+                {"uid": "5051324", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "uid 4993290 was closed for harassing members. Vibe was closed for scamming.",
+            "url": "",
+            "users": [
+                {"uid": "4993290", "username": ""},
+                {"uid": "646178", "username": "Vibe"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "NFA & Gamertags Sections Merged",
+            "description": "The Non-Free Accounts and Gamertags sections were merged into the Online Accounts section, and the sub-sections were deleted.",
+            "url": "https://hackforums.net/showthread.php?tid=6250893",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Fingerprint Sign-In Discussion",
+            "description": "Omniscient opened a discussion about new login methods for easier mobile access, including fingerprint scans and PINs.",
+            "url": "https://hackforums.net/showthread.php?tid=6252392",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 537,
+        "date": 1696306020,
+        "pid": "62102808",
+        "author_uid": "5002443",
+        "subject": "Hack Forums News // E.537 // October 2023"
+    }
+}

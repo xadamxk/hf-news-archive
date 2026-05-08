@@ -1,0 +1,139 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Your Trusted Members",
+            "description": "A new Market CP feature lets members mark others as 'Trusted' for personal use, currently restricted to r00t and V3ndor members.",
+            "url": "https://hackforums.net/showthread.php?tid=5952921",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Vendor Application",
+            "description": "Members applying for V3ndor must now go through an application process. Omniscient approves or denies based on Market Activity, B-Rating, and other factors.",
+            "url": "https://hackforums.net/showthread.php?tid=5952926",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "r00t and 3p1c Deleted",
+            "description": "Omniscient deleted the r00t and 3p1c usergroups, with amendments made to compensate prior members.",
+            "url": "https://hackforums.net/showthread.php?tid=5953786",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Ub3r Upgrade Available",
+            "description": "HF Ub3r returned, purchasable as a 1-year upgrade subscription. Existing Ub3r members retain their membership permanently.",
+            "url": "https://hackforums.net/showthread.php?tid=5954114",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Free Ub3r Upgrade for 3p1c+L33t",
+            "description": "Members holding both 3p1c and L33t received a free permanent Ub3r upgrade; 3p1c-only members were moved to L33t.",
+            "url": "https://hackforums.net/showthread.php?tid=5954394",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Donation Awards Swapped",
+            "description": "Omniscient removed the Star Donation Award and brought back a former Donation Award. The $250 K1NG Award was added as a donation.",
+            "url": "https://hackforums.net/showthread.php?tid=5957286",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Cyber Gentlemen ownership.",
+            "description": "Notorious purchased Cyber Gentlemen.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4084744",
+                    "username": "Notorious"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "iNviZ reached 1,000+ Popularity; Zeus reached 2,000+ Popularity",
+            "url": "",
+            "users": [
+                {
+                    "uid": "619030",
+                    "username": "iNviZ"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Riyu was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "Riyu"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Mαxim was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Mαxim"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Bytes is the second user to receive the Cyber Diamond.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4070740",
+                    "username": "Bytes"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 431,
+        "date": 1554882055,
+        "pid": "58454719",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 431"
+    }
+}

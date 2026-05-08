@@ -1,0 +1,79 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Adult Zone Accounts",
+            "description": "Omniscient created an Adult Zone forum for buying/selling adult accounts. Posting adult images and adult links remains disallowed.",
+            "url": "https://hackforums.net/showthread.php?tid=5978941",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Discord Policy",
+            "description": "Members can now only post their Discord username and may not promote channels, since Discord-based transactions can lead to scams.",
+            "url": "https://hackforums.net/showthread.php?tid=5978942",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Editor Theme poll",
+            "description": "A poll was opened asking members which theme they prefer for the text editor.",
+            "url": "https://hackforums.net/showthread.php?tid=5979808",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "New Mobale Theme",
+            "description": "A new default Mobale theme color was set; Mobale Purple is now reserved for upgraded members only.",
+            "url": "https://hackforums.net/showthread.php?tid=5983303",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Blackhat Training Section",
+            "description": "Omniscient created a new Blackhat Training section to improve members' Internet and computer security knowledge. Members are required to read the section policy regarding disallowed activities.",
+            "url": "https://hackforums.net/showthread.php?tid=5981321",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Prevail leadership.",
+            "description": "Dorrance and Happeh became leaders of Prevail.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2185870",
+                    "username": "Dorrance"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 438,
+        "date": 1561521521,
+        "pid": "58708967",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 438"
+    }
+}

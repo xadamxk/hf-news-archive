@@ -1,0 +1,73 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HFX 3.0 Browser Extension",
+            "description": "uid 574588 rebuilt the HFX browser extension from scratch to support modern browsers (post Manifest v2 changes), packed with new features.",
+            "url": "https://hackforums.net/showthread.php?tid=6312252",
+            "users": [
+                {"uid": "574588", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 208488, uid 2299014, uid 1895736, uid 2000705, uid 1580194, and uid 723282 received King Decade. uid 367757 received Green Apple. uid 5693200 and uid 4931690 received Stanley Fan. Octoberfest 2025 award earned by uid 5447855, uid 5655318, uid 5, Mix, uid 5064970, Aeowulf, uid 811, uid 827750, uid 3018464, uid 5693200, uid 5699805, Charlie Sheen, and uid 290801.",
+            "url": "",
+            "users": [
+                {"uid": "208488", "username": ""},
+                {"uid": "2299014", "username": ""},
+                {"uid": "1895736", "username": ""},
+                {"uid": "2000705", "username": ""},
+                {"uid": "1580194", "username": ""},
+                {"uid": "723282", "username": ""},
+                {"uid": "367757", "username": ""},
+                {"uid": "5693200", "username": ""},
+                {"uid": "4931690", "username": ""},
+                {"uid": "5447855", "username": ""},
+                {"uid": "5655318", "username": ""},
+                {"uid": "5", "username": ""},
+                {"uid": "2331053", "username": "Mix"},
+                {"uid": "5064970", "username": ""},
+                {"uid": "1486387", "username": "Aeowulf"},
+                {"uid": "811", "username": ""},
+                {"uid": "827750", "username": ""},
+                {"uid": "3018464", "username": ""},
+                {"uid": "5699805", "username": ""},
+                {"uid": "123", "username": "Charlie Sheen"},
+                {"uid": "290801", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. Casino was sold to NERO.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "uid 5418830 reached 5,000 posts. uid 666 became the first member to reach 5,000 excellent credibility.",
+            "url": "",
+            "users": [
+                {"uid": "5418830", "username": ""},
+                {"uid": "666", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 559,
+        "date": 1761587055,
+        "pid": "62861805",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 20"
+    }
+}

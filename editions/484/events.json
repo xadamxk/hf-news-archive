@@ -1,0 +1,80 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Forum Section Renaming",
+            "description": "A voluntary effort thread invites members to suggest renames for forum sections.",
+            "url": "https://hackforums.net/showthread.php?tid=6114850",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Mobile App Teaser",
+            "description": "HF will be releasing its official Mobile App; an iOS and Android Beta release is expected within the next couple of weeks.",
+            "url": "https://hackforums.net/showthread.php?tid=6116335",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group Recruitment & Sales",
+            "description": "Dreamers opened announcement and recruitment. Exchangers is for sale ($4,250 OBO, 2 private subforums, custom color and effect). Unity Crew is recruiting with buy-in spots remaining.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Fortunate reached 2,000 popularity. Soufian reached 5,000 posts.",
+            "url": "",
+            "users": [
+                {"uid": "3123052", "username": "Fortunate"},
+                {"uid": "46903", "username": "Soufian"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "0din, McDolands, and PokeBong were banned for fake contests. Motusora was banned (every deal must contain a contract).",
+            "url": "",
+            "users": [
+                {"uid": "2646948", "username": "0din"},
+                {"uid": "2814290", "username": "McDolands"},
+                {"uid": "4748167", "username": "PokeBong"},
+                {"uid": "776749", "username": "Motusora"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Dotexe is on vacation until 04/13/2021. Riot is on vacation until 01/14/2021.",
+            "url": "",
+            "users": [
+                {"uid": "2580014", "username": "Dotexe"},
+                {"uid": "2285844", "username": "Riot"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "sunny mann was closed for financial theft.",
+            "url": "",
+            "users": [
+                {"uid": "4845636", "username": "sunny mann"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 484,
+        "date": 1603408856,
+        "pid": "60293948",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 484"
+    }
+}

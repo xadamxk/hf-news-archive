@@ -1,0 +1,70 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums Ficons Evolved to Sprites",
+            "description": "As part of ongoing performance improvements by Omniscient and Xerotic, hundreds of Ficons were converted to a single image with a CSS sprite page controlling them. Members with display issues should press Ctrl-F5 on the home page to fix.",
+            "url": "https://hackforums.net/showthread.php?tid=5846729",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Legends leadership.",
+            "description": "DamienVC, TheChief, and Armada are now leaders of Legends.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2334861",
+                    "username": "DamienVC"
+                },
+                {
+                    "uid": "2333286",
+                    "username": "TheChief"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[HACKFORUMS PODCAST #3] A Private Interview with Xerotic",
+            "description": "Wake's HF podcast interview with Xerotic.",
+            "url": "https://hackforums.net/showthread.php?tid=5846630",
+            "users": [
+                {
+                    "uid": "2745296",
+                    "username": "Wake"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 395,
+        "date": 1528965840,
+        "pid": "57213972",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 395"
+    }
+}

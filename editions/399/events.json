@@ -1,0 +1,130 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bytes Introduced",
+            "description": "On June 30th, Bytes were introduced to Hack Forums. Bytes are points that members earn by posting, having others post on their threads, or making threads. Members can also donate Bytes to each other, and they may be used for HF games in the future.",
+            "url": "https://hackforums.net/showthread.php?tid=5856115",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "First Byte Lottery",
+            "description": "On July 4, Omniscient released the first ever Bytes lottery. Members can buy up to 10 tickets per person; the prize pool stood at over 22k Bytes at edition time. Future R00T members will be able to create their own lotteries.",
+            "url": "https://hackforums.net/showthread.php?tid=5857938",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Ace of Spades Award",
+            "description": "On July 6, Omniscient made the Ace of Spades award available for purchase at $25. Buyers receive a random amount of Bytes between 100-1000 along with the award.",
+            "url": "https://hackforums.net/showthread.php?tid=5858592",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "SlyCoyote has reached 1,000 reputation; Lexsern has reached 1,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1349466",
+                    "username": "SlyCoyote"
+                },
+                {
+                    "uid": "12145",
+                    "username": "Lexsern"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Danny Khalifa was banned, pending closure; Sounder was banned for attempting to purchase a Hack Forums account.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2952200",
+                    "username": "Danny Khalifa"
+                },
+                {
+                    "uid": "3932633",
+                    "username": "Sounder"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Psychonaught received the Gold Clover award; ๖ۣۜℤero received the Gold Clover award; Biggy received the Bronze Tutorial award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3923895",
+                    "username": "Psychonaught"
+                },
+                {
+                    "uid": "1600138",
+                    "username": "๖ۣۜℤero"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hack Forums F.A.Q",
+            "description": "Vitani's compilation of all recent changes on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5856993",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hack Forums on Wikipedia!",
+            "description": "Avalerion's announcement that Hack Forums now has a Wikipedia page.",
+            "url": "https://hackforums.net/showthread.php?tid=5858627",
+            "users": [
+                {
+                    "uid": "3673688",
+                    "username": "Avalerion"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 399,
+        "date": 1531255001,
+        "pid": "57328239",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 399"
+    }
+}

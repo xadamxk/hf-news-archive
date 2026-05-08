@@ -1,0 +1,142 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "GDPR Discussion",
+            "description": "Omniscient pushed out new policies for GDPR compliance and created a discussion thread to address questions about agreement points.",
+            "url": "https://hackforums.net/showthread.php?tid=5853729",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "4 New Donation Awards",
+            "description": "Four new cryptocurrency-related donation awards have been added at $25 each (giftable): Qtum, Waves, PivX, and Lisk.",
+            "url": "https://hackforums.net/showthread.php?tid=5854004",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "What's Prestige?",
+            "description": "Omniscient announced that Prestige is no longer a thing on Hack Forums. A new points system is in the works which will have a more meaningful use for the community.",
+            "url": "https://hackforums.net/showthread.php?tid=5853746",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Contracts Required for Currency Exchange",
+            "description": "Refusing or not using the Contracts system for currency exchange deals is now a bannable offense. Currency Exchange threads must contain the Contracts MyCode.",
+            "url": "https://hackforums.net/showthread.php?tid=5852705",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Heroes leadership.",
+            "description": "sword is now a leader of Heroes.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3020519",
+                    "username": "sword"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Views has purchased 1,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Vyrez. received a week-long ban for post-bump deleting; Views received a week-long ban which turned into a six-month ban for rep abuse, ultimately reversed before being closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                },
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Views is now closed.",
+            "url": "https://hackforums.net/showthread.php?tid=5852472",
+            "users": [
+                {
+                    "uid": "2947999",
+                    "username": "Views"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Marketplace Suite and Contracts",
+            "description": "Xerotic's post sampling the new addition of 'Contracted Customers' on paid stickies.",
+            "url": "https://hackforums.net/showthread.php?tid=5847086",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Diary of a Homeless Hacker",
+            "description": "Armada's online entry describing his current situation as a homeless hacker.",
+            "url": "https://hackforums.net/showthread.php?tid=5851969",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 397,
+        "date": 1530082234,
+        "pid": "57270822",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 397"
+    }
+}

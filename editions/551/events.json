@@ -1,0 +1,59 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Stanley Fan Award Goal",
+            "description": "Omniscient released a new award goal — make 250 reply posts to threads created by Stanley (uid 1337) — to encourage replies to the Stanley bot's threads.",
+            "url": "https://hackforums.net/showthread.php?tid=6307040",
+            "users": [
+                {"uid": "1", "username": "Omniscient"},
+                {"uid": "1337", "username": "Stanley"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Sales Tags",
+            "description": "Omniscient is gathering feedback on new sales tag designs created by Motusora (uid 776749).",
+            "url": "https://hackforums.net/showthread.php?tid=6307025",
+            "users": [
+                {"uid": "1", "username": "Omniscient"},
+                {"uid": "776749", "username": "Motusora"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 1805852, B FOR BADASS, uid 2470866, and ♕ ιηтєℓ ♕ received King Decade. IG Growth received Dicey. uid 2470866 received Green Apple. Deany (uid 1618863) and uid 5458992 received the new Stanley Fan award.",
+            "url": "",
+            "users": [
+                {"uid": "1805852", "username": ""},
+                {"uid": "2470866", "username": ""},
+                {"uid": "1618863", "username": "Deany"},
+                {"uid": "5458992", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, and Benevolence groups remain listed for sale. Fidelity group has been newly listed for sale by uid 811. Mystery Inc remains for sale.",
+            "url": "https://hackforums.net/showthread.php?tid=6307026",
+            "users": [
+                {"uid": "811", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 551,
+        "date": 1756735673,
+        "pid": "62813764",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 12"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Red Lions Usergroup Removed",
+            "description": "On September 1, Omniscient announced the Red Lions group had been removed because the owner, nokia2mon2, has been offline for over two years. The group and forum are still in the database, but if nokia2mon2 does not return to HF within 6 months, it will be permanently deleted.",
+            "url": "https://hackforums.net/showthread.php?tid=5880380",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "80618",
+                    "username": "nokia2mon2"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Byte Bonus Weekend",
+            "description": "On September 1, Omniscient announced a Byte Bonus weekend — 5 Bytes per thread, 2 Bytes per post, and 0.2 Bytes per reply (instead of the usual 0.1). Additionally, donating for the Grand Amethyst award now grants an extra 50,000 Bytes for a limited time.",
+            "url": "https://hackforums.net/showthread.php?tid=5880400",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Share Button on Posts",
+            "description": "Xerotic, working with Omniscient, released an official share button on posts. Users can share posts to Twitter, Facebook, and Google+, copy the post link, or copy the MyBB citation code.",
+            "url": "https://hackforums.net/showthread.php?tid=5880545",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                },
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Nate has surpassed 10,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1087815",
+                    "username": "Nate"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Marwix was closed per request; Crystallize. was closed for disallowed BH activity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1817532",
+                    "username": "Marwix"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "mael was awarded the Music Lover award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1314004",
+                    "username": "mael"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 406,
+        "date": 1536068974,
+        "pid": "57557817",
+        "author_uid": "1999047",
+        "subject": "Hack Forums News // Edition 406"
+    }
+}

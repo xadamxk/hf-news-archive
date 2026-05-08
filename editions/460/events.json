@@ -1,0 +1,69 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Quick Convo",
+            "description": "Members can now access the Convo feature via an icon at the bottom-right of the screen; under development with bugs being addressed.",
+            "url": "https://hackforums.net/showthread.php?tid=6056019",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Coronavirus Alert",
+            "description": "Omniscient announced an alert about the coronavirus outbreak and warned all members to stay safe.",
+            "url": "https://hackforums.net/showthread.php?tid=6056501",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Pyro achieved 5,000 posts in 3 years; Buildoman surpassed 2,000 popularity points",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3424522",
+                    "username": "Pyro"
+                },
+                {
+                    "uid": "2875347",
+                    "username": "Buildoman"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Bulma was banned for hosting a fake contest; HQIT was banned (account under investigation).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2716753",
+                    "username": "Bulma"
+                },
+                {
+                    "uid": "4395330",
+                    "username": "HQIT"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 460,
+        "date": 1584343533,
+        "pid": "59526374",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 460"
+    }
+}

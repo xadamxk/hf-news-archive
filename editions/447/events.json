@@ -1,0 +1,81 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Navigation Changes",
+            "description": "All HF games were moved to a drop-down menu, and mobile users can now click their display picture to access a drop-down menu with Profile, Posts/Threads, Marketplace, and HF Games options.",
+            "url": "https://hackforums.net/showthread.php?tid=6020503",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Gifting Updates and Bonus Bytes",
+            "description": "For a limited time, gifting upgrades to other users rewards Bytes bonuses for both sender and recipient — 500 Bytes for L33T gifts and 1,000 Bytes for Ub3R gifts.",
+            "url": "https://hackforums.net/showthread.php?tid=6021812",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Lavish Living was given the Jokester and Heart of HF awards (lost 500,000 Bytes on slots and SportsBook); Kill Joy was granted the Heart of HF award; flavoral attained the Lounge Head and SportsBook awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                },
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                },
+                {
+                    "uid": "3459543",
+                    "username": "flavoral"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "M0HX is currently banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1441945",
+                    "username": "M0HX"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "M L T was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3784247",
+                    "username": "M L T"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 447,
+        "date": 1572925591,
+        "pid": "59117419",
+        "author_uid": "900087",
+        "subject": "Hack Forums News // Edition 447"
+    }
+}

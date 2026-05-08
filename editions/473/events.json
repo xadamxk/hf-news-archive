@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hacker Tools Feedback",
+            "description": "Omniscient opened a thread to gather community feedback and suggestions for the Hacker Tools page.",
+            "url": "https://hackforums.net/showthread.php?tid=6086890",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Wolf reached 2,000 posts; James! reached 4,000 posts; Lynx reached 1,000 posts; Sick reached 6,000 posts; ETH reached 3,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3594371",
+                    "username": "Wolf"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "James!"
+                },
+                {
+                    "uid": "3550129",
+                    "username": "Lynx"
+                },
+                {
+                    "uid": "1839849",
+                    "username": "Sick"
+                },
+                {
+                    "uid": "3732526",
+                    "username": "ETH"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Venom101HF was banned ('You are not the HF Dispute Lawyer'); Lawsuit was banned ('Stop the script refreshing of the forum').",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3073453",
+                    "username": "Venom101HF"
+                },
+                {
+                    "uid": "2104118",
+                    "username": "Lawsuit"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2047020",
+                    "username": "NoSuchAgency"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 473,
+        "date": 1592456872,
+        "pid": "59907984",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 473"
+    }
+}

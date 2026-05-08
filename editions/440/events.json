@@ -1,0 +1,171 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Game Tab Bytes Bonus",
+            "description": "Members now receive double Bytes for all threads/posts under the Gaming Tab.",
+            "url": "https://hackforums.net/showthread.php?tid=5991020",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Questionnaire",
+            "description": "Omniscient created a short questionnaire to collect anonymous feedback about recent changes on Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=5992255",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Email Alias Forwards",
+            "description": "Hack Forums email alias forwards for Ub3r members are active again.",
+            "url": "https://hackforums.net/showthread.php?tid=5992227",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Best Response Feature",
+            "description": "Mods, Mentors, Staff, and Admins can mark a post as 'Best Response' in select sections, rewarding the poster with 10 β to encourage helpful posting.",
+            "url": "https://hackforums.net/showthread.php?tid=5992503",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Favorite Nav Item poll",
+            "description": "Omniscient created a poll asking members to vote on their favorite Navigation item; the new 'Favorites' option lets members browse only their most-visited forums.",
+            "url": "https://hackforums.net/showthread.php?tid=5993857",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Discord Social Login Removed",
+            "description": "The Discord social login was tentatively removed due to an exploit allowing logins without credentials. Accounts registered through Discord without a set password may be locked. Omniscient is reverse-engineering a patch.",
+            "url": "https://hackforums.net/showthread.php?tid=5993892",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "RedCupcake and Haseo™ became leaders of Sociopaths; Crash™ became a leader of Sui Generis; Sooty became a leader of Prevail.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3831906",
+                    "username": "RedCupcake"
+                },
+                {
+                    "uid": "1339775",
+                    "username": "Haseo™"
+                },
+                {
+                    "uid": "765374",
+                    "username": "Crash™"
+                },
+                {
+                    "uid": "2785862",
+                    "username": "Sooty"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vitani stepped down from Staff",
+            "description": "Vitani has stepped down from Staff.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "New Staff members",
+            "description": "webdev77 and kawaii became official Staff members.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "947940",
+                    "username": "webdev77"
+                },
+                {
+                    "uid": "1406453",
+                    "username": "kawaii"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "☾rescent was banned; Thornzzz was banned; Lavish Living was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2991200",
+                    "username": "☾rescent"
+                },
+                {
+                    "uid": "1992268",
+                    "username": "Thornzzz"
+                },
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Vanilla was closed for multiple accounts; Sword was closed for ban evasion; ShinyThings was closed; savaged. was closed for deal disputes.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3921080",
+                    "username": "Vanilla"
+                },
+                {
+                    "uid": "4026232",
+                    "username": "Sword"
+                },
+                {
+                    "uid": "4202639",
+                    "username": "ShinyThings"
+                },
+                {
+                    "uid": "3967388",
+                    "username": "savaged."
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 440,
+        "date": 1564544659,
+        "pid": "58812332",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 440"
+    }
+}

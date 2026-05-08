@@ -1,0 +1,177 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Stanley, Intelligence, and /Dev/Null:Ports",
+            "description": "Several /Dev/Null:Ports updates were made, including a beta single-player mode where you can play against Stanley, an AI bot trained from observed plays.",
+            "url": "https://hackforums.net/showthread.php?tid=6077131",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Award Lotteries update",
+            "description": "Lotteries can now offer Hackuman eggs as prizes in addition to Bytes; users earn an egg, then put it into a lottery for others to enter with Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=6075066",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Ty™ surpassed 3,000 popularity; Santan surpassed 2,000 popularity; Nyx reached 2,000 posts; Mr.Nobody, itcorp, Accord, Scooby, TehHaxx, and Tekkie reached 1,000 posts; Dorrance reached 7,000 posts; luke reached 7,000 posts; Tesla reached 5,000 posts; Beau reached 3,000 posts; Instagram reached 1,000 threads",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "Ty™"
+                },
+                {
+                    "uid": "3871390",
+                    "username": "Santan"
+                },
+                {
+                    "uid": "2872251",
+                    "username": "Nyx"
+                },
+                {
+                    "uid": "4513369",
+                    "username": "Mr.Nobody"
+                },
+                {
+                    "uid": "1763754",
+                    "username": "itcorp"
+                },
+                {
+                    "uid": "4463207",
+                    "username": "Accord"
+                },
+                {
+                    "uid": "2185870",
+                    "username": "Dorrance"
+                },
+                {
+                    "uid": "3909991",
+                    "username": "Scooby"
+                },
+                {
+                    "uid": "2295175",
+                    "username": "luke"
+                },
+                {
+                    "uid": "1362017",
+                    "username": "Instagram"
+                },
+                {
+                    "uid": "1286837",
+                    "username": "TehHaxx"
+                },
+                {
+                    "uid": "1206091",
+                    "username": "Tekkie"
+                },
+                {
+                    "uid": "2836764",
+                    "username": "Tesla"
+                },
+                {
+                    "uid": "1161771",
+                    "username": "Beau"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Vitani won the Gamblers Poker Tournament and the Pink Diamond award; Zero, SuitedPear, zSerity, 0riginalkillit, and Renestey reached 1,000 popularity and earned the Green Apple award; Dorrance was granted a Grand Amethyst award; Nebulance was granted the Diamond award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "3493494",
+                    "username": "Zero"
+                },
+                {
+                    "uid": "1092491",
+                    "username": "SuitedPear"
+                },
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                },
+                {
+                    "uid": "3874844",
+                    "username": "0riginalkillit"
+                },
+                {
+                    "uid": "961949",
+                    "username": "Renestey"
+                },
+                {
+                    "uid": "2185870",
+                    "username": "Dorrance"
+                },
+                {
+                    "uid": "3577885",
+                    "username": "Nebulance"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1441945",
+                    "username": "M0HX"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "MiamiHeat was banned for violating member copyright; King was banned for unprofessional behavior as a marketplace vendor; Pennywise was banned for fake B-Ratings; BubbleKush was banned (account under investigation).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1580858",
+                    "username": "MiamiHeat"
+                },
+                {
+                    "uid": "115612",
+                    "username": "King"
+                },
+                {
+                    "uid": "4371595",
+                    "username": "Pennywise"
+                },
+                {
+                    "uid": "4668300",
+                    "username": "BubbleKush"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 468,
+        "date": 1589310530,
+        "pid": "59777619",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 468"
+    }
+}

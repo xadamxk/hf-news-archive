@@ -1,0 +1,102 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Writer Tales Deleted",
+            "description": "On July 26, Omniscient deleted the Writer Tales subforum due to inactivity. Existing threads were moved to the Lounge.",
+            "url": "https://hackforums.net/showthread.php?tid=5866581",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Responsive Theme",
+            "description": "On July 20, Omniscient announced he, along with Xerotic and iHydra, will be working on a new responsive theme for Hack Forums. The theme is being developed and tested at knot.bb.",
+            "url": "https://hackforums.net/showthread.php?tid=5864198",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Unity inactive after leader arrested.",
+            "description": "Crystallize, leader of Unity, has been arrested for blackhat activity and is awaiting a court hearing. Until a new leader is appointed, Unity will be inactive.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "King of Hearts steps down from Staff",
+            "description": "King of Hearts has stepped down from his Staff position.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "992020",
+                    "username": "King of Hearts"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Durham has reached 1,000 reputation; duepi has reached 1,000 questionable posts; duepi has reached 1,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1800872",
+                    "username": "Durham"
+                },
+                {
+                    "uid": "3661602",
+                    "username": "duepi"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Regulus has banned himself indefinitely, stating he will no longer be active on Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=5865852",
+            "users": [
+                {
+                    "uid": "1680975",
+                    "username": "Regulus"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 401,
+        "date": 1533095101,
+        "pid": "57415854",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 401"
+    }
+}

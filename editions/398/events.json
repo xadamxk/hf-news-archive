@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "GDPR agreement form altered",
+            "description": "Xerotic announced that the GDPR agreement form was altered slightly — now using one button instead of several, and adding an option to disagree with the policy which will automatically close your Hack Forums account permanently.",
+            "url": "https://hackforums.net/showthread.php?tid=5855913",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Underdog has reached 1,000 awfully low-quality posts; Crystallize. has reached 5,000 extremely low-quality posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "928966",
+                    "username": "Underdog"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Tɦɛ Gʀiɱ was banned for an unknown reason; Vyrez. received a three-month ban for reaching 100% on his Warning Level.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "431105",
+                    "username": "Tɦɛ Gʀiɱ"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Sean Kennedy obtained the first Gold Clover of 2018 (1/50,000 chance).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1466385",
+                    "username": "Sean Kennedy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 398,
+        "date": 1530649360,
+        "pid": "57299086",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 398"
+    }
+}

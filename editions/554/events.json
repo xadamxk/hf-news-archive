@@ -1,0 +1,44 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "OSINT Forum Renaming",
+            "description": "Omniscient renamed the \"Private Investigation Methods\" forum to \"OpSec and OSINT\" to clarify its purpose and broaden permitted topics.",
+            "url": "https://hackforums.net/showthread.php?tid=6308262",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 843423 received King Decade. uid 5697524 received Dicey.",
+            "url": "",
+            "users": [
+                {"uid": "843423", "username": ""},
+                {"uid": "5697524", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. Fidelity was rebranded to Quantum.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 554,
+        "date": 1758557624,
+        "pid": "62825687",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 15"
+    }
+}

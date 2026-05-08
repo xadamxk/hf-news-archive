@@ -1,0 +1,94 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "The Game Beta released",
+            "description": "The new Hacking Game has been released in Beta phase. Some features are still under expansion.",
+            "url": "https://hackforums.net/showthread.php?tid=5939137",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Bytes Cut Policy",
+            "description": "Omniscient implemented a new Bytes policy cutting all Bytes across the board to 50% of their original value.",
+            "url": "https://hackforums.net/showthread.php?tid=5940406",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Share a Post via PM",
+            "description": "Members can now quickly share posts with other members via PM using a share icon in the postbit.",
+            "url": "https://hackforums.net/showthread.php?tid=5941909",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Major Contracts Update",
+            "description": "Notable advances were made to the Contract System; details in the dedicated thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5941813",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF News Podcast Returns",
+            "description": "The HF News Podcast returned, hosted by -Nas, SoulZeh, and Thornzzz. A new Sports section was also introduced.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Security ownership.",
+            "description": "Security is now owned by Vanilla.",
+            "url": "https://hackforums.net/showthread.php?tid=5943403",
+            "users": [
+                {
+                    "uid": "3921080",
+                    "username": "Vanilla"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "iNviZ wins lottery",
+            "description": "iNviZ won the lottery for 96,007.5 β.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "619030",
+                    "username": "iNviZ"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "flavoral received the Militant and Omni Face awards.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3459543",
+                    "username": "flavoral"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 426,
+        "date": 1551116998,
+        "pid": "58307636",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 426 - PODCAST IS BACK!"
+    }
+}

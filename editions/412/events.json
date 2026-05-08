@@ -1,0 +1,106 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Official Weekly Bonus Bytes",
+            "description": "Omniscient added a feature awarding 100 bonus Bytes to members who make 100 posts within a week. Posts in Lounge, all Group forums, and Junk are excluded. Started October 15, 2018, at 9 AM PST.",
+            "url": "https://hackforums.net/showthread.php?tid=5894618",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "PerfectStorm has obtained 5,000 posts; PerfectStorm has a Popularity score of over 1,000; Traum has posted over 2,000 times",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3396409",
+                    "username": "PerfectStorm"
+                },
+                {
+                    "uid": "3472449",
+                    "username": "Traum"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "V3ndor invitations",
+            "description": "'Bear and System[X] were accepted into the new V3ndor group.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "682909",
+                    "username": "'Bear"
+                },
+                {
+                    "uid": "806990",
+                    "username": "System[X]"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "CyberError was banned; Armada was banned once again.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2793753",
+                    "username": "CyberError"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Banter. was the first to receive the new Taco Taco Taco award; Omniscient awarded himself the Taco Taco Taco award five times; Business and Traum were granted the Taco Taco Taco award; Vitani was granted the Genius award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3446221",
+                    "username": "Banter."
+                },
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "1705027",
+                    "username": "Business"
+                },
+                {
+                    "uid": "3472449",
+                    "username": "Traum"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 412,
+        "date": 1539815057,
+        "pid": "57723627",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 412"
+    }
+}

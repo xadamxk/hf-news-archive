@@ -1,0 +1,198 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Theme Challenge Announced!",
+            "description": "Omniscient issued a challenge to the designer community to make the tab navigation more responsive (via CSS or JS) so that 'Tabs stay and mobile users get a friendlier page'.",
+            "url": "https://hackforums.net/showthread.php?tid=5758075",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Discord Gets the Banhammer",
+            "description": "Omniscient completely disallowed Discord on Hack Forums, citing the program's negative impact on site activity.",
+            "url": "https://hackforums.net/showthread.php?tid=5756944",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Possibility of Hack Forums Credits?",
+            "description": "Omniscient proposed implementing a Hack Forums credits system that could be used for on-site transactions like upgrades or stickies. The system would help combat ever-rising Bitcoin transaction fees by letting members consolidate transactions and hold credits.",
+            "url": "https://hackforums.net/showthread.php?tid=5759147",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Crystallize. is now a leader of Unity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Charger has reached 10,000 posts; Maxim has reached 10,000 posts; Lukas has reached 5,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "400724",
+                    "username": "Charger"
+                },
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "testaccountplsignore received the Gold Clover award and now has all three clovers; Armada received the Asswipe award for his Uber ride storytime thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5758622",
+            "users": [
+                {
+                    "uid": "3090794",
+                    "username": "testaccountplsignore"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF Mobile Friendly",
+            "description": "Omniscient is taking steps toward making Hack Forums mobile-friendly.",
+            "url": "https://hackforums.net/showthread.php?tid=5757685",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Classic Postbit",
+            "description": "Omniscient asks members for opinions on the classic version of the postbit.",
+            "url": "https://hackforums.net/showthread.php?tid=5758753",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Space - 1st year",
+            "description": "$pace shares his experience of his first year on Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=5755068",
+            "users": [
+                {
+                    "uid": "3432268",
+                    "username": "$pace"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "8 years later",
+            "description": "Тоху's history and testimonial after being a member for eight years.",
+            "url": "https://hackforums.net/showthread.php?tid=5756261",
+            "users": [
+                {
+                    "uid": "76036",
+                    "username": "Тоху"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[GUIDE] How to Study Effectively and Ace Tests - From Techniques to Smart Drugs",
+            "description": "AsSaSs@iN's set of tips covering study techniques and smart drugs.",
+            "url": "https://hackforums.net/showthread.php?tid=5758491",
+            "users": [
+                {
+                    "uid": "70909",
+                    "username": "AsSaSs@iN"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Guide to Overcoming Shyness",
+            "description": "Froggy's guide to overcoming shyness.",
+            "url": "https://hackforums.net/showthread.php?tid=5757698",
+            "users": [
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Compound Interest // Read if you want to become rich",
+            "description": "Captain P.'s explanation of how compound interest works.",
+            "url": "https://hackforums.net/showthread.php?tid=5754846",
+            "users": [
+                {
+                    "uid": "3663192",
+                    "username": "Captain P."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "So, I made a grown man shit himself last night.",
+            "description": "Armada's story about an Uber ride and an asswipe.",
+            "url": "https://hackforums.net/showthread.php?tid=5758622",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 371,
+        "date": 1511827753,
+        "pid": "56280367",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 371"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hackúman Suspended",
+            "description": "After season 2 ended, Hackúman was suspended to make changes for the upcoming season. Estimated re-launch is October 1st. Eggs will not be awarded for posts during this time, and existing eggs expired so all members start fresh in season 3.",
+            "url": "https://hackforums.net/showthread.php?tid=6248322",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "More Vendor Benefits",
+            "description": "Omniscient added a new perk for Vendors: they can now wear signatures up to 1MB, while everyone else is limited to 500KB or less.",
+            "url": "https://hackforums.net/showthread.php?tid=6248863",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Secret Society",
+            "description": "The Gold Standard was sold by uid 1391436 to uid 4873170 and rebranded to Secret Society — a global profit-oriented blackhat network.",
+            "url": "",
+            "users": [
+                {"uid": "1391436", "username": ""},
+                {"uid": "4873170", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Easier Image Uploads",
+            "description": "A new quick-add button was added to posts and threads, allowing users to select images from their devices or via image URL.",
+            "url": "https://hackforums.net/showthread.php?tid=6250571",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "NulldB is allowing members the chance to earn entry into the official group Fallen. Succubus, Marketers, COINED, and Profit groups are listed for sale. BlackCats, Cult, Mafia, and Red Lions crews remain listed for sale.",
+            "url": "https://hackforums.net/showthread.php?tid=6248510",
+            "users": [
+                {"uid": "7", "username": "NulldB"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "-Scrub reached 16,000 posts. uid 5239601 became the first member to report a confirmed bug bounty under the HF Bug Bounty Program.",
+            "url": "",
+            "users": [
+                {"uid": "4227846", "username": "-Scrub"},
+                {"uid": "5239601", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "-Scrub earned the Molten Sword of Hackúman award as the winner of Hackúman Season 2 — the third recipient of this award.",
+            "url": "",
+            "users": [
+                {"uid": "4227846", "username": "-Scrub"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "uid 5184709's ban was lifted, then closed by request. James was closed. Mr. Robot, uid 4993290, and Vibe were banned. Several ban-evaders and spammers were also banned/closed.",
+            "url": "",
+            "users": [
+                {"uid": "5184709", "username": ""},
+                {"uid": "2682887", "username": "Mr. Robot"},
+                {"uid": "4993290", "username": ""},
+                {"uid": "646178", "username": "Vibe"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 811 and uid 5051324 took vacation bans.",
+            "url": "",
+            "users": [
+                {"uid": "811", "username": ""},
+                {"uid": "5051324", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Featured Forum Price Adjustment",
+            "description": "The cost of a Featured Forum Link advertisement has been discounted to $8 per day.",
+            "url": "https://hackforums.net/showthread.php?tid=6249957",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "First Bug Bounty Reward Recipient",
+            "description": "uid 5239601 was rewarded for finding an rXSS in the API token issuance, becoming the first recipient of the HF Bug Bounty Program reward.",
+            "url": "https://hackforums.net/showthread.php?tid=6244277",
+            "users": [
+                {"uid": "5239601", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF News Support Contest Winner",
+            "description": "uid 3653201 won the August HF News Support Signature drawing.",
+            "url": "https://hackforums.net/showthread.php?tid=6250425",
+            "users": [
+                {"uid": "3653201", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 536,
+        "date": 1693330680,
+        "pid": "62069646",
+        "author_uid": "5002443",
+        "subject": "Hack Forums News // E.536 // September 2023"
+    }
+}

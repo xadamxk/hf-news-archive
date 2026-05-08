@@ -1,0 +1,65 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Play Blackjack using Bytes",
+            "description": "Omniscient and Xerotic released a new Blackjack game playable with Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=5881225",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Lounge Head with Bonus Bytes",
+            "description": "Members who make 1,000 posts in 30 days will earn the Lounge Head award and 500 Bytes (subject to specific requirements).",
+            "url": "https://hackforums.net/showthread.php?tid=5881854",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Underdog has reached 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "928966",
+                    "username": "Underdog"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "kawaii received his second Cool award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1406453",
+                    "username": "kawaii"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 407,
+        "date": 1536646621,
+        "pid": "57585305",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 407"
+    }
+}

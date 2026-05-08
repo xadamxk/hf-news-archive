@@ -1,0 +1,39 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 5252466 received Medal of Honor. uid 50 and uid 1131394 received King Decade. uid 2370822 received Quickly Loved. uid 2017813 received Stanley Fan. Yanix received the Octoberfest 2025 award.",
+            "url": "",
+            "users": [
+                {"uid": "5252466", "username": ""},
+                {"uid": "50", "username": ""},
+                {"uid": "2370822", "username": ""},
+                {"uid": "2017813", "username": ""},
+                {"uid": "4273612", "username": "Yanix"},
+                {"uid": "1131394", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. Casino was recently sold to NERO. No leadership changes this week.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 557,
+        "date": 1760372944,
+        "pid": "62848006",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 18"
+    }
+}

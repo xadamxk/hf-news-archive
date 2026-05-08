@@ -1,0 +1,67 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Reputation Archive",
+            "description": "Members now have an option to view their Reputation Archive.",
+            "url": "https://hackforums.net/showthread.php?tid=5964259",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Ad Banners",
+            "description": "Omniscient is contemplating new HF Ad Banners for the web and social media, and invited graphic designers to submit work.",
+            "url": "https://hackforums.net/showthread.php?tid=5965208",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Suggestions for Canned Popularity",
+            "description": "Omniscient asked for suggestions for new messages to be included in the canned Popularity messages.",
+            "url": "https://hackforums.net/showthread.php?tid=5965314",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Game Update #3",
+            "description": "Many new features were added to the HF Game, including the integration of Crew CP into Game CP.",
+            "url": "https://hackforums.net/showthread.php?tid=5965438",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership changes.",
+            "description": "Influence was purchased by Aficionado; Famous was purchased by YouTube.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3403141",
+                    "username": "Aficionado"
+                },
+                {
+                    "uid": "3257834",
+                    "username": "YouTube"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 433,
+        "date": 1556691881,
+        "pid": "58526923",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 433"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "/Dev/Null:Ports Released",
+            "description": "Omniscient announced the release of /Dev/Null:Ports, a new game on Hack Forums. Xerotic encouraged feedback and bug reports.",
+            "url": "https://hackforums.net/showthread.php?tid=6038065",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Zero attained the Everyday Ninja award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3493494",
+                    "username": "Zero"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 452,
+        "date": 1579112388,
+        "pid": "59327969",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 452"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Cyber Monday Deal",
+            "description": "For the rest of the week scratchcards are buy-one-get-one-free; any purchase $100 or greater also receives the Cyber Monday award.",
+            "url": "https://hackforums.net/showthread.php?tid=6029824",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Xerotic Moving to Vegas",
+            "description": "Xerotic announced he is relocating to Vegas to be closer to Omniscient. He will be slower at responding for the next few weeks.",
+            "url": "https://hackforums.net/showthread.php?tid=6027872",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                },
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Sir won Member of the Month for November 2019.",
+            "url": "https://hackforums.net/showthread.php?tid=6029561",
+            "users": [
+                {
+                    "uid": "900087",
+                    "username": "Sir"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "_Grow_ was banned for botting on the Hack Game.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3327349",
+                    "username": "_Grow_"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 450,
+        "date": 1575444094,
+        "pid": "59201488",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 450"
+    }
+}

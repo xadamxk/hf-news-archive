@@ -1,0 +1,154 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Buy History Implemented (UB3R only)",
+            "description": "Omniscient released a new vanity feature allowing UB3R members to view their purchase history (post May 2014) at hackforums.net/showbuys.php. There are potential plans to expand access to other paid groups.",
+            "url": "https://hackforums.net/showthread.php?tid=5826331",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Search Feature for 3P1C",
+            "description": "Omniscient added a new search feature for the 3P1C group that allows users to filter specific forums when using their Favs results. Configure favorites under UserCP > Options.",
+            "url": "https://hackforums.net/showthread.php?tid=5828155",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Happy 4/20 Legalize It Award Sale",
+            "description": "For 24 hours on 4/20, the Legalize It award was on sale at half price.",
+            "url": "https://hackforums.net/showthread.php?tid=5827394",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "ｍＯｂｉＩｅ is now a leader of The Executives.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "747953",
+                    "username": "ｍＯｂｉＩｅ"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "J.P Morgan has reached 5,000 posts; Vitani's Mate has reached 3,000 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1589588",
+                    "username": "J.P Morgan"
+                },
+                {
+                    "uid": "651773",
+                    "username": "Vitani's Mate"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Captain P. was banned, pending closure.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3663192",
+                    "username": "Captain P."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2997478",
+                    "username": "cuck"
+                },
+                {
+                    "uid": "3383447",
+                    "username": "ImZero"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Vitani's Mate received the Xerotic Bot DNA award; Maxim received the Diamond award; Punisher received the Protector award for finding XSS vulnerabilities in MyBB and a few pages on Hack Forums; a massive amount of members bought the Legalize It award while it was on sale.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "651773",
+                    "username": "Vitani's Mate"
+                },
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                },
+                {
+                    "uid": "163196",
+                    "username": "Punisher"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My 8 Years journey on HackForums.",
+            "description": "Vanadium gives his 8 year feedback on Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=5823999",
+            "users": [
+                {
+                    "uid": "151894",
+                    "username": "Vanadium"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Stratify's Testimonial - 4 years later",
+            "description": "Stratify's 4 year feedback of HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5823764",
+            "users": [
+                {
+                    "uid": "2295175",
+                    "username": "Stratify"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 388,
+        "date": 1524541175,
+        "pid": "57002441",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 388"
+    }
+}

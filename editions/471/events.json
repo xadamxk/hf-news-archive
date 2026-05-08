@@ -1,0 +1,140 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF API v2 Beta",
+            "description": "After collecting feedback, an updated API v2 Beta was released for members and developers to test.",
+            "url": "https://hackforums.net/showthread.php?tid=6083719",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Phishing Attempts warning",
+            "description": "Reminder published to verify the URL before entering passwords or sensitive info, as Hack Forums is not exempt from phishing attempts.",
+            "url": "https://hackforums.net/showthread.php?tid=6063789",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Herbert won the May 2020 Member of the Month award.",
+            "url": "https://hackforums.net/showthread.php?tid=6083723",
+            "users": [
+                {
+                    "uid": "1341148",
+                    "username": "Herbert"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Aedan_ reached 1,000 posts; Bacardi Cola Lime reached 5,000 posts; Kendrick reached 2,000 posts; LoremIpsum reached 5,000 posts; Mao reached 2,000 posts; Sick surpassed 3,000 popularity; Mr Kewl reached 15,000 posts; Octavia reached 1,000 posts; Present reached 2,000 posts; Ren And Stimpy reached 2,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3688385",
+                    "username": "Aedan_"
+                },
+                {
+                    "uid": "581766",
+                    "username": "Bacardi Cola Lime"
+                },
+                {
+                    "uid": "3587630",
+                    "username": "Kendrick"
+                },
+                {
+                    "uid": "4362613",
+                    "username": "LoremIpsum"
+                },
+                {
+                    "uid": "2327840",
+                    "username": "Mao"
+                },
+                {
+                    "uid": "1839849",
+                    "username": "Sick"
+                },
+                {
+                    "uid": "183072",
+                    "username": "Mr Kewl"
+                },
+                {
+                    "uid": "2280806",
+                    "username": "Octavia"
+                },
+                {
+                    "uid": "3320643",
+                    "username": "Present"
+                },
+                {
+                    "uid": "3697156",
+                    "username": "Ren And Stimpy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Cryzonservices was banned for repeated thread edit abuse.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2614160",
+                    "username": "Cryzonservices"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2097293",
+                    "username": "Who Soup"
+                },
+                {
+                    "uid": "947411",
+                    "username": "SIM-947411"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "duplex, Ash Ketchum, and Threat were closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4219906",
+                    "username": "duplex"
+                },
+                {
+                    "uid": "1865979",
+                    "username": "Ash Ketchum"
+                },
+                {
+                    "uid": "3565973",
+                    "username": "Threat"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 471,
+        "date": 1591239762,
+        "pid": "59860773",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 471"
+    }
+}

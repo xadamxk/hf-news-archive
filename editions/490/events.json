@@ -1,0 +1,53 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Favorites Update",
+            "description": "Forums have been added to a listing in the header, displayed the same as Forumdisplay pages, allowing members to view all favorited forums together.",
+            "url": "https://hackforums.net/showthread.php?tid=6136700",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Geass reached 7,000 posts; DharmeshPHP reached 3,000 posts; Zero reached 4,000 posts; RTKN reached 1,000 posts; guardian reached 1,000 posts; Sleep reached 1,000 posts; HackOnTheGo, wiz, 123, Lotus, and Precisioη each surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {"uid": "1705415", "username": "Geass"},
+                {"uid": "1050194", "username": "DharmeshPHP"},
+                {"uid": "3493494", "username": "Zero"},
+                {"uid": "4246606", "username": "RTKN"},
+                {"uid": "4899375", "username": "guardian"},
+                {"uid": "3447157", "username": "Sleep"},
+                {"uid": "2942331", "username": "HackOnTheGo"},
+                {"uid": "3061124", "username": "wiz"},
+                {"uid": "4060744", "username": "123"},
+                {"uid": "888979", "username": "Lotus"},
+                {"uid": "1493034", "username": "Precisioη"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {"uid": "797403", "username": "630"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 490,
+        "date": 1612239203,
+        "pid": "60546879",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 490"
+    }
+}

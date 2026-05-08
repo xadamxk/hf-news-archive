@@ -1,0 +1,79 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Mentors Usergroup Removed",
+            "description": "Omniscient disbanded the Mentors official user group after the group's promised participation and help on the forum failed to materialize.",
+            "url": "https://hackforums.net/showthread.php?tid=6300398",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "MRT-X Usergroup Removed",
+            "description": "Omniscient removed the MRT-X official user group following the absence of leader Tha Sneak, who had been MIA for over two months.",
+            "url": "https://hackforums.net/showthread.php?tid=6300397",
+            "users": [
+                {"uid": "1", "username": "Omniscient"},
+                {"uid": "284502", "username": "Tha Sneak"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Jailbreaking, Modding, and Rooting Forum",
+            "description": "Omniscient launched a new subforum dedicated to Jailbreaking, Modding, and Rooting to better accommodate the growing discussions around these topics.",
+            "url": "https://hackforums.net/showthread.php?tid=6300774",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Rsynced received Quickly Loved. uid 1688768 received King Decade. uid 121196 received Asswipe and Flip Reaper. uid 952675 received Flip Reaper. uid 3888102, uid 5557166, and Goods received Green Apple.",
+            "url": "",
+            "users": [
+                {"uid": "630163", "username": "Rsynced"},
+                {"uid": "1688768", "username": ""},
+                {"uid": "121196", "username": ""},
+                {"uid": "952675", "username": ""},
+                {"uid": "3888102", "username": ""},
+                {"uid": "5557166", "username": ""},
+                {"uid": "1502934", "username": "Goods"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "uid 503372 reached 2,000 popularity.",
+            "url": "",
+            "users": [
+                {"uid": "503372", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus and Olympians groups remain listed for sale. MRT-X and Mentors groups deleted. Slots night announced ($100 buy-in, prize pool split among participants, with entry into Gamblers). NERO was added as a leader to Fallen.",
+            "url": "https://hackforums.net/showthread.php?tid=6300405",
+            "users": [
+                {"uid": "2650469", "username": "NERO"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 541,
+        "date": 1750526895,
+        "pid": "62767266",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Two"
+    }
+}

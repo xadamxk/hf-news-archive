@@ -1,0 +1,78 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Package has reached 1,000 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1345075",
+                    "username": "Package"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Pronouncer was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3396018",
+                    "username": "Pronouncer"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Riyu received the White Hat Helper award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "Riyu"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What makes you browse hackforums?",
+            "description": "oвѕervanт's thread asking what motivates members to browse HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5839813",
+            "users": [
+                {
+                    "uid": "1199829",
+                    "username": "oвѕervanт"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "First 100 members get 5$",
+            "description": "Kawen gave $5 to every member who posted within the first 100.",
+            "url": "https://hackforums.net/showthread.php?tid=5838660",
+            "users": [
+                {
+                    "uid": "3894729",
+                    "username": "Kawen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 392,
+        "date": 1527049924,
+        "pid": "57116635",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 392"
+    }
+}

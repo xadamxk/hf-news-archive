@@ -1,0 +1,142 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums Privacy Change (GDPR)",
+            "description": "Omniscient announced upcoming privacy changes in light of the EU's General Data Protection Regulation (GDPR), which sets guidelines for the collection and processing of personal information of EU individuals. Specific changes are still being finalized.",
+            "url": "https://hackforums.net/showthread.php?tid=5835124",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Azure is now a leader of Samaritans.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2214473",
+                    "username": "Azure"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Conor McGregor™ was banned, pending closure.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3328377",
+                    "username": "Conor McGregor™"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "129349",
+                    "username": "Eagle 95"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Nakamoto. was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1041725",
+                    "username": "Nakamoto."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Cight received the Dancing Queen award; Froggy received the Royalty award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "841866",
+                    "username": "Cight"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "5 years",
+            "description": "gringo gives his 5 year feedback on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5827733",
+            "users": [
+                {
+                    "uid": "1813735",
+                    "username": "gringo"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Commander's Testimonial",
+            "description": "Commander 11:11 gives his 8 year feedback on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=5825310",
+            "users": [
+                {
+                    "uid": "565244",
+                    "username": "Commander 11:11"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Are you an internet addict?",
+            "description": "The Pact's discussion thread on internet addiction.",
+            "url": "https://hackforums.net/showthread.php?tid=5807656",
+            "users": [
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "When did you get your first tattoo and why?",
+            "description": "Caliban's discussion on members' first tattoos.",
+            "url": "https://hackforums.net/showthread.php?tid=5835484",
+            "users": [
+                {
+                    "uid": "2682347",
+                    "username": "Caliban"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 391,
+        "date": 1526514253,
+        "pid": "57092579",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 391"
+    }
+}

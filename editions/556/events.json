@@ -1,0 +1,97 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Octoberfest 2025",
+            "description": "Octoberfest 2025 has launched. Omniscient announced a giveaway with over $2,000 in prizes, and the new Octoberfest 2025 award has been released.",
+            "url": "https://hackforums.net/showthread.php?tid=6309469",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 1871421 received Dicey. uid 5680404 received Bronze Tutorial. uid 952675 received Lounge Head. Yanix and The Pact received Stanley Fan. uid 666 received the Hustler award (Easter Egg). uid 5655318 received Dynamite (from Yakless contest). uid 2867558, uid 2667047, uid 698744, uid 2641906, uid 199485, uid 1237824, uid 870408, uid 508178, and uid 2303806 received King Decade. Octoberfest 2025 award earned by uid 4189082, uid 5418830, uid 761578, uid 2033319, Blazin, uid 666, uid 1021000, Yseurk, uid 6, Rsynced, oRequiem, uid 952675, uid 2641906, uid 1871421, and uid 5458992.",
+            "url": "",
+            "users": [
+                {"uid": "1871421", "username": ""},
+                {"uid": "5680404", "username": ""},
+                {"uid": "952675", "username": ""},
+                {"uid": "4273612", "username": "Yanix"},
+                {"uid": "1411092", "username": "The Pact"},
+                {"uid": "666", "username": ""},
+                {"uid": "5655318", "username": ""},
+                {"uid": "2867558", "username": ""},
+                {"uid": "2667047", "username": ""},
+                {"uid": "698744", "username": ""},
+                {"uid": "2641906", "username": ""},
+                {"uid": "199485", "username": ""},
+                {"uid": "1237824", "username": ""},
+                {"uid": "870408", "username": ""},
+                {"uid": "508178", "username": ""},
+                {"uid": "2303806", "username": ""},
+                {"uid": "4189082", "username": ""},
+                {"uid": "5418830", "username": ""},
+                {"uid": "761578", "username": ""},
+                {"uid": "2033319", "username": ""},
+                {"uid": "74674", "username": "Blazin"},
+                {"uid": "1021000", "username": ""},
+                {"uid": "3995095", "username": "Yseurk"},
+                {"uid": "6", "username": ""},
+                {"uid": "630163", "username": "Rsynced"},
+                {"uid": "2359475", "username": "oRequiem"},
+                {"uid": "5458992", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. Casino was sold to NERO.",
+            "url": "",
+            "users": [
+                {"uid": "2650469", "username": "NERO"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "uid 4550002 reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {"uid": "4550002", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Lavish Living was banned and pending closure.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Dotexe on vacation until November 4, 2025. uid 2436943 on vacation until December 4, 2025.",
+            "url": "",
+            "users": [
+                {"uid": "2580014", "username": "Dotexe"},
+                {"uid": "2436943", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 556,
+        "date": 1759782768,
+        "pid": "62840850",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 17"
+    }
+}

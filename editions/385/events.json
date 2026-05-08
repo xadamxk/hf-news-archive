@@ -1,0 +1,130 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Automatic Stickies Are Here!",
+            "description": "Omniscient announced the automatic paid sticky system is now live. Default pricing is $20 or $75 per month for non-custom sections, with custom pricing for PSS ($60/wk), MT ($40/wk), Lounge ($30/wk), CED ($30/wk), CEM ($25/wk), and CSI ($30/wk). Each section has a maximum of 6 stickies. Xerotic was credited for the plugin.",
+            "url": "https://hackforums.net/showthread.php?tid=5817046",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Trust Scan Enabled",
+            "description": "Omniscient enabled Trust Scan with new options including Password Reset in Last Week, Last Username Change, Special Characters in Username, and more. There are still issues with IPv6 compatibility and geo location setup, but those are being worked on.",
+            "url": "https://hackforums.net/showthread.php?tid=5816710",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Słade is now a leader of Equilibrium.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2205331",
+                    "username": "Słade"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1508976",
+                    "username": "Abraluna"
+                },
+                {
+                    "uid": "3215593",
+                    "username": "Medd"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Nasyr was closed; Tancrede was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2325259",
+                    "username": "Nasyr"
+                },
+                {
+                    "uid": "3731200",
+                    "username": "Tancrede"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Mr. Robot received the Diamond of Evil award for thread tid=5815765; Jamieee received the Lounge Head award.",
+            "url": "https://hackforums.net/showthread.php?tid=5815765",
+            "users": [
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "403479",
+                    "username": "Jamieee"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Sui Generis] The Power of Analysis",
+            "description": "Cight's overview of how powerful music analysis can be to music producers and listeners.",
+            "url": "https://hackforums.net/showthread.php?tid=5804973",
+            "users": [
+                {
+                    "uid": "841866",
+                    "username": "Cight"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Ultimate Beginner's Guide to Yu-Gi-Oh Duel Links",
+            "description": "Tsundere's guide for new Yu-Gi-Oh Duel Links players.",
+            "url": "https://hackforums.net/showthread.php?tid=5812961",
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 385,
+        "date": 1522871734,
+        "pid": "56912015",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 385"
+    }
+}

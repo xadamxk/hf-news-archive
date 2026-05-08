@@ -1,0 +1,42 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Valentine's Day BOGO Scratchcard Sale",
+            "description": "Omniscient announced buy-one-get-one-free crypto scratchcards for Valentine's Day.",
+            "url": "https://hackforums.net/showthread.php?tid=6049511",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Mafia leadership.",
+            "description": "Mix is now a leader of Mafia.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 457,
+        "date": 1582092690,
+        "pid": "59447472",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 457"
+    }
+}

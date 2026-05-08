@@ -1,0 +1,54 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Roadmap Progress",
+            "description": "Omniscient is making consistent progress through the HF roadmap, ticking off projects gradually.",
+            "url": "https://hackforums.net/showthread.php?tid=6299750",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 6 received Quickly Loved. uid 2370822 received Flip Reaper.",
+            "url": "",
+            "users": [
+                {"uid": "6", "username": ""},
+                {"uid": "2370822", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc groups remain listed for sale.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 5185438 on vacation until 14.08.2025. uid 5404814 on vacation until 08.09.2025.",
+            "url": "",
+            "users": [
+                {"uid": "5185438", "username": ""},
+                {"uid": "5404814", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 548,
+        "date": 1754916450,
+        "pid": "62801918",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Nine"
+    }
+}

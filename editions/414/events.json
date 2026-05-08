@@ -1,0 +1,128 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bonus Earning on Bytes Based on Usergroup",
+            "description": "Members can now earn bonus Bytes based on their usergroup, with each usergroup having an allotted percentage.",
+            "url": "https://hackforums.net/showthread.php?tid=5898991",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Daily Bytes Bonus of 250",
+            "description": "Omniscient added a daily bonus where one eligible member is picked at random to receive 250 bonus Bytes. To be eligible, a member must have donated at least 10 Bytes to another member.",
+            "url": "https://hackforums.net/showthread.php?tid=5899290",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Dicey Gambler Award",
+            "description": "The Dicey award is now randomly awarded when playing Slots or Blackjack — 1 in 2,500 chance per spin/hand, awarded only once per member.",
+            "url": "https://hackforums.net/showthread.php?tid=5900273",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Stratify has achieved 5,000 posts; WageWolf has reached 1,000 Popularity; ❤️BowmanBot❤️ has reached 500 reported posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2295175",
+                    "username": "Stratify"
+                },
+                {
+                    "uid": "3860356",
+                    "username": "WageWolf"
+                },
+                {
+                    "uid": "1651695",
+                    "username": "❤️BowmanBot❤️"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Verified Vendor upgrades",
+            "description": "Juffar and Honey Singh have been upgraded to verified Vendor.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3748558",
+                    "username": "Juffar"
+                },
+                {
+                    "uid": "1443720",
+                    "username": "Honey Singh"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Jukeboxhook was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3861180",
+                    "username": "Jukeboxhook"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Vaxton was closed as a result of deal disputes; Trappy was closed as a result of deal disputes.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3696619",
+                    "username": "Vaxton"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "SuperPom purchased the Xerotic Bot DNA award; xadamxk won the Dicey award via slots; Impsy won the Dicey award via slots.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3134890",
+                    "username": "SuperPom"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "2830652",
+                    "username": "Impsy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 414,
+        "date": 1541055465,
+        "pid": "57804826",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 414"
+    }
+}

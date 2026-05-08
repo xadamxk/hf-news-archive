@@ -1,0 +1,128 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "BH-Escrow Scams",
+            "description": "A group of scammers were found running an escrow site (BH-Escrow.com) targeting new members. Members encouraging its use should be reported to Omniscient.",
+            "url": "https://hackforums.net/showthread.php?tid=6255924",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Group Thread Prefix Removal Tool",
+            "description": "A new GroupCP tool allows group owners to enter a TID to reset/empty a thread's group prefix, addressing requests for prefix removal when members leave a group.",
+            "url": "https://hackforums.net/showthread.php?tid=6256517",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Hack Friday Custom Award Sale",
+            "description": "For Hack Friday 2023, members were given the opportunity to purchase their own custom award and the ability to grant it to other members depending on the package.",
+            "url": "https://hackforums.net/showthread.php?tid=6256973",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Marketers, and COINED groups remain listed for sale. The Feds, BlackCats, Mafia, and Red Lions crews remain listed for sale.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Sky was granted The Protector, Support Feather, and Cool awards. Proof received the Cool and Da' Bomb awards. uid 4229993 earned the Black Hatter award for the second time.",
+            "url": "",
+            "users": [
+                {"uid": "5002443", "username": "Sky"},
+                {"uid": "18", "username": "Proof"},
+                {"uid": "4229993", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "uid 1391436 reached 2,000 popularity.",
+            "url": "",
+            "users": [
+                {"uid": "1391436", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "uid 3550129 requested closure of his account. uid 4229993 was banned and shortly after unbanned. uid 5270491 was permanently banned (account under investigation). uid 5362586 was closed for luring members off-site to scam them. uid 1404526 was closed for threatening members' lives after being banned. Many ban-evaders were also banned.",
+            "url": "",
+            "users": [
+                {"uid": "3550129", "username": ""},
+                {"uid": "4229993", "username": ""},
+                {"uid": "5270491", "username": ""},
+                {"uid": "5362586", "username": ""},
+                {"uid": "1404526", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 3498413 took a 6-month vacation ban. uid 230053 took a 6-month vacation ban.",
+            "url": "",
+            "users": [
+                {"uid": "3498413", "username": ""},
+                {"uid": "230053", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hack Friday Upgrades Sale",
+            "description": "A limited-time offer gave members the opportunity to purchase lifetime memberships of L33t and Ub3r.",
+            "url": "https://hackforums.net/showthread.php?tid=6256985",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Hack Friday Leftovers",
+            "description": "Several previously-released awards were listed for purchase with bytes for a limited time. Prices were doubled from last year's Hack Friday Leftovers sale.",
+            "url": "https://hackforums.net/showthread.php?tid=6257112",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Group Leader Limits",
+            "description": "After a group owner abused the power of granting leadership, Omniscient added limitations to prevent future abuse of the feature.",
+            "url": "https://hackforums.net/showthread.php?tid=6255503",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Group Threads - Public Discussion",
+            "description": "Discussion was opened about potentially adding a page on showgroups.php displaying select threads from each group for public view.",
+            "url": "https://hackforums.net/showthread.php?tid=6255928",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Cyber Monday Scratchcards & Gift Awards",
+            "description": "Buy-one-get-one-free scratchcards on Cyber Monday; $100+ purchasers received the Gift Award 2023. A new Yellow Gift Award 2023 was also added.",
+            "url": "https://hackforums.net/showthread.php?tid=6257317",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 539,
+        "date": 1701290420,
+        "pid": "62199868",
+        "author_uid": "5002443",
+        "subject": "[Happy Holidays] Hack Forums News // E.539 // December 2023"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hackuman Invisibility",
+            "description": "A new Invisibility item was added to Hackuman, allowing members to hide from the battle page until they attack.",
+            "url": "https://hackforums.net/showthread.php?tid=6062658",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Crew Tier Changes",
+            "description": "Crew tiers were altered.",
+            "url": "https://hackforums.net/showthread.php?tid=6063380",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Phishing Attempts",
+            "description": "A member was caught attempting phishing on HF and was banned. Members reminded to stay safe.",
+            "url": "https://hackforums.net/showthread.php?tid=6063789",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Monopoly leadership.",
+            "description": "Mix is now a leader of Monopoly.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Instagram has reached 1,000 popularity; Sir Capalot has been a member for 10 years; Deal has been a member for 10 years",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1362017",
+                    "username": "Instagram"
+                },
+                {
+                    "uid": "261072",
+                    "username": "Sir Capalot"
+                },
+                {
+                    "uid": "151894",
+                    "username": "Deal"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Montana was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4236400",
+                    "username": "Montana"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 463,
+        "date": 1586312124,
+        "pid": "59607305",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 463"
+    }
+}

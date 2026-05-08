@@ -1,0 +1,89 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HackForums Official X Account Unsuspended",
+            "description": "Omniscient announced his official X account was reinstated after a suspension he believes was caused by a disgruntled forum member. He has upgraded to a premium account to avoid future issues.",
+            "url": "https://hackforums.net/showthread.php?tid=6300857",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HackForums Custom Cursor",
+            "description": "As part of the ongoing theme refresh, Omniscient is trialing custom cursors, including a gradient green cursor.",
+            "url": "https://hackforums.net/showthread.php?tid=6300873",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Userscripts and HF Rate Limits",
+            "description": "Omniscient updated HF's firewall and added rate limits to combat bots and DDoS attacks. Members blocked due to browser userscripts (e.g., Convo scripts) should disable them and try again in about 10 minutes.",
+            "url": "https://hackforums.net/showthread.php?tid=6301422",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "The Joker received the Flip Reaper award. Chronic. and Houtarou received the King Decade award.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus and Olympians groups remain listed for sale. Fallen was sold to uid 811. uid 1441945, Charlie Sheen, uid 5343398, uid 856220, NERO, and uid 5568595 were all removed as leaders of Fallen. Comics (uid 2331053) was added as a leader of Warriors.",
+            "url": "https://hackforums.net/showthread.php?tid=6298053",
+            "users": [
+                {"uid": "811", "username": ""},
+                {"uid": "1441945", "username": ""},
+                {"uid": "123", "username": "Charlie Sheen"},
+                {"uid": "5343398", "username": ""},
+                {"uid": "856220", "username": ""},
+                {"uid": "2650469", "username": "NERO"},
+                {"uid": "5568595", "username": ""},
+                {"uid": "2331053", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Immortal reached 2,000 popularity. Cap was given Staff.",
+            "url": "",
+            "users": [
+                {"uid": "57618", "username": "Cap"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 503372 on vacation until 06.07.2025. uid 279955 on vacation until 20.12.2025. uid 5417626 on vacation until 16.12.2025. uid 4958438 on vacation until 07.07.2025.",
+            "url": "",
+            "users": [
+                {"uid": "503372", "username": ""},
+                {"uid": "279955", "username": ""},
+                {"uid": "5417626", "username": ""},
+                {"uid": "4958438", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 542,
+        "date": 1751131740,
+        "pid": "62771483",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Three"
+    }
+}

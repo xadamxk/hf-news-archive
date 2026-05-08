@@ -1,0 +1,104 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Group Prefixes",
+            "description": "Omniscient implemented custom group prefixes for threads, giving group owners the option to select from a list of custom usergroup themes. The idea was suggested by -Scrub.",
+            "url": "https://hackforums.net/showthread.php?tid=6245869",
+            "users": [
+                {"uid": "1", "username": "Omniscient"},
+                {"uid": "4227846", "username": "-Scrub"}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "The Fallen Have Arrived",
+            "description": "NulldB purchased the former group Revenge and rebranded it to Fallen, intending to focus on increasing content/activity and on blackhat content.",
+            "url": "https://hackforums.net/showthread.php?tid=6245862",
+            "users": [
+                {"uid": "7", "username": "NulldB"}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "uid 1342286 is offering to lease his group to any approved member. Succucbus and Marketers remain listed for sale. Revenge was purchased by NulldB. BlackCats, Cult, and Mafia crews remain listed for sale.",
+            "url": "",
+            "users": [
+                {"uid": "1342286", "username": ""},
+                {"uid": "7", "username": "NulldB"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Sky (uid 5002443) received six awards. uid 5185438 reached 2,000 posts and 3,000 popularity. uid 3260999 reached 2,000 posts.",
+            "url": "",
+            "users": [
+                {"uid": "5002443", "username": "Sky"},
+                {"uid": "5185438", "username": ""},
+                {"uid": "3260999", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "49 bans for the month, 46 of which were permanent. uid 5184709 was banned for harassing members.",
+            "url": "",
+            "users": [
+                {"uid": "5184709", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "funtela was closed for open disputes. uid 2061024 was closed for open disputes but reopened shortly after.",
+            "url": "",
+            "users": [
+                {"uid": "1610871", "username": "funtela"},
+                {"uid": "2061024", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hackúman Season 2 Ending",
+            "description": "Omniscient announced the end of Hackúman Season 2 on August 1st and the start of Season 3, with discussion about new incentives to engage crews and members.",
+            "url": "https://hackforums.net/showthread.php?tid=6247982",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Bytes for Profit",
+            "description": "uid 1342286 is offering buy-ins to his custom usergroup Profit at 1,000 bytes per entry, granting membership and access to its private subforum.",
+            "url": "https://hackforums.net/showthread.php?tid=6245375",
+            "users": [
+                {"uid": "1342286", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF News Support Contest Winner",
+            "description": "uid 4210348 won the July HF News Support Signature drawing.",
+            "url": "https://hackforums.net/showthread.php?tid=6248074",
+            "users": [
+                {"uid": "4210348", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 535,
+        "date": 1690766194,
+        "pid": "62044477",
+        "author_uid": "5002443",
+        "subject": "Hack Forums News // E.535 // August 2023"
+    }
+}

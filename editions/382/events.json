@@ -1,0 +1,138 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums Downtime and Fixes",
+            "description": "After Sunday downtime caused by a database issue from the MyBB 1.8x upgrade, Omniscient resolved the issue and made several improvements. Search is vastly improved with a 3-character minimum and 500 results limit.",
+            "url": "https://hackforums.net/showthread.php?tid=5810175",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Pruning Posts",
+            "description": "Roughly 6 million Lounge posts were pruned to free up server space.",
+            "url": "https://hackforums.net/showthread.php?tid=5807637",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "mael is now a leader of Sui Generis.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1314004",
+                    "username": "mael"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Ⱥnima has reached 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2947800",
+                    "username": "Ⱥnima"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Hydraxus was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3433475",
+                    "username": "Hydraxus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Tom Cruise received the Cool award; Biggy received The Protector award; Cammy received the Jokester award; Friedrich Nietzsche received the Sticky Man award for his Philosophical Debate 101 thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5719242",
+            "users": [
+                {
+                    "uid": "3372466",
+                    "username": "Tom Cruise"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                },
+                {
+                    "uid": "2219785",
+                    "username": "Cammy"
+                },
+                {
+                    "uid": "3470779",
+                    "username": "Friedrich Nietzsche"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Philosophical Debate 101 ~ A brief guide to setting up strong philosophical arguments",
+            "description": "Friedrich Nietzsche's guide to constructing strong philosophical arguments.",
+            "url": "https://hackforums.net/showthread.php?tid=5719242",
+            "users": [
+                {
+                    "uid": "3470779",
+                    "username": "Friedrich Nietzsche"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "The Ultimate Beginner's Guide to Love Live's Music",
+            "description": "Tsundere's anime-related guide to Love Live's music.",
+            "url": "https://hackforums.net/showthread.php?tid=5806022",
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What is your WIFI name?",
+            "description": "CryzonServices' thread asking members to share their WiFi network names.",
+            "url": "https://hackforums.net/showthread.php?tid=5808018",
+            "users": [
+                {
+                    "uid": "2614160",
+                    "username": "CryzonServices"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 382,
+        "date": 1520968681,
+        "pid": "56807651",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 382"
+    }
+}

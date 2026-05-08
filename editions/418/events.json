@@ -1,0 +1,94 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Cryptic™ has reached 15,000 posts; Evanescent has reached 5,000 posts; Durham has surpassed 2,000 Popularity",
+            "url": "",
+            "users": [
+                {
+                    "uid": "716331",
+                    "username": "Cryptic™"
+                },
+                {
+                    "uid": "1456867",
+                    "username": "Evanescent"
+                },
+                {
+                    "uid": "1800872",
+                    "username": "Durham"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bytes glitch exploited",
+            "description": "Zack Fair discovered a Bytes glitch that granted him 66 million Bytes.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1228690",
+                    "username": "Zack Fair"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Ninetales. was closed indefinitely.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1812679",
+                    "username": "Ninetales."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "muzzy was granted the Dicey award via slots; Evanescent won the Dicey award via Blackjack; Nuworld purchased November's Xerotic Bot DNA award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1624866",
+                    "username": "muzzy"
+                },
+                {
+                    "uid": "1456867",
+                    "username": "Evanescent"
+                },
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 418,
+        "date": 1543476452,
+        "pid": "57942969",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 418"
+    }
+}

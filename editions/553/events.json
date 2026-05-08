@@ -1,0 +1,75 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "SRPP Deleted",
+            "description": "Omniscient deleted the entire SRPP (Sex/Religion/Politics/Philosophy) category from HF, removing nearly 1 million posts, in order to refocus the forum on hacking and tech rather than political/religious discussion.",
+            "url": "https://hackforums.net/showthread.php?tid=6308021",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 1987062 received Green Apple. uid 583721 received King Decade. uid 5 received Stanley Fan.",
+            "url": "",
+            "users": [
+                {"uid": "1987062", "username": ""},
+                {"uid": "583721", "username": ""},
+                {"uid": "5", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus, Olympians, Benevolence, and Mystery Inc remain listed for sale. Fidelity was sold to uid 2033319 and rebranded to Quantum.",
+            "url": "https://hackforums.net/showthread.php?tid=6307026",
+            "users": [
+                {"uid": "2033319", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Proof reached 4,000 popularity.",
+            "url": "",
+            "users": [
+                {"uid": "18", "username": "Proof"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "uid 3098194 was banned. uid 5689546 was closed. SKY NET was banned.",
+            "url": "",
+            "users": [
+                {"uid": "3098194", "username": ""},
+                {"uid": "5689546", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "KinGxKeV on vacation until Feb 29, 2026.",
+            "url": "",
+            "users": [
+                {"uid": "533443", "username": "KinGxKeV"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 553,
+        "date": 1757958498,
+        "pid": "62822228",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 14"
+    }
+}

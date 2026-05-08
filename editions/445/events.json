@@ -1,0 +1,186 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Live Convo Chat Room for HF",
+            "description": "Omniscient released a public chat room accessible to all members at hackforums.net/convo.php.",
+            "url": "https://hackforums.net/showthread.php?tid=6007040",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Official HF SportsBook Now Open",
+            "description": "Omniscient launched the HF SportsBook, allowing members to bet on sports teams using HF Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=6012753",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Paid Bytes Bump (PBB)",
+            "description": "Omniscient added Paid Bytes Bump, allowing users to bump their threads at the cost of Bytes to combat low-quality posting.",
+            "url": "https://hackforums.net/showthread.php?tid=6011110",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Mobile Navigation Changes",
+            "description": "Xerotic announced changes to the mobile navigation system.",
+            "url": "https://hackforums.net/showthread.php?tid=6010874",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Award Goals (24k and SportsBook)",
+            "description": "The 24k and SportsBook awards were added to the Award Goals system.",
+            "url": "https://hackforums.net/showthread.php?tid=6013287",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Daily Bytes Donation Bonus",
+            "description": "Members now have a chance of being awarded Bytes for donating to other members.",
+            "url": "https://hackforums.net/showthread.php?tid=6003823",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Profile Analytics",
+            "description": "Members can now check their profile statistics over a 28-day period — including profile visitors, posts, threads, popularity, blogs, contracts, and best responses.",
+            "url": "https://hackforums.net/showthread.php?tid=6015418",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Stanley PBB Update",
+            "description": "If a Paid Bytes Bump already exists in a thread, it now updates the timestamp instead of being added again — limiting threads to a single PBB.",
+            "url": "https://hackforums.net/showthread.php?tid=6017128",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "luke won Member of the Month for September 2019.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2295175",
+                    "username": "luke"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "webdev77 has reached 24k posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "947940",
+                    "username": "webdev77"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "*Subutex* was permanently banned for hosting a fake contest.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4414169",
+                    "username": "*Subutex*"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1441945",
+                    "username": "M0HX"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "FBI received The Protector award for reporting XSS; BTC received the Dunce award; Vyrez. was granted the Hustler and Alien awards; Vanilla received the Star award for his $1,000 contest.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1552290",
+                    "username": "FBI"
+                },
+                {
+                    "uid": "3739930",
+                    "username": "BTC"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                },
+                {
+                    "uid": "3921080",
+                    "username": "Vanilla"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 445,
+        "date": 1571419997,
+        "pid": "59064705",
+        "author_uid": "900087",
+        "subject": "Hack Forums News  // Edition 445"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Edit Time Limit Increase",
+            "description": "Omniscient increased post Edit Time Limits: Ub3r and r00t (180 days), L33t (90 days), and Vendors (unlimited). Paid Stickies and threads with Sales Tags are also exempted.",
+            "url": "https://hackforums.net/showthread.php?tid=5908868",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 417,
+        "date": 1542841395,
+        "pid": "57911671",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 417"
+    }
+}

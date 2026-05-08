@@ -1,0 +1,130 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bytes Per Post Increased",
+            "description": "Omniscient announced an increase in bytes earned per post: regular members now receive 3 bytes/post (up from 1), L33t members 4.5/post, and Ub3r members 6/post.",
+            "url": "https://hackforums.net/showthread.php?tid=6253697",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "E-Whoring Rebranded",
+            "description": "The E-Whoring section was rebranded to Adult Content Management during Octoberfest, and its forum icon was replaced with a new design.",
+            "url": "https://hackforums.net/showthread.php?tid=6253543",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Crew Userbars Update",
+            "description": "The maximum file size for custom crew userbars was increased from 60k to 150k.",
+            "url": "https://hackforums.net/showthread.php?tid=6252933",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Blacklisted was purchased by uid 503372. Succubus, Marketers, COINED, and Profit groups remain listed for sale. The Feds crew was newly listed for sale by uid 4229993; BlackCats, Mafia, and Red Lions crews remain listed for sale.",
+            "url": "",
+            "users": [
+                {"uid": "503372", "username": ""},
+                {"uid": "4229993", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 2119467 received the Sticky Man award (cardiovascular system guide) and the White Hat Helper award (Health Wise contributions). 123 received the Silver Medal award (giving away free L33T upgrades). uid 666 received the MAGAs of the Universe award. uid 230053 received the Music Lover award. Sky received the Qwazz Star and iHydra awards. Proof received the Infamous Delta award.",
+            "url": "",
+            "users": [
+                {"uid": "2119467", "username": ""},
+                {"uid": "123", "username": ""},
+                {"uid": "666", "username": ""},
+                {"uid": "230053", "username": ""},
+                {"uid": "5002443", "username": "Sky"},
+                {"uid": "18", "username": "Proof"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "uid 666 and Sky each reached 5,000 posts. Yseurk reached 2,000 popularity points. uid 666 reached 3,000 positive b-ratings without a negative rating.",
+            "url": "",
+            "users": [
+                {"uid": "666", "username": ""},
+                {"uid": "5002443", "username": "Sky"},
+                {"uid": "3995095", "username": "Yseurk"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Convo Moderators Appointed",
+            "description": "Proof and uid 5185438 were appointed as HF Convo moderators.",
+            "url": "https://hackforums.net/convo.php",
+            "users": [
+                {"uid": "18", "username": "Proof"},
+                {"uid": "5185438", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Mr. Robot was closed for scamming a member for $8,000. uid 5307571 was closed for scamming members. LoremIpsum was banned for excessive deal disputes. uid 801999 received a 2-day ban for making false reports. Many ban-evaders were banned/closed during October.",
+            "url": "",
+            "users": [
+                {"uid": "2682887", "username": "Mr. Robot"},
+                {"uid": "5307571", "username": ""},
+                {"uid": "4362613", "username": "LoremIpsum"},
+                {"uid": "801999", "username": ""}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Nuts, uid 1363555, and uid 5051324 each took 1-month vacation bans.",
+            "url": "",
+            "users": [
+                {"uid": "317107", "username": "Nuts"},
+                {"uid": "1363555", "username": ""},
+                {"uid": "5051324", "username": ""}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Award Price Increase",
+            "description": "The Bytes Bag award will be revalued to 30,000 bytes starting November 1st, with continued price increases planned over time.",
+            "url": "https://hackforums.net/showthread.php?tid=6253533",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Captcha Removed",
+            "description": "After complaints, the Cloudflare Captcha was removed to make posting and replying to PMs easier for newer members. The change may be reverted if problematic.",
+            "url": "https://hackforums.net/showthread.php?tid=6254110",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Warning Level Changes",
+            "description": "The Warning System was adjusted to be less harsh: posting limitation times and ban lengths were both reduced.",
+            "url": "https://hackforums.net/showthread.php?tid=6253534",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 538,
+        "date": 1698770162,
+        "pid": "62170467",
+        "author_uid": "5002443",
+        "subject": "Hack Forums News // E.538 // November 2023"
+    }
+}

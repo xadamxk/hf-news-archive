@@ -1,0 +1,196 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Out With the DOGE, in With the BCH",
+            "description": "Omniscient announced that Dogecoin will no longer be accepted for site transactions, with the immediate suspension of the Dogecoinage award. Bitcoin Cash support was added in its place — it can be used for all site transactions, and the new BTCash award can be obtained by donating $50 worth of Bitcoin Cash.",
+            "url": "https://hackforums.net/showthread.php?tid=5764843",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "No More Notification Delays",
+            "description": "Omniscient applied a fix for a MyBB bug that had caused large delays in private message and email notifications. Notifications should now arrive within ten minutes.",
+            "url": "https://hackforums.net/showthread.php?tid=5765760",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group rebrands.",
+            "description": "Notorious has been rebranded to MRT. Revolution has been rebranded to Thorium.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership and leadership changes.",
+            "description": "Vitani is no longer the owner of Notorious. Factor8™ is no longer the owner of Escrow. Honey Singh is no longer a leader of Escrow. DenizZ is now a leader of Thorium. Divined is now the owner of Escrow and MRT. c$sh is now a leader of Escrow and MRT. Billie Joe is now a leader of Escrow.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "103669",
+                    "username": "Factor8™"
+                },
+                {
+                    "uid": "1443720",
+                    "username": "Honey Singh"
+                },
+                {
+                    "uid": "3541671",
+                    "username": "DenizZ"
+                },
+                {
+                    "uid": "2292899",
+                    "username": "Divined"
+                },
+                {
+                    "uid": "2414597",
+                    "username": "c$sh"
+                },
+                {
+                    "uid": "2052441",
+                    "username": "Billie Joe"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Ombra has reached 500 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1454187",
+                    "username": "Ombra"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Sorzus was banned, account under investigation; Result was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2883763",
+                    "username": "Sorzus"
+                },
+                {
+                    "uid": "1101709",
+                    "username": "Result"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Nevieth was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "988432",
+                    "username": "Nevieth"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Cameron received the Cool award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "r0flez > 3 Years",
+            "description": "r0flez shares his feedback after being on Hack Forums for 3 years.",
+            "url": "https://hackforums.net/showthread.php?tid=5764802",
+            "users": [
+                {
+                    "uid": "2310772",
+                    "username": "r0flez"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Tutorial Ethereum Transaction Not Appearing or Still Pending? Read here how to fix it!",
+            "description": "Kill Joy's tutorial on resolving stuck or missing Ethereum transactions.",
+            "url": "https://hackforums.net/showthread.php?tid=5764923",
+            "users": [
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[UNITY] How to start a (freelance) company as a programmer",
+            "description": "El Pusstolero's tutorial on starting a company as a programmer.",
+            "url": "https://hackforums.net/showthread.php?tid=5762648",
+            "users": [
+                {
+                    "username": "El Pusstolero"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "16 months in jail",
+            "description": "Xerotic, an older HF member, explains his recent inactivity throughout the past year and a half.",
+            "url": "https://hackforums.net/showthread.php?tid=5764604",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 373,
+        "date": 1513066960,
+        "pid": "56354311",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 373"
+    }
+}

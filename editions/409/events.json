@@ -1,0 +1,82 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Official Group - Vendor",
+            "description": "Omniscient affirmed he will soon be adding a new official group, Vendor, which will be marketplace and contracts oriented. The group will have extra permissions and features, and members can purchase a spot subject to Omniscient personally inspecting profiles.",
+            "url": "https://hackforums.net/showthread.php?tid=5886079",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "iHydra removed from Admin",
+            "description": "iHydra has been removed from the Admin user group after completing his involvement on the new Hack Forums theme.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Bluffer has reached over 15,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1382464",
+                    "username": "Bluffer"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "ToXiiC was closed for exit scamming.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "403070",
+                    "username": "ToXiiC"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Kill Joy donated for his 6th Grand Amethyst award; Confound received the Heart of the Lion award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                },
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 409,
+        "date": 1537931814,
+        "pid": "57641150",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 409"
+    }
+}

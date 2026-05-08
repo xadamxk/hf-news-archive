@@ -1,0 +1,70 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hackuman - Ruby Egg",
+            "description": "A new Ruby egg was added to Hackuman, intended to be more powerful than the green egg but not as powerful as the blue eggs. Balancing is still in progress.",
+            "url": "https://hackforums.net/showthread.php?tid=6065592",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hackuman - Special Powers & Effects",
+            "description": "Hackuman now supports special attacks with status effects similar to Pokémon (confusion, sleep, etc.).",
+            "url": "https://hackforums.net/showthread.php?tid=6065540",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Dorrance now owns Samaritans; Nаte is now a leader of Skill.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2185870",
+                    "username": "Dorrance"
+                },
+                {
+                    "uid": "1087815",
+                    "username": "Nаte"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Deployed was banned and closed for asking for fake vouches.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3656600",
+                    "username": "Deployed"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 464,
+        "date": 1587013389,
+        "pid": "59642177",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 464"
+    }
+}

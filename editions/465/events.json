@@ -1,0 +1,41 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Official Stats Overhaul",
+            "description": "HF overhauled the statistics page with TABS for more accurate details, updated once daily.",
+            "url": "https://hackforums.net/showthread.php?tid=6069550",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "The Brotherhood ownership.",
+            "description": "Nuworld is the new owner of The Brotherhood; Sick is a leader of The Brotherhood.",
+            "url": "https://hackforums.net/showthread.php?tid=6069465",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "1839849",
+                    "username": "Sick"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 465,
+        "date": 1587587627,
+        "pid": "59676363",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 465"
+    }
+}

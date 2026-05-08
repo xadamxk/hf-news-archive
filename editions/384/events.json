@@ -1,0 +1,166 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "More Hack Forums Improvements",
+            "description": "Omniscient gave updates on ongoing work: Viral Dragon helped move the Wiki site to wiki.hackforums.net on a new server with better specs; Xerotic is finishing the Paid Stickies plugin (target: Monday); Trust Scan went live during the week.",
+            "url": "https://hackforums.net/showthread.php?tid=5814556",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "ScreemS is now a leader of Influence. Nuworld, Aerodactyl, and Japanese are no longer leaders of Influence. Ninetales. is now a leader of Dawn.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1729678",
+                    "username": "ScreemS"
+                },
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                },
+                {
+                    "uid": "1812679",
+                    "username": "Ninetales."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Lukas has reached 5,000 extremely low quality posts; Testaccountplsignore has reached 1,000 prestige",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                },
+                {
+                    "uid": "3090794",
+                    "username": "Testaccountplsignore"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Novica becomes Rate My Graphic moderator",
+            "description": "Novica is now a moderator of the Rate My Graphic sub-forum.",
+            "url": "https://hackforums.net/forumdisplay.php?fid=133",
+            "users": [
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Omar～っ☆ was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2883005",
+                    "username": "Omar～っ☆"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Haseo™ received the Lounge Head award; Ty ™ received the Lounge Head award; Theocritus received the Lounge Head award; dickbreath received the Lounge Head award; The Virus received the Lounge Head award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1339775",
+                    "username": "Haseo™"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "Ty ™"
+                },
+                {
+                    "uid": "3159088",
+                    "username": "Theocritus"
+                },
+                {
+                    "uid": "1648934",
+                    "username": "dickbreath"
+                },
+                {
+                    "uid": "2953723",
+                    "username": "The Virus"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Sui Generis] Quick Selection Tool",
+            "description": "oRequiem's graphics tutorial covering the Quick Selection tool.",
+            "url": "https://hackforums.net/showthread.php?tid=5805146",
+            "users": [
+                {
+                    "uid": "2359475",
+                    "username": "oRequiem"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Sui Generis] Music Appreciation",
+            "description": "+Cloud's guide on learning to appreciate music.",
+            "url": "https://hackforums.net/showthread.php?tid=5805041",
+            "users": [
+                {
+                    "uid": "1049178",
+                    "username": "+Cloud"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "works | Tutorial Tuesday #5 [How To Price Design Services]",
+            "description": "Rivalry's guide on pricing design services.",
+            "url": "https://hackforums.net/showthread.php?tid=5813821",
+            "users": [
+                {
+                    "uid": "1138866",
+                    "username": "Rivalry"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 384,
+        "date": 1522114484,
+        "pid": "56871965",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 384"
+    }
+}

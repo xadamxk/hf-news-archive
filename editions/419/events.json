@@ -1,0 +1,77 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Clover Awards Deactivated and Deprecated",
+            "description": "Omniscient deprecated the 3 Lucky Clover awards for random posting; he may substitute them with new ones eventually.",
+            "url": "https://hackforums.net/showthread.php?tid=5914160",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Donation Awards Retired and Replaced",
+            "description": "Omniscient removed almost all Donation Awards (besides The Ace of Spades) and substituted them with six new awards.",
+            "url": "https://hackforums.net/showthread.php?tid=5913330",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Vendor Group Feature",
+            "description": "Vendors now have profile pages and additional Market CP controls — including Marketplace thread listings and an editable profile with MyCode.",
+            "url": "https://hackforums.net/showthread.php?tid=5915495",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Mimikyu has obtained his first 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2890436",
+                    "username": "Mimikyu"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "WageWolf was closed indefinitely; Armada was permanently closed per request.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3860356",
+                    "username": "WageWolf"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 419,
+        "date": 1544140383,
+        "pid": "57978960",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 419"
+    }
+}

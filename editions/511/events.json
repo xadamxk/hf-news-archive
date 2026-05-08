@@ -1,0 +1,59 @@
+{
+    "events": [
+        {
+            "category": "groups",
+            "title": "New HF Group: Reverie",
+            "description": "Xerotic was given a new HF group called Reverie.",
+            "url": "https://hackforums.net/showgroups.php",
+            "users": [
+                {"uid": "175033", "username": "Xerotic"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "ningjingdexiatian reached 1,000 posts; Stellen Sie TT reached 1,000 posts; Lindros reached 8,000 posts; Aeowulf reached 6,000 posts; Sigma reached the 1,000 threads milestone; wiz reached 2,000 posts.",
+            "url": "",
+            "users": [
+                {"uid": "4227294", "username": "ningjingdexiatian"},
+                {"uid": "2731966", "username": "Stellen Sie TT"},
+                {"uid": "4204275", "username": "Lindros"},
+                {"uid": "1486387", "username": "Aeowulf"},
+                {"uid": "89554", "username": "Sigma"},
+                {"uid": "3061124", "username": "wiz"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Fiτis was banned for leaking and blackmail.",
+            "url": "",
+            "users": [
+                {"uid": "334563", "username": "Fiτis"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hacktivism Forum Section",
+            "description": "Omniscient is gauging interest in adding a Hacktivism forum section.",
+            "url": "https://hackforums.net/showthread.php?tid=6176743",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 511,
+        "date": 1634693111,
+        "pid": "61080928",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 511"
+    }
+}

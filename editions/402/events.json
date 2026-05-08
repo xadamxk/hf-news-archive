@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Meow has reached 1,000 reputation; Trappy has provided Hack Forums with 5,000 terribly low-quality posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Jamieee received the Drunk award for 'Toasting your 8th Anniversary' for his thread; Mining Turtle received the Dog Lover award.",
+            "url": "https://hackforums.net/showthread.php?tid=5865775",
+            "users": [
+                {
+                    "uid": "403479",
+                    "username": "Jamieee"
+                },
+                {
+                    "uid": "3886274",
+                    "username": "Mining Turtle"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I Finished the HF Scavenger Hunt",
+            "description": "xadamxk became the first user to finish the HF scavenger hunt hosted by Xerotic and Steve.",
+            "url": "https://hackforums.net/showthread.php?tid=5870369",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Celebrity Crush",
+            "description": "TayK's thread asking members to share their celebrity crushes.",
+            "url": "https://hackforums.net/showthread.php?tid=5869089",
+            "users": [
+                {
+                    "uid": "3860356",
+                    "username": "TayK"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 402,
+        "date": 1533676706,
+        "pid": "57442064",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 402"
+    }
+}

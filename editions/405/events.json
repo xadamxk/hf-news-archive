@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "iHydra temporarily promoted to Administrator",
+            "description": "Writers' overlord iHydra has been temporarily promoted to Administrator to help assist in the implementation and development of Hack Forums' new 'Mobale' theme.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "duepi has reached 2,000 reputation; Stratify has reached 5,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3661602",
+                    "username": "duepi"
+                },
+                {
+                    "uid": "2295175",
+                    "username": "Stratify"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "thales was closed; Woods was closed for a deal dispute.",
+            "url": "https://hackforums.net/showthread.php?tid=5877302",
+            "users": [
+                {
+                    "uid": "2448195",
+                    "username": "thales"
+                },
+                {
+                    "uid": "3185629",
+                    "username": "Woods"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "muzzy. was granted the Ninja award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1624866",
+                    "username": "muzzy."
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 405,
+        "date": 1536067966,
+        "pid": "57557768",
+        "author_uid": "1999047",
+        "subject": "Hack Forums News // Edition 405"
+    }
+}

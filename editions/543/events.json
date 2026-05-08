@@ -1,0 +1,122 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "The Great Purge Day",
+            "description": "Omniscient declared \"The Great Purge Day,\" permanently banning and erasing a select group of members deemed to be damaging the business and driving members away.",
+            "url": "https://hackforums.net/showthread.php?tid=6302035",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Public Convo Closure",
+            "description": "After multiple reports of doxing and harassment, Omniscient closed the public conversation room. Plans for private rooms within Convo were mentioned.",
+            "url": "https://hackforums.net/showthread.php?tid=6301947",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "VIP Group Subforums CSS Changes",
+            "description": "Omniscient updated VIP Group Subforums with custom CSS reflecting the unique name colors of each group.",
+            "url": "https://hackforums.net/showthread.php?tid=6301729",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New L33T & UB3R Userbar Design",
+            "description": "Omniscient revamped the L33T and UB3R userbars with the assistance of graphic designer Motusora.",
+            "url": "https://hackforums.net/showthread.php?tid=6301521",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Bytes Reward Adjustment",
+            "description": "Omniscient lowered the minimum character requirement for posts to 5 and adjusted the reward structure: members now receive 1 byte per reply (down from 3).",
+            "url": "https://hackforums.net/showthread.php?tid=6302095",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Donation Awards Rotated",
+            "description": "Omniscient rotated the donation awards page; a few classic awards are back up for purchase.",
+            "url": "https://hackforums.net/buyawards.php",
+            "users": [
+                {"uid": "1", "username": "Omniscient"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "uid 2004303, uid 553471, uid 1519607, uid 2370822, and uid 858991 received the King Decade award. uid 5669221 and uid 5668244 received the Dicey award. Members also grabbed the new Independence Day American flag award.",
+            "url": "",
+            "users": [
+                {"uid": "2004303", "username": ""},
+                {"uid": "553471", "username": ""},
+                {"uid": "1519607", "username": ""},
+                {"uid": "2370822", "username": ""},
+                {"uid": "858991", "username": ""},
+                {"uid": "5669221", "username": ""},
+                {"uid": "5668244", "username": ""}
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus and Olympians groups remain listed for sale. Fallen was rebranded to Fidelity. The Main Boyz crew was deleted.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Account purges/closures",
+            "description": "Php, M0hx, Sox, and VRS purged their accounts. Caboose, Trust, Hero, Spikkeljuan, and Niko1425 were closed. Yseurk is no longer Staff.",
+            "url": "",
+            "users": [
+                {"uid": "3995095", "username": "Yseurk"}
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "uid 5417626 (until 16.12.2025), uid 279955 (until 20.12.2025), uid 5064970 (until 16.07.2025), uid 4229993 (until 02.08.2025), uid 3297465 (until 09.07.2025), Sky (until 02.01.2026), uid 1834476 (until 09.07.2025), uid 1661823 (until 18.07.2025), Yseurk (until 04.08.2025), d3xus (until 06.01.2026), uid 5404814 (until 06.08.2025).",
+            "url": "",
+            "users": [
+                {"uid": "5417626", "username": ""},
+                {"uid": "279955", "username": ""},
+                {"uid": "5064970", "username": ""},
+                {"uid": "4229993", "username": ""},
+                {"uid": "3297465", "username": ""},
+                {"uid": "5002443", "username": "Sky"},
+                {"uid": "1834476", "username": ""},
+                {"uid": "1661823", "username": ""},
+                {"uid": "3995095", "username": "Yseurk"},
+                {"uid": "827711", "username": "d3xus"},
+                {"uid": "5404814", "username": ""}
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 543,
+        "date": 1751917659,
+        "pid": "62778370",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition Four"
+    }
+}

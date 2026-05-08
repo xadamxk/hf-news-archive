@@ -1,0 +1,113 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bytes Slot Machine",
+            "description": "On August 15, Omniscient announced the release of the new Bytes Slot Machine — a virtual slot machine on HF playable with the new Bytes currency.",
+            "url": "https://hackforums.net/showthread.php?tid=5874294",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Mobale Theme in Beta Testing",
+            "description": "Mobale, a new mobile-friendly theme for Hack Forums, entered beta testing — accessible via UserCP > Edit Options. The team warned of broken/missing elements during heavy development.",
+            "url": "https://hackforums.net/showthread.php?tid=5876644",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "riyu removed from Mentor",
+            "description": "riyu has been relieved of his Mentor role.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "riyu"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "riyu has reached 20,000 shitposts; WageWolf has reached 1,000 posts; Bromden has reached 1,000 reputation; 0riginalkillit has reached 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3129680",
+                    "username": "riyu"
+                },
+                {
+                    "uid": "3860356",
+                    "username": "WageWolf"
+                },
+                {
+                    "uid": "3329364",
+                    "username": "Bromden"
+                },
+                {
+                    "uid": "3874844",
+                    "username": "0riginalkillit"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Crystallize. was banned, pending closure; Copywriter was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                },
+                {
+                    "uid": "2883163",
+                    "username": "Copywriter"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Vyrez. was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Horus God purchased his second Xerotic Bot DNA award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "547589",
+                    "username": "Horus God"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 404,
+        "date": 1535059441,
+        "pid": "57511928",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Error 404 Not Found"
+    }
+}

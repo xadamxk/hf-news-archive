@@ -1,0 +1,94 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "API v2.0",
+            "description": "Hack Forums introduced API v2.0, including v1.0 features and additional capabilities. A discussion thread was opened for member/developer suggestions.",
+            "url": "https://hackforums.net/showthread.php?tid=6077763",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Group Updates",
+            "description": "Group owners and leaders received expanded options including a blacklist, group logs (similar to crew logs), and customizable application requirements.",
+            "url": "https://hackforums.net/showthread.php?tid=6077842",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Net Ninja reached 2,000 posts; milw0rm reached 3,000 posts; Luca reached 3,000 posts; Yin Yang reached 18,000 posts; flavoral reached 10,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3419000",
+                    "username": "Net Ninja"
+                },
+                {
+                    "uid": "195020",
+                    "username": "milw0rm"
+                },
+                {
+                    "uid": "4484228",
+                    "username": "Luca"
+                },
+                {
+                    "uid": "290801",
+                    "username": "Yin Yang"
+                },
+                {
+                    "uid": "3459543",
+                    "username": "flavoral"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Raνe was banned (Contracts mandatory for all deals); Hern was banned for dealing without a contract; Trippy Space Cat was banned for a fake contest; -Scrub was banned for sales trashing.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "558527",
+                    "username": "Raνe"
+                },
+                {
+                    "uid": "762511",
+                    "username": "Hern"
+                },
+                {
+                    "uid": "1830072",
+                    "username": "Trippy Space Cat"
+                },
+                {
+                    "uid": "4227846",
+                    "username": "-Scrub"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 469,
+        "date": 1589954112,
+        "pid": "59807158",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 469"
+    }
+}

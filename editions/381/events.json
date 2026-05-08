@@ -1,0 +1,190 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Group Owner Control Panel",
+            "description": "Omniscient announced a new control panel allowing group owners to alter passwords for their subforums and add/remove group leaders at their discretion. MeshCollider and Xerotic were credited for the work on the new feature.",
+            "url": "https://hackforums.net/showthread.php?tid=5806192",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "2015410",
+                    "username": "MeshCollider"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Bye, Felicia! Three Awards to be Removed",
+            "description": "Omniscient announced that the ZECret, Stratisphere, and XEMplary cryptocurrency awards will be removed at the end of March. Plans are underway to replace them with other crypto-themed awards (such as a Cardano award).",
+            "url": "https://hackforums.net/showthread.php?tid=5806196",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Gaming Tab Face Lift",
+            "description": "Omniscient reorganized the gaming subforum: SuperCell Games and Pokemon Go forums were merged into Mobile and Tablet Gaming (with a Pokemon Go thread prefix added); the Xbox Live Membership Codes forum's threads were moved into the main Xbox forum; the RGH/JTAG forum was deleted and threads moved to main Xbox with an RGH/JTAG prefix added.",
+            "url": "https://hackforums.net/showthread.php?tid=5806293",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group leadership changes.",
+            "description": "Japanese is no longer a leader of Influence.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1618863",
+                    "username": "Japanese"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "мr. X has reached 5,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1061502",
+                    "username": "мr. X"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "New Administrators",
+            "description": "Factor8™ is now an Administrator. Xerotic is now an Administrator.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "103669",
+                    "username": "Factor8™"
+                },
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "high quality member was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3065650",
+                    "username": "high quality member"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1817532",
+                    "username": "Marwix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "x2NaTe2x was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2303490",
+                    "username": "x2NaTe2x"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Elitas received the White Hat Helper award; Elitas received the Lounge Head award; Sigma received the Lounge Head award; WolfBoss received the Lounge Head award; ☃BowmanBot☃ received the Testified award; Kill Joy donated for the Grand Amethyst award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3165279",
+                    "username": "Elitas"
+                },
+                {
+                    "uid": "89554",
+                    "username": "Sigma"
+                },
+                {
+                    "uid": "3693346",
+                    "username": "WolfBoss"
+                },
+                {
+                    "uid": "1651695",
+                    "username": "☃BowmanBot☃"
+                },
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[TUT] How to Become a Professional Penetration Tester",
+            "description": "EasyGhost's guide on becoming a pentester.",
+            "url": "https://hackforums.net/showthread.php?tid=5788781",
+            "users": [
+                {
+                    "uid": "3498571",
+                    "username": "EasyGhost"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Post your setup / rate/suggestions for other peoples",
+            "description": "Cagey's thread for sharing and rating computer setups.",
+            "url": "https://hackforums.net/showthread.php?tid=5806261",
+            "users": [
+                {
+                    "uid": "785388",
+                    "username": "Cagey"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 381,
+        "date": 1520447605,
+        "pid": "56786092",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 381"
+    }
+}

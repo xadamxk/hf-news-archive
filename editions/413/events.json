@@ -1,0 +1,138 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Upgrade Pricing",
+            "description": "Omniscient is seeking opinions from non-upgraded members on L33t and r00t upgrade prices due to a reduction in upgrades. Stripe may be added as a new payment system.",
+            "url": "https://hackforums.net/showthread.php?tid=5897604",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Blackjack Max Bet Increased",
+            "description": "Omniscient increased the Blackjack max bet from 100 Bytes to 500 Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=5897834",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Crews concept introduced",
+            "description": "Omniscient introduced a new concept called 'Crews' — created via purchase by a 'Boss' funding a required Bytes amount. Comparable to Groups but with more features and centered on future activities.",
+            "url": "https://hackforums.net/showthread.php?tid=5896298",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "boxxy has obtained 30,000 posts; Jamieee has surpassed 20,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2177496",
+                    "username": "boxxy"
+                },
+                {
+                    "uid": "403479",
+                    "username": "Jamieee"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "The Host was banned; Meterpreter was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2274274",
+                    "username": "The Host"
+                },
+                {
+                    "uid": "2192292",
+                    "username": "Meterpreter"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1033713",
+                    "username": "Formula1"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "yrnGary was closed as a result of deal disputes; Classics was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3852878",
+                    "username": "yrnGary"
+                },
+                {
+                    "uid": "696316",
+                    "username": "Classics"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Soulmate～っ☆, Saltpeter, and 01001 were granted the Hack Forums News Contributor award; Kill Joy purchased his seventh Grand Amethyst award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmate～っ☆"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Saltpeter"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001"
+                },
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 413,
+        "date": 1540416125,
+        "pid": "57759983",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 413"
+    }
+}

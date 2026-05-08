@@ -1,0 +1,129 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hide Awards",
+            "description": "A new feature lets members toggle award visibility on their profile.",
+            "url": "https://hackforums.net/showthread.php?tid=6047613",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Secret Identity Member",
+            "description": "A new feature allows members to use an identification number instead of their username for anonymity.",
+            "url": "https://hackforums.net/showthread.php?tid=6046495",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership and rebrand changes.",
+            "description": "Lrrr now owns Appraisers, rebranded to OP8; HQIT now owns Prevail, rebranded to Mafia; Instagram now owns Divined, rebranded to Monopoly; Zeus is now leader of BrickSquad, rebranded to Ston3rz; Mr Kewl, Juicy, and Kill Joy joined Monopoly leadership.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                },
+                {
+                    "uid": "4395330",
+                    "username": "HQIT"
+                },
+                {
+                    "uid": "1362017",
+                    "username": "Instagram"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "183072",
+                    "username": "Mr Kewl"
+                },
+                {
+                    "uid": "923753",
+                    "username": "Juicy"
+                },
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Kill Joy attained the January 2020 Member of the Month award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "659087",
+                    "username": "Kill Joy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Mr. Robot reached the 3,000 thread milestone",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Cooligan was banned for hosting a fake contest; Mercathlon was banned for spamming.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "777",
+                    "username": "Cooligan"
+                },
+                {
+                    "uid": "4398566",
+                    "username": "Mercathlon"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2501407",
+                    "username": "Valor."
+                },
+                {
+                    "uid": "3466597",
+                    "username": "Suspect."
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 456,
+        "date": 1581653050,
+        "pid": "59426932",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 456"
+    }
+}

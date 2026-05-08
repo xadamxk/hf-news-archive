@@ -1,0 +1,25 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Smilies Converted to Emojis",
+            "description": "HF replaced its old smiley system with native emoji characters.",
+            "url": "https://hackforums.net/showthread.php?tid=6045464",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 455,
+        "date": 1580749854,
+        "pid": "59390457",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 455"
+    }
+}

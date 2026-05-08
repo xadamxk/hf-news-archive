@@ -1,0 +1,78 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Refer Members for 100 Bytes",
+            "description": "Referring a member to the forum via your Referral Link now earns 100 Bytes (eligibility required).",
+            "url": "https://hackforums.net/showthread.php?tid=5873577",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "SoundCloud MyCode",
+            "description": "MyCode for SoundCloud has been re-enabled.",
+            "url": "https://hackforums.net/showthread.php?tid=5920015",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Thread PDF Export",
+            "description": "Upgraded members can once again export their threads to PDF, after the feature was disabled for several years.",
+            "url": "https://hackforums.net/showthread.php?tid=5920081",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Country Code Lock Back",
+            "description": "Upgraded members can once again use the Country Code Lock feature; previously disabled due to IPv6 and inaccurate Geo IP issues, the new GEO IP API is fully accurate.",
+            "url": "https://hackforums.net/showthread.php?tid=5920137",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Maxim no longer Mentor",
+            "description": "Maxim is no longer a Mentor.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Roytoy has made 15,000 posts over 9 years; Cyber reached 5,000 posts in 6 years; Caligio made 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "130086",
+                    "username": "Roytoy"
+                },
+                {
+                    "uid": "1173673",
+                    "username": "Cyber"
+                },
+                {
+                    "uid": "3657455",
+                    "username": "Caligio"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 421,
+        "date": 1545294431,
+        "pid": "58034495",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 421"
+    }
+}

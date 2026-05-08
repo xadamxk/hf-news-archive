@@ -1,0 +1,126 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "The Return of PM Username Colors",
+            "description": "On August 9, Omniscient announced that username colors were added back to PMs — users who messaged you now appear in the color of their userbar.",
+            "url": "https://hackforums.net/showthread.php?tid=5871885",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Refer Members for 100 Bytes",
+            "description": "Omniscient announced a new referral system that earns 100 Bytes per member referred.",
+            "url": "https://hackforums.net/showthread.php?tid=5873577",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Marketplace Suite Major Update",
+            "description": "Xerotic released crucial updates to the marketplace plugin and Contracts system.",
+            "url": "https://hackforums.net/showthread.php?tid=5873058",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Staff Changes",
+            "description": "minimalist was relieved of his duties as Staff after a year and a half of service. Steve and Vitani were promoted to Staff on August 10.",
+            "url": "https://hackforums.net/showthread.php?tid=5871911",
+            "users": [
+                {
+                    "uid": "1915596",
+                    "username": "Minimalist"
+                },
+                {
+                    "uid": "2758907",
+                    "username": "Steve"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "SlyCyote has reached 2,000 reputation",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1349466",
+                    "username": "SlyCyote"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Fish was banned indefinitely for abusing the private message feature, asking for reputation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2017813",
+                    "username": "Fish"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Meow received the Businessman award; DenizZ received the Lounge Head award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "3541671",
+                    "username": "DenizZ"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF live stream",
+            "description": "Mr. Robot's second live stream answering HF related questions.",
+            "url": "https://hackforums.net/showthread.php?tid=5872784",
+            "users": [
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 403,
+        "date": 1534300238,
+        "pid": "57471980",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 403"
+    }
+}

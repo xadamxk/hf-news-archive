@@ -1,0 +1,132 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Tools Release",
+            "description": "Omniscient released HF Tools as 'Hacker Tools', accessible from the top menu.",
+            "url": "https://hackforums.net/showthread.php?tid=5904524",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "MyAwards Upgraded to Sprites",
+            "description": "Hack Forums' 110 awards were combined into a single sprite image with CSS positioning, improving SEO and reducing page load time.",
+            "url": "https://hackforums.net/showthread.php?tid=5904526",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Dark Ops section live",
+            "description": "Dark Ops, a new HF News section, went live. Members can submit opinions on weekly topics either publicly or anonymously, with no IP tracking.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Nokia2mon2 allegedly involved with Khashoggi slaying",
+            "description": "Reports linked HF user nokia2mon2 to Saudi government advisor Saud Al-Qahtani, who allegedly oversaw the murder of journalist Khashoggi via Skype. Al-Qahtani's email (linked to the same identity) was previously revealed in the 2015 Hacking Team breach.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "80618",
+                    "username": "nokia2mon2"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Infamous leadership.",
+            "description": "iNuke is now a leader of Infamous.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1278319",
+                    "username": "iNuke"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "iNuke has surpassed 5,000 posts; Vitani purchased 100,000 Bytes (priced at approximately $1,400); Neodraxis has obtained 1,000 posts",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1278319",
+                    "username": "iNuke"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "3891397",
+                    "username": "Neodraxis"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Givenchy, WageWolf, Banter., Traum, Business, and Nate were granted the Testified award; Dredd was granted the Lounge Head award; ❤️BowmanBot❤️ obtained the Dicey award via slots; M L T was granted the Black Hatter award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1442841",
+                    "username": "Givenchy"
+                },
+                {
+                    "uid": "3860356",
+                    "username": "WageWolf"
+                },
+                {
+                    "uid": "3446221",
+                    "username": "Banter."
+                },
+                {
+                    "uid": "3472449",
+                    "username": "Traum"
+                },
+                {
+                    "uid": "1705027",
+                    "username": "Business"
+                },
+                {
+                    "uid": "1087815",
+                    "username": "Nate"
+                },
+                {
+                    "uid": "1661823",
+                    "username": "Dredd"
+                },
+                {
+                    "uid": "1651695",
+                    "username": "❤️BowmanBot❤️"
+                },
+                {
+                    "uid": "3784247",
+                    "username": "M L T"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 415,
+        "date": 1541620022,
+        "pid": "57839140",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 415 -- Dark Ops Live, Nokia2mon2 involved with Khashoggi"
+    }
+}
