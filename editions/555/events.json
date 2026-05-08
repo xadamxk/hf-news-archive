@@ -6,7 +6,10 @@
             "description": "Omniscient gauged interest in this year's Octoberfest event, which is approaching with a new annual award.",
             "url": "https://hackforums.net/showthread.php?tid=6308363",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -15,19 +18,34 @@
             "description": "Omniscient is gathering member submissions and feedback on the new Octoberfest award design.",
             "url": "https://hackforums.net/showthread.php?tid=6309084",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 1140211 received Quickly Loved. uid 941199 and uid 2335494 received King Decade. uid 5697524 received Dicey.",
+            "description": "codeine. received Quickly Loved. Lobster and meskat1982 received King Decade. vnlads received Dicey.",
             "url": "",
             "users": [
-                {"uid": "1140211", "username": ""},
-                {"uid": "941199", "username": ""},
-                {"uid": "2335494", "username": ""},
-                {"uid": "5697524", "username": ""}
+                {
+                    "uid": "1140211",
+                    "username": "codeine."
+                },
+                {
+                    "uid": "941199",
+                    "username": "Lobster"
+                },
+                {
+                    "uid": "2335494",
+                    "username": "meskat1982"
+                },
+                {
+                    "uid": "5697524",
+                    "username": "vnlads"
+                }
             ]
         },
         {
@@ -40,30 +58,45 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "uid 5655428 was temp-banned. uid 5432602 and uid 3890624 were banned.",
+            "description": "getzoed was temp-banned. CryptoGrab and skins2come were banned.",
             "url": "",
             "users": [
-                {"uid": "5655428", "username": ""},
-                {"uid": "5432602", "username": ""},
-                {"uid": "3890624", "username": ""}
+                {
+                    "uid": "5655428",
+                    "username": "getzoed"
+                },
+                {
+                    "uid": "5432602",
+                    "username": "CryptoGrab"
+                },
+                {
+                    "uid": "3890624",
+                    "username": "skins2come"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "uid 5404814 on vacation until October 18, 2025.",
+            "description": "Novo on vacation until October 18, 2025.",
             "url": "",
             "users": [
-                {"uid": "5404814", "username": ""}
+                {
+                    "uid": "5404814",
+                    "username": "Novo"
+                }
             ]
         },
         {
             "category": "site",
             "title": "Staff Promotion",
-            "description": "The Pact (uid 1411092) was promoted to Staff.",
+            "description": "The Pact was promoted to Staff.",
             "url": "",
             "users": [
-                {"uid": "1411092", "username": "The Pact"}
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                }
             ]
         },
         {

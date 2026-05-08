@@ -3,15 +3,33 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 5252466 received Medal of Honor. uid 50 and uid 1131394 received King Decade. uid 2370822 received Quickly Loved. uid 2017813 received Stanley Fan. Yanix received the Octoberfest 2025 award.",
+            "description": "DramaKing received Medal of Honor. Waiting... and Meowth received King Decade. Mech received Quickly Loved. Fish received Stanley Fan. Yanix received the Octoberfest 2025 award.",
             "url": "",
             "users": [
-                {"uid": "5252466", "username": ""},
-                {"uid": "50", "username": ""},
-                {"uid": "2370822", "username": ""},
-                {"uid": "2017813", "username": ""},
-                {"uid": "4273612", "username": "Yanix"},
-                {"uid": "1131394", "username": ""}
+                {
+                    "uid": "5252466",
+                    "username": "DramaKing"
+                },
+                {
+                    "uid": "50",
+                    "username": "Waiting..."
+                },
+                {
+                    "uid": "2370822",
+                    "username": "Mech"
+                },
+                {
+                    "uid": "2017813",
+                    "username": "Fish"
+                },
+                {
+                    "uid": "4273612",
+                    "username": "Yanix"
+                },
+                {
+                    "uid": "1131394",
+                    "username": "Meowth"
+                }
             ]
         },
         {

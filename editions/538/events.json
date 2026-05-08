@@ -6,7 +6,10 @@
             "description": "Omniscient announced an increase in bytes earned per post: regular members now receive 3 bytes/post (up from 1), L33t members 4.5/post, and Ub3r members 6/post.",
             "url": "https://hackforums.net/showthread.php?tid=6253697",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -26,69 +29,129 @@
         {
             "category": "groups",
             "title": "Group & Crew News",
-            "description": "Blacklisted was purchased by uid 503372. Succubus, Marketers, COINED, and Profit groups remain listed for sale. The Feds crew was newly listed for sale by uid 4229993; BlackCats, Mafia, and Red Lions crews remain listed for sale.",
+            "description": "Blacklisted was purchased by Immortal. Succubus, Marketers, COINED, and Profit groups remain listed for sale. The Feds crew was newly listed for sale by Scrubspoof; BlackCats, Mafia, and Red Lions crews remain listed for sale.",
             "url": "",
             "users": [
-                {"uid": "503372", "username": ""},
-                {"uid": "4229993", "username": ""}
+                {
+                    "uid": "503372",
+                    "username": "Immortal"
+                },
+                {
+                    "uid": "4229993",
+                    "username": "Scrubspoof"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 2119467 received the Sticky Man award (cardiovascular system guide) and the White Hat Helper award (Health Wise contributions). 123 received the Silver Medal award (giving away free L33T upgrades). uid 666 received the MAGAs of the Universe award. uid 230053 received the Music Lover award. Sky received the Qwazz Star and iHydra awards. Proof received the Infamous Delta award.",
+            "description": "Komodo received the Sticky Man award (cardiovascular system guide) and the White Hat Helper award (Health Wise contributions). Charlie Sheen received the Silver Medal award (giving away free L33T upgrades). DemonAsylum received the MAGAs of the Universe award. Local Celeb received the Music Lover award. Sky received the Qwazz Star and iHydra awards. Proof received the Infamous Delta award.",
             "url": "",
             "users": [
-                {"uid": "2119467", "username": ""},
-                {"uid": "123", "username": ""},
-                {"uid": "666", "username": ""},
-                {"uid": "230053", "username": ""},
-                {"uid": "5002443", "username": "Sky"},
-                {"uid": "18", "username": "Proof"}
+                {
+                    "uid": "2119467",
+                    "username": "Komodo"
+                },
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                },
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                },
+                {
+                    "uid": "230053",
+                    "username": "Local Celeb"
+                },
+                {
+                    "uid": "5002443",
+                    "username": "Sky"
+                },
+                {
+                    "uid": "18",
+                    "username": "Proof"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "uid 666 and Sky each reached 5,000 posts. Yseurk reached 2,000 popularity points. uid 666 reached 3,000 positive b-ratings without a negative rating.",
+            "description": "DemonAsylum and Sky each reached 5,000 posts. Bastille reached 2,000 popularity points. DemonAsylum reached 3,000 positive b-ratings without a negative rating.",
             "url": "",
             "users": [
-                {"uid": "666", "username": ""},
-                {"uid": "5002443", "username": "Sky"},
-                {"uid": "3995095", "username": "Yseurk"}
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                },
+                {
+                    "uid": "5002443",
+                    "username": "Sky"
+                },
+                {
+                    "uid": "3995095",
+                    "username": "Bastille"
+                }
             ]
         },
         {
             "category": "site",
             "title": "Convo Moderators Appointed",
-            "description": "Proof and uid 5185438 were appointed as HF Convo moderators.",
+            "description": "Proof and Migos were appointed as HF Convo moderators.",
             "url": "https://hackforums.net/convo.php",
             "users": [
-                {"uid": "18", "username": "Proof"},
-                {"uid": "5185438", "username": ""}
+                {
+                    "uid": "18",
+                    "username": "Proof"
+                },
+                {
+                    "uid": "5185438",
+                    "username": "Migos"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "Mr. Robot was closed for scamming a member for $8,000. uid 5307571 was closed for scamming members. LoremIpsum was banned for excessive deal disputes. uid 801999 received a 2-day ban for making false reports. Many ban-evaders were banned/closed during October.",
+            "description": "Mr. Robot was closed for scamming a member for $8,000. POLLUX was closed for scamming members. LoremIpsum was banned for excessive deal disputes. Biggs received a 2-day ban for making false reports. Many ban-evaders were banned/closed during October.",
             "url": "",
             "users": [
-                {"uid": "2682887", "username": "Mr. Robot"},
-                {"uid": "5307571", "username": ""},
-                {"uid": "4362613", "username": "LoremIpsum"},
-                {"uid": "801999", "username": ""}
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                },
+                {
+                    "uid": "5307571",
+                    "username": "POLLUX"
+                },
+                {
+                    "uid": "4362613",
+                    "username": "LoremIpsum"
+                },
+                {
+                    "uid": "801999",
+                    "username": "Biggs"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "Nuts, uid 1363555, and uid 5051324 each took 1-month vacation bans.",
+            "description": "Nuts, Allelujah, and uid 5051324 each took 1-month vacation bans.",
             "url": "",
             "users": [
-                {"uid": "317107", "username": "Nuts"},
-                {"uid": "1363555", "username": ""},
-                {"uid": "5051324", "username": ""}
+                {
+                    "uid": "317107",
+                    "username": "Nuts"
+                },
+                {
+                    "uid": "1363555",
+                    "username": "Allelujah"
+                },
+                {
+                    "uid": "5051324",
+                    "username": "Unknown"
+                }
             ]
         },
         {

@@ -6,7 +6,10 @@
             "description": "Omniscient declared \"The Great Purge Day,\" permanently banning and erasing a select group of members deemed to be damaging the business and driving members away.",
             "url": "https://hackforums.net/showthread.php?tid=6302035",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -15,7 +18,10 @@
             "description": "After multiple reports of doxing and harassment, Omniscient closed the public conversation room. Plans for private rooms within Convo were mentioned.",
             "url": "https://hackforums.net/showthread.php?tid=6301947",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -24,7 +30,10 @@
             "description": "Omniscient updated VIP Group Subforums with custom CSS reflecting the unique name colors of each group.",
             "url": "https://hackforums.net/showthread.php?tid=6301729",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -33,7 +42,10 @@
             "description": "Omniscient revamped the L33T and UB3R userbars with the assistance of graphic designer Motusora.",
             "url": "https://hackforums.net/showthread.php?tid=6301521",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -42,7 +54,10 @@
             "description": "Omniscient lowered the minimum character requirement for posts to 5 and adjusted the reward structure: members now receive 1 byte per reply (down from 3).",
             "url": "https://hackforums.net/showthread.php?tid=6302095",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -51,22 +66,46 @@
             "description": "Omniscient rotated the donation awards page; a few classic awards are back up for purchase.",
             "url": "https://hackforums.net/buyawards.php",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 2004303, uid 553471, uid 1519607, uid 2370822, and uid 858991 received the King Decade award. uid 5669221 and uid 5668244 received the Dicey award. Members also grabbed the new Independence Day American flag award.",
+            "description": "cigojlo, ĐĮΜĘ, Deadbeef, Mech, and Triple Bond received the King Decade award. r4cknsalt and Yeman received the Dicey award. Members also grabbed the new Independence Day American flag award.",
             "url": "",
             "users": [
-                {"uid": "2004303", "username": ""},
-                {"uid": "553471", "username": ""},
-                {"uid": "1519607", "username": ""},
-                {"uid": "2370822", "username": ""},
-                {"uid": "858991", "username": ""},
-                {"uid": "5669221", "username": ""},
-                {"uid": "5668244", "username": ""}
+                {
+                    "uid": "2004303",
+                    "username": "cigojlo"
+                },
+                {
+                    "uid": "553471",
+                    "username": "ĐĮΜĘ"
+                },
+                {
+                    "uid": "1519607",
+                    "username": "Deadbeef"
+                },
+                {
+                    "uid": "2370822",
+                    "username": "Mech"
+                },
+                {
+                    "uid": "858991",
+                    "username": "Triple Bond"
+                },
+                {
+                    "uid": "5669221",
+                    "username": "r4cknsalt"
+                },
+                {
+                    "uid": "5668244",
+                    "username": "Yeman"
+                }
             ]
         },
         {
@@ -79,29 +118,65 @@
         {
             "category": "users",
             "title": "Account purges/closures",
-            "description": "Php, M0hx, Sox, and VRS purged their accounts. Caboose, Trust, Hero, Spikkeljuan, and Niko1425 were closed. Yseurk is no longer Staff.",
+            "description": "Php, M0hx, Sox, and VRS purged their accounts. Caboose, Trust, Hero, Spikkeljuan, and Niko1425 were closed. Bastille is no longer Staff.",
             "url": "",
             "users": [
-                {"uid": "3995095", "username": "Yseurk"}
+                {
+                    "uid": "3995095",
+                    "username": "Bastille"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "uid 5417626 (until 16.12.2025), uid 279955 (until 20.12.2025), uid 5064970 (until 16.07.2025), uid 4229993 (until 02.08.2025), uid 3297465 (until 09.07.2025), Sky (until 02.01.2026), uid 1834476 (until 09.07.2025), uid 1661823 (until 18.07.2025), Yseurk (until 04.08.2025), d3xus (until 06.01.2026), uid 5404814 (until 06.08.2025).",
+            "description": "Tentco (until 16.12.2025), Happeh (until 20.12.2025), Eran (until 16.07.2025), Scrubspoof (until 02.08.2025), uid 3297465 (until 09.07.2025), Sky (until 02.01.2026), Nachfolger (until 09.07.2025), Dredd (until 18.07.2025), Bastille (until 04.08.2025), D3xus (until 06.01.2026), Novo (until 06.08.2025).",
             "url": "",
             "users": [
-                {"uid": "5417626", "username": ""},
-                {"uid": "279955", "username": ""},
-                {"uid": "5064970", "username": ""},
-                {"uid": "4229993", "username": ""},
-                {"uid": "3297465", "username": ""},
-                {"uid": "5002443", "username": "Sky"},
-                {"uid": "1834476", "username": ""},
-                {"uid": "1661823", "username": ""},
-                {"uid": "3995095", "username": "Yseurk"},
-                {"uid": "827711", "username": "d3xus"},
-                {"uid": "5404814", "username": ""}
+                {
+                    "uid": "5417626",
+                    "username": "Tentco"
+                },
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                },
+                {
+                    "uid": "5064970",
+                    "username": "Eran"
+                },
+                {
+                    "uid": "4229993",
+                    "username": "Scrubspoof"
+                },
+                {
+                    "uid": "3297465",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "5002443",
+                    "username": "Sky"
+                },
+                {
+                    "uid": "1834476",
+                    "username": "Nachfolger"
+                },
+                {
+                    "uid": "1661823",
+                    "username": "Dredd"
+                },
+                {
+                    "uid": "3995095",
+                    "username": "Bastille"
+                },
+                {
+                    "uid": "827711",
+                    "username": "D3xus"
+                },
+                {
+                    "uid": "5404814",
+                    "username": "Novo"
+                }
             ]
         },
         {

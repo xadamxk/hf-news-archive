@@ -6,7 +6,10 @@
             "description": "Omniscient temporarily reopened the Public Conversation Room while looking for a JavaScript-proficient developer to resolve issues with the Group Convo Rooms (GCRs). The long-term goal remains to fully transition to GCRs.",
             "url": "https://hackforums.net/showthread.php?tid=6303093",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -15,7 +18,10 @@
             "description": "Omniscient informed the community of several high-traffic DDoS attacks targeting HackForums in recent weeks, with virtually no impact on site performance.",
             "url": "https://hackforums.net/showthread.php?tid=6303090",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -24,7 +30,10 @@
             "description": "Omniscient is gathering feedback on new Staff and Vendor userbar designs, following recent updates to the Admin, UB3R, and L33T userbars.",
             "url": "https://hackforums.net/showthread.php?tid=6303174",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -33,29 +42,50 @@
             "description": "Omniscient publicly addressed recent troll activity and DDoS attempts following the removal of disruptive ex-members. He acknowledged a past comment made during a difficult moment and reaffirmed his 18-year commitment to HackForums.",
             "url": "https://hackforums.net/showthread.php?tid=6303183",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Member of the Month",
-            "description": "uid 6 was awarded Member of the Month.",
+            "description": "6 was awarded Member of the Month.",
             "url": "",
             "users": [
-                {"uid": "6", "username": ""}
+                {
+                    "uid": "6",
+                    "username": "6"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 2920830 received the Green Apple award. uid 2681494, uid 1871421, uid 158249, and uid 2333986 received the King Decade award.",
+            "description": "Confound received the Green Apple award. Cʜᴀᴏs, JoshAllen, PROJECT1, and BaldCunt received the King Decade award.",
             "url": "",
             "users": [
-                {"uid": "2920830", "username": ""},
-                {"uid": "2681494", "username": ""},
-                {"uid": "1871421", "username": ""},
-                {"uid": "158249", "username": ""},
-                {"uid": "2333986", "username": ""}
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                },
+                {
+                    "uid": "2681494",
+                    "username": "Cʜᴀᴏs"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                },
+                {
+                    "uid": "158249",
+                    "username": "PROJECT1"
+                },
+                {
+                    "uid": "2333986",
+                    "username": "BaldCunt"
+                }
             ]
         },
         {

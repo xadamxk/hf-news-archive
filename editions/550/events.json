@@ -6,22 +6,46 @@
             "description": "Omniscient shared recent traffic stats showing the site has been growing significantly over the last few months despite low post counts.",
             "url": "https://hackforums.net/showthread.php?tid=6305900",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 749691, Rin™, uid 1041724, and spiral received the King Decade award. uid 5655318 and uid 1263507 received Dicey. uid 4189082 received Flip Reaper and Bronze Tutorial Award.",
+            "description": "ak4lamag0, Rin™, killer4nl, and spiral received the King Decade award. Oh_Well and eSp0rt received Dicey. W1NK1LL3RX received Flip Reaper and Bronze Tutorial Award.",
             "url": "",
             "users": [
-                {"uid": "749691", "username": ""},
-                {"uid": "1357269", "username": "Rin™"},
-                {"uid": "1041724", "username": ""},
-                {"uid": "2743782", "username": "spiral"},
-                {"uid": "5655318", "username": ""},
-                {"uid": "1263507", "username": ""},
-                {"uid": "4189082", "username": ""}
+                {
+                    "uid": "749691",
+                    "username": "ak4lamag0"
+                },
+                {
+                    "uid": "1357269",
+                    "username": "Rin™"
+                },
+                {
+                    "uid": "1041724",
+                    "username": "killer4nl"
+                },
+                {
+                    "uid": "2743782",
+                    "username": "spiral"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                },
+                {
+                    "uid": "1263507",
+                    "username": "eSp0rt"
+                },
+                {
+                    "uid": "4189082",
+                    "username": "W1NK1LL3RX"
+                }
             ]
         },
         {
@@ -37,7 +61,10 @@
             "description": "KinGxKeV on vacation until 19.02.2026.",
             "url": "",
             "users": [
-                {"uid": "533443", "username": "KinGxKeV"}
+                {
+                    "uid": "533443",
+                    "username": "KinGxKeV"
+                }
             ]
         },
         {

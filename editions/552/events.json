@@ -3,17 +3,41 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 1433804 received Medal of Honor. uid 628586, Nixhxlas, uid 52510, uid 2667861, and uid 2509344 received King Decade. uid 5655318 received Flip Reaper. uid 5568595 received Stanley Fan.",
+            "description": "Yani received Medal of Honor. DarkDelta, N (formerly Nixhxlas), Amped-, #Skyline, and Beny received King Decade. Oh_Well received Flip Reaper. JoseMar received Stanley Fan.",
             "url": "",
             "users": [
-                {"uid": "1433804", "username": ""},
-                {"uid": "628586", "username": ""},
-                {"uid": "2", "username": "Nixhxlas"},
-                {"uid": "52510", "username": ""},
-                {"uid": "2667861", "username": ""},
-                {"uid": "2509344", "username": ""},
-                {"uid": "5655318", "username": ""},
-                {"uid": "5568595", "username": ""}
+                {
+                    "uid": "1433804",
+                    "username": "Yani"
+                },
+                {
+                    "uid": "628586",
+                    "username": "DarkDelta"
+                },
+                {
+                    "uid": "2",
+                    "username": "N"
+                },
+                {
+                    "uid": "52510",
+                    "username": "Amped-"
+                },
+                {
+                    "uid": "2667861",
+                    "username": "#Skyline"
+                },
+                {
+                    "uid": "2509344",
+                    "username": "Beny"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                },
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
             ]
         },
         {

@@ -20,52 +20,94 @@
             "description": "Omniscient announced a new animated Vendor userbar replacing the original design.",
             "url": "https://hackforums.net/vendorapply.php",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "groups",
             "title": "Group & Crew News",
-            "description": "uid 1342286 is leasing his group to any approved member looking to lead an official usergroup. Lrrr is allowing anyone interested an opportunity to join Eden by posting in the thread. Succubus, Marketers, Revenge, BlackCats, Cult, and Mafia remain listed for sale.",
+            "description": "Neil is leasing his group to any approved member looking to lead an official usergroup. Lrrr is allowing anyone interested an opportunity to join Eden by posting in the thread. Succubus, Marketers, Revenge, BlackCats, Cult, and Mafia remain listed for sale.",
             "url": "",
             "users": [
-                {"uid": "1342286", "username": ""},
-                {"uid": "2192831", "username": "Lrrr"}
+                {
+                    "uid": "1342286",
+                    "username": "Neil"
+                },
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "uid 123541 reached 300 B-Rating and 8,000 posts; uid 1448944 reached 500 threads; uid 4229993 reached 1,000 popularity; uid 4437863 reached 1,000 posts; DharmeshPHP reached 100 B-Rating; Blogger achieved 15,000 posts; uid 646916 reached 8,000 posts since 2011.",
+            "description": "StuffSneak reached 300 B-Rating and 8,000 posts; [▲■●] reached 500 threads; Scrubspoof reached 1,000 popularity; AiDenti reached 1,000 posts; DashPHP reached 100 B-Rating; Blogger achieved 15,000 posts; Nostre reached 8,000 posts since 2011.",
             "url": "",
             "users": [
-                {"uid": "123541", "username": ""},
-                {"uid": "1448944", "username": ""},
-                {"uid": "4229993", "username": ""},
-                {"uid": "4437863", "username": ""},
-                {"uid": "1050194", "username": "DharmeshPHP"},
-                {"uid": "412771", "username": "Blogger"},
-                {"uid": "646916", "username": ""}
+                {
+                    "uid": "123541",
+                    "username": "StuffSneak"
+                },
+                {
+                    "uid": "1448944",
+                    "username": "[▲■●]"
+                },
+                {
+                    "uid": "4229993",
+                    "username": "Scrubspoof"
+                },
+                {
+                    "uid": "4437863",
+                    "username": "AiDenti"
+                },
+                {
+                    "uid": "1050194",
+                    "username": "DashPHP"
+                },
+                {
+                    "uid": "412771",
+                    "username": "Blogger"
+                },
+                {
+                    "uid": "646916",
+                    "username": "Nostre"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "32 of the 37 staff bans in June were permanent. uid 5309675 was closed. uid 4621678 was closed.",
+            "description": "32 of the 37 staff bans in June were permanent. Dread.Reaper was closed. Kota was closed.",
             "url": "",
             "users": [
-                {"uid": "5309675", "username": ""},
-                {"uid": "4621678", "username": ""}
+                {
+                    "uid": "5309675",
+                    "username": "Dread.Reaper"
+                },
+                {
+                    "uid": "4621678",
+                    "username": "Kota"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "uid 4621678 took a 6 month vacation and is now closed. uid 5051324 took a 3-day vacation, returning 06/04/2023. uid 692131 took a 6 month vacation, returning 12/02/2023.",
+            "description": "Kota took a 6 month vacation and is now closed. uid 5051324 took a 3-day vacation, returning 06/04/2023. Tsundere took a 6 month vacation, returning 12/02/2023.",
             "url": "",
             "users": [
-                {"uid": "5051324", "username": ""},
-                {"uid": "692131", "username": ""}
+                {
+                    "uid": "5051324",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                }
             ]
         },
         {
@@ -74,7 +116,10 @@
             "description": "Neal Caffrey received the Cool award (\"Be cool sir.\") and was the only member in the entire month of June to earn an award.",
             "url": "",
             "users": [
-                {"uid": "944024", "username": "Neal Caffrey"}
+                {
+                    "uid": "944024",
+                    "username": "Neal Caffrey"
+                }
             ]
         },
         {
@@ -83,7 +128,10 @@
             "description": "Following Discord's username changes (removal of # tags), Omniscient wiped all Discord usernames from HF profiles so users could update them after editing on Discord.",
             "url": "https://hackforums.net/showthread.php?tid=6244207",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -92,16 +140,22 @@
             "description": "Omniscient is seeking community feedback about potentially making permanent sales tags available for purchase.",
             "url": "https://hackforums.net/showthread.php?tid=6245252",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "site",
             "title": "HF News Support Contest Winner",
-            "description": "skull (uid 3740051) won the $50 prize from last month's HF News support signature drawing.",
+            "description": "skull won the $50 prize from last month's HF News support signature drawing.",
             "url": "https://hackforums.net/showthread.php?tid=6243111",
             "users": [
-                {"uid": "3740051", "username": "skull"}
+                {
+                    "uid": "3740051",
+                    "username": "skull"
+                }
             ]
         },
         {

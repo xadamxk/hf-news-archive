@@ -6,17 +6,26 @@
             "description": "Omniscient renamed the \"Private Investigation Methods\" forum to \"OpSec and OSINT\" to clarify its purpose and broaden permitted topics.",
             "url": "https://hackforums.net/showthread.php?tid=6308262",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 843423 received King Decade. uid 5697524 received Dicey.",
+            "description": "CLIXOU received King Decade. vnlads received Dicey.",
             "url": "",
             "users": [
-                {"uid": "843423", "username": ""},
-                {"uid": "5697524", "username": ""}
+                {
+                    "uid": "843423",
+                    "username": "CLIXOU"
+                },
+                {
+                    "uid": "5697524",
+                    "username": "vnlads"
+                }
             ]
         },
         {

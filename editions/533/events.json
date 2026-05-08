@@ -31,17 +31,41 @@
         {
             "category": "groups",
             "title": "Group & Crew Sales/Purchases",
-            "description": "Olympians was purchased by uid 1342286. Succubus listed for sale by Pyro/3604010. Marketers listed for sale by -Scrub. Revenge listed for sale by Trappy. Red Lions crew purchased by uid 1893427. BlackCats crew listed for sale by uid 1961000. Cult crew listed for sale by uid 4963606. Mafia crew listed for sale by uid 5173091.",
+            "description": "Olympians was purchased by Neil. Succubus listed for sale by SecretAchiever101. Marketers listed for sale by -Scrub. Revenge listed for sale by Trappy. Red Lions crew purchased by B3A. BlackCats crew listed for sale by Zexo. Cult crew listed for sale by uid 4963606. Mafia crew listed for sale by T0fu.",
             "url": "",
             "users": [
-                {"uid": "1342286", "username": ""},
-                {"uid": "3604010", "username": ""},
-                {"uid": "4227846", "username": "-Scrub"},
-                {"uid": "3323516", "username": "Trappy"},
-                {"uid": "1893427", "username": ""},
-                {"uid": "1961000", "username": ""},
-                {"uid": "4963606", "username": ""},
-                {"uid": "5173091", "username": ""}
+                {
+                    "uid": "1342286",
+                    "username": "Neil"
+                },
+                {
+                    "uid": "3604010",
+                    "username": "SecretAchiever101"
+                },
+                {
+                    "uid": "4227846",
+                    "username": "-Scrub"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                },
+                {
+                    "uid": "1893427",
+                    "username": "B3A"
+                },
+                {
+                    "uid": "1961000",
+                    "username": "Zexo"
+                },
+                {
+                    "uid": "4963606",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "5173091",
+                    "username": "T0fu"
+                }
             ]
         },
         {
@@ -54,49 +78,97 @@
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "Stanley/Hydra (uid 561239) reached 12,000 posts; uid 3725052 reached 100 B-Rating; oRequiem is one thread away from 500 threads; Cooligan reached 300 B-Rating; uid 637909 reached 1,000 posts; uid 622367 reached 500 threads; uid 646916 reached 8,000 posts; uid 1029177 reached 1,000 popularity; uid 4813653 reached 1,000 posts.",
+            "description": "Hydra reached 12,000 posts; Biggy reached 100 B-Rating; oRequiem is one thread away from 500 threads; Cooligan reached 300 B-Rating; Mr Monero reached 1,000 posts; Hopsin reached 500 threads; Nostre reached 8,000 posts; InspectorGadget reached 1,000 popularity; 【﻿ＯＭＥＧＡ】 reached 1,000 posts.",
             "url": "",
             "users": [
-                {"uid": "561239", "username": ""},
-                {"uid": "3725052", "username": ""},
-                {"uid": "2359475", "username": "oRequiem"},
-                {"uid": "777", "username": "Cooligan"},
-                {"uid": "637909", "username": ""},
-                {"uid": "622367", "username": ""},
-                {"uid": "646916", "username": ""},
-                {"uid": "1029177", "username": ""},
-                {"uid": "4813653", "username": ""}
+                {
+                    "uid": "561239",
+                    "username": "Hydra"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy"
+                },
+                {
+                    "uid": "2359475",
+                    "username": "oRequiem"
+                },
+                {
+                    "uid": "777",
+                    "username": "Cooligan"
+                },
+                {
+                    "uid": "637909",
+                    "username": "Mr Monero"
+                },
+                {
+                    "uid": "622367",
+                    "username": "Hopsin"
+                },
+                {
+                    "uid": "646916",
+                    "username": "Nostre"
+                },
+                {
+                    "uid": "1029177",
+                    "username": "InspectorGadget"
+                },
+                {
+                    "uid": "4813653",
+                    "username": "【﻿ＯＭＥＧＡ】"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "uid 5025379 was banned for 14 days by Omniscient (\"Take a break from HF.\", returned 05/24/2023). uid 3601559 was banned for 7 days by Genuine for an invalid deal dispute (returned 05/27/2023). A number of skids spamming and evading were also banned.",
+            "description": "Ph4n70M Phr34K was banned for 14 days by Omniscient (\"Take a break from HF.\", returned 05/24/2023). N1ghtm4re was banned for 7 days by Genuine for an invalid deal dispute (returned 05/27/2023). A number of skids spamming and evading were also banned.",
             "url": "",
             "users": [
-                {"uid": "5025379", "username": ""},
-                {"uid": "3601559", "username": ""}
+                {
+                    "uid": "5025379",
+                    "username": "Ph4n70M Phr34K"
+                },
+                {
+                    "uid": "3601559",
+                    "username": "N1ghtm4re"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "uid 3193396 and uid 587985 took brief vacation bans and have already returned.",
+            "description": "xHeaven and SIM-587985 took brief vacation bans and have already returned.",
             "url": "",
             "users": [
-                {"uid": "3193396", "username": ""},
-                {"uid": "587985", "username": ""}
+                {
+                    "uid": "3193396",
+                    "username": "xHeaven"
+                },
+                {
+                    "uid": "587985",
+                    "username": "SIM-587985"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 5184709 earned the Black Hatter award. SourceCοde earned the White Hat Helper award. uid 666 earned the Molten Sword of Hackúman award.",
+            "description": "source earned the Black Hatter award. SourceCode101 earned the White Hat Helper award. DemonAsylum earned the Molten Sword of Hackúman award.",
             "url": "",
             "users": [
-                {"uid": "5184709", "username": ""},
-                {"uid": "3832660", "username": "SourceCοde"},
-                {"uid": "666", "username": ""}
+                {
+                    "uid": "5184709",
+                    "username": "source"
+                },
+                {
+                    "uid": "3832660",
+                    "username": "SourceCode101"
+                },
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                }
             ]
         },
         {
@@ -109,10 +181,13 @@
         {
             "category": "site",
             "title": "Hackúman Season 1 Winner",
-            "description": "uid 666 won Hackúman season 1, becoming the second user to receive the Molten Sword of Hackúman award.",
+            "description": "DemonAsylum won Hackúman season 1, becoming the second user to receive the Molten Sword of Hackúman award.",
             "url": "https://hackforums.net/showthread.php?tid=6240624",
             "users": [
-                {"uid": "666", "username": ""}
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                }
             ]
         },
         {

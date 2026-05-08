@@ -6,7 +6,10 @@
             "description": "Omniscient introduced a new theme with a sleek, modern background and subtle transparency effects throughout the forum, with plans to continue tweaking the design.",
             "url": "https://hackforums.net/showthread.php?tid=6299355",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -15,7 +18,10 @@
             "description": "Omniscient released an official roadmap outlining 69 planned initiatives aimed at revamping and modernizing HackForums.",
             "url": "https://hackforums.net/showthread.php?tid=6299750",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -24,7 +30,10 @@
             "description": "Omniscient removed the long-standing harassment policy between members, citing the time burden of enforcement and his belief that adult members should not require constant moderation.",
             "url": "https://hackforums.net/showthread.php?tid=6299640",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -33,39 +42,90 @@
             "description": "Following the removal of the harassment policy, Omniscient announced that posting personal information will no longer be enforced against in Convo, since Convo is not intended as a permanent log. The decision sparked mixed reactions.",
             "url": "https://hackforums.net/showthread.php?tid=6299924",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 121196 was awarded Silver Medal, G.O.A.T, and Award Whore. uid 1073887 was awarded Green Apple. NulldB was awarded Shining Knight. Red Sox was awarded Asswipe. uid 5568595 was awarded Diamond. uid 5418830 was awarded DaBomb. uid 5 was awarded Asskisser and Flamer. Cap was awarded G.O.A.T.",
+            "description": "Natha was awarded Silver Medal, G.O.A.T, and Award Whore. Truth was awarded Green Apple. 7 was awarded Shining Knight. Red Sox was awarded Asswipe. JoseMar was awarded Diamond. Moooookie was awarded DaBomb. sharn was awarded Asskisser and Flamer. Cap was awarded G.O.A.T.",
             "url": "",
             "users": [
-                {"uid": "121196", "username": ""},
-                {"uid": "1073887", "username": ""},
-                {"uid": "7", "username": "NulldB"},
-                {"uid": "420", "username": "Red Sox"},
-                {"uid": "5568595", "username": ""},
-                {"uid": "5418830", "username": ""},
-                {"uid": "5", "username": ""},
-                {"uid": "57618", "username": "Cap"}
+                {
+                    "uid": "121196",
+                    "username": "Natha"
+                },
+                {
+                    "uid": "1073887",
+                    "username": "Truth"
+                },
+                {
+                    "uid": "7",
+                    "username": "7"
+                },
+                {
+                    "uid": "420",
+                    "username": "Red Sox"
+                },
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                },
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                },
+                {
+                    "uid": "5",
+                    "username": "sharn"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                }
             ]
         },
         {
             "category": "groups",
             "title": "Group Sales & Changes",
-            "description": "Succubus and Olympians groups are listed for sale. Ethereal, Pulse, and Sociopaths groups recently sold to uid 6. New group Casino was created by Zeus. Pulse was rebranded to H4CK3R$. Ethereal was rebranded to The Academy. uid 8080 was removed as a leader of H4CK3R$ and Sociopaths. skull was added as a leader of H4CK3R$. NulldB was added as a leader of The Academy. uid 811 was added as a leader of Gamblers.",
+            "description": "Succubus and Olympians groups are listed for sale. Ethereal, Pulse, and Sociopaths groups recently sold to 6. New group Casino was created by Zeus. Pulse was rebranded to H4CK3R$. Ethereal was rebranded to The Academy. uid 8080 was removed as a leader of H4CK3R$ and Sociopaths. skull was added as a leader of H4CK3R$. 7 was added as a leader of The Academy. jcole was added as a leader of Gamblers.",
             "url": "",
             "users": [
-                {"uid": "3604010", "username": ""},
-                {"uid": "1342286", "username": ""},
-                {"uid": "6", "username": ""},
-                {"uid": "484743", "username": "Zeus"},
-                {"uid": "8080", "username": ""},
-                {"uid": "3740051", "username": "skull"},
-                {"uid": "7", "username": "NulldB"},
-                {"uid": "811", "username": ""}
+                {
+                    "uid": "3604010",
+                    "username": "SecretAchiever101"
+                },
+                {
+                    "uid": "1342286",
+                    "username": "Neil"
+                },
+                {
+                    "uid": "6",
+                    "username": "6"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "8080",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "3740051",
+                    "username": "skull"
+                },
+                {
+                    "uid": "7",
+                    "username": "7"
+                },
+                {
+                    "uid": "811",
+                    "username": "jcole"
+                }
             ]
         },
         {

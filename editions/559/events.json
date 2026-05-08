@@ -3,39 +3,105 @@
         {
             "category": "site",
             "title": "HFX 3.0 Browser Extension",
-            "description": "uid 574588 rebuilt the HFX browser extension from scratch to support modern browsers (post Manifest v2 changes), packed with new features.",
+            "description": "xadamxk rebuilt the HFX browser extension from scratch to support modern browsers (post Manifest v2 changes), packed with new features.",
             "url": "https://hackforums.net/showthread.php?tid=6312252",
             "users": [
-                {"uid": "574588", "username": ""}
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 208488, uid 2299014, uid 1895736, uid 2000705, uid 1580194, and uid 723282 received King Decade. uid 367757 received Green Apple. uid 5693200 and uid 4931690 received Stanley Fan. Octoberfest 2025 award earned by uid 5447855, uid 5655318, uid 5, Mix, uid 5064970, Aeowulf, uid 811, uid 827750, uid 3018464, uid 5693200, uid 5699805, Charlie Sheen, and uid 290801.",
+            "description": "jBarrel, TTxd3_T9, SIM-1895736, Kansur, Thron, and Jovis received King Decade. Ѕystem received Green Apple. DAL-SHA and Hackers received Stanley Fan. Octoberfest 2025 award earned by RangoWorld, Oh_Well, sharn, Mix, Eran, Aeowulf, jcole, Michael, Palestine, DAL-SHA, onlineuser | D3RFER, Charlie Sheen, and Yin Yang.",
             "url": "",
             "users": [
-                {"uid": "208488", "username": ""},
-                {"uid": "2299014", "username": ""},
-                {"uid": "1895736", "username": ""},
-                {"uid": "2000705", "username": ""},
-                {"uid": "1580194", "username": ""},
-                {"uid": "723282", "username": ""},
-                {"uid": "367757", "username": ""},
-                {"uid": "5693200", "username": ""},
-                {"uid": "4931690", "username": ""},
-                {"uid": "5447855", "username": ""},
-                {"uid": "5655318", "username": ""},
-                {"uid": "5", "username": ""},
-                {"uid": "2331053", "username": "Mix"},
-                {"uid": "5064970", "username": ""},
-                {"uid": "1486387", "username": "Aeowulf"},
-                {"uid": "811", "username": ""},
-                {"uid": "827750", "username": ""},
-                {"uid": "3018464", "username": ""},
-                {"uid": "5699805", "username": ""},
-                {"uid": "123", "username": "Charlie Sheen"},
-                {"uid": "290801", "username": ""}
+                {
+                    "uid": "208488",
+                    "username": "jBarrel"
+                },
+                {
+                    "uid": "2299014",
+                    "username": "TTxd3_T9"
+                },
+                {
+                    "uid": "1895736",
+                    "username": "SIM-1895736"
+                },
+                {
+                    "uid": "2000705",
+                    "username": "Kansur"
+                },
+                {
+                    "uid": "1580194",
+                    "username": "Thron"
+                },
+                {
+                    "uid": "723282",
+                    "username": "Jovis"
+                },
+                {
+                    "uid": "367757",
+                    "username": "Ѕystem"
+                },
+                {
+                    "uid": "5693200",
+                    "username": "DAL-SHA"
+                },
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                },
+                {
+                    "uid": "5447855",
+                    "username": "RangoWorld"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                },
+                {
+                    "uid": "5",
+                    "username": "sharn"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                },
+                {
+                    "uid": "5064970",
+                    "username": "Eran"
+                },
+                {
+                    "uid": "1486387",
+                    "username": "Aeowulf"
+                },
+                {
+                    "uid": "811",
+                    "username": "jcole"
+                },
+                {
+                    "uid": "827750",
+                    "username": "Michael"
+                },
+                {
+                    "uid": "3018464",
+                    "username": "Palestine"
+                },
+                {
+                    "uid": "5699805",
+                    "username": "onlineuser | D3RFER"
+                },
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                },
+                {
+                    "uid": "290801",
+                    "username": "Yin Yang"
+                }
             ]
         },
         {
@@ -48,11 +114,17 @@
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "uid 5418830 reached 5,000 posts. uid 666 became the first member to reach 5,000 excellent credibility.",
+            "description": "Moooookie reached 5,000 posts. DemonAsylum became the first member to reach 5,000 excellent credibility.",
             "url": "",
             "users": [
-                {"uid": "5418830", "username": ""},
-                {"uid": "666", "username": ""}
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                },
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                }
             ]
         },
         {

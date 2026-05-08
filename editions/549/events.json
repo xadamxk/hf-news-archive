@@ -6,34 +6,70 @@
             "description": "Omniscient introduced bulk upgrade purchase opportunities for vendors at discounted rates, allowing them to gift upgrades as value-adds to customers via a dedicated control panel.",
             "url": "https://hackforums.net/showthread.php?tid=6305900",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 177676 received Green Apple. uid 137539 received King Decade. uid 5655318 received Lounge Head. uid 2370822 received Dicey. uid 4189082 received Quickly Loved. uid 355243 received King Decade. uid 82499 received King Decade. uid 5503276 received Flip Reaper. uid 1923973 received King Decade.",
+            "description": "Mr.MK received Green Apple. Frap received King Decade. Oh_Well received Lounge Head. Mech received Dicey. W1NK1LL3RX received Quickly Loved. Arrogance received King Decade. Dess received King Decade. Radi received Flip Reaper. Thin received King Decade.",
             "url": "",
             "users": [
-                {"uid": "177676", "username": ""},
-                {"uid": "137539", "username": ""},
-                {"uid": "5655318", "username": ""},
-                {"uid": "2370822", "username": ""},
-                {"uid": "4189082", "username": ""},
-                {"uid": "355243", "username": ""},
-                {"uid": "82499", "username": ""},
-                {"uid": "5503276", "username": ""},
-                {"uid": "1923973", "username": ""}
+                {
+                    "uid": "177676",
+                    "username": "Mr.MK"
+                },
+                {
+                    "uid": "137539",
+                    "username": "Frap"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                },
+                {
+                    "uid": "2370822",
+                    "username": "Mech"
+                },
+                {
+                    "uid": "4189082",
+                    "username": "W1NK1LL3RX"
+                },
+                {
+                    "uid": "355243",
+                    "username": "Arrogance"
+                },
+                {
+                    "uid": "82499",
+                    "username": "Dess"
+                },
+                {
+                    "uid": "5503276",
+                    "username": "Radi"
+                },
+                {
+                    "uid": "1923973",
+                    "username": "Thin"
+                }
             ]
         },
         {
             "category": "groups",
             "title": "Group & Crew News",
-            "description": "Succubus, Benevolence, and Mystery Inc groups remain listed for sale. uid 2033319 was added as leader of Olympians. uid 1446355 was removed as leader of Olympians and Benevolence.",
+            "description": "Succubus, Benevolence, and Mystery Inc groups remain listed for sale. Yakless was added as leader of Olympians. Trust was removed as leader of Olympians and Benevolence.",
             "url": "",
             "users": [
-                {"uid": "2033319", "username": ""},
-                {"uid": "1446355", "username": ""}
+                {
+                    "uid": "2033319",
+                    "username": "Yakless"
+                },
+                {
+                    "uid": "1446355",
+                    "username": "Trust"
+                }
             ]
         },
         {

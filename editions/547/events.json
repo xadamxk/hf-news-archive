@@ -6,7 +6,10 @@
             "description": "Omniscient proposed a gameplay idea where a random member's award could be hidden in a future game; the affected member would need to pay 100 bytes to unhide it.",
             "url": "https://hackforums.net/showthread.php?tid=6304719",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -15,7 +18,10 @@
             "description": "Omniscient deleted the Telegram channel and group due to minimal activity, and announced he has regained access to his X account, which will be used for website status updates.",
             "url": "https://hackforums.net/showthread.php?tid=6304519",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -24,32 +30,62 @@
             "description": "Omniscient added a new MyCode plugin allowing members to use Font Awesome icons in posts. Originally built for the upcoming DDoS Arena game, it is now available forum-wide.",
             "url": "https://hackforums.net/showthread.php?tid=6304717",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 5649157 and uid 2370822 received Lounge Head. uid 3888102 received Businessman. uid 679685 and uid 2266448 received King Decade. uid 952675 received Green Apple. uid 5680404 received Dicey. uid 2033319 received Flip Reaper.",
+            "description": "HerrWinston and Mech received Lounge Head. Clue received Businessman. Capps and newkid1 received King Decade. Pοιsonlεaf received Green Apple. Vectura received Dicey. Yakless received Flip Reaper.",
             "url": "",
             "users": [
-                {"uid": "5649157", "username": ""},
-                {"uid": "2370822", "username": ""},
-                {"uid": "3888102", "username": ""},
-                {"uid": "679685", "username": ""},
-                {"uid": "2266448", "username": ""},
-                {"uid": "952675", "username": ""},
-                {"uid": "5680404", "username": ""},
-                {"uid": "2033319", "username": ""}
+                {
+                    "uid": "5649157",
+                    "username": "HerrWinston"
+                },
+                {
+                    "uid": "2370822",
+                    "username": "Mech"
+                },
+                {
+                    "uid": "3888102",
+                    "username": "Clue"
+                },
+                {
+                    "uid": "679685",
+                    "username": "Capps"
+                },
+                {
+                    "uid": "2266448",
+                    "username": "newkid1"
+                },
+                {
+                    "uid": "952675",
+                    "username": "Pοιsonlεaf"
+                },
+                {
+                    "uid": "5680404",
+                    "username": "Vectura"
+                },
+                {
+                    "uid": "2033319",
+                    "username": "Yakless"
+                }
             ]
         },
         {
             "category": "groups",
             "title": "Group & Crew News",
-            "description": "Succubus, Olympians, and Benevolence groups remain listed for sale. Mystery Inc was newly listed for sale by uid 3909991.",
+            "description": "Succubus, Olympians, and Benevolence groups remain listed for sale. Mystery Inc was newly listed for sale by Scooby.",
             "url": "https://hackforums.net/showthread.php?tid=6304410",
             "users": [
-                {"uid": "3909991", "username": ""}
+                {
+                    "uid": "3909991",
+                    "username": "Scooby"
+                }
             ]
         },
         {

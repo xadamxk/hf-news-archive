@@ -6,7 +6,10 @@
             "description": "A group of scammers were found running an escrow site (BH-Escrow.com) targeting new members. Members encouraging its use should be reported to Omniscient.",
             "url": "https://hackforums.net/showthread.php?tid=6255924",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -33,44 +36,77 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Sky was granted The Protector, Support Feather, and Cool awards. Proof received the Cool and Da' Bomb awards. uid 4229993 earned the Black Hatter award for the second time.",
+            "description": "Sky was granted The Protector, Support Feather, and Cool awards. Proof received the Cool and Da' Bomb awards. Scrubspoof earned the Black Hatter award for the second time.",
             "url": "",
             "users": [
-                {"uid": "5002443", "username": "Sky"},
-                {"uid": "18", "username": "Proof"},
-                {"uid": "4229993", "username": ""}
+                {
+                    "uid": "5002443",
+                    "username": "Sky"
+                },
+                {
+                    "uid": "18",
+                    "username": "Proof"
+                },
+                {
+                    "uid": "4229993",
+                    "username": "Scrubspoof"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "uid 1391436 reached 2,000 popularity.",
+            "description": "Pentatonix reached 2,000 popularity.",
             "url": "",
             "users": [
-                {"uid": "1391436", "username": ""}
+                {
+                    "uid": "1391436",
+                    "username": "Pentatonix"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "uid 3550129 requested closure of his account. uid 4229993 was banned and shortly after unbanned. uid 5270491 was permanently banned (account under investigation). uid 5362586 was closed for luring members off-site to scam them. uid 1404526 was closed for threatening members' lives after being banned. Many ban-evaders were also banned.",
+            "description": "Lynx requested closure of his account. Scrubspoof was banned and shortly after unbanned. Dev Null was permanently banned (account under investigation). ร乇CU尺I丅ү ™ was closed for luring members off-site to scam them. Europe was closed for threatening members' lives after being banned. Many ban-evaders were also banned.",
             "url": "",
             "users": [
-                {"uid": "3550129", "username": ""},
-                {"uid": "4229993", "username": ""},
-                {"uid": "5270491", "username": ""},
-                {"uid": "5362586", "username": ""},
-                {"uid": "1404526", "username": ""}
+                {
+                    "uid": "3550129",
+                    "username": "Lynx"
+                },
+                {
+                    "uid": "4229993",
+                    "username": "Scrubspoof"
+                },
+                {
+                    "uid": "5270491",
+                    "username": "Dev Null"
+                },
+                {
+                    "uid": "5362586",
+                    "username": "ร乇CU尺I丅ү ™"
+                },
+                {
+                    "uid": "1404526",
+                    "username": "Europe"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "uid 3498413 took a 6-month vacation ban. uid 230053 took a 6-month vacation ban.",
+            "description": "Doctor. took a 6-month vacation ban. Local Celeb took a 6-month vacation ban.",
             "url": "",
             "users": [
-                {"uid": "3498413", "username": ""},
-                {"uid": "230053", "username": ""}
+                {
+                    "uid": "3498413",
+                    "username": "Doctor."
+                },
+                {
+                    "uid": "230053",
+                    "username": "Local Celeb"
+                }
             ]
         },
         {
@@ -93,7 +129,10 @@
             "description": "After a group owner abused the power of granting leadership, Omniscient added limitations to prevent future abuse of the feature.",
             "url": "https://hackforums.net/showthread.php?tid=6255503",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {

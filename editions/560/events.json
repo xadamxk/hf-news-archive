@@ -6,34 +6,70 @@
             "description": "Omniscient updated the site's sales tags, adding new animated versions designed by Motusora and removing some old ones.",
             "url": "https://hackforums.net/showthread.php?tid=6309469",
             "users": [
-                {"uid": "1", "username": "Omniscient"},
-                {"uid": "776749", "username": "Motusora"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
             ]
         },
         {
             "category": "site",
             "title": "HF Universal Translator",
-            "description": "uid 5680404 created a new universal translator tool that helps members interact on site even if they don't speak English well.",
+            "description": "Vectura created a new universal translator tool that helps members interact on site even if they don't speak English well.",
             "url": "https://hackforums.net/showthread.php?tid=6312840",
             "users": [
-                {"uid": "5680404", "username": ""}
+                {
+                    "uid": "5680404",
+                    "username": "Vectura"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 139820 received King Decade. uid 5646157 received Dicey, Stanley Fan, and Octoberfest 2025. uid 4931690 and uid 234024 received Flip Reaper. uid 5655318 received Quickly Loved. uid 4225267, uid 5594002, uid 1893427, and uid 463848 received Octoberfest 2025.",
+            "description": "FamousMassacre received King Decade. leste received Dicey, Stanley Fan, and Octoberfest 2025. Hackers and Deities received Flip Reaper. Oh_Well received Quickly Loved. Pimping, Chorozon, B3A, and Jinu received Octoberfest 2025.",
             "url": "",
             "users": [
-                {"uid": "139820", "username": ""},
-                {"uid": "5646157", "username": ""},
-                {"uid": "4931690", "username": ""},
-                {"uid": "234024", "username": ""},
-                {"uid": "5655318", "username": ""},
-                {"uid": "4225267", "username": ""},
-                {"uid": "5594002", "username": ""},
-                {"uid": "1893427", "username": ""},
-                {"uid": "463848", "username": ""}
+                {
+                    "uid": "139820",
+                    "username": "FamousMassacre"
+                },
+                {
+                    "uid": "5646157",
+                    "username": "leste"
+                },
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                },
+                {
+                    "uid": "234024",
+                    "username": "Deities"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                },
+                {
+                    "uid": "4225267",
+                    "username": "Pimping"
+                },
+                {
+                    "uid": "5594002",
+                    "username": "Chorozon"
+                },
+                {
+                    "uid": "1893427",
+                    "username": "B3A"
+                },
+                {
+                    "uid": "463848",
+                    "username": "Jinu"
+                }
             ]
         },
         {
@@ -49,7 +85,10 @@
             "description": "Cooligan was closed.",
             "url": "",
             "users": [
-                {"uid": "777", "username": "Cooligan"}
+                {
+                    "uid": "777",
+                    "username": "Cooligan"
+                }
             ]
         },
         {

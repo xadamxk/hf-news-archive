@@ -3,22 +3,61 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 1871421 received Flip Reaper. uid 1439650, uid 1085835, uid 1631830, uid 2632056, and uid 411961 received King Decade. uid 3364116 received Green Apple. uid 5704909 received Dicey. uid 4931690, Deany, uid 2017813, uid 5510687, and The Pact received the Octoberfest 2025 award.",
+            "description": "JoshAllen received Flip Reaper. mr.good, super666atheist, Respect, Swizzi00, and Dusk. received King Decade. Key received Green Apple. Adrlett received Dicey. Hackers, Deany, Fish, plops, and The Pact received the Octoberfest 2025 award.",
             "url": "",
             "users": [
-                {"uid": "1871421", "username": ""},
-                {"uid": "1439650", "username": ""},
-                {"uid": "3364116", "username": ""},
-                {"uid": "1085835", "username": ""},
-                {"uid": "5704909", "username": ""},
-                {"uid": "1631830", "username": ""},
-                {"uid": "2632056", "username": ""},
-                {"uid": "411961", "username": ""},
-                {"uid": "4931690", "username": ""},
-                {"uid": "1618863", "username": "Deany"},
-                {"uid": "2017813", "username": ""},
-                {"uid": "5510687", "username": ""},
-                {"uid": "1411092", "username": "The Pact"}
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                },
+                {
+                    "uid": "1439650",
+                    "username": "mr.good"
+                },
+                {
+                    "uid": "3364116",
+                    "username": "Key"
+                },
+                {
+                    "uid": "1085835",
+                    "username": "super666atheist"
+                },
+                {
+                    "uid": "5704909",
+                    "username": "Adrlett"
+                },
+                {
+                    "uid": "1631830",
+                    "username": "Respect"
+                },
+                {
+                    "uid": "2632056",
+                    "username": "Swizzi00"
+                },
+                {
+                    "uid": "411961",
+                    "username": "Dusk."
+                },
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Deany"
+                },
+                {
+                    "uid": "2017813",
+                    "username": "Fish"
+                },
+                {
+                    "uid": "5510687",
+                    "username": "plops"
+                },
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                }
             ]
         },
         {
@@ -31,11 +70,17 @@
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "uid 5252466 reached 10,000 posts. uid 5458992 reached 10,000 posts.",
+            "description": "DramaKing reached 10,000 posts. Jamika reached 10,000 posts.",
             "url": "",
             "users": [
-                {"uid": "5252466", "username": ""},
-                {"uid": "5458992", "username": ""}
+                {
+                    "uid": "5252466",
+                    "username": "DramaKing"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika"
+                }
             ]
         },
         {

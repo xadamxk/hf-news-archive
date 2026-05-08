@@ -24,31 +24,49 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "uid 1834476 received the Top Banana award. uid 2436943 received the Black Hatter award. uid 801999 was the first to earn the Octoberfest 2023 award.",
+            "description": "Nachfolger received the Top Banana award. account_ received the Black Hatter award. Biggs was the first to earn the Octoberfest 2023 award.",
             "url": "",
             "users": [
-                {"uid": "1834476", "username": ""},
-                {"uid": "2436943", "username": ""},
-                {"uid": "801999", "username": ""}
+                {
+                    "uid": "1834476",
+                    "username": "Nachfolger"
+                },
+                {
+                    "uid": "2436943",
+                    "username": "account_"
+                },
+                {
+                    "uid": "801999",
+                    "username": "Biggs"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "uid 5362586 was banned for having a second account. Several evading scammers and bots were also banned.",
+            "description": "ร乇CU尺I丅ү ™ was banned for having a second account. Several evading scammers and bots were also banned.",
             "url": "",
             "users": [
-                {"uid": "5362586", "username": ""}
+                {
+                    "uid": "5362586",
+                    "username": "ร乇CU尺I丅ү ™"
+                }
             ]
         },
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "uid 279955 took a 6-month vacation, returning March 20, 2024. uid 5051324 took a two-week vacation, returning October 14, 2023.",
+            "description": "Happeh took a 6-month vacation, returning March 20, 2024. uid 5051324 took a two-week vacation, returning October 14, 2023.",
             "url": "",
             "users": [
-                {"uid": "279955", "username": ""},
-                {"uid": "5051324", "username": ""}
+                {
+                    "uid": "279955",
+                    "username": "Happeh"
+                },
+                {
+                    "uid": "5051324",
+                    "username": "Unknown"
+                }
             ]
         },
         {
@@ -57,8 +75,14 @@
             "description": "uid 4993290 was closed for harassing members. Vibe was closed for scamming.",
             "url": "",
             "users": [
-                {"uid": "4993290", "username": ""},
-                {"uid": "646178", "username": "Vibe"}
+                {
+                    "uid": "4993290",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "646178",
+                    "username": "Vibe"
+                }
             ]
         },
         {
@@ -74,7 +98,10 @@
             "description": "Omniscient opened a discussion about new login methods for easier mobile access, including fingerprint scans and PINs.",
             "url": "https://hackforums.net/showthread.php?tid=6252392",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
