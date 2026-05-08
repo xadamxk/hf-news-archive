@@ -3,32 +3,30 @@
         {
             "category": "site",
             "title": "Policy Against Xbox Products Has Been Lifted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=4830930",
-            "users": []
-        },
-        {
-            "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Acosmism purchased Eclipse and is now the owner of the group.; Romania is now a leader of Eclipse.",
-            "url": "",
+            "description": "The 2015 prohibition on the sale of Xbox products (consoles, live codes, gift cards) — which previously closed the Xbox Live Membership Codes forum — has been eased. Omniscient commented on the original policy thread that gift cards are now allowed.",
+            "url": "https://hackforums.net/showthread.php?tid=4830930",
             "users": [
                 {
-                    "uid": "2273342",
-                    "username": "Romania"
-                },
-                {
-                    "uid": "3134890",
-                    "username": "Acosmism"
+                    "uid": "1",
+                    "username": "Omniscient"
                 }
             ]
         },
         {
             "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "title": "Eclipse ownership and leadership.",
+            "description": "Acosmism purchased Eclipse and is now the owner of the group. Romania is now a leader of Eclipse.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3134890",
+                    "username": "Acosmism"
+                },
+                {
+                    "uid": "2273342",
+                    "username": "Romania"
+                }
+            ]
         },
         {
             "category": "users",
@@ -61,7 +59,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Daddy was banned, pending closure; 146918496 was banned; ˢᵖᵃᶜᵉ was banned.",
             "url": "",
             "users": [
                 {
@@ -81,8 +79,8 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "",
-            "url": "",
+            "description": "Steve received the Diamond award; Maxim received a fourth Sticky Man award for his Deal Dispute filing thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5727474",
             "users": [
                 {
                     "uid": "2758907",
@@ -97,8 +95,8 @@
         {
             "category": "threads",
             "title": "How to properly file a Deal Dispute in a few steps",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5727474",
+            "description": "Maxim's straightforward guide on filing deal disputes.",
+            "url": "https://hackforums.net/showthread.php?tid=5727474",
             "users": [
                 {
                     "uid": "3077324",
@@ -109,8 +107,8 @@
         {
             "category": "threads",
             "title": "Time Management Guide - Stop Procrastination and Use Your Time Better!",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5729021",
+            "description": "Eagle 95's guide for those struggling to get things done.",
+            "url": "https://hackforums.net/showthread.php?tid=5729021",
             "users": [
                 {
                     "uid": "129349",
@@ -121,8 +119,8 @@
         {
             "category": "threads",
             "title": "Introductory Cryptographic Concepts",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5717858",
+            "description": "oxid's introduction to cryptography.",
+            "url": "https://hackforums.net/showthread.php?tid=5717858",
             "users": [
                 {
                     "uid": "3680778",
@@ -133,8 +131,8 @@
         {
             "category": "threads",
             "title": "the old forgotten staff members",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5726846",
+            "description": "Nyx-'s blast-from-the-past discussion about old staff members.",
+            "url": "https://hackforums.net/showthread.php?tid=5726846",
             "users": [
                 {
                     "uid": "11953",
@@ -144,33 +142,9 @@
         },
         {
             "category": "threads",
-            "title": "I bought a penis pump.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5726824",
-            "users": [
-                {
-                    "uid": "2682887",
-                    "username": "Mr. Robot"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "How many of you have been to jail/prison",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5728945",
-            "users": [
-                {
-                    "uid": "3332775",
-                    "username": "CydiaDev"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Steve's Testimonial ~ A Tribute to My Friend",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5725705",
+            "description": "Steve's experience on Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=5725705",
             "users": [
                 {
                     "uid": "2758907",
@@ -181,60 +155,12 @@
         {
             "category": "threads",
             "title": "5K posts short feedback thread",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5721317",
+            "description": "ScreemS' thoughts on possible Hack Forums improvements.",
+            "url": "https://hackforums.net/showthread.php?tid=5721317",
             "users": [
                 {
                     "uid": "1729678",
                     "username": "ScreemS"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "] 8x 3PIC UPGRADE GIVEAWAY",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5724531",
-            "users": [
-                {
-                    "uid": "1342759",
-                    "username": "Pеter"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "10x 3p1c Upgrades Contest",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5708471",
-            "users": [
-                {
-                    "uid": "12145",
-                    "username": "Lexsern"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Bypass Coinbase Fees!",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5729004",
-            "users": [
-                {
-                    "uid": "1034038",
-                    "username": "Lukas"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Vegas Shooting Thoughts?",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5729165",
-            "users": [
-                {
-                    "uid": "2946011",
-                    "username": "xxDr3aMz"
                 }
             ]
         },

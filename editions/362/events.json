@@ -3,14 +3,19 @@
         {
             "category": "site",
             "title": "Thread Subscriptions Deleted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5723635",
-            "users": []
+            "description": "Omniscient noticed users abusing the thread subscription feature — some had subscribed to thousands of threads. The abusers were banned and the subscriptions were emptied. The feature remains, but members will need to resubscribe to threads they want to keep up with.",
+            "url": "https://hackforums.net/showthread.php?tid=5723635",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Makaveli The Don is now a leader of Harmony and Consensus.; ScreemS is now leader of Harmony and Consensus.",
+            "title": "Group leadership changes.",
+            "description": "Makaveli The Don is now a leader of Harmony and Consensus. ScreemS is now a leader of Harmony and Consensus.",
             "url": "",
             "users": [
                 {
@@ -24,11 +29,16 @@
             ]
         },
         {
-            "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "category": "users",
+            "title": "Maxim promoted to Mentor",
+            "description": "Maxim was promoted to Mentor.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3077324",
+                    "username": "Maxim"
+                }
+            ]
         },
         {
             "category": "users",
@@ -65,7 +75,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Don Genovese was banned; Chef Curry was banned; Silent Uprising was banned; Dean Winchester was banned; Mr.Peanut was banned; Levi was banned.",
             "url": "",
             "users": [
                 {
@@ -113,7 +123,7 @@
         {
             "category": "users",
             "title": "Account closures",
-            "description": "",
+            "description": "Squidward was banned, then closed.",
             "url": "",
             "users": [
                 {
@@ -125,19 +135,23 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "",
+            "description": "Funtela received the 24k award; c$sh donated for 10 Grand Amethyst awards and subsequently received the Drunk and Ninja awards.",
             "url": "",
             "users": [
                 {
                     "uid": "1610871",
                     "username": "Funtela"
+                },
+                {
+                    "uid": "2414597",
+                    "username": "c$sh"
                 }
             ]
         },
         {
             "category": "interviews",
             "title": "Interview with ｋａ＄ｈ conducted by Night Fury.",
-            "description": "",
+            "description": "ｋａ＄ｈ, just past his one-year anniversary, discusses returning to HF after a long break, how the site has changed direction since 2009-10, his focus on the Tech section, his denial of being a blackhat hacker, and his frustration with the current group scene of constant buying and selling — suggesting a minimum-ownership rule could help stabilize groups.",
             "url": "",
             "users": [
                 {

@@ -2,29 +2,44 @@
     "events": [
         {
             "category": "site",
-            "title": "HF Features Broken",
-            "description": "Omniscient has steadily made fixes to the newly upgraded forum this week. For starters, he squashed a bug with the IP login history feature that has been occurring since May but had gone unnoticed. You can read more about it in his thread here. He also disabled the feature where group owners were receiving email notifications every time a new member applied for a group via User CP. The last fix we'll cover is the YouTube MyCode tag used for embedding videos in posts, which is now fully functional.",
-            "url": "http://hackforums.net/showthread.php?tid=5741402",
-            "users": []
+            "title": "Various Fixes Made This Week",
+            "description": "Omniscient squashed a bug with the IP login history feature that had gone unnoticed since May, disabled the feature where group owners received email notifications for every new member application via User CP, and fixed the YouTube MyCode tag for embedding videos in posts.",
+            "url": "https://hackforums.net/showthread.php?tid=5748921",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "New Navigation Menu",
-            "description": "If you have been browsing Hack Forums this week, you will notice that there is a new navigation menu at the very top of the page. This was added after the removal of Omniscient's previous hamburger menu experiment. This new menu is another step toward his goal of making the forum mobile-friendly.",
+            "description": "A new navigation menu was added at the top of the page after the removal of Omniscient's hamburger menu experiment — another step toward making the forum mobile-friendly.",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "Wiki Link Added to Navigation Menu",
-            "description": "A link to the official Hack Forums Wiki has been added to the navigation menu under the Help category. This is the first time since Omniscient's HF Writers Group and Wiki DELETED thread that members receive any additional news on the Writers group. With the link being added to the navigation menu, we assume that the Writers group will make a comeback.",
-            "url": "",
-            "users": []
+            "description": "A link to the official Hack Forums Wiki has been added to the navigation menu under the Help category — the first signal that the Writers group may make a comeback after its deletion.",
+            "url": "https://hackforums.net/showthread.php?tid=5748936",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Harmony was re-branded to Aurora.; Lexsern is now a leader of Aurora.; Limitless was re-branded to Prosperity, with 00100100 as the owner.",
+            "title": "Group rebrands and leadership.",
+            "description": "Harmony was rebranded to Aurora. Lexsern is now a leader of Aurora. Limitless was rebranded to Prosperity, with 00100100 as the owner.",
             "url": "",
             "users": [
                 {
@@ -38,21 +53,25 @@
             ]
         },
         {
-            "category": "threads",
-            "title": "Login IP History Bug",
-            "description": "Omniscient fixed a bug with the login IP history feature.",
-            "url": "http://hackforums.net/showthread.php?tid=5748921",
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Biggy has reached 1,000 posts; 'Ryan has reached 500 prestige",
+            "url": "",
             "users": [
                 {
-                    "uid": "1",
-                    "username": "Omniscient"
+                    "uid": "3725052",
+                    "username": "Biggy"
+                },
+                {
+                    "uid": "1400449",
+                    "username": "'Ryan"
                 }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "Neal Caffrey was banned for 'Improve your posting quality and attitude.'; Tundrun was banned for leaving an invalid scammer reputation.",
+            "description": "Neal Caffrey was banned with the reason 'Improve your posting quality and attitude'; Tundrun was banned for leaving an invalid scammer reputation.",
             "url": "",
             "users": [
                 {
@@ -68,7 +87,7 @@
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "",
+            "description": "Caliban took a 1 week vacation ban; Fortunate took a 1 week vacation ban; Regulus took a 1 week vacation ban.",
             "url": "",
             "users": [
                 {
@@ -88,8 +107,8 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Jean Paul Sartre received the Flamer award for this post; Nòde.js. received the Silver Medal award; ShadyEntry received the Graphic Master award.",
-            "url": "https://hackforums.net/showthread.php?tid=5746227&pid=56182449",
+            "description": "Jean Paul Sartre received the Flamer award for a post in the HF Theme UI Problems thread; Nòde.js. received the Silver Medal award; ShadyEntry received the Graphic Master award; SrNova received the Fish Err Man award for thread tid=5748569.",
+            "url": "",
             "users": [
                 {
                     "uid": "2599742",
@@ -102,30 +121,10 @@
                 {
                     "uid": "2295517",
                     "username": "ShadyEntry"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Awards",
-            "description": "SrNova received the Fish Err Man award for this thread.",
-            "url": "https://hackforums.net/showthread.php?tid=5748569",
-            "users": [
+                },
                 {
                     "uid": "3311699",
                     "username": "SrNova"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "What's your favorite award?",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5745463",
-            "users": [
-                {
-                    "uid": "777",
-                    "username": "Cooligan"
                 }
             ]
         },

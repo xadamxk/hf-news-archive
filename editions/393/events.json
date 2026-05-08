@@ -2,62 +2,20 @@
     "events": [
         {
             "category": "site",
-            "title": "Hack Forums privacy change (GDPR)",
-            "description": "Omniscient committed to GDPR-aligned changes; birthdays were removed from profiles and the minimum age was raised to sixteen.",
-            "url": "http://hackforums.net/showthread.php?tid=5836794",
+            "title": "Hack Forums Privacy Change - Continued",
+            "description": "As part of the GDPR compliance effort, Omniscient announced the removal of birthdays from member profiles. The age restriction was also changed to 16.",
+            "url": "https://hackforums.net/showthread.php?tid=5836794",
             "users": [
                 {
                     "uid": "1",
                     "username": "Omniscient"
                 }
             ]
-        },
-        {
-            "category": "threads",
-            "title": "Best decentralized exchanges (member list)",
-            "description": "Staff-curated discussion thread collecting decentralized exchange options and member feedback.",
-            "url": "http://hackforums.net/showthread.php?tid=5842124",
-            "users": [
-                {
-                    "uid": "1",
-                    "username": "Omniscient"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "Groups for sale",
-            "description": "KɪɴG listed Superior; Divined advertised a group sale in the same period.",
-            "url": "http://hackforums.net/showthread.php?tid=5824217",
-            "users": [
-                {
-                    "uid": "1407964",
-                    "username": "KɪɴG"
-                },
-                {
-                    "uid": "2292899",
-                    "username": "Divined"
-                }
-            ]
-        },
-        {
-            "category": "groups",
-            "title": "Leadership changes",
-            "description": "No roster moves reported for the cutoff window.",
-            "url": "",
-            "users": []
-        },
-        {
-            "category": "groups",
-            "title": "Group recruitments and information threads",
-            "description": "HF News recruitment, political subforum, Terminal, SheepGang, Appraisers, Sui Generis, Famous, Skill, Samaritans lines; standing Appraisers, Influence, Sui Generis, Samaritans, and Unity roadmap info threads.",
-            "url": "",
-            "users": []
         },
         {
             "category": "users",
-            "title": "Post and reputation milestones; Mentor rotation",
-            "description": "Genoboy crossed 1,000 posts; oвѕervanт and Judge Judy crossed 1,000 positive reputation; Crystallize. stepped down from Mentor.",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Genoboy has reached 1,000 posts; oвѕervanт has reached 1,000 positive reputation; Judge Judy has reached 1,000 positive reputation",
             "url": "",
             "users": [
                 {
@@ -71,7 +29,15 @@
                 {
                     "uid": "894098",
                     "username": "Judge Judy"
-                },
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Crystallize. removed from Mentor",
+            "description": "Crystallize. is no longer a Mentor.",
+            "url": "",
+            "users": [
                 {
                     "uid": "3125649",
                     "username": "Crystallize."
@@ -81,7 +47,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Tonka was banned.",
             "url": "",
             "users": [
                 {
@@ -113,7 +79,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Kawen purchased Xerotic Bot DNA and donated through Master Donator / Grand Amethyst with follow-on Black Hatter and Businessman; Nobility donated for Master Donator with DaBomb, Mad Scientist, and a Sticky Man thread; Judge Judy earned Lounge Head.",
+            "description": "Kawen donated for the Xerotic Bot DNA award and almost all Crypto Currency awards, and donated for Master Donator and Grand Amethyst, subsequently receiving the Black Hatter and Businessman awards; Nobility donated for Master Donator and subsequently received the DaBomb and Mad Scientist awards, and also received the Sticky Man award for thread tid=5838239; Judge Judy received the Lounge Head award.",
             "url": "",
             "users": [
                 {
@@ -132,12 +98,19 @@
         },
         {
             "category": "threads",
+            "title": "Best Decentralized Exchanges",
+            "description": "A discussion thread compiling decentralized cryptocurrency exchanges recognized by Omniscient — Waves Platform, CryptoBridge, Airswap, IDEX, and others.",
+            "url": "https://hackforums.net/showthread.php?tid=5842124",
+            "users": []
+        },
+        {
+            "category": "threads",
             "title": "PUBG sues Fortnite",
-            "description": "Crystallize. surfaced the industry lawsuit chatter.",
-            "url": "http://hackforums.net/showthread.php?tid=5842355",
+            "description": "Crystallize.'s discussion thread on PUBG suing Fortnite.",
+            "url": "https://hackforums.net/showthread.php?tid=5842355",
             "users": [
                 {
-                    "uid": "5511953",
+                    "uid": "3125649",
                     "username": "Crystallize."
                 }
             ]
@@ -145,24 +118,12 @@
         {
             "category": "threads",
             "title": "500 -reps a year since 2008",
-            "description": "Nyx- highlighted long-running negative reputation totals.",
-            "url": "http://hackforums.net/showthread.php?tid=5842116",
+            "description": "Nyx-'s thread highlighting that he has received 500 negative reps each year since 2008.",
+            "url": "https://hackforums.net/showthread.php?tid=5842116",
             "users": [
                 {
                     "uid": "11953",
                     "username": "Nyx-"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "[$1000] Brony Awards! Contest Ends In One Week!",
-            "description": "Kawen hosted another large award giveaway.",
-            "url": "http://hackforums.net/showthread.php?tid=5841410",
-            "users": [
-                {
-                    "uid": "3894729",
-                    "username": "Kawen"
                 }
             ]
         },

@@ -3,42 +3,32 @@
         {
             "category": "site",
             "title": "No Time for Downtime",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5675353",
-            "users": []
-        },
-        {
-            "category": "site",
-            "title": "No Time for Downtime",
-            "description": "",
+            "description": "There was a server outage on August 7 due to a bad drive (a known issue), but Omniscient dealt with it promptly. There are plans to move the entire server to a new location for more stability.",
             "url": "http://hackforums.net/showthread.php?tid=5688516",
-            "users": []
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Nex+ rebranded Echo into Limitless.; Froggy is now the owner of The Entrepreneurs after Formula1 gifted her ownership. Soon after, she rebraned the group into the Socialites.; topdog77 purchased The Order and has rebranded it into The Executives.; Meow & Juicy- are now leaders of Revolution.",
+            "title": "Group rebrands and ownership changes",
+            "description": "Nex+ rebranded Echo into Limitless. Froggy became the owner of The Entrepreneurs after Formula1 gifted her ownership, and rebranded the group into the Socialites. topdog77 purchased The Order and rebranded it into The Executives.",
             "url": "",
             "users": [
                 {
-                    "uid": "923753",
-                    "username": "Juicy-"
-                },
-                {
-                    "uid": "1033713",
-                    "username": "Formula1"
+                    "uid": "2194640",
+                    "username": "Nex+"
                 },
                 {
                     "uid": "1320406",
                     "username": "Froggy"
                 },
                 {
-                    "uid": "1500389",
-                    "username": "Meow"
-                },
-                {
-                    "uid": "2194640",
-                    "username": "Nex+"
+                    "uid": "1033713",
+                    "username": "Formula1"
                 },
                 {
                     "uid": "2853444",
@@ -48,10 +38,19 @@
         },
         {
             "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "title": "Group leadership changes.",
+            "description": "Meow and Juicy- are now leaders of Revolution.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1500389",
+                    "username": "Meow"
+                },
+                {
+                    "uid": "923753",
+                    "username": "Juicy-"
+                }
+            ]
         },
         {
             "category": "users",
@@ -84,7 +83,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Obli was banned pending closure, per their request; Aggron was banned for trolling; Hastur was banned for rep abuse; Windows 98 was banned.",
             "url": "",
             "users": [
                 {
@@ -124,8 +123,8 @@
         {
             "category": "users",
             "title": "Account closures",
-            "description": "",
-            "url": "",
+            "description": "~ Left HF For Good ~ a/k/a anguish was closed per their request; g4143 was closed because of a post in the SRPP forum; YayHar was closed.",
+            "url": "https://hackforums.net/showthread.php?tid=5689372",
             "users": [
                 {
                     "uid": "3142667",
@@ -144,7 +143,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Juicy- donated for Bitcoinage and Master Donator and received the Drunk award; Cheif. donated for Bitcoinage; Steve donated for Grand Amethyst and received the FPS Gawd and Ninja awards; Lexsern donated for 2x Grand Amethyst and subsequently received the Nina, Jailbreak Freak, and Music Lover awards; g4143 has all their awards removed.",
+            "description": "Juicy- donated for Bitcoinage and subsequently received the Drunk award; Juicy- also donated for the Master Donator award; Chief. donated for the Bitcoinage award; Steve donated for the Grand Amethyst award and subsequently received the FPS Gawd and Ninja awards; Lexsern donated for Grand Amethyst x2 and subsequently received the Ninja, Jailbreak Freak, and Music Lover awards; g4143 had all of their awards removed.",
             "url": "",
             "users": [
                 {
@@ -171,8 +170,8 @@
         },
         {
             "category": "threads",
-            "title": "Hack Forums Mobile",
-            "description": "",
+            "title": "Hack Forums Mobile [Full Desktop Functionality] [All Users]",
+            "description": "Polunom shares a Hack Forums mobile app for Android created by a community member.",
             "url": "http://hackforums.net/showthread.php?tid=5687506",
             "users": [
                 {
@@ -183,8 +182,8 @@
         },
         {
             "category": "threads",
-            "title": "The Private Investigation Section Guide.",
-            "description": "",
+            "title": "The Private Investigation Section Guide | [READ BEFORE POSTING]",
+            "description": "Bromden writes a thread for anyone interested in beginning their private investigation journey.",
             "url": "http://hackforums.net/showthread.php?tid=5689252",
             "users": [
                 {
@@ -195,13 +194,25 @@
         },
         {
             "category": "threads",
-            "title": "Buffer Overflow Part 2 : Introduction to assembly",
-            "description": "",
+            "title": "[Tutorial] Buffer Overflow Part 2: Introduction to assembly",
+            "description": "7_R3X follows up his first guide with a second tutorial on buffer overflow.",
             "url": "http://hackforums.net/showthread.php?tid=5690465",
             "users": [
                 {
                     "uid": "2780869",
                     "username": "7_R3X"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Vid Tut] Email spoofing via Terminal",
+            "description": "Blackshield_real created a video tutorial on how to email spoof using terminal.",
+            "url": "http://hackforums.net/showthread.php?tid=5683791",
+            "users": [
+                {
+                    "uid": "3588010",
+                    "username": "Blackshield_real"
                 }
             ]
         },
@@ -243,32 +254,20 @@
         },
         {
             "category": "threads",
-            "title": "My Transformation - From 130kg to 95kg",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5688995",
+            "title": "Thought Police Win",
+            "description": "Omniscient made a thread in the SRPP forum.",
+            "url": "http://hackforums.net/showthread.php?tid=5689372",
             "users": [
                 {
-                    "uid": "1343245",
-                    "username": "What"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "My Destiny Gundam is now 100% complete",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5690108",
-            "users": [
-                {
-                    "uid": "1618863",
-                    "username": "Japanese"
+                    "uid": "1",
+                    "username": "Omniscient"
                 }
             ]
         },
         {
             "category": "interviews",
             "title": "Interview with Sorzus conducted by Tsundere.",
-            "description": "",
+            "description": "Sorzus, the developer behind Orcus RAT, discusses what got him into programming, building Orcus, dealing with backlash from journalists like Krebs, his love for C#, aspirations to work for Microsoft/Apple/SAP, ideas for promoting programming education in Germany, and possibly starting a YouTube tutorial series.",
             "url": "",
             "users": [
                 {
@@ -280,13 +279,6 @@
                     "username": "Tsundere"
                 }
             ]
-        },
-        {
-            "category": "news",
-            "title": "Contributors to this edition.",
-            "description": "",
-            "url": "",
-            "users": []
         }
     ],
     "edition": {

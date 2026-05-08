@@ -3,23 +3,78 @@
         {
             "category": "site",
             "title": "Tabs & Modern Blue Theme Returning",
-            "description": "After many complaints regarding the new Hack Forums theme, Omniscient announced that the previous site layout will make a comeback. Throughout the next few weeks he will be discarding the current theme and rebuilding the Modern Blue theme and tabs navigation. He also stated that he will no longer be working on making the site responsive or mobile compliant.",
-            "url": "http://hackforums.net/showthread.php?tid=5751402",
-            "users": []
+            "description": "After many complaints regarding the new Hack Forums theme, Omniscient announced he will revert to the previous Modern Blue theme with tabs navigation over the next few weeks. He also stated he will no longer be working on making the site responsive or mobile compliant.",
+            "url": "https://hackforums.net/showthread.php?tid=5751402",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "Omniscient Injured in Car Accident",
-            "description": "On Wednesday, November 8, Omniscient was involved in a car accident that resulted in a totaled vehicle, a concussion, bruised ribs, and a sore neck. This unfortunate event has caused delays on his work while he meets with lawyers, doctors, and insurance agents.",
-            "url": "http://hackforums.net/showthread.php?tid=5749792",
-            "users": []
+            "description": "On Wednesday, November 8, Omniscient was involved in a car accident that resulted in a totaled vehicle, a concussion, bruised ribs, and a sore neck. The accident has caused delays on his work while he meets with lawyers, doctors, and insurance agents.",
+            "url": "https://hackforums.net/showthread.php?tid=5749792",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "Suggestions and Ideas Forum Reopened",
-            "description": "Omniscient has reopened the Suggestions and Ideas forum, allowing members to share their ideas on how to improve the site. It was originally closed on August 6, 2017, after Omniscient stated he would like to focus more on improving features that currently exist.",
+            "description": "Omniscient has reopened the Suggestions and Ideas forum, allowing members to share ideas to improve the site. It was originally closed on August 6, 2017.",
             "url": "https://hackforums.net/showthread.php?tid=5751411",
-            "users": []
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group ownership and leadership.",
+            "description": "Camerοn is now the owner of Revolution. Crystallize. is no longer a leader of Torque. Vyrez. is no longer the owner of Revolution.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1990800",
+                    "username": "Camerοn"
+                },
+                {
+                    "uid": "3125649",
+                    "username": "Crystallize."
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Lukas has reached 1,000 reputation points; Night Fury has reached 1,000 reputation points; Riyu～っ☆ has reached 2,000 reputation points",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury"
+                },
+                {
+                    "uid": "3129680",
+                    "username": "Riyu～っ☆"
+                }
+            ]
         },
         {
             "category": "users",
@@ -54,22 +109,14 @@
             ]
         },
         {
-            "category": "site",
-            "title": "Group Leadership Changes",
-            "description": "Camerοn is now the owner of Revolution; Crystallize. is no longer a leader of Torque; Vyrez. is no longer the owner of Revolution.",
-            "url": "",
+            "category": "threads",
+            "title": "Exercise \"How do I start working out?\" | Beginner's Fitness Guide",
+            "description": "Biggy's beginner's guide to fitness, just in time for new year's resolutions.",
+            "url": "https://hackforums.net/showthread.php?tid=5745632",
             "users": [
                 {
-                    "uid": "1990800",
-                    "username": "Camerοn"
-                },
-                {
-                    "uid": "3125649",
-                    "username": "Crystallize."
-                },
-                {
-                    "uid": "2439716",
-                    "username": "Vyrez."
+                    "uid": "3725052",
+                    "username": "Biggy"
                 }
             ]
         },

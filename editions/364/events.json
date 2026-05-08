@@ -1,16 +1,9 @@
 {
     "events": [
         {
-            "category": "site",
-            "title": "Support the HF News Team",
-            "description": "The truth is that even though our forum has over three million registered members, there are still some people that don't even know we exist. If you would like to support the team, one of the simplest ways of doing so is by wearing our support signatures. You can find those signatures in the second post of each news edition!\n\n\n\n       \n\n\n\nhttps://i.imgur.com/wYi4ilf.jpg",
-            "url": "",
-            "users": []
-        },
-        {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Starstruck is no longer a leader of Skill.; https://hackforums.net/images/modern_bl/groupimages/english/dawn2.png",
+            "title": "Group changes.",
+            "description": "Starstruck is no longer a leader of Skill. Dawn has a new userbar.",
             "url": "",
             "users": [
                 {
@@ -20,25 +13,26 @@
             ]
         },
         {
-            "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "category": "users",
+            "title": "iHydra promoted to Mentor",
+            "description": "iHydra received the Mentor rank.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
         },
         {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "Bαker has reached 5,000 posts; iHydra received the Mentor rank; Jamieee has reached 24,000 posts; LastSession has reached 3,000 reported posts; Riyu～っ☆ reached 1,000 prestige; SlyCoyote has reached 500 prestige; Staid has reached 4,000 positive reputation; testaccountplsignore has reached 10,000 posts; testaccountplsignore has reached 1,000 positive reputation; testaccountplsignore has reached 1,000 prestige",
+            "description": "Bαker has reached 5,000 posts; Jamieee has reached 24,000 posts; LastSession has reached 3,000 reported posts; Riyu～っ☆ has reached 1,000 prestige; SlyCoyote has reached 500 prestige; Staid has reached 4,000 positive reputation; testaccountplsignore has reached 10,000 posts; testaccountplsignore has reached 1,000 positive reputation; testaccountplsignore has reached 1,000 prestige",
             "url": "",
             "users": [
                 {
                     "uid": "3229947",
                     "username": "Bαker"
-                },
-                {
-                    "uid": "561239",
-                    "username": "iHydra"
                 },
                 {
                     "uid": "403479",
@@ -63,21 +57,13 @@
                 {
                     "uid": "3090794",
                     "username": "testaccountplsignore"
-                },
-                {
-                    "uid": "3090794",
-                    "username": "testaccountplsignore"
-                },
-                {
-                    "uid": "3090794",
-                    "username": "testaccountplsignore"
                 }
             ]
         },
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "hippieb0y was banned for having multiple accounts; Kareem⁣⁣⁣⁣ was banned for making alts to vouch for himself; .Lowkey was banned for low quality posting; Pharmacist was banned for gang repping; ᴘʀᴇᴅᴀᴛᴏʀ was banned for hosting a fake contest; - Sam - was banned for low quality posting; Vanilla. was banned for sales trashing; 'Verdict was banned for thread edit abuse; Vyrez. was banned for violating the 24 hour bump limit.",
             "url": "",
             "users": [
                 {
@@ -121,7 +107,7 @@
         {
             "category": "users",
             "title": "Vacation bans",
-            "description": "",
+            "description": "ｋａ＄ｈ has taken a 6 month vacation ban.",
             "url": "",
             "users": [
                 {
@@ -133,7 +119,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "",
+            "description": "Eagle 95 received the Sticky Man award for his Time Management Guide thread; FlossinRod received the Black Hatter and FPS Gawd awards; grail received the Drunk award; Jamieee received the 24k award; Kill Joy donated for the Grand Amethyst award and subsequently received the Hustler and Great Thinker awards; Maxim received his fifth Sticky Man award for thread tid=5705971; oxid received the Sticky Man award for his Introductory Cryptographic Concepts thread; testaccountplsignore donated for the Grand Amethyst award and subsequently received the Speaker of the House and Flamer awards; TopKekeroni received the Award Whore award; Vitani received the Sticky Man award for her Virtual Machines 101 thread.",
             "url": "",
             "users": [
                 {
@@ -181,8 +167,8 @@
         {
             "category": "threads",
             "title": "Virtual Machines 101 | Ultimate Beginner Guide",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5720978",
+            "description": "Vitani's guide on virtual machines and virtualization software.",
+            "url": "https://hackforums.net/showthread.php?tid=5720978",
             "users": [
                 {
                     "uid": "1999047",
@@ -192,9 +178,9 @@
         },
         {
             "category": "threads",
-            "title": "Crypto News  + Other Useful Stuff = Post Here Any Website About Crypto News",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5727925",
+            "title": "Crypto News [FILTER] + Other Useful Stuff",
+            "description": "EdoFazlinovic's resource for crypto news and trading.",
+            "url": "https://hackforums.net/showthread.php?tid=5727925",
             "users": [
                 {
                     "uid": "3710142",
@@ -204,33 +190,9 @@
         },
         {
             "category": "threads",
-            "title": "Largest tip you've ever given/received?",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5733080",
-            "users": [
-                {
-                    "uid": "3165279",
-                    "username": "Elitas"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Saving up for a house.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5732324",
-            "users": [
-                {
-                    "uid": "2682887",
-                    "username": "Mr. Robot"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Goods Testimonial/ 2012 - Present",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5732826",
+            "title": "Goods Testimonial / 2012 - Present",
+            "description": "Goods shares his experience after being on Hack Forums for five years.",
+            "url": "https://hackforums.net/showthread.php?tid=5732826",
             "users": [
                 {
                     "uid": "1502934",
@@ -240,33 +202,9 @@
         },
         {
             "category": "threads",
-            "title": "Ctrl+Alt+Del's 3p1c Upgrade Contest!",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5730529",
-            "users": [
-                {
-                    "uid": "3427514",
-                    "username": "Ctrl+Alt+Del"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Free Methods to get Likes,Comments & Followers on Instagram,Twitter,and Facebook !!!",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5730472",
-            "users": [
-                {
-                    "uid": "3713412",
-                    "username": "alexbit"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Everything Has a Cost",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5731412",
+            "title": "[Economics #1] Everything Has a Cost",
+            "description": "Sokar's debate on economics and the idea that nothing is free.",
+            "url": "https://hackforums.net/showthread.php?tid=5731412",
             "users": [
                 {
                     "uid": "2805469",
@@ -275,23 +213,9 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation picks",
-            "description": "GFX spotlight (battlestation showcase).",
-            "url": "http://hackforums.net/showthread.php?tid=5729511",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation picks",
-            "description": "GFX spotlight (battlestation showcase).",
-            "url": "http://hackforums.net/showthread.php?tid=5731663",
-            "users": []
-        },
-        {
             "category": "interviews",
             "title": "Interview with Ninetales. conducted by Night Fury.",
-            "description": "",
+            "description": "Ninetales., reflecting on four years on HF, discusses originally registering to find Need for Speed cheats, getting keylogged as a Runescape botter, his early dive into Bitcoin in 2013 and day-trading altcoins from his Computer Science class, his pivot to Ethereum mining, his reservations about cryptocurrency long-term displacing fiat, and his concerns about the slow death of group quality on HF.",
             "url": "",
             "users": [
                 {

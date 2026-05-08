@@ -2,29 +2,51 @@
     "events": [
         {
             "category": "site",
-            "title": "Avatar Gallery Installed",
-            "description": "The gallery of avatars is now available to all members.  Omniscient also mentioned that remote avatars aren't being allowed at this time and urged upgraded users to upload images they wish to use as an avatar. Removing avatars has also been disabled for the time being.",
-            "url": "http://hackforums.net/showthread.php?tid=5754639",
-            "users": []
-        },
-        {
-            "category": "site",
-            "title": "Let the man Work",
-            "description": "Omniscient is asking the community as a whole to give his inbox a break over the upgrade situation and allow him to work on making the necessary improvements rather than replying to dozens of private messages about the same thing.",
-            "url": "http://hackforums.net/showthread.php?tid=5753447",
+            "title": "HF News Twitter",
+            "description": "The Writ3rs HF News team has launched a Twitter account (@HFWrit3rs) to deliver news as early as possible. Multiple team members have access and sign tweets with initials (HY = iHydra, FG = Froggy, SM = Soulmate). The account will tweet user news, bans, changes, and drama.",
+            "url": "",
             "users": []
         },
         {
             "category": "site",
             "title": "deVoid Theme and Tabs Go Live",
-            "description": "Omniscient created a new theme for Hack Forums.",
-            "url": "http://hackforums.net/showthread.php?tid=5753853",
-            "users": []
+            "description": "After criticism over the previous retro-inspired purple theme, Omniscient created a gray scale theme called deVoid for Hack Forums and brought tabs navigation back. Many elements aren't yet final and constructive criticism is welcome.",
+            "url": "https://hackforums.net/showthread.php?tid=5753853",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Avatar Gallery Installed",
+            "description": "Omniscient announced that the gallery of avatars is now available to all members. Remote avatars aren't allowed at this time, and removing avatars has been disabled — upgraded users are urged to upload images.",
+            "url": "https://hackforums.net/showthread.php?tid=5754639",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Let the man Work",
+            "description": "Omniscient asked the community to give his inbox a break over the upgrade situation and let him work on improvements rather than reply to dozens of repetitive PMs. He also publicly shot down many of the most common suggestions he has been receiving.",
+            "url": "https://hackforums.net/showthread.php?tid=5753447",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Lukas is now a leader of Influence.; ScreemS is no longer a leader of Influence.",
+            "title": "Group leadership changes.",
+            "description": "Lukas is now a leader of Influence. ScreemS is no longer a leader of Influence.",
             "url": "",
             "users": [
                 {
@@ -39,20 +61,8 @@
         },
         {
             "category": "users",
-            "title": "Bans",
-            "description": "",
-            "url": "",
-            "users": [
-                {
-                    "uid": "275104",
-                    "username": "ra1d"
-                }
-            ]
-        },
-        {
-            "category": "users",
-            "title": "Member User Achievements",
-            "description": "GoldenEra has reached 1,000 posts; #Programmer has reached 500 prestige; Froggy has reached 500 prestige.",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "GoldenEra has reached 1,000 posts; #Programmer has reached 500 prestige; Froggy has reached 500 prestige",
             "url": "",
             "users": [
                 {
@@ -66,6 +76,30 @@
                 {
                     "uid": "1320406",
                     "username": "Froggy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "ra1d was banned.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "PC Running Slow or Think You're Infected? Read This!",
+            "description": "AsSaSs@iN's exclusive guide for HF members to speed up their PC.",
+            "url": "https://hackforums.net/showthread.php?tid=5753564",
+            "users": [
+                {
+                    "uid": "70909",
+                    "username": "AsSaSs@iN"
                 }
             ]
         },

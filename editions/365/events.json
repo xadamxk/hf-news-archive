@@ -2,22 +2,27 @@
     "events": [
         {
             "category": "site",
-            "title": "HF XMPP Chat Service Now Live",
-            "description": "Omniscient has recommended those wishing to join an XMPP chat service may try Hacker.im. The chatroom can be found by searching the server, 'im.hacker.im' and those looking to register can do so at hacker.im.",
-            "url": "http://hackforums.net/showthread.php?tid=5735745",
-            "users": []
+            "title": "XMPP Chat Service Now Live",
+            "description": "Omniscient has launched the public Hacker.IM XMPP service. Users can register at hacker.im/register; the chatroom is on the server im.hacker.im, with file transfers, group chats, OTR, and more.",
+            "url": "https://hackforums.net/showthread.php?tid=5735745",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "Hacker.IM Graphics Battle",
-            "description": "A graphics battle is being held to determine the new web design for the recently announced Hacker.IM. Although typical competitions usually run for one month, this round will be especially difficult having only two weeks to complete and submit your designs.",
-            "url": "http://hackforums.net/showthread.php?tid=5738473",
+            "description": "A graphics battle is being held to determine the new web design for Hacker.IM. The contest runs for two weeks (shorter than the typical month) — winner receives the Graphic Master award.",
+            "url": "https://hackforums.net/showthread.php?tid=5738473",
             "users": []
         },
         {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": ".Chief is no longer a leader of Socialites.; Crystallize. is now a leader of Unity.",
+            "title": "Group leadership changes.",
+            "description": ".Chief is no longer a leader of Socialites. Crystallize. is now a leader of Unity.",
             "url": "",
             "users": [
                 {
@@ -31,16 +36,9 @@
             ]
         },
         {
-            "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
-        },
-        {
             "category": "users",
             "title": "Posts, prestige, and reputation milestones",
-            "description": "Mustys has reached 1,000 posts; Escrow has reached 500 prestige; Effexion has reached 1,000 prestige, Atta girl",
+            "description": "Mustys has reached 1,000 posts; Escrow has reached 500 prestige; Effexion has reached 1,000 prestige",
             "url": "",
             "users": [
                 {
@@ -60,7 +58,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Kiyo was banned; Cokeboy was banned.",
             "url": "",
             "users": [
                 {
@@ -100,8 +98,8 @@
         {
             "category": "threads",
             "title": "Cryptocurrency Guide and Tutorial Mega Thread",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5727953",
+            "description": "Eagerkid's mega thread of ICO/coin reviews, regulation news, and crypto resources.",
+            "url": "https://hackforums.net/showthread.php?tid=5727953",
             "users": [
                 {
                     "uid": "2172949",
@@ -111,9 +109,21 @@
         },
         {
             "category": "threads",
+            "title": "Ethereum First: Investment Product Opens for Trading on Nasdaq Exchange",
+            "description": "Baker's thread on CoinShares launching an Ethereum exchange-traded note (ETN) on the Nasdaq Stockholm exchange, providing a single-asset investment vehicle for ether (and Bitcoin since 2015).",
+            "url": "https://hackforums.net/showthread.php?tid=5735112",
+            "users": [
+                {
+                    "uid": "3229947",
+                    "username": "Baker"
+                }
+            ]
+        },
+        {
+            "category": "threads",
             "title": "oxid's Testimonial",
             "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5738376",
+            "url": "https://hackforums.net/showthread.php?tid=5738376",
             "users": [
                 {
                     "uid": "3680778",
@@ -122,23 +132,9 @@
             ]
         },
         {
-            "category": "users",
-            "title": "Spotlight: Battlestation picks",
-            "description": "GFX spotlight (battlestation showcase).",
-            "url": "http://hackforums.net/showthread.php?tid=5738792",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation picks",
-            "description": "GFX spotlight (battlestation showcase).",
-            "url": "http://hackforums.net/showthread.php?tid=5725546",
-            "users": []
-        },
-        {
             "category": "interviews",
             "title": "Interview with oxid conducted by Tsundere.",
-            "description": "",
+            "description": "oxid, a few months in but already leading the cybersecurity sector in Dawn (after ｋａ＄ｈ's vacation ban), discusses the meaning of his username, his Dawn sector goals, advice for those entering cybersecurity (Security+ and CCNA certifications, opsec, lifelong learning), his musical tastes (metal, underground hip-hop), and his hobbies (skating, guitar, classical piano).",
             "url": "",
             "users": [
                 {

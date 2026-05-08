@@ -3,39 +3,42 @@
         {
             "category": "site",
             "title": "Stop Abusing Edit Feature",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5701152",
-            "users": []
+            "description": "After a member got closed, Omniscient warned that the ability to edit posts could be removed if abuse continues — members are not allowed to edit threads to destroy content and turn them into LQP. The forum already lost the junk feature due to similar abuse.",
+            "url": "https://hackforums.net/showthread.php?tid=5701152",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "API v2 Status Update",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5663026",
-            "users": []
-        },
-        {
-            "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "zSerity has decided to sell Novus Ordo Seclorum to ra1d. >>see thread; Novus Ordo Seclorum is being rebranded to Transcendence in light of its recent purchase. Graphics for the group are also being requested by ra1d. >>see thread.",
-            "url": "",
+            "description": "Summer is a busy season for Omniscient, so the v2 API update is expected sometime around October or November.",
+            "url": "https://hackforums.net/showthread.php?tid=5663026",
             "users": [
                 {
-                    "uid": "275104",
-                    "username": "ra1d."
-                },
-                {
-                    "uid": "1327245",
-                    "username": "zSerity"
+                    "uid": "1",
+                    "username": "Omniscient"
                 }
             ]
         },
         {
             "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "title": "Group changes.",
+            "description": "zSerity has sold Novus Ordo Seclorum to ra1d. The group is being rebranded to Transcendence in light of its purchase, with ra1d requesting graphics for the new branding.",
+            "url": "https://hackforums.net/showthread.php?tid=5700813",
+            "users": [
+                {
+                    "uid": "1327245",
+                    "username": "zSerity"
+                },
+                {
+                    "uid": "275104",
+                    "username": "ra1d"
+                }
+            ]
         },
         {
             "category": "users",
@@ -68,7 +71,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Grizzlies was banned.",
             "url": "",
             "users": [
                 {
@@ -92,7 +95,7 @@
         {
             "category": "users",
             "title": "Account closures",
-            "description": "",
+            "description": "@Jupiter was closed; Esme was closed per their request.",
             "url": "",
             "users": [
                 {
@@ -108,7 +111,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "Durham received the Eclipse award; Confound received the StickMan award for this thread.",
+            "description": "Durham received the Eclipse award; Confound received the Sticky Man award for his American Politics history and guide thread.",
             "url": "https://hackforums.net/showthread.php?tid=5695186",
             "users": [
                 {
@@ -123,13 +126,61 @@
         },
         {
             "category": "threads",
-            "title": "Riyu's Testimonial",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5700168",
+            "title": "LAMP Setup TUT",
+            "description": "1egi0n's tutorial on how to set up LAMP for your servers.",
+            "url": "https://hackforums.net/showthread.php?tid=5702360",
             "users": [
                 {
-                    "uid": "3129680",
-                    "username": "Riyu～っ☆"
+                    "uid": "3689825",
+                    "username": "1egi0n"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Discussion: Dark Net Pentesting Techniques & Methods",
+            "description": "pelayo's discussion thread on pentesting methods.",
+            "url": "https://hackforums.net/showthread.php?tid=5692295",
+            "users": [
+                {
+                    "uid": "1199577",
+                    "username": "pelayo"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[PREMIUM] Betternet VPN lifetime (iOS Jailbreak only)",
+            "description": "M0HX shares a free VPN for jailbroken iPhones.",
+            "url": "https://hackforums.net/showthread.php?tid=5702355",
+            "users": [
+                {
+                    "uid": "1441945",
+                    "username": "M0HX"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Tutorial: How to Unlock almost all Samsung devices fingerprint, password, pin etc.",
+            "description": "illiterate.'s tutorial for unlocking Samsung devices when codes are unknown.",
+            "url": "https://hackforums.net/showthread.php?tid=5701332",
+            "users": [
+                {
+                    "uid": "3688864",
+                    "username": "illiterate."
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Gigantic PSD pack! [Sigs, UB's, BG's]",
+            "description": "zmyl3's pack of PSDs for signatures, userbars, and backgrounds.",
+            "url": "https://hackforums.net/showthread.php?tid=5671048",
+            "users": [
+                {
+                    "uid": "2789986",
+                    "username": "zmyl3"
                 }
             ]
         },
@@ -137,27 +188,13 @@
             "category": "threads",
             "title": "Quick Feedback Regarding Coding Sections",
             "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5701152",
+            "url": "https://hackforums.net/showthread.php?tid=5701152",
             "users": [
                 {
                     "uid": "1382464",
                     "username": "Bluffer"
                 }
             ]
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation picks",
-            "description": "GFX spotlight (battlestation showcase).",
-            "url": "http://hackforums.net/showthread.php?tid=5689110",
-            "users": []
-        },
-        {
-            "category": "users",
-            "title": "Spotlight: Battlestation picks",
-            "description": "GFX spotlight (battlestation showcase).",
-            "url": "http://hackforums.net/showthread.php?tid=5706418",
-            "users": []
         },
         {
             "category": "news",

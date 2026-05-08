@@ -2,31 +2,27 @@
     "events": [
         {
             "category": "site",
-            "title": "No More Discussions in Weekly Reports",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5698512",
-            "users": []
+            "title": "Stop the Thread Editing Abuse!",
+            "description": "After Omniscient previously removed the Junk feature due to abuse, members have been working around it by editing old threads — changing the title to 'closed' or 'junk' and replacing the body with requests to junk. Omniscient and the staff team are cracking down and banning members for this behavior; some accounts have even been closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
-            "title": "Stop the Thread Editing Abuse!",
-            "description": "Due to members junking old, unwanted threads, Omniscient removed the Junk feature a while back. With that being said, this left members unable to junk the threads that they possibly made when they first joined the website and are now embarrassing to look at. Everyone has those types of threads so do not try and hide that. With that being said, members have found a way to get around this Junk feature removal by just simply editing their threads. Members are editing them by changing the title to, \"closed\" or \"junk\" and removing the body (content) of the thread and replacing it with \"Please junk this thread\", \"Pleas",
-            "url": "",
-            "users": []
-        },
-        {
-            "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Multiple official groups advertised recruitment or informational threads; see Group News listings in the edition post.",
-            "url": "",
-            "users": []
-        },
-        {
-            "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "title": "No More Discussions in Weekly Reports",
+            "description": "iHydra has changed the rule for the Weekly Reports thread — discussion posts are no longer allowed and will be junked. Members are asked to discuss reported items in the weekly edition threads instead. The team also introduced an experimental 'Breaking News' thread concept for time-sensitive HF events.",
+            "url": "https://hackforums.net/showthread.php?tid=5698512",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra"
+                }
+            ]
         },
         {
             "category": "users",
@@ -55,7 +51,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Viral was banned; M3RLIN was banned; 'Verdict was banned; VAGUΞ was banned; XCorruptX was banned; Squidward was banned; Divined was banned; Parker was banned; Collected was banned; Iambic was banned; Skilō was banned; Currency was banned; Junx was banned.",
             "url": "",
             "users": [
                 {
@@ -127,7 +123,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "",
+            "description": "Testaccountplsignore received the Eclipse award.",
             "url": "",
             "users": [
                 {
@@ -139,8 +135,8 @@
         {
             "category": "threads",
             "title": "A Complete Guide to Shiny Pokemon",
-            "description": "If you are a fan of Pokemon, come check this thread out. You will get the chance to learn what shiny Pokemon are and how to obtain them.",
-            "url": "http://hackforums.net/showthread.php?tid=5709422",
+            "description": "Aerodactyl's guide on what shiny Pokemon are and how to obtain them.",
+            "url": "https://hackforums.net/showthread.php?tid=5709422",
             "users": [
                 {
                     "uid": "3322334",
@@ -151,8 +147,8 @@
         {
             "category": "threads",
             "title": "A Comprehensive Guide to Raising a Puppy",
-            "description": "Raising a puppy might be more difficult than you think. If you want to learn some tips on how to raise your cute puppy, come check out Confounds thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5708720",
+            "description": "Confound's tips on raising a puppy.",
+            "url": "https://hackforums.net/showthread.php?tid=5708720",
             "users": [
                 {
                     "uid": "2920830",
@@ -163,8 +159,8 @@
         {
             "category": "threads",
             "title": "Red Hawk - Information Gathering & Vulnerability Scanning Tool",
-            "description": "Video tutorial on the Red Hawk tool which is used to gather information and find vulnerabilities.",
-            "url": "http://hackforums.net/showthread.php?tid=5715110",
+            "description": "Cyber Warrior's video tutorial on the Red Hawk tool used for information gathering and vulnerability scanning.",
+            "url": "https://hackforums.net/showthread.php?tid=5715110",
             "users": [
                 {
                     "uid": "1448718",
@@ -174,9 +170,9 @@
         },
         {
             "category": "threads",
-            "title": "How To Bypass WAF CloudProxy",
-            "description": "First part on how to bypass WAF CloudProxy.",
-            "url": "http://hackforums.net/showthread.php?tid=5710677",
+            "title": "[Part-1] How To Bypass WAF CloudProxy",
+            "description": "InjectorBoy's first part on bypassing WAF CloudProxy.",
+            "url": "https://hackforums.net/showthread.php?tid=5710677",
             "users": [
                 {
                     "uid": "3179306",
@@ -186,9 +182,9 @@
         },
         {
             "category": "threads",
-            "title": "How To Bypass WAF CloudProxy",
-            "description": "Part two of how to bypass WAF CloudProxy.",
-            "url": "http://hackforums.net/showthread.php?tid=5710679",
+            "title": "[Part-2] How To Bypass WAF CloudProxy",
+            "description": "Part two of InjectorBoy's WAF CloudProxy bypass series.",
+            "url": "https://hackforums.net/showthread.php?tid=5710679",
             "users": [
                 {
                     "uid": "3179306",
@@ -198,9 +194,9 @@
         },
         {
             "category": "threads",
-            "title": "Disguise an application file extension to doc/pdf/pptx/ any you want",
-            "description": "If you want to learn how to change a file extention with ease, view this video tutorial.",
-            "url": "http://hackforums.net/showthread.php?tid=5714848",
+            "title": "[Video Tut] Disguise an application file extension to doc/pdf/pptx/ any you want",
+            "description": "Blackshield_real's video tutorial on changing file extensions.",
+            "url": "https://hackforums.net/showthread.php?tid=5714848",
             "users": [
                 {
                     "uid": "3588010",
@@ -211,8 +207,8 @@
         {
             "category": "threads",
             "title": "C Basic hooking tutorial",
-            "description": "Basic coding tutorial in C.",
-            "url": "http://hackforums.net/showthread.php?tid=5710283",
+            "description": "Prock's basic C coding tutorial on hooking.",
+            "url": "https://hackforums.net/showthread.php?tid=5710283",
             "users": [
                 {
                     "uid": "3700763",
@@ -222,9 +218,9 @@
         },
         {
             "category": "threads",
-            "title": "#3 : Child Classes",
-            "description": "For those who want to learn about GDI development, here is the third tutorial created by Narwin on child classes.",
-            "url": "http://hackforums.net/showthread.php?tid=5714921",
+            "title": "[GDI Development] #3: Child Classes",
+            "description": "Narwin's third tutorial in the GDI development series, covering child classes.",
+            "url": "https://hackforums.net/showthread.php?tid=5714921",
             "users": [
                 {
                     "uid": "3304362",
@@ -234,9 +230,9 @@
         },
         {
             "category": "threads",
-            "title": "Writing a Metamorphic Engine / Real USG; Part 3",
-            "description": "Those familiar with C have the opportunity on how to help practice their skill in coding.",
-            "url": "http://hackforums.net/showthread.php?tid=5715247",
+            "title": "[Advanced] [C] Writing a Metamorphic Engine / Real USG; Part 3",
+            "description": "movsx continues his metamorphic engine series in C.",
+            "url": "https://hackforums.net/showthread.php?tid=5715247",
             "users": [
                 {
                     "uid": "2807283",
@@ -246,21 +242,9 @@
         },
         {
             "category": "threads",
-            "title": "Precautions of Progress: The example of Starlite",
-            "description": "Participate in DerMensch24's 53 SRPP discussion thread.",
-            "url": "http://hackforums.net/showthread.php?tid=5714916",
-            "users": [
-                {
-                    "uid": "3066693",
-                    "username": "DerMensch24"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "BitcoinGold - Second Hardfork",
-            "description": "Come view this thread in the Coin Speak forum about a hard fork.",
-            "url": "http://hackforums.net/showthread.php?tid=5710939",
+            "description": "The Illusionist's thread in the Coin Speak forum about the BitcoinGold hard fork.",
+            "url": "https://hackforums.net/showthread.php?tid=5710939",
             "users": [
                 {
                     "uid": "1453525",
@@ -269,105 +253,9 @@
             ]
         },
         {
-            "category": "threads",
-            "title": "What is your favorite shoe",
-            "description": "Everyone tries their best to look nice, from their shoes to their shirt. What shoes do you typically wear?",
-            "url": "http://hackforums.net/showthread.php?tid=5713859",
-            "users": [
-                {
-                    "uid": "3370727",
-                    "username": "Fresh"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Here is a photo of me.",
-            "description": "Check out this ugly ass picture of the user Japanese and his terrible taste in animated girls.",
-            "url": "http://hackforums.net/showthread.php?tid=5715283",
-            "users": [
-                {
-                    "uid": "1618863",
-                    "username": "Japanese"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Scramble's Testimonail - 5 years",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5712091",
-            "users": [
-                {
-                    "uid": "1603045",
-                    "username": "Scramble"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Testimonial",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5712800",
-            "users": [
-                {
-                    "uid": "42927",
-                    "username": "amid"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Snow's Testimonial | 5 Years",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5715005",
-            "users": [
-                {
-                    "uid": "1243490",
-                    "username": "Snow"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Free 1-year Anti-Malware Giveaway!",
-            "description": "No one is a fan of malware! Here is your chance to win some anti-malware.",
-            "url": "http://hackforums.net/showthread.php?tid=5713743",
-            "users": [
-                {
-                    "uid": "3704187",
-                    "username": "imanode"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "$25 Giveaway/Contest",
-            "description": "Some easy ways to make a few quick bucks.",
-            "url": "http://hackforums.net/showthread.php?tid=5713590",
-            "users": [
-                {
-                    "uid": "2171898",
-                    "username": "West Coast Ghost"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Win ONE MONTH Instagram Growth Service!",
-            "description": "Enter for your chance to grow your Instagram!",
-            "url": "http://hackforums.net/showthread.php?tid=5704701",
-            "users": [
-                {
-                    "uid": "2992674",
-                    "username": "tevaat"
-                }
-            ]
-        },
-        {
             "category": "interviews",
             "title": "Interview with ScreemS conducted by Tsundere.",
-            "description": "",
+            "description": "ScreemS, a leader of Influence, discusses how he climbed from member to leader, his vision for the group, his desire to revive the upgraded-members VIP section, his commitment to HF over the years, his reaction to Omniscient's removal of rep kill, and his current work in cinematography/VFX/photography (with plans for a Premiere Pro guide).",
             "url": "",
             "users": [
                 {

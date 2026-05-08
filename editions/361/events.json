@@ -2,42 +2,44 @@
     "events": [
         {
             "category": "site",
-            "title": "CCLEANER INFECTED WITH MALWARE -- CLICK TO READ MORE",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5720380",
+            "title": "CCleaner Infected With Malware",
+            "description": "Banner alert linking to a thread about CCleaner being infected with malware.",
+            "url": "https://hackforums.net/showthread.php?tid=5720380",
             "users": []
         },
         {
             "category": "site",
             "title": "HF XMPP Downtime & Future of XMPP?",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718189",
-            "users": []
-        },
-        {
-            "category": "site",
-            "title": "Silent Departure",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718091",
-            "users": []
-        },
-        {
-            "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Revolution has been suspended by Omniscient until further notice. All leaders have been removed and the owner, Vyrez, has been placed on a temporary two-week ban. >>thread; Socialites, dedicated to facilitating the growth of new members, has finalized their graphics and opened recruitment; however, it is invite-only. Currently the only leader is Chief. with Froggy as owner. >>thread",
-            "url": "",
+            "description": "After bringing back the HF XMPP that has been running for a while, Omniscient brought up the idea of making a public XMPP under the domain hacker.im — he is considering it and may already be in development.",
+            "url": "https://hackforums.net/showthread.php?tid=5718189",
             "users": [
                 {
                     "uid": "1",
                     "username": "Omniscient"
-                },
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Silent Departure",
+            "description": "Omniscient returned from his longest vacation yet, and has been replying noticeably faster since coming back.",
+            "url": "https://hackforums.net/showthread.php?tid=5718091",
+            "users": [
                 {
-                    "uid": "458073",
-                    "username": "Chief."
-                },
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Revolution suspended.",
+            "description": "Revolution has been suspended by Omniscient until further notice. All leaders have been removed and the owner, Vyrez, has been placed on a temporary two-week ban.",
+            "url": "https://hackforums.net/showthread.php?tid=5718108",
+            "users": [
                 {
-                    "uid": "1320406",
-                    "username": "Froggy"
+                    "uid": "1",
+                    "username": "Omniscient"
                 },
                 {
                     "uid": "2439716",
@@ -47,10 +49,19 @@
         },
         {
             "category": "groups",
-            "title": "Wiki recruitment (Hack Forums Wiki)",
-            "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
-            "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "title": "Socialites opens recruitment.",
+            "description": "Socialites, dedicated to facilitating the growth of new members, has finalized their graphics and opened recruitment (invite-only). Chief. is the only leader, with Froggy as owner.",
+            "url": "https://hackforums.net/showthread.php?tid=5718268",
+            "users": [
+                {
+                    "uid": "458073",
+                    "username": "Chief."
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                }
+            ]
         },
         {
             "category": "users",
@@ -75,7 +86,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Ambien was banned; Vyrez was banned; √ΛレΛƦ ＭΘƦＧHƱĿῘꜘS™ was banned; MR. I was banned; AlexJohn83 was banned.",
             "url": "",
             "users": [
                 {
@@ -113,34 +124,17 @@
             ]
         },
         {
-            "category": "threads",
-            "title": "Vacation",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718091",
-            "users": [
-                {
-                    "uid": "1",
-                    "username": "Omniscient"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Revolution Group",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718108",
-            "users": [
-                {
-                    "uid": "1",
-                    "username": "Omniscient"
-                }
-            ]
+            "category": "users",
+            "title": "Awards",
+            "description": "Several members purchased the XEMplary award.",
+            "url": "",
+            "users": []
         },
         {
             "category": "threads",
             "title": "tar Archiving Utility - Practical Examples | Linux",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718312",
+            "description": "Cyber Warrior's video on the tar archiving utility.",
+            "url": "https://hackforums.net/showthread.php?tid=5718312",
             "users": [
                 {
                     "uid": "1448718",
@@ -151,8 +145,8 @@
         {
             "category": "threads",
             "title": "How to learn Coding (from a newbie)",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5716955",
+            "description": "sw0p's guide for those looking to get into coding.",
+            "url": "https://hackforums.net/showthread.php?tid=5716955",
             "users": [
                 {
                     "uid": "3150804",
@@ -162,9 +156,9 @@
         },
         {
             "category": "threads",
-            "title": "How To Increase Your Memory & Brain Function",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5719465",
+            "title": "[GUIDE] How To Increase Your Memory & Brain Function",
+            "description": "Formula1's guide on increasing brain power.",
+            "url": "https://hackforums.net/showthread.php?tid=5719465",
             "users": [
                 {
                     "uid": "1033713",
@@ -175,8 +169,8 @@
         {
             "category": "threads",
             "title": "CAT 5 Hurricane Irma Discussions",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5710985",
+            "description": "Froggy's popular Hurricane Irma discussion thread.",
+            "url": "https://hackforums.net/showthread.php?tid=5710985",
             "users": [
                 {
                     "uid": "1320406",
@@ -186,81 +180,9 @@
         },
         {
             "category": "threads",
-            "title": "I'm going to legally change my name and gender.",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5719232",
-            "users": [
-                {
-                    "uid": "2682887",
-                    "username": "Mr. Robot"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "LOOK AT MY CAR SHOOT SHOTS POP POP POP",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5717162",
-            "users": [
-                {
-                    "uid": "2790629",
-                    "username": "Flacko Jodye"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "would you fuck a shemale?",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718171",
-            "users": [
-                {
-                    "uid": "3177887",
-                    "username": "sichtsale"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "How to get unlimited Playstation Plus!",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5719741",
-            "users": [
-                {
-                    "uid": "3706378",
-                    "username": "Souf"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "FREE VPN ALL USERS",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718751",
-            "users": [
-                {
-                    "uid": "3525824",
-                    "username": "Brian Finch"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Giving Away 100 Instagram Followers",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5718646",
-            "users": [
-                {
-                    "uid": "1125635",
-                    "username": "BooGod"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Eclipse  + Final Eclipse award  Sale",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5719848",
+            "title": "Eclipse [Official Group] + Final Eclipse award Sale",
+            "description": "Views is selling the Eclipse group along with the final Eclipse award.",
+            "url": "https://hackforums.net/showthread.php?tid=5719848",
             "users": [
                 {
                     "uid": "2947999",

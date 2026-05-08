@@ -3,28 +3,43 @@
         {
             "category": "site",
             "title": "Reputation Bumping has Been Disabled",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5745265",
-            "users": []
+            "description": "On October 30, Omniscient announced that reputation bumping has been completely disabled due to widespread abuse — updated reputations no longer bump to the top.",
+            "url": "https://hackforums.net/showthread.php?tid=5745265",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "Avatars Make a Return",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5741402",
-            "users": []
+            "description": "Omniscient announced that upgraded members can once again upload gif or static avatars.",
+            "url": "https://hackforums.net/showthread.php?tid=5741402",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "site",
             "title": "Laundry List of Future UI Fixes Posted",
-            "description": "",
-            "url": "http://hackforums.net/showthread.php?tid=5746227",
-            "users": []
+            "description": "On November 1, Omniscient created a thread enumerating UI upgrades he wants to implement following the MyBB 1.8x upgrade. He stated he isn't pleased with the current state of HF and will continue working until usability fixes are completed.",
+            "url": "https://hackforums.net/showthread.php?tid=5746227",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
         },
         {
             "category": "groups",
-            "title": "Group leadership and recruitment (stub)",
-            "description": "Ash Ketchum is now a leader of Terminal.; 'Fox is no longer a leader of Influence.",
+            "title": "Group leadership changes.",
+            "description": "Ash Ketchum is now a leader of Terminal. 'Fox is no longer a leader of Influence.",
             "url": "",
             "users": [
                 {
@@ -52,7 +67,7 @@
         {
             "category": "users",
             "title": "Bans",
-            "description": "",
+            "description": "Previously Known As... was banned for 1 year for reputation abuse; Mr. WAVES was banned, pending closure; LastSession was banned for 6 months; Ash Ketchum was banned for 2 weeks.",
             "url": "",
             "users": [
                 {
@@ -88,7 +103,7 @@
         {
             "category": "users",
             "title": "Awards",
-            "description": "",
+            "description": "Nadisty received the Music Lover award; Blazin received the Royalty award; 00100100 received the Ninja award.",
             "url": "",
             "users": [
                 {
@@ -108,8 +123,8 @@
         {
             "category": "threads",
             "title": "HF Features Broken",
-            "description": "HF Features Broken - Omniscient",
-            "url": "http://hackforums.net/showthread.php?tid=5741402",
+            "description": "Omniscient's official list of features currently broken on Hack Forums that will be fixed.",
+            "url": "https://hackforums.net/showthread.php?tid=5741402",
             "users": [
                 {
                     "uid": "1",
@@ -120,20 +135,8 @@
         {
             "category": "threads",
             "title": "HF Theme UI Problems and Fixes",
-            "description": "An official list of fixes that will be made regarding the new theme.",
-            "url": "http://hackforums.net/showthread.php?tid=5746227",
-            "users": [
-                {
-                    "uid": "1",
-                    "username": "Omniscient"
-                }
-            ]
-        },
-        {
-            "category": "threads",
-            "title": "Rep Bump",
-            "description": "Omniscient altered the reputation feature so that updated reputations are not bumped to the top.",
-            "url": "http://hackforums.net/showthread.php?tid=5745265",
+            "description": "Omniscient's official list of UI fixes planned for the new theme.",
+            "url": "https://hackforums.net/showthread.php?tid=5746227",
             "users": [
                 {
                     "uid": "1",
@@ -144,8 +147,8 @@
         {
             "category": "threads",
             "title": "How To Get Started With Linux | A Beginner's Guide",
-            "description": "How To Get Started With Linux | A Beginner's Guide - Sahaj",
-            "url": "http://hackforums.net/showthread.php?tid=5287536",
+            "description": "Sahaj's comprehensive guide for getting started with Linux.",
+            "url": "https://hackforums.net/showthread.php?tid=5287536",
             "users": [
                 {
                     "uid": "2440338",
@@ -155,21 +158,9 @@
         },
         {
             "category": "threads",
-            "title": "Virtual Machines 101 | Ultimate Beginner Guide",
-            "description": "The ultimate beginner guide for virtual machines.",
-            "url": "http://hackforums.net/showthread.php?tid=5720978",
-            "users": [
-                {
-                    "uid": "1999047",
-                    "username": "Vitani"
-                }
-            ]
-        },
-        {
-            "category": "threads",
             "title": "Beginner's Guide to Social Networking | Social Media Help Desk",
-            "description": "A beginner guide to social networking.",
-            "url": "http://hackforums.net/showthread.php?tid=5734031",
+            "description": "Funtela's beginner guide to social networking.",
+            "url": "https://hackforums.net/showthread.php?tid=5734031",
             "users": [
                 {
                     "uid": "1610871",
@@ -180,8 +171,8 @@
         {
             "category": "threads",
             "title": "Almost a year in.",
-            "description": "Almost a year in. - Ctrl+Alt+Del",
-            "url": "http://hackforums.net/showthread.php?tid=5745201",
+            "description": "Ctrl+Alt+Del shares the positive impact Hack Forums has had on his life.",
+            "url": "https://hackforums.net/showthread.php?tid=5745201",
             "users": [
                 {
                     "uid": "3427514",
