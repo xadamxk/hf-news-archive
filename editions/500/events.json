@@ -1,0 +1,75 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF News is Moving to Blogs",
+            "description": "The Hack Forums News is officially moving from threads to Blogs. Over the past few weeks, the news has been posted as blogs to test and improve the platform; it is now moving permanently.",
+            "url": "https://hackforums.net/showthread.php?tid=6147858",
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "Hydra"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Tor reached 6,000 posts. Incog reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "481087",
+                    "username": "Tor"
+                },
+                {
+                    "uid": "4880700",
+                    "username": "Incog"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Act of Valor was banned for 6 months for evading a vacation ban with multiple accounts. Childs Play was banned for 1 month for dealing without contracts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2501407",
+                    "username": "Act of Valor"
+                },
+                {
+                    "uid": "1761017",
+                    "username": "Childs Play"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "php took a vacation for 6 months (until 09/22/21).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "113705",
+                    "username": "php"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 500,
+        "date": 1618367858,
+        "pid": "",
+        "bid": "258",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 500"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "EW IMG MyCode Enabled",
+            "description": "The IMG MyCode tag has been enabled for the EW (E-Whoring) section.",
+            "url": "https://hackforums.net/showthread.php?tid=6007278",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "HF Convos Link Poll",
+            "description": "Xerotic opened a poll asking members what should happen when the conversation link is clicked, gathering opinions on the new Convo system.",
+            "url": "https://hackforums.net/showthread.php?tid=6008548",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "webdev77 reached 24,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "947940",
+                    "username": "webdev77"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Crypto, BTC, Killy, Blazius, Moon, Deal, Santan, luke, and Mr. Robot each attained the Green Apple award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2277664",
+                    "username": "Crypto"
+                },
+                {
+                    "uid": "3739930",
+                    "username": "BTC"
+                },
+                {
+                    "uid": "2363742",
+                    "username": "Killy"
+                },
+                {
+                    "uid": "3692437",
+                    "username": "Blazius"
+                },
+                {
+                    "uid": "3462284",
+                    "username": "Moon"
+                },
+                {
+                    "uid": "151894",
+                    "username": "Deal"
+                },
+                {
+                    "uid": "3871390",
+                    "username": "Santan"
+                },
+                {
+                    "uid": "2295175",
+                    "username": "luke"
+                },
+                {
+                    "uid": "2682887",
+                    "username": "Mr. Robot"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "Lukas was closed for multiple accounts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1034038",
+                    "username": "Lukas"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 444,
+        "date": 1568910909,
+        "pid": "",
+        "bid": "64",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 444"
+    }
+}

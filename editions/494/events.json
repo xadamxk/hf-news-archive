@@ -1,0 +1,171 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Currency Exchange Forum Closing",
+            "description": "Following community feedback, Omniscient temporarily shut down the Currency Exchange forum while he works on a new system tied directly to Contracts.",
+            "url": "https://hackforums.net/showthread.php?tid=6141606",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Convo + Notifications Downtime",
+            "description": "On February 27, both systems went offline due to a failed power supply on the tunnel server. Datacenter technicians replaced it and the tunnel/web socket required manual restart. Systems back to normal afterward.",
+            "url": "https://hackforums.net/showthread.php?tid=6142147",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group Leadership Changes",
+            "description": "Nixhxlas became the leader of Achievers. Tak was removed as leader of Succubus.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2860551",
+                    "username": "Nixhxlas"
+                },
+                {
+                    "uid": "2819879",
+                    "username": "Tak"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Stanley reached 9,000 posts; Ace Boogie reached 3,000 posts; Skisuit reached 2,000 posts; xHeaven reached 1,000 posts; Speed Test reached 1,000 posts; NoneStar reached 2,000 posts; αиσиумσυѕ reached 1,000 posts; sonic_fire reached 1,000 posts; sonic_fire, Lindros, and nCuX0 each surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1337",
+                    "username": "Stanley"
+                },
+                {
+                    "uid": "129832",
+                    "username": "Ace Boogie"
+                },
+                {
+                    "uid": "4731970",
+                    "username": "Skisuit"
+                },
+                {
+                    "uid": "3193396",
+                    "username": "xHeaven"
+                },
+                {
+                    "uid": "2732306",
+                    "username": "Speed Test"
+                },
+                {
+                    "uid": "1600942",
+                    "username": "NoneStar"
+                },
+                {
+                    "uid": "2641906",
+                    "username": "αиσиумσυѕ"
+                },
+                {
+                    "uid": "4557631",
+                    "username": "sonic_fire"
+                },
+                {
+                    "uid": "4204275",
+                    "username": "Lindros"
+                },
+                {
+                    "uid": "4301379",
+                    "username": "nCuX0"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "CuriousCoyote received the Lounge Head award. Dr. Dox received the Bronze Tutorial-tier award. TobiTee, RTKN, and DOX received the Quickly Loved award. İŊƇɌΞÐ¦ßŁĒ received the Stylish-tier award. Xen received the Sticky Man award. Zeus received the Reading Rainbow-tier award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4932752",
+                    "username": "CuriousCoyote"
+                },
+                {
+                    "uid": "4824998",
+                    "username": "Dr. Dox"
+                },
+                {
+                    "uid": "4843015",
+                    "username": "TobiTee"
+                },
+                {
+                    "uid": "4246606",
+                    "username": "RTKN"
+                },
+                {
+                    "uid": "3343347",
+                    "username": "DOX"
+                },
+                {
+                    "uid": "242562",
+                    "username": "İŊƇɌΞÐ¦ßŁĒ"
+                },
+                {
+                    "uid": "718886",
+                    "username": "Xen"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Venοm was banned for DBA — financial crimeware. xchngd was banned for suggesting we escrow. Refusal was banned for dealing without contracts. Big E was banned for bytes donation spamming/harassment.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4579045",
+                    "username": "Venοm"
+                },
+                {
+                    "uid": "4706571",
+                    "username": "xchngd"
+                },
+                {
+                    "uid": "2538181",
+                    "username": "Refusal"
+                },
+                {
+                    "uid": "4716889",
+                    "username": "Big E"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 494,
+        "date": 1614653189,
+        "pid": "",
+        "bid": "239",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 494"
+    }
+}

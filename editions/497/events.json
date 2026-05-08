@@ -1,0 +1,170 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Convo Change Coming",
+            "description": "Following accounts being created to share infected links and downloads, Omniscient placed restrictions on new convo messages: unupgraded users can no longer start a convo with another unupgraded user.",
+            "url": "https://hackforums.net/showthread.php?tid=6145634",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group Rebrand",
+            "description": "Ares was rebranded to Code.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "J4mmy reached 3,000 posts; Dopamine reached 4,000 posts; Cap reached 3,000 posts; eXceptional reached 5,000 posts; Sail Safe., 1337GAMER, and Noisy each surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "356983",
+                    "username": "J4mmy"
+                },
+                {
+                    "uid": "4788408",
+                    "username": "Dopamine"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                },
+                {
+                    "uid": "1160828",
+                    "username": "eXceptional"
+                },
+                {
+                    "uid": "353284",
+                    "username": "Sail Safe."
+                },
+                {
+                    "uid": "4288083",
+                    "username": "1337GAMER"
+                },
+                {
+                    "uid": "1139017",
+                    "username": "Noisy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Neon™ received Lounge Head. Juifer received Bronze Tutorial. Sphynx received Testified. Cap and Carrot received SportsBook. nCuX0 received Hackúman Killer. Motusora, Forensik, flyingduck, ℕḭghtനẵrℯ, and MiSHo received Quickly Loved. BV1 received Diamond.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2033151",
+                    "username": "Neon™"
+                },
+                {
+                    "uid": "4862780",
+                    "username": "Juifer"
+                },
+                {
+                    "uid": "953475",
+                    "username": "Sphynx"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                },
+                {
+                    "uid": "492869",
+                    "username": "Carrot"
+                },
+                {
+                    "uid": "4301379",
+                    "username": "nCuX0"
+                },
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                },
+                {
+                    "uid": "3863868",
+                    "username": "Forensik"
+                },
+                {
+                    "uid": "2998488",
+                    "username": "flyingduck"
+                },
+                {
+                    "uid": "4499444",
+                    "username": "ℕḭghtനẵrℯ"
+                },
+                {
+                    "uid": "4784572",
+                    "username": "MiSHo"
+                },
+                {
+                    "uid": "3183372",
+                    "username": "BV1"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Dotexe was banned for using HIDE tags. SeekerOfPandora, Exalted, killmenow, 618C, and Goku were each banned for using hide tags. James was banned for using hide tags and tasked with rebuilding the Wiki to lift the ban. almightyjojo was banned for dealing without contracts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2580014",
+                    "username": "Dotexe"
+                },
+                {
+                    "uid": "2990734",
+                    "username": "SeekerOfPandora"
+                },
+                {
+                    "uid": "4541508",
+                    "username": "Exalted"
+                },
+                {
+                    "uid": "4071789",
+                    "username": "killmenow"
+                },
+                {
+                    "uid": "4852999",
+                    "username": "618C"
+                },
+                {
+                    "uid": "2451258",
+                    "username": "Goku"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "James"
+                },
+                {
+                    "uid": "2468218",
+                    "username": "almightyjojo"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 497,
+        "date": 1616480285,
+        "pid": "",
+        "bid": "249",
+        "author_uid": "2774521",
+        "subject": "Hack Forums News // Edition 497"
+    }
+}

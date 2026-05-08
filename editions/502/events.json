@@ -1,0 +1,75 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Happy 14th Birthday to HF",
+            "description": "Hack Forums turned 14 years old on April 21, 2021. Members shared their thoughts and well-wishes on the anniversary thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6150338",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "4/20 Award Purple Haze",
+            "description": "A limited edition Purple Haze award was released for 4/20, referencing the strain of marijuana that goes by the same name.",
+            "url": "https://hackforums.net/showthread.php?tid=6150039",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Tor reached 3,000 popularity. TB12 reached 5,000 posts. vyactor reached 1,000 popularity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "481087",
+                    "username": "Tor"
+                },
+                {
+                    "uid": "3402022",
+                    "username": "TB12"
+                },
+                {
+                    "uid": "4011086",
+                    "username": "vyactor"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "ΑXiS was closed for an unknown reason.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1104007",
+                    "username": "ΑXiS"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 502,
+        "date": 1620190418,
+        "pid": "",
+        "bid": "267",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 502"
+    }
+}

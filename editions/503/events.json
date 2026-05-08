@@ -1,0 +1,227 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Data Breach Lookup HF Tool",
+            "description": "Omniscient announced plans to add a data breach lookup tool (similar to Have I Been Pwned) to the HF Tools.",
+            "url": "https://hackforums.net/showthread.php?tid=6152593",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Chief won the Member of the Month award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "458073",
+                    "username": "Chief"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Zeus reached 7,000 posts; KeelanxHacks reached 1,000 posts; Barlin reached 2,000 posts; Cap surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "1399003",
+                    "username": "KeelanxHacks"
+                },
+                {
+                    "uid": "3467872",
+                    "username": "Barlin"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Nаte received Bronze Tutorial. John Frusciante, Lafelo, and amy santiago received Businessman. TB12, Dr. Dox, and W1NK1LL3RX received Testified. Davkul and A_Vile_User received SportsBook. S2K received the Medal of Honor. James, Sigma, and Maven received the Silver Medal. Saix the Berserker, mfw, A_Vile_User, and TB12 received Hackúman Killer. B‎‏‍‎‏araka, Deities, DemonAsylum, and RTKN received Euthanasia. Chief, HACKED, Beherit, Lightz_, The Pact, Lafelo, and ButtermilkJesus received Quickly Loved. linkinpork and Exalted received the Protector award. Mullet Muscle received Reading Rainbow. Proof and Bankrupt received the Stark Industries-tier award. Utility received the New Year award. Zero and Bankrupt received the Trump 2020 award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1087815",
+                    "username": "Nаte"
+                },
+                {
+                    "uid": "4507778",
+                    "username": "John Frusciante"
+                },
+                {
+                    "uid": "4747314",
+                    "username": "Lafelo"
+                },
+                {
+                    "uid": "824505",
+                    "username": "amy santiago"
+                },
+                {
+                    "uid": "3402022",
+                    "username": "TB12"
+                },
+                {
+                    "uid": "4824998",
+                    "username": "Dr. Dox"
+                },
+                {
+                    "uid": "4189082",
+                    "username": "W1NK1LL3RX"
+                },
+                {
+                    "uid": "3097399",
+                    "username": "Davkul"
+                },
+                {
+                    "uid": "4972530",
+                    "username": "A_Vile_User"
+                },
+                {
+                    "uid": "4019626",
+                    "username": "S2K"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "James"
+                },
+                {
+                    "uid": "89554",
+                    "username": "Sigma"
+                },
+                {
+                    "uid": "4758287",
+                    "username": "Maven"
+                },
+                {
+                    "uid": "2373571",
+                    "username": "Saix the Berserker"
+                },
+                {
+                    "uid": "160741",
+                    "username": "mfw"
+                },
+                {
+                    "uid": "2149655",
+                    "username": "B‎‏‍‎‏araka"
+                },
+                {
+                    "uid": "234024",
+                    "username": "Deities"
+                },
+                {
+                    "uid": "623575",
+                    "username": "DemonAsylum"
+                },
+                {
+                    "uid": "4246606",
+                    "username": "RTKN"
+                },
+                {
+                    "uid": "458073",
+                    "username": "Chief"
+                },
+                {
+                    "uid": "2039397",
+                    "username": "HACKED"
+                },
+                {
+                    "uid": "3233350",
+                    "username": "Beherit"
+                },
+                {
+                    "uid": "4818702",
+                    "username": "Lightz_"
+                },
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                },
+                {
+                    "uid": "3837248",
+                    "username": "ButtermilkJesus"
+                },
+                {
+                    "uid": "4760019",
+                    "username": "linkinpork"
+                },
+                {
+                    "uid": "4541508",
+                    "username": "Exalted"
+                },
+                {
+                    "uid": "3246699",
+                    "username": "Mullet Muscle"
+                },
+                {
+                    "uid": "75662",
+                    "username": "Proof"
+                },
+                {
+                    "uid": "2478457",
+                    "username": "Bankrupt"
+                },
+                {
+                    "uid": "1585243",
+                    "username": "Utility"
+                },
+                {
+                    "uid": "3493494",
+                    "username": "Zero"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "WiseMan was banned (\"You did not pay $4000 to upgrade asshole.\").",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2805135",
+                    "username": "WiseMan"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Files went on vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "699478",
+                    "username": "Files"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 503,
+        "date": 1620777278,
+        "pid": "",
+        "bid": "270",
+        "author_uid": "2774521",
+        "subject": "Hack Forums News // Edition 503"
+    }
+}

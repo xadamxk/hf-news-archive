@@ -1,0 +1,90 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Blog Rewards",
+            "description": "Omniscient is considering increasing Bytes rewards and adding an award for members who publish blogs, and asked for community feedback in the discussion thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6167376",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Listing CE Feature",
+            "description": "A new Listings feature was added to the CE marketplace: upgraded members can post a (H)ave or (W)ant offer that anyone can accept, automatically generating a contract on acceptance.",
+            "url": "https://hackforums.net/showthread.php?tid=6167359",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Gamblers was rebranded to Mean Girls. Cap purchased Exchangers from percy.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                },
+                {
+                    "uid": "3514013",
+                    "username": "percy"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "neiqhtworks. was banned by Eagle 95 for trolling.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4950866",
+                    "username": "neiqhtworks."
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Tsundere went on vacation until 01/16/2022. Lrrr went on vacation for a month, returning 08/23/2021. scam. took a six month vacation until 01/23/2021. Praise Kek went on vacation for a week until 08/16/2021.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere"
+                },
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                },
+                {
+                    "uid": "1314004",
+                    "username": "scam."
+                },
+                {
+                    "uid": "3673299",
+                    "username": "Praise Kek"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 508,
+        "date": 1628646470,
+        "pid": "",
+        "bid": "282",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 508"
+    }
+}

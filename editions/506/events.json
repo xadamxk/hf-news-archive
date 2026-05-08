@@ -1,0 +1,317 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New Feature: Branch Cite",
+            "description": "A new \"Branch Cite\" feature lets members branch a cited post off into a new thread in the same or a different subforum (similar to Reddit crossposts or Twitter threads). Suggested subforums are offered when starting a branch cite.",
+            "url": "https://hackforums.net/showthread.php?tid=6158061",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Bi-Weekly Editions",
+            "description": "HF News will publish every other week for the next few editions while the team recruits more journalists and works on quality improvements behind the scenes.",
+            "url": "https://hackforums.net/showthread.php?tid=5893696",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Goodwill Monday 2021",
+            "description": "Omniscient announced that the first Monday of June is again the official HF holiday Goodwill Monday — used by members to spread love and kindness on the forum.",
+            "url": "https://hackforums.net/showthread.php?tid=6157669",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Crew Userbar Size Limits Increased",
+            "description": "Omniscient upped the crew userbar size and resolution limits to match groups.",
+            "url": "https://hackforums.net/showthread.php?tid=6149849",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "ZeLizzard purchased spiral from spiral; spiral was rebranded to From the Shadows. Bankrupt purchased Masterminds from Dorrance; Masterminds was rebranded to Hustlers. TheTribe and Angela White became leaders of Hustlers.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4983795",
+                    "username": "ZeLizzard"
+                },
+                {
+                    "uid": "2743782",
+                    "username": "spiral"
+                },
+                {
+                    "uid": "2478457",
+                    "username": "Bankrupt"
+                },
+                {
+                    "uid": "2185870",
+                    "username": "Dorrance"
+                },
+                {
+                    "uid": "4553662",
+                    "username": "TheTribe"
+                },
+                {
+                    "uid": "3978907",
+                    "username": "Angela White"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Proof won the May 2021 Member of the Month award.",
+            "url": "https://hackforums.net/showthread.php?tid=6156743",
+            "users": [
+                {
+                    "uid": "75662",
+                    "username": "Proof"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Helltoy reached 1,000 posts; Vibe reached 10,000 posts; Net Ninja reached 3,000 posts; Τroye reached 3,000 posts; Chief reached 1,000 threads; Futurama reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2367414",
+                    "username": "Helltoy"
+                },
+                {
+                    "uid": "646178",
+                    "username": "Vibe"
+                },
+                {
+                    "uid": "3419000",
+                    "username": "Net Ninja"
+                },
+                {
+                    "uid": "3964154",
+                    "username": "Τroye"
+                },
+                {
+                    "uid": "458073",
+                    "username": "Chief"
+                },
+                {
+                    "uid": "351249",
+                    "username": "Futurama"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Green Apple awarded to neo, ~[DogiD]~, Super, Prince™, Akion2012, Marketplace, IDKIDKIDK, The Professional Hacker, Дождь, 【ＢＡＤＭＡＮ】, disqualifier, jecoylecoy, OxaByte, ItsMeFox, and Silkroad. Lounge Head awarded to [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] and Crypt. Businessman awarded to Sixen+, triple6, Saix the Berserker, Дождь, The Professional Hacker, -Beherit, and Roytoy. Testified awarded to [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] and neo. SportsBook awarded to Davkul, A Nobody, The, Elduin, and Geass. Medal of Honor awarded to Mullet Muscle. Hackúman Killer awarded to Aeowulf, TheCuriousCoyote, and Alex J. Quickly Loved awarded to A Nobody, [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅], SIM-2033319, Carrot, Precisioη, nCuX0, spyglass, Vyrez., and SIM-82498.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4285067",
+                    "username": "neo"
+                },
+                {
+                    "uid": "307818",
+                    "username": "~[DogiD]~"
+                },
+                {
+                    "uid": "3787050",
+                    "username": "Super"
+                },
+                {
+                    "uid": "903914",
+                    "username": "Prince™"
+                },
+                {
+                    "uid": "1813748",
+                    "username": "Akion2012"
+                },
+                {
+                    "uid": "3886274",
+                    "username": "Marketplace"
+                },
+                {
+                    "uid": "2667047",
+                    "username": "IDKIDKIDK"
+                },
+                {
+                    "uid": "447912",
+                    "username": "The Professional Hacker"
+                },
+                {
+                    "uid": "4774695",
+                    "username": "Дождь"
+                },
+                {
+                    "uid": "4499444",
+                    "username": "【ＢＡＤＭＡＮ】"
+                },
+                {
+                    "uid": "1021000",
+                    "username": "disqualifier"
+                },
+                {
+                    "uid": "4772473",
+                    "username": "jecoylecoy"
+                },
+                {
+                    "uid": "3481418",
+                    "username": "OxaByte"
+                },
+                {
+                    "uid": "4550002",
+                    "username": "ItsMeFox"
+                },
+                {
+                    "uid": "3949418",
+                    "username": "Silkroad"
+                },
+                {
+                    "uid": "1915062",
+                    "username": "[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]"
+                },
+                {
+                    "uid": "3523609",
+                    "username": "Crypt"
+                },
+                {
+                    "uid": "39744",
+                    "username": "Sixen+"
+                },
+                {
+                    "uid": "4078623",
+                    "username": "triple6"
+                },
+                {
+                    "uid": "2373571",
+                    "username": "Saix the Berserker"
+                },
+                {
+                    "uid": "3233350",
+                    "username": "-Beherit"
+                },
+                {
+                    "uid": "130086",
+                    "username": "Roytoy"
+                },
+                {
+                    "uid": "3097399",
+                    "username": "Davkul"
+                },
+                {
+                    "uid": "4972530",
+                    "username": "A Nobody"
+                },
+                {
+                    "uid": "1767852",
+                    "username": "The"
+                },
+                {
+                    "uid": "3537750",
+                    "username": "Elduin"
+                },
+                {
+                    "uid": "1705415",
+                    "username": "Geass"
+                },
+                {
+                    "uid": "3246699",
+                    "username": "Mullet Muscle"
+                },
+                {
+                    "uid": "1486387",
+                    "username": "Aeowulf"
+                },
+                {
+                    "uid": "4932752",
+                    "username": "TheCuriousCoyote"
+                },
+                {
+                    "uid": "4859090",
+                    "username": "Alex J"
+                },
+                {
+                    "uid": "2033319",
+                    "username": "SIM-2033319"
+                },
+                {
+                    "uid": "492869",
+                    "username": "Carrot"
+                },
+                {
+                    "uid": "1493034",
+                    "username": "Precisioη"
+                },
+                {
+                    "uid": "4301379",
+                    "username": "nCuX0"
+                },
+                {
+                    "uid": "510406",
+                    "username": "spyglass"
+                },
+                {
+                    "uid": "2439716",
+                    "username": "Vyrez."
+                },
+                {
+                    "uid": "82498",
+                    "username": "SIM-82498"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Loved was banned for marketplace violations / sales trashing / harassment.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4895083",
+                    "username": "Loved"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Files went on vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "699478",
+                    "username": "Files"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 506,
+        "date": 1625197696,
+        "pid": "",
+        "bid": "278",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 506"
+    }
+}

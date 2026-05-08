@@ -1,0 +1,126 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Recent Contest Spamming Warning",
+            "description": "A warning was issued to users spamming the contest section with endless low-quality posts. Replies should be high-quality and members should not enter too many times to avoid a ban for contest spamming.",
+            "url": "https://hackforums.net/showthread.php?tid=6136617",
+            "users": []
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Gamblers was rebranded to Pink LSZ. Timo purchased a syndicate crew called EarnMoney. NERO purchased MMLF Group from MMLF.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "469259",
+                    "username": "Timo"
+                },
+                {
+                    "uid": "2650469",
+                    "username": "Nero"
+                },
+                {
+                    "uid": "3323508",
+                    "username": "MMLF"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "-Scrub won the January 2021 Member of the Month award.",
+            "url": "https://hackforums.net/showthread.php?tid=6137561",
+            "users": [
+                {
+                    "uid": "4227846",
+                    "username": "-Scrub"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Money Man reached 2,000 posts. Sleep reached 1,000 posts. UnknownProducts surpassed 1,000 popularity (Green Apple).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3250921",
+                    "username": "Money Man"
+                },
+                {
+                    "uid": "3447157",
+                    "username": "Sleep"
+                },
+                {
+                    "uid": "4140831",
+                    "username": "UnknownProducts"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Chief, UnknownProducts, and Gogeta received the Business Man award. xadamxk received the Medal of Honor award. Dr. Dox and CPA received the Quickly Loved award. NERO received the Grand Amethyst award and now owns a custom award named \"Maga's of the Universe.\"",
+            "url": "",
+            "users": [
+                {
+                    "uid": "458073",
+                    "username": "Chief"
+                },
+                {
+                    "uid": "4140831",
+                    "username": "UnknownProducts"
+                },
+                {
+                    "uid": "4370822",
+                    "username": "Gogeta"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "4824998",
+                    "username": "Dr. Dox"
+                },
+                {
+                    "uid": "4794462",
+                    "username": "CPA"
+                },
+                {
+                    "uid": "2650469",
+                    "username": "NERO"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "codesploit was banned for fraud.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3785409",
+                    "username": "codesploit"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 491,
+        "date": 1612815170,
+        "pid": "",
+        "bid": "231",
+        "author_uid": "2774521",
+        "subject": "Hack Forums News // Edition 491"
+    }
+}

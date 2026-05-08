@@ -1,0 +1,135 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Attachment for Bytes Now Live",
+            "description": "Members can now add unlockable content to their threads as an attachment. Other users must pay a bytes fee to view the content. Upgraded users have a greater storage quota and members can place up to 3 attachments per post.",
+            "url": "https://hackforums.net/showthread.php?tid=6146228",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Official HF Wiki Relaunch",
+            "description": "James upgraded the official Hack Forums Wiki, migrated the data to the latest version of MediaWiki, and refreshed it with a new theme. The HF Wiki Team is now accepting applications.",
+            "url": "https://hackforums.net/showthread.php?tid=6146646",
+            "users": [
+                {
+                    "uid": "2774521",
+                    "username": "James"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group Leadership Changes",
+            "description": "Xen was removed as leader of The Brotherhood.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "718886",
+                    "username": "Xen"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Almonds reached 5,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3680574",
+                    "username": "Almonds"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Various members received awards: Bankrupt, Dopamine, ingenious, Dripstur, Mr. Atlas, Cap, triple6, Proof, and Proxies.tv.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2478457",
+                    "username": "Bankrupt"
+                },
+                {
+                    "uid": "4788408",
+                    "username": "Dopamine"
+                },
+                {
+                    "uid": "3021214",
+                    "username": "ingenious"
+                },
+                {
+                    "uid": "2404633",
+                    "username": "Dripstur"
+                },
+                {
+                    "uid": "4007078",
+                    "username": "Mr. Atlas"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                },
+                {
+                    "uid": "4078623",
+                    "username": "triple6"
+                },
+                {
+                    "uid": "75662",
+                    "username": "Proof"
+                },
+                {
+                    "uid": "4149648",
+                    "username": "Proxies.tv"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "clrlslwi was banned (Account Under Investigation).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "543185",
+                    "username": "clrlslwi"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Euro went on vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4353379",
+                    "username": "Euro"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 498,
+        "date": 1617258195,
+        "pid": "",
+        "bid": "253",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 498"
+    }
+}

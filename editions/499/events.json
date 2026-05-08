@@ -1,0 +1,139 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "April Fools 2021",
+            "description": "Hack Forums had nothing planned for April Fools this year, following a wider trend of fewer platforms celebrating in 2021 than in past years.",
+            "url": "https://hackforums.net/showthread.php?tid=6147348",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Easter Logo",
+            "description": "To celebrate Easter on April 4th, Hack Forums switched to a festive Easter-themed logo.",
+            "url": "https://hackforums.net/showthread.php?tid=6147820",
+            "users": [
+                {
+                    "uid": "1891811",
+                    "username": "Cooligan"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Mullet Muscle won the March 2021 Member of the Month award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3246699",
+                    "username": "Mullet Muscle"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Bleach reached 3,000 posts; siddy357 reached 3,000 posts; Pass Candy reached 2,000 posts; Dripstur reached 1,000 posts; Incog reached 1,000 posts; Tor reached 6,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1113492",
+                    "username": "Bleach"
+                },
+                {
+                    "uid": "3687751",
+                    "username": "siddy357"
+                },
+                {
+                    "uid": "123611",
+                    "username": "Pass Candy"
+                },
+                {
+                    "uid": "2404633",
+                    "username": "Dripstur"
+                },
+                {
+                    "uid": "4880700",
+                    "username": "Incog"
+                },
+                {
+                    "uid": "481087",
+                    "username": "Tor"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Chief received Green Apple. ryan⚜ received Testified. Zexi received SportsBook. RTKN received Hackúman Killer. Lavish Living received Euthanasia. Ombra and DublA received Quickly Loved. Proof received the White Hat Helper award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "458073",
+                    "username": "Chief"
+                },
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜"
+                },
+                {
+                    "uid": "2394729",
+                    "username": "Zexi"
+                },
+                {
+                    "uid": "4246606",
+                    "username": "RTKN"
+                },
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                },
+                {
+                    "uid": "1454187",
+                    "username": "Ombra"
+                },
+                {
+                    "uid": "1550084",
+                    "username": "DublA"
+                },
+                {
+                    "uid": "75662",
+                    "username": "Proof"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "Bankrupt went on vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2478457",
+                    "username": "Bankrupt"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 499,
+        "date": 1617763860,
+        "pid": "",
+        "bid": "256",
+        "author_uid": "2774521",
+        "subject": "Hack Forums News // Edition 499"
+    }
+}

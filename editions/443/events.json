@@ -1,0 +1,107 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Member Blogs Beta",
+            "description": "Hack Forums has launched its official Blogging System (Beta) for members. It accepts MyCode formatting; only L33t and Ub3r members can create blog posts.",
+            "url": "https://hackforums.net/showthread.php?tid=5999434",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Cartel Crew Price",
+            "description": "Omniscient lowered the price of the Cartel Crew to 250k βytes so more members can obtain it.",
+            "url": "https://hackforums.net/showthread.php?tid=5999707",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Teaser Convo Chat Feature",
+            "description": "Hack Forums teased upcoming live chat rooms called \"Convos\" that will support up to ten members per room.",
+            "url": "https://hackforums.net/showthread.php?tid=6001600",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "2019 Check-In Thread",
+            "description": "Members earn 25 βytes daily for posting in the check-in thread, can win 500 βytes for posting more than once a day, and earn a Goal Award for checking in 100 days in a row.",
+            "url": "https://hackforums.net/forumdisplay.php?fid=25",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Official HF Podcast",
+            "description": "Discussion thread asking members for thoughts and suggestions on whether HF should have its own podcast.",
+            "url": "https://hackforums.net/showthread.php?tid=6005159",
+            "users": []
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Cameron won the August 2019 Member of the Month award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Halo attained the Green Apple award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "403479",
+                    "username": "Halo"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Omniscient celebrated a recent birthday.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "int was closed for multiple accounts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3861180",
+                    "username": "int"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 443,
+        "date": 1567719660,
+        "pid": "",
+        "bid": "44",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 443"
+    }
+}

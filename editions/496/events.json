@@ -1,0 +1,215 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Font-Family Fugged",
+            "description": "Omniscient changed the font used on Hack Forums back to Verdana. A developer had altered it three years ago; restoring Verdana is reported by many members to be easier on the eyes.",
+            "url": "https://hackforums.net/showthread.php?tid=6143912",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Ub3r Email Alias Update",
+            "description": "Issues with the hackforums.net email alias forwarding for Ub3r members were fixed by Xerotic and Omniscient.",
+            "url": "https://hackforums.net/showthread.php?tid=6143913",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "MyCode URLs Fixed",
+            "description": "An update temporarily broke links using the URL MyCode tag. The issue was resolved.",
+            "url": "https://hackforums.net/showthread.php?tid=6144323",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Dreamers was rebranded to Olympians. Icey purchased the Ares crew from Zeus and rebranded it to Iced.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1491146",
+                    "username": "Icey"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Various members received awards this week, including Geass, Davkul, Bankrupt, xadamxk, mfw, nCuX0, Sm‎exy, DemonAsylum, KeelanxHacks, Nima304, Verethragna, Mullet Muscle, Ivex, Dripstur, Dr. Dox, Zeus, Ocarina, Ricardo Milos, Proof, r1t0, triple6, Peppermint Butler, Cap, Lavish Living, LoremIpsum, Beau, Moon, and NERO.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1705415",
+                    "username": "Geass"
+                },
+                {
+                    "uid": "3097399",
+                    "username": "Davkul"
+                },
+                {
+                    "uid": "2478457",
+                    "username": "Bankrupt"
+                },
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "160741",
+                    "username": "mfw"
+                },
+                {
+                    "uid": "4301379",
+                    "username": "nCuX0"
+                },
+                {
+                    "uid": "1315214",
+                    "username": "Sm‎exy"
+                },
+                {
+                    "uid": "623575",
+                    "username": "DemonAsylum"
+                },
+                {
+                    "uid": "1399003",
+                    "username": "KeelanxHacks"
+                },
+                {
+                    "uid": "97519",
+                    "username": "Nima304"
+                },
+                {
+                    "uid": "4913576",
+                    "username": "Verethragna"
+                },
+                {
+                    "uid": "3246699",
+                    "username": "Mullet Muscle"
+                },
+                {
+                    "uid": "3267692",
+                    "username": "Ivex"
+                },
+                {
+                    "uid": "2404633",
+                    "username": "Dripstur"
+                },
+                {
+                    "uid": "4824998",
+                    "username": "Dr. Dox"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "2130408",
+                    "username": "Ocarina"
+                },
+                {
+                    "uid": "4841349",
+                    "username": "Ricardo Milos"
+                },
+                {
+                    "uid": "75662",
+                    "username": "Proof"
+                },
+                {
+                    "uid": "4833432",
+                    "username": "r1t0"
+                },
+                {
+                    "uid": "4078623",
+                    "username": "triple6"
+                },
+                {
+                    "uid": "1252956",
+                    "username": "Peppermint Butler"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                },
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                },
+                {
+                    "uid": "4362613",
+                    "username": "LoremIpsum"
+                },
+                {
+                    "uid": "1161771",
+                    "username": "Beau"
+                },
+                {
+                    "uid": "3462284",
+                    "username": "Moon"
+                },
+                {
+                    "uid": "2650469",
+                    "username": "NERO"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "-Scrub, ᴏᴘᴀʟ, Euro, and Nuworld each went on vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4227846",
+                    "username": "-Scrub"
+                },
+                {
+                    "uid": "4285067",
+                    "username": "ᴏᴘᴀʟ"
+                },
+                {
+                    "uid": "4353379",
+                    "username": "Euro"
+                },
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 496,
+        "date": 1616129270,
+        "pid": "",
+        "bid": "247",
+        "author_uid": "561239",
+        "subject": "Hack Forums News // Edition 496"
+    }
+}

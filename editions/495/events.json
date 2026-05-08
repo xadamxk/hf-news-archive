@@ -1,0 +1,191 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Connection Errors, Memory Problems",
+            "description": "Several users reported issues accessing the website. Omniscient noted that HF's server has been experiencing hardware problems and parts may be replaced if it worsens.",
+            "url": "https://hackforums.net/showthread.php?tid=6142640",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Changing Names",
+            "description": "Following increased online censorship of websites that talk about hacking, Omniscient is considering changing the forum's name (e.g., to Money Forums) and asked the community for opinions.",
+            "url": "https://hackforums.net/showthread.php?tid=6142804",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Official TikTok Embed",
+            "description": "Xerotic added official TikTok embedding support, allowing members to easily share TikTok videos in the convo room or threads.",
+            "url": "https://hackforums.net/showthread.php?tid=6142794",
+            "users": [
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group Leadership Changes",
+            "description": "kawaii became leader of Dreamers. Zeus was removed as leader of Wolfpack.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1406453",
+                    "username": "kawaii"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Member of the Month",
+            "description": "Grim won the February 2021 Member of the Month award.",
+            "url": "https://hackforums.net/showthread.php?tid=6142511",
+            "users": [
+                {
+                    "uid": "504910",
+                    "username": "Grim"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "Cap reached 3,000 posts; sonic_fire reached 1,000 posts; Sm‎exy reached 9,000 posts; Mr Monero reached 1,000 posts; Pyro reached 6,000 posts; Speed Test reached 1,000 posts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                },
+                {
+                    "uid": "4557631",
+                    "username": "sonic_fire"
+                },
+                {
+                    "uid": "1315214",
+                    "username": "Sm‎exy"
+                },
+                {
+                    "uid": "637909",
+                    "username": "Mr Monero"
+                },
+                {
+                    "uid": "3424522",
+                    "username": "Pyro"
+                },
+                {
+                    "uid": "2732306",
+                    "username": "Speed Test"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "severos received the Lounge Head award. • Enlil Wolf •, Features, and Velma received the Businessman award. Velma received the SportsBook award. Cooligan received the Octavia award. siddy357 and Saix the Berserker received the Bronze Tutorial-tier award. flavoral received the White Hat Helper award.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2194264",
+                    "username": "severos"
+                },
+                {
+                    "uid": "3982280",
+                    "username": "• Enlil Wolf •"
+                },
+                {
+                    "uid": "4870227",
+                    "username": "Features"
+                },
+                {
+                    "uid": "4059238",
+                    "username": "Velma"
+                },
+                {
+                    "uid": "1891811",
+                    "username": "Cooligan"
+                },
+                {
+                    "uid": "3687751",
+                    "username": "siddy357"
+                },
+                {
+                    "uid": "2373571",
+                    "username": "Saix the Berserker"
+                },
+                {
+                    "uid": "3459543",
+                    "username": "flavoral"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Bans",
+            "description": "Focus Broken was banned (\"Broken record is more like it. STFU.\").",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3209658",
+                    "username": "Focus Broken"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "630 went on vacation.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "797403",
+                    "username": "630"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Account closures",
+            "description": "The Amazing Sinner was closed.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4567246",
+                    "username": "The Amazing Sinner"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 495,
+        "date": 1615236199,
+        "pid": "",
+        "bid": "240",
+        "author_uid": "2774521",
+        "subject": "Hack Forums News // Edition 495"
+    }
+}

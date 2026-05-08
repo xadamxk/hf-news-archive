@@ -1,0 +1,31 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HFX 2.0: Native Web Extension for Hack Forums",
+            "description": "xadamxk released the long-awaited HFX version 2 — a browser extension providing useful modifications and enhancements for Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=6152837",
+            "users": [
+                {
+                    "uid": "1306528",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 505,
+        "date": 1621947096,
+        "pid": "",
+        "bid": "273",
+        "author_uid": "2774521",
+        "subject": "Hack Forums News // Edition 505"
+    }
+}
