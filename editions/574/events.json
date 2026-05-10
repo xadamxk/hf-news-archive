@@ -1,0 +1,214 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Server Move - Backend Upgrade Begins",
+            "description": "Omniscient kicked off the HF backend upgrade and server migration to enable modern development and improvements. The thread tracks specs, planned changes, and rolling progress updates.",
+            "url": "https://hackforums.net/showthread.php?tid=6319690",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Happy Valentine's Day",
+            "description": "Omniscient updated the site banner and background for Valentine's Day, and put the Heart of HF award on weekend sale, dropping it from $200 to $50 to encourage members to gift it.",
+            "url": "https://hackforums.net/showthread.php?tid=6319777",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Bump Limitations",
+            "description": "Omniscient throttled marketplace bumps to once every six hours after observed abuse — the limit may be tweaked again later.",
+            "url": "https://hackforums.net/showthread.php?tid=6319641",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "API App Award Goal",
+            "description": "Omniscient asked the community whether the API Dev award should be repurposed as an award goal for API users, and invited members to share project ideas built on the HF API.",
+            "url": "https://hackforums.net/showthread.php?tid=6319752",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Stanley Runs HF",
+            "description": "Omniscient floated a thought experiment: an AI agent (Stanley) taking over the admin role and running HF — sparking discussion on what an AI-run forum could look like.",
+            "url": "https://hackforums.net/showthread.php?tid=6319693",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to 5chn4pp, Krew7, Can, and Inmodwetrust. Green Apple awarded to Masoom. Dicey awarded to ◔ßorder╙ineExtrⒶ. API Dev awarded to Vinavil.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2446418",
+                    "username": "5chn4pp"
+                },
+                {
+                    "uid": "1799994",
+                    "username": "Krew7"
+                },
+                {
+                    "uid": "3030547",
+                    "username": "Can"
+                },
+                {
+                    "uid": "740195",
+                    "username": "Inmodwetrust"
+                },
+                {
+                    "uid": "3622823",
+                    "username": "Masoom"
+                },
+                {
+                    "uid": "66686",
+                    "username": "◔ßorder╙ineExtrⒶ"
+                },
+                {
+                    "uid": "5052823",
+                    "username": "Vinavil"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "The Brotherhood kicked off a wave of giveaways in the Member Contests section. Casino was bought by 7.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "OpenAI Tools Help You Find Friends with New Contact Sync Feature",
+            "description": "JoseMar broke down OpenAI's new Contact Data privacy section, which allows optional phone-contact syncing with hashed numbers compared against existing accounts — sparking discussion about retention, privacy, and whether 'optional' really means harmless.",
+            "url": "https://hackforums.net/showthread.php?tid=6319861",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "AI, ethics, and how tech can still be on our side",
+            "description": "Oh_Well argued for hacktivism evolving into capability-building in the AI age — verification pipelines, digital hygiene education, responsible disclosure, anti-scam community defense, local-first AI — framing ethics as operational discipline rather than weakness.",
+            "url": "https://hackforums.net/showthread.php?tid=6319612",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Appreciation Thread",
+            "description": "Mix received the Bytes Bag award unexpectedly from JoshAllen and publicly thanked the HF News and Wiki teams for their collaborative work.",
+            "url": "https://hackforums.net/showthread.php?tid=6319916",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How has your life progressed since joining HF?",
+            "description": "vrysleepy shared a reflection going from teenage RuneScape gold hustles and Minecraft reselling to working in music with 3x Platinum RIAA credentials — a reminder that for many, HF was a training ground for entrepreneurial mindsets.",
+            "url": "https://hackforums.net/showthread.php?tid=6319885",
+            "users": [
+                {
+                    "uid": "101167",
+                    "username": "vrysleepy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "GPT's Output Of My Behavior",
+            "description": "Omniscient ran a personality analysis prompt against ChatGPT based on past conversations, sparking discussion about AI personality assessments, the Barnum effect, and whether the output was insight or polished horoscope.",
+            "url": "https://hackforums.net/showthread.php?tid=6319819",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "10,000 Bytes Contest - Upgraded Members Only",
+            "description": "JoseMar is hosting a 10,000 bytes giveaway tied to The Brotherhood 2026, ending March 1 — open to L33t and above.",
+            "url": "https://hackforums.net/showthread.php?tid=6319739",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — The Terminal (2004)",
+            "description": "Mix submitted The Terminal as Movie of the Week, citing its themes of bad luck and rising above adversity.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 574,
+        "date": 1771273013,
+        "pid": "62916572",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 35"
+    }
+}

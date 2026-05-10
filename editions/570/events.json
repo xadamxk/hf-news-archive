@@ -1,0 +1,94 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Guests View First Post Only",
+            "description": "Omniscient changed how guest browsing works — guests can now view any thread but are limited to the first page and cannot see all replies. The change is part of an HF roadmap iteration and may be tweaked further.",
+            "url": "https://hackforums.net/showthread.php?tid=6318027",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Google Manual Penalty",
+            "description": "Omniscient noted Google's ongoing manual penalty against the site (in place since 2023) is still affecting search/news visibility. Since the original blog removal didn't change Google's review, blogs have been re-enabled at hackforums.net/blog.php.",
+            "url": "https://hackforums.net/showthread.php?tid=6317880",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF HelpDocs Updated",
+            "description": "Omniscient refreshed the HF Help Docs with updated formatting (helped along by AI), removing default MyBB sections that didn't apply here.",
+            "url": "https://hackforums.net/showthread.php?tid=6317898",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Markdown MyCode",
+            "description": "A new plugin contributed by php adds Markdown formatting support to the site, expanding thread formatting options.",
+            "url": "https://hackforums.net/showthread.php?tid=6318023",
+            "users": [
+                {
+                    "uid": "5674562",
+                    "username": "php"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Coolsoul, bad, ◔ßorder╙ineExtrⒶ, Juhcu, and Poseidon. Green Apple awarded to ◔ßorder╙ineExtrⒶ.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "221302",
+                    "username": "Coolsoul"
+                },
+                {
+                    "uid": "1061502",
+                    "username": "bad"
+                },
+                {
+                    "uid": "66686",
+                    "username": "◔ßorder╙ineExtrⒶ"
+                },
+                {
+                    "uid": "2863328",
+                    "username": "Juhcu"
+                },
+                {
+                    "uid": "139340",
+                    "username": "Poseidon"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 570,
+        "date": 1768859745,
+        "pid": "62904361",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 31"
+    }
+}

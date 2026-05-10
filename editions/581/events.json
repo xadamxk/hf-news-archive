@@ -1,0 +1,134 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Conference 2026 — April Fools",
+            "description": "Omniscient ran an annual April Fools joke about a 'HF Conference 2026' in Vegas sponsored by 7, with ten members supposedly winning a free trip. Many had bags packed before realizing it was a prank.",
+            "url": "https://hackforums.net/showthread.php?tid=6323152",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Upload Images Testing",
+            "description": "Omniscient's testing thread for the new encrypted image upload feature reported broad success — members are using the feature and the rollout is going smoothly.",
+            "url": "https://hackforums.net/showthread.php?tid=6323096",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Profile Redesign",
+            "description": "Omniscient is exploring merging the general account profile and marketplace profile into a single combined screen, after years of confusion over the two separate profiles. Member ideas are being collected.",
+            "url": "https://hackforums.net/showthread.php?tid=6323084",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Guests View First Post Reverted",
+            "description": "Omniscient reverted the guest-view-first-post feature after observing very high bot crawling activity that pushed view counts up unnaturally on many threads.",
+            "url": "https://hackforums.net/showthread.php?tid=6318027",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Member Contest Rules Consolidation",
+            "description": "Mix published a single, simplified Member Contest Rules thread that consolidates roughly three previous pinned threads — making things easier for both contest hosts and entrants.",
+            "url": "https://hackforums.net/showthread.php?tid=6323141",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Shining Knight awarded to Redx_1188. King Decade awarded to Kisame, Yoadx, Dеvil, and Alideshell.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5744880",
+                    "username": "Redx_1188"
+                },
+                {
+                    "uid": "682991",
+                    "username": "Kisame"
+                },
+                {
+                    "uid": "2310735",
+                    "username": "Yoadx"
+                },
+                {
+                    "uid": "1597978",
+                    "username": "Dеvil"
+                },
+                {
+                    "uid": "1367931",
+                    "username": "Alideshell"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$500 BTC Contest - 5 Winners",
+            "description": "Redx_1188 is hosting a $500 BTC contest with five $100 winners — open to L33t members with 10+ posts. Ends April 14. Earned the host the Shining Knight award.",
+            "url": "https://hackforums.net/showthread.php?tid=6323089",
+            "users": [
+                {
+                    "uid": "5744880",
+                    "username": "Redx_1188"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Excalibur",
+            "description": "JoshAllen submitted an upscaled 4K version of the classic Excalibur as Movie of the Week.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 581,
+        "date": 1775486913,
+        "pid": "62940148",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 42 [Easter Special]"
+    }
+}

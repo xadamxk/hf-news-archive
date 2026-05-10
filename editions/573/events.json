@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Guests View First Post Only - Bug Fix",
+            "description": "Omniscient fixed a bug in the new guest-view feature where guests with a known post ID could still view replies. Guests are now strictly limited to the first post of any thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6318027",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to 7.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Nuworld was removed as owner of Brotherhood; 7 acquired Brotherhood and all leaders were removed; JoshAllen was added as a leader of Brotherhood. Allegiance was deleted under the Absent Group Owner Policy.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                },
+                {
+                    "uid": "7",
+                    "username": "7"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — The Warriors (1979)",
+            "description": "JoshAllen submitted The Warriors (1979) as the HF News Movie of the Week.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 573,
+        "date": 1770666450,
+        "pid": "62913124",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 34"
+    }
+}

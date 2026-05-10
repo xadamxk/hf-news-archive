@@ -1,0 +1,190 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Adding New Official Group - HF Member Role",
+            "description": "Omniscient is exploring a new role flow for new sign-ups: instead of awaiting-activation → registered, new members would land in an 'HF Member' role. The change targets bot mitigation and may bring new role-tied awards.",
+            "url": "https://hackforums.net/showthread.php?tid=6324773",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "New Banner Ad Position",
+            "description": "Omniscient added a new banner ad slot visible to non-upgraded members, expected to deliver around 200–300 views per day for advertisers.",
+            "url": "https://hackforums.net/showthread.php?tid=6324640",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Game Concept - DDoS Arena",
+            "description": "Omniscient confirmed the long-discussed DDoS Arena concept for the HF Game is now in active development, with early gameplay expected in coming weeks.",
+            "url": "https://hackforums.net/showthread.php?tid=6301564",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to wiz, 444, Sift, NewGeek, Unknown, Weekend Offender, and Grand Hustle.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3061124",
+                    "username": "wiz"
+                },
+                {
+                    "uid": "1438414",
+                    "username": "444"
+                },
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                },
+                {
+                    "uid": "61435",
+                    "username": "NewGeek"
+                },
+                {
+                    "uid": "2765535",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "1090333",
+                    "username": "Weekend Offender"
+                },
+                {
+                    "uid": "618913",
+                    "username": "Grand Hustle"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Tutorial] Snapchat resolve from phone number",
+            "description": "Sift broke down how Snapchat contact syncing can connect a saved phone number to a visible account, with limitations around linked numbers, discovery settings, and privacy controls — a reminder that phone numbers remain a bridge between identity and social profiles.",
+            "url": "https://hackforums.net/showthread.php?tid=6324744",
+            "users": [
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Are you ready for a new era of human understanding?",
+            "description": "Hackers opened a wide-ranging thread on UAPs, plasmoids, hidden propulsion, and government wording — pushing members to look up, think bigger, and stay skeptical at the same time.",
+            "url": "https://hackforums.net/showthread.php?tid=6324647",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What is the difference?",
+            "description": "Bogoss kicked off a beginner discussion comparing web hacking a decade ago to today — stronger frameworks, Cloudflare, CMS/plugin risks, AI-generated sites, and subtle logic mistakes — making the case that modern web hacking is more about understanding systems than running tools.",
+            "url": "https://hackforums.net/showthread.php?tid=6324713",
+            "users": [
+                {
+                    "uid": "5736888",
+                    "username": "Bogoss"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Tails OS Issue",
+            "description": "Lil Buddy ran into a Secure Boot warning on Tails despite Windows updates and disabled Secure Boot. 5chn4pp gave a clear explanation pointing toward BIOS/UEFI updates and Microsoft UEFI CA certificates.",
+            "url": "https://hackforums.net/showthread.php?tid=6324780",
+            "users": [
+                {
+                    "uid": "5448725",
+                    "username": "Lil Buddy"
+                },
+                {
+                    "uid": "2446418",
+                    "username": "5chn4pp"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How do you visit HackForums?",
+            "description": "Charlie Sheen ran a community poll on desktop vs mobile usage, sparking nostalgia about how the mobile experience has evolved compared to the older forum days.",
+            "url": "https://hackforums.net/showthread.php?tid=6324441",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How to make money with AI?",
+            "description": "Mons asked how to move from freelancing into an actual AI business with his AI/data skills, capital, and time. Replies covered content creation, client automation, CI/CD improvements, automated documentation, code review, and turning client data into AI-usable assets.",
+            "url": "https://hackforums.net/showthread.php?tid=6324477",
+            "users": [
+                {
+                    "uid": "2193596",
+                    "username": "Mons"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$100 USDT Giveaway #2",
+            "description": "Анастасия is hosting a $100 USDT (ERC20) giveaway — entrants share an honest reason why they'd want the prize. Ends May 9.",
+            "url": "https://hackforums.net/showthread.php?tid=6324819",
+            "users": [
+                {
+                    "uid": "5663451",
+                    "username": "Анастасия"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Ready or Not 2 (2026)",
+            "description": "Charlie Sheen submitted Ready or Not 2 (2026) along with a review thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6324900",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 585,
+        "date": 1777936019,
+        "pid": "62950708",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 46"
+    }
+}

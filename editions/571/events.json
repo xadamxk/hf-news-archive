@@ -1,0 +1,70 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Roadmap Progress",
+            "description": "Omniscient shared an update on the HF roadmap with notes on completed items and future plans, capping off a busy first month of changes for 2026.",
+            "url": "https://hackforums.net/showthread.php?tid=6299750",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Cerberus136, twins124, Bvsed, Null State, and Palestine.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "379152",
+                    "username": "Cerberus136"
+                },
+                {
+                    "uid": "2495990",
+                    "username": "twins124"
+                },
+                {
+                    "uid": "126220",
+                    "username": "Bvsed"
+                },
+                {
+                    "uid": "1545765",
+                    "username": "Null State"
+                },
+                {
+                    "uid": "3018464",
+                    "username": "Palestine"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — A Knight's Tale",
+            "description": "The HF News team launched a Movie of the Week segment. Charlie Sheen submitted A Knight's Tale in honour of Heath Ledger, who passed away 18 years ago.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 571,
+        "date": 1769457686,
+        "pid": "62907159",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 32"
+    }
+}

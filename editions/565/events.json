@@ -1,0 +1,94 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to SirDym and f14stelt.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2952092",
+                    "username": "SirDym"
+                },
+                {
+                    "uid": "1930155",
+                    "username": "f14stelt"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "This is my 1000th Post!",
+            "description": "Peble hit 1,000 posts and reflected on over a decade of learning, confidence, and community built through HF — a wholesome milestone after a break from the forum.",
+            "url": "https://hackforums.net/showthread.php?tid=6315251",
+            "users": [
+                {
+                    "uid": "625431",
+                    "username": "Peble"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My friend was trying to be extorted over Telegram. How can I keep him calm?",
+            "description": "Wings of Redemption shared a friend's $3,000 Telegram extortion situation, breaking down how the scammer likely gathered info, why ignoring is usually the right call, and why police don't act on anonymous claims without evidence.",
+            "url": "https://hackforums.net/showthread.php?tid=6315361",
+            "users": [
+                {
+                    "uid": "839449",
+                    "username": "Wings of Redemption"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How to be consistent at learning to code?",
+            "description": "inceptor asked about coding consistency and motivation as a beginner, sparking a wider discussion on study habits and staying engaged through the classic 'newbie dev journey'.",
+            "url": "https://hackforums.net/showthread.php?tid=6314809",
+            "users": [
+                {
+                    "uid": "170428",
+                    "username": "inceptor"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Legends] This Is How I Unclog My Drain",
+            "description": "JoseMar posted an unexpectedly thorough DIY guide on unclogging drains using hydrochloric acid, safety gear, custom hoses, and pressure flushing — complete with images, step-by-step breakdowns, and a final demo video.",
+            "url": "https://hackforums.net/showthread.php?tid=6314997",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How to setup a RAT with Pics [TUTORIAL]",
+            "description": "ViperPrivacy posted a visual setup walkthrough for QuasarRAT, covering screenshots, configs, VPN setups, and packaging.",
+            "url": "https://hackforums.net/showthread.php?tid=6314767",
+            "users": [
+                {
+                    "uid": "5711798",
+                    "username": "ViperPrivacy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 565,
+        "date": 1765225607,
+        "pid": "62885750",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 26"
+    }
+}

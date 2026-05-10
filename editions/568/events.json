@@ -1,0 +1,74 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Happy New Year 2026",
+            "description": "The site received a seasonal makeover for 2026 with a new background and header image, with members sharing well wishes in the New Year thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6316153",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to phuqer, CyberPhunk, aethi, amo77, and Peori0y. Flip Reaper awarded to eXceptional. Bronze Tutorial awarded to R5N3T. Businessman awarded to Rsynced. Quickly Loved awarded to JoshAllen.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1771694",
+                    "username": "phuqer"
+                },
+                {
+                    "uid": "154103",
+                    "username": "CyberPhunk"
+                },
+                {
+                    "uid": "2472160",
+                    "username": "aethi"
+                },
+                {
+                    "uid": "2582338",
+                    "username": "amo77"
+                },
+                {
+                    "uid": "2906793",
+                    "username": "Peori0y"
+                },
+                {
+                    "uid": "1160828",
+                    "username": "eXceptional"
+                },
+                {
+                    "uid": "2207123",
+                    "username": "R5N3T"
+                },
+                {
+                    "uid": "630163",
+                    "username": "Rsynced"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 568,
+        "date": 1767621212,
+        "pid": "62897886",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 29 - Welcome to 2026"
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Analytics and Parsed Logs",
+            "description": "Omniscient parsed Apache logs and used ChatGPT to package the stats for advertisers — the resulting thread is the go-to reference for anyone considering advertising on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=6318664",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "DMCA Notices Fighting Back",
+            "description": "Omniscient pushed back on the steady stream of false DMCA notices, which have been hurting the site's SEO and search visibility for years.",
+            "url": "https://hackforums.net/showthread.php?tid=6318669",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Convo App - Dev Blog #1",
+            "description": "MarlboroMan released a fully native desktop Convo client built with Tauri, Rust, TypeScript, and React for Windows, Linux, and macOS — a major upgrade over the base web Convo, and a community-built project from a developer learning Rust.",
+            "url": "https://hackforums.net/showthread.php?tid=6318797",
+            "users": [
+                {
+                    "uid": "5679562",
+                    "username": "MarlboroMan"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Bagon, WuTangClan, Wolf., and DexterGO. Blazing Ember awarded to JoseMar (winner of the Quantum New Year contest).",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1530165",
+                    "username": "Bagon"
+                },
+                {
+                    "uid": "1694373",
+                    "username": "WuTangClan"
+                },
+                {
+                    "uid": "2675572",
+                    "username": "Wolf."
+                },
+                {
+                    "uid": "2999405",
+                    "username": "DexterGO"
+                },
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Casino was listed for sale by NERO. Succubus, Olympians/Benevolence, and Mystery Inc remain listed for sale.",
+            "url": "https://hackforums.net/showthread.php?tid=6318544",
+            "users": [
+                {
+                    "uid": "2650469",
+                    "username": "NERO"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "100,000 Bytes Contest - $250 Value",
+            "description": "Moooookie is hosting a Bytes giveaway open to L33t-or-higher members, ending February 14.",
+            "url": "https://hackforums.net/showthread.php?tid=6318699",
+            "users": [
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Secrets Member Upgrades",
+            "description": "Secrets is running a free-upgrade giveaway for users who post and have been on site over a month — already several upgrades have been awarded.",
+            "url": "https://hackforums.net/showthread.php?tid=6291080",
+            "users": [
+                {
+                    "uid": "727139",
+                    "username": "Secrets"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Convo App 1.0.0 - HackForums Convo Desktop App",
+            "description": "MarlboroMan released the 1.0.0 desktop Convo app — built with Tauri, Rust, TypeScript, and React — featuring native notifications, thread viewers, profile cards, embeds, themes, and drag-and-drop uploads on Windows, Linux, and macOS.",
+            "url": "https://hackforums.net/showthread.php?tid=6318796",
+            "users": [
+                {
+                    "uid": "5679562",
+                    "username": "MarlboroMan"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Legends] Fully Automated TikTok System",
+            "description": "JoseMar (winner of the Quantum Group New Year's Contest) released a fully automated Python + FFmpeg system that converts long-form video into hundreds of TikToks, Reels, and Shorts — with batch processing, GUI downloaders, error handling, and detailed reporting.",
+            "url": "https://hackforums.net/showthread.php?tid=6318791",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What Keyboard do you use?",
+            "description": "RangoWorld kicked off a discussion on keyboard preferences — mechanical vs membrane, RGB vs minimal, comfort vs aesthetics — with members weighing in on what works for writing, coding, and long-form work.",
+            "url": "https://hackforums.net/showthread.php?tid=6318302",
+            "users": [
+                {
+                    "uid": "5447855",
+                    "username": "RangoWorld"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Legends] Enterprise Probabilistic Graph Analysis Engine",
+            "description": "Dystortion shared a deep dive into the architecture of a production probabilistic inference engine — covering ZINB models, HMMs, change-point detection, and correlation-aware fusion for noisy, time-dependent data.",
+            "url": "https://hackforums.net/showthread.php?tid=6318679",
+            "users": [
+                {
+                    "uid": "5495714",
+                    "username": "Dystortion"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Home Alone & Home Alone 2",
+            "description": "DemonAsylum submitted Home Alone & Home Alone 2 in honour of Catherine O'Hara, who recently passed away.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 572,
+        "date": 1770067944,
+        "pid": "62910177",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 33"
+    }
+}

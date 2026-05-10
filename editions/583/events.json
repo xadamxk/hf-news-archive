@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bytes Bonus Days for HF's 19th Birthday",
+            "description": "HF turned 19 on April 21 and Omniscient ran a Bytes boost for several days, with extra bytes per post and thread. More birthday-related events are teased.",
+            "url": "https://hackforums.net/showthread.php?tid=6323953",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Happy 4/20",
+            "description": "Omniscient put each of the six 4/20 leaf awards on sale for $42 for 48 hours, letting members collect the row.",
+            "url": "https://hackforums.net/showthread.php?tid=6324173",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Riddle King awarded to Three for winning 7's Crack the Seed contest. King Decade awarded to bahman2000.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "193081",
+                    "username": "Three"
+                },
+                {
+                    "uid": "7",
+                    "username": "7"
+                },
+                {
+                    "uid": "1961775",
+                    "username": "bahman2000"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "G0I Vibe Coding Contest - $180 in Prizes",
+            "description": "Horus God is hosting a vibe-coding contest using a designated AI model — winners are judged on functionality, code quality, creativity, and polish. Open submissions until April 30.",
+            "url": "https://hackforums.net/showthread.php?tid=6323255",
+            "users": [
+                {
+                    "uid": "547589",
+                    "username": "Horus God"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Forbidden Fruits",
+            "description": "JoshAllen submitted Forbidden Fruits, calling it a film that doesn't get the credit it deserves and isn't seen enough.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 583,
+        "date": 1776703373,
+        "pid": "62945094",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 44"
+    }
+}

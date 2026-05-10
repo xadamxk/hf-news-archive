@@ -1,0 +1,54 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Marketplace Sort Order",
+            "description": "Omniscient reverted marketplace thread sorting to how it worked years ago, effective December 19, as a test to see how members react to the change.",
+            "url": "https://hackforums.net/showthread.php?tid=6316153",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Reviews.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "571369",
+                    "username": "Reviews"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$100 BTC Community Contest",
+            "description": "Axelyn is hosting a $100 BTC community contest open to upgraded members, with bonus entries available, ending January 13, 2026.",
+            "url": "https://hackforums.net/showthread.php?tid=6315782",
+            "users": [
+                {
+                    "uid": "5711781",
+                    "username": "Axelyn"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 567,
+        "date": 1766451428,
+        "pid": "62892136",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 28"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Image Uploading and Embedding",
+            "description": "Omniscient released a new feature for adding images to posts/threads, hosted on a site he owns and supporting encryption. Currently in beta — built in collaboration with Vinavil, who had been developing an image-encrypting project.",
+            "url": "https://hackforums.net/showthread.php?tid=6322070",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "5052823",
+                    "username": "Vinavil"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Draw A Winner Thread",
+            "description": "Charlie Sheen opened a thread giveaway hosts can use to have a staff member randomly pick a winner — supporting the recent monetary-contest rule changes and helping combat scam giveaways.",
+            "url": "https://hackforums.net/showthread.php?tid=6321144",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to RonzaX and Tonka. Businessman awarded to Wilmer. Green Apple awarded to goldwhite.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2969511",
+                    "username": "RonzaX"
+                },
+                {
+                    "uid": "1730",
+                    "username": "Tonka"
+                },
+                {
+                    "uid": "245137",
+                    "username": "Wilmer"
+                },
+                {
+                    "uid": "5289015",
+                    "username": "goldwhite"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "newQuery and Hackers were added as leaders of Vibe.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2602549",
+                    "username": "newQuery"
+                },
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — The Green Mile (1999)",
+            "description": "The Pact submitted The Green Mile, recalling watching it on first release in 1999 and praising the film's emotional richness and moral complexity.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 579,
+        "date": 1774303372,
+        "pid": "62934335",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 40"
+    }
+}

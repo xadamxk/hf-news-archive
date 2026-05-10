@@ -1,0 +1,118 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to NoHax, fawkyouto0, cukimaiii, R5N3T, and ablationvector.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2563181",
+                    "username": "NoHax"
+                },
+                {
+                    "uid": "1552168",
+                    "username": "fawkyouto0"
+                },
+                {
+                    "uid": "2594860",
+                    "username": "cukimaiii"
+                },
+                {
+                    "uid": "2207123",
+                    "username": "R5N3T"
+                },
+                {
+                    "uid": "2458296",
+                    "username": "ablationvector"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "ChatGPT getting dumber?",
+            "description": "Rick4pex broke down how ChatGPT used to feel sharper for coding, cybersecurity questions, and product comparisons, contrasting it with recent refusals and weaker outputs — sparking discussion of safety filters, model changes, and Perplexity as an alternative.",
+            "url": "https://hackforums.net/showthread.php?tid=6315624",
+            "users": [
+                {
+                    "uid": "5699666",
+                    "username": "Rick4pex"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How old were you when you began using a computer?",
+            "description": "Tyr asked members to share their first memories with computers, sparking a nostalgic discussion that highlighted just how diverse the HF user base is.",
+            "url": "https://hackforums.net/showthread.php?tid=6315696",
+            "users": [
+                {
+                    "uid": "4402880",
+                    "username": "Tyr"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Office24 ProPlus2024 serial",
+            "description": "Jamika shared an Office key with the community — a small gesture that exemplifies what HF community sharing is about.",
+            "url": "https://hackforums.net/showthread.php?tid=6315692",
+            "users": [
+                {
+                    "uid": "5458992",
+                    "username": "Jamika"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Legends] Brute force AI tool that tries really hard to behave like a human user",
+            "description": "JoseMar surfaced BruteForceAI, a tool that blends brute forcing with LLM-driven behavior to mimic real users — DOM analysis, adaptive retries, human-like delays and jitter — raising awareness for red-team, blue-team, and defensive security work.",
+            "url": "https://hackforums.net/showthread.php?tid=6315850",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[EDUCATIONAL] Predicting RNG Output via Reverse Engineering",
+            "description": "Rick4pex shared an educational walkthrough on why weak pseudorandom generators are dangerous, including reversing common PRNGs, reconstructing internal state from outputs, and real-world demos tied to games and applications.",
+            "url": "https://hackforums.net/showthread.php?tid=6315845",
+            "users": [
+                {
+                    "uid": "5699666",
+                    "username": "Rick4pex"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "GFX Image of the Week",
+            "description": "Motusora's animated GFX piece was featured as the HF News image of the week.",
+            "url": "https://hackforums.net/showthread.php?tid=6315620",
+            "users": [
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 566,
+        "date": 1765833973,
+        "pid": "62888891",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 27"
+    }
+}

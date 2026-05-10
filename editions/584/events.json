@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Upgrade Specials - Happy Birthday HF",
+            "description": "Following HF's 19th birthday, Omniscient ran a limited-time discount on permanent upgrades along with increased upgrade Bytes rewards. Offer runs until May 1.",
+            "url": "https://hackforums.net/showthread.php?tid=6324440",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Google Analytics Enabled",
+            "description": "Following the recent crawler/bot management work, Omniscient enabled Google Analytics for a deeper view of site traffic. Initial 15 minutes of data was shared, with more to follow.",
+            "url": "https://hackforums.net/showthread.php?tid=6324462",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Squints and Dribbles. Medal of Honor awarded to Prettykitty.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1389591",
+                    "username": "Squints"
+                },
+                {
+                    "uid": "596861",
+                    "username": "Dribbles"
+                },
+                {
+                    "uid": "49365",
+                    "username": "Prettykitty"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Upgrade Special Giveaway",
+            "description": "Cap is giving away three permanent Ub3r and three permanent L33t upgrades for HF's birthday. Entry by reply, ends April 30.",
+            "url": "https://hackforums.net/showthread.php?tid=6324442",
+            "users": [
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — The Mortuary Assistant",
+            "description": "Charlie Sheen submitted The Mortuary Assistant — felt the storyline jumped in too quickly with limited build-up.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 584,
+        "date": 1777328108,
+        "pid": "62947803",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 45"
+    }
+}

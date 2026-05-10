@@ -1,0 +1,138 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Server Move - Progress Update",
+            "description": "Omniscient continued the HF backend upgrade with rolling progress updates. Some real-life delays slowed things slightly, but progress is steady.",
+            "url": "https://hackforums.net/showthread.php?tid=6319690",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Тоху, Deadly Toaster, and McDolands. SportsBook awarded to Walter.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "76036",
+                    "username": "Тоху"
+                },
+                {
+                    "uid": "1521606",
+                    "username": "Deadly Toaster"
+                },
+                {
+                    "uid": "2814290",
+                    "username": "McDolands"
+                },
+                {
+                    "uid": "5638371",
+                    "username": "Walter"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Fuck, Marry, Kill: HF Edition",
+            "description": "Hackers kicked off a chaotic Lounge chain thread that mutated mid-stream into 'Hack, Rob, or Kill' — pure HF banter, low stakes, high improv energy.",
+            "url": "https://hackforums.net/showthread.php?tid=6320283",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What's a Random Skill You're Surprisingly Good At?",
+            "description": "R5N3T opened a wholesome prompt that pulled in answers ranging from speed reading and body language to box-fort building, storytelling photography, and the cursed superpower of always losing at gambling.",
+            "url": "https://hackforums.net/showthread.php?tid=6320413",
+            "users": [
+                {
+                    "uid": "2207123",
+                    "username": "R5N3T"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Forester: Game Alpha Demo",
+            "description": "Hackers shared a playable alpha demo of Forester — a web-based crafting/combat game built with Codex featuring gathering, crafting, potions, procedural maps, and planned tier system. Framed as a passion project for his wife.",
+            "url": "https://hackforums.net/showthread.php?tid=6320316",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "4 Years Vape Free",
+            "description": "tafatag shared what worked in their long-haul vape quit: replacing the habit (sunflower seeds/candy), breathing exercises to mimic the deep-hit ritual, and therapy to ride out cravings — practical guidance backed by community support.",
+            "url": "https://hackforums.net/showthread.php?tid=6320391",
+            "users": [
+                {
+                    "uid": "5738679",
+                    "username": "tafatag"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hi I'm new here and here is how I found you",
+            "description": "Omega Sapien introduced themselves, explaining they discovered HF while exploring local AI tools — a reminder that members still find the site by wandering the internet for interesting corners to learn in.",
+            "url": "https://hackforums.net/showthread.php?tid=6320408",
+            "users": [
+                {
+                    "uid": "5738909",
+                    "username": "Omega Sapien"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "100,000 Bytes Contest",
+            "description": "Moooookie is hosting another 100,000 bytes giveaway for upgraded members, ending March 8.",
+            "url": "https://hackforums.net/showthread.php?tid=6320399",
+            "users": [
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Cha Cha Real Smooth",
+            "description": "RangoWorld submitted Cha Cha Real Smooth as Movie of the Week, calling it bittersweet and well-fitted to the month.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "5447855",
+                    "username": "RangoWorld"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 575,
+        "date": 1771875188,
+        "pid": "62920226",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 36"
+    }
+}

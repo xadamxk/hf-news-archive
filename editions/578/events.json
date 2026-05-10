@@ -1,0 +1,121 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Hack Forums Wiki Nearing Completion",
+            "description": "The HF News team announced the Hack Forums Wiki is now near complete after months of active updates, with ongoing community updates posted in the original thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6314337",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Nick Elite, TheChiеf, and Ronan.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2333286",
+                    "username": "TheChiеf"
+                },
+                {
+                    "uid": "751846",
+                    "username": "Ronan."
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "JoshAllen was added as a leader of The Academy. 7 is in the market to purchase a new group.",
+            "url": "https://hackforums.net/showthread.php?tid=6321852",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                },
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Posts, prestige, and reputation milestones",
+            "description": "flyingduck reached 3,000 popularity. Mix reached 2,000 popularity.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2998488",
+                    "username": "flyingduck"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Vacation bans",
+            "description": "m0hx went on vacation until April 3, 2026.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5672031",
+                    "username": "m0hx"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "100,000 Bytes Contest",
+            "description": "Moooookie launched another 100,000 bytes giveaway for upgraded members, ending April 1, 2026.",
+            "url": "https://hackforums.net/showthread.php?tid=6321724",
+            "users": [
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "4,500 Bytes Giveaway Contest",
+            "description": "Nick Elite is hosting a 4,500 bytes giveaway open to upgraded members through March 24, 2026, to mark the launch of his hosting, proxy, and domain services.",
+            "url": "https://hackforums.net/showthread.php?tid=6321967",
+            "users": []
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Good Luck, Have Fun, Don't Die",
+            "description": "Charlie Sheen submitted Good Luck, Have Fun, Don't Die — a recent Sam Rockwell film with a Déjà vu-style cycle the protagonist is trying to break.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 578,
+        "date": 1773681495,
+        "pid": "62930931",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 39"
+    }
+}

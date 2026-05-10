@@ -1,0 +1,174 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Stanley Threads Disabled",
+            "description": "Omniscient disabled Stanley's auto-threads after they failed to gain traction. The associated award goal is no longer achievable; an updated AI-generated content version is planned.",
+            "url": "https://hackforums.net/showthread.php?tid=6322961",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "1337",
+                    "username": "Stanley"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Referral Program for $5 in XMR",
+            "description": "Omniscient floated a new referral benefit: members who refer someone who upgrades to L33t would earn a monetary reward. Figures are not finalized — community input is being sought.",
+            "url": "https://hackforums.net/showthread.php?tid=6322802",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Flip Reaper awarded to shakur123. King Decade awarded to Wake, SIM-2327840, Pharcyde, Industry, and Top 3!. Silver Medal awarded to Vinavil.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3970465",
+                    "username": "shakur123"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake"
+                },
+                {
+                    "uid": "2327840",
+                    "username": "SIM-2327840"
+                },
+                {
+                    "uid": "2455005",
+                    "username": "Pharcyde"
+                },
+                {
+                    "uid": "258055",
+                    "username": "Industry"
+                },
+                {
+                    "uid": "5052823",
+                    "username": "Vinavil"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Lavish Living was removed as a leader of Pink LSZ.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2028907",
+                    "username": "Lavish Living"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hack Forums Monthly Picks",
+            "description": "MarlboroMan launched Monthly Picks — a community voting initiative for Member of the Month, Group of the Month, and Thread of the Month — bringing back the spirit of older recognition systems in a clean, simple format.",
+            "url": "https://hackforums.net/showthread.php?tid=6322700",
+            "users": [
+                {
+                    "uid": "5679562",
+                    "username": "MarlboroMan"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Google AI Studio 2.0 Antigravity Coding Agent",
+            "description": "JoseMar broke down Google's Antigravity Coding Agent — persistent project awareness, automated Firebase setup, real-time multiplayer capabilities — and discussed how the developer's role evolves as systems supervise themselves.",
+            "url": "https://hackforums.net/showthread.php?tid=6322522",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Building a Local Speech-to-Text API with Whisper",
+            "description": "Yakless walked readers through building a fully local transcription API using Whisper and FastAPI, covering model choice, CPU-friendly settings, VAD filtering, timestamps, and chaining output into a broader local AI pipeline.",
+            "url": "https://hackforums.net/showthread.php?tid=6322527",
+            "users": [
+                {
+                    "uid": "2033319",
+                    "username": "Yakless"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Claude Code adds /dream - a sleep cycle for memory",
+            "description": "Oh_Well discussed Claude Code's new /dream feature, which periodically consolidates, prunes, and rewrites memory to combat bloat, contradiction, and noise — framing it as a meaningful step in agent design beyond longer context.",
+            "url": "https://hackforums.net/showthread.php?tid=6322664",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Hacknet — New Hacking MMO/Idle",
+            "description": "purplelepro shared an early version of Hacknet — a live multiplayer MMO/idle game built around attacking targets, upgrading rigs, deploying malware-themed mechanics, and crypto mining — and asked the community for feedback.",
+            "url": "https://hackforums.net/showthread.php?tid=6322487",
+            "users": [
+                {
+                    "uid": "2210825",
+                    "username": "purplelepro"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Death Stranding 2 Giveaway - Steam Key",
+            "description": "7 is giving away a spare Death Stranding 2 Steam key (received bundled with a new laptop). Ends April 4.",
+            "url": "https://hackforums.net/showthread.php?tid=6322821",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — City of God (2002)",
+            "description": "MarlboroMan submitted City of God as Movie of the Week.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "5679562",
+                    "username": "MarlboroMan"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 580,
+        "date": 1774879804,
+        "pid": "62936939",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 41"
+    }
+}

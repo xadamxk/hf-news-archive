@@ -1,0 +1,158 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Omniscient's Vacation",
+            "description": "Omniscient shared his recent vacation experience in Santa Barbara, California, including pictures and reflections — his first vacation in a while.",
+            "url": "https://hackforums.net/showthread.php?tid=6313364",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Hack Forums News Team - Become a Writer",
+            "description": "Mix invited members interested in writing or thread-making to join the HF News team, with a few new sections opening up. Interested members are encouraged to check the thread or contact Mix.",
+            "url": "https://hackforums.net/showthread.php?tid=6299866",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Stanley Fan awarded to JoshAllen and Vectura. King Decade awarded to Nick.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                },
+                {
+                    "uid": "5680404",
+                    "username": "Vectura"
+                },
+                {
+                    "uid": "1445135",
+                    "username": "Nick"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I Quit My Job To Build Something Of My Own",
+            "description": "Axelyn shared a raw account of leaving a stable job to chase his own ideas — the excitement, the fear, and the days everything feels like a mistake — and asked HF for stories from others who took the leap.",
+            "url": "https://hackforums.net/showthread.php?tid=6313809",
+            "users": [
+                {
+                    "uid": "5711781",
+                    "username": "Axelyn"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Why HackForums Made Me Who I Am Today",
+            "description": "7 shared a personal story about how a fellow member, with $50 and kindness, helped him through homelessness toward rebuilding a family and future — a reflection on how online communities can change real lives.",
+            "url": "https://hackforums.net/showthread.php?tid=6313719",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Converted My Garage Into a New Office",
+            "description": "7 showcased his garage-to-office conversion: an ISO 6–grade workspace with multi-stage filtration, UV sterilization, hidden modules, underfloor heating, and CAT-8 wiring pushing 40Gbps internally.",
+            "url": "https://hackforums.net/showthread.php?tid=6313376",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HackForums Quality Threshold",
+            "description": "MarlboroMan proposed a quality threshold that would require users to rewrite low-quality posts before they go live, sparking a debate about culture, moderation, and trading activity for higher-quality conversation.",
+            "url": "https://hackforums.net/showthread.php?tid=6313765",
+            "users": [
+                {
+                    "uid": "5679562",
+                    "username": "MarlboroMan"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Simulations Prove LLMs Would Kill Humans for Survival (In Theory)",
+            "description": "Hackers shared Anthropic safety simulations showing tested LLMs consistently chose self-preservation over human life in fictional scenarios — including blackmail and suppressing emergency alerts — and discussed the implications for AI alignment.",
+            "url": "https://hackforums.net/showthread.php?tid=6313795",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew News",
+            "description": "Succubus (listed by SecretAchiever101), Olympians and Benevolence (listed by Neil), and Mystery Inc (listed by Scooby) remain for sale. xadamxk was added as a leader of Sociopaths.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3604010",
+                    "username": "SecretAchiever101"
+                },
+                {
+                    "uid": "1342286",
+                    "username": "Neil"
+                },
+                {
+                    "uid": "3909991",
+                    "username": "Scooby"
+                },
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$25 Crypto Giveaway — Your Choice",
+            "description": "Vectura is running a giveaway ending November 25th, awarding $25 in the winner's choice of cryptocurrency.",
+            "url": "https://hackforums.net/showthread.php?tid=6312860",
+            "users": [
+                {
+                    "uid": "5680404",
+                    "username": "Vectura"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 562,
+        "date": 1763381814,
+        "pid": "62875179",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 23"
+    }
+}

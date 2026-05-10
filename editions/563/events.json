@@ -1,0 +1,146 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "The Hack Forums Wiki Returns",
+            "description": "The Hack Forums Wiki is back under new leadership from the HF News team, with Omniscient's blessing. Daily updates are bringing it toward a modern, comprehensive Wikipedia for HF.",
+            "url": "https://hackforums.net/showthread.php?tid=6314337",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                },
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Confound, Flaws., G33K, and zavierd. Flip Reaper awarded to Wilmer.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2920830",
+                    "username": "Confound"
+                },
+                {
+                    "uid": "2652579",
+                    "username": "Flaws."
+                },
+                {
+                    "uid": "1692747",
+                    "username": "G33K"
+                },
+                {
+                    "uid": "982498",
+                    "username": "zavierd"
+                },
+                {
+                    "uid": "245137",
+                    "username": "Wilmer"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Sign Language and Carpal Tunnel",
+            "description": "Tyr opened a discussion about the physical toll of practicing ASL and long keyboard hours. Members shared wrist-pain experiences, remedies, and ways to keep progressing despite hand strain.",
+            "url": "https://hackforums.net/showthread.php?tid=6314273",
+            "users": [
+                {
+                    "uid": "4402880",
+                    "username": "Tyr"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Quantum] The Ultimate Prompt Engineering Guide (2025 Edition)",
+            "description": "▄︻デ══━一一一一━ posted a comprehensive prompt-engineering guide packed with techniques, blueprints, multi-step workflows, simulation strategies, anti-hallucination rules, and advanced examples for mastering AI systems.",
+            "url": "https://hackforums.net/showthread.php?tid=6314300",
+            "users": [
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Google's Antigravity",
+            "description": "Hackers highlighted Google's new agentic development platform, Antigravity, framing it as a wake-up call for anyone still judging AI by a chat box — with deep app integration and automated workflows reshaping how fast individuals can ship.",
+            "url": "https://hackforums.net/showthread.php?tid=6314172",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "1,000,000 Bytes Sports Bet",
+            "description": "Moooookie shared a wild gambling comeback — dropping a million Bytes on sports betting and winning after losing the same amount earlier in the year. Screenshots included.",
+            "url": "https://hackforums.net/showthread.php?tid=6314275",
+            "users": [
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Wishing you all a wonderful day",
+            "description": "HerrWinston posted a wholesome reminder that progress doesn't require perfection, with hopes for a snowy Christmas — a small but welcome moment of warmth on HF.",
+            "url": "https://hackforums.net/showthread.php?tid=6314187",
+            "users": [
+                {
+                    "uid": "5649157",
+                    "username": "HerrWinston"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What's something you're genuinely excited about in your life right now?",
+            "description": "Flariuu kicked off a feel-good thread asking members what is keeping them motivated lately. Replies ranged from small wins to new hobbies like scuba diving.",
+            "url": "https://hackforums.net/showthread.php?tid=6314140",
+            "users": [
+                {
+                    "uid": "5621356",
+                    "username": "Flariuu"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$50 USD BTC Giveaway",
+            "description": "Flariuu is hosting a $50 BTC giveaway open to anyone, ending December 1, 2025 — one entry only.",
+            "url": "https://hackforums.net/showthread.php?tid=6313929",
+            "users": [
+                {
+                    "uid": "5621356",
+                    "username": "Flariuu"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 563,
+        "date": 1764009891,
+        "pid": "62879086",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 24"
+    }
+}

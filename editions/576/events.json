@@ -1,0 +1,154 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Server Move - Continued Progress",
+            "description": "Omniscient continued the HF backend overhaul, working through the harder portions of the migration. The thread provides ongoing insight into the back-end work.",
+            "url": "https://hackforums.net/showthread.php?tid=6319690",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to JX⠀, Nima304, and Riddick. Green Apple awarded to 6. Dicey awarded to Au Jus Demon.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "856532",
+                    "username": "JX⠀"
+                },
+                {
+                    "uid": "97519",
+                    "username": "Nima304"
+                },
+                {
+                    "uid": "547916",
+                    "username": "Riddick"
+                },
+                {
+                    "uid": "6",
+                    "username": "6"
+                },
+                {
+                    "uid": "761578",
+                    "username": "Au Jus Demon"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "7 rebranded the Casino group into a new AI creative group called Vibe.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "GFX Image of the Week",
+            "description": "Motusora's GFX work was featured as the HF News image of the week.",
+            "url": "https://hackforums.net/showthread.php?tid=6319003",
+            "users": [
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Every AI chat assistant is now an ad company?",
+            "description": "Hackers raised the uncomfortable point that an assistant shaping what you read, buy, and believe becomes one of the most valuable ad surfaces ever — sparking discussion of inevitability, the 'if it's free, you're the product' line, and oversharing with AI like therapy.",
+            "url": "https://hackforums.net/showthread.php?tid=6320254",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "If WW3 started tomorrow, what would actually pump?",
+            "description": "KyO posed a 'markets under stress' question that drew a chaotic mix of dark humor and practical takes covering raw materials, defense names, and prepper essentials.",
+            "url": "https://hackforums.net/showthread.php?tid=6320890",
+            "users": [
+                {
+                    "uid": "4595369",
+                    "username": "KyO"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How did you find HackForums?",
+            "description": "R5N3T's lounge prompt spun into a mini oral history of HF — friends inviting friends, members searching 'hacking forums' back in the day, and the classic pipeline from game hacks/drama into IT, infosec, and community.",
+            "url": "https://hackforums.net/showthread.php?tid=6320904",
+            "users": [
+                {
+                    "uid": "2207123",
+                    "username": "R5N3T"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Small Things That Can Actually Make You Happy",
+            "description": "R5N3T pulled together warm responses on small daily wins — nostalgia hits, tiny surprises, affectionate moments, and even random animals approaching on night walks.",
+            "url": "https://hackforums.net/showthread.php?tid=6320865",
+            "users": [
+                {
+                    "uid": "2207123",
+                    "username": "R5N3T"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "So....Basically....",
+            "description": "Omniscient explored language quirks ('so', 'basically', 'irregardless', starting with 'I') as a window into how people think and self-edit — with AI as the mirror, sparking debate over whether LLMs really 'learn you'.",
+            "url": "https://hackforums.net/showthread.php?tid=6320617",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — Dead Man's Wire",
+            "description": "Charlie Sheen submitted Dead Man's Wire as Movie of the Week, citing the production quality and the deeper detail that the film captured from the underlying story.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 576,
+        "date": 1772514990,
+        "pid": "62924338",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 37"
+    }
+}

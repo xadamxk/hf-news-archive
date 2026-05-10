@@ -1,0 +1,154 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Quickly Loved awarded to Pοιsonlεaf. SportsBook awarded to Tyr. King Decade awarded to Daniel Rosenfeld, zavierd, Archeery, Catfisher, v11, serlix, and TheMTGuy.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "952675",
+                    "username": "Pοιsonlεaf"
+                },
+                {
+                    "uid": "4402880",
+                    "username": "Tyr"
+                },
+                {
+                    "uid": "982498",
+                    "username": "zavierd"
+                },
+                {
+                    "uid": "2682037",
+                    "username": "Archeery"
+                },
+                {
+                    "uid": "2849614",
+                    "username": "Catfisher"
+                },
+                {
+                    "uid": "970838",
+                    "username": "v11"
+                },
+                {
+                    "uid": "2570035",
+                    "username": "serlix"
+                },
+                {
+                    "uid": "1567360",
+                    "username": "TheMTGuy"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What Are Logs and How to Use Them",
+            "description": "leste explained what 'logs' are in stealer-malware context — dumped browser passwords, cookies, sessions, wallets — and discussed which countries are considered high value and how people monetize that data, with a reminder of the legal and security risks.",
+            "url": "https://hackforums.net/showthread.php?tid=6314608",
+            "users": [
+                {
+                    "uid": "5646157",
+                    "username": "leste"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Best OS for local LLM?",
+            "description": "Hackers asked what OS members prefer for running local LLMs, sparking a discussion comparing Linux distros, Windows, and macOS with Apple Silicon — covering performance, drivers, VRAM, and dev-comfort considerations.",
+            "url": "https://hackforums.net/showthread.php?tid=6314604",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Quantum] I Gave AI a Budget to Find and Purchase the Best Black Friday Deals",
+            "description": "Oh_Well handed PayPal balance to an AI-powered browser agent on Black Friday and let it scan stores, track price history, avoid fake discounts, stack coupons, and auto-checkout — saving roughly €985 across action cams, smart home gear, robot vacuums and more.",
+            "url": "https://hackforums.net/showthread.php?tid=6314386",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What's a Random Skill You Picked Up That Ended Up Helping You Later?",
+            "description": "Axelyn opened a reflection thread about accidental skills — random things picked up from a hobby or boredom that turned out useful — sharing how casual Canva use evolved into a money-saving, gig-generating skill.",
+            "url": "https://hackforums.net/showthread.php?tid=6314741",
+            "users": [
+                {
+                    "uid": "5711781",
+                    "username": "Axelyn"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What did you do for Thanksgiving?",
+            "description": "JoshAllen, though not from the US, asked the community how they spent Thanksgiving. The thread became a feel-good roundup of family dinners, time off, and solo chill days.",
+            "url": "https://hackforums.net/showthread.php?tid=6314627",
+            "users": [
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "250,000 Bytes Contest - $600 Value",
+            "description": "Moooookie is hosting a 250,000 Bytes Christmas contest open to upgraded site members, ending December 25, 2025.",
+            "url": "https://hackforums.net/showthread.php?tid=6314498",
+            "users": [
+                {
+                    "uid": "5418830",
+                    "username": "Moooookie"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "$15 Crypto Contest",
+            "description": "Hazii is hosting a $15 crypto giveaway with one winner, ending December 12, 2025.",
+            "url": "https://hackforums.net/showthread.php?tid=6314584",
+            "users": [
+                {
+                    "uid": "5670297",
+                    "username": "Hazii"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Servury Launch Contest - 3 Winners",
+            "description": "servury is running a launch contest with three winners who can pick between $20 crypto or $30 Servury credits, ending December 20, 2025.",
+            "url": "https://hackforums.net/showthread.php?tid=6314436",
+            "users": [
+                {
+                    "uid": "5713863",
+                    "username": "servury"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 564,
+        "date": 1764632275,
+        "pid": "62882703",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 25"
+    }
+}

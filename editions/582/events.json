@@ -1,0 +1,62 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Loukas, MOE, and Frankstein.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "512557",
+                    "username": "Loukas"
+                },
+                {
+                    "uid": "3098194",
+                    "username": "MOE"
+                },
+                {
+                    "uid": "1703244",
+                    "username": "Frankstein"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "HerrWinston was added as a leader of Brotherhood.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5649157",
+                    "username": "HerrWinston"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Movie of the Week — BUGONIA",
+            "description": "Charlie Sheen submitted BUGONIA — a film he could not finish and rated 1/10, but wants to discuss further with the community.",
+            "url": "https://hackforums.net/showthread.php?tid=6318534",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": []
+        }
+    ],
+    "edition": {
+        "number": 582,
+        "date": 1776113099,
+        "pid": "62942538",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 43"
+    }
+}
