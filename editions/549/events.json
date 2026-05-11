@@ -77,7 +77,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines / Statistics)"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Awards / Contests / Comics)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "811",
+                    "username": "jcole",
+                    "role": "Journalist (Gaming)"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Journalist (Tech)"
+                }
+            ]
         }
     ],
     "edition": {

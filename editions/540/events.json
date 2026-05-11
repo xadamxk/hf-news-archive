@@ -133,7 +133,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "121196",
+                    "username": "Natha",
+                    "role": "Journalist (Headlines / Statistics)"
+                },
+                {
+                    "uid": "811",
+                    "username": "jcole",
+                    "role": "Journalist (Gaming)"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Awards / Comics)"
+                },
+                {
+                    "uid": "2890436",
+                    "username": "Pikachu",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                }
+            ]
         }
     ],
     "edition": {

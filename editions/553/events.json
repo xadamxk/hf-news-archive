@@ -89,7 +89,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Headlines / Groups / Music / Contests / User News / Gaming)"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Comics)"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Journalist (Tech)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy",
+                    "role": "Contributor"
+                }
+            ]
         }
     ],
     "edition": {
