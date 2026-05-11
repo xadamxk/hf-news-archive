@@ -1,6 +1,54 @@
 {
     "events": [
         {
+            "category": "site",
+            "title": "Guests View First Post Only Reverted",
+            "description": "Omniscient reverted the guest-view-first-post change due to high bot crawler activity inflating thread view counts. Guests can no longer view threads.",
+            "url": "https://hackforums.net/showthread.php?tid=6318027",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Upload Images Testing",
+            "description": "Omniscient's encrypted image upload feature continues testing with broadly positive feedback from members trying it on the dedicated testing thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6323096",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Profile Redesign",
+            "description": "Omniscient is looking to merge the separate general account profile and marketplace profile into a single combined view to reduce confusion between members on the site. Community ideas are being collected.",
+            "url": "https://hackforums.net/showthread.php?tid=6323084",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Member Contest Rules & More",
+            "description": "Mix published a consolidated Member Contest Rules thread that combines roughly three previously-pinned threads into one shorter, clearer set of rules for hosts and entrants.",
+            "url": "https://hackforums.net/showthread.php?tid=6323141",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                }
+            ]
+        },
+        {
             "category": "users",
             "title": "Awards",
             "description": "King Decade awarded to Loukas, MOE, and Frankstein.",
