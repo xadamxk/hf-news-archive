@@ -70,13 +70,15 @@ Feel free to extract whatever you want from the `events.json` data for your own 
 
 - [ ] Add HF News contributors for editions (357, 358, 360–471, 489–503, 505–511, 533–539)
 - [ ] Create a script, utilizing the HF API, that queries UIDs and updates the corresponding usernames in the `users` entries
-- [ ] Update UI to be mobile friendly
 - [ ] Add FAB button to return to top of the page
 - [ ] Add settings to viewer (pagination number, theme, etc.)
 - [ ] Continue to update theme(s) to match old HF themes
 - [ ] Add page/view for "News Contributor statistics"
 - [ ] Add option for "infiniscroll" feature (mobile only?)
-- [ ] Add either tags or sub-categories (ie. rules, awards, RKO's/Repfucks/rep kills/etc.)
+- [ ] Add either tags or sub-categories (ie. rules, awards, RKO's/Repfucks/rep kills, etc. for each existing category)
 - [ ] Break up user event into multiple events (to know how many times individual users were banned, rko'd, etc.) — will drastically increase event count (might need further optimizations)
-- [ ] Add "during this week" feature — events from this current week from past editions
-- [ ] Create an "HFdle" site - quiz site using historic events. Requires generating potential answers - question of the day vs continuous questions
+- [x] Update UI to be mobile compatible
+
+### Potential Future Projects
+- "HFdle" site or daily thread - quiz using historic events. Requires generating potential answers - question of the day vs continuous questions
+- "During this Week" feature — events from this current week from past editions
