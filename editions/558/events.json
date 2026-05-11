@@ -84,6 +84,42 @@
             ]
         },
         {
+            "category": "threads",
+            "title": "Hackforums Convo project",
+            "description": "- by A fresh collaboration worth keeping an eye on. Originally created by , the \"Convo Project\" brings a next-level collaboration in HF community. The project aims to build a desktop version of HF's convo, with plans to integrate the HF API for features like Quick Thread previews, fast replies, and a slicker UI.",
+            "url": "https://hackforums.net/showthread.php?tid=6310986",
+            "users": [
+                {
+                    "uid": "1763754",
+                    "username": "itcorp"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Open Source - Link Shortening & Analytics Dashboard",
+            "description": "- by shared an open-source project called ishortn.ink, a URL shortener with analytics and tracking. It’s a fork of an existing GitHub repo but comes with a focus on flexibility and privacy. The post dives into how link tracking, fingerprinting, and domain rotation can serve both analytics and freedom-of-speech purposes.",
+            "url": "https://hackforums.net/showthread.php?tid=6311505",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Win the Handgun Award for Just $30 – FPS Video Challenge",
+            "description": "by well, this is an interesting one. Not necessarily a giveaway but an opportunity to win the ability to purchase a custom award for just $30. To enter you need to create a video of you playing an FPS game.",
+            "url": "https://hackforums.net/showthread.php?tid=6311326",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "7"
+                }
+            ]
+        },
+        {
             "category": "news",
             "title": "Contributors to this edition.",
             "description": "",

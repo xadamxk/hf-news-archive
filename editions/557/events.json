@@ -40,6 +40,54 @@
             "users": []
         },
         {
+            "category": "threads",
+            "title": "The Academy Octoberfest Award Progress Tracker",
+            "description": "- by Octoberfest vibes are in full swing, and @Charlie Sheen@ delivered the perfect utility for the season, a Tampermonkey script that tracks your October posts and threads in real time. With a clean UI, auto-refresh, and Halloween-themed flair, it's the easiest way to monitor your award progress without lifting a finger. An awesome example of coding meets community spirit.",
+            "url": "https://hackforums.net/showthread.php?tid=6310352",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HACKFORUMS DASH: Complete API Dashboard & Automation Platform",
+            "description": "- by launched a game changer - *HackForums Dash*, a full API-based dashboard that gives users total control over their HF accounts. From managing bytes and auto-bumping threads to checking contracts and ratings, it's built with security in mind using .official HF API. A sleek, modern automation suite for power users that pushes the forum’s ecosystem forward in a big way.",
+            "url": "https://hackforums.net/showthread.php?tid=6310504",
+            "users": [
+                {
+                    "uid": "5680404",
+                    "username": "Vectura"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Craziest thing that happened on HF?",
+            "description": "- by Every old-timer on HF has a story or two. From legendary bans to wild exploits and real-life drama, this thread is turning into a living archive of HF lore. If you missed some of the forum's craziest moments, this is your chance to catch up.",
+            "url": "https://hackforums.net/showthread.php?tid=6310535",
+            "users": [
+                {
+                    "uid": "5595387",
+                    "username": "FrostMost"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My journey building a tool for doomscrolling awareness + Facebook post analysis",
+            "description": "- by It might feel a bit weird to add one of my own, but I shared a personal journey creating a Chrome extension to combat doomscrolling and analyze Facebook posts. What began as a response to dark algorithmic loops turned into a tool for emotional awareness. A raw, thoughtful post that blends mental health awareness with serious tech craft.",
+            "url": "https://hackforums.net/showthread.php?tid=6310664",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
             "category": "news",
             "title": "Contributors to this edition.",
             "description": "",

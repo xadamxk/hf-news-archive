@@ -176,6 +176,49 @@
             ]
         },
         {
+            "category": "threads",
+            "title": "How Do You Feel About The Octoberfest Award Being Purchasable Now?",
+            "description": "- by A timely discussion as Octoberfest kicks off once again. opens the floor with a thoughtful question: should the classic pumpkin award remain an earned badge of honor, or is it fine to make it purchasable too? From 2021 to 2024, the award could only be earned through forum activity, but now, it can be bought outright.",
+            "url": "https://hackforums.net/showthread.php?tid=6309495",
+            "users": [
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What's your progress on the Octoberfest award?",
+            "description": "- by Octoberfest 2025 is in full swing, and starts a simple but fun community check-in: how far are you on the new Octoberfest award? The replies show motivation as members compare their progress. A seasonal thread that keeps the festive spirit going while encouraging everyone to stay active through the month.",
+            "url": "https://hackforums.net/showthread.php?tid=6309493",
+            "users": [
+                {
+                    "uid": "2436943",
+                    "username": "account_"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How did you pick your username & why is it better than SUI-3183372?",
+            "description": "- by @Poisonleaf@ A nostalgic thread where members share the stories behind their usernames. @Poisonleaf@ kicks things off by explaining how their name came from a World of Warcraft character, Frostleaf turned rogue, and the moniker \"Poisonleaf\" has stuck for two decades. The thread invites others to dive into the origins of their digital identities and reflect on what makes a username memorable - share yours too!",
+            "url": "https://hackforums.net/showthread.php?tid=6309878",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "From Grammar to Meaning: Building Semantic Similarity Analysis for HF Octoberfest",
+            "description": "- by continues to raise the bar with another impressive WPF-based NLP project, this time diving deep into semantic similarity analysis. Building upon their previous Token Visualizer tool, this upgraded version goes beyond grammar and explores how sentences relate in meaning - a perfect fit for content discovery during HF's Octoberfest. Featuring visual graphs, similarity scoring, and detailed code samples, the…",
+            "url": "https://hackforums.net/showthread.php?tid=6310126",
+            "users": [
+                {
+                    "uid": "1763754",
+                    "username": "itcorp"
+                }
+            ]
+        },
+        {
             "category": "news",
             "title": "Contributors to this edition.",
             "description": "",
