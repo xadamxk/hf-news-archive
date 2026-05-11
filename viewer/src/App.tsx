@@ -636,7 +636,7 @@ export default function App() {
           </div>
           <div className="filter-cell filter-cell--user">
             <label className="filter-heading" htmlFor="filter-input-user">
-              User (exact name or UID)
+              User (Name or UID)
             </label>
             <input
               id="filter-input-user"
