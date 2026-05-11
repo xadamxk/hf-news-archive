@@ -1,0 +1,96 @@
+[align=center][url=https://xadamxk.github.io/hf-news-archive/][img]https://github.com/xadamxk/hf-news-archive/blob/main/thread/header.png?raw=true[/img][/url][/align]
+
+[align=center][b][size=large]Try searching your username / UID in the event viewer for a complete timeline →[/size][/b]
+[size=small][i]https://xadamxk.github.io/hf-news-archive/[/i][/size][/align]
+
+[align=center][img=570x616]https://i.imgur.com/5QdHUFm.png[/img][/align]
+
+[hr]
+
+[b][size=medium]Purpose[/size][/b]
+
+This project preserves the events covered in each Hack Forums News edition — site changes, member awards, group activity, notable threads, and the writers behind each edition — as machine-readable JSON. By keeping a curated mirror offsite, the archive ensures the history survives thread deletions, account closures, [i]nuclear explosions[/i], and any other future changes to the site.
+
+[hr]
+
+[b]Features:[/b]
+[list]
+[*][b]560+ editions[/b] covered, going all the way back to Edition 1 (2010).
+[*][b]7,100+ individual events[/b] — site announcements, awards, group changes, notable threads, contests, contributors, and more.
+[*]An event [b]web viewer[/b] with full-text search, user filter (by username or UID), category filter, date range, and sortable order.
+[*]Fully [b]open source[/b] — everything is in a public GitHub repo, including the raw post/blog data the events are curated from.
+[/list]
+
+[hr]
+[b][size=medium]News Editions List[/size][/b]
+
+[url=https://hackforums.net/showthread.php?tid=6325220&pid=62953582#pid62953582]HF News Editions 1-300[/url]
+[url=https://hackforums.net/showthread.php?tid=6325220&pid=62953584#pid62953584]HF News Editions 301-current[/url]
+
+[hr]
+[b][size=medium]Missing editions[/size][/b]
+
+32 editions could not be archived because the source thread or blog post was deleted, junked, or never captured before the archive was started. These editions exist as numbers only — no raw data, no curated events:
+
+[code]14, 15, 340, 341, 359, 472, 485, 486, 487, 488, 504, 512, 513, 514,
+515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528,
+529, 530, 531, 532[/code]
+
+Edition 359 still has a thread link in [b]editions.csv[/b], but its first post was junked, so no usable content remains. If you happen to have a saved copy of any of these, please drop a reply — even a screenshot is a good starting point.
+
+[hr]
+[b][size=medium]FAQ[/size][/b]
+
+[spoiler]
+[b]What is the purpose of this archive project?[/b]
+To preserve the historical record of Hack Forums News events in a place that does not depend on Hack Forums itself or the HF Wiki. Both of those can change, lose content, or disappear; this repository keeps a portable, structured copy so the history remains accessible regardless of what happens to the primary site.
+
+[b]I found an error or missing event, can you fix it?[/b]
+The fastest path is to fix it yourself: clone the repository, edit the relevant [b]editions/<N>/events.json[/b] (or add a new one), and open a pull request. Corrections, newly discovered events, and other improvements are all welcome. If GitHub isn't your thing, you can also just drop a reply in this thread and I'll get to it on the next pass.
+
+[b]Where does the data come from?[/b]
+Most editions are pulled from their Hack Forums thread via the HF API, which writes the raw posts into [b]editions/<N>/posts.json[/b]. Editions 442–508 were sourced from member blog dumps ([b]blogs.json[/b]) instead. From there, each edition's [b]events.json[/b] is curated by hand following the conventions in the parse prompt.
+
+[b]Why are some editions missing?[/b]
+The source content is gone. Some news threads were deleted, junked, or migrated away before the archive existed; some blogs were never captured. The 32 affected edition numbers are listed above. If you have a copy of any of them, please open a pull request adding the source data.
+
+[b]Is there a viewer / web UI?[/b]
+Yes — the web viewer at [url=https://xadamxk.github.io/hf-news-archive/]xadamxk.github.io/hf-news-archive[/url] is a static React app for browsing every event in the archive. The source for the viewer lives in the [b]viewer/[/b] directory of the repo if you want to run it locally.
+
+[b]Can I contribute? How?[/b]
+Pull requests are welcome. Common contributions: filling in details on existing events, adding events that were missed, or adding entire editions (especially anything from the missing list). The viewer uses Bun; the post fetcher uses Node and needs a Hack Forums API token.
+
+[b]What do "Journalist (Section)" and "Contributor" roles mean?[/b]
+On the [b]Contributors to this edition.[/b] event, each contributor carries a [b]role[/b] string. [b]Journalist (Headlines)[/b], [b]Journalist (Awards / Tech)[/b], etc. means that member wrote the named section(s) of the edition. [b]Contributor[/b] means they appeared in the closing "thank you" credits without being attributed to a specific section.
+
+[b]How often is the archive updated?[/b]
+The archive is updated manually, so expect long gaps — sometimes months — between catch-up passes. New editions are added in batches when time allows rather than on a fixed schedule.
+
+[b]License / data reuse terms?[/b]
+Feel free to extract whatever you want from the events.json data for your own projects. If you do build something on top of the archive, please help keep it current by sending fixes and new editions back upstream so everyone benefits from the same history.
+[/spoiler]
+[hr]
+[b][size=medium]Roadmap[/size][/b]
+
+[spoiler]
+[list]
+[*]Fill in HF News contributors for older editions (357, 358, 360–471, 489–503, 505–511, 533–539).
+[*]A script that uses the HF API to refresh usernames on every UID in the dataset.
+[*]A "back to top" floating button in the viewer.
+[*]Viewer settings: pagination size, theme switcher, etc.
+[*]More theme options that match older HF skins.
+[*]A "News Contributor statistics" page.
+[*]Optional infinite-scroll on mobile.
+[*]Tags / sub-categories within the existing categories (rules, awards, RKOs/repfucks/rep kills, etc.).
+[*]Splitting user events into individual entries so per-user stats (bans, RKOs, etc.) are countable.
+[/list]
+
+[b]Possible future projects:[/b]
+[list]
+[*][b]"HFdle"[/b] — a daily quiz site/thread based on historic events from the archive.
+[*][b]"During this Week"[/b] — events from the current calendar week, pulled from past editions.
+[/list]
+[/spoiler]
+[hr]
+
+[align=center][i]If you spot something wrong, find a missing edition, or just want to leave feedback — reply below. Thanks for reading.[/i][/align]
