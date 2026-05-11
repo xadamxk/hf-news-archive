@@ -608,10 +608,8 @@ export default function App() {
           HF News Archive
         </h1>
         <p className="meta" style={{ margin: 0 }}>
-          {raw.n} events
           {latestEditionHeadline ? (
             <>
-              {" — "}
               Latest Edition {latestEditionHeadline.edition} ({formatDate(latestEditionHeadline.dateSec)})
             </>
           ) : null}
