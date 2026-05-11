@@ -70,114 +70,95 @@ a:hover {
   border-radius: 10px;
 }
 
-.toolbar-row {
+/* ===========================
+ * Filter grid (search / user / date / category / sort)
+ *
+ * One CSS grid lays out every filter as a (heading, control) cell. The whole
+ * grid is a 2-row track on desktop and a re-flowed multi-row track on mobile.
+ * Cells use a column flex internally so the heading sits on top and the control
+ * sits at the bottom of the cell's content; `align-items: end` on the grid then
+ * pulls every cell's bottom edge to the same baseline, guaranteeing the
+ * controls line up regardless of heading line count.
+ * =========================== */
+.filter-grid {
+  --filter-control-h: 2.5rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr minmax(7rem, 1fr) minmax(9rem, 1.25fr) auto;
+  column-gap: 0.5rem;
+  row-gap: 0.5rem;
+  align-items: end;
+}
+
+.filter-cell {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  align-items: flex-end;
-}
-
-.toolbar-row-split {
-  --toolbar-control-h: 2.5rem;
-  flex-wrap: nowrap;
-  /* Override .toolbar-row flex-end: stretch so filter columns share one height */
-  align-items: stretch;
-  gap: 0.35rem;
+  flex-direction: column;
+  gap: 0.3rem;
   min-width: 0;
 }
 
-.toolbar-row-split label,
-.toolbar-row-split .toolbar-sort-heading,
-.toolbar-row-split .cat-dropdown-field-label {
-  line-height: 1.15;
+.filter-heading {
+  font-size: 0.75rem;
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  /* Sit immediately above the control */
+  align-self: stretch;
 }
 
-/* Same height for text fields, date/categories triggers, and sort (bottom row of labels) */
-.toolbar-row-split input[type="search"],
-.toolbar-row-split input[type="text"] {
-  height: var(--toolbar-control-h);
-  min-height: var(--toolbar-control-h);
-  /* Override global input[type="search"] min-width so flex can shrink on one line */
-  min-width: 0;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 0.55rem;
-  padding-right: 0.55rem;
-  line-height: 1.25;
+/* Shared sizing for inputs, dropdown triggers, and the sort button so they
+   share one baseline regardless of which cell they live in. */
+.filter-input,
+.filter-grid .cat-dropdown-trigger,
+.filter-grid .btn-sort {
+  height: var(--filter-control-h);
+  min-height: var(--filter-control-h);
   box-sizing: border-box;
 }
 
-.toolbar-row-split .cat-dropdown-trigger {
-  height: var(--toolbar-control-h);
-  min-height: var(--toolbar-control-h);
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 0.55rem;
-  padding-right: 0.55rem;
+.filter-input {
+  width: 100%;
+  padding: 0 0.6rem;
+  line-height: 1.25;
+  font-size: 0.95rem;
+  background: var(--surface-input);
+  color: var(--text-on-input);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  /* Override global `input[type="search"] { flex: 1; min-width: ... }` so a
+     search input behaves identically to a text input inside this grid. */
+  flex: none;
+  min-width: 0;
+  -webkit-appearance: textfield;
+  appearance: textfield;
+}
+
+.filter-input::placeholder {
+  color: #5a5a5a;
+}
+
+.filter-grid .cat-dropdown-trigger {
+  padding: 0 0.6rem;
   font-size: 0.95rem;
   gap: 0.35rem;
-  box-sizing: border-box;
 }
 
-.toolbar-row-split .btn-sort {
+.filter-grid .btn-sort {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: var(--toolbar-control-h);
-  min-height: var(--toolbar-control-h);
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 0.55rem;
-  padding-right: 0.55rem;
+  padding: 0 0.6rem;
   font-size: 0.95rem;
-  border-radius: 6px;
-  box-sizing: border-box;
+  border-radius: 8px;
 }
 
-/* Headings share one top line; inputs/triggers share one bottom line (same column height). */
-.toolbar-row-split > label {
-  align-self: stretch;
-  min-width: 0;
-}
-
-.toolbar-row-split > label > input {
-  margin-top: auto;
-}
-
-.toolbar-row-split .toolbar-date-field > .cat-dropdown-anchor {
-  margin-top: auto;
-}
-
-.toolbar-row-split .cat-dropdown > .cat-dropdown-anchor {
-  margin-top: auto;
-}
-
-.toolbar-row-split .toolbar-sort-field > .btn-sort {
-  margin-top: auto;
-}
-
-.toolbar-row-split > .toolbar-label-search {
-  flex: 2 1 0;
-  min-width: 6rem;
-}
-
-.toolbar-row-split > .toolbar-label-user {
-  flex: 1 1 0;
-  min-width: 5rem;
-}
-
-.toolbar-row-split > .toolbar-label-search input[type="search"],
-.toolbar-row-split > .toolbar-label-user input[type="text"] {
-  width: 100%;
-}
-
-.toolbar-date-field {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  flex: 0 0 auto;
+/* The dropdown anchor wraps the trigger; it must stay block-level so the
+   absolute popover panel inside positions correctly. */
+.filter-cell .cat-dropdown-anchor {
   position: relative;
-  z-index: 1;
+  display: block;
+  width: 100%;
 }
 
 .date-filter-panel {
@@ -294,20 +275,6 @@ a:hover {
   align-self: flex-start;
 }
 
-.toolbar-sort-field {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  flex-shrink: 0;
-}
-
-.toolbar-sort-heading {
-  font-size: 0.75rem;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
 .btn-sort {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -340,33 +307,8 @@ a:hover {
   line-height: 0;
 }
 
-.cat-dropdown {
-  margin: 0;
-  padding: 0.65rem 0 0;
-  border-top: 1px solid var(--border);
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-}
-
-.toolbar-row .cat-dropdown {
-  padding: 0;
-  border-top: none;
-  flex-shrink: 0;
-  min-width: min(10.75rem, 100%);
-  max-width: 11.5rem;
-}
-
 .cat-dropdown-anchor {
   position: relative;
-}
-
-.cat-dropdown-field-label {
-  font-size: 0.75rem;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  font-weight: 600;
 }
 
 .cat-dropdown-trigger {
@@ -726,6 +668,12 @@ input[type="search"] {
   white-space: nowrap;
   overflow-x: auto;
   vertical-align: bottom;
+  /* Hide native scrollbars so card padding stays visually symmetric */
+  scrollbar-width: none;
+}
+
+.user-line-inner::-webkit-scrollbar {
+  display: none;
 }
 
 .user-line--filter-hit .user-line-inner {
@@ -774,4 +722,108 @@ mark.search-hit {
   margin: 0;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
+}
+
+/* ===========================
+ * Mobile layout (≤ 640px)
+ * =========================== */
+@media (max-width: 640px) {
+  #root {
+    padding: 0.85rem 0.75rem 2.5rem;
+  }
+
+  header h1 {
+    font-size: 1.4rem;
+    word-wrap: break-word;
+  }
+
+  .toolbar {
+    padding: 0.75rem;
+    gap: 0.6rem;
+  }
+
+  /* Reflow filter grid into a stacked layout:
+     - Search (full width)        row 1
+     - User   (full width)        row 2
+     - Date | Category | Order    row 3 (three equal columns)
+     `position: relative` makes the grid the containing block for the
+     dropdown panels so they can break out of their narrow cells and span
+     the full filter row below. */
+  .filter-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 0.5rem;
+    row-gap: 0.55rem;
+    position: relative;
+  }
+
+  .filter-cell--search,
+  .filter-cell--user {
+    grid-column: 1 / -1;
+  }
+
+  /* The cell-level anchor is the panel's containing block on desktop.
+     On mobile we want the panel to break out of the 1/3-width cell and
+     span the entire grid, so neutralize the anchor's positioning here. */
+  .filter-cell .cat-dropdown-anchor {
+    position: static;
+  }
+
+  /* Drop the panels just below the filter grid, full grid width. */
+  .date-filter-panel,
+  .cat-dropdown-panel {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    width: auto;
+    min-width: 0;
+    margin-top: 0.5rem;
+    max-height: none;
+    z-index: 100;
+  }
+
+  .cat-dropdown-panel {
+    max-height: 60vh;
+  }
+
+  /* Allow the badge to wrap below the title on very narrow cards */
+  .post-top {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.4rem;
+  }
+
+  .post-top > .badge {
+    justify-self: start;
+  }
+
+  .card {
+    padding: 0.85rem 0.9rem;
+  }
+
+  .card-title {
+    font-size: 1rem;
+  }
+
+  /* Users list: allow wrapping instead of horizontal scroll */
+  .user-line-inner {
+    white-space: normal;
+    overflow: visible;
+  }
+
+  /* Pagination: tighter and finger-friendly */
+  .pagination-bar {
+    gap: 0.4rem 0.5rem;
+    padding: 0.5rem 0.6rem;
+  }
+
+  .pagination-summary {
+    min-width: 0;
+    font-size: 0.85rem;
+    flex: 1 1 auto;
+  }
+
+  .pagination-btn {
+    min-height: 44px;
+    padding: 0.55rem 0.75rem;
+  }
 }

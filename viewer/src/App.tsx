@@ -619,29 +619,37 @@ export default function App() {
       </header>
 
       <section className="toolbar" aria-label="Search and filters">
-        <div className="toolbar-row toolbar-row-split">
-          <label className="toolbar-label-search">
-            Search title / description
+        <div className="filter-grid">
+          <div className="filter-cell filter-cell--search">
+            <label className="filter-heading" htmlFor="filter-input-search">
+              Search title / description
+            </label>
             <input
+              id="filter-input-search"
+              className="filter-input"
               type="search"
               placeholder="e.g. Omniscient, ban, MOTM…"
               value={q}
               onChange={(e) => setQ(e.target.value)}
               autoComplete="off"
             />
-          </label>
-          <label className="toolbar-label-user">
-            User (exact name or UID)
+          </div>
+          <div className="filter-cell filter-cell--user">
+            <label className="filter-heading" htmlFor="filter-input-user">
+              User (exact name or UID)
+            </label>
             <input
+              id="filter-input-user"
+              className="filter-input"
               type="text"
               placeholder="exact username or uid"
               value={userQ}
               onChange={(e) => setUserQ(e.target.value)}
               autoComplete="off"
             />
-          </label>
-          <div className="toolbar-date-field">
-              <span className="toolbar-sort-heading" id="date-filter-label">
+          </div>
+          <div className="filter-cell filter-cell--date">
+              <span className="filter-heading" id="date-filter-label">
                 Date
               </span>
               <div className="cat-dropdown-anchor" ref={dateFilterRef}>
@@ -737,8 +745,8 @@ export default function App() {
                 ) : null}
               </div>
             </div>
-          <div className="cat-dropdown">
-            <span className="cat-dropdown-field-label" id="cat-dropdown-label">
+          <div className="filter-cell filter-cell--cat">
+            <span className="filter-heading" id="cat-dropdown-label">
               Categories
             </span>
             <div className="cat-dropdown-anchor" ref={catDropdownRef}>
@@ -811,8 +819,8 @@ export default function App() {
               ) : null}
             </div>
           </div>
-          <div className="toolbar-sort-field">
-            <span className="toolbar-sort-heading">Order</span>
+          <div className="filter-cell filter-cell--sort">
+            <span className="filter-heading">Order</span>
             <button
               type="button"
               className="btn-sort"
