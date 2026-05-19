@@ -103,12 +103,22 @@
                 {
                     "uid": "1034038",
                     "username": "Lukas",
-                    "role": "Journalist (User News)"
+                    "role": "Journalist (User News / World News)"
                 },
                 {
                     "uid": "1999047",
                     "username": "Vitani",
                     "role": "Publisher"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "1339897",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
                 }
             ]
         }

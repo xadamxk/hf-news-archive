@@ -57,7 +57,27 @@
                 {
                     "uid": "1992268",
                     "username": "Thornzzz",
-                    "role": "Journalist (Group News / Publisher)"
+                    "role": "Journalist (Group News / Publisher / Sportsnews / Gaming News)"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "2295175",
+                    "username": "Stratify",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "3601559",
+                    "username": "N1ghtm4re",
+                    "role": "Journalist (Anime News)"
+                },
+                {
+                    "uid": "1705027",
+                    "username": "Business.",
+                    "role": "Journalist"
                 }
             ]
         }

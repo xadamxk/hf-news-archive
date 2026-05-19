@@ -162,12 +162,32 @@
                 {
                     "uid": "561239",
                     "username": "iHydra",
-                    "role": "Journalist (Notable Threads / Publisher)"
+                    "role": "Journalist (Notable Threads / Publisher / Spotlight)"
                 },
                 {
                     "uid": "692131",
                     "username": "Tsundere",
-                    "role": "Interviewer"
+                    "role": "Journalist (Interviewer / Gaming News)"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist (Science News / World News)"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1400449",
+                    "username": "'Ryan",
+                    "role": "Journalist"
+                },
+                {
+                    "uid": "1339897",
+                    "username": "Vitani",
+                    "role": "Journalist (Comics)"
                 }
             ]
         }

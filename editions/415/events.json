@@ -128,12 +128,17 @@
                 {
                     "uid": "1034038",
                     "username": "Lukas",
-                    "role": "Journalist (Group News / User News)"
+                    "role": "Journalist (Group News / User News / World News)"
                 },
                 {
                     "uid": "561239",
                     "username": "iHydra",
                     "role": "Publisher"
+                },
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist"
                 }
             ]
         }

@@ -90,7 +90,7 @@
                 {
                     "uid": "1034038",
                     "username": "Lukas",
-                    "role": "Journalist (Group News)"
+                    "role": "Journalist (Group News / Science News)"
                 },
                 {
                     "uid": "2177496",
@@ -106,6 +106,26 @@
                     "uid": "561239",
                     "username": "iHydra",
                     "role": "Publisher"
+                },
+                {
+                    "uid": "1992268",
+                    "username": "Thornzzz",
+                    "role": "Journalist (Sportsnews / Gaming News)"
+                },
+                {
+                    "uid": "2295175",
+                    "username": "Stratify",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "3601559",
+                    "username": "N1ghtm4re",
+                    "role": "Journalist (Anime News)"
+                },
+                {
+                    "uid": "1705027",
+                    "username": "Business.",
+                    "role": "Journalist"
                 }
             ]
         }

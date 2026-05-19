@@ -30,7 +30,7 @@
                 {
                     "uid": "1034038",
                     "username": "Lukas",
-                    "role": "Journalist (Group News / User News)"
+                    "role": "Journalist (Group News / User News / Science News / World News)"
                 },
                 {
                     "uid": "1651695",
@@ -41,6 +41,11 @@
                     "uid": "561239",
                     "username": "iHydra",
                     "role": "Publisher"
+                },
+                {
+                    "uid": "1705027",
+                    "username": "Business.",
+                    "role": "Journalist"
                 }
             ]
         }

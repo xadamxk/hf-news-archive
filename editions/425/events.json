@@ -92,7 +92,17 @@
                 {
                     "uid": "1705027",
                     "username": "Business",
-                    "role": "Publisher"
+                    "role": "Journalist (Publisher / Comics)"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "3601559",
+                    "username": "N1ghtm4re",
+                    "role": "Journalist (Anime News)"
                 }
             ]
         }

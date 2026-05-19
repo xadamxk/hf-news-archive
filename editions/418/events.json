@@ -95,7 +95,7 @@
                 {
                     "uid": "1034038",
                     "username": "Lukas",
-                    "role": "Journalist (Group News / User News)"
+                    "role": "Journalist (Group News / User News / World News)"
                 },
                 {
                     "uid": "1651695",
@@ -106,6 +106,16 @@
                     "uid": "561239",
                     "username": "iHydra",
                     "role": "Publisher"
+                },
+                {
+                    "uid": "2295175",
+                    "username": "Stratify",
+                    "role": "Journalist (Tech News)"
+                },
+                {
+                    "uid": "1705027",
+                    "username": "Business.",
+                    "role": "Journalist"
                 }
             ]
         }
