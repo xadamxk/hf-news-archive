@@ -52,7 +52,7 @@ Yes — the `viewer/` directory is a static React app for browsing every event i
 
 ### Can I contribute? How?
 
-Pull requests are welcome. Common contributions: filling in details on existing events, adding events that were missed, or adding entire editions (especially anything from the missing list). The viewer uses Bun; the post fetcher uses Node and needs a Hack Forums API token. After editing `events.json` files, regenerate the viewer bundle with `bun run viewer/scripts/aggregate.ts` from the repo root.
+Pull requests are welcome. Common contributions: filling in details on existing events, adding events that were missed, or adding entire editions (especially anything from the missing list). The viewer uses Bun; the post fetcher uses Node and needs a Hack Forums API token. After editing `events.json` files, regenerate the viewer bundles with `bun run --cwd viewer data` from the repo root.
 
 ### What do "Journalist (Section)" and "Contributor" roles mean?
 

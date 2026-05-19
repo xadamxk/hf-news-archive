@@ -31,7 +31,7 @@ bun run dev     # local Vite dev server
 bun run build   # static build to viewer/dist/ (prebuild auto-runs `data`)
 ```
 
-`bun run data` is equivalent to `bun run viewer/scripts/aggregate.ts` from the repo root. **Always re-run it after adding or editing any `editions/*/events.json`** — `viewer/public/events.json` is generated, not hand-edited.
+`bun run data` runs `viewer/scripts/aggregate-events.ts` (writes `viewer/public/events.json`) and `viewer/scripts/aggregate-contributors.ts` (writes `viewer/public/contributors.json`). **Always re-run it after adding or editing any `editions/*/events.json`** — both files are generated, not hand-edited.
 
 ## Authoring events.json (manual curation)
 
@@ -51,7 +51,7 @@ Blog editions (`blogs.json`) inline usernames inside `[url=...uid=NNN]Username[/
 
 ## Aggregation schema (viewer/public/events.json)
 
-Compact short-key shape produced by `viewer/scripts/aggregate.ts`:
+Compact short-key shape produced by `viewer/scripts/aggregate-events.ts`:
 
 - `ed[]` — edition rows: `{ e: number, s: subject, p: pid, a: author_uid, h: date }` (also `b: bid` for blog editions)
 - `n` — total event count

@@ -3,8 +3,8 @@
  * Compact schema (short keys) for smaller static payload.
  * Edition rows in `ed`; each event references an edition row via `x`.
  *
- * Run from repo root: bun run viewer/scripts/aggregate.ts
- * Or from viewer/: bun run scripts/aggregate.ts
+ * Run from repo root: bun run viewer/scripts/aggregate-events.ts
+ * Or from viewer/: bun run scripts/aggregate-events.ts
  */
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";

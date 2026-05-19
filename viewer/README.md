@@ -15,7 +15,7 @@ bun run data
 From repository root:
 
 ```bash
-bun run viewer/scripts/aggregate.ts
+bun run --cwd viewer data
 ```
 
 ## Development
