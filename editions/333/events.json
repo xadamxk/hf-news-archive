@@ -224,10 +224,6 @@
                 {
                     "uid": "3134890",
                     "username": "David Haller"
-                },
-                {
-                    "uid": "2177496",
-                    "username": "bοxxy"
                 }
             ]
         },
@@ -271,6 +267,11 @@
                     "uid": "610356",
                     "username": "Wires",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy",
+                    "role": "Interviewer"
                 }
             ]
         }

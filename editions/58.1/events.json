@@ -207,12 +207,8 @@
       "url": "https://hackforums.net/showthread.php?pid=15705221",
       "users": [
         {
-          "uid": "277712",
-          "username": "Cobalt+"
-        },
-        {
-          "username": "alabama",
-          "uid": "622763"
+          "uid": "622763",
+          "username": "alabama"
         }
       ]
     },
@@ -223,12 +219,8 @@
       "url": "https://hackforums.net/showthread.php?pid=15705221",
       "users": [
         {
-          "uid": "657392",
-          "username": "Astonish is NJ"
-        },
-        {
-          "username": "Dylan",
-          "uid": "559352"
+          "uid": "559352",
+          "username": "Dylan"
         }
       ]
     },
@@ -241,6 +233,29 @@
         {
           "uid": "215614",
           "username": "๖ۣۜPink ๖ۣۜFloyd"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "277712",
+          "username": "Cobalt+",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "657392",
+          "username": "Astonish is NJ",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Interviewer"
         }
       ]
     }

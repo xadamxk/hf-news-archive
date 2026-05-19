@@ -186,14 +186,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Apple J4ck conducted by +Entity.",
+      "title": "Interview with Apple J4ck. conducted by +Entity.",
       "description": "Interview with Apple J4ck. conducted by +Entity; covers his friendship with Zixem, buying a leadership spot in Eminence, and frustrations with WiFi. selling the group.",
       "url": "https://hackforums.net/showthread.php?pid=28922917",
       "users": [
-        {
-          "uid": "827711",
-          "username": "+Entity"
-        },
         {
           "uid": "1468706",
           "username": "Apple J4ck."
@@ -206,10 +202,6 @@
       "description": "Interview with Bay conducted by Phytrix; covers his Hackercraft faction with Genuine, friendship with Genuine, marketing experience, and an upcoming Twitter Follower shop.",
       "url": "https://hackforums.net/showthread.php?pid=28922917",
       "users": [
-        {
-          "uid": "1018876",
-          "username": "Phytrix"
-        },
         {
           "uid": "434812",
           "username": "Bay"
@@ -225,7 +217,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "1326923",
@@ -245,7 +237,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "903914",

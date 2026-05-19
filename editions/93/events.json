@@ -246,17 +246,13 @@
     },
     {
       "category": "interviews",
-      "title": "Joint interview with Enterprise (founder) and Primal Rage (donor) of the new unofficial group 'Sanctuary conducted by Starstruck.",
+      "title": "Joint interview with Enterprise and Primal Rage conducted by Starstruck.",
       "description": "Joint interview with Enterprise (founder) and Primal Rage (donor) of the new unofficial group 'Sanctuary' conducted by Starstruck.",
       "url": "https://hackforums.net/showthread.php?pid=22927861",
       "users": [
         {
-          "uid": "900087",
-          "username": "Starstruck"
-        },
-        {
-          "username": "Enterprise",
-          "uid": "793351"
+          "uid": "793351",
+          "username": "Enterprise"
         },
         {
           "username": "Primal Rage"
@@ -269,10 +265,6 @@
       "description": "Interview with Dr.Quickmodz conducted by Starstruck; covers his free 'Quick Booter' release for the community.",
       "url": "https://hackforums.net/showthread.php?pid=22927861",
       "users": [
-        {
-          "uid": "900087",
-          "username": "Starstruck"
-        },
         {
           "uid": "795825",
           "username": "Dr.Quickmodz"
@@ -288,7 +280,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Webshow"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Webshow)"
         },
         {
           "uid": "891268",
@@ -298,7 +290,7 @@
         {
           "uid": "900087",
           "username": "Starstruck",
-          "role": "Journalist (Gaming News) / Interviewer"
+          "role": "Journalist (Gaming News / Interviewer)"
         },
         {
           "uid": "762186",
@@ -308,7 +300,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News + Notable Threads) / Reporter"
+          "role": "Journalist (User News + Notable Threads / Reporter)"
         },
         {
           "uid": "762646",

@@ -237,12 +237,8 @@
       "url": "https://hackforums.net/showthread.php?pid=16487413",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
-          "username": "Diabolic",
-          "uid": "330676"
+          "uid": "330676",
+          "username": "Diabolic"
         }
       ]
     },
@@ -253,12 +249,21 @@
       "url": "https://hackforums.net/showthread.php?pid=16487413",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
           "uid": "657392",
           "username": "Astonish is NJ"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported",
+          "role": "Interviewer"
         }
       ]
     }

@@ -181,10 +181,6 @@
                 {
                     "uid": "1320406",
                     "username": "Froggy"
-                },
-                {
-                    "uid": "2214473",
-                    "username": ".Sinister"
                 }
             ]
         },
@@ -238,6 +234,11 @@
                     "uid": "610356",
                     "username": "Wires",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
                 }
             ]
         }

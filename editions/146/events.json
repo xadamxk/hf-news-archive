@@ -271,10 +271,6 @@
       "url": "https://hackforums.net/showthread.php?pid=33216705",
       "users": [
         {
-          "uid": "1050193",
-          "username": "Connected"
-        },
-        {
           "uid": "7744",
           "username": "Peter L"
         }
@@ -286,10 +282,6 @@
       "description": "Interview with MuzzyHF conducted by SkyGuy; covers his alias inspired by Monstercat artist Muzzy, joining Void, mentoring in Innovation, and views on the Beginner Hacking section and the Marketers sale.",
       "url": "https://hackforums.net/showthread.php?pid=33216705",
       "users": [
-        {
-          "uid": "1121679",
-          "username": "SkyGuy"
-        },
         {
           "uid": "1624866",
           "username": "MuzzyHF"
@@ -317,7 +309,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "121196",
@@ -332,12 +324,12 @@
         {
           "uid": "469528",
           "username": "Odin the Wanderer",
-          "role": "Journalist (World News) / Journalist (Tech News)"
+          "role": "Journalist (World News / Tech News)"
         },
         {
           "uid": "1172544",
           "username": "Cody‍",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "692131",

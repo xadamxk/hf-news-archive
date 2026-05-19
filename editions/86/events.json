@@ -269,12 +269,8 @@
       "url": "https://hackforums.net/showthread.php?pid=21401679",
       "users": [
         {
-          "uid": "735315",
-          "username": "Michael Westen"
-        },
-        {
-          "username": "Skirex",
-          "uid": "398532"
+          "uid": "398532",
+          "username": "Skirex"
         }
       ]
     },
@@ -284,10 +280,6 @@
       "description": "Multi-part Graphic Masters interview conducted by Rhythm with Barneyyz, Damn., C4Vendetta, Coffee, JDBar, and Intrepid; focused on the Sai leadership controversy.",
       "url": "https://hackforums.net/showthread.php?pid=21401679",
       "users": [
-        {
-          "uid": "126704",
-          "username": "Rhythm"
-        },
         {
           "uid": "687297",
           "username": "Barneyyz"
@@ -321,7 +313,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics / Interviewer / Graphical Editor"
+          "role": "Journalist (Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics / Interviewer / Graphical Editor)"
         },
         {
           "uid": "891268",
@@ -336,7 +328,7 @@
         {
           "uid": "656453",
           "username": "ReactioNz",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",
@@ -351,6 +343,11 @@
         {
           "uid": "735315",
           "username": "Michael Westen",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "126704",
+          "username": "Rhythm",
           "role": "Interviewer"
         }
       ]

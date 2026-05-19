@@ -49,13 +49,17 @@
       "url": "https://hackforums.net/showthread.php?pid=16212303",
       "users": [
         {
-          "username": "Kyle FYI™"
-        },
-        {
           "uid": "545127",
           "username": "Joey Tribbiani"
         }
       ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": []
     }
   ],
   "edition": {

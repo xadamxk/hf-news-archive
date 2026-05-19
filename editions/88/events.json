@@ -204,14 +204,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Purple Haze conducted by Ignite.",
+      "title": "Interview with Purple Haze conducted by Ignite..",
       "description": "Interview with Purple Haze conducted by Ignite; 4/20-themed conversation about marijuana, his Blackshades staff role, and Techsperts co-leadership.",
       "url": "https://hackforums.net/showthread.php?pid=21895391",
       "users": [
-        {
-          "uid": "946680",
-          "username": "Ignite."
-        },
         {
           "uid": "964299",
           "username": "Purple Haze"
@@ -220,14 +216,10 @@
     },
     {
       "category": "interviews",
-      "title": "Group interview with hugsyou, Honor Et Veritas (Coders group owner), and Ceaser conducted by Waleed.",
+      "title": "Group interview with hugsyou, Honor Et Veritas, and Ceaser conducted by Waleed.",
       "description": "4/20-themed multi-interview by Waleed with hugsyou, Honor Et Veritas (Coders group owner), and Ceaser; covers their views on marijuana legalization.",
       "url": "https://hackforums.net/showthread.php?pid=21895391",
       "users": [
-        {
-          "username": "Waleed",
-          "uid": "769614"
-        },
         {
           "uid": "87814",
           "username": "hugsyou"
@@ -251,7 +243,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics)"
         },
         {
           "uid": "891268",
@@ -271,7 +263,7 @@
         {
           "uid": "656453",
           "username": "ReactioNz",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",
@@ -297,6 +289,11 @@
           "uid": "687297",
           "username": "Barneyyz™",
           "role": "Graphical Editor"
+        },
+        {
+          "uid": "769614",
+          "username": "Waleed",
+          "role": "Interviewer"
         }
       ]
     }

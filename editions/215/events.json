@@ -138,14 +138,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Virtue conducted by 630.",
+      "title": "Interview with 'Virtue conducted by 630.",
       "description": "Interview with 'Virtue conducted by 630; covers his Australian background, his Nightfall (formerly Instinct) membership, his views on the new XMPP system, and his desire for a moderator in the scam report section.",
       "url": "https://hackforums.net/showthread.php?pid=43497521",
       "users": [
-        {
-          "uid": "797403",
-          "username": "630"
-        },
         {
           "uid": "1668068",
           "username": "'Virtue"
@@ -158,10 +154,6 @@
       "description": "Interview with Grievous conducted by Clique; covers his brother _DeNy and the QuikHop tool, his Phoenix and Enterprise group memberships, his soccer playing, and his dislike of Mentor harassment.",
       "url": "https://hackforums.net/showthread.php?pid=43497521",
       "users": [
-        {
-          "uid": "1148878",
-          "username": "Clique"
-        },
         {
           "uid": "1754121",
           "username": "Grievous"
@@ -177,12 +169,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+          "role": "Journalist (Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits)"
         },
         {
           "uid": "1108450",
           "username": "Baghead",
-          "role": "1st Editor / Podcast"
+          "role": "Journalist (1st Editor / Podcast)"
         },
         {
           "uid": "96230",
@@ -242,7 +234,7 @@
         {
           "uid": "1320406",
           "username": "Froggy",
-          "role": "Journalist (User News) / Overseer"
+          "role": "Journalist (User News / Overseer)"
         },
         {
           "uid": "692605",
@@ -307,7 +299,7 @@
         {
           "uid": "1138866",
           "username": "Rivalry",
-          "role": "Art Gallery / Comics / Graphical Artist"
+          "role": "Journalist (Art Gallery / Comics / Graphical Artist)"
         },
         {
           "uid": "1290620",

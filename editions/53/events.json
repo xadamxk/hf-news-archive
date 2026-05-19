@@ -161,10 +161,6 @@
       "url": "https://hackforums.net/showthread.php?pid=14352859",
       "users": [
         {
-          "uid": "657392",
-          "username": "Astonish is NJ"
-        },
-        {
           "uid": "277712",
           "username": "Cobalt+"
         }
@@ -177,10 +173,6 @@
       "url": "https://hackforums.net/showthread.php?pid=14352859",
       "users": [
         {
-          "uid": "657392",
-          "username": "Astonish is NJ"
-        },
-        {
           "username": "Cam G"
         }
       ]
@@ -191,10 +183,6 @@
       "description": "",
       "url": "https://hackforums.net/showthread.php?pid=14352859",
       "users": [
-        {
-          "uid": "323740",
-          "username": "Positive"
-        },
         {
           "uid": "47360",
           "username": "Rety'un"
@@ -235,7 +223,7 @@
         {
           "uid": "657392",
           "username": "Astonish is NJ",
-          "role": "Journalist (User News) / Interviewer"
+          "role": "Journalist (User News / Interviewer)"
         },
         {
           "uid": "129444",
@@ -271,6 +259,11 @@
           "uid": "566671",
           "username": "panDa.",
           "role": "Graphical Editor"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive",
+          "role": "Interviewer"
         }
       ]
     }

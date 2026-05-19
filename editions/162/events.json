@@ -185,10 +185,6 @@
       "url": "https://hackforums.net/showthread.php?pid=35476192",
       "users": [
         {
-          "uid": "515249",
-          "username": "Sir"
-        },
-        {
           "uid": "4066",
           "username": "Judge Dredd"
         }
@@ -201,10 +197,6 @@
       "url": "https://hackforums.net/showthread.php?pid=35476192",
       "users": [
         {
-          "uid": "787112",
-          "username": "Saturday"
-        },
-        {
           "uid": "136025",
           "username": "The Elite"
         }
@@ -216,10 +208,6 @@
       "description": "Interview with Sai conducted by Connected; covers her recruitment to HF by Sasori for a graphics shop, her leadership of Fly By Night, her artistic philosophy, and FBN's plans to 'move in' with new innovations.",
       "url": "https://hackforums.net/showthread.php?pid=35476192",
       "users": [
-        {
-          "uid": "1050193",
-          "username": "Connected"
-        },
         {
           "uid": "864480",
           "username": "Sai"
@@ -235,12 +223,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics / Interviewer"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics / Interviewer)"
         },
         {
           "uid": "524451",
           "username": "Yellows",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "1452467",
@@ -270,7 +258,7 @@
         {
           "uid": "956054",
           "username": "Emylbus",
-          "role": "Journalist (World News) / Headlines"
+          "role": "Journalist (World News / Headlines)"
         },
         {
           "uid": "752389",

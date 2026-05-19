@@ -189,10 +189,6 @@
       "url": "https://hackforums.net/showthread.php?pid=38162110",
       "users": [
         {
-          "uid": "1653635",
-          "username": "Clark"
-        },
-        {
           "uid": "787112",
           "username": "Saturday"
         }
@@ -205,10 +201,6 @@
       "url": "https://hackforums.net/showthread.php?pid=38162110",
       "users": [
         {
-          "uid": "1148878",
-          "username": "Clique"
-        },
-        {
           "uid": "875895",
           "username": "Haste"
         }
@@ -220,10 +212,6 @@
       "description": "Interview with Understalker conducted by Saturday; covers his start with Toxicboot DDoS, his RAT and web exploit work, and his views on group culture.",
       "url": "https://hackforums.net/showthread.php?pid=38162110",
       "users": [
-        {
-          "uid": "787112",
-          "username": "Saturday"
-        },
         {
           "uid": "1726101",
           "username": "Understalker"
@@ -239,12 +227,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "1172544",
           "username": "awhty",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "138559",

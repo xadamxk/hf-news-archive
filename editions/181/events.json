@@ -126,14 +126,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Ty conducted by Saturday.",
+      "title": "Interview with Ty ™ conducted by Saturday.",
       "description": "Interview with Ty conducted by Saturday; covers his hosting business, his Minecraft server with Finearts, his HackerCraft activity, ebook sales and his Monster Products venture.",
       "url": "https://hackforums.net/showthread.php?pid=38277768",
       "users": [
-        {
-          "uid": "787112",
-          "username": "Saturday"
-        },
         {
           "uid": "1871421",
           "username": "Ty ™"
@@ -147,10 +143,6 @@
       "url": "https://hackforums.net/showthread.php?pid=38277768",
       "users": [
         {
-          "uid": "1653635",
-          "username": "Clark"
-        },
-        {
           "uid": "958226",
           "username": "Mommy"
         }
@@ -162,10 +154,6 @@
       "description": "Interview with Clark conducted by Clique; covers his old Education/Debra Morgan aliases, his Python learning via 'glob aka catalyst' and Coursera, his job at a gas station, and Writ3rs membership.",
       "url": "https://hackforums.net/showthread.php?pid=38277768",
       "users": [
-        {
-          "uid": "1148878",
-          "username": "Clique"
-        },
         {
           "uid": "1653635",
           "username": "Clark"
@@ -181,12 +169,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "1172544",
           "username": "awhty",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "138559",

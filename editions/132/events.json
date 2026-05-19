@@ -303,10 +303,6 @@
       "url": "https://hackforums.net/showthread.php?pid=30989081",
       "users": [
         {
-          "uid": "190854",
-          "username": "CarrotMilk"
-        },
-        {
           "uid": "1403633",
           "username": "Vandal"
         }
@@ -318,10 +314,6 @@
       "description": "Interview with Pali conducted by +Entity; covers his roles in Illuminati and Propitious, his views on group quality, and his private hacking crew of seven.",
       "url": "https://hackforums.net/showthread.php?pid=30989081",
       "users": [
-        {
-          "uid": "827711",
-          "username": "+Entity"
-        },
         {
           "uid": "879431",
           "username": "Pali"
@@ -337,7 +329,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "1108450",
@@ -347,7 +339,7 @@
         {
           "uid": "138559",
           "username": "MarkMare",
-          "role": "Journalist (Gaming News) / Reporter"
+          "role": "Journalist (Gaming News / Reporter)"
         },
         {
           "uid": "398007",
@@ -362,7 +354,7 @@
         {
           "uid": "1306528",
           "username": "xadamxk",
-          "role": "Journalist (Tech News) / Interviewer"
+          "role": "Journalist (Tech News / Interviewer)"
         },
         {
           "uid": "1121679",
@@ -388,6 +380,11 @@
           "uid": "763021",
           "username": "Retribute",
           "role": "Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
         }
       ]
     }

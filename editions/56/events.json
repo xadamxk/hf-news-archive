@@ -237,17 +237,13 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Oldies (formerly Xypher) conducted by Diabolic.",
+      "title": "Interview with Oldies conducted by Diabolic.",
       "description": "Interview with Oldies (formerly Xypher) conducted by Diabolic; covers his joining HF, programming pivot, and his new forum LifesForum.net.",
       "url": "https://hackforums.net/showthread.php?pid=15099357",
       "users": [
         {
-          "username": "Diabolic",
-          "uid": "330676"
-        },
-        {
-          "username": "Oldies",
-          "uid": "133256"
+          "uid": "133256",
+          "username": "Oldies"
         }
       ]
     },
@@ -258,12 +254,26 @@
       "url": "https://hackforums.net/showthread.php?pid=15099357",
       "users": [
         {
-          "uid": "323740",
-          "username": "Positive"
-        },
-        {
           "uid": "619030",
           "username": "iNviZ"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "330676",
+          "username": "Diabolic",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive",
+          "role": "Interviewer"
         }
       ]
     }

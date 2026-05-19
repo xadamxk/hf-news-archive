@@ -168,14 +168,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Reliable's Mate (Enterprise) conducted by Kottonmouth.",
+      "title": "Interview with Reliable's Mate conducted by Kottonmouth..",
       "description": "Interview with Reliable's Mate (Enterprise) conducted by Kottonmouth.; covers his username origin, joining HF for Minecraft, and being in 6 of 14 official groups.",
       "url": "https://hackforums.net/showthread.php?pid=18584803",
       "users": [
-        {
-          "uid": "916706",
-          "username": "Kottonmouth."
-        },
         {
           "username": "Reliable's Mate"
         }
@@ -188,8 +184,8 @@
       "url": "https://hackforums.net/showthread.php?pid=18584803",
       "users": [
         {
-          "username": "Poppins",
-          "uid": "140749"
+          "uid": "140749",
+          "username": "Poppins"
         }
       ]
     },
@@ -202,7 +198,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions / Interviewer)"
         },
         {
           "uid": "891268",
@@ -217,7 +213,7 @@
         {
           "uid": "946680",
           "username": "Ignite.",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",

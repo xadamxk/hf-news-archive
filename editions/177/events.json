@@ -145,10 +145,6 @@
       "url": "https://hackforums.net/showthread.php?pid=37701873",
       "users": [
         {
-          "uid": "1653635",
-          "username": "Clark"
-        },
-        {
           "uid": "789677",
           "username": "Grin"
         }
@@ -160,10 +156,6 @@
       "description": "Interview with Magicmann conducted by Yuzuha; covers his self-taught coding in C++, his bicycling hobby, his family's care of over 50 stray cats, and his aspirations to become a Mentor.",
       "url": "https://hackforums.net/showthread.php?pid=37701873",
       "users": [
-        {
-          "uid": "692131",
-          "username": "Yuzuha"
-        },
         {
           "uid": "1964831",
           "username": "Magicmann"
@@ -179,12 +171,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "524451",
           "username": "Yellows",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "138559",
@@ -214,7 +206,7 @@
         {
           "uid": "692131",
           "username": "Yuzuha",
-          "role": "Journalist (World News) / Interviewer"
+          "role": "Journalist (World News / Interviewer)"
         },
         {
           "uid": "1148878",

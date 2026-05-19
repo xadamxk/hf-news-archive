@@ -287,10 +287,6 @@
       "url": "https://hackforums.net/showthread.php?pid=34577110",
       "users": [
         {
-          "uid": "1050193",
-          "username": "Connected"
-        },
-        {
           "uid": "871177",
           "username": "Linux"
         }
@@ -302,10 +298,6 @@
       "description": "Interview with 630 conducted by Umbrein; covers his start selling Halo gamertags, his role in founding The Empire with Detroit, Hades, and Tibit, his philosophy on being polite, and his outdoor hobbies.",
       "url": "https://hackforums.net/showthread.php?pid=34577110",
       "users": [
-        {
-          "uid": "133256",
-          "username": "Umbrein"
-        },
         {
           "uid": "797403",
           "username": "630"
@@ -321,7 +313,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics / Headlines"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics / Headlines)"
         },
         {
           "uid": "121196",
@@ -331,7 +323,7 @@
         {
           "uid": "1172544",
           "username": "Cody‍",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "524451",
@@ -361,7 +353,7 @@
         {
           "uid": "692131",
           "username": "Yuzuha",
-          "role": "Journalist (Music News) / Interviewer"
+          "role": "Journalist (Music News / Interviewer)"
         },
         {
           "uid": "1050193",
@@ -382,6 +374,11 @@
           "uid": "763021",
           "username": "Retribute",
           "role": "Proofreader"
+        },
+        {
+          "uid": "133256",
+          "username": "Umbrein",
+          "role": "Interviewer"
         }
       ]
     }

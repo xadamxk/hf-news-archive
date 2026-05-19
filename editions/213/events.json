@@ -159,10 +159,6 @@
       "url": "https://hackforums.net/showthread.php?pid=43270876",
       "users": [
         {
-          "uid": "1653635",
-          "username": "Clark"
-        },
-        {
           "uid": "1871289",
           "username": "SlightlyNuclear"
         }
@@ -174,10 +170,6 @@
       "description": "Interview with Roger Waters conducted by Clique; covers his Mentor promotion, his role on the HF News team, his enjoyment of Tech News, and his Information Technology studies.",
       "url": "https://hackforums.net/showthread.php?pid=43270876",
       "users": [
-        {
-          "uid": "1148878",
-          "username": "Clique"
-        },
         {
           "uid": "1093501",
           "username": "Roger Waters"
@@ -193,12 +185,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits"
+          "role": "Journalist (Sir's Second / HFN Support / News Letters / Top Comments / Battlestations / Credits)"
         },
         {
           "uid": "1108450",
           "username": "Baghead",
-          "role": "1st Editor / Podcast"
+          "role": "Journalist (1st Editor / Podcast)"
         },
         {
           "uid": "96230",
@@ -258,7 +250,7 @@
         {
           "uid": "1320406",
           "username": "Froggy",
-          "role": "Journalist (User News) / Overseer"
+          "role": "Journalist (User News / Overseer)"
         },
         {
           "uid": "692605",
@@ -318,7 +310,7 @@
         {
           "uid": "1138866",
           "username": "Rivalry",
-          "role": "Art Gallery / Comics / Graphical Artist"
+          "role": "Journalist (Art Gallery / Comics / Graphical Artist)"
         },
         {
           "uid": "1290620",
@@ -334,6 +326,11 @@
           "uid": "524451",
           "username": "Yellows",
           "role": "Task Manager"
+        },
+        {
+          "uid": "1653635",
+          "username": "Clark",
+          "role": "Interviewer"
         }
       ]
     }

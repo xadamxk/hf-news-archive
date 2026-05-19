@@ -167,10 +167,6 @@
                 {
                     "uid": "249035",
                     "username": "Blizzard'"
-                },
-                {
-                    "uid": "692131",
-                    "username": "Tsundere"
                 }
             ]
         },
@@ -214,6 +210,11 @@
                     "uid": "2922555",
                     "username": "Cimex",
                     "role": "Journalist (World News)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Interviewer"
                 }
             ]
         }

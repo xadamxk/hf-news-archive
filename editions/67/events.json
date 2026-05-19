@@ -191,10 +191,6 @@
       "url": "https://hackforums.net/showthread.php?pid=17421561",
       "users": [
         {
-          "username": "Michael Westen",
-          "uid": "735315"
-        },
-        {
           "username": "Reliable"
         }
       ]
@@ -206,12 +202,8 @@
       "url": "https://hackforums.net/showthread.php?pid=17421561",
       "users": [
         {
-          "username": "Michael Westen",
-          "uid": "735315"
-        },
-        {
-          "username": "Bentley",
-          "uid": "679685"
+          "uid": "679685",
+          "username": "Bentley"
         }
       ]
     },
@@ -224,7 +216,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "username": "Diabolic",

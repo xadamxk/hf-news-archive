@@ -147,12 +147,21 @@
       "url": "https://hackforums.net/showthread.php?pid=15615492",
       "users": [
         {
-          "uid": "277712",
-          "username": "Cobalt+"
-        },
+          "uid": "622763",
+          "username": "alabama"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
         {
-          "username": "alabama",
-          "uid": "622763"
+          "uid": "277712",
+          "username": "Cobalt+",
+          "role": "Interviewer"
         }
       ]
     }

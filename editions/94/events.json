@@ -234,14 +234,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Chief conducted by Barneyyz™.",
+      "title": "Interview with Chief. conducted by Barneyyz™.",
       "description": "Interview with Chief. conducted by Barneyyz™; covers his return from the dead group, coding interests, and HF history.",
       "url": "https://hackforums.net/showthread.php?pid=23151371",
       "users": [
-        {
-          "uid": "687297",
-          "username": "Barneyyz™"
-        },
         {
           "uid": "458073",
           "username": "Chief."
@@ -254,10 +250,6 @@
       "description": "Interview with Robbieava conducted by SoulZeh; covers her 3-year HF anniversary, becoming a Mentor, and personal life turnaround.",
       "url": "https://hackforums.net/showthread.php?pid=23151371",
       "users": [
-        {
-          "uid": "516470",
-          "username": "SoulZeh"
-        },
         {
           "uid": "81075",
           "username": "Robbieava"
@@ -273,7 +265,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Webshow"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Webshow)"
         },
         {
           "uid": "891268",
@@ -293,7 +285,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",
@@ -318,7 +310,7 @@
         {
           "uid": "687297",
           "username": "Barneyyz™",
-          "role": "Graphical Editor"
+          "role": "Journalist (Graphical Editor / Interviewer)"
         }
       ]
     }

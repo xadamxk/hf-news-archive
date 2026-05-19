@@ -283,10 +283,6 @@
                 {
                     "uid": "587939",
                     "username": "Sejskaler"
-                },
-                {
-                    "uid": "2110841",
-                    "username": "Night Fury"
                 }
             ]
         },
@@ -345,6 +341,11 @@
                     "uid": "610356",
                     "username": "Wires",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Interviewer"
                 }
             ]
         }

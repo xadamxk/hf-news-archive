@@ -186,14 +186,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Aura conducted by Clique.",
+      "title": "Interview with Aurа conducted by Clique.",
       "description": "Interview with Aura conducted by Clique; covers his new leadership of The Brotherhood, his MySQL/Java/ASP.NET school projects in Quebec, his goal of becoming a Cyber-Security Expert, and his Computing area helper activity.",
       "url": "https://hackforums.net/showthread.php?pid=38980628",
       "users": [
-        {
-          "uid": "1148878",
-          "username": "Clique"
-        },
         {
           "uid": "1495835",
           "username": "Aurа"
@@ -207,10 +203,6 @@
       "url": "https://hackforums.net/showthread.php?pid=38980628",
       "users": [
         {
-          "uid": "797403",
-          "username": "630"
-        },
-        {
           "uid": "1092491",
           "username": "TheCause"
         }
@@ -222,10 +214,6 @@
       "description": "Interview with BlueTigerSlayer conducted by Clark; covers his finding HF via Minecraft griefing, his graphic design interest sparked by Calibur, his school plans, and his brief ewhoring stint.",
       "url": "https://hackforums.net/showthread.php?pid=38980628",
       "users": [
-        {
-          "uid": "1653635",
-          "username": "Clark"
-        },
         {
           "uid": "1559430",
           "username": "BlueTigerSlayer"
@@ -241,7 +229,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "1082656",
@@ -251,12 +239,12 @@
         {
           "uid": "1172544",
           "username": "'Maniac",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "891000",
           "username": "RDCA",
-          "role": "Journalist (Security News) / Proofreader"
+          "role": "Journalist (Security News / Proofreader)"
         },
         {
           "uid": "1088934",
@@ -266,7 +254,7 @@
         {
           "uid": "1093501",
           "username": "Roger Waters",
-          "role": "Journalist (Gaming News) / Journalist (Minecraft News)"
+          "role": "Journalist (Gaming News / Minecraft News)"
         },
         {
           "uid": "944024",

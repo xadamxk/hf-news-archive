@@ -259,10 +259,6 @@
       "url": "https://hackforums.net/showthread.php?pid=16285144",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
           "uid": "65784",
           "username": "Xch4ng3"
         }
@@ -274,10 +270,6 @@
       "description": "Interview with Nidhish91 conducted by ComX; covers his joining HF, hacking interest, and Vouch system views.",
       "url": "https://hackforums.net/showthread.php?pid=16285144",
       "users": [
-        {
-          "uid": "401423",
-          "username": "ComX"
-        },
         {
           "uid": "572087",
           "username": "Nidhish91"
@@ -291,11 +283,26 @@
       "url": "https://hackforums.net/showthread.php?pid=16285144",
       "users": [
         {
-          "username": "DiscipLe"
+          "uid": "401423",
+          "username": "ComX"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported",
+          "role": "Interviewer"
         },
         {
           "uid": "401423",
-          "username": "ComX"
+          "username": "ComX",
+          "role": "Interviewer"
         }
       ]
     }

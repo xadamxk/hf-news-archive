@@ -41,27 +41,32 @@
       "url": "https://hackforums.net/showthread.php?pid=16595649",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
-          "username": "Tasemu",
-          "uid": "62795"
+          "uid": "62795",
+          "username": "Tasemu"
         }
       ]
     },
     {
       "category": "interviews",
-      "title": "Interview with Quantum conducted by Reported.",
+      "title": "Interview with Quantum. conducted by Reported.",
       "description": "Interview with Quantum. conducted by Reported; covers his moderator role, the Asskisser award, and signature advertising rates.",
       "url": "https://hackforums.net/showthread.php?pid=16595649",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
           "username": "Quantum."
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported",
+          "role": "Interviewer"
         }
       ]
     }

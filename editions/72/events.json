@@ -203,14 +203,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with .Infinity conducted by Ignite.",
+      "title": "Interview with .Infinity. conducted by Ignite..",
       "description": "Interview with .Infinity. conducted by Ignite.; covers Rebel booter management, business strategy, and upcoming products.",
       "url": "https://hackforums.net/showthread.php?pid=18389509",
       "users": [
-        {
-          "uid": "946680",
-          "username": "Ignite."
-        },
         {
           "username": ".Infinity."
         }
@@ -223,11 +219,8 @@
       "url": "https://hackforums.net/showthread.php?pid=18389509",
       "users": [
         {
-          "username": "Kottonmouth"
-        },
-        {
-          "username": "Yellows",
-          "uid": "524451"
+          "uid": "524451",
+          "username": "Yellows"
         }
       ]
     },
@@ -240,7 +233,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "uid": "891268",
@@ -250,7 +243,7 @@
         {
           "uid": "946680",
           "username": "Ignite.",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter / Interviewer)"
         },
         {
           "uid": "570186",

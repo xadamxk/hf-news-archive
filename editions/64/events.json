@@ -197,10 +197,6 @@
       "url": "https://hackforums.net/showthread.php?pid=16875488",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
           "uid": "234024",
           "username": "Deities"
         }
@@ -213,12 +209,26 @@
       "url": "https://hackforums.net/showthread.php?pid=16875488",
       "users": [
         {
-          "username": "Michael Westen",
-          "uid": "735315"
+          "uid": "565350",
+          "username": "Reported"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported",
+          "role": "Interviewer"
         },
         {
-          "username": "Reported",
-          "uid": "565350"
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
         }
       ]
     }

@@ -217,10 +217,6 @@
                 {
                     "uid": "3229805",
                     "username": "Grizzlies"
-                },
-                {
-                    "uid": "2214473",
-                    "username": ".Sinister"
                 }
             ]
         },
@@ -274,6 +270,11 @@
                     "uid": "1999047",
                     "username": "Vitani",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "2214473",
+                    "username": ".Sinister",
+                    "role": "Interviewer"
                 }
             ]
         }

@@ -23,6 +23,19 @@
           "username": "Omniscient"
         }
       ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "515249",
+          "username": "Sir",
+          "role": "Interviewer"
+        }
+      ]
     }
   ],
   "edition": {

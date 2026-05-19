@@ -163,10 +163,6 @@
       "url": "https://hackforums.net/showthread.php?pid=28584639",
       "users": [
         {
-          "uid": "827711",
-          "username": "+Entity"
-        },
-        {
           "uid": "789677",
           "username": "Grin"
         }
@@ -178,10 +174,6 @@
       "description": "Interview with adampelletgun conducted by Hexicidal; covers his promotion to Mentor, learning computer security on HF, gaming background (GTA/COD), and moderating HF from his iPad.",
       "url": "https://hackforums.net/showthread.php?pid=28584639",
       "users": [
-        {
-          "uid": "863752",
-          "username": "Hexicidal"
-        },
         {
           "uid": "454666",
           "username": "adampelletgun"
@@ -197,7 +189,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "660659",
@@ -212,7 +204,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "903914",
@@ -248,6 +240,11 @@
           "username": "Retribute",
           "role": "Proofreader",
           "uid": "763021"
+        },
+        {
+          "uid": "863752",
+          "username": "Hexicidal",
+          "role": "Interviewer"
         }
       ]
     }

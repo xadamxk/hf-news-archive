@@ -234,10 +234,6 @@
       "url": "https://hackforums.net/showthread.php?pid=18188204",
       "users": [
         {
-          "uid": "735315",
-          "username": "Michael Westen"
-        },
-        {
           "username": "Koala"
         }
       ]
@@ -249,12 +245,8 @@
       "url": "https://hackforums.net/showthread.php?pid=18188204",
       "users": [
         {
-          "username": "+Pirate",
-          "uid": "529870"
-        },
-        {
-          "username": "Vitani's Mate",
-          "uid": "651773"
+          "uid": "651773",
+          "username": "Vitani's Mate"
         }
       ]
     },
@@ -267,7 +259,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "username": "0OTF",
@@ -303,6 +295,11 @@
           "username": "Ignite.",
           "role": "Reporter",
           "uid": "946680"
+        },
+        {
+          "uid": "529870",
+          "username": "+Pirate",
+          "role": "Interviewer"
         }
       ]
     }

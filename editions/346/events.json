@@ -150,10 +150,6 @@
                 {
                     "uid": "275104",
                     "username": "ra1d"
-                },
-                {
-                    "uid": "1957866",
-                    "username": "Enterpriser"
                 }
             ]
         },
@@ -207,6 +203,11 @@
                     "uid": "610356",
                     "username": "Wires",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
                 }
             ]
         }

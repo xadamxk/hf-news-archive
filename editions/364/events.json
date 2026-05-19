@@ -221,10 +221,6 @@
                 {
                     "uid": "1812679",
                     "username": "Ninetales."
-                },
-                {
-                    "uid": "2110841",
-                    "username": "Night Fury"
                 }
             ]
         },
@@ -238,6 +234,11 @@
                     "uid": "1320406",
                     "username": "Froggy",
                     "role": "Journalist (Headlines / Group News / User News / Notable Threads)"
+                },
+                {
+                    "uid": "2110841",
+                    "username": "Night Fury",
+                    "role": "Interviewer"
                 }
             ]
         }

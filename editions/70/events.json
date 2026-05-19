@@ -282,10 +282,6 @@
       "url": "https://hackforums.net/showthread.php?pid=18000834",
       "users": [
         {
-          "uid": "735315",
-          "username": "Michael Westen"
-        },
-        {
           "uid": "734805",
           "username": "Glassy"
         }
@@ -293,17 +289,13 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Ignite conducted by Daniel Faraday.",
+      "title": "Interview with Ignite. conducted by Daniel Faraday.",
       "description": "Interview with Ignite. conducted by Daniel Faraday; covers his short time on HF, RAT award, and goal to become a Mentor.",
       "url": "https://hackforums.net/showthread.php?pid=18000834",
       "users": [
         {
-          "username": "Daniel Faraday",
-          "uid": "366559"
-        },
-        {
-          "username": "Ignite.",
-          "uid": "946680"
+          "uid": "946680",
+          "username": "Ignite."
         }
       ]
     },
@@ -316,7 +308,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions / Headlines"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions / Headlines)"
         },
         {
           "uid": "570186",

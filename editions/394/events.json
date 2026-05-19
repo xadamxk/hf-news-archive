@@ -125,10 +125,6 @@
                 {
                     "uid": "175033",
                     "username": "Xerotic"
-                },
-                {
-                    "uid": "561239",
-                    "username": "iHydra"
                 }
             ]
         },
@@ -157,6 +153,11 @@
                     "uid": "3725052",
                     "username": "Biggy",
                     "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Interviewer"
                 }
             ]
         }

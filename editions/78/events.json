@@ -327,10 +327,6 @@
       "url": "https://hackforums.net/showthread.php?pid=19800282",
       "users": [
         {
-          "uid": "735315",
-          "username": "Michael Westen"
-        },
-        {
           "uid": "869826",
           "username": "Suhinder"
         }
@@ -338,14 +334,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with iNviZ conducted by Paradise.",
+      "title": "Interview with iNviZ conducted by Paradise..",
       "description": "Interview with iNviZ conducted by Paradise.; covers his Mentor role, leading Propitious with TheHackersLove, and views on POW3R/Vouch.",
       "url": "https://hackforums.net/showthread.php?pid=19800300",
       "users": [
-        {
-          "username": "Paradise.",
-          "uid": "916706"
-        },
         {
           "uid": "619030",
           "username": "iNviZ"
@@ -361,7 +353,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "uid": "891268",
@@ -376,7 +368,7 @@
         {
           "uid": "946680",
           "username": "Ignite.",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",

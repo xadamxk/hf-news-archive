@@ -47,8 +47,8 @@
       "url": "https://hackforums.net/showthread.php?pid=6716998",
       "users": [
         {
-          "username": "Xch4ng3",
-          "uid": "65784"
+          "uid": "65784",
+          "username": "Xch4ng3"
         }
       ]
     },
@@ -61,6 +61,19 @@
         {
           "username": "The Elite",
           "uid": "136025"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "136025",
+          "username": "The Elite",
+          "role": "Interviewer"
         }
       ]
     }

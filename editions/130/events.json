@@ -291,10 +291,6 @@
       "url": "https://hackforums.net/showthread.php?pid=30715745",
       "users": [
         {
-          "uid": "827711",
-          "username": "+Entity"
-        },
-        {
           "uid": "863752",
           "username": "Hexicidal"
         }
@@ -306,10 +302,6 @@
       "description": "Interview with Hefto conducted by xadamxk; covers his interest in Griefing/Minecraft sections, his time in TechSperts and Rhythm groups, and what he has learned about computers.",
       "url": "https://hackforums.net/showthread.php?pid=30715745",
       "users": [
-        {
-          "uid": "1306528",
-          "username": "xadamxk"
-        },
         {
           "uid": "1237688",
           "username": "Hefto"
@@ -325,7 +317,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "1108450",
@@ -335,7 +327,7 @@
         {
           "uid": "138559",
           "username": "MarkMare",
-          "role": "Journalist (Gaming News) / Journalist (User News, This Week) / Reporter"
+          "role": "Journalist (Gaming News / User News, This Week / Reporter)"
         },
         {
           "uid": "398007",
@@ -381,6 +373,11 @@
           "uid": "763021",
           "username": "Retribute",
           "role": "Proofreader"
+        },
+        {
+          "uid": "827711",
+          "username": "+Entity",
+          "role": "Interviewer"
         }
       ]
     }

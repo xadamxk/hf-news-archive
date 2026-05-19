@@ -218,14 +218,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Astonish is NJ conducted by Paradise.",
+      "title": "Interview with Astonish is NJ conducted by Paradise..",
       "description": "Interview with Astonish is NJ conducted by Paradise.; covers the Respawn group, plans for it, and HF community thoughts.",
       "url": "https://hackforums.net/showthread.php?pid=20194417",
       "users": [
-        {
-          "uid": "916706",
-          "username": "Paradise."
-        },
         {
           "uid": "657392",
           "username": "Astonish is NJ"
@@ -239,12 +235,8 @@
       "url": "https://hackforums.net/showthread.php?pid=20194435",
       "users": [
         {
-          "uid": "735315",
-          "username": "Michael Westen"
-        },
-        {
-          "username": "VipVince",
-          "uid": "7807"
+          "uid": "7807",
+          "username": "VipVince"
         }
       ]
     },
@@ -257,7 +249,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "uid": "891268",
@@ -272,7 +264,7 @@
         {
           "uid": "656453",
           "username": "ReactioNz",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",

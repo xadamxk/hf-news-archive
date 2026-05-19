@@ -177,10 +177,6 @@
       "url": "https://hackforums.net/showthread.php?pid=27268593",
       "users": [
         {
-          "uid": "1018876",
-          "username": "Phytrix"
-        },
-        {
           "uid": "458069",
           "username": "Ethereal"
         }
@@ -192,10 +188,6 @@
       "description": "Interview with -Analog- conducted by +Entity; covers his graphics work and Glassy's PC building sticky he co-wrote, his time in The Alliance and Reviewers, and his name change from Raptured.",
       "url": "https://hackforums.net/showthread.php?pid=27268593",
       "users": [
-        {
-          "uid": "827711",
-          "username": "+Entity"
-        },
         {
           "uid": "660659",
           "username": "-Analog-"
@@ -211,12 +203,12 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Tech News"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Tech News)"
         },
         {
           "uid": "1018876",
           "username": "Phytrix",
-          "role": "Journalist (Headlines) / Interviewer / Proofreader"
+          "role": "Journalist (Headlines / Interviewer / Proofreader)"
         },
         {
           "uid": "138559",
@@ -231,7 +223,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "1326923",

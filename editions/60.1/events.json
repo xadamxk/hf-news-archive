@@ -208,12 +208,8 @@
       "url": "https://hackforums.net/showthread.php?pid=16074299",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
-          "username": "T3h Hack3r",
-          "uid": "128873"
+          "uid": "128873",
+          "username": "T3h Hack3r"
         }
       ]
     },
@@ -224,12 +220,26 @@
       "url": "https://hackforums.net/showthread.php?pid=16074299",
       "users": [
         {
-          "username": "alabama",
-          "uid": "622763"
-        },
-        {
           "uid": "40895",
           "username": "BV1"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported",
+          "role": "Interviewer"
+        },
+        {
+          "uid": "622763",
+          "username": "alabama",
+          "role": "Interviewer"
         }
       ]
     }

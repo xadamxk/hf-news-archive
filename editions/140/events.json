@@ -211,10 +211,6 @@
       "url": "https://hackforums.net/showthread.php?pid=32325592",
       "users": [
         {
-          "uid": "190854",
-          "username": "CarrotMilk"
-        },
-        {
           "uid": "430736",
           "username": "Eminent"
         }
@@ -226,10 +222,6 @@
       "description": "Interview with Froggy conducted by Connected; covers her recent Mentor promotion, Empire and Terror leadership, fan-sign earnings, and her plans to apply for the Malware Removal Team.",
       "url": "https://hackforums.net/showthread.php?pid=32325592",
       "users": [
-        {
-          "uid": "1050193",
-          "username": "Connected"
-        },
         {
           "uid": "1320406",
           "username": "Froggy"
@@ -245,7 +237,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "121196",
@@ -255,7 +247,7 @@
         {
           "uid": "1172544",
           "username": "Cody",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "1108450",
@@ -296,6 +288,11 @@
           "uid": "763021",
           "username": "Retribute",
           "role": "Proofreader"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
         }
       ]
     }

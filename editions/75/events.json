@@ -182,14 +182,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Diabolic conducted by Innocence.",
+      "title": "Interview with Diabolic conducted by Innocence..",
       "description": "Interview with Diabolic conducted by Innocence.; covers his return after a 2009 hack, Diabolic-Servers business, and Propitious group.",
       "url": "https://hackforums.net/showthread.php?pid=18981778",
       "users": [
-        {
-          "username": "Innocence.",
-          "uid": "916706"
-        },
         {
           "uid": "330676",
           "username": "Diabolic"
@@ -202,10 +198,6 @@
       "description": "Interview with .Zo conducted by Michael Westen; covers his joining HF, Computer & Online Gaming activity, and views on the Vouch system.",
       "url": "https://hackforums.net/showthread.php?pid=18981778",
       "users": [
-        {
-          "uid": "735315",
-          "username": "Michael Westen"
-        },
         {
           "username": ".Zo"
         }
@@ -220,7 +212,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "uid": "891268",
@@ -235,7 +227,7 @@
         {
           "uid": "946680",
           "username": "Ignite.",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",

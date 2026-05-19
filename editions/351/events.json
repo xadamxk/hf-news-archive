@@ -243,10 +243,6 @@
                 {
                     "uid": "3402022",
                     "username": "Excavated"
-                },
-                {
-                    "uid": "1957866",
-                    "username": "Enterpriser"
                 }
             ]
         },
@@ -300,6 +296,11 @@
                     "uid": "692131",
                     "username": "Tsundere",
                     "role": "Journalist (Gaming News / Hacking News)"
+                },
+                {
+                    "uid": "1957866",
+                    "username": "Enterpriser",
+                    "role": "Interviewer"
                 }
             ]
         }

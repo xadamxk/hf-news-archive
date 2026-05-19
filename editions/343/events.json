@@ -258,10 +258,6 @@
                 {
                     "uid": "1107978",
                     "username": "Brenton"
-                },
-                {
-                    "uid": "2177496",
-                    "username": "boxxy"
                 }
             ]
         },
@@ -305,6 +301,11 @@
                     "uid": "1999047",
                     "username": "Vitani",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "boxxy",
+                    "role": "Interviewer"
                 }
             ]
         }

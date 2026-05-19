@@ -308,12 +308,8 @@
       "url": "https://hackforums.net/showthread.php?pid=17063008",
       "users": [
         {
-          "username": "Michael Westen",
-          "uid": "735315"
-        },
-        {
-          "username": "Mark Webber",
-          "uid": "89623"
+          "uid": "89623",
+          "username": "Mark Webber"
         }
       ]
     },
@@ -324,11 +320,25 @@
       "url": "https://hackforums.net/showthread.php?pid=17063008",
       "users": [
         {
-          "username": "Daniel Faraday",
-          "uid": "366559"
+          "username": "Riggs"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "735315",
+          "username": "Michael Westen",
+          "role": "Interviewer"
         },
         {
-          "username": "Riggs"
+          "uid": "366559",
+          "username": "Daniel Faraday",
+          "role": "Interviewer"
         }
       ]
     }

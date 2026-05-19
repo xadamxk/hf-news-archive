@@ -259,10 +259,6 @@
       "url": "https://hackforums.net/showthread.php?pid=39378524",
       "users": [
         {
-          "uid": "797403",
-          "username": "630"
-        },
-        {
           "uid": "969003",
           "username": "Tom"
         }
@@ -275,10 +271,6 @@
       "url": "https://hackforums.net/showthread.php?pid=39378524",
       "users": [
         {
-          "uid": "1653635",
-          "username": "Clark"
-        },
-        {
           "uid": "1595524",
           "username": "bitcube"
         }
@@ -290,10 +282,6 @@
       "description": "Interview with Razor conducted by Clique; covers his RazorCrypt creation in AutoIT, his 7 years of programming experience, his familiarity with C/C++/fasm/ARM/C#/VB/PHP/SQL, and his stage lighting hobby.",
       "url": "https://hackforums.net/showthread.php?pid=39378524",
       "users": [
-        {
-          "uid": "1148878",
-          "username": "Clique"
-        },
         {
           "uid": "1243825",
           "username": "Razor"
@@ -309,7 +297,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "1082656",
@@ -319,12 +307,12 @@
         {
           "uid": "524451",
           "username": "Yellows",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "891000",
           "username": "RDCA",
-          "role": "Journalist (Security News) / Proofreader"
+          "role": "Journalist (Security News / Proofreader)"
         },
         {
           "uid": "1088934",

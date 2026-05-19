@@ -380,10 +380,6 @@
                 {
                     "uid": "2333286",
                     "username": "TheChief"
-                },
-                {
-                    "uid": "952566",
-                    "username": "Armada"
                 }
             ]
         },
@@ -422,6 +418,11 @@
                     "uid": "1999047",
                     "username": "Vitani",
                     "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "952566",
+                    "username": "Armada",
+                    "role": "Interviewer"
                 }
             ]
         }

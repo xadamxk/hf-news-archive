@@ -273,10 +273,19 @@
                 {
                     "uid": "2883763",
                     "username": "Sorzus"
-                },
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
                 {
                     "uid": "692131",
-                    "username": "Tsundere"
+                    "username": "Tsundere",
+                    "role": "Interviewer"
                 }
             ]
         }

@@ -275,10 +275,6 @@
       "url": "https://hackforums.net/showthread.php?pid=34426709",
       "users": [
         {
-          "uid": "133256",
-          "username": "Umbrein"
-        },
-        {
           "uid": "393774",
           "username": "Shark™"
         }
@@ -290,10 +286,6 @@
       "description": "Interview with 8B1T conducted by Nine Lives; covers his role as overseer of Infamous, the Propitious-to-Infamous transition, his love for League of Legends and anime, and his dedication to Infamous.",
       "url": "https://hackforums.net/showthread.php?pid=34426709",
       "users": [
-        {
-          "uid": "692131",
-          "username": "Nine Lives"
-        },
         {
           "uid": "1108178",
           "username": "8B1T"
@@ -309,7 +301,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "121196",
@@ -319,7 +311,7 @@
         {
           "uid": "1172544",
           "username": "Cody‍",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "524451",
@@ -349,7 +341,7 @@
         {
           "uid": "692131",
           "username": "Anima Libera",
-          "role": "Journalist (Music News)"
+          "role": "Journalist (Music News / Interviewer)"
         },
         {
           "uid": "1050193",
@@ -359,7 +351,7 @@
         {
           "uid": "827711",
           "username": "D3xus",
-          "role": "Interviewer / Proofreader"
+          "role": "Journalist (Interviewer / Proofreader)"
         },
         {
           "uid": "632426",
@@ -370,6 +362,11 @@
           "uid": "135189",
           "username": "Bad Meets Evil",
           "role": "Graphical Editor"
+        },
+        {
+          "uid": "133256",
+          "username": "Umbrein",
+          "role": "Interviewer"
         }
       ]
     }

@@ -47,10 +47,6 @@
       "url": "https://hackforums.net/showthread.php?pid=16406045",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
           "uid": "661940",
           "username": "bugga"
         }
@@ -63,12 +59,21 @@
       "url": "https://hackforums.net/showthread.php?pid=16406045",
       "users": [
         {
-          "username": "Reported",
-          "uid": "565350"
-        },
-        {
           "uid": "154890",
           "username": "iMario"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "565350",
+          "username": "Reported",
+          "role": "Interviewer"
         }
       ]
     }

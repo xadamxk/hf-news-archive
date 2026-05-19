@@ -147,10 +147,6 @@
       "url": "https://hackforums.net/showthread.php?pid=36891051",
       "users": [
         {
-          "uid": "1148878",
-          "username": "Clique"
-        },
-        {
           "uid": "1087815",
           "username": "Nate"
         }
@@ -158,14 +154,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Tycoon (formerly H²O) conducted by Clark.",
+      "title": "Interview with Tycoon conducted by Clark.",
       "description": "Interview with Tycoon (formerly H²O) conducted by Clark; covers his upcoming League of Legends product with bam422, his marketplace activity, the dying gamertag market, and his Civil Engineering studies.",
       "url": "https://hackforums.net/showthread.php?pid=36891051",
       "users": [
-        {
-          "uid": "1653635",
-          "username": "Clark"
-        },
         {
           "uid": "1658604",
           "username": "Tycoon"
@@ -178,10 +170,6 @@
       "description": "Interview with Assailant conducted by Saturday; covers his move away from blackhat keylogging and ratting, his recent acceptances into Infamous, The Brotherhood, and Complexity, and his interest in 143.",
       "url": "https://hackforums.net/showthread.php?pid=36891051",
       "users": [
-        {
-          "uid": "787112",
-          "username": "Saturday"
-        },
         {
           "uid": "741039",
           "username": "Assailant"
@@ -197,7 +185,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics)"
         },
         {
           "uid": "1082656",
@@ -207,7 +195,7 @@
         {
           "uid": "1172544",
           "username": "awhty",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "138559",

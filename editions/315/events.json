@@ -225,10 +225,6 @@
                 {
                     "uid": "1314004",
                     "username": "mael"
-                },
-                {
-                    "uid": "1148788",
-                    "username": "Clique"
                 }
             ]
         },
@@ -256,7 +252,7 @@
                 {
                     "uid": "610356",
                     "username": "Wires",
-                    "role": "Journalist (Comics) / On-Call Team"
+                    "role": "Journalist (Comics / On-Call Team)"
                 },
                 {
                     "uid": "662802",
@@ -306,7 +302,7 @@
                 {
                     "uid": "1999047",
                     "username": "Vitani",
-                    "role": "Journalist (Comics) / On-Call Team"
+                    "role": "Journalist (Comics / On-Call Team)"
                 },
                 {
                     "uid": "2110841",
@@ -332,6 +328,11 @@
                     "uid": "3176965",
                     "username": "Soulmatе",
                     "role": "On-Call Team"
+                },
+                {
+                    "uid": "1148788",
+                    "username": "Clique",
+                    "role": "Interviewer"
                 }
             ]
         }

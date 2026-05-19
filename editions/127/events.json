@@ -269,10 +269,6 @@
       "url": "https://hackforums.net/showthread.php?pid=30166567",
       "users": [
         {
-          "uid": "827711",
-          "username": "+Entity"
-        },
-        {
           "uid": "469528",
           "username": "Odin the Wanderer"
         }
@@ -284,10 +280,6 @@
       "description": "Interview with Dezinated conducted by Phytrix; covers how he joined HF, programming languages he knows (Java, PHP, Batch), and his current projects including Elyxa Stresser and a PHP RAT.",
       "url": "https://hackforums.net/showthread.php?pid=30166567",
       "users": [
-        {
-          "uid": "1018876",
-          "username": "Phytrix"
-        },
         {
           "uid": "492377",
           "username": "Dezinated"
@@ -303,7 +295,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "1108450",
@@ -323,7 +315,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "903914",
@@ -333,7 +325,7 @@
         {
           "uid": "651337",
           "username": "Tibit",
-          "role": "Journalist (Music News) / Headlines"
+          "role": "Journalist (Music News / Headlines)"
         },
         {
           "uid": "1018876",

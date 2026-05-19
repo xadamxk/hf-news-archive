@@ -259,10 +259,6 @@
       "url": "https://hackforums.net/showthread.php?pid=34718072",
       "users": [
         {
-          "uid": "133256",
-          "username": "Umbrein"
-        },
-        {
           "uid": "279955",
           "username": "Happeh"
         }
@@ -274,10 +270,6 @@
       "description": "Interview with KostyDays conducted by Connected; covers his shift from hacking to monetizing, his graphic design work for a record label, his support role for iMoney sales, and his upcoming CPA/PPD venture.",
       "url": "https://hackforums.net/showthread.php?pid=34718072",
       "users": [
-        {
-          "uid": "1050193",
-          "username": "Connected"
-        },
         {
           "uid": "898564",
           "username": "KostyDays"
@@ -293,7 +285,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second / Comics / Headlines"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second / Comics / Headlines)"
         },
         {
           "uid": "121196",
@@ -303,7 +295,7 @@
         {
           "uid": "1172544",
           "username": "Cody‍",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "524451",
@@ -354,6 +346,11 @@
           "uid": "763021",
           "username": "Retribute",
           "role": "Proofreader"
+        },
+        {
+          "uid": "133256",
+          "username": "Umbrein",
+          "role": "Interviewer"
         }
       ]
     }

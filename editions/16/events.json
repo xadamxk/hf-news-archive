@@ -153,8 +153,21 @@
       "url": "https://hackforums.net/showthread.php?pid=6590389",
       "users": [
         {
-          "username": "N3w_2_H@Ck1n™",
-          "uid": "49806"
+          "uid": "49806",
+          "username": "N3w_2_H@Ck1n™"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "136025",
+          "username": "The Elite",
+          "role": "Interviewer"
         }
       ]
     }

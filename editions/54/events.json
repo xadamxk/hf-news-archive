@@ -341,10 +341,6 @@
       "url": "https://hackforums.net/showthread.php?pid=14622978",
       "users": [
         {
-          "uid": "323740",
-          "username": "Positive"
-        },
-        {
           "uid": "79121",
           "username": "Richie"
         }
@@ -409,7 +405,7 @@
         {
           "uid": "115612",
           "username": "-BoodyE-",
-          "role": "Reporter (User News) / Editor-in-Chief"
+          "role": "Journalist (Reporter (User News) / Editor-in-Chief)"
         },
         {
           "uid": "556984",
@@ -440,6 +436,11 @@
           "uid": "566671",
           "username": "panDa.",
           "role": "Graphical Editor"
+        },
+        {
+          "uid": "323740",
+          "username": "Positive",
+          "role": "Interviewer"
         }
       ]
     }

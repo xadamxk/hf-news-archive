@@ -163,12 +163,8 @@
       "url": "https://hackforums.net/showthread.php?pid=17809646",
       "users": [
         {
-          "username": "Daniel Faraday",
-          "uid": "366559"
-        },
-        {
-          "username": "Ŀucien Lachance",
-          "uid": "52868"
+          "uid": "52868",
+          "username": "Ŀucien Lachance"
         }
       ]
     },
@@ -178,10 +174,6 @@
       "description": "Interview with Orgy conducted by Michael Westen; covers his Marketers membership, BooterDown project (with BV1), and total earnings on HF (~$20-35k).",
       "url": "https://hackforums.net/showthread.php?pid=17809646",
       "users": [
-        {
-          "username": "Michael Westen",
-          "uid": "735315"
-        },
         {
           "uid": "182754",
           "username": "Orgy"
@@ -197,7 +189,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / User News / Opinions"
+          "role": "Journalist (Publisher & Head Journalist / User News / Opinions)"
         },
         {
           "username": "Diabolic",

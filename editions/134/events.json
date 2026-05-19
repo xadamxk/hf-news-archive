@@ -267,10 +267,6 @@
       "url": "https://hackforums.net/showthread.php?pid=31312764",
       "users": [
         {
-          "uid": "190854",
-          "username": "CarrotMilk"
-        },
-        {
           "uid": "571039",
           "username": "131"
         }
@@ -282,10 +278,6 @@
       "description": "Interview with SomeWhiteGuy conducted by Connected; covers his programming background, his views on MOTM and moderation, and his time in The Alliance, Void and The Empire.",
       "url": "https://hackforums.net/showthread.php?pid=31312764",
       "users": [
-        {
-          "uid": "1050193",
-          "username": "Connected"
-        },
         {
           "uid": "878768",
           "username": "SomeWhiteGuy"
@@ -301,7 +293,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Sir's Second"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Sir's Second)"
         },
         {
           "uid": "1108450",
@@ -311,7 +303,7 @@
         {
           "uid": "138559",
           "username": "MarkMare",
-          "role": "Journalist (Gaming News) / Journalist (User News) / Reporter"
+          "role": "Journalist (Gaming News / User News / Reporter)"
         },
         {
           "uid": "398007",
@@ -321,7 +313,7 @@
         {
           "uid": "1306528",
           "username": "xadamxk",
-          "role": "Journalist (Tech News) / Interviewer"
+          "role": "Journalist (Tech News / Interviewer)"
         },
         {
           "uid": "1121679",
@@ -347,6 +339,11 @@
           "uid": "763021",
           "username": "Retribute",
           "role": "Proofreader"
+        },
+        {
+          "uid": "1050193",
+          "username": "Connected",
+          "role": "Interviewer"
         }
       ]
     }

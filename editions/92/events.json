@@ -272,14 +272,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Chief conducted by Chocothunda.",
+      "title": "Interview with Chief. conducted by Chocothunda.",
       "description": "Interview with Chief. conducted by Chocothunda; covers his joining HF for AIM hacks, coding skills, and HF return.",
       "url": "https://hackforums.net/showthread.php?pid=22728383",
       "users": [
-        {
-          "uid": "355307",
-          "username": "Chocothunda"
-        },
         {
           "uid": "458073",
           "username": "Chief."
@@ -288,14 +284,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Dan conducted by Waleed.",
+      "title": "Interview with Dan. conducted by Waleed.",
       "description": "Interview with Dan. conducted by Waleed; covers his new group Serenity (debate/discussion focused) and goals for it.",
       "url": "https://hackforums.net/showthread.php?pid=22728383",
       "users": [
-        {
-          "uid": "769614",
-          "username": "Waleed"
-        },
         {
           "uid": "1011113",
           "username": "Dan."
@@ -311,7 +303,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Opinions / Webshow"
+          "role": "Journalist (Publisher & Head Journalist / Opinions / Webshow)"
         },
         {
           "uid": "891268",
@@ -331,7 +323,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",

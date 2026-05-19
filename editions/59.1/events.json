@@ -285,12 +285,12 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with DiscipLe conducted by Valik ϟ.",
+      "title": "Interview with DiscipLe and DiscipLe conducted by Valik ϟ.",
       "description": "Interview with DiscipLe conducted by Valik ϟ; covers his gaming setup, favorite consoles, and competitive gaming experience.",
       "url": "https://hackforums.net/showthread.php?pid=15880135",
       "users": [
         {
-          "username": "Valik ϟ"
+          "username": "DiscipLe"
         },
         {
           "username": "DiscipLe"
@@ -304,12 +304,21 @@
       "url": "https://hackforums.net/showthread.php?pid=15880135",
       "users": [
         {
-          "username": "Taylor Gang",
-          "uid": "178268"
-        },
-        {
           "uid": "153686",
           "username": "Fireren"
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "178268",
+          "username": "Taylor Gang",
+          "role": "Interviewer"
         }
       ]
     }

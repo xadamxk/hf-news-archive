@@ -140,10 +140,6 @@
                 {
                     "uid": "3680778",
                     "username": "oxid"
-                },
-                {
-                    "uid": "692131",
-                    "username": "Tsundere"
                 }
             ]
         },
@@ -167,6 +163,11 @@
                     "uid": "561239",
                     "username": "iHydra",
                     "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Interviewer"
                 }
             ]
         }

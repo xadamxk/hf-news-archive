@@ -234,6 +234,19 @@
           "username": "Drizzy"
         }
       ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "2214473",
+          "username": ".Sinister",
+          "role": "Interviewer"
+        }
+      ]
     }
   ],
   "edition": {

@@ -270,14 +270,10 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with Oldskool conducted by Waleed.",
+      "title": "Interview with Oldskool. conducted by Waleed.",
       "description": "Interview with Oldskool. conducted by Waleed; covers his joining HF via a virtual-currency virus, the HMSE section history, and the unofficial Syndicate group.",
       "url": "https://hackforums.net/showthread.php?pid=22532792",
       "users": [
-        {
-          "username": "Waleed",
-          "uid": "769614"
-        },
         {
           "uid": "426299",
           "username": "Oldskool."
@@ -290,10 +286,6 @@
       "description": "Interview with Assyrian conducted by Chocothunda; covers his Google-search arrival on HF, username origin, and gaming-section activity.",
       "url": "https://hackforums.net/showthread.php?pid=22532792",
       "users": [
-        {
-          "uid": "355307",
-          "username": "Chocothunda"
-        },
         {
           "uid": "488246",
           "username": "Assyrian"
@@ -309,7 +301,7 @@
         {
           "uid": "515249",
           "username": "Sir",
-          "role": "Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics"
+          "role": "Journalist (Publisher & Head Journalist / Notable Threads / Opinions / GFX / Webshow / Comics)"
         },
         {
           "uid": "891268",
@@ -329,7 +321,7 @@
         {
           "uid": "114319",
           "username": "Mr. Anderson",
-          "role": "Journalist (User News) / Reporter"
+          "role": "Journalist (User News / Reporter)"
         },
         {
           "uid": "762646",
