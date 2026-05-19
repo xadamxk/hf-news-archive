@@ -217,7 +217,38 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "3493494",
+                    "username": "Gambler",
+                    "role": "Journalist (Anime News)"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "Real",
+                    "role": "Journalist (Notable Threads / Crypto News)"
+                },
+                {
+                    "uid": "2890436",
+                    "username": "Pikachu",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1030620",
+                    "username": "maxorg",
+                    "role": "Journalist (Spotlight)"
+                }
+            ]
         }
     ],
     "edition": {

@@ -6,8 +6,14 @@
             "description": "With the help of Novica, Omniscient is adding a new Hackuman and is seeking community feedback on the HUM graphic.",
             "url": "https://hackforums.net/showthread.php?tid=6174406",
             "users": [
-                {"uid": "502172", "username": "Novica"},
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "502172",
+                    "username": "Novica"
+                },
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -16,7 +22,10 @@
             "description": "Xerotic is stepping down as a full-time developer for Hack Forums due to changes in his personal life and career; he will only be developing to resolve bugs and issues. New projects are on hold while a new developer is sought.",
             "url": "https://hackforums.net/showthread.php?tid=6172105",
             "users": [
-                {"uid": "175033", "username": "Xerotic"}
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
             ]
         },
         {
@@ -32,8 +41,14 @@
             "description": "LoremIpsum reached 10,000 posts. TOM became the 4th member (Vendor) to reach 2,000 completed contracts on the marketplace.",
             "url": "",
             "users": [
-                {"uid": "4362613", "username": "LoremIpsum"},
-                {"uid": "3372466", "username": "TOM"}
+                {
+                    "uid": "4362613",
+                    "username": "LoremIpsum"
+                },
+                {
+                    "uid": "3372466",
+                    "username": "TOM"
+                }
             ]
         },
         {
@@ -41,7 +56,23 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Headlines / User News)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "718886",
+                    "username": "Xen",
+                    "role": "Journalist (Group News)"
+                }
+            ]
         }
     ],
     "edition": {

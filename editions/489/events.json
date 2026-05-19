@@ -6,7 +6,10 @@
             "description": "James is now the Leader of Panthers.",
             "url": "",
             "users": [
-                {"uid": "2774521", "username": "James"}
+                {
+                    "uid": "2774521",
+                    "username": "James"
+                }
             ]
         },
         {
@@ -15,11 +18,26 @@
             "description": "Target™ reached 7,000 posts; Aeowulf reached 3,000 posts; Juoku reached 1,000 posts; Davkul reached 2,000 posts; KasprDev surpassed 1,000 popularity (Green Apple).",
             "url": "",
             "users": [
-                {"uid": "1124123", "username": "Target™"},
-                {"uid": "1486387", "username": "Aeowulf"},
-                {"uid": "4674072", "username": "Juoku"},
-                {"uid": "3097399", "username": "Davkul"},
-                {"uid": "3978907", "username": "KasprDev"}
+                {
+                    "uid": "1124123",
+                    "username": "Target™"
+                },
+                {
+                    "uid": "1486387",
+                    "username": "Aeowulf"
+                },
+                {
+                    "uid": "4674072",
+                    "username": "Juoku"
+                },
+                {
+                    "uid": "3097399",
+                    "username": "Davkul"
+                },
+                {
+                    "uid": "3978907",
+                    "username": "KasprDev"
+                }
             ]
         },
         {
@@ -28,7 +46,10 @@
             "description": "Xerotic released a new MyCode widget that displays the value of a cryptocurrency at the time of posting compared to its current value, including a chart showing the change over time.",
             "url": "https://hackforums.net/showthread.php?tid=6135040",
             "users": [
-                {"uid": "175033", "username": "Xerotic"}
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
             ]
         },
         {
@@ -37,7 +58,10 @@
             "description": "",
             "url": "",
             "users": [
-                {"uid": "4451198", "username": "StayPlural"}
+                {
+                    "uid": "4451198",
+                    "username": "StayPlural"
+                }
             ]
         },
         {
@@ -46,7 +70,10 @@
             "description": "Guardis was closed.",
             "url": "",
             "users": [
-                {"uid": "2953250", "username": "Guardis"}
+                {
+                    "uid": "2953250",
+                    "username": "Guardis"
+                }
             ]
         },
         {
@@ -54,7 +81,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1160828",
+                    "username": "eXceptional",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "Real",
+                    "role": "Journalist (Notable Threads)"
+                }
+            ]
         }
     ],
     "edition": {

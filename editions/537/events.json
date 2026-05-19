@@ -109,7 +109,18 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "5002443",
+                    "username": "Sky",
+                    "role": "Journalist (Headlines / Groups & Crews / Notables)"
+                },
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Census / Honors)"
+                }
+            ]
         }
     ],
     "edition": {

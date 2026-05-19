@@ -6,7 +6,10 @@
             "description": "Xerotic was given a new HF group called Reverie.",
             "url": "https://hackforums.net/showgroups.php",
             "users": [
-                {"uid": "175033", "username": "Xerotic"}
+                {
+                    "uid": "175033",
+                    "username": "Xerotic"
+                }
             ]
         },
         {
@@ -15,12 +18,30 @@
             "description": "ningjingdexiatian reached 1,000 posts; Stellen Sie TT reached 1,000 posts; Lindros reached 8,000 posts; Aeowulf reached 6,000 posts; Sigma reached the 1,000 threads milestone; wiz reached 2,000 posts.",
             "url": "",
             "users": [
-                {"uid": "4227294", "username": "ningjingdexiatian"},
-                {"uid": "2731966", "username": "Stellen Sie TT"},
-                {"uid": "4204275", "username": "Lindros"},
-                {"uid": "1486387", "username": "Aeowulf"},
-                {"uid": "89554", "username": "Sigma"},
-                {"uid": "3061124", "username": "wiz"}
+                {
+                    "uid": "4227294",
+                    "username": "ningjingdexiatian"
+                },
+                {
+                    "uid": "2731966",
+                    "username": "Stellen Sie TT"
+                },
+                {
+                    "uid": "4204275",
+                    "username": "Lindros"
+                },
+                {
+                    "uid": "1486387",
+                    "username": "Aeowulf"
+                },
+                {
+                    "uid": "89554",
+                    "username": "Sigma"
+                },
+                {
+                    "uid": "3061124",
+                    "username": "wiz"
+                }
             ]
         },
         {
@@ -29,7 +50,10 @@
             "description": "Fiτis was banned for leaking and blackmail.",
             "url": "",
             "users": [
-                {"uid": "334563", "username": "Fiτis"}
+                {
+                    "uid": "334563",
+                    "username": "Fiτis"
+                }
             ]
         },
         {
@@ -38,7 +62,10 @@
             "description": "Omniscient is gauging interest in adding a Hacktivism forum section.",
             "url": "https://hackforums.net/showthread.php?tid=6176743",
             "users": [
-                {"uid": "1", "username": "Omniscient"}
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
             ]
         },
         {
@@ -46,7 +73,28 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "1160828",
+                    "username": "eXceptional",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "Real",
+                    "role": "Journalist (Notable Threads)"
+                }
+            ]
         }
     ],
     "edition": {

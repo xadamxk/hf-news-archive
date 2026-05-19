@@ -213,7 +213,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                }
+            ]
         }
     ],
     "edition": {

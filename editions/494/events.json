@@ -157,7 +157,58 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "484743",
+                    "username": "Zeus",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1160828",
+                    "username": "eXceptional",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "Real",
+                    "role": "Journalist (Notable Threads / Crypto News)"
+                },
+                {
+                    "uid": "4913576",
+                    "username": "Verethragna",
+                    "role": "Journalist (Science News)"
+                },
+                {
+                    "uid": "3493494",
+                    "username": "Gambler",
+                    "role": "Journalist (Anime News)"
+                },
+                {
+                    "uid": "1030620",
+                    "username": "maxorg",
+                    "role": "Journalist (Spotlight)"
+                },
+                {
+                    "uid": "2890436",
+                    "username": "Pikachu",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {

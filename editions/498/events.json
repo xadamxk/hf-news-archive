@@ -121,7 +121,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Comics)"
+                }
+            ]
         }
     ],
     "edition": {
