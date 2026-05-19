@@ -54,18 +54,6 @@
     },
     {
       "category": "news",
-      "title": "",
-      "description": "",
-      "url": "",
-      "users": [
-        {
-          "username": "The Elite",
-          "uid": "136025"
-        }
-      ]
-    },
-    {
-      "category": "news",
       "title": "Contributors to this edition.",
       "description": "",
       "url": "",
@@ -73,7 +61,7 @@
         {
           "uid": "136025",
           "username": "The Elite",
-          "role": "Interviewer"
+          "role": "Journalist (Interviewer / Publisher)"
         }
       ]
     }

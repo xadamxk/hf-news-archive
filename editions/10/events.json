@@ -100,13 +100,19 @@
     },
     {
       "category": "news",
-      "title": "",
+      "title": "Contributors to this edition.",
       "description": "",
       "url": "",
       "users": [
         {
+          "uid": "74244",
+          "username": "Yin",
+          "role": "Publisher"
+        },
+        {
+          "uid": "81075",
           "username": "Robbieava",
-          "uid": "81075"
+          "role": "Journalist"
         }
       ]
     }

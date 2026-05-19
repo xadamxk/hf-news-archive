@@ -13,7 +13,10 @@
             "description": "Doubt won the September 2020 Member of the Month award.",
             "url": "",
             "users": [
-                {"uid": "2896649", "username": "Doubt"}
+                {
+                    "uid": "2896649",
+                    "username": "Doubt"
+                }
             ]
         },
         {
@@ -22,20 +25,62 @@
             "description": "ETH reached 6,000 posts; de_g3ntl3m4n reached 3,000 posts; Mr. Corleone reached 6,000 posts; Chevy reached 1,000 posts; MrJamesDean reached 1,000 posts; SourceCοde reached 3,000 posts; Rsynced reached 7,000 posts; 01001 reached 4,000 posts; TheChiеf, RNS 4G Networks, Spearmint, SavageRS, Decim, VisualSoft, and 01001 each surpassed 1,000 popularity (Green Apple).",
             "url": "",
             "users": [
-                {"uid": "3732526", "username": "ETH"},
-                {"uid": "3481764", "username": "de_g3ntl3m4n"},
-                {"uid": "1551759", "username": "Mr. Corleone"},
-                {"uid": "4433242", "username": "Chevy"},
-                {"uid": "4688078", "username": "MrJamesDean"},
-                {"uid": "3832660", "username": "SourceCοde"},
-                {"uid": "630163", "username": "Rsynced"},
-                {"uid": "767395", "username": "01001"},
-                {"uid": "2333286", "username": "TheChiеf"},
-                {"uid": "4149648", "username": "RNS 4G Networks"},
-                {"uid": "1055609", "username": "Spearmint"},
-                {"uid": "3951695", "username": "SavageRS"},
-                {"uid": "705074", "username": "Decim"},
-                {"uid": "3114397", "username": "VisualSoft"}
+                {
+                    "uid": "3732526",
+                    "username": "ETH"
+                },
+                {
+                    "uid": "3481764",
+                    "username": "de_g3ntl3m4n"
+                },
+                {
+                    "uid": "1551759",
+                    "username": "Mr. Corleone"
+                },
+                {
+                    "uid": "4433242",
+                    "username": "Chevy"
+                },
+                {
+                    "uid": "4688078",
+                    "username": "MrJamesDean"
+                },
+                {
+                    "uid": "3832660",
+                    "username": "SourceCοde"
+                },
+                {
+                    "uid": "630163",
+                    "username": "Rsynced"
+                },
+                {
+                    "uid": "767395",
+                    "username": "01001"
+                },
+                {
+                    "uid": "2333286",
+                    "username": "TheChiеf"
+                },
+                {
+                    "uid": "4149648",
+                    "username": "RNS 4G Networks"
+                },
+                {
+                    "uid": "1055609",
+                    "username": "Spearmint"
+                },
+                {
+                    "uid": "3951695",
+                    "username": "SavageRS"
+                },
+                {
+                    "uid": "705074",
+                    "username": "Decim"
+                },
+                {
+                    "uid": "3114397",
+                    "username": "VisualSoft"
+                }
             ]
         },
         {
@@ -44,7 +89,10 @@
             "description": "Frugal Living (a.k.a. Gambler/Lavish Living) went on vacation.",
             "url": "",
             "users": [
-                {"uid": "2028907", "username": "Frugal Living"}
+                {
+                    "uid": "2028907",
+                    "username": "Frugal Living"
+                }
             ]
         },
         {
@@ -52,7 +100,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {

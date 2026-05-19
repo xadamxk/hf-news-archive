@@ -194,6 +194,19 @@
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=4936160",
       "users": []
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "561239",
+          "username": "iHydra",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

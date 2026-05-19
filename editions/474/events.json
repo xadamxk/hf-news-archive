@@ -120,7 +120,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {

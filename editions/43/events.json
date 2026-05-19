@@ -95,6 +95,19 @@
       "title": "HF News begins paid ads; proceeds donated to HF.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=1313298"
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

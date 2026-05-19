@@ -77,6 +77,19 @@
       "title": "Groups recruiting: The Alliance, Graphic Masters, RATs Crew, Reverence, The Wraith.",
       "description": "",
       "url": "http://hackforums.net/forumdisplay.php?fid=52"
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

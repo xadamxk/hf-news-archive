@@ -35,6 +35,19 @@
           "uid": "639914"
         }
       ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "295848",
+          "username": "Qwazz",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

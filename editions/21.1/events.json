@@ -12,6 +12,19 @@
           "role": "Editor"
         }
       ]
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "136025",
+          "username": "www.RuneGear.net",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

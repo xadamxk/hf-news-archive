@@ -27,8 +27,14 @@
             "description": "Fortunate reached 2,000 popularity. Soufian reached 5,000 posts.",
             "url": "",
             "users": [
-                {"uid": "3123052", "username": "Fortunate"},
-                {"uid": "46903", "username": "Soufian"}
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                },
+                {
+                    "uid": "46903",
+                    "username": "Soufian"
+                }
             ]
         },
         {
@@ -37,10 +43,22 @@
             "description": "0din, McDolands, and PokeBong were banned for fake contests. Motusora was banned (every deal must contain a contract).",
             "url": "",
             "users": [
-                {"uid": "2646948", "username": "0din"},
-                {"uid": "2814290", "username": "McDolands"},
-                {"uid": "4748167", "username": "PokeBong"},
-                {"uid": "776749", "username": "Motusora"}
+                {
+                    "uid": "2646948",
+                    "username": "0din"
+                },
+                {
+                    "uid": "2814290",
+                    "username": "McDolands"
+                },
+                {
+                    "uid": "4748167",
+                    "username": "PokeBong"
+                },
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                }
             ]
         },
         {
@@ -49,8 +67,14 @@
             "description": "Dotexe is on vacation until 04/13/2021. Riot is on vacation until 01/14/2021.",
             "url": "",
             "users": [
-                {"uid": "2580014", "username": "Dotexe"},
-                {"uid": "2285844", "username": "Riot"}
+                {
+                    "uid": "2580014",
+                    "username": "Dotexe"
+                },
+                {
+                    "uid": "2285844",
+                    "username": "Riot"
+                }
             ]
         },
         {
@@ -59,7 +83,10 @@
             "description": "sunny mann was closed for financial theft.",
             "url": "",
             "users": [
-                {"uid": "4845636", "username": "sunny mann"}
+                {
+                    "uid": "4845636",
+                    "username": "sunny mann"
+                }
             ]
         },
         {
@@ -67,7 +94,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {

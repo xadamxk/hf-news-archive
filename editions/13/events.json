@@ -72,13 +72,19 @@
     },
     {
       "category": "news",
-      "title": "",
+      "title": "Contributors to this edition.",
       "description": "",
       "url": "",
       "users": [
         {
+          "uid": "30595",
+          "username": "The Rated R Superstar",
+          "role": "Publisher"
+        },
+        {
+          "uid": "311070",
           "username": "Virtual Reality",
-          "uid": "311070"
+          "role": "Journalist"
         }
       ]
     }

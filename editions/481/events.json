@@ -20,12 +20,30 @@
             "description": "Zeus rebranded Nova to Illuminati. James and Goods are Leaders of Panthers. NulldB is Leader of Legends. Gambler is Owner of Dreamers; Zero and Spiral are Leaders of Dreamers.",
             "url": "",
             "users": [
-                {"uid": "484743", "username": "Zeus"},
-                {"uid": "2774521", "username": "James"},
-                {"uid": "1502934", "username": "Goods"},
-                {"uid": "7", "username": "NulldB"},
-                {"uid": "2028907", "username": "Gambler"},
-                {"uid": "3493494", "username": "Zero"}
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "James"
+                },
+                {
+                    "uid": "1502934",
+                    "username": "Goods"
+                },
+                {
+                    "uid": "7",
+                    "username": "NulldB"
+                },
+                {
+                    "uid": "2028907",
+                    "username": "Gambler"
+                },
+                {
+                    "uid": "3493494",
+                    "username": "Zero"
+                }
             ]
         },
         {
@@ -34,23 +52,74 @@
             "description": "al5ina5 reached 2,000 posts; Aklimczak522 reached 1,000 posts; DublA reached 1,000 posts; Megane reached 1,000 posts; Goods reached 3,000 posts; Nixhxlas was awarded a custom award; PAXFun, Demize, HᴇʀᴍᴇS, Semmenial, Yanix, Bruce Banner, waifu trash, Focus Broken, Yseurk, Shoto Todoroki, and ✔ Soufian ✔ each surpassed 1,000 popularity (Green Apple).",
             "url": "",
             "users": [
-                {"uid": "1458891", "username": "al5ina5"},
-                {"uid": "4335155", "username": "Aklimczak522"},
-                {"uid": "1550084", "username": "DublA"},
-                {"uid": "4570721", "username": "Megane"},
-                {"uid": "1502934", "username": "Goods"},
-                {"uid": "2", "username": "Nixhxlas"},
-                {"uid": "3204461", "username": "PAXFun"},
-                {"uid": "1257324", "username": "Demize"},
-                {"uid": "4140312", "username": "HᴇʀᴍᴇS"},
-                {"uid": "4622646", "username": "Semmenial"},
-                {"uid": "4273612", "username": "Yanix"},
-                {"uid": "663982", "username": "Bruce Banner"},
-                {"uid": "4595248", "username": "waifu trash"},
-                {"uid": "3209658", "username": "Focus Broken"},
-                {"uid": "3995095", "username": "Yseurk"},
-                {"uid": "2121167", "username": "Shoto Todoroki"},
-                {"uid": "46903", "username": "✔ Soufian ✔"}
+                {
+                    "uid": "1458891",
+                    "username": "al5ina5"
+                },
+                {
+                    "uid": "4335155",
+                    "username": "Aklimczak522"
+                },
+                {
+                    "uid": "1550084",
+                    "username": "DublA"
+                },
+                {
+                    "uid": "4570721",
+                    "username": "Megane"
+                },
+                {
+                    "uid": "1502934",
+                    "username": "Goods"
+                },
+                {
+                    "uid": "2",
+                    "username": "Nixhxlas"
+                },
+                {
+                    "uid": "3204461",
+                    "username": "PAXFun"
+                },
+                {
+                    "uid": "1257324",
+                    "username": "Demize"
+                },
+                {
+                    "uid": "4140312",
+                    "username": "HᴇʀᴍᴇS"
+                },
+                {
+                    "uid": "4622646",
+                    "username": "Semmenial"
+                },
+                {
+                    "uid": "4273612",
+                    "username": "Yanix"
+                },
+                {
+                    "uid": "663982",
+                    "username": "Bruce Banner"
+                },
+                {
+                    "uid": "4595248",
+                    "username": "waifu trash"
+                },
+                {
+                    "uid": "3209658",
+                    "username": "Focus Broken"
+                },
+                {
+                    "uid": "3995095",
+                    "username": "Yseurk"
+                },
+                {
+                    "uid": "2121167",
+                    "username": "Shoto Todoroki"
+                },
+                {
+                    "uid": "46903",
+                    "username": "✔ Soufian ✔"
+                }
             ]
         },
         {
@@ -59,14 +128,38 @@
             "description": "Artisan, $JayViaLV, KO_Sickskillz, Kushy, RIP Juice WRLD, and Hilrey were banned for involvement in Free Gift Card Blackhat methods. BitProducts was banned for thread edit abuse. Trojan was banned for advertising Discord channels in PMs.",
             "url": "",
             "users": [
-                {"uid": "3851797", "username": "Artisan"},
-                {"uid": "3490627", "username": "$JayViaLV"},
-                {"uid": "3664774", "username": "KO_Sickskillz"},
-                {"uid": "4788408", "username": "Kushy"},
-                {"uid": "4691139", "username": "RIP Juice WRLD"},
-                {"uid": "454208", "username": "Hilrey"},
-                {"uid": "3430364", "username": "BitProducts"},
-                {"uid": "237516", "username": "Trojan"}
+                {
+                    "uid": "3851797",
+                    "username": "Artisan"
+                },
+                {
+                    "uid": "3490627",
+                    "username": "$JayViaLV"
+                },
+                {
+                    "uid": "3664774",
+                    "username": "KO_Sickskillz"
+                },
+                {
+                    "uid": "4788408",
+                    "username": "Kushy"
+                },
+                {
+                    "uid": "4691139",
+                    "username": "RIP Juice WRLD"
+                },
+                {
+                    "uid": "454208",
+                    "username": "Hilrey"
+                },
+                {
+                    "uid": "3430364",
+                    "username": "BitProducts"
+                },
+                {
+                    "uid": "237516",
+                    "username": "Trojan"
+                }
             ]
         },
         {
@@ -74,7 +167,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "4570721",
+                    "username": "Megane",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {

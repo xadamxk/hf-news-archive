@@ -36,13 +36,14 @@
     },
     {
       "category": "news",
-      "title": "",
+      "title": "Contributors to this edition.",
       "description": "",
       "url": "",
       "users": [
         {
+          "uid": "74244",
           "username": "Yin",
-          "uid": "74244"
+          "role": "Publisher"
         }
       ]
     }

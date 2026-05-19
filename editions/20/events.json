@@ -63,6 +63,19 @@
       "title": "HF News invites member submissions for Misc edition.",
       "description": "",
       "url": "http://hackforums.net/showthread.php?tid=752356"
+    },
+    {
+      "category": "news",
+      "title": "Contributors to this edition.",
+      "description": "",
+      "url": "",
+      "users": [
+        {
+          "uid": "136025",
+          "username": "www.RuneGear.net",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

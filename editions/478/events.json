@@ -6,12 +6,30 @@
             "description": "Zeus is Owner of Panthers; Gσđfαtђα, Cooligan, and Xen are Leaders of Panthers; Xen is Leader of The Brotherhood; Parks is Leader of OP8; Nuworld is Leader of Nova.",
             "url": "",
             "users": [
-                {"uid": "484743", "username": "Zeus"},
-                {"uid": "1200358", "username": "Gσđfαtђα"},
-                {"uid": "777", "username": "Cooligan"},
-                {"uid": "718886", "username": "Xen"},
-                {"uid": "2945848", "username": "Parks"},
-                {"uid": "2208210", "username": "Nuworld"}
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "1200358",
+                    "username": "Gσđfαtђα"
+                },
+                {
+                    "uid": "777",
+                    "username": "Cooligan"
+                },
+                {
+                    "uid": "718886",
+                    "username": "Xen"
+                },
+                {
+                    "uid": "2945848",
+                    "username": "Parks"
+                },
+                {
+                    "uid": "2208210",
+                    "username": "Nuworld"
+                }
             ]
         },
         {
@@ -20,21 +38,66 @@
             "description": "Kosmos reached 1,000 posts; TJackZone reached 1,000 posts; [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] reached 3,000 posts; Rally the Bulls reached 3,000 posts; Stork reached 8,000 posts; Velma reached 2,000 posts; The-Fluffy-Kitty reached 1,000 posts; Simplicity! reached 1,000 posts; Tom C reached 5,000 posts; ~~((HACKER))~~ reached 1,000 posts; Real reached 1,000 posts; James reached 5,000 posts; shreder, Snyke, and Vibe surpassed 1,000 popularity (Green Apple).",
             "url": "",
             "users": [
-                {"uid": "2834308", "username": "Kosmos"},
-                {"uid": "3107656", "username": "TJackZone"},
-                {"uid": "1915062", "username": "[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]"},
-                {"uid": "11357", "username": "Rally the Bulls"},
-                {"uid": "1571789", "username": "Stork"},
-                {"uid": "4059238", "username": "Velma"},
-                {"uid": "1746934", "username": "The-Fluffy-Kitty"},
-                {"uid": "4336296", "username": "Simplicity!"},
-                {"uid": "3372466", "username": "Tom C"},
-                {"uid": "777383", "username": "~~((HACKER))~~"},
-                {"uid": "3904626", "username": "Real"},
-                {"uid": "2774521", "username": "James"},
-                {"uid": "1837685", "username": "shreder"},
-                {"uid": "4667696", "username": "Snyke"},
-                {"uid": "646178", "username": "Vibe"}
+                {
+                    "uid": "2834308",
+                    "username": "Kosmos"
+                },
+                {
+                    "uid": "3107656",
+                    "username": "TJackZone"
+                },
+                {
+                    "uid": "1915062",
+                    "username": "[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]"
+                },
+                {
+                    "uid": "11357",
+                    "username": "Rally the Bulls"
+                },
+                {
+                    "uid": "1571789",
+                    "username": "Stork"
+                },
+                {
+                    "uid": "4059238",
+                    "username": "Velma"
+                },
+                {
+                    "uid": "1746934",
+                    "username": "The-Fluffy-Kitty"
+                },
+                {
+                    "uid": "4336296",
+                    "username": "Simplicity!"
+                },
+                {
+                    "uid": "3372466",
+                    "username": "Tom C"
+                },
+                {
+                    "uid": "777383",
+                    "username": "~~((HACKER))~~"
+                },
+                {
+                    "uid": "3904626",
+                    "username": "Real"
+                },
+                {
+                    "uid": "2774521",
+                    "username": "James"
+                },
+                {
+                    "uid": "1837685",
+                    "username": "shreder"
+                },
+                {
+                    "uid": "4667696",
+                    "username": "Snyke"
+                },
+                {
+                    "uid": "646178",
+                    "username": "Vibe"
+                }
             ]
         },
         {
@@ -43,8 +106,14 @@
             "description": "Stuart P was banned for limitation evasion. Raymond \"Red\" Reddington was banned for mass removing thread content (all reverted).",
             "url": "",
             "users": [
-                {"uid": "2867299", "username": "Stuart P"},
-                {"uid": "3712625", "username": "Raymond \"Red\" Reddington"}
+                {
+                    "uid": "2867299",
+                    "username": "Stuart P"
+                },
+                {
+                    "uid": "3712625",
+                    "username": "Raymond \"Red\" Reddington"
+                }
             ]
         },
         {
@@ -53,8 +122,14 @@
             "description": "",
             "url": "",
             "users": [
-                {"uid": "619030", "username": "iNviZ"},
-                {"uid": "4637507", "username": "Skateboard"}
+                {
+                    "uid": "619030",
+                    "username": "iNviZ"
+                },
+                {
+                    "uid": "4637507",
+                    "username": "Skateboard"
+                }
             ]
         },
         {
@@ -62,7 +137,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {

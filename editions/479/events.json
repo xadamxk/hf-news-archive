@@ -27,7 +27,10 @@
             "description": "Delight won the July 2020 Member of the Month award.",
             "url": "https://hackforums.net/showthread.php?tid=6099428",
             "users": [
-                {"uid": "4225226", "username": "Delight"}
+                {
+                    "uid": "4225226",
+                    "username": "Delight"
+                }
             ]
         },
         {
@@ -36,15 +39,42 @@
             "description": "Orchid reached 5,000 posts; Roytoy reached 17,000 posts; Cameron reached 9,000 posts; flavoral reached 11,000 posts; Delight, Horus God, Xtreme™, Rise, and God-Zeus each surpassed 1,000 popularity (Green Apple).",
             "url": "",
             "users": [
-                {"uid": "2154389", "username": "Orchid"},
-                {"uid": "130086", "username": "Roytoy"},
-                {"uid": "1990800", "username": "Cameron"},
-                {"uid": "3459543", "username": "flavoral"},
-                {"uid": "4225226", "username": "Delight"},
-                {"uid": "547589", "username": "Horus God"},
-                {"uid": "4511430", "username": "Xtreme™"},
-                {"uid": "3145324", "username": "Rise"},
-                {"uid": "2815977", "username": "God-Zeus"}
+                {
+                    "uid": "2154389",
+                    "username": "Orchid"
+                },
+                {
+                    "uid": "130086",
+                    "username": "Roytoy"
+                },
+                {
+                    "uid": "1990800",
+                    "username": "Cameron"
+                },
+                {
+                    "uid": "3459543",
+                    "username": "flavoral"
+                },
+                {
+                    "uid": "4225226",
+                    "username": "Delight"
+                },
+                {
+                    "uid": "547589",
+                    "username": "Horus God"
+                },
+                {
+                    "uid": "4511430",
+                    "username": "Xtreme™"
+                },
+                {
+                    "uid": "3145324",
+                    "username": "Rise"
+                },
+                {
+                    "uid": "2815977",
+                    "username": "God-Zeus"
+                }
             ]
         },
         {
@@ -53,7 +83,10 @@
             "description": "Who Soup was banned (Cool down).",
             "url": "",
             "users": [
-                {"uid": "2097293", "username": "Who Soup"}
+                {
+                    "uid": "2097293",
+                    "username": "Who Soup"
+                }
             ]
         },
         {
@@ -62,9 +95,18 @@
             "description": "",
             "url": "",
             "users": [
-                {"uid": "3257834", "username": "cAkE"},
-                {"uid": "2192831", "username": "Lrrr"},
-                {"uid": "533443", "username": "KinGxKeV"}
+                {
+                    "uid": "3257834",
+                    "username": "cAkE"
+                },
+                {
+                    "uid": "2192831",
+                    "username": "Lrrr"
+                },
+                {
+                    "uid": "533443",
+                    "username": "KinGxKeV"
+                }
             ]
         },
         {
@@ -73,8 +115,14 @@
             "description": "Zee and Longdog had their accounts closed.",
             "url": "",
             "users": [
-                {"uid": "4066440", "username": "Zee"},
-                {"uid": "3500716", "username": "Longdog"}
+                {
+                    "uid": "4066440",
+                    "username": "Zee"
+                },
+                {
+                    "uid": "3500716",
+                    "username": "Longdog"
+                }
             ]
         },
         {
@@ -82,7 +130,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {

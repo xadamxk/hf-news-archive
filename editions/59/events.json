@@ -161,7 +161,13 @@
       "title": "Contributors to this edition.",
       "description": "",
       "url": "",
-      "users": []
+      "users": [
+        {
+          "uid": "0",
+          "username": "xhtmlphp™",
+          "role": "Publisher"
+        }
+      ]
     }
   ],
   "edition": {

@@ -90,13 +90,14 @@
     },
     {
       "category": "news",
-      "title": "",
+      "title": "Contributors to this edition.",
       "description": "",
       "url": "",
       "users": [
         {
-          "username": "The Elite",
-          "uid": "136025"
+          "uid": "136025",
+          "username": "www.RuneGear.net",
+          "role": "Publisher"
         }
       ]
     }

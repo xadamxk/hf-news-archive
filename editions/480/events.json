@@ -27,12 +27,30 @@
             "description": "Zeus is Owner of Nova; Vitani is Owner of OP8 and a Leader of Nova; Froggy is Leader of Panthers; Trappy is Leader of Nova; Flavoral is Leader of OP8; Bacardi Cola Lime is Leader of Dawn.",
             "url": "",
             "users": [
-                {"uid": "484743", "username": "Zeus"},
-                {"uid": "1999047", "username": "Vitani"},
-                {"uid": "1320406", "username": "Froggy"},
-                {"uid": "3323516", "username": "Trappy"},
-                {"uid": "3459543", "username": "Flavoral"},
-                {"uid": "581766", "username": "Bacardi Cola Lime"}
+                {
+                    "uid": "484743",
+                    "username": "Zeus"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy"
+                },
+                {
+                    "uid": "3323516",
+                    "username": "Trappy"
+                },
+                {
+                    "uid": "3459543",
+                    "username": "Flavoral"
+                },
+                {
+                    "uid": "581766",
+                    "username": "Bacardi Cola Lime"
+                }
             ]
         },
         {
@@ -41,19 +59,58 @@
             "description": "0xDEAD10CC reached 11,000 posts; Vitani reached 12,000 posts; Marketplace reached 1,000 posts; Maxie reached 2,000 posts; Semmenial reached 1,000 posts; Xen reached 2,000 posts; Rally the Bulls reached 3,000 posts; Shoto Todoroki reached 2,000 posts; Stork reached 8,000 posts; Kendrick reached 3,000 posts; Bacardi Cola Lime reached 7,000 posts; Geralt and Nyx surpassed 1,000 popularity (Green Apple).",
             "url": "",
             "users": [
-                {"uid": "279157", "username": "0xDEAD10CC"},
-                {"uid": "1999047", "username": "Vitani"},
-                {"uid": "3886274", "username": "Marketplace"},
-                {"uid": "186963", "username": "Maxie"},
-                {"uid": "4622646", "username": "Semmenial"},
-                {"uid": "718886", "username": "Xen"},
-                {"uid": "11357", "username": "Rally the Bulls"},
-                {"uid": "2121167", "username": "Shoto Todoroki"},
-                {"uid": "1571789", "username": "Stork"},
-                {"uid": "3587630", "username": "Kendrick"},
-                {"uid": "581766", "username": "Bacardi Cola Lime"},
-                {"uid": "2915625", "username": "Geralt"},
-                {"uid": "2872251", "username": "Nyx"}
+                {
+                    "uid": "279157",
+                    "username": "0xDEAD10CC"
+                },
+                {
+                    "uid": "1999047",
+                    "username": "Vitani"
+                },
+                {
+                    "uid": "3886274",
+                    "username": "Marketplace"
+                },
+                {
+                    "uid": "186963",
+                    "username": "Maxie"
+                },
+                {
+                    "uid": "4622646",
+                    "username": "Semmenial"
+                },
+                {
+                    "uid": "718886",
+                    "username": "Xen"
+                },
+                {
+                    "uid": "11357",
+                    "username": "Rally the Bulls"
+                },
+                {
+                    "uid": "2121167",
+                    "username": "Shoto Todoroki"
+                },
+                {
+                    "uid": "1571789",
+                    "username": "Stork"
+                },
+                {
+                    "uid": "3587630",
+                    "username": "Kendrick"
+                },
+                {
+                    "uid": "581766",
+                    "username": "Bacardi Cola Lime"
+                },
+                {
+                    "uid": "2915625",
+                    "username": "Geralt"
+                },
+                {
+                    "uid": "2872251",
+                    "username": "Nyx"
+                }
             ]
         },
         {
@@ -62,10 +119,22 @@
             "description": "Elusiive was banned for a fake contest. DaisyOdland was banned (You have better things to do). Davkul was banned (Account Under Investigation). Monati Melano was banned for failure to use a contract, threatening to leak member products, and ban evading.",
             "url": "",
             "users": [
-                {"uid": "3654285", "username": "Elusiive"},
-                {"uid": "2792019", "username": "DaisyOdland"},
-                {"uid": "3097399", "username": "Davkul"},
-                {"uid": "2233769", "username": "Monati Melano"}
+                {
+                    "uid": "3654285",
+                    "username": "Elusiive"
+                },
+                {
+                    "uid": "2792019",
+                    "username": "DaisyOdland"
+                },
+                {
+                    "uid": "3097399",
+                    "username": "Davkul"
+                },
+                {
+                    "uid": "2233769",
+                    "username": "Monati Melano"
+                }
             ]
         },
         {
@@ -73,7 +142,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Publisher"
+                }
+            ]
         }
     ],
     "edition": {
