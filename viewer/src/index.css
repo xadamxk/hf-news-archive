@@ -885,3 +885,130 @@ mark.search-hit {
     padding: 0.55rem 0.75rem;
   }
 }
+
+/* ============================================================
+ * Tab navigation — mimics the hackforums.net "shadetabs" style
+ * (theme5/tabbed.css from the 2014 Wayback snapshot)
+ * ============================================================ */
+.shadetabs {
+  padding: 1px 0;
+  margin: 0 0 0 0;
+  font: bold 12px Verdana, sans-serif;
+  list-style: none;
+  text-align: left;
+}
+
+.shadetabs ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #0F5799;
+}
+
+.shadetabs li {
+  display: inline-block;
+  margin: 0;
+  padding: 2px;
+}
+
+.shadetabs li a {
+  background-color: #072948;
+  box-shadow: 0 1px 0 0 #0F5799 inset;
+  border-radius: 6px 6px 0 0;
+  color: #efefef;
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 4px 12px;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 #000;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.shadetabs li a:hover {
+  color: #499FED;
+  background: #0F5799;
+  text-decoration: none;
+}
+
+.shadetabs li a.selected {
+  position: relative;
+  top: 1px;
+  background: #0F5799;
+  color: #499FED;
+  text-shadow: 1px 1px 0 #000;
+}
+
+.shadetabs li a.selected:hover {
+  text-decoration: none;
+}
+
+.contributors-panel {
+  margin-top: 1.25rem;
+}
+
+/* ============================================================
+ * Contributors tab — table of users by editions contributed
+ * ============================================================ */
+.contributors-table-wrap {
+  overflow-x: auto;
+  border: 1px solid #1d1d1d;
+  border-radius: 6px;
+  margin-top: 0.75rem;
+}
+
+.contributors-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.contributors-table thead th {
+  text-align: left;
+  background: #072948;
+  color: #efefef;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-bottom: 1px solid #1d1d1d;
+  text-shadow: 1px 1px 0 #000;
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.contributors-table tbody td {
+  padding: 7px 12px;
+  border-bottom: 1px solid #1d1d1d;
+  vertical-align: top;
+  background: #333;
+  color: #c3c3c3;
+}
+
+.contributors-table tbody tr:hover td {
+  background: #3d4a5c;
+}
+
+.contributors-table .col-editions {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.contributors-table tbody td.col-username {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.contributors-table tbody td.col-username a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.contributors-table tbody td.col-username a:hover {
+  color: #499FED;
+  text-decoration: underline;
+}

@@ -9,7 +9,13 @@ import {
 } from "react";
 import type { ReactNode } from "react";
 import DatePicker from "react-datepicker";
-import type { CompactEditionRow, CompactEvent, CompactUser, EventsPayload } from "./types";
+import type {
+  CompactEditionRow,
+  CompactEvent,
+  CompactUser,
+  ContributorsPayload,
+  EventsPayload,
+} from "./types";
 import { PROFILE_BASE } from "./types";
 
 type DateFilterMode = "off" | "before" | "after" | "between";
@@ -385,9 +391,89 @@ const EventCard = memo(function EventCard({
 
 type SortOrder = "newest" | "oldest";
 
+type TabKey = "events" | "contributors";
+
+function ContributorsPanel() {
+  const [data, setData] = useState<ContributorsPayload | null>(null);
+  const [err, setErr] = useState<string | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`${import.meta.env.BASE_URL}contributors.json`, { cache: "no-cache" })
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then((j: ContributorsPayload) => {
+        if (!cancelled) setData(j);
+      })
+      .catch((e: unknown) => {
+        if (!cancelled) setErr(e instanceof Error ? e.message : String(e));
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  if (err) {
+    return (
+      <div id="panel-contributors" role="tabpanel" className="contributors-panel">
+        <p className="error">Failed to load contributors: {err}</p>
+      </div>
+    );
+  }
+  if (!data) {
+    return (
+      <div id="panel-contributors" role="tabpanel" className="contributors-panel">
+        <p className="loading">Loading contributors…</p>
+      </div>
+    );
+  }
+
+  return (
+    <div id="panel-contributors" role="tabpanel" className="contributors-panel">
+      <p className="meta" style={{ marginTop: 0 }}>
+        {data.n} contributors across HF News editions, sorted by editions
+        contributed to.
+      </p>
+      <div className="contributors-table-wrap">
+        <table className="contributors-table">
+          <thead>
+            <tr>
+              <th scope="col" className="col-editions">Contributed Editions</th>
+              <th scope="col" className="col-username">Username</th>
+              <th scope="col" className="col-roles">Roles</th>
+            </tr>
+          </thead>
+          <tbody>
+            {data.c.map((row) => (
+              <tr key={row.i}>
+                <td className="col-editions">{row.e}</td>
+                <td className="col-username">
+                  <a
+                    href={`${PROFILE_BASE}${encodeURIComponent(row.i)}`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {row.u}
+                  </a>
+                </td>
+                <td className="col-roles">
+                  {(row.r ?? []).join(", ")}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+
 export default function App() {
   const [raw, setRaw] = useState<EventsPayload | null>(null);
   const [err, setErr] = useState<string | null>(null);
+  const [activeTab, setActiveTab] = useState<TabKey>("events");
   const [q, setQ] = useState("");
   const [selectedCats, setSelectedCats] = useState<Set<string>>(() => new Set());
   const [catMenuOpen, setCatMenuOpen] = useState(false);
@@ -615,6 +701,34 @@ export default function App() {
           ) : null}
         </p>
       </header>
+
+      <nav className="shadetabs" aria-label="Primary">
+        <ul role="tablist">
+          {([
+            { key: "events", label: "Events" },
+            { key: "contributors", label: "Contributors" },
+          ] as const).map((tab) => (
+            <li key={tab.key}>
+              <a
+                href={`#${tab.key}`}
+                role="tab"
+                aria-selected={activeTab === tab.key}
+                aria-controls={`panel-${tab.key}`}
+                className={activeTab === tab.key ? "selected" : ""}
+                onClick={(e) => {
+                  e.preventDefault();
+                  setActiveTab(tab.key);
+                }}
+              >
+                {tab.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      {activeTab === "events" ? (
+        <div id="panel-events" role="tabpanel" aria-labelledby="tab-events">
 
       <section className="toolbar" aria-label="Search and filters">
         <div className="filter-grid">
@@ -902,6 +1016,10 @@ export default function App() {
           }
         />
       ) : null}
+        </div>
+      ) : (
+        <ContributorsPanel />
+      )}
 
       <footer className="site-footer">
         <p className="meta">

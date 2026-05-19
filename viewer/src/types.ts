@@ -28,3 +28,18 @@ export type EventsPayload = {
 
 export const PROFILE_BASE =
   "https://hackforums.net/member.php?action=profile&uid=";
+
+/** Row from public/contributors.json (one per uid). */
+export type ContributorRow = {
+  i: string;
+  u: string;
+  e: number;
+  r?: string[];
+  f: number;
+  l: number;
+};
+
+export type ContributorsPayload = {
+  n: number;
+  c: ContributorRow[];
+};
