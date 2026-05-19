@@ -197,7 +197,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1999047",
+                    "username": "Vitani",
+                    "role": "Journalist (Headlines)"
+                }
+            ]
         }
     ],
     "edition": {

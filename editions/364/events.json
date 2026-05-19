@@ -233,7 +233,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1320406",
+                    "username": "Froggy",
+                    "role": "Journalist (Headlines / Group News / User News / Notable Threads)"
+                }
+            ]
         }
     ],
     "edition": {

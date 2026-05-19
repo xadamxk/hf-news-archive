@@ -273,7 +273,18 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "692131",
+                    "username": "Tsundere",
+                    "role": "Journalist (Headlines / Group News / Notable Threads / Interview)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                }
+            ]
         }
     ],
     "edition": {

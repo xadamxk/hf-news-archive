@@ -115,7 +115,18 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas",
+                    "role": "Journalist (User News / World News)"
+                }
+            ]
         }
     ],
     "edition": {

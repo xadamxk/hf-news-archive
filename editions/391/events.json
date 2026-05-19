@@ -129,7 +129,28 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "662802",
+                    "username": "ryan⚜",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "3444267",
+                    "username": "Cylow",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "3725052",
+                    "username": "Biggy",
+                    "role": "Journalist (Notable Threads)"
+                }
+            ]
         }
     ],
     "edition": {

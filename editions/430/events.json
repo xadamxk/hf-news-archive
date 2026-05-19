@@ -62,7 +62,13 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                }
+            ]
         }
     ],
     "edition": {

@@ -204,7 +204,18 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "3322334",
+                    "username": "Aerodactyl",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "1320406",
+                    "username": "Froggy",
+                    "role": "Journalist (User News / Group News / Notable Threads / Site News)"
+                }
+            ]
         }
     ],
     "edition": {

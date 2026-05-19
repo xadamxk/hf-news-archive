@@ -129,7 +129,23 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "561239",
+                    "username": "iHydra",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3444267",
+                    "username": "Cylow",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas",
+                    "role": "Journalist (User News)"
+                }
+            ]
         }
     ],
     "edition": {

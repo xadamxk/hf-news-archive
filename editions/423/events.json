@@ -21,7 +21,23 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas",
+                    "role": "Journalist (Group News / User News)"
+                },
+                {
+                    "uid": "1651695",
+                    "username": "☃BowmanBot☃",
+                    "role": "Journalist (Notable Threads)"
+                }
+            ]
         }
     ],
     "edition": {

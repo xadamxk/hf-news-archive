@@ -48,7 +48,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "4001967",
+                    "username": "Elysium",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "816875",
+                    "username": "Boxxy",
+                    "role": "Journalist (User News)"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Notable Threads)"
+                }
+            ]
         }
     ],
     "edition": {

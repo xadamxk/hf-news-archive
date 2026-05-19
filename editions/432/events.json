@@ -36,7 +36,33 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "777383",
+                    "username": "~~((Hacker))~~",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3176965",
+                    "username": "Soulmatе",
+                    "role": "Journalist (Site News)"
+                },
+                {
+                    "uid": "4001967",
+                    "username": "Elysium",
+                    "role": "Journalist (Group News)"
+                },
+                {
+                    "uid": "1651695",
+                    "username": "☃BowmanBot☃",
+                    "role": "Journalist (Notable Threads)"
+                },
+                {
+                    "uid": "1034038",
+                    "username": "Lukas",
+                    "role": "Journalist (Science News)"
+                }
+            ]
         }
     ],
     "edition": {

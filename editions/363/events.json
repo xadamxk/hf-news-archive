@@ -169,7 +169,18 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "1320406",
+                    "username": "Froggy",
+                    "role": "Journalist (Headlines / Group News / Notable Threads)"
+                },
+                {
+                    "uid": "525019",
+                    "username": "illuminati▲",
+                    "role": "Journalist (User News)"
+                }
+            ]
         }
     ],
     "edition": {

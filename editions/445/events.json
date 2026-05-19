@@ -173,7 +173,23 @@
             "title": "Contributors to this edition.",
             "description": "",
             "url": "",
-            "users": []
+            "users": [
+                {
+                    "uid": "900087",
+                    "username": "Sir",
+                    "role": "Journalist"
+                },
+                {
+                    "uid": "2890436",
+                    "username": "Pikachu",
+                    "role": "Journalist"
+                },
+                {
+                    "uid": "4219906",
+                    "username": "duplex",
+                    "role": "Journalist"
+                }
+            ]
         }
     ],
     "edition": {
