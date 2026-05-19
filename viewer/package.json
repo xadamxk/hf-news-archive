@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "data": "bun run scripts/aggregate.ts",
+    "data": "bun run scripts/aggregate.ts && bun run scripts/aggregate-contributors.ts",
     "dev": "vite",
     "prebuild": "bun run data",
     "build": "vite build",
