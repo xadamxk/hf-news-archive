@@ -143,8 +143,8 @@ The published stats format changed several times across the archive:
 | 540 – 541 | Plain-text "Total" / "Average" sections (same field names, no `[list][*]` wrapper) | One-off parser; values are cumulative totals, written directly |
 | 542 | Daily-deltas text — anchored by `Total new posts` / `…threads` / `…members` | One-off parser; **chains weekly delta onto ed 541's cumulative** |
 | 543 | Daily-deltas as a BBCode `[table]` with 7 rows | One-off parser; sums the rows, **chains onto ed 542** |
-| 544 – 554 | Daily-deltas as **screenshot images** (imgur / gyazo / imgbb) — same 7×3 grid format, just rasterized | Numbers were **manually transcribed** while viewing each image, then chained onto the previous edition's cumulative totals |
-| 555 – 585 | **No stats section in the source post at all** | No `stats.json` file written; coverage genuinely ends at ed 554 |
+| 544 – 554 | Daily-deltas as **screenshot images** under the `statistics-header.png` banner (imgur / gyazo / imgbb) — same 7×3 grid format, just rasterized | Numbers were **manually transcribed** while viewing each image, then chained onto the previous edition's cumulative totals |
+| 555 – 585 | Daily-deltas as **screenshot images** under the new `statistics-magenta.png` banner (all gyazo); each edition shows a "this week" + "last week" pair | Same as 544–554: transcribed by viewing each "this week" image, chained off ed 554. Ed 558 published 8 daily rows (one more than the usual 7) — daily averages divide by actual row count |
 
 ## Coverage summary
 
@@ -153,7 +153,7 @@ Snapshot of how many editions carry stats (refresh by running
 
 | Section | Editions with it | Earliest | Latest |
 |---|---|---|---|
-| Site Statistics | 292 | 207 | 554 |
+| Site Statistics | 323 | 207 | 585 |
 | Ban Statistics | 210 | 207 | 511 |
 | Forum Counts | 274 | 207 | 511 |
 | All three together | 204 | 207 | 511 |
@@ -161,16 +161,17 @@ Snapshot of how many editions carry stats (refresh by running
 The densest cross-edition window is **207 – 399** — most editions in that
 range carry all three sections. Coverage degrades in editions 400+ as
 sections were dropped or moved out of the formatted block; the blog era
-(442 – 508) only sporadically restored them. Editions 540 – 554 carry only
-the site-statistics block (no ban or forum data). Editions 555+ carry no
-stats at all.
+(442 – 508) only sporadically restored them. Editions 540 – 585 carry only
+the site-statistics block (no ban or forum data); editions 555 – 585
+specifically come from screenshot transcription rather than text parsing.
 
-### Delta-chain derivation (editions 542 – 554)
+### Delta-chain derivation (editions 542 – 585)
 
 For editions 542 onward the published values are **weekly deltas** rather
 than cumulative totals. Each edition's `total_*` is computed by adding its
 weekly `new_posts` / `new_threads` / `new_members` to the previous edition's
-cumulative `total_*`. `daily_*` fields are computed as `weekly_total / 7`,
+cumulative `total_*`. `daily_*` fields are computed as
+`weekly_total / row_count` (almost always 7, but ed 558 published 8 rows),
 so they represent that week's daily average rather than a forum-lifetime
 average (which is what they meant for editions ≤541). Keep that in mind
 when comparing daily-average lines across the format-shift boundary.
