@@ -15,8 +15,19 @@ import type {
   CompactUser,
   ContributorsPayload,
   EventsPayload,
+  StatsPayload,
+  StatsRow,
 } from "./types";
 import { PROFILE_BASE } from "./types";
+import {
+  CartesianGrid,
+  Line,
+  LineChart,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
 
 type DateFilterMode = "off" | "before" | "after" | "between";
 
@@ -391,7 +402,276 @@ const EventCard = memo(function EventCard({
 
 type SortOrder = "newest" | "oldest";
 
-type TabKey = "events" | "contributors";
+type TabKey = "events" | "contributors" | "stats";
+
+/** Configuration for each chart in the small-multiples grid. */
+type SiteStatChart = {
+  key: keyof Pick<StatsRow, "tp" | "tt" | "tm" | "dp" | "dt" | "dm">;
+  label: string;
+  /** Stroke color for the line (HF blue palette where possible). */
+  color: string;
+};
+
+const SITE_TOTAL_CHARTS: SiteStatChart[] = [
+  { key: "tp", label: "Total Posts", color: "#499FED" },
+  { key: "tt", label: "Total Threads", color: "#32CD32" },
+  { key: "tm", label: "Total Members", color: "#FFD700" },
+];
+
+const SITE_DAILY_CHARTS: SiteStatChart[] = [
+  { key: "dp", label: "Daily Posts", color: "#499FED" },
+  { key: "dt", label: "Daily Threads", color: "#32CD32" },
+  { key: "dm", label: "Daily New Members", color: "#FFD700" },
+];
+
+/** Format big numbers compactly for the chart Y axis (45M, 13K, etc.). */
+function compactNumber(n: number): string {
+  if (n == null || !Number.isFinite(n)) return "";
+  const abs = Math.abs(n);
+  if (abs >= 1_000_000) return `${(n / 1_000_000).toFixed(1)}M`;
+  if (abs >= 1_000) return `${(n / 1_000).toFixed(1)}K`;
+  return Number.isInteger(n) ? String(n) : n.toFixed(2);
+}
+
+/** Format a value in tooltips with thousands separators. */
+function fullNumber(n: number): string {
+  if (n == null || !Number.isFinite(n)) return "";
+  return Number.isInteger(n)
+    ? n.toLocaleString()
+    : n.toLocaleString(undefined, { maximumFractionDigits: 2 });
+}
+
+/** Short X-axis tick: "Jan '17" — keeps room for many editions horizontally. */
+function shortMonthYear(ms: number): string {
+  if (!Number.isFinite(ms)) return "";
+  const d = new Date(ms);
+  const mon = d.toLocaleDateString(undefined, { month: "short" });
+  const yr = String(d.getFullYear()).slice(-2);
+  return `${mon} '${yr}`;
+}
+
+/** Full date for tooltips: "Aug 22, 2017". */
+function fullDate(ms: number): string {
+  if (!Number.isFinite(ms)) return "";
+  return new Date(ms).toLocaleDateString(undefined, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
+}
+
+function StatChartCard({
+  config,
+  data,
+}: {
+  config: SiteStatChart;
+  data: Array<StatsRow & { e: number; dateMs?: number }>;
+}) {
+  // Build the series — drop any editions where this metric or the dateMs is missing.
+  const series = data.filter(
+    (r) => r[config.key] != null && r.dateMs != null,
+  );
+
+  return (
+    <div className="stat-chart-card">
+      <h3 className="stat-chart-title">{config.label}</h3>
+      <div className="stat-chart-figure">
+        <ResponsiveContainer width="100%" height={320}>
+          <LineChart
+            data={series}
+            margin={{ top: 4, right: 16, bottom: 4, left: 4 }}
+          >
+            <CartesianGrid stroke="#1d1d1d" strokeDasharray="3 3" />
+            <XAxis
+              dataKey="dateMs"
+              type="number"
+              scale="time"
+              domain={["dataMin", "dataMax"]}
+              tick={{ fill: "#c3c3c3", fontSize: 11 }}
+              stroke="#1d1d1d"
+              tickFormatter={shortMonthYear}
+            />
+            <YAxis
+              tick={{ fill: "#c3c3c3", fontSize: 11 }}
+              stroke="#1d1d1d"
+              tickFormatter={compactNumber}
+              width={56}
+            />
+            <Tooltip
+              contentStyle={{
+                background: "#333",
+                border: "1px solid #1d1d1d",
+                color: "#efefef",
+                fontSize: 13,
+              }}
+              labelStyle={{ color: "#499FED", fontWeight: 600 }}
+              labelFormatter={(_v, payload) => {
+                const p = Array.isArray(payload) && payload.length > 0
+                  ? (payload[0].payload as StatsRow & { dateMs?: number })
+                  : null;
+                if (!p) return "";
+                const e = p.e;
+                const ms = p.dateMs;
+                return `Edition ${e}${ms != null ? ` — ${fullDate(ms)}` : ""}`;
+              }}
+              formatter={(value: number) => [fullNumber(value), config.label]}
+            />
+            <Line
+              type="monotone"
+              dataKey={config.key}
+              stroke={config.color}
+              strokeWidth={2}
+              dot={false}
+              activeDot={{ r: 4 }}
+              isAnimationActive={false}
+            />
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
+    </div>
+  );
+}
+
+function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
+  const [data, setData] = useState<StatsPayload | null>(null);
+  const [err, setErr] = useState<string | null>(null);
+  const [minEdition, setMinEdition] = useState<string>("");
+  const [maxEdition, setMaxEdition] = useState<string>("");
+
+  /** Map edition number → unix-ms timestamp for the chart X axis. */
+  const editionDateMs = useMemo(() => {
+    const m = new Map<number, number>();
+    for (const ed of editions) {
+      if (typeof ed.e === "number" && typeof ed.s === "number") {
+        m.set(ed.e, ed.s * 1000);
+      }
+    }
+    return m;
+  }, [editions]);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`${import.meta.env.BASE_URL}stats.json`, { cache: "no-cache" })
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then((j: StatsPayload) => {
+        if (!cancelled) setData(j);
+      })
+      .catch((e: unknown) => {
+        if (!cancelled) setErr(e instanceof Error ? e.message : String(e));
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const dataRange = useMemo(() => {
+    if (!data || data.s.length === 0) return { min: 0, max: 0 };
+    const nums = data.s.map((r) => r.e);
+    return { min: Math.min(...nums), max: Math.max(...nums) };
+  }, [data]);
+
+  /** Filter by edition range AND attach the dateMs lookup so charts can plot
+   *  by date while tooltips still surface the edition number. */
+  const filteredRows = useMemo(() => {
+    if (!data) return [];
+    const minN = minEdition === "" ? -Infinity : Number(minEdition);
+    const maxN = maxEdition === "" ? Infinity : Number(maxEdition);
+    return data.s
+      .filter((r) => r.e >= minN && r.e <= maxN)
+      .map((r) => ({ ...r, dateMs: editionDateMs.get(r.e) }));
+  }, [data, minEdition, maxEdition, editionDateMs]);
+
+  if (err) {
+    return (
+      <div id="panel-stats" role="tabpanel" className="stats-panel">
+        <p className="error">Failed to load stats: {err}</p>
+      </div>
+    );
+  }
+  if (!data) {
+    return (
+      <div id="panel-stats" role="tabpanel" className="stats-panel">
+        <p className="loading">Loading statistics…</p>
+      </div>
+    );
+  }
+
+  return (
+    <div id="panel-stats" role="tabpanel" className="stats-panel">
+      <p className="meta" style={{ marginTop: 0 }}>
+        {data.n} editions with stats captured (editions {dataRange.min} –
+        {" "}{dataRange.max}). Filter the range below; charts redraw
+        automatically.
+      </p>
+
+      <div className="stats-filter">
+        <label className="stats-filter-cell">
+          <span className="filter-heading">From edition</span>
+          <input
+            type="number"
+            inputMode="numeric"
+            className="filter-input"
+            placeholder={String(dataRange.min)}
+            value={minEdition}
+            onChange={(e) => setMinEdition(e.target.value)}
+            min={dataRange.min}
+            max={dataRange.max}
+          />
+        </label>
+        <label className="stats-filter-cell">
+          <span className="filter-heading">To edition</span>
+          <input
+            type="number"
+            inputMode="numeric"
+            className="filter-input"
+            placeholder={String(dataRange.max)}
+            value={maxEdition}
+            onChange={(e) => setMaxEdition(e.target.value)}
+            min={dataRange.min}
+            max={dataRange.max}
+          />
+        </label>
+        {(minEdition || maxEdition) && (
+          <button
+            type="button"
+            className="stats-filter-reset"
+            onClick={() => {
+              setMinEdition("");
+              setMaxEdition("");
+            }}
+          >
+            Reset
+          </button>
+        )}
+        <span className="stats-filter-count">
+          {filteredRows.length} edition{filteredRows.length === 1 ? "" : "s"}{" "}
+          in range
+        </span>
+      </div>
+
+      <section className="stats-section">
+        <h2 className="stats-section-title">Site Statistics — Cumulative Totals</h2>
+        <div className="stat-chart-grid">
+          {SITE_TOTAL_CHARTS.map((c) => (
+            <StatChartCard key={c.key} config={c} data={filteredRows} />
+          ))}
+        </div>
+      </section>
+
+      <section className="stats-section">
+        <h2 className="stats-section-title">Site Statistics — Daily Averages</h2>
+        <div className="stat-chart-grid">
+          {SITE_DAILY_CHARTS.map((c) => (
+            <StatChartCard key={c.key} config={c} data={filteredRows} />
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
 
 function ContributorsPanel() {
   const [data, setData] = useState<ContributorsPayload | null>(null);
@@ -707,6 +987,7 @@ export default function App() {
           {([
             { key: "events", label: "Events" },
             { key: "contributors", label: "Contributors" },
+            { key: "stats", label: "Statistics" },
           ] as const).map((tab) => (
             <li key={tab.key}>
               <a
@@ -1017,8 +1298,10 @@ export default function App() {
         />
       ) : null}
         </div>
-      ) : (
+      ) : activeTab === "contributors" ? (
         <ContributorsPanel />
+      ) : (
+        <StatisticsPanel editions={raw.ed} />
       )}
 
       <footer className="site-footer">
