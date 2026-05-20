@@ -170,11 +170,23 @@ specifically come from screenshot transcription rather than text parsing.
 For editions 542 onward the published values are **weekly deltas** rather
 than cumulative totals. Each edition's `total_*` is computed by adding its
 weekly `new_posts` / `new_threads` / `new_members` to the previous edition's
-cumulative `total_*`. `daily_*` fields are computed as
-`weekly_total / row_count` (almost always 7, but ed 558 published 8 rows),
-so they represent that week's daily average rather than a forum-lifetime
-average (which is what they meant for editions ≤541). Keep that in mind
-when comparing daily-average lines across the format-shift boundary.
+cumulative `total_*`.
+
+The `daily_*` fields for these editions are filled in **two parallel ways**
+to keep the Statistics-tab chart continuous while preserving the original
+recent-rate signal:
+
+| Field | Meaning | How it's computed for 542+ |
+|---|---|---|
+| `daily_posts` / `daily_threads` / `daily_new_members` | Forum-lifetime running average — same semantic the journalist published for editions ≤541 | `total_* / days_since_launch`, using a launch anchor of **2007-04-22 16:38:36.117 UTC** (epoch ms `1177259916117`) — back-derived from ed 541's published values; cross-checked against ed 540. To re-derive: `launch_ms = ed541.publish_ms − (ed541.total_posts / ed541.daily_posts) × 86400000` |
+| `recent_daily_posts` / `recent_daily_threads` / `recent_daily_new_members` | This-week's actual daily rate | `weekly_total / row_count` (almost always 7; ed 558 published 8 rows so its denominator is 8) |
+
+The minified `viewer/public/stats.json` exposes the recent-rate values under
+the short keys `rdp` / `rdt` / `rdm`, present only on rows that have them.
+
+The chart line in the Statistics tab uses `daily_*` (lifetime average) so
+it stays continuous across the format-shift boundary at ed 541 → 542. The
+recent-rate values are available as a parallel series for a future toggle.
 
 ## Known gotchas and data-quality issues
 
@@ -221,23 +233,181 @@ parser took the first number (`828`) as `combined_bans`, which matches the
 semantic. No correction applied — flagged here only so the layout doesn't
 surprise anyone reading the source BBCode.
 
-## Editing per-edition data
+## Adding stats for a new edition
 
-The source-of-truth for stats is `editions/<N>/stats.json`. Hand-edit those
-files when:
-- Adding stats for a newly-archived edition (write the file by following the
-  example above; omit any sections the edition didn't publish).
-- Fixing a number that's wrong (the bootstrap auto-corrections are not
-  exhaustive — if you spot another anomaly, edit the file directly).
+The current archive runs through ed 585. New editions arrive periodically
+and follow the same screenshot-image format that ed 555 – 585 use. This
+section is the self-contained workflow.
 
-After editing, re-run the aggregator:
+### Prerequisites
+
+- `editions/<N>/posts.json` exists for the new edition (fetch via
+  `node scripts/fetch_posts.js --start <N> --end <N> --token <HF_API_TOKEN>`;
+  see `CLAUDE.md` for details).
+- `editions/<N>/events.json` exists (per the standard authoring flow).
+
+### Step 1 — locate the stats section
+
+Open `editions/<N>/posts.json` and concatenate every post's `message`.
+Search for a banner image hosted at
+`hackforums.net/images/hfnews/statistics-*.png` — the suffix has changed
+across eras (`statistics-header.png`, `statistics-magenta.png`, possibly a
+future color). **Any banner whose filename starts with `statistics-`
+under `hfnews/` counts.** If no such banner exists in any post, the edition
+has no stats — don't write `stats.json`.
+
+### Step 2 — find the "this week" image
+
+Right after the banner, the post normally contains **two `[img]` tags**:
+
+1. **This week's** Forum Activity Stats screenshot — the one you'll
+   transcribe.
+2. **Last week's** screenshot — a duplicate reference to the prior
+   edition's image, which you've already processed. Ignore it.
+
+Take the FIRST `[img]` URL after the banner. Edge cases:
+
+- If the post has only one stats image, that's "this week" (the journalist
+  occasionally omits the last-week reference).
+- If the post has three or more images, inspect them — usually the first is
+  still the right one, but a header GIF or banner image can appear before
+  the data table. Skip any image whose URL points at
+  `hackforums.net/images/hfnews/` or that's an obvious header/divider.
+- Image hosts seen so far: `i.imgur.com`, `i.gyazo.com`, `i.ibb.co`.
+  A future edition might use a new host — that's fine, the rule is "first
+  off-site image after the stats banner."
+
+### Step 3 — view and transcribe
+
+Download the image to `%TEMP%`:
+
+```powershell
+$ua = "Mozilla/5.0"
+Invoke-WebRequest -UserAgent $ua -Uri "<url>" -OutFile "$env:TEMP\hfnews_edN.png"
+```
+
+View it with the Read tool (Claude Code) or any image viewer. The image
+contains a "Forum Activity Stats (Last 7 Days)" table with columns
+**Date / Posts / Threads / Members**.
+
+Transcribe every row into a `[posts, threads, members]` tuple. **Use the
+actual row count** — most editions show 7 rows, but ed 558 published 8
+and future editions may vary. Don't hard-code 7.
+
+### Step 4 — compute the values
+
+Given the previous edition's cumulative totals from
+`editions/<N-1>/stats.json` (skip backwards if N-1 has no stats.json):
+
+```text
+weekly_posts   = Σ row[i][0] for i in rows
+weekly_threads = Σ row[i][1]
+weekly_members = Σ row[i][2]
+
+total_posts(N)   = total_posts(N-1)   + weekly_posts
+total_threads(N) = total_threads(N-1) + weekly_threads
+total_members(N) = total_members(N-1) + weekly_members
+```
+
+For the **lifetime daily averages** that the Statistics-tab chart plots,
+read the edition's publish timestamp from `viewer/public/events.json`
+(`ed.find(r => r.e === N).s * 1000` gives epoch ms) and compute:
+
+```text
+LAUNCH_MS = 1177259916117            # 2007-04-22T16:38:36.117Z, anchored to ed 541
+
+days_since_launch = (edition_ms − LAUNCH_MS) / 86400000
+
+daily_posts        = round2(total_posts   / days_since_launch)
+daily_threads      = round2(total_threads / days_since_launch)
+daily_new_members  = round2(total_members / days_since_launch)
+```
+
+For the **recent-week rate** (preserved in parallel fields, used by future
+toggles):
+
+```text
+n = rows.length
+
+recent_daily_posts        = round2(weekly_posts   / n)
+recent_daily_threads      = round2(weekly_threads / n)
+recent_daily_new_members  = round2(weekly_members / n)
+```
+
+### Step 5 — write the per-edition stats.json
+
+Write `editions/<N>/stats.json` using exactly this shape (editions 542+
+carry only `site_statistics`, no ban or forum blocks):
+
+```json
+{
+  "edition": <N>,
+  "site_statistics": {
+    "total_posts": ...,
+    "total_threads": ...,
+    "total_members": ...,
+    "daily_posts": ...,
+    "daily_threads": ...,
+    "daily_new_members": ...,
+    "recent_daily_posts": ...,
+    "recent_daily_threads": ...,
+    "recent_daily_new_members": ...
+  }
+}
+```
+
+Use 2-space indentation and a trailing newline (matches the rest of the
+archive's per-edition stats files).
+
+### Step 6 — regenerate the viewer payload
 
 ```bash
 bun run --cwd viewer data
 ```
 
-That re-runs all three aggregators (events, contributors, stats) and
-regenerates `viewer/public/stats.json`.
+This re-runs all three aggregators (events, contributors, stats) and
+rewrites `viewer/public/stats.json` to include the new edition.
+
+### Step 7 — sanity-check the new row
+
+Run a neighbor-comparison to catch transcription typos:
+
+```bash
+node -e "
+const d=require('./viewer/public/stats.json');
+for (const e of [N-2, N-1, N, N+1]) {
+  const r = d.s.find(x => x.e === e);
+  if (r) console.log('ed', e, 'tp:', r.tp, 'tt:', r.tt, 'tm:', r.tm, 'dp:', r.dp, 'rdp:', r.rdp);
+}
+"
+```
+
+(replace `N` with the new edition number). Verify:
+
+- `tp` / `tt` / `tm` increase monotonically from the prior edition.
+- `dp` is within a few % of the prior edition (lifetime average drifts slowly).
+- `rdp` looks plausible for the era (currently ~400–700 for 2025–2026
+  forum activity; spike to ~1,000+ would warrant a recheck of the
+  transcribed numbers).
+
+If a value looks wildly off (e.g. 10× a neighbor), the most likely cause
+is a transcription typo or a dropped/extra digit in one of the daily
+rows. Open the per-edition `stats.json`, fix the totals, re-run
+`bun run --cwd viewer data`.
+
+### Refresh coverage numbers (optional)
+
+The [Coverage summary](#coverage-summary) table is a snapshot. Update it
+by running `node scripts/detect_stats_coverage.js` and copying the new
+headline counts.
+
+## Editing existing data
+
+The source-of-truth for stats is `editions/<N>/stats.json`. Hand-edit those
+files when fixing a number that's wrong (the bootstrap auto-corrections
+documented in [Known gotchas](#known-gotchas-and-data-quality-issues) are
+not exhaustive — if you spot another anomaly, edit the file directly).
+After editing, re-run `bun run --cwd viewer data`.
 
 `scripts/detect_stats_coverage.js` is a read-only diagnostic that prints
 per-edition `site/ban/forum` coverage to stdout — useful for refreshing
