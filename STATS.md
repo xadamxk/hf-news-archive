@@ -134,29 +134,46 @@ Tab names outside this set (private-group names like `Red Lions`, `Echo`,
 
 ## Source format coverage
 
-| Source file | Editions | Stats coverage notes |
+The published stats format changed several times across the archive:
+
+| Editions | Format in `posts.json` / `blogs.json` | How stats.json gets populated |
 |---|---|---|
-| `posts.json` (forum thread) | 1 – 441, 509 – 585 | Stats are most reliable in the **207 – 399** window; sparse outside it |
-| `blogs.json` (member blog) | 442 – 508 | Most blog-era editions lack the formatted stats sections; a handful (489 – 495, 499 – 503, 505 – 509) restored them |
+| 1 – 441, 509 – 539 | "Site Statistics" / "Ban Statistics" / "Forum Counts" headings, BBCode `[list][*]` totals | Original bootstrap (BBCode parser, now retired) |
+| 442 – 508 | `blogs.json` — mostly no stats; a handful (489–495, 499–503, 505–509) restored the structured block | Same as above, applied to `blogs.message` |
+| 540 – 541 | Plain-text "Total" / "Average" sections (same field names, no `[list][*]` wrapper) | One-off parser; values are cumulative totals, written directly |
+| 542 | Daily-deltas text — anchored by `Total new posts` / `…threads` / `…members` | One-off parser; **chains weekly delta onto ed 541's cumulative** |
+| 543 | Daily-deltas as a BBCode `[table]` with 7 rows | One-off parser; sums the rows, **chains onto ed 542** |
+| 544 – 554 | Daily-deltas as **screenshot images** (imgur / gyazo / imgbb) — same 7×3 grid format, just rasterized | Numbers were **manually transcribed** while viewing each image, then chained onto the previous edition's cumulative totals |
+| 555 – 585 | **No stats section in the source post at all** | No `stats.json` file written; coverage genuinely ends at ed 554 |
 
 ## Coverage summary
 
-Snapshot of how many editions carry each section (out of 569 scanned at the
-time of writing). Re-run `node scripts/detect_stats_coverage.js` to refresh
-these numbers after adding editions.
+Snapshot of how many editions carry stats (refresh by running
+`node scripts/detect_stats_coverage.js` after adding editions).
 
 | Section | Editions with it | Earliest | Latest |
 |---|---|---|---|
-| Site Statistics | 277 (48.7%) | 207 | 539 |
-| Ban Statistics | 210 (36.9%) | 207 | 511 |
-| Forum Counts | 274 (48.2%) | 207 | 511 |
-| All three together | 204 (35.9%) | 207 | 511 |
-| None | 286 (50.3%) | — | — |
+| Site Statistics | 292 | 207 | 554 |
+| Ban Statistics | 210 | 207 | 511 |
+| Forum Counts | 274 | 207 | 511 |
+| All three together | 204 | 207 | 511 |
 
 The densest cross-edition window is **207 – 399** — most editions in that
 range carry all three sections. Coverage degrades in editions 400+ as
 sections were dropped or moved out of the formatted block; the blog era
-(442 – 508) only sporadically restored them.
+(442 – 508) only sporadically restored them. Editions 540 – 554 carry only
+the site-statistics block (no ban or forum data). Editions 555+ carry no
+stats at all.
+
+### Delta-chain derivation (editions 542 – 554)
+
+For editions 542 onward the published values are **weekly deltas** rather
+than cumulative totals. Each edition's `total_*` is computed by adding its
+weekly `new_posts` / `new_threads` / `new_members` to the previous edition's
+cumulative `total_*`. `daily_*` fields are computed as `weekly_total / 7`,
+so they represent that week's daily average rather than a forum-lifetime
+average (which is what they meant for editions ≤541). Keep that in mind
+when comparing daily-average lines across the format-shift boundary.
 
 ## Known gotchas and data-quality issues
 
