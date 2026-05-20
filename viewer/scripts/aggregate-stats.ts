@@ -19,9 +19,14 @@
  *         "tp": <number>,       // tp = total posts
  *         "tt": <number>,       // tt = total threads
  *         "tm": <number>,       // tm = total members
- *         "dp": <number>,       // dp = daily posts (average)
- *         "dt": <number>,       // dt = daily threads (average)
- *         "dm": <number>,       // dm = daily new members (average)
+ *         "dp": <number>,       // dp = daily posts (forum-lifetime running average)
+ *         "dt": <number>,       // dt = daily threads (forum-lifetime running average)
+ *         "dm": <number>,       // dm = daily new members (forum-lifetime running average)
+ *         // Recent-week rate (only set for editions 542+ where source publishes
+ *         // weekly deltas; computed as weekly_total / row_count). Omitted otherwise.
+ *         "rdp": <number>,      // rdp = recent daily posts (this-week rate)
+ *         "rdt": <number>,      // rdt = recent daily threads (this-week rate)
+ *         "rdm": <number>,      // rdm = recent daily new members (this-week rate)
  *         // Ban stats (omitted when absent)
  *         "bs":  <number>,      // bs  = staff bans, last week
  *         "bv":  <number>,      // bv  = vacation bans, last week
@@ -73,6 +78,9 @@ type EditionStats = {
     daily_posts?: number;
     daily_threads?: number;
     daily_new_members?: number;
+    recent_daily_posts?: number;
+    recent_daily_threads?: number;
+    recent_daily_new_members?: number;
   };
   ban_statistics?: {
     last_week?: {
@@ -122,6 +130,9 @@ function toCompact(name: string, doc: EditionStats): CompactRow | null {
   if (site.daily_posts != null) out.dp = site.daily_posts;
   if (site.daily_threads != null) out.dt = site.daily_threads;
   if (site.daily_new_members != null) out.dm = site.daily_new_members;
+  if (site.recent_daily_posts != null) out.rdp = site.recent_daily_posts;
+  if (site.recent_daily_threads != null) out.rdt = site.recent_daily_threads;
+  if (site.recent_daily_new_members != null) out.rdm = site.recent_daily_new_members;
 
   const lw = doc.ban_statistics?.last_week ?? {};
   if (lw.staff_bans != null) out.bs = lw.staff_bans;

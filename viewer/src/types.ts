@@ -54,6 +54,10 @@ export type StatsRow = {
   dp?: number;
   dt?: number;
   dm?: number;
+  // Recent-week rate (editions 542+ only)
+  rdp?: number;
+  rdt?: number;
+  rdm?: number;
   // Ban stats — last week
   bs?: number;
   bv?: number;
