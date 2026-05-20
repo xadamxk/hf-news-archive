@@ -9,8 +9,9 @@ Archive of every Hack Forums News edition. Each edition lives in `editions/<N>/`
 - `posts.json` — raw thread posts fetched from the HF API (forum-thread editions)
 - `blogs.json` — raw blog payload (member-blog editions, e.g. 442–508)
 - `events.json` — curated structured summary derived from the raw source
+- `stats.json` — human-readable per-edition Site/Ban/Forum statistics snapshot (only present for editions that published stats; see `STATS.md`)
 
-The `viewer/` app aggregates every `events.json` into a single compact bundle and renders a browsable static site.
+The `viewer/` app aggregates every `events.json` and `stats.json` into compact bundles and renders a browsable static site.
 
 ## Common commands
 
@@ -31,7 +32,7 @@ bun run dev     # local Vite dev server
 bun run build   # static build to viewer/dist/ (prebuild auto-runs `data`)
 ```
 
-`bun run data` runs `viewer/scripts/aggregate-events.ts` (writes `viewer/public/events.json`) and `viewer/scripts/aggregate-contributors.ts` (writes `viewer/public/contributors.json`). **Always re-run it after adding or editing any `editions/*/events.json`** — both files are generated, not hand-edited.
+`bun run data` runs three aggregators in sequence: `viewer/scripts/aggregate-events.ts` (writes `viewer/public/events.json`), `viewer/scripts/aggregate-contributors.ts` (writes `viewer/public/contributors.json`), and `viewer/scripts/aggregate-stats.ts` (reads each `editions/<N>/stats.json` and writes `viewer/public/stats.json`). **Always re-run it after adding or editing any `editions/*/events.json` or `editions/*/stats.json`** — all three output files are generated, not hand-edited.
 
 ## Authoring events.json (manual curation)
 
