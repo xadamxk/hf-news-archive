@@ -24,6 +24,7 @@ import {
   CartesianGrid,
   Line,
   LineChart,
+  ReferenceLine,
   ResponsiveContainer,
   Tooltip,
   XAxis,
@@ -415,7 +416,8 @@ type TabKey = "events" | "contributors" | "stats";
 
 /** Configuration for each chart in the small-multiples grid. */
 type SiteStatChart = {
-  key: keyof Pick<StatsRow, "tp" | "tt" | "tm" | "dp" | "dt" | "dm">;
+  /** dataKey passed to Recharts — must match a field on the enriched chart row. */
+  key: string;
   label: string;
   /** Stroke color for the line (HF blue palette where possible). */
   color: string;
@@ -427,10 +429,10 @@ const SITE_TOTAL_CHARTS: SiteStatChart[] = [
   { key: "tm", label: "Total Members", color: "#FFD700" },
 ];
 
-const SITE_DAILY_CHARTS: SiteStatChart[] = [
-  { key: "dp", label: "Daily Posts", color: "#499FED" },
-  { key: "dt", label: "Daily Threads", color: "#32CD32" },
-  { key: "dm", label: "Daily New Members", color: "#FFD700" },
+const SITE_GROWTH_CHARTS: SiteStatChart[] = [
+  { key: "posts_added", label: "Posts Added (since last edition)", color: "#499FED" },
+  { key: "threads_added", label: "Threads Added (since last edition)", color: "#32CD32" },
+  { key: "members_added", label: "Members Added (since last edition)", color: "#FFD700" },
 ];
 
 /** Format big numbers compactly for the chart Y axis (45M, 13K, etc.). */
@@ -469,17 +471,90 @@ function fullDate(ms: number): string {
   });
 }
 
+/** Enriched stat row: original cumulative fields plus dateMs (for the X axis)
+ *  and the derived posts_added / threads_added / members_added growth fields.
+ *
+ *  Growth fields are CLAMPED to 0 (negative deltas occur when accounts are
+ *  purged — not real "negative growth"). The raw signed value is preserved
+ *  in `*_raw` for tooltip transparency. */
+type EnrichedStatsRow = StatsRow & {
+  e: number;
+  dateMs?: number;
+  posts_added?: number;
+  posts_added_raw?: number;
+  threads_added?: number;
+  threads_added_raw?: number;
+  members_added?: number;
+  members_added_raw?: number;
+};
+
+/** Quantile (0..1) of a numeric array; nearest-rank method (no interpolation). */
+function quantile(sorted: number[], q: number): number | null {
+  if (sorted.length === 0) return null;
+  const idx = Math.min(sorted.length - 1, Math.floor(sorted.length * q));
+  return sorted[idx];
+}
+
+/** Compute a Y-axis cap that hides extreme outliers without losing the data
+ *  points. Returns null if the dataset has no meaningful outliers (the chart
+ *  can then use its natural max). Heuristic: if max > 3 × p95, cap at p95;
+ *  otherwise no cap. */
+function computeSoftCap(values: number[]): number | null {
+  if (values.length < 8) return null; // too small to identify outliers reliably
+  const sorted = [...values].sort((a, b) => a - b);
+  const p95 = quantile(sorted, 0.95);
+  const max = sorted[sorted.length - 1];
+  if (p95 == null || max == null) return null;
+  if (max <= p95 * 3) return null;
+  // Cap above p95 so typical "high but not extreme" weeks aren't clipped.
+  return Math.ceil(p95 * 1.5);
+}
+
+type GapMarker = { atMs: number; days: number; label: string };
+
 function StatChartCard({
   config,
   data,
+  gapMarkers,
 }: {
   config: SiteStatChart;
-  data: Array<StatsRow & { e: number; dateMs?: number }>;
+  data: EnrichedStatsRow[];
+  gapMarkers: GapMarker[];
 }) {
   // Build the series — drop any editions where this metric or the dateMs is missing.
   const series = data.filter(
-    (r) => r[config.key] != null && r.dateMs != null,
+    (r) =>
+      (r as Record<string, unknown>)[config.key] != null &&
+      r.dateMs != null,
   );
+
+  // Per-chart cap so an outlier like ed 456's +20M posts doesn't squash the
+  // rest of the timeline to a flat line. Values above the cap are rendered
+  // at the cap line with a labelled dot showing the actual figure.
+  const values = series
+    .map((r) => (r as Record<string, unknown>)[config.key] as number | undefined)
+    .filter((v): v is number => v != null);
+  const cap = computeSoftCap(values);
+
+  // The raw-value key (e.g. `posts_added_raw`) carries the signed pre-clamp
+  // figure for tooltip transparency.
+  const rawKey = `${config.key}_raw`;
+
+  // Display-value key — same as config.key when no cap, otherwise a clamped
+  // version stitched into each row.
+  const seriesWithDisplay = cap != null
+    ? series.map((r) => ({
+        ...r,
+        [`${config.key}_display`]: Math.min(
+          (r as Record<string, number | undefined>)[config.key] ?? 0,
+          cap,
+        ),
+      }))
+    : series;
+  const displayKey = cap != null ? `${config.key}_display` : config.key;
+  const yDomain: [number, number | string] = cap != null
+    ? [0, cap]
+    : [0, "auto"];
 
   return (
     <div className="stat-chart-card">
@@ -487,8 +562,8 @@ function StatChartCard({
       <div className="stat-chart-figure">
         <ResponsiveContainer width="100%" height={320}>
           <LineChart
-            data={series}
-            margin={{ top: 4, right: 16, bottom: 4, left: 4 }}
+            data={seriesWithDisplay}
+            margin={{ top: 16, right: 16, bottom: 4, left: 4 }}
           >
             <CartesianGrid stroke="#1d1d1d" strokeDasharray="3 3" />
             <XAxis
@@ -505,6 +580,8 @@ function StatChartCard({
               stroke="#1d1d1d"
               tickFormatter={compactNumber}
               width={56}
+              domain={yDomain}
+              allowDataOverflow={cap != null}
             />
             <Tooltip
               contentStyle={{
@@ -523,14 +600,49 @@ function StatChartCard({
                 const ms = p.dateMs;
                 return `Edition ${e}${ms != null ? ` — ${fullDate(ms)}` : ""}`;
               }}
-              formatter={(value: number) => [fullNumber(value), config.label]}
+              formatter={(_displayValue: number, _name, item) => {
+                // Show the actual (un-clamped) value; flag if the raw was
+                // negative (a purge) so the user knows the chart's 0 isn't
+                // a literal zero-growth week.
+                const payload = item.payload as Record<string, number | undefined>;
+                const actual = payload[config.key];
+                const raw = payload[rawKey];
+                const aboveCap = cap != null && actual != null && actual > cap;
+                const wasNegative = raw != null && raw < 0;
+                const display = actual != null ? fullNumber(actual) : "";
+                const note = wasNegative
+                  ? ` (raw ${fullNumber(raw as number)} — account purge clamped to 0)`
+                  : aboveCap
+                    ? " (above visible range)"
+                    : "";
+                return [`${display}${note}`, config.label];
+              }}
             />
+            {/* Vertical dashed lines marking publishing gaps > 90 days. */}
+            {gapMarkers.map((g, i) => (
+              <ReferenceLine
+                key={`gap-${i}`}
+                x={g.atMs}
+                stroke="#ff79c6"
+                strokeDasharray="4 4"
+                strokeOpacity={0.6}
+                label={{
+                  value: g.label,
+                  position: "top",
+                  fill: "#ff79c6",
+                  fontSize: 10,
+                }}
+                ifOverflow="extendDomain"
+              />
+            ))}
             <Line
               type="monotone"
-              dataKey={config.key}
+              dataKey={displayKey}
               stroke={config.color}
               strokeWidth={2}
-              dot={false}
+              dot={cap != null
+                ? renderClampedDot(config.key, cap, config.color)
+                : false}
               activeDot={{ r: 4 }}
               isAnimationActive={false}
             />
@@ -539,6 +651,51 @@ function StatChartCard({
       </div>
     </div>
   );
+}
+
+/** Custom dot renderer: only draws a dot when the original value was clamped
+ *  by the soft cap. Renders a hollow circle in the line color with a label
+ *  above showing the actual figure, so outliers are clearly visible without
+ *  inflating the Y-axis. Other points get no dot (cleaner chart). */
+function renderClampedDot(
+  fieldKey: string,
+  cap: number,
+  color: string,
+) {
+  type DotProps = {
+    cx?: number;
+    cy?: number;
+    payload?: Record<string, number | undefined>;
+    index?: number;
+  };
+  return (props: DotProps) => {
+    const { cx, cy, payload } = props;
+    if (cx == null || cy == null || !payload) return <g />;
+    const actual = payload[fieldKey];
+    if (actual == null || actual <= cap) return <g />;
+    return (
+      <g>
+        <circle
+          cx={cx}
+          cy={cy}
+          r={5}
+          fill="#1a1a1a"
+          stroke={color}
+          strokeWidth={2}
+        />
+        <text
+          x={cx}
+          y={cy - 9}
+          textAnchor="middle"
+          fontSize={10}
+          fill={color}
+          fontWeight={600}
+        >
+          {compactNumber(actual)}
+        </text>
+      </g>
+    );
+  };
 }
 
 function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
@@ -582,16 +739,74 @@ function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
     return { min: Math.min(...nums), max: Math.max(...nums) };
   }, [data]);
 
-  /** Filter by edition range AND attach the dateMs lookup so charts can plot
-   *  by date while tooltips still surface the edition number. */
-  const filteredRows = useMemo(() => {
+  /** Sort the full dataset by edition number, attach dateMs for the X axis,
+   *  and derive growth-between-editions deltas (posts/threads/members added
+   *  since the closest previous edition that had a value for that field).
+   *  Deltas are computed on the FULL dataset before filtering so the first
+   *  edition in any range still has a delta relative to its true predecessor,
+   *  not a misleading 0. */
+  const allRowsWithGrowth = useMemo<EnrichedStatsRow[]>(() => {
     if (!data) return [];
+    const sorted = [...data.s].sort((a, b) => a.e - b.e);
+    let prevTp: number | undefined;
+    let prevTt: number | undefined;
+    let prevTm: number | undefined;
+    return sorted.map((r) => {
+      const enriched: EnrichedStatsRow = {
+        ...r,
+        dateMs: editionDateMs.get(r.e),
+      };
+      if (r.tp != null && prevTp != null) {
+        const raw = r.tp - prevTp;
+        enriched.posts_added_raw = raw;
+        enriched.posts_added = Math.max(0, raw);
+      }
+      if (r.tt != null && prevTt != null) {
+        const raw = r.tt - prevTt;
+        enriched.threads_added_raw = raw;
+        enriched.threads_added = Math.max(0, raw);
+      }
+      if (r.tm != null && prevTm != null) {
+        const raw = r.tm - prevTm;
+        enriched.members_added_raw = raw;
+        enriched.members_added = Math.max(0, raw);
+      }
+      if (r.tp != null) prevTp = r.tp;
+      if (r.tt != null) prevTt = r.tt;
+      if (r.tm != null) prevTm = r.tm;
+      return enriched;
+    });
+  }, [data, editionDateMs]);
+
+  const filteredRows = useMemo(() => {
     const minN = minEdition === "" ? -Infinity : Number(minEdition);
     const maxN = maxEdition === "" ? Infinity : Number(maxEdition);
-    return data.s
-      .filter((r) => r.e >= minN && r.e <= maxN)
-      .map((r) => ({ ...r, dateMs: editionDateMs.get(r.e) }));
-  }, [data, minEdition, maxEdition, editionDateMs]);
+    return allRowsWithGrowth.filter((r) => r.e >= minN && r.e <= maxN);
+  }, [allRowsWithGrowth, minEdition, maxEdition]);
+
+  /** Publishing gaps longer than 90 days inside the filtered range. Surfaced
+   *  as vertical dashed reference lines on each chart so the user can see
+   *  that the timeline is non-uniform — a large spike right after a gap
+   *  represents months of growth, not a single week. */
+  const gapMarkers = useMemo(() => {
+    const out: { atMs: number; days: number; label: string }[] = [];
+    let prev: EnrichedStatsRow | null = null;
+    for (const r of filteredRows) {
+      if (prev && prev.dateMs != null && r.dateMs != null) {
+        const days = (r.dateMs - prev.dateMs) / 86400000;
+        if (days > 90) {
+          const months = Math.round(days / 30);
+          out.push({
+            atMs: (prev.dateMs + r.dateMs) / 2,
+            days,
+            label: months >= 12 ? `~${(months / 12).toFixed(1)}y gap` : `~${months}mo gap`,
+          });
+        }
+      }
+      prev = r;
+    }
+    return out;
+  }, [filteredRows]);
 
   if (err) {
     return (
@@ -665,16 +880,21 @@ function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
         <h2 className="stats-section-title">Site Statistics — Cumulative Totals</h2>
         <div className="stat-chart-grid">
           {SITE_TOTAL_CHARTS.map((c) => (
-            <StatChartCard key={c.key} config={c} data={filteredRows} />
+            <StatChartCard key={c.key} config={c} data={filteredRows} gapMarkers={gapMarkers} />
           ))}
         </div>
       </section>
 
       <section className="stats-section">
-        <h2 className="stats-section-title">Site Statistics — Daily Averages</h2>
+        <h2 className="stats-section-title">Site Statistics — Growth Between Editions</h2>
+        <p className="meta" style={{ marginTop: "-0.4rem", marginBottom: "0.6rem" }}>
+          Posts / threads / members added between each edition and the previous
+          one carrying that field. Long publishing gaps show as taller bars
+          because they represent more elapsed activity, not a sudden spike.
+        </p>
         <div className="stat-chart-grid">
-          {SITE_DAILY_CHARTS.map((c) => (
-            <StatChartCard key={c.key} config={c} data={filteredRows} />
+          {SITE_GROWTH_CHARTS.map((c) => (
+            <StatChartCard key={c.key} config={c} data={filteredRows} gapMarkers={gapMarkers} />
           ))}
         </div>
       </section>

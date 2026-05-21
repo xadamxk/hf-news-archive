@@ -23,10 +23,7 @@ A complete `editions/<N>/stats.json` looks like this:
   "site_statistics": {
     "total_posts": 45222373,
     "total_threads": 3229550,
-    "total_members": 2648746,
-    "daily_posts": 13985,
-    "daily_threads": 999,
-    "daily_new_members": 819
+    "total_members": 2648746
   },
   "ban_statistics": {
     "last_week": {
@@ -73,9 +70,6 @@ Don't write nulls — just leave the key out.
 | `site_statistics.total_posts` | Cumulative posts at snapshot time |
 | `site_statistics.total_threads` | Cumulative threads |
 | `site_statistics.total_members` | Cumulative registered members |
-| `site_statistics.daily_posts` | Average posts/day |
-| `site_statistics.daily_threads` | Average threads/day |
-| `site_statistics.daily_new_members` | Average new registrations/day |
 | `ban_statistics.last_week.staff_bans` | Staff bans in prior week |
 | `ban_statistics.last_week.vacation_bans` | Vacation bans in prior week |
 | `ban_statistics.last_week.combined_bans` | Combined total prior week |
@@ -144,7 +138,7 @@ The published stats format changed several times across the archive:
 | 542 | Daily-deltas text — anchored by `Total new posts` / `…threads` / `…members` | One-off parser; **chains weekly delta onto ed 541's cumulative** |
 | 543 | Daily-deltas as a BBCode `[table]` with 7 rows | One-off parser; sums the rows, **chains onto ed 542** |
 | 544 – 554 | Daily-deltas as **screenshot images** under the `statistics-header.png` banner (imgur / gyazo / imgbb) — same 7×3 grid format, just rasterized | Numbers were **manually transcribed** while viewing each image, then chained onto the previous edition's cumulative totals |
-| 555 – 585 | Daily-deltas as **screenshot images** under the new `statistics-magenta.png` banner (all gyazo); each edition shows a "this week" + "last week" pair | Same as 544–554: transcribed by viewing each "this week" image, chained off ed 554. Ed 558 published 8 daily rows (one more than the usual 7) — daily averages divide by actual row count |
+| 555 – 585 | Daily-deltas as **screenshot images** under the new `statistics-magenta.png` banner (all gyazo); each edition shows a "this week" + "last week" pair | Same as 544–554: transcribed by viewing each "this week" image, chained off ed 554. Ed 558 published 8 daily rows (one more than the usual 7) — that didn't affect the stored values since only cumulative totals are kept |
 
 ## Coverage summary
 
@@ -154,8 +148,8 @@ Snapshot of how many editions carry stats (refresh by running
 | Section | Editions with it | Earliest | Latest |
 |---|---|---|---|
 | Site Statistics | 323 | 207 | 585 |
-| Ban Statistics | 210 | 207 | 511 |
-| Forum Counts | 274 | 207 | 511 |
+| Ban Statistics | 204 | 207 | 511 |
+| Forum Counts | 268 | 207 | 511 |
 | All three together | 204 | 207 | 511 |
 
 The densest cross-edition window is **207 – 399** — most editions in that
@@ -165,28 +159,45 @@ sections were dropped or moved out of the formatted block; the blog era
 the site-statistics block (no ban or forum data); editions 555 – 585
 specifically come from screenshot transcription rather than text parsing.
 
-### Delta-chain derivation (editions 542 – 585)
+### Delta-chain derivation (editions 542+)
 
-For editions 542 onward the published values are **weekly deltas** rather
-than cumulative totals. Each edition's `total_*` is computed by adding its
-weekly `new_posts` / `new_threads` / `new_members` to the previous edition's
-cumulative `total_*`.
+For editions 542 onward the published source carries **weekly deltas**
+rather than cumulative totals (per-day breakdowns of new posts / threads /
+members). Each edition's `total_*` is computed by adding its weekly
+`new_posts` / `new_threads` / `new_members` to the previous edition's
+cumulative `total_*`. The previous edition's totals are the published
+values for ≤541 and the chained values for 542+.
 
-The `daily_*` fields for these editions are filled in **two parallel ways**
-to keep the Statistics-tab chart continuous while preserving the original
-recent-rate signal:
+### Growth between editions (chart derivation)
 
-| Field | Meaning | How it's computed for 542+ |
-|---|---|---|
-| `daily_posts` / `daily_threads` / `daily_new_members` | Forum-lifetime running average — same semantic the journalist published for editions ≤541 | `total_* / days_since_launch`, using a launch anchor of **2007-04-22 16:38:36.117 UTC** (epoch ms `1177259916117`) — back-derived from ed 541's published values; cross-checked against ed 540. To re-derive: `launch_ms = ed541.publish_ms − (ed541.total_posts / ed541.daily_posts) × 86400000` |
-| `recent_daily_posts` / `recent_daily_threads` / `recent_daily_new_members` | This-week's actual daily rate | `weekly_total / row_count` (almost always 7; ed 558 published 8 rows so its denominator is 8) |
+The Statistics tab's second chart section ("Site Statistics — Growth
+Between Editions") is derived **on the fly in the viewer** from the
+cumulative totals — nothing about it lives in `stats.json`. For each
+edition `N`:
 
-The minified `viewer/public/stats.json` exposes the recent-rate values under
-the short keys `rdp` / `rdt` / `rdm`, present only on rows that have them.
+```text
+posts_added(N)   = total_posts(N)   − total_posts(prev_edition_with_stats)
+threads_added(N) = total_threads(N) − total_threads(prev_edition_with_stats)
+members_added(N) = total_members(N) − total_members(prev_edition_with_stats)
+```
 
-The chart line in the Statistics tab uses `daily_*` (lifetime average) so
-it stays continuous across the format-shift boundary at ed 541 → 542. The
-recent-rate values are available as a parallel series for a future toggle.
+The "prev_edition_with_stats" is whatever edition before `N` had a value
+for that specific field — so a gap (e.g. blog era editions without stats)
+just means the next stats-bearing edition's growth represents the whole
+elapsed period.
+
+This metric is **the same across every format era**: for editions ≤541
+it's the delta between consecutively-published cumulative snapshots; for
+542+ it equals the journalist's published weekly_total exactly (since the
+cumulative was chained from that weekly_total). Long publishing gaps —
+e.g. ed 539 (Nov 2023) → ed 540 (Jun 2025) — show as honestly-large
+spikes because they represent ~18 months of real growth condensed into
+one data point.
+
+No daily-average fields are stored per edition any more; the lifetime
+running average that the journalist printed for editions ≤541 is
+intentionally not surfaced because it's an average across all of HF's
+history, not a point-in-time value for the published edition.
 
 ## Known gotchas and data-quality issues
 
@@ -199,16 +210,16 @@ Going forward, the per-edition files are editable — if a future edition is
 added with a similar bug, fix it directly in `editions/<N>/stats.json` and
 re-run `bun run --cwd viewer data`.
 
-### 1. Inflated daily-figure values (editions 314, 358 – 396) — **corrected**
+### 1. Inflated daily-figure values (editions 314, 358 – 396) — **historical**
 
-A range of editions published daily values inflated by exactly 100×, almost
-certainly a delimiter mistake by the journalist (e.g. `13,486.84` written
-as `1,348,684`). The bootstrap divided 86 affected values by 100 across
-~30 editions. The per-edition files now hold the realistic values.
-
-Pattern: `daily_posts` over 100,000, `daily_threads` over 50,000, and
-`daily_new_members` over 10,000 were all divided by 100, preserving two
-decimal places.
+A range of editions originally published daily-average values inflated by
+exactly 100× (e.g. `13,486.84` written as `1,348,684` — almost certainly
+a delimiter mistake). The bootstrap divided those 86 affected values by
+100, then later the `daily_*` fields were removed from per-edition files
+entirely (see [Growth between editions](#growth-between-editions-chart-derivation)
+— point-in-time growth is now derived from cumulative totals instead).
+This gotcha is preserved here only as archive history; no field carrying
+those values exists in `stats.json` today.
 
 ### 2. `total_posts` / `total_threads` labels swapped (editions 465 – 511) — **corrected**
 
@@ -309,30 +320,10 @@ total_threads(N) = total_threads(N-1) + weekly_threads
 total_members(N) = total_members(N-1) + weekly_members
 ```
 
-For the **lifetime daily averages** that the Statistics-tab chart plots,
-read the edition's publish timestamp from `viewer/public/events.json`
-(`ed.find(r => r.e === N).s * 1000` gives epoch ms) and compute:
-
-```text
-LAUNCH_MS = 1177259916117            # 2007-04-22T16:38:36.117Z, anchored to ed 541
-
-days_since_launch = (edition_ms − LAUNCH_MS) / 86400000
-
-daily_posts        = round2(total_posts   / days_since_launch)
-daily_threads      = round2(total_threads / days_since_launch)
-daily_new_members  = round2(total_members / days_since_launch)
-```
-
-For the **recent-week rate** (preserved in parallel fields, used by future
-toggles):
-
-```text
-n = rows.length
-
-recent_daily_posts        = round2(weekly_posts   / n)
-recent_daily_threads      = round2(weekly_threads / n)
-recent_daily_new_members  = round2(weekly_members / n)
-```
+That's all you need — no `daily_*` or per-week-rate fields belong in
+the per-edition file. The Statistics tab derives growth-between-editions
+on the fly from the cumulative totals (see [Growth between editions]
+(#growth-between-editions-chart-derivation)).
 
 ### Step 5 — write the per-edition stats.json
 
@@ -345,13 +336,7 @@ carry only `site_statistics`, no ban or forum blocks):
   "site_statistics": {
     "total_posts": ...,
     "total_threads": ...,
-    "total_members": ...,
-    "daily_posts": ...,
-    "daily_threads": ...,
-    "daily_new_members": ...,
-    "recent_daily_posts": ...,
-    "recent_daily_threads": ...,
-    "recent_daily_new_members": ...
+    "total_members": ...
   }
 }
 ```
@@ -375,9 +360,14 @@ Run a neighbor-comparison to catch transcription typos:
 ```bash
 node -e "
 const d=require('./viewer/public/stats.json');
-for (const e of [N-2, N-1, N, N+1]) {
-  const r = d.s.find(x => x.e === e);
-  if (r) console.log('ed', e, 'tp:', r.tp, 'tt:', r.tt, 'tm:', r.tm, 'dp:', r.dp, 'rdp:', r.rdp);
+const sorted=[...d.s].sort((a,b)=>a.e-b.e);
+let prev=null;
+for (const r of sorted) {
+  if ([N-2, N-1, N, N+1].includes(r.e)) {
+    const added = prev && prev.tp!=null && r.tp!=null ? r.tp - prev.tp : '(no prev)';
+    console.log('ed', r.e, 'tp:', r.tp, 'tt:', r.tt, 'tm:', r.tm, 'posts_added:', added);
+  }
+  prev = r;
 }
 "
 ```
@@ -385,10 +375,9 @@ for (const e of [N-2, N-1, N, N+1]) {
 (replace `N` with the new edition number). Verify:
 
 - `tp` / `tt` / `tm` increase monotonically from the prior edition.
-- `dp` is within a few % of the prior edition (lifetime average drifts slowly).
-- `rdp` looks plausible for the era (currently ~400–700 for 2025–2026
-  forum activity; spike to ~1,000+ would warrant a recheck of the
-  transcribed numbers).
+- `posts_added` matches the sum of the daily rows in the source screenshot
+  (currently ~2,500–5,000 for 2025–2026 forum activity; spikes >10,000 or
+  drops to 0 warrant a recheck).
 
 If a value looks wildly off (e.g. 10× a neighbor), the most likely cause
 is a transcription typo or a dropped/extra digit in one of the daily

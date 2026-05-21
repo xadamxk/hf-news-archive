@@ -50,17 +50,11 @@ export type ContributorsPayload = {
 /** Per-edition row from public/stats.json (short-key minified). */
 export type StatsRow = {
   e: number;
-  // Site stats
+  // Site stats — cumulative totals only; growth-between-editions is
+  // derived in the viewer by diffing consecutive tp/tt/tm values.
   tp?: number;
   tt?: number;
   tm?: number;
-  dp?: number;
-  dt?: number;
-  dm?: number;
-  // Recent-week rate (editions 542+ only)
-  rdp?: number;
-  rdt?: number;
-  rdm?: number;
   // Ban stats — last week
   bs?: number;
   bv?: number;

@@ -19,14 +19,8 @@
  *         "tp": <number>,       // tp = total posts
  *         "tt": <number>,       // tt = total threads
  *         "tm": <number>,       // tm = total members
- *         "dp": <number>,       // dp = daily posts (forum-lifetime running average)
- *         "dt": <number>,       // dt = daily threads (forum-lifetime running average)
- *         "dm": <number>,       // dm = daily new members (forum-lifetime running average)
- *         // Recent-week rate (only set for editions 542+ where source publishes
- *         // weekly deltas; computed as weekly_total / row_count). Omitted otherwise.
- *         "rdp": <number>,      // rdp = recent daily posts (this-week rate)
- *         "rdt": <number>,      // rdt = recent daily threads (this-week rate)
- *         "rdm": <number>,      // rdm = recent daily new members (this-week rate)
+ *         // (No daily averages — the viewer derives growth-between-editions
+ *         // on the fly by diffing consecutive tp/tt/tm values.)
  *         // Ban stats (omitted when absent)
  *         "bs":  <number>,      // bs  = staff bans, last week
  *         "bv":  <number>,      // bv  = vacation bans, last week
@@ -75,12 +69,6 @@ type EditionStats = {
     total_posts?: number;
     total_threads?: number;
     total_members?: number;
-    daily_posts?: number;
-    daily_threads?: number;
-    daily_new_members?: number;
-    recent_daily_posts?: number;
-    recent_daily_threads?: number;
-    recent_daily_new_members?: number;
   };
   ban_statistics?: {
     last_week?: {
@@ -127,12 +115,6 @@ function toCompact(name: string, doc: EditionStats): CompactRow | null {
   if (site.total_posts != null) out.tp = site.total_posts;
   if (site.total_threads != null) out.tt = site.total_threads;
   if (site.total_members != null) out.tm = site.total_members;
-  if (site.daily_posts != null) out.dp = site.daily_posts;
-  if (site.daily_threads != null) out.dt = site.daily_threads;
-  if (site.daily_new_members != null) out.dm = site.daily_new_members;
-  if (site.recent_daily_posts != null) out.rdp = site.recent_daily_posts;
-  if (site.recent_daily_threads != null) out.rdt = site.recent_daily_threads;
-  if (site.recent_daily_new_members != null) out.rdm = site.recent_daily_new_members;
 
   const lw = doc.ban_statistics?.last_week ?? {};
   if (lw.staff_bans != null) out.bs = lw.staff_bans;
