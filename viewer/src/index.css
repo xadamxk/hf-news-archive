@@ -1211,3 +1211,97 @@ mark.search-hit {
   opacity: 0.5;
   background: #1d1d1d;
 }
+
+/* ============================================================
+ * Editions tab — sortable table of every archived edition
+ * ============================================================ */
+.editions-panel {
+  margin-top: 1.25rem;
+}
+
+.editions-table-wrap {
+  overflow-x: auto;
+  border: 1px solid #1d1d1d;
+  border-radius: 6px;
+  margin-top: 0.75rem;
+}
+
+.editions-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.editions-table thead th {
+  text-align: left;
+  background: #072948;
+  color: #efefef;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-bottom: 1px solid #1d1d1d;
+  text-shadow: 1px 1px 0 #000;
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.editions-table thead th.is-sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.editions-table thead th.is-sortable:hover {
+  background: #0F5799;
+  color: #499FED;
+}
+
+.editions-table tbody td {
+  padding: 7px 12px;
+  border-bottom: 1px solid #1d1d1d;
+  vertical-align: top;
+  background: #333;
+  color: #c3c3c3;
+}
+
+.editions-table tbody tr:hover td {
+  background: #3d4a5c;
+}
+
+.editions-table .col-edition-num {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.editions-table .col-edition-date {
+  width: 1%;
+  white-space: nowrap;
+}
+
+.editions-table .col-edition-title {
+  /* Use remaining horizontal space; allow wrapping for long subjects. */
+}
+
+.editions-table .edition-link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.editions-table .edition-link:hover {
+  color: #499FED;
+  text-decoration: underline;
+}
+
+.editions-table .edition-blog-tag {
+  /* Compact label appended to blog-edition titles — same neutral grey as
+   * the table body text so it doesn't compete with the title itself. */
+  color: var(--muted, #8f8f8f);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-left: 0.25rem;
+}

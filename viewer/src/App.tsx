@@ -412,7 +412,7 @@ const EventCard = memo(function EventCard({
 
 type SortOrder = "newest" | "oldest";
 
-type TabKey = "events" | "contributors" | "stats";
+type TabKey = "events" | "editions" | "contributors" | "stats";
 
 /** Configuration for each chart in the small-multiples grid. */
 type SiteStatChart = {
@@ -902,6 +902,119 @@ function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
   );
 }
 
+type SortColumn = "edition" | "date";
+type SortDirection = "asc" | "desc";
+
+function EditionsPanel({ editions }: { editions: CompactEditionRow[] }) {
+  // Default = most recent first; clicking a sortable header toggles direction
+  // on that column or switches to it ascending if it wasn't the active column.
+  const [sortColumn, setSortColumn] = useState<SortColumn>("date");
+  const [sortDirection, setSortDirection] = useState<SortDirection>("desc");
+
+  function handleSort(col: SortColumn) {
+    if (col === sortColumn) {
+      setSortDirection((d) => (d === "asc" ? "desc" : "asc"));
+    } else {
+      setSortColumn(col);
+      setSortDirection("desc");
+    }
+  }
+
+  const sorted = useMemo(() => {
+    const copy = [...editions];
+    copy.sort((a, b) => {
+      // Edition number and date are both monotonic in practice, but the user
+      // can pick either explicitly. Fall back to edition number on ties.
+      const primary = sortColumn === "edition" ? a.e - b.e : a.s - b.s;
+      return sortDirection === "asc" ? primary : -primary;
+    });
+    return copy;
+  }, [editions, sortColumn, sortDirection]);
+
+  function sortIndicator(col: SortColumn): string {
+    if (col !== sortColumn) return "";
+    return sortDirection === "asc" ? " ▲" : " ▼";
+  }
+
+  return (
+    <div id="panel-editions" role="tabpanel" className="editions-panel">
+      <p className="meta" style={{ marginTop: 0 }}>
+        {editions.length} editions in the archive. Click the Edition or Date
+        column header to flip the sort order.
+      </p>
+      <div className="editions-table-wrap">
+        <table className="editions-table">
+          <thead>
+            <tr>
+              <th
+                scope="col"
+                className="col-edition-num is-sortable"
+                aria-sort={sortColumn === "edition"
+                  ? (sortDirection === "asc" ? "ascending" : "descending")
+                  : "none"}
+                onClick={() => handleSort("edition")}
+              >
+                Edition{sortIndicator("edition")}
+              </th>
+              <th
+                scope="col"
+                className="col-edition-date is-sortable"
+                aria-sort={sortColumn === "date"
+                  ? (sortDirection === "asc" ? "ascending" : "descending")
+                  : "none"}
+                onClick={() => handleSort("date")}
+              >
+                Date{sortIndicator("date")}
+              </th>
+              <th scope="col" className="col-edition-title">Title</th>
+            </tr>
+          </thead>
+          <tbody>
+            {sorted.map((row) => {
+              const href = editionUrl(row);
+              const isBlog = !!row.b;
+              return (
+                <tr key={`${row.e}-${row.s}`}>
+                  <td className="col-edition-num">
+                    {href ? (
+                      <a
+                        className="edition-link"
+                        href={href}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {row.e}
+                      </a>
+                    ) : (
+                      <span>{row.e}</span>
+                    )}
+                  </td>
+                  <td className="col-edition-date">{formatDate(row.s)}</td>
+                  <td className="col-edition-title">
+                    {href ? (
+                      <a
+                        className="edition-link"
+                        href={href}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {row.h}
+                      </a>
+                    ) : (
+                      <span>{row.h}</span>
+                    )}
+                    {isBlog ? <span className="edition-blog-tag"> [BLOG]</span> : null}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+
 function ContributorsPanel({ editions }: { editions: CompactEditionRow[] }) {
   const [data, setData] = useState<ContributorsPayload | null>(null);
   const [err, setErr] = useState<string | null>(null);
@@ -1282,6 +1395,7 @@ export default function App() {
         <ul role="tablist">
           {([
             { key: "events", label: "Events" },
+            { key: "editions", label: "Editions" },
             { key: "contributors", label: "Contributors" },
             { key: "stats", label: "Statistics" },
           ] as const).map((tab) => (
@@ -1594,6 +1708,8 @@ export default function App() {
         />
       ) : null}
         </div>
+      ) : activeTab === "editions" ? (
+        <EditionsPanel editions={raw.ed} />
       ) : activeTab === "contributors" ? (
         <ContributorsPanel editions={raw.ed} />
       ) : (
