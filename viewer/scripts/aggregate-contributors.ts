@@ -23,8 +23,7 @@
  *         "e": <number>,        // e = editions  — count of distinct editions contributed to
  *         "r": ["<atom>", ...], // r = roles     — every distinct role atom ever held
  *                               //                  (sorted alphabetically; omitted if empty)
- *         "f": <number>,        // f = first     — earliest edition number this uid appeared in
- *         "l": <number>         // l = last      — latest edition number this uid appeared in
+ *         "eds": [<number>, ...] // eds = editions — sorted list of every edition this uid appeared in (first/last are eds[0] and eds[length-1])
  *       },
  *       ...
  *     ]
@@ -57,8 +56,6 @@ type Agg = {
   username: string;
   roleAtoms: Set<string>;
   editions: Set<number>;
-  firstEdition: number;
-  lastEdition: number;
   lastSeen: number; // numeric edition for "latest username" comparisons
 };
 
@@ -161,15 +158,11 @@ async function main() {
             username,
             roleAtoms: new Set(),
             editions: new Set(),
-            firstEdition: editionNum,
-            lastEdition: editionNum,
             lastSeen: editionNum,
           };
           agg.set(uid, a);
         }
         a.editions.add(editionNum);
-        if (editionNum < a.firstEdition) a.firstEdition = editionNum;
-        if (editionNum > a.lastEdition) a.lastEdition = editionNum;
         if (editionNum >= a.lastSeen) {
           a.lastSeen = editionNum;
           a.username = username;
@@ -188,16 +181,22 @@ async function main() {
       // recorded role was the bare "Journalist" sentinel) still needs a
       // displayable role. Default to "Journalist".
       if (roles.length === 0) roles.push("Journalist");
+      // Editions list (sorted ascending) — used by the viewer's expandable
+      // row to render pill-links to each edition's thread or blog page.
+      // First/last edition are not stored separately; consumers can read
+      // eds[0] and eds[eds.length - 1].
+      const eds = [...a.editions].sort((x, y) => x - y);
       return {
         i: a.uid,
         u: a.username,
         e: a.editions.size,
         r: roles,
-        f: a.firstEdition,
-        l: a.lastEdition,
+        eds,
       };
     })
-    .sort((x, y) => (y.e - x.e) || (y.l - x.l));
+    // Tie-breaker on sort: latest edition (eds[last]) — same behavior as the
+    // old `(y.l - x.l)` sort, just derived from the editions array.
+    .sort((x, y) => (y.e - x.e) || (y.eds[y.eds.length - 1] - x.eds[x.eds.length - 1]));
 
   const payload = { n: rows.length, c: rows };
   await mkdir(dirname(outFile), { recursive: true });

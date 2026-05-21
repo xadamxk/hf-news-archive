@@ -1,4 +1,5 @@
 import {
+  Fragment,
   memo,
   useDeferredValue,
   useEffect,
@@ -37,9 +38,16 @@ const DATE_FILTER_MAX = new Date(2040, 11, 31);
 
 const PAGE_SIZE = 100;
 
-/** HF News edition opener thread (pid from aggregated `ed[].p`). */
-function editionShowthreadUrl(pid: string): string {
-  return `http://hackforums.net/showthread.php?pid=${encodeURIComponent(pid.trim())}`;
+/** HF News edition opener URL. Blog-sourced editions (where `b` is set) route
+ *  to the blog page; post-sourced editions route to the showthread.php URL. */
+function editionUrl(row: Pick<CompactEditionRow, "p" | "b">): string | null {
+  if (row.b && row.b.trim()) {
+    return `https://hackforums.net/blog/${encodeURIComponent(row.b.trim())}`;
+  }
+  if (row.p && row.p.trim()) {
+    return `http://hackforums.net/showthread.php?pid=${encodeURIComponent(row.p.trim())}`;
+  }
+  return null;
 }
 
 const datePickerDropdownProps = {
@@ -353,11 +361,12 @@ const EventCard = memo(function EventCard({
           </h2>
           <p className="post-meta">
             <span className="post-meta-strong">
-              {edition != null ? (
-                edition.p.trim() ? (
+              {edition != null ? (() => {
+                const href = editionUrl(edition);
+                return href ? (
                   <a
                     className="post-meta-edition-link"
-                    href={editionShowthreadUrl(edition.p)}
+                    href={href}
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -365,8 +374,8 @@ const EventCard = memo(function EventCard({
                   </a>
                 ) : (
                   <>Edition {edition.e}</>
-                )
-              ) : (
+                );
+              })() : (
                 <>Edition ?</>
               )}
             </span>
@@ -673,9 +682,12 @@ function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
   );
 }
 
-function ContributorsPanel() {
+function ContributorsPanel({ editions }: { editions: CompactEditionRow[] }) {
   const [data, setData] = useState<ContributorsPayload | null>(null);
   const [err, setErr] = useState<string | null>(null);
+  /** Set of uids whose editions row is currently expanded. Multiple rows can
+   *  be expanded in parallel. */
+  const [expanded, setExpanded] = useState<Set<string>>(() => new Set());
 
   useEffect(() => {
     let cancelled = false;
@@ -694,6 +706,23 @@ function ContributorsPanel() {
       cancelled = true;
     };
   }, []);
+
+  /** Edition number → compact row lookup, used by the expanded pill links to
+   *  build thread vs blog URLs. */
+  const editionByNumber = useMemo(() => {
+    const m = new Map<number, CompactEditionRow>();
+    for (const e of editions) m.set(e.e, e);
+    return m;
+  }, [editions]);
+
+  function toggle(uid: string) {
+    setExpanded((prev) => {
+      const next = new Set(prev);
+      if (next.has(uid)) next.delete(uid);
+      else next.add(uid);
+      return next;
+    });
+  }
 
   if (err) {
     return (
@@ -723,26 +752,73 @@ function ContributorsPanel() {
               <th scope="col" className="col-editions">Contributed Editions</th>
               <th scope="col" className="col-username">Username</th>
               <th scope="col" className="col-roles">Roles</th>
+              <th scope="col" className="col-expand" aria-label="Show editions" />
             </tr>
           </thead>
           <tbody>
-            {data.c.map((row) => (
-              <tr key={row.i}>
-                <td className="col-editions">{row.e}</td>
-                <td className="col-username">
-                  <a
-                    href={`${PROFILE_BASE}${encodeURIComponent(row.i)}`}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    {row.u}
-                  </a>
-                </td>
-                <td className="col-roles">
-                  {(row.r ?? []).join(", ")}
-                </td>
-              </tr>
-            ))}
+            {data.c.map((row) => {
+              const isOpen = expanded.has(row.i);
+              const eds = row.eds ?? [];
+              return (
+                <Fragment key={row.i}>
+                  <tr>
+                    <td className="col-editions">{row.e}</td>
+                    <td className="col-username">
+                      <a
+                        href={`${PROFILE_BASE}${encodeURIComponent(row.i)}`}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {row.u}
+                      </a>
+                    </td>
+                    <td className="col-roles">
+                      {(row.r ?? []).join(", ")}
+                    </td>
+                    <td className="col-expand">
+                      <button
+                        type="button"
+                        className={`expand-btn${isOpen ? " is-open" : ""}`}
+                        aria-expanded={isOpen}
+                        aria-label={isOpen ? `Hide editions for ${row.u}` : `Show editions for ${row.u}`}
+                        onClick={() => toggle(row.i)}
+                        disabled={eds.length === 0}
+                      >
+                        <span aria-hidden="true">▸</span>
+                      </button>
+                    </td>
+                  </tr>
+                  {isOpen && eds.length > 0 ? (
+                    <tr className="expanded-row">
+                      <td colSpan={4}>
+                        <div className="edition-pills">
+                          {eds.map((edNum) => {
+                            const er = editionByNumber.get(edNum);
+                            const href = er ? editionUrl(er) : null;
+                            const cls = er?.b ? "edition-pill is-blog" : "edition-pill";
+                            return href ? (
+                              <a
+                                key={edNum}
+                                className={cls}
+                                href={href}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                {edNum}
+                              </a>
+                            ) : (
+                              <span key={edNum} className={`${cls} is-orphan`}>
+                                {edNum}
+                              </span>
+                            );
+                          })}
+                        </div>
+                      </td>
+                    </tr>
+                  ) : null}
+                </Fragment>
+              );
+            })}
           </tbody>
         </table>
       </div>
@@ -1299,7 +1375,7 @@ export default function App() {
       ) : null}
         </div>
       ) : activeTab === "contributors" ? (
-        <ContributorsPanel />
+        <ContributorsPanel editions={raw.ed} />
       ) : (
         <StatisticsPanel editions={raw.ed} />
       )}

@@ -5,6 +5,8 @@ export type CompactEditionRow = {
   p: string;
   a: string;
   h: string;
+  /** Blog URL slug for blog-sourced editions (omitted for post-sourced). */
+  b?: string;
 };
 
 /** Compact event row from public/events.json */
@@ -35,8 +37,9 @@ export type ContributorRow = {
   u: string;
   e: number;
   r?: string[];
-  f: number;
-  l: number;
+  /** Sorted list of every edition number this uid appeared in.
+   *  First and last editions are `eds[0]` and `eds[eds.length - 1]`. */
+  eds?: number[];
 };
 
 export type ContributorsPayload = {
