@@ -15,7 +15,10 @@
             "title": "Gauth purge and paid account recovery",
             "description": "Omniscient reset Google Authenticator keys site-wide and said lost-account recovery would carry a fee going forward.",
             "url": "http://hackforums.net/showthread.php?tid=5578405",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",

@@ -31,7 +31,10 @@
             "title": "Quick Thread Beta",
             "description": "Members can create a Quick Thread by clicking 'Start a New Thread' in the top right corner — it helps members find the right forum category.",
             "url": "https://hackforums.net/showthread.php?tid=5922094",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -43,6 +46,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -50,7 +56,10 @@
             "title": "Crew Pricing Increase",
             "description": "All Crew Tier prices will go up in the first week of January 2019.",
             "url": "https://hackforums.net/showthread.php?tid=5923690",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "site",
@@ -87,6 +96,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {

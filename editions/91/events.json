@@ -20,13 +20,19 @@
           "uid": "129812",
           "username": "Peter Chao"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
       "category": "site",
       "title": "New Battlefield Series and Mobile and Tablet Gaming sections were added under the Gaming tab in resp...",
       "description": "New Battlefield Series and Mobile and Tablet Gaming sections were added under the Gaming tab in response to user requests.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -170,6 +176,9 @@
           "uid": "1031147",
           "username": "iamkenIT"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {

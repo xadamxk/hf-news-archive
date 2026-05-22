@@ -14,6 +14,9 @@
           "username": "TylerDurdenr",
           "uid": "28373"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -55,7 +58,10 @@
       "category": "site",
       "title": "Green MSN-like online indicator added next to usernames.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -106,6 +112,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {

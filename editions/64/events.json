@@ -10,6 +10,9 @@
           "uid": "450827",
           "username": "The Holy"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -43,7 +46,10 @@
       "category": "site",
       "title": "HF News editions have been combined; the regular news and user news now ship together.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "users",

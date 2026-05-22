@@ -102,7 +102,10 @@
             "title": "NFA & Gamertags Sections Merged",
             "description": "The Non-Free Accounts and Gamertags sections were merged into the Online Accounts section, and the sub-sections were deleted.",
             "url": "https://hackforums.net/showthread.php?tid=6250893",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",

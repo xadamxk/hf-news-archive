@@ -5,7 +5,10 @@
             "title": "Smilies Converted to Emojis",
             "description": "HF replaced its old smiley system with native emoji characters.",
             "url": "https://hackforums.net/showthread.php?tid=6045464",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "news",

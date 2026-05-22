@@ -20,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -43,7 +46,10 @@
             "title": "Easier Image Uploads",
             "description": "A new quick-add button was added to posts and threads, allowing users to select images from their devices or via image URL.",
             "url": "https://hackforums.net/showthread.php?tid=6250571",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

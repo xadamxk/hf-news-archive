@@ -5,7 +5,10 @@
             "title": "Account Recovery",
             "description": "Members who forget their password and lose access can now recover their accounts for a $20 BTC fee. Applies to inactive (closed) accounts, but not other closures.",
             "url": "https://hackforums.net/recovery.php",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",

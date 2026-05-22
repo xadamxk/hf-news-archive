@@ -5,14 +5,20 @@
       "title": "Deal Dispute Thread Prefixes",
       "description": "Omniscient added thread prefixes to the Deal Dispute section for currency exchanges, product disputes, services not rendered, and trade disputes to help organize the section.",
       "url": "http://hackforums.net/showthread.php?tid=5213055",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "Prestige Requirement for C/C++/Obj-C Programming Section",
       "description": "Omniscient added a minimum prestige requirement of 5 for non-upgraded members wishing to post in the C/C++/Obj-C Programming section.",
       "url": "http://hackforums.net/showthread.php?tid=5214100",
-      "users": []
+      "users": [],
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "groups",

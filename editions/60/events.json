@@ -39,7 +39,10 @@
       "category": "site",
       "title": "Non-upgraded members can no longer use images in their signatures; l33t or Ub3r is required.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1739748"
+      "url": "http://hackforums.net/showthread.php?tid=1739748",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "site",
@@ -51,6 +54,9 @@
           "uid": "126704",
           "username": "Rhythm"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {

@@ -25,7 +25,10 @@
             "title": "Members Referred Removed from Profile View",
             "description": "Profiles no longer list referral counts/names — likely saved resources for a seldom-used statistic.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

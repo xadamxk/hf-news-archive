@@ -23,13 +23,19 @@
       "category": "site",
       "title": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban;...",
       "description": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban; a new 'Not In Marketplace' report option was added.",
-      "url": "http://hackforums.net/showthread.php?tid=1735211"
+      "url": "http://hackforums.net/showthread.php?tid=1735211",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts ...",
       "description": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts a member has in individual sections.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -53,7 +59,10 @@
       "category": "site",
       "title": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW...",
       "description": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW equipment, and similar items; account trading is not allowed there.",
-      "url": "http://hackforums.net/showthread.php?tid=1735211"
+      "url": "http://hackforums.net/showthread.php?tid=1735211",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -81,6 +90,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {

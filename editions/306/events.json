@@ -5,14 +5,20 @@
             "title": "Invalid Deal Disputes",
             "description": "Omniscient has made changes to the Deal Disputes DB that will help members who have a deal dispute open against them. If a thread is created in deal disputes subforum but later moved out of there (such as being junked) or deleted, the deal dispute in the database will tag the report as \"INVALID\" and the change will reflect properly in the Trust Scan results as well.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "The Death of Hidden Characters",
             "description": "With the help of the members on Hack Forums, Omniscient has most likely gotten rid of all the invisible characters that members on Hack Forums use to get a username that is taken already. Members either used it for malicious reasons such as impersonation of a member or for benign reasons like using a closed member's username.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",

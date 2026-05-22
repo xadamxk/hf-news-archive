@@ -15,7 +15,10 @@
             "title": "Icon Library Upgrade",
             "description": "HF changed its icon pack — slight changes to icon visuals throughout the site.",
             "url": "https://hackforums.net/showthread.php?tid=6073000",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -42,7 +45,10 @@
             "title": "Thread Status Icons",
             "description": "Thread icons were updated.",
             "url": "https://hackforums.net/showthread.php?tid=6075112",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "users",

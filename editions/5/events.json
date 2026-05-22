@@ -10,6 +10,9 @@
           "username": "XCH4NG3",
           "uid": "65784"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -22,6 +25,9 @@
           "username": "Rusty_V",
           "uid": "47970"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -44,19 +50,28 @@
       "category": "site",
       "title": "Marketplace Discussions section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=163"
+      "url": "http://hackforums.net/forumdisplay.php?fid=163",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Virtual Machines section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=165"
+      "url": "http://hackforums.net/forumdisplay.php?fid=165",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "CyberGate section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=166"
+      "url": "http://hackforums.net/forumdisplay.php?fid=166",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -68,6 +83,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {

@@ -4,7 +4,10 @@
       "category": "groups",
       "title": "Gamers Crew removed; new Gamers Lounge section created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=65"
+      "url": "http://hackforums.net/forumdisplay.php?fid=65",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "groups",
@@ -16,6 +19,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -28,6 +34,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -52,6 +61,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {

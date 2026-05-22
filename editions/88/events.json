@@ -20,7 +20,10 @@
       "category": "site",
       "title": "Several members spammed the forums advertising 'Hack Society'; staff banned them and the word 'Hack ...",
       "description": "Several members spammed the forums advertising 'Hack Society'; staff banned them and the word 'Hack Society' was censored.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "groups",
@@ -32,6 +35,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -44,6 +50,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -152,6 +161,9 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {

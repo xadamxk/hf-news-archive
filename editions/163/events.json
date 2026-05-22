@@ -29,6 +29,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -50,7 +53,10 @@
       "category": "site",
       "title": "The vouch counter under member post dates in the Marketplace was replaced with a reputation counter...",
       "description": "The vouch counter under member post dates in the Marketplace was replaced with a reputation counter to make trader feedback easier to assess.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -62,6 +68,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {

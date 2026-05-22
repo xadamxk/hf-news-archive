@@ -5,7 +5,10 @@
             "title": "Recent Contest Spamming Warning",
             "description": "A warning was issued to users spamming the contest section with endless low-quality posts. Replies should be high-quality and members should not enter too many times to avoid a ban for contest spamming.",
             "url": "https://hackforums.net/showthread.php?tid=6136617",
-            "users": []
+            "users": [],
+            "tags": [
+                "town-hall"
+            ]
         },
         {
             "category": "groups",

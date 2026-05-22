@@ -20,7 +20,10 @@
             "title": "Vendor Private Forum",
             "description": "Vendors now have a private forum for assistance and Marketplace discussions; only Vendor group members can access it.",
             "url": "https://hackforums.net/showthread.php?tid=5948613",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
@@ -42,7 +45,10 @@
             "title": "r00t Group Price Reduced",
             "description": "The r00t group price was slashed from $50 to $40.",
             "url": "https://hackforums.net/showthread.php?tid=5950414",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",

@@ -36,7 +36,10 @@
             "title": "Users Viewing Threads",
             "description": "Ub3r and V3ndor members can now view which users are viewing a thread. Non-upgraded and L33t members lost the ability to view the Who's Online list.",
             "url": "https://hackforums.net/showthread.php?tid=6241971",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",
@@ -193,7 +196,10 @@
             "title": "Signatures and Custom Groups",
             "description": "Changes were made to reduce the requirements preventing non-upgraded members from displaying their signatures on their profiles.",
             "url": "https://hackforums.net/showthread.php?tid=6242134",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
@@ -215,14 +221,20 @@
             "title": "Custom Groups and Bytes",
             "description": "After months of low-quality spam in custom usergroups, the ability to earn bytes through those subforums has been removed; bytes from posts/threads are now earned only in the public forum.",
             "url": "https://hackforums.net/showthread.php?tid=6242312",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "Bytes History Filters",
             "description": "Users can now change views when looking at their Bytes History to filter by wins/losses, donations, bumps, and other transfers and purchases.",
             "url": "https://hackforums.net/showthread.php?tid=6241730",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "news",

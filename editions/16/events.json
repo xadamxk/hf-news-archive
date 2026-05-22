@@ -104,6 +104,9 @@
           "username": "The Elite",
           "uid": "136025"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -116,6 +119,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
@@ -149,7 +155,10 @@
       "category": "site",
       "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=653939"
+      "url": "http://hackforums.net/showthread.php?tid=653939",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "news",

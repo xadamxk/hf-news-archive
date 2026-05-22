@@ -4,7 +4,10 @@
       "category": "site",
       "title": "HF News added a new 'Gaming News' section, with a layout update planned to include a section bar.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "groups",
@@ -15,6 +18,9 @@
         {
           "username": "Castle Bravo"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -27,6 +33,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {

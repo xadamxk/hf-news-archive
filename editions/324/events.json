@@ -5,7 +5,10 @@
             "title": "Trust Scan Update",
             "description": "Omniscient has added another field to the trust scan page called \"Matching country of registration and latest IP\". Essentially, it allows the viewer to know if the country the account was registered in is the same as the latest IP the user has logged into. This was added in order to help prevent further scams by the person who has been scamming from Greece using accounts created in other countries. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5507985",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

@@ -5,21 +5,30 @@
             "title": "Hackuman Invisibility",
             "description": "A new Invisibility item was added to Hackuman, allowing members to hide from the battle page until they attack.",
             "url": "https://hackforums.net/showthread.php?tid=6062658",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Crew Tier Changes",
             "description": "Crew tiers were altered.",
             "url": "https://hackforums.net/showthread.php?tid=6063380",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "site",
             "title": "HF Phishing Attempts",
             "description": "A member was caught attempting phishing on HF and was banned. Members reminded to stay safe.",
             "url": "https://hackforums.net/showthread.php?tid=6063789",
-            "users": []
+            "users": [],
+            "tags": [
+                "town-hall"
+            ]
         },
         {
             "category": "groups",

@@ -50,6 +50,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -71,7 +74,10 @@
       "category": "site",
       "title": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory...",
       "description": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory websites; alternate domains have been recommended.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "users",

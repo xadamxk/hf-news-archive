@@ -20,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -32,6 +35,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -39,7 +45,10 @@
             "title": "Ub3r Upgrade Available",
             "description": "HF Ub3r returned, purchasable as a 1-year upgrade subscription. Existing Ub3r members retain their membership permanently.",
             "url": "https://hackforums.net/showthread.php?tid=5954114",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",

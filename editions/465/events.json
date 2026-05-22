@@ -5,7 +5,10 @@
             "title": "Official Stats Overhaul",
             "description": "HF overhauled the statistics page with TABS for more accurate details, updated once daily.",
             "url": "https://hackforums.net/showthread.php?tid=6069550",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

@@ -5,21 +5,30 @@
             "title": "Forum Subscription Changes",
             "description": "Forum Subscription has been updated; users can now select the notification type.",
             "url": "https://hackforums.net/showthread.php?tid=6102055",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Convo Jackpot Bytes Game",
             "description": "Users can now play the Bytes Game in HF Convo for a chance to win the Jackpot.",
             "url": "https://hackforums.net/showthread.php?tid=6102738",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Follow a Member Notifications",
             "description": "HF is considering adding a notification system for new threads created by a followed member; opinions requested.",
             "url": "https://hackforums.net/showthread.php?tid=6102732",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

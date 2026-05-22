@@ -4,7 +4,10 @@
       "category": "site",
       "title": "Contests section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=155"
+      "url": "http://hackforums.net/forumdisplay.php?fid=155",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -16,6 +19,9 @@
           "username": "--([-S7N-])--",
           "uid": "110893"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -28,6 +34,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -40,13 +49,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
       "category": "site",
       "title": "Graphics tab added with GFX Battles and GFX Contests subforums.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "threads",

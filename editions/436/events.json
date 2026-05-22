@@ -5,7 +5,10 @@
             "title": "$100 ScratchCard with Guaranteed Wins",
             "description": "A new nine-slot scratch card was added to the Scratch Card section for $100, ensuring a guaranteed win.",
             "url": "https://hackforums.net/showthread.php?tid=5972259",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {

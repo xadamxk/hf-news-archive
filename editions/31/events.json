@@ -14,6 +14,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -26,13 +29,19 @@
           "username": "Crow",
           "uid": "2103"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
       "category": "site",
       "title": "HF surpasses 8,000,000 posts.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "groups",
@@ -99,7 +108,10 @@
       "category": "site",
       "title": "Lounge rating system removed (performance).",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -111,6 +123,9 @@
           "username": "Saged",
           "uid": "47360"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {

@@ -5,7 +5,10 @@
             "title": "Buddy List Popup Change",
             "description": "Members can now quickly check the posts or threads of buddies via the 'Buddies' link on the top menu.",
             "url": "https://hackforums.net/showthread.php?tid=5893683",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -53,6 +56,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {

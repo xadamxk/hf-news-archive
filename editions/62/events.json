@@ -13,7 +13,10 @@
       "category": "site",
       "title": "Donation begging is now forbidden in the Group and Crew General Discussions section after a user...",
       "description": "Donation begging is now forbidden in the Group and Crew General Discussions section after a user collected money for a new group and ran with it.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "groups",
@@ -29,6 +32,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {

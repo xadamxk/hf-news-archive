@@ -27,7 +27,10 @@
             "title": "Crew Userbars Update",
             "description": "The maximum file size for custom crew userbars was increased from 60k to 150k.",
             "url": "https://hackforums.net/showthread.php?tid=6252933",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "groups",
@@ -118,6 +121,9 @@
                     "uid": "5185438",
                     "username": "Migos"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -189,7 +195,10 @@
             "title": "Warning Level Changes",
             "description": "The Warning System was adjusted to be less harsh: posting limitation times and ban lengths were both reduced.",
             "url": "https://hackforums.net/showthread.php?tid=6253534",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "news",

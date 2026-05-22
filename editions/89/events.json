@@ -19,7 +19,10 @@
       "category": "site",
       "title": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link tha...",
       "description": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link that leads to a phishing login page.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "town-hall"
+      ]
     },
     {
       "category": "groups",
@@ -108,6 +111,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {

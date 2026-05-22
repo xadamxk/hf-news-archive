@@ -34,7 +34,10 @@
       "category": "site",
       "title": "HF IM XMPP service shut down; all accounts deleted",
       "description": "All XMPP accounts were deleted and the service became unavailable. Members speculated it was related to an upcoming major change rather than a security breach.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -46,6 +49,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {

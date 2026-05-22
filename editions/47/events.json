@@ -10,6 +10,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -37,6 +40,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
@@ -58,7 +64,10 @@
       "category": "site",
       "title": "Word filter added for 'Lulz-sec'.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "users",
@@ -86,6 +95,9 @@
           "username": "Atthackers",
           "uid": "616850"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -98,6 +110,9 @@
           "username": "Cobalt+",
           "uid": "277712"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -120,7 +135,10 @@
       "category": "groups",
       "title": "RATs subsection description updated.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "news",

@@ -15,7 +15,10 @@
             "title": "HF Phishing Attempts warning",
             "description": "Reminder published to verify the URL before entering passwords or sensitive info, as Hack Forums is not exempt from phishing attempts.",
             "url": "https://hackforums.net/showthread.php?tid=6063789",
-            "users": []
+            "users": [],
+            "tags": [
+                "town-hall"
+            ]
         },
         {
             "category": "users",

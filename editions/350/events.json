@@ -5,14 +5,20 @@
             "title": "HF API v1 Beta",
             "description": "After R3KT testing feedback, Omniscient and Meshcollider reworked the API toward RESTful usage with the key in the authentication header.",
             "url": "http://hackforums.net/showthread.php?tid=5662721",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "No longer closing inactive accounts",
             "description": "Omniscient ended inactive-account closures and may reopen L33T/Ub3r accounts closed for inactivity.",
             "url": "http://hackforums.net/showthread.php?tid=5659792",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",

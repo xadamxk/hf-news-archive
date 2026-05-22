@@ -26,19 +26,28 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
       "category": "site",
       "title": "Dynamic images are no longer allowed in signatures or avatars.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1638851"
+      "url": "http://hackforums.net/showthread.php?tid=1638851",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "Minimum post length lowered from 40 to 35 characters; PM box capacity for regular members lowered...",
       "description": "Minimum post length lowered from 40 to 35 characters; PM box capacity for regular members lowered from 100 to 50 to keep the table manageable.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
@@ -50,6 +59,9 @@
           "username": "BaussHacker",
           "uid": "522041"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -92,6 +104,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -104,6 +119,9 @@
           "username": "Time",
           "uid": "326128"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {

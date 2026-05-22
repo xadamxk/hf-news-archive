@@ -4,13 +4,19 @@
       "category": "site",
       "title": "A proxy killer plug-in was added that blocks proxies for both registration and login.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "site",
       "title": "A new Graphics Market section was added under Service Offerings for graphics service sales.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -28,19 +34,28 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
       "category": "site",
       "title": "Official mods list page (modlist.php) and staff list page (stafflist.php) were added.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "An official Google +1 button was added to the footer to help with SEO.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "interviews",

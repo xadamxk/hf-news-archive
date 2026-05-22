@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -30,13 +33,19 @@
         {
           "username": "Castle Bravo"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
       "category": "site",
       "title": "Over one million posts were deleted from the Lounge, likely a routine post prune.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "users",

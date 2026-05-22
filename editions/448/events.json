@@ -5,7 +5,10 @@
             "title": "Push Notifications",
             "description": "Hack Forums now has native push notification support across Chrome, Firefox, Edge, and Chrome for Android. Members are prompted to allow or deny notifications.",
             "url": "https://hackforums.net/showthread.php?tid=6022760",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
