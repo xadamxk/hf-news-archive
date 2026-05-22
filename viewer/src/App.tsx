@@ -1,4 +1,5 @@
 import {
+  Fragment,
   memo,
   useDeferredValue,
   useEffect,
@@ -15,8 +16,20 @@ import type {
   CompactUser,
   ContributorsPayload,
   EventsPayload,
+  StatsPayload,
+  StatsRow,
 } from "./types";
 import { PROFILE_BASE } from "./types";
+import {
+  CartesianGrid,
+  Line,
+  LineChart,
+  ReferenceLine,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
 
 type DateFilterMode = "off" | "before" | "after" | "between";
 
@@ -26,9 +39,16 @@ const DATE_FILTER_MAX = new Date(2040, 11, 31);
 
 const PAGE_SIZE = 100;
 
-/** HF News edition opener thread (pid from aggregated `ed[].p`). */
-function editionShowthreadUrl(pid: string): string {
-  return `http://hackforums.net/showthread.php?pid=${encodeURIComponent(pid.trim())}`;
+/** HF News edition opener URL. Blog-sourced editions (where `b` is set) route
+ *  to the blog page; post-sourced editions route to the showthread.php URL. */
+function editionUrl(row: Pick<CompactEditionRow, "p" | "b">): string | null {
+  if (row.b && row.b.trim()) {
+    return `https://hackforums.net/blog/${encodeURIComponent(row.b.trim())}`;
+  }
+  if (row.p && row.p.trim()) {
+    return `http://hackforums.net/showthread.php?pid=${encodeURIComponent(row.p.trim())}`;
+  }
+  return null;
 }
 
 const datePickerDropdownProps = {
@@ -342,11 +362,12 @@ const EventCard = memo(function EventCard({
           </h2>
           <p className="post-meta">
             <span className="post-meta-strong">
-              {edition != null ? (
-                edition.p.trim() ? (
+              {edition != null ? (() => {
+                const href = editionUrl(edition);
+                return href ? (
                   <a
                     className="post-meta-edition-link"
-                    href={editionShowthreadUrl(edition.p)}
+                    href={href}
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -354,8 +375,8 @@ const EventCard = memo(function EventCard({
                   </a>
                 ) : (
                   <>Edition {edition.e}</>
-                )
-              ) : (
+                );
+              })() : (
                 <>Edition ?</>
               )}
             </span>
@@ -391,11 +412,615 @@ const EventCard = memo(function EventCard({
 
 type SortOrder = "newest" | "oldest";
 
-type TabKey = "events" | "contributors";
+type TabKey = "events" | "editions" | "contributors" | "stats";
 
-function ContributorsPanel() {
+/** Configuration for each chart in the small-multiples grid. */
+type SiteStatChart = {
+  /** dataKey passed to Recharts — must match a field on the enriched chart row. */
+  key: string;
+  label: string;
+  /** Stroke color for the line (HF blue palette where possible). */
+  color: string;
+};
+
+const SITE_TOTAL_CHARTS: SiteStatChart[] = [
+  { key: "tp", label: "Total Posts", color: "#499FED" },
+  { key: "tt", label: "Total Threads", color: "#32CD32" },
+  { key: "tm", label: "Total Members", color: "#FFD700" },
+];
+
+const SITE_GROWTH_CHARTS: SiteStatChart[] = [
+  { key: "posts_added", label: "Posts Added (since last edition)", color: "#499FED" },
+  { key: "threads_added", label: "Threads Added (since last edition)", color: "#32CD32" },
+  { key: "members_added", label: "Members Added (since last edition)", color: "#FFD700" },
+];
+
+/** Format big numbers compactly for the chart Y axis (45M, 13K, etc.). */
+function compactNumber(n: number): string {
+  if (n == null || !Number.isFinite(n)) return "";
+  const abs = Math.abs(n);
+  if (abs >= 1_000_000) return `${(n / 1_000_000).toFixed(1)}M`;
+  if (abs >= 1_000) return `${(n / 1_000).toFixed(1)}K`;
+  return Number.isInteger(n) ? String(n) : n.toFixed(2);
+}
+
+/** Format a value in tooltips with thousands separators. */
+function fullNumber(n: number): string {
+  if (n == null || !Number.isFinite(n)) return "";
+  return Number.isInteger(n)
+    ? n.toLocaleString()
+    : n.toLocaleString(undefined, { maximumFractionDigits: 2 });
+}
+
+/** Short X-axis tick: "Jan '17" — keeps room for many editions horizontally. */
+function shortMonthYear(ms: number): string {
+  if (!Number.isFinite(ms)) return "";
+  const d = new Date(ms);
+  const mon = d.toLocaleDateString(undefined, { month: "short" });
+  const yr = String(d.getFullYear()).slice(-2);
+  return `${mon} '${yr}`;
+}
+
+/** Full date for tooltips: "Aug 22, 2017". */
+function fullDate(ms: number): string {
+  if (!Number.isFinite(ms)) return "";
+  return new Date(ms).toLocaleDateString(undefined, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
+}
+
+/** Enriched stat row: original cumulative fields plus dateMs (for the X axis)
+ *  and the derived posts_added / threads_added / members_added growth fields.
+ *
+ *  Growth fields are CLAMPED to 0 (negative deltas occur when accounts are
+ *  purged — not real "negative growth"). The raw signed value is preserved
+ *  in `*_raw` for tooltip transparency. */
+type EnrichedStatsRow = StatsRow & {
+  e: number;
+  dateMs?: number;
+  posts_added?: number;
+  posts_added_raw?: number;
+  threads_added?: number;
+  threads_added_raw?: number;
+  members_added?: number;
+  members_added_raw?: number;
+};
+
+/** Quantile (0..1) of a numeric array; nearest-rank method (no interpolation). */
+function quantile(sorted: number[], q: number): number | null {
+  if (sorted.length === 0) return null;
+  const idx = Math.min(sorted.length - 1, Math.floor(sorted.length * q));
+  return sorted[idx];
+}
+
+/** Compute a Y-axis cap that hides extreme outliers without losing the data
+ *  points. Returns null if the dataset has no meaningful outliers (the chart
+ *  can then use its natural max). Heuristic: if max > 3 × p95, cap at p95;
+ *  otherwise no cap. */
+function computeSoftCap(values: number[]): number | null {
+  if (values.length < 8) return null; // too small to identify outliers reliably
+  const sorted = [...values].sort((a, b) => a - b);
+  const p95 = quantile(sorted, 0.95);
+  const max = sorted[sorted.length - 1];
+  if (p95 == null || max == null) return null;
+  if (max <= p95 * 3) return null;
+  // Cap above p95 so typical "high but not extreme" weeks aren't clipped.
+  return Math.ceil(p95 * 1.5);
+}
+
+type GapMarker = { atMs: number; days: number; label: string };
+
+function StatChartCard({
+  config,
+  data,
+  gapMarkers,
+}: {
+  config: SiteStatChart;
+  data: EnrichedStatsRow[];
+  gapMarkers: GapMarker[];
+}) {
+  // Build the series — drop any editions where this metric or the dateMs is missing.
+  const series = data.filter(
+    (r) =>
+      (r as Record<string, unknown>)[config.key] != null &&
+      r.dateMs != null,
+  );
+
+  // Per-chart cap so an outlier like ed 456's +20M posts doesn't squash the
+  // rest of the timeline to a flat line. Values above the cap are rendered
+  // at the cap line with a labelled dot showing the actual figure.
+  const values = series
+    .map((r) => (r as Record<string, unknown>)[config.key] as number | undefined)
+    .filter((v): v is number => v != null);
+  const cap = computeSoftCap(values);
+
+  // The raw-value key (e.g. `posts_added_raw`) carries the signed pre-clamp
+  // figure for tooltip transparency.
+  const rawKey = `${config.key}_raw`;
+
+  // Display-value key — same as config.key when no cap, otherwise a clamped
+  // version stitched into each row.
+  const seriesWithDisplay = cap != null
+    ? series.map((r) => ({
+        ...r,
+        [`${config.key}_display`]: Math.min(
+          (r as Record<string, number | undefined>)[config.key] ?? 0,
+          cap,
+        ),
+      }))
+    : series;
+  const displayKey = cap != null ? `${config.key}_display` : config.key;
+  const yDomain: [number, number | string] = cap != null
+    ? [0, cap]
+    : [0, "auto"];
+
+  return (
+    <div className="stat-chart-card">
+      <h3 className="stat-chart-title">{config.label}</h3>
+      <div className="stat-chart-figure">
+        <ResponsiveContainer width="100%" height={320}>
+          <LineChart
+            data={seriesWithDisplay}
+            margin={{ top: 16, right: 16, bottom: 4, left: 4 }}
+          >
+            <CartesianGrid stroke="#1d1d1d" strokeDasharray="3 3" />
+            <XAxis
+              dataKey="dateMs"
+              type="number"
+              scale="time"
+              domain={["dataMin", "dataMax"]}
+              tick={{ fill: "#c3c3c3", fontSize: 11 }}
+              stroke="#1d1d1d"
+              tickFormatter={shortMonthYear}
+            />
+            <YAxis
+              tick={{ fill: "#c3c3c3", fontSize: 11 }}
+              stroke="#1d1d1d"
+              tickFormatter={compactNumber}
+              width={56}
+              domain={yDomain}
+              allowDataOverflow={cap != null}
+            />
+            <Tooltip
+              contentStyle={{
+                background: "#333",
+                border: "1px solid #1d1d1d",
+                color: "#efefef",
+                fontSize: 13,
+              }}
+              labelStyle={{ color: "#499FED", fontWeight: 600 }}
+              labelFormatter={(_v, payload) => {
+                const p = Array.isArray(payload) && payload.length > 0
+                  ? (payload[0].payload as StatsRow & { dateMs?: number })
+                  : null;
+                if (!p) return "";
+                const e = p.e;
+                const ms = p.dateMs;
+                return `Edition ${e}${ms != null ? ` — ${fullDate(ms)}` : ""}`;
+              }}
+              formatter={(_displayValue: number, _name, item) => {
+                // Show the actual (un-clamped) value; flag if the raw was
+                // negative (a purge) so the user knows the chart's 0 isn't
+                // a literal zero-growth week.
+                const payload = item.payload as Record<string, number | undefined>;
+                const actual = payload[config.key];
+                const raw = payload[rawKey];
+                const aboveCap = cap != null && actual != null && actual > cap;
+                const wasNegative = raw != null && raw < 0;
+                const display = actual != null ? fullNumber(actual) : "";
+                const note = wasNegative
+                  ? ` (raw ${fullNumber(raw as number)} — account purge clamped to 0)`
+                  : aboveCap
+                    ? " (above visible range)"
+                    : "";
+                return [`${display}${note}`, config.label];
+              }}
+            />
+            {/* Vertical dashed lines marking publishing gaps > 90 days. */}
+            {gapMarkers.map((g, i) => (
+              <ReferenceLine
+                key={`gap-${i}`}
+                x={g.atMs}
+                stroke="#ff79c6"
+                strokeDasharray="4 4"
+                strokeOpacity={0.6}
+                label={{
+                  value: g.label,
+                  position: "top",
+                  fill: "#ff79c6",
+                  fontSize: 10,
+                }}
+                ifOverflow="extendDomain"
+              />
+            ))}
+            <Line
+              type="monotone"
+              dataKey={displayKey}
+              stroke={config.color}
+              strokeWidth={2}
+              dot={cap != null
+                ? renderClampedDot(config.key, cap, config.color)
+                : false}
+              activeDot={{ r: 4 }}
+              isAnimationActive={false}
+            />
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
+    </div>
+  );
+}
+
+/** Custom dot renderer: only draws a dot when the original value was clamped
+ *  by the soft cap. Renders a hollow circle in the line color with a label
+ *  above showing the actual figure, so outliers are clearly visible without
+ *  inflating the Y-axis. Other points get no dot (cleaner chart). */
+function renderClampedDot(
+  fieldKey: string,
+  cap: number,
+  color: string,
+) {
+  type DotProps = {
+    cx?: number;
+    cy?: number;
+    payload?: Record<string, number | undefined>;
+    index?: number;
+  };
+  return (props: DotProps) => {
+    const { cx, cy, payload } = props;
+    if (cx == null || cy == null || !payload) return <g />;
+    const actual = payload[fieldKey];
+    if (actual == null || actual <= cap) return <g />;
+    return (
+      <g>
+        <circle
+          cx={cx}
+          cy={cy}
+          r={5}
+          fill="#1a1a1a"
+          stroke={color}
+          strokeWidth={2}
+        />
+        <text
+          x={cx}
+          y={cy - 9}
+          textAnchor="middle"
+          fontSize={10}
+          fill={color}
+          fontWeight={600}
+        >
+          {compactNumber(actual)}
+        </text>
+      </g>
+    );
+  };
+}
+
+function StatisticsPanel({ editions }: { editions: CompactEditionRow[] }) {
+  const [data, setData] = useState<StatsPayload | null>(null);
+  const [err, setErr] = useState<string | null>(null);
+  const [minEdition, setMinEdition] = useState<string>("");
+  const [maxEdition, setMaxEdition] = useState<string>("");
+
+  /** Map edition number → unix-ms timestamp for the chart X axis. */
+  const editionDateMs = useMemo(() => {
+    const m = new Map<number, number>();
+    for (const ed of editions) {
+      if (typeof ed.e === "number" && typeof ed.s === "number") {
+        m.set(ed.e, ed.s * 1000);
+      }
+    }
+    return m;
+  }, [editions]);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`${import.meta.env.BASE_URL}stats.json`, { cache: "no-cache" })
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then((j: StatsPayload) => {
+        if (!cancelled) setData(j);
+      })
+      .catch((e: unknown) => {
+        if (!cancelled) setErr(e instanceof Error ? e.message : String(e));
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const dataRange = useMemo(() => {
+    if (!data || data.s.length === 0) return { min: 0, max: 0 };
+    const nums = data.s.map((r) => r.e);
+    return { min: Math.min(...nums), max: Math.max(...nums) };
+  }, [data]);
+
+  /** Sort the full dataset by edition number, attach dateMs for the X axis,
+   *  and derive growth-between-editions deltas (posts/threads/members added
+   *  since the closest previous edition that had a value for that field).
+   *  Deltas are computed on the FULL dataset before filtering so the first
+   *  edition in any range still has a delta relative to its true predecessor,
+   *  not a misleading 0. */
+  const allRowsWithGrowth = useMemo<EnrichedStatsRow[]>(() => {
+    if (!data) return [];
+    const sorted = [...data.s].sort((a, b) => a.e - b.e);
+    let prevTp: number | undefined;
+    let prevTt: number | undefined;
+    let prevTm: number | undefined;
+    return sorted.map((r) => {
+      const enriched: EnrichedStatsRow = {
+        ...r,
+        dateMs: editionDateMs.get(r.e),
+      };
+      if (r.tp != null && prevTp != null) {
+        const raw = r.tp - prevTp;
+        enriched.posts_added_raw = raw;
+        enriched.posts_added = Math.max(0, raw);
+      }
+      if (r.tt != null && prevTt != null) {
+        const raw = r.tt - prevTt;
+        enriched.threads_added_raw = raw;
+        enriched.threads_added = Math.max(0, raw);
+      }
+      if (r.tm != null && prevTm != null) {
+        const raw = r.tm - prevTm;
+        enriched.members_added_raw = raw;
+        enriched.members_added = Math.max(0, raw);
+      }
+      if (r.tp != null) prevTp = r.tp;
+      if (r.tt != null) prevTt = r.tt;
+      if (r.tm != null) prevTm = r.tm;
+      return enriched;
+    });
+  }, [data, editionDateMs]);
+
+  const filteredRows = useMemo(() => {
+    const minN = minEdition === "" ? -Infinity : Number(minEdition);
+    const maxN = maxEdition === "" ? Infinity : Number(maxEdition);
+    return allRowsWithGrowth.filter((r) => r.e >= minN && r.e <= maxN);
+  }, [allRowsWithGrowth, minEdition, maxEdition]);
+
+  /** Publishing gaps longer than 90 days inside the filtered range. Surfaced
+   *  as vertical dashed reference lines on each chart so the user can see
+   *  that the timeline is non-uniform — a large spike right after a gap
+   *  represents months of growth, not a single week. */
+  const gapMarkers = useMemo(() => {
+    const out: { atMs: number; days: number; label: string }[] = [];
+    let prev: EnrichedStatsRow | null = null;
+    for (const r of filteredRows) {
+      if (prev && prev.dateMs != null && r.dateMs != null) {
+        const days = (r.dateMs - prev.dateMs) / 86400000;
+        if (days > 90) {
+          const months = Math.round(days / 30);
+          out.push({
+            atMs: (prev.dateMs + r.dateMs) / 2,
+            days,
+            label: months >= 12 ? `~${(months / 12).toFixed(1)}y gap` : `~${months}mo gap`,
+          });
+        }
+      }
+      prev = r;
+    }
+    return out;
+  }, [filteredRows]);
+
+  if (err) {
+    return (
+      <div id="panel-stats" role="tabpanel" className="stats-panel">
+        <p className="error">Failed to load stats: {err}</p>
+      </div>
+    );
+  }
+  if (!data) {
+    return (
+      <div id="panel-stats" role="tabpanel" className="stats-panel">
+        <p className="loading">Loading statistics…</p>
+      </div>
+    );
+  }
+
+  return (
+    <div id="panel-stats" role="tabpanel" className="stats-panel">
+      <p className="meta" style={{ marginTop: 0 }}>
+        {data.n} editions with stats captured (editions {dataRange.min} –
+        {" "}{dataRange.max}). Filter the range below; charts redraw
+        automatically.
+      </p>
+
+      <div className="stats-filter">
+        <label className="stats-filter-cell">
+          <span className="filter-heading">From edition</span>
+          <input
+            type="number"
+            inputMode="numeric"
+            className="filter-input"
+            placeholder={String(dataRange.min)}
+            value={minEdition}
+            onChange={(e) => setMinEdition(e.target.value)}
+            min={dataRange.min}
+            max={dataRange.max}
+          />
+        </label>
+        <label className="stats-filter-cell">
+          <span className="filter-heading">To edition</span>
+          <input
+            type="number"
+            inputMode="numeric"
+            className="filter-input"
+            placeholder={String(dataRange.max)}
+            value={maxEdition}
+            onChange={(e) => setMaxEdition(e.target.value)}
+            min={dataRange.min}
+            max={dataRange.max}
+          />
+        </label>
+        {(minEdition || maxEdition) && (
+          <button
+            type="button"
+            className="stats-filter-reset"
+            onClick={() => {
+              setMinEdition("");
+              setMaxEdition("");
+            }}
+          >
+            Reset
+          </button>
+        )}
+        <span className="stats-filter-count">
+          {filteredRows.length} edition{filteredRows.length === 1 ? "" : "s"}{" "}
+          in range
+        </span>
+      </div>
+
+      <section className="stats-section">
+        <h2 className="stats-section-title">Site Statistics — Cumulative Totals</h2>
+        <div className="stat-chart-grid">
+          {SITE_TOTAL_CHARTS.map((c) => (
+            <StatChartCard key={c.key} config={c} data={filteredRows} gapMarkers={gapMarkers} />
+          ))}
+        </div>
+      </section>
+
+      <section className="stats-section">
+        <h2 className="stats-section-title">Site Statistics — Growth Between Editions</h2>
+        <p className="meta" style={{ marginTop: "-0.4rem", marginBottom: "0.6rem" }}>
+          Posts / threads / members added between each edition and the previous
+          one carrying that field. Long publishing gaps show as taller bars
+          because they represent more elapsed activity, not a sudden spike.
+        </p>
+        <div className="stat-chart-grid">
+          {SITE_GROWTH_CHARTS.map((c) => (
+            <StatChartCard key={c.key} config={c} data={filteredRows} gapMarkers={gapMarkers} />
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
+
+type SortColumn = "edition" | "date";
+type SortDirection = "asc" | "desc";
+
+function EditionsPanel({ editions }: { editions: CompactEditionRow[] }) {
+  // Default = most recent first; clicking a sortable header toggles direction
+  // on that column or switches to it ascending if it wasn't the active column.
+  const [sortColumn, setSortColumn] = useState<SortColumn>("date");
+  const [sortDirection, setSortDirection] = useState<SortDirection>("desc");
+
+  function handleSort(col: SortColumn) {
+    if (col === sortColumn) {
+      setSortDirection((d) => (d === "asc" ? "desc" : "asc"));
+    } else {
+      setSortColumn(col);
+      setSortDirection("desc");
+    }
+  }
+
+  const sorted = useMemo(() => {
+    const copy = [...editions];
+    copy.sort((a, b) => {
+      // Edition number and date are both monotonic in practice, but the user
+      // can pick either explicitly. Fall back to edition number on ties.
+      const primary = sortColumn === "edition" ? a.e - b.e : a.s - b.s;
+      return sortDirection === "asc" ? primary : -primary;
+    });
+    return copy;
+  }, [editions, sortColumn, sortDirection]);
+
+  function sortIndicator(col: SortColumn): string {
+    if (col !== sortColumn) return "";
+    return sortDirection === "asc" ? " ▲" : " ▼";
+  }
+
+  return (
+    <div id="panel-editions" role="tabpanel" className="editions-panel">
+      <p className="meta" style={{ marginTop: 0 }}>
+        {editions.length} editions in the archive. Click the Edition or Date
+        column header to flip the sort order.
+      </p>
+      <div className="editions-table-wrap">
+        <table className="editions-table">
+          <thead>
+            <tr>
+              <th
+                scope="col"
+                className="col-edition-num is-sortable"
+                aria-sort={sortColumn === "edition"
+                  ? (sortDirection === "asc" ? "ascending" : "descending")
+                  : "none"}
+                onClick={() => handleSort("edition")}
+              >
+                Edition{sortIndicator("edition")}
+              </th>
+              <th
+                scope="col"
+                className="col-edition-date is-sortable"
+                aria-sort={sortColumn === "date"
+                  ? (sortDirection === "asc" ? "ascending" : "descending")
+                  : "none"}
+                onClick={() => handleSort("date")}
+              >
+                Date{sortIndicator("date")}
+              </th>
+              <th scope="col" className="col-edition-title">Title</th>
+            </tr>
+          </thead>
+          <tbody>
+            {sorted.map((row) => {
+              const href = editionUrl(row);
+              const isBlog = !!row.b;
+              return (
+                <tr key={`${row.e}-${row.s}`}>
+                  <td className="col-edition-num">
+                    {href ? (
+                      <a
+                        className="edition-link"
+                        href={href}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {row.e}
+                      </a>
+                    ) : (
+                      <span>{row.e}</span>
+                    )}
+                  </td>
+                  <td className="col-edition-date">{formatDate(row.s)}</td>
+                  <td className="col-edition-title">
+                    {href ? (
+                      <a
+                        className="edition-link"
+                        href={href}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {row.h}
+                      </a>
+                    ) : (
+                      <span>{row.h}</span>
+                    )}
+                    {isBlog ? <span className="edition-blog-tag"> [BLOG]</span> : null}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+
+function ContributorsPanel({ editions }: { editions: CompactEditionRow[] }) {
   const [data, setData] = useState<ContributorsPayload | null>(null);
   const [err, setErr] = useState<string | null>(null);
+  /** Set of uids whose editions row is currently expanded. Multiple rows can
+   *  be expanded in parallel. */
+  const [expanded, setExpanded] = useState<Set<string>>(() => new Set());
 
   useEffect(() => {
     let cancelled = false;
@@ -414,6 +1039,23 @@ function ContributorsPanel() {
       cancelled = true;
     };
   }, []);
+
+  /** Edition number → compact row lookup, used by the expanded pill links to
+   *  build thread vs blog URLs. */
+  const editionByNumber = useMemo(() => {
+    const m = new Map<number, CompactEditionRow>();
+    for (const e of editions) m.set(e.e, e);
+    return m;
+  }, [editions]);
+
+  function toggle(uid: string) {
+    setExpanded((prev) => {
+      const next = new Set(prev);
+      if (next.has(uid)) next.delete(uid);
+      else next.add(uid);
+      return next;
+    });
+  }
 
   if (err) {
     return (
@@ -443,26 +1085,73 @@ function ContributorsPanel() {
               <th scope="col" className="col-editions">Contributed Editions</th>
               <th scope="col" className="col-username">Username</th>
               <th scope="col" className="col-roles">Roles</th>
+              <th scope="col" className="col-expand" aria-label="Show editions" />
             </tr>
           </thead>
           <tbody>
-            {data.c.map((row) => (
-              <tr key={row.i}>
-                <td className="col-editions">{row.e}</td>
-                <td className="col-username">
-                  <a
-                    href={`${PROFILE_BASE}${encodeURIComponent(row.i)}`}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    {row.u}
-                  </a>
-                </td>
-                <td className="col-roles">
-                  {(row.r ?? []).join(", ")}
-                </td>
-              </tr>
-            ))}
+            {data.c.map((row) => {
+              const isOpen = expanded.has(row.i);
+              const eds = row.eds ?? [];
+              return (
+                <Fragment key={row.i}>
+                  <tr>
+                    <td className="col-editions">{row.e}</td>
+                    <td className="col-username">
+                      <a
+                        href={`${PROFILE_BASE}${encodeURIComponent(row.i)}`}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {row.u}
+                      </a>
+                    </td>
+                    <td className="col-roles">
+                      {(row.r ?? []).join(", ")}
+                    </td>
+                    <td className="col-expand">
+                      <button
+                        type="button"
+                        className={`expand-btn${isOpen ? " is-open" : ""}`}
+                        aria-expanded={isOpen}
+                        aria-label={isOpen ? `Hide editions for ${row.u}` : `Show editions for ${row.u}`}
+                        onClick={() => toggle(row.i)}
+                        disabled={eds.length === 0}
+                      >
+                        <span aria-hidden="true">▸</span>
+                      </button>
+                    </td>
+                  </tr>
+                  {isOpen && eds.length > 0 ? (
+                    <tr className="expanded-row">
+                      <td colSpan={4}>
+                        <div className="edition-pills">
+                          {eds.map((edNum) => {
+                            const er = editionByNumber.get(edNum);
+                            const href = er ? editionUrl(er) : null;
+                            const cls = er?.b ? "edition-pill is-blog" : "edition-pill";
+                            return href ? (
+                              <a
+                                key={edNum}
+                                className={cls}
+                                href={href}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                {edNum}
+                              </a>
+                            ) : (
+                              <span key={edNum} className={`${cls} is-orphan`}>
+                                {edNum}
+                              </span>
+                            );
+                          })}
+                        </div>
+                      </td>
+                    </tr>
+                  ) : null}
+                </Fragment>
+              );
+            })}
           </tbody>
         </table>
       </div>
@@ -706,7 +1395,9 @@ export default function App() {
         <ul role="tablist">
           {([
             { key: "events", label: "Events" },
+            { key: "editions", label: "Editions" },
             { key: "contributors", label: "Contributors" },
+            { key: "stats", label: "Statistics" },
           ] as const).map((tab) => (
             <li key={tab.key}>
               <a
@@ -1017,8 +1708,12 @@ export default function App() {
         />
       ) : null}
         </div>
+      ) : activeTab === "editions" ? (
+        <EditionsPanel editions={raw.ed} />
+      ) : activeTab === "contributors" ? (
+        <ContributorsPanel editions={raw.ed} />
       ) : (
-        <ContributorsPanel />
+        <StatisticsPanel editions={raw.ed} />
       )}
 
       <footer className="site-footer">

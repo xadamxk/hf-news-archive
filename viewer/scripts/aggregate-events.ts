@@ -41,6 +41,9 @@ type CompactEditionRow = {
   p: string;
   a: string;
   h: string;
+  /** Blog URL slug for blog-sourced editions (e.g. "hack-forums-news-495"
+   *  → https://hackforums.net/blog/<b>). Omitted for post-sourced editions. */
+  b?: string;
 };
 type CompactEvent = {
   c: string;
@@ -137,6 +140,21 @@ async function main() {
 
     const events = data.events;
     if (!Array.isArray(events)) continue;
+
+    // Blog-sourced editions: pull the URL slug from blogs.json so the viewer
+    // can route to `https://hackforums.net/blog/<slug>` instead of
+    // `showthread.php?pid=…`.
+    if (!row.p) {
+      try {
+        const blogRaw = await readFile(join(editionsDir, d.name, "blogs.json"), "utf8");
+        const blogData = JSON.parse(blogRaw) as { url?: unknown };
+        if (typeof blogData.url === "string" && blogData.url.trim()) {
+          row.b = blogData.url.trim();
+        }
+      } catch {
+        // No blogs.json or unreadable; leave row.b unset.
+      }
+    }
 
     const editionIdx = editions.length;
     editions.push(row);

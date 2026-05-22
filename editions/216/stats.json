@@ -1,0 +1,81 @@
+{
+  "edition": 216,
+  "site_statistics": {
+    "total_posts": 43579615,
+    "total_threads": 3136545,
+    "total_members": 2507656,
+    "daily_posts": 13923,
+    "daily_threads": 1002,
+    "daily_new_members": 801
+  },
+  "ban_statistics": {
+    "last_week": {
+      "staff_bans": 52,
+      "vacation_bans": 12,
+      "combined_bans": 64
+    },
+    "total": {
+      "staff_bans": 711,
+      "vacation_bans": 80,
+      "combined_bans": 791
+    }
+  },
+  "forum_counts": {
+    "notable_sections": {
+      "lounge": {
+        "threads": 406198,
+        "posts": 5599674
+      },
+      "ranf": {
+        "threads": 42733,
+        "posts": 564073
+      }
+    },
+    "tabs": {
+      "general": {
+        "threads": 637025,
+        "posts": 9278963
+      },
+      "hacking": {
+        "threads": 596768,
+        "posts": 5262388
+      },
+      "computing": {
+        "threads": 179460,
+        "posts": 1532314
+      },
+      "coding": {
+        "threads": 146493,
+        "posts": 1273883
+      },
+      "gaming": {
+        "threads": 368642,
+        "posts": 3847628
+      },
+      "vip": {
+        "threads": 109783,
+        "posts": 1038581
+      },
+      "groups": {
+        "threads": 5752,
+        "posts": 255360
+      },
+      "webmaster": {
+        "threads": 69456,
+        "posts": 511288
+      },
+      "graphics": {
+        "threads": 118038,
+        "posts": 897285
+      },
+      "marketplace": {
+        "threads": 741767,
+        "posts": 6969292
+      },
+      "money": {
+        "threads": 118581,
+        "posts": 1618915
+      }
+    }
+  }
+}

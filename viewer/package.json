@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "data": "bun run scripts/aggregate-events.ts && bun run scripts/aggregate-contributors.ts",
+    "data": "bun run scripts/aggregate-events.ts && bun run scripts/aggregate-contributors.ts && bun run scripts/aggregate-stats.ts",
     "dev": "vite",
     "prebuild": "bun run data",
     "build": "vite build",
@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-datepicker": "^9.1.0",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "recharts": "^3.8.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",

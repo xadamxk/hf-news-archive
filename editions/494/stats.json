@@ -1,0 +1,30 @@
+{
+  "edition": 494,
+  "site_statistics": {
+    "total_posts": 60602844,
+    "total_threads": 4958746,
+    "total_members": 6141983,
+    "daily_posts": 11976.14,
+    "daily_threads": 1213.76,
+    "daily_new_members": 979.93
+  },
+  "ban_statistics": {
+    "last_week": {
+      "staff_bans": 8,
+      "vacation_bans": 2,
+      "combined_bans": 10
+    }
+  },
+  "forum_counts": {
+    "notable_sections": {
+      "lounge": {
+        "threads": 250003,
+        "posts": 4321478
+      },
+      "ranf": {
+        "threads": 75688,
+        "posts": 1209060
+      }
+    }
+  }
+}
