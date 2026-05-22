@@ -71,9 +71,6 @@
                     "uid": "504910",
                     "username": "Grim"
                 }
-            ],
-            "tags": [
-                "awards"
             ]
         },
         {
@@ -149,10 +146,6 @@
                     "uid": "3459543",
                     "username": "flavoral"
                 }
-            ],
-            "tags": [
-                "awards",
-                "features"
             ]
         },
         {
@@ -167,7 +160,6 @@
                 }
             ],
             "tags": [
-                "bug-fixes",
                 "milestones"
             ]
         },

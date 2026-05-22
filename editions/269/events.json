@@ -10,9 +10,6 @@
           "uid": "80618",
           "username": "nokia2mon2"
         }
-      ],
-      "tags": [
-        "features"
       ]
     },
     {
@@ -115,9 +112,6 @@
           "uid": "2858602",
           "username": "ClawzTech"
         }
-      ],
-      "tags": [
-        "awards"
       ]
     },
     {
@@ -130,10 +124,6 @@
           "uid": "1",
           "username": "Omniscient"
         }
-      ],
-      "tags": [
-        "bug-fixes",
-        "infrastructure"
       ]
     },
     {
@@ -199,7 +189,6 @@
         }
       ],
       "tags": [
-        "awards",
         "holidays"
       ]
     },

@@ -25,7 +25,7 @@
             ]
         },
         {
-            "category": "site",
+            "category": "threads",
             "title": "Convo App - Dev Blog #1",
             "description": "MarlboroMan released a fully native desktop Convo client built with Tauri, Rust, TypeScript, and React for Windows, Linux, and macOS — a major upgrade over the base web Convo, and a community-built project from a developer learning Rust.",
             "url": "https://hackforums.net/showthread.php?tid=6318797",
@@ -34,9 +34,6 @@
                     "uid": "5679562",
                     "username": "MarlboroMan"
                 }
-            ],
-            "tags": [
-                "features"
             ]
         },
         {
@@ -67,7 +64,6 @@
                 }
             ],
             "tags": [
-                "awards",
                 "holidays"
             ]
         },
@@ -93,9 +89,6 @@
                     "uid": "5418830",
                     "username": "Moooookie"
                 }
-            ],
-            "tags": [
-                "infrastructure"
             ]
         },
         {
@@ -108,9 +101,6 @@
                     "uid": "727139",
                     "username": "Secrets"
                 }
-            ],
-            "tags": [
-                "awards"
             ]
         },
         {
@@ -123,9 +113,6 @@
                     "uid": "5679562",
                     "username": "MarlboroMan"
                 }
-            ],
-            "tags": [
-                "features"
             ]
         },
         {
@@ -140,8 +127,6 @@
                 }
             ],
             "tags": [
-                "bug-fixes",
-                "features",
                 "holidays"
             ]
         },
