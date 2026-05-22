@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -22,6 +25,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -29,7 +35,10 @@
             "title": "Vendor Group Feature",
             "description": "Vendors now have profile pages and additional Market CP controls — including Marketplace thread listings and an editable profile with MyCode.",
             "url": "https://hackforums.net/showthread.php?tid=5915495",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",

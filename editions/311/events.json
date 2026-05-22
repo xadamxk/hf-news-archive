@@ -5,7 +5,11 @@
             "title": "DNSSEC Enabled",
             "description": "On September the 28th our administrator Omniscient announced that he enabled DNSSEC on Hack Forums. DNSSEC could help prevent certain types of spoofing and poisoning. Members have reacted in a very positive way to this new additional security measure for HF. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5418678",
-            "users": []
+            "users": [],
+            "tags": [
+                "features",
+                "moderation"
+            ]
         },
         {
             "category": "site",
@@ -108,6 +112,9 @@
                     "uid": "1743726",
                     "username": "Spyro The Dragon"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -128,6 +135,9 @@
                     "uid": "2945848",
                     "username": "Parker"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

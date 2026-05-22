@@ -5,7 +5,10 @@
             "title": "Sportsbook Cancelled/Rescheduled Match Fix & Refund",
             "description": "A bug in Sportsbook caused canceled/rescheduled matches not to resolve bets; refunds will be processed within two days.",
             "url": "https://hackforums.net/showthread.php?tid=6113970",
-            "users": []
+            "users": [],
+            "tags": [
+                "bug-fixes"
+            ]
         },
         {
             "category": "users",
@@ -17,6 +20,9 @@
                     "uid": "2896649",
                     "username": "Doubt"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -81,6 +87,10 @@
                     "uid": "3114397",
                     "username": "VisualSoft"
                 }
+            ],
+            "tags": [
+                "features",
+                "milestones"
             ]
         },
         {

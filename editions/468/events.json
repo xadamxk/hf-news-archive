@@ -17,7 +17,10 @@
             "title": "Award Lotteries update",
             "description": "Lotteries can now offer Hackuman eggs as prizes in addition to Bytes; users earn an egg, then put it into a lottery for others to enter with Bytes.",
             "url": "https://hackforums.net/showthread.php?tid=6075066",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "users",
@@ -81,6 +84,10 @@
                     "uid": "1161771",
                     "username": "Beau"
                 }
+            ],
+            "tags": [
+                "features",
+                "milestones"
             ]
         },
         {
@@ -121,6 +128,10 @@
                     "uid": "3577885",
                     "username": "Nebulance"
                 }
+            ],
+            "tags": [
+                "awards",
+                "features"
             ]
         },
         {

@@ -31,7 +31,11 @@
             "title": "Best Response Feature",
             "description": "Mods, Mentors, Staff, and Admins can mark a post as 'Best Response' in select sections, rewarding the poster with 10 β to encourage helpful posting.",
             "url": "https://hackforums.net/showthread.php?tid=5992503",
-            "users": []
+            "users": [],
+            "tags": [
+                "features",
+                "moderation"
+            ]
         },
         {
             "category": "site",
@@ -55,6 +59,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "bug-fixes"
             ]
         },
         {
@@ -79,6 +86,9 @@
                     "uid": "2785862",
                     "username": "Sooty"
                 }
+            ],
+            "tags": [
+                "bug-fixes"
             ]
         },
         {
@@ -91,6 +101,9 @@
                     "uid": "1999047",
                     "username": "Vitani"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -107,6 +120,9 @@
                     "uid": "1406453",
                     "username": "kawaii"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {

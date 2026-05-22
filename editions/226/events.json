@@ -14,6 +14,9 @@
           "uid": "651337",
           "username": "Tibit"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -26,13 +29,20 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "HF IM XMPP server went down",
       "description": "The HF IM XMPP server was offline. The cause (maintenance or server issue) was unknown at time of publication.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
@@ -56,6 +66,9 @@
           "uid": "1088934",
           "username": "Crypto™"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -68,6 +81,9 @@
           "uid": "1088934",
           "username": "Crypto™"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -192,6 +208,9 @@
           "uid": "1320455",
           "username": "Fireworks"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -232,7 +251,10 @@
       "category": "groups",
       "title": "Official Usergroup \"Craft\" userbar needed — $100 reward",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=4665038"
+      "url": "http://hackforums.net/showthread.php?tid=4665038",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "threads",

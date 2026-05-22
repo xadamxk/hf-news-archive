@@ -5,35 +5,54 @@
       "title": "New HackerCraft Award",
       "description": "Omniscient added the HackerCraft Blue award to cover server costs at $15 USD. Unlike previous HackerCraft awards, this one is not awarded in-game and is only available when upcoming fees are due. 85 users purchased the award within 9 hours before sales were suspended.",
       "url": "http://hackforums.net/showthread.php?tid=5244051",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards",
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
       "title": "Closed Account Policy Revised",
       "description": "To limit access to financial data, awards belonging to members with closed accounts have been revoked. Additionally, the awardees of all donation awards except Gift are no longer publicly listed.",
       "url": "http://hackforums.net/showthread.php?tid=5248175",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards",
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "SuperCell Games Forum Introduced",
       "description": "The Clash of Clans subforum was expanded to cover all games from SuperCell Games, now found in the Mobile and Tablet Gaming section.",
       "url": "http://hackforums.net/forumdisplay.php?fid=237",
-      "users": []
+      "users": [],
+      "tags": [
+        "features",
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Trust Scan Improvement (#3)",
       "description": "Omniscient updated the Trust Scan feature for the third time, adding color coding and additional improvements to entries.",
       "url": "http://hackforums.net/showthread.php?tid=5241907",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "HackerCraft = Non-Profit",
       "description": "Omniscient clarified that HackerCraft is a non-profit project and that no payments should be sent to any staff member of the server. He also detailed other ways to support the server.",
       "url": "http://hackforums.net/showthread.php?tid=5244276",
-      "users": []
+      "users": [],
+      "tags": [
+        "infrastructure",
+        "moderation"
+      ]
     },
     {
       "category": "groups",
@@ -99,6 +118,9 @@
           "uid": "574192",
           "username": "Azido"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -191,6 +213,9 @@
           "uid": "1590657",
           "username": "Oddissee"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -211,6 +236,9 @@
           "uid": "574192",
           "username": "Azido"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -283,6 +311,9 @@
           "uid": "1813061",
           "username": "Stazzy"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -319,6 +350,9 @@
           "uid": "2969158",
           "username": "Silicon Valley"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

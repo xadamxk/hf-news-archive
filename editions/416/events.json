@@ -17,6 +17,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -24,14 +27,21 @@
             "title": "Change Award Order",
             "description": "Members can now reorder their awards for a fee of 100 Bytes. Available to all members.",
             "url": "https://hackforums.net/showthread.php?tid=5905145",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Award Market",
             "description": "An Award Market was introduced — members can buy or sell awards for Bytes. Some awards are exempt. Any member can buy, but sellers must be r00t or Ub3r. Sale prices range from 1,000 to 500,000 Bytes.",
             "url": "https://hackforums.net/showthread.php?tid=5905569",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -67,6 +77,9 @@
                     "uid": "1292605",
                     "username": "Skorp"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -106,6 +119,9 @@
                     "uid": "1292605",
                     "username": "Skorp"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

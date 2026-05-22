@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -22,7 +25,10 @@
       "category": "groups",
       "title": "TechSperts launched a new mentoring program with public classrooms; lessons are posted publicly afte...",
       "description": "TechSperts launched a new mentoring program with public classrooms; lessons are posted publicly afterward.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "users",
@@ -46,6 +52,10 @@
           "uid": "510569",
           "username": "SWAGSTER"
         }
+      ],
+      "tags": [
+        "rkos",
+        "theme"
       ]
     },
     {
@@ -158,6 +168,9 @@
           "uid": "1115097",
           "username": "TheVortex"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -170,6 +183,9 @@
           "uid": "451192",
           "username": "Existence"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

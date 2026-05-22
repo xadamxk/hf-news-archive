@@ -12,21 +12,30 @@
             "title": "SoundCloud MyCode",
             "description": "MyCode for SoundCloud has been re-enabled.",
             "url": "https://hackforums.net/showthread.php?tid=5920015",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Thread PDF Export",
             "description": "Upgraded members can once again export their threads to PDF, after the feature was disabled for several years.",
             "url": "https://hackforums.net/showthread.php?tid=5920081",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Country Code Lock Back",
             "description": "Upgraded members can once again use the Country Code Lock feature; previously disabled due to IPv6 and inaccurate Geo IP issues, the new GEO IP API is fully accurate.",
             "url": "https://hackforums.net/showthread.php?tid=5920137",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",
@@ -38,6 +47,9 @@
                     "uid": "3077324",
                     "username": "Maxim"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -58,6 +70,9 @@
                     "uid": "3657455",
                     "username": "Caligio"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

@@ -17,14 +17,20 @@
             "title": "Group Thread Prefix Removal Tool",
             "description": "A new GroupCP tool allows group owners to enter a TID to reset/empty a thread's group prefix, addressing requests for prefix removal when members leave a group.",
             "url": "https://hackforums.net/showthread.php?tid=6256517",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "site",
             "title": "Hack Friday Custom Award Sale",
             "description": "For Hack Friday 2023, members were given the opportunity to purchase their own custom award and the ability to grant it to other members depending on the package.",
             "url": "https://hackforums.net/showthread.php?tid=6256973",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -51,6 +57,9 @@
                     "uid": "4229993",
                     "username": "Scrubspoof"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -63,6 +72,9 @@
                     "uid": "1391436",
                     "username": "Pentatonix"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -121,7 +133,11 @@
             "title": "Hack Friday Leftovers",
             "description": "Several previously-released awards were listed for purchase with bytes for a limited time. Prices were doubled from last year's Hack Friday Leftovers sale.",
             "url": "https://hackforums.net/showthread.php?tid=6257112",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -133,6 +149,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -147,7 +166,10 @@
             "title": "Cyber Monday Scratchcards & Gift Awards",
             "description": "Buy-one-get-one-free scratchcards on Cyber Monday; $100+ purchasers received the Gift Award 2023. A new Yellow Gift Award 2023 was also added.",
             "url": "https://hackforums.net/showthread.php?tid=6257317",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "news",

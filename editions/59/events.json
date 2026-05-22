@@ -4,13 +4,20 @@
       "category": "site",
       "title": "The ban on Runescape discussions has been lifted; a Runescape sub-forum was reopened with new rules.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1734800"
+      "url": "http://hackforums.net/showthread.php?tid=1734800",
+      "tags": [
+        "forums",
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "A forum rules compilation page was created listing all forum-specific rules.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
@@ -28,13 +35,19 @@
       "category": "site",
       "title": "A Hackintosh Help sub-forum was added under Apple Mac and OS X for setup help and build guides.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "A Partnerships, Hiring, and Personnel sub-forum was added under Service Offerings.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -52,6 +65,10 @@
           "username": "Rusty_v",
           "uid": "47970"
         }
+      ],
+      "tags": [
+        "moderation",
+        "rkos"
       ]
     },
     {
@@ -84,6 +101,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -96,6 +116,9 @@
           "username": "Vitani's Mate",
           "uid": "651773"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -112,6 +135,9 @@
           "username": "Defcon.",
           "uid": "574192"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -124,6 +150,9 @@
           "username": "Tasemu",
           "uid": "62795"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -140,6 +169,9 @@
           "username": "Poliice",
           "uid": "740858"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {

@@ -5,14 +5,20 @@
             "title": "Poll: Private Message Made Public for Deal Disputes",
             "description": "Omniscient opened a Rules/Announcements poll on allowing either party to make deal-related PMs public for disputes.",
             "url": "http://hackforums.net/showthread.php?tid=5358009",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "site",
             "title": "Pokémon GO Has Its Own Section",
             "description": "After booming traffic in the Pokémon GO subforum, Omni promoted it into its own top-level Gaming tab section following community feedback.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
@@ -250,6 +256,9 @@
                     "uid": "1359715",
                     "username": "H3God"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -274,6 +283,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "forums"
             ]
         },
         {
@@ -322,6 +334,9 @@
                     "uid": "2192831",
                     "username": "Lrrr"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -358,6 +373,9 @@
                     "uid": "1900284",
                     "username": "Branding"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

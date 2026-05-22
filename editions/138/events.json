@@ -44,6 +44,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -100,6 +103,9 @@
           "uid": "1049662",
           "username": "redpois0n"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -144,6 +150,9 @@
           "uid": "801804",
           "username": "BloodDrain"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -176,6 +185,9 @@
           "uid": "1232842",
           "username": "#Skyline"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -188,6 +200,9 @@
           "uid": "63387",
           "username": "Black Shadow"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -242,7 +257,10 @@
       "category": "groups",
       "title": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for...",
       "description": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for the winner and $10 each for two runner-ups.",
-      "url": "http://hackforums.net/showthread.php?tid=3400010"
+      "url": "http://hackforums.net/showthread.php?tid=3400010",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "news",

@@ -5,7 +5,10 @@
       "title": "Lucky Clover awards odds announced",
       "description": "Omniscient disclosed RNG odds for Green (1:2000), Purple (1:12500), and Gold (1:50000) clover awards on qualifying posts over 100 characters.",
       "url": "http://hackforums.net/showthread.php?tid=5291481",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards"
+      ]
     },
     {
       "category": "groups",
@@ -40,6 +43,9 @@
           "uid": "2682887",
           "username": "Mr. Robot"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -104,6 +110,9 @@
           "uid": "2968052",
           "username": "Sevn Alias"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -132,6 +141,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -156,6 +168,10 @@
           "uid": "1165241",
           "username": "Krave"
         }
+      ],
+      "tags": [
+        "awards",
+        "rules"
       ]
     },
     {

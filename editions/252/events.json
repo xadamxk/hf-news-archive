@@ -12,7 +12,10 @@
       "title": "Become a Writ3r!",
       "description": "The HF News Team recruited members for as-needed on-call writer roles to complete absentee articles.",
       "url": "http://hackforums.net/showthread.php?tid=4944556",
-      "users": []
+      "users": [],
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "site",
@@ -148,6 +151,9 @@
           "uid": "2563876",
           "username": "Serpius"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -172,6 +178,9 @@
           "uid": "1306528",
           "username": "xadamxk"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -208,6 +217,10 @@
           "uid": "1844212",
           "username": "Bull™"
         }
+      ],
+      "tags": [
+        "awards",
+        "infrastructure"
       ]
     },
     {

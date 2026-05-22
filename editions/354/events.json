@@ -19,7 +19,10 @@
             "title": "Writers Tale Forum Changed Categories",
             "description": "To those scratching your heads wondering where the Writers Tales forum went, it is still here. Now located in the Personal Life category under the Common tab, you can still share your awesome poems and stories. The Writers Tales forum was originally a sub-forum in The Lounge, but with the implementation of the new Meme Shit Meme sub-forum, it was moved elsewhere.",
             "url": "https://hackforums.net/forumdisplay.php?fid=373",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "groups",
@@ -31,6 +34,9 @@
                     "uid": "2194640",
                     "username": "Nex+"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -38,7 +44,10 @@
             "title": "Wiki recruitment (Hack Forums Wiki)",
             "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
             "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "users",
@@ -66,6 +75,9 @@
                     "uid": "659087",
                     "username": "Kill Joy"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -134,6 +146,9 @@
                     "uid": "2476331",
                     "username": "NurSpec"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -158,6 +173,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -170,6 +188,9 @@
                     "uid": "55709",
                     "username": "Glitch"
                 }
+            ],
+            "tags": [
+                "bug-fixes"
             ]
         },
         {

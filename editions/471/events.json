@@ -5,7 +5,10 @@
             "title": "HF API v2 Beta",
             "description": "After collecting feedback, an updated API v2 Beta was released for members and developers to test.",
             "url": "https://hackforums.net/showthread.php?tid=6083719",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -24,6 +27,9 @@
                     "uid": "1341148",
                     "username": "Herbert"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -72,6 +78,10 @@
                     "uid": "3697156",
                     "username": "Ren And Stimpy"
                 }
+            ],
+            "tags": [
+                "features",
+                "milestones"
             ]
         },
         {

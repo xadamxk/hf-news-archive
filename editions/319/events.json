@@ -5,7 +5,10 @@
             "title": "Gamble your life away for an award!",
             "description": "We've gotten another award added to our list on Hack Forums and this time it is for those who gamble. This is a standard award that seems not to be a purchaseable award but an award you earn. http://hackforums.net/uploads/awards/dice.png >>Source",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -49,6 +52,9 @@
                     "uid": "1800872",
                     "username": "Durham"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -161,6 +167,9 @@
                     "uid": "2112829",
                     "username": "Incognito(TM)"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -185,6 +194,9 @@
                     "uid": "2682887",
                     "username": "Mr. Robot"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -197,6 +209,9 @@
                     "uid": "2104118",
                     "username": "Lawsuit"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -209,6 +224,9 @@
                     "uid": "1377493",
                     "username": "Denitorious"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

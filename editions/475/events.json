@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -17,7 +20,10 @@
             "title": "Quickly Loved Goal Award",
             "description": "A new award is granted for receiving 100 Quick Loves from 100 unique members within the current year.",
             "url": "https://hackforums.net/showthread.php?tid=6093164",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "users",
@@ -29,6 +35,9 @@
                     "uid": "484743",
                     "username": "Zeus"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -45,6 +54,9 @@
                     "uid": "49365",
                     "username": "Prettykitty"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

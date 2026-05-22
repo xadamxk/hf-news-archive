@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -17,7 +20,11 @@
             "title": "MyAwards Upgraded to Sprites",
             "description": "Hack Forums' 110 awards were combined into a single sprite image with CSS positioning, improving SEO and reducing page load time.",
             "url": "https://hackforums.net/showthread.php?tid=5904526",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -112,6 +119,9 @@
                     "uid": "3784247",
                     "username": "M L T"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

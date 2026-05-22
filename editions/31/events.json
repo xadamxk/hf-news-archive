@@ -50,7 +50,10 @@
       "category": "site",
       "title": "Official Facebook page and social connections help doc.",
       "description": "",
-      "url": "http://hackforums.net/misc.php?action=help&hid=28"
+      "url": "http://hackforums.net/misc.php?action=help&hid=28",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "groups",

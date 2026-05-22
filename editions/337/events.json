@@ -12,7 +12,10 @@
             "title": "April Fools group blurbs (satire)",
             "description": "Edition included joke “Provisional Group Information Act,” “Power” usergroup teaser, and buy-in jokes; real recruitment lists for Notorious, Royalty, Aequitas, Baka, Dawn, Echo, Wiki, Legends, MightyAssassins, Royalty sectors, Skill, Brotherhood, Marketers, and The Order continued below in the post.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "users",
@@ -88,6 +91,9 @@
                     "uid": "608523",
                     "username": "Deadbeat"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -104,6 +110,9 @@
                     "uid": "411005",
                     "username": "sonex"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -128,6 +137,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {

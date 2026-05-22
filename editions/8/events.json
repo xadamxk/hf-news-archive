@@ -10,13 +10,19 @@
           "username": "AsSaSs@iN",
           "uid": "70909"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Signature of the Week (SoTW) in introduced in Graphics section.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=157"
+      "url": "http://hackforums.net/forumdisplay.php?fid=157",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",

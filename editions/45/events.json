@@ -10,6 +10,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "holidays"
       ]
     },
     {
@@ -22,6 +25,10 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "awards",
+        "features"
       ]
     },
     {
@@ -46,6 +53,10 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "awards",
+        "rules"
       ]
     },
     {
@@ -58,13 +69,20 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "forums",
+        "infrastructure"
       ]
     },
     {
       "category": "site",
       "title": "New MapleStory subforum created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=197"
+      "url": "http://hackforums.net/forumdisplay.php?fid=197",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -80,6 +98,10 @@
           "username": "xerotic",
           "uid": "175033"
         }
+      ],
+      "tags": [
+        "awards",
+        "features"
       ]
     },
     {

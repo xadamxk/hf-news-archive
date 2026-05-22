@@ -5,21 +5,30 @@
             "title": "Junk and PM Prune",
             "description": "On August the 31st our administrator Omniscient took Hack Forums offline for about 15 minutes to do a Junk and PM prune. This means that all the junked threads and PM's have been deleted from the server. User post counts have been recounted and are accurate once again. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5392182",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "Possible new award",
             "description": "Two days ago Omniscient hinted that he was thinking about adding a Monero award to Hack Forums, and asked the community for opinions. The majority of our members expressed their exitement about the possibility of a new award. If this award is implemented members can donate using the Monero (XMR) cryptocoin to obtain it. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5394128",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "HF Served How?",
             "description": "A couple of days ago ago Omniscient made a thread in which he explained how he is hosting Hack Forums. In this thread he explains through which layers of security all traffic goes, before it reaches the server on which the website is hosted. Omniscient also mentioned that Hack Forums got around 3 billion requests last month, of which The majority originated from attacks on the website. Some members joked about the fact that they now know everything about Hack Forum's security, but Omniscient is clearly not one to be startled easily. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5394059",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "groups",
@@ -102,6 +111,9 @@
                     "uid": "1918708",
                     "username": "Orthonym"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -114,6 +126,9 @@
                     "uid": "2529154",
                     "username": "Tommy"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

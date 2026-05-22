@@ -5,7 +5,10 @@
             "title": "Navigation Changes",
             "description": "All HF games were moved to a drop-down menu, and mobile users can now click their display picture to access a drop-down menu with Profile, Posts/Threads, Marketplace, and HF Games options.",
             "url": "https://hackforums.net/showthread.php?tid=6020503",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
@@ -37,6 +40,9 @@
                     "uid": "3459543",
                     "username": "flavoral"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

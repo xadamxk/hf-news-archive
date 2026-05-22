@@ -34,6 +34,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -58,6 +61,9 @@
                     "uid": "6",
                     "username": "6"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -86,6 +92,9 @@
                     "uid": "2333986",
                     "username": "BaldCunt"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -93,7 +102,10 @@
             "title": "Group Userbar Bytes Multiplier",
             "description": "New exclusive perk: members wearing the H4CK3R$ userbar earn 10x bytes for posts and threads, while The Academy userbar earns 5x bytes. Succubus, Olympians, and Benevolence groups remain listed for sale.",
             "url": "https://hackforums.net/showthread.php?tid=6303358",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "news",

@@ -5,14 +5,20 @@
             "title": "Convo Changes - HF Group Chats",
             "description": "HF Convo system features were updated.",
             "url": "https://hackforums.net/showthread.php?tid=6035180",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Inactivity and Bytes Policy",
             "description": "Bytes are now reset to 0 if there is no account activity for a year.",
             "url": "https://hackforums.net/showthread.php?tid=6035092",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "users",
@@ -40,6 +46,9 @@
                     "uid": "3493494",
                     "username": "Zero"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

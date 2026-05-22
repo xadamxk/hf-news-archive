@@ -5,7 +5,11 @@
             "title": "New Rule: Pornographic Anime",
             "description": "Omniscient clarified a zero-tolerance policy for posting pornographic anime in the Anime Adventure subforum, with offenders facing account closures; details are pinned in-thread.",
             "url": "http://hackforums.net/showthread.php?tid=5352329",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums",
+                "rules"
+            ]
         },
         {
             "category": "site",
@@ -28,14 +32,21 @@
             "title": "Pokemon Go Bonanza (New Poké Ball award)",
             "description": "The Pokémon Go subforum surged activity; the randomized Poké Ball award (currently about 1:250 odds) rewarded active posters.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "forums"
+            ]
         },
         {
             "category": "site",
             "title": "Omniscient's Inactivity",
             "description": "Members noticed slower upgrades and awards amid Omniscient’s absence; his profile listed him away recovering from illness, with activity ticking up again.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -79,6 +90,9 @@
                     "uid": "2333286",
                     "username": "TheChief"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -102,6 +116,9 @@
                     "uid": "1915596",
                     "username": "Minimalist"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -206,6 +223,9 @@
                     "uid": "2584237",
                     "username": "worlockt"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -218,6 +238,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -254,6 +277,9 @@
                     "uid": "2178666",
                     "username": "Pebbles"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -266,6 +292,9 @@
                     "uid": "2492457",
                     "username": "RealMafia"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -278,6 +307,9 @@
                     "uid": "651773",
                     "username": "Vitani's Mate."
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

@@ -10,6 +10,9 @@
           "username": "Vorfin",
           "uid": null
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -22,6 +25,10 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "bug-fixes",
+        "infrastructure"
       ]
     },
     {
@@ -46,6 +53,9 @@
           "username": "Kutmustakurt",
           "uid": "43626"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -58,6 +68,9 @@
           "username": "Crust",
           "uid": "70346"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -70,6 +83,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

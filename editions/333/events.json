@@ -5,7 +5,10 @@
             "title": "New Hack Forums header",
             "description": "Omniscient updated the forum header and hinted at a future theme refresh with MyBB 1.9.",
             "url": "http://hackforums.net/showthread.php?tid=5566295",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "groups",
@@ -17,6 +20,9 @@
                     "uid": "2947999",
                     "username": "Views"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -29,6 +35,9 @@
                     "uid": "3433475",
                     "username": "Infαmous"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -69,6 +78,9 @@
                     "uid": "3274507",
                     "username": "Cat Warrior"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -117,6 +129,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -129,6 +144,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -177,6 +195,9 @@
                     "uid": "400724",
                     "username": "Charger"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -201,6 +222,9 @@
                     "uid": "3163195",
                     "username": "Kαѕρer"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -213,6 +237,9 @@
                     "uid": "2930339",
                     "username": "Tenseigan"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

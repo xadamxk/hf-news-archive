@@ -5,7 +5,10 @@
             "title": "Hackúman Suspended",
             "description": "After season 2 ended, Hackúman was suspended to make changes for the upcoming season. Estimated re-launch is October 1st. Eggs will not be awarded for posts during this time, and existing eggs expired so all members start fresh in season 3.",
             "url": "https://hackforums.net/showthread.php?tid=6248322",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
@@ -68,6 +71,10 @@
                     "uid": "5239601",
                     "username": "fzza"
                 }
+            ],
+            "tags": [
+                "bug-fixes",
+                "milestones"
             ]
         },
         {
@@ -80,6 +87,9 @@
                     "uid": "4227846",
                     "username": "-Scrub"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -139,6 +149,9 @@
                     "uid": "5239601",
                     "username": "fzza"
                 }
+            ],
+            "tags": [
+                "bug-fixes"
             ]
         },
         {

@@ -5,7 +5,10 @@
             "title": "New Thread Notifications",
             "description": "Members can subscribe to a subforum to receive notifications for new threads created in that subforum.",
             "url": "https://hackforums.net/showthread.php?tid=6098696",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
@@ -31,6 +34,9 @@
                     "uid": "4225226",
                     "username": "Delight"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -75,6 +81,10 @@
                     "uid": "2815977",
                     "username": "God-Zeus"
                 }
+            ],
+            "tags": [
+                "features",
+                "milestones"
             ]
         },
         {

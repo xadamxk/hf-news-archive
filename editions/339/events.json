@@ -5,14 +5,20 @@
             "title": "Premium Tools and Programs subforum",
             "description": "New Premium Sellers subforum to separate tool/program sales from ebooks and services; move requests via staff PM.",
             "url": "http://hackforums.net/showthread.php?tid=5595523",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
             "title": "Server infrastructure upgrade",
             "description": "Omniscient leased additional servers ahead of the API rollout; security and ops handled personally.",
             "url": "http://hackforums.net/showthread.php?tid=5596692",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",
@@ -26,7 +32,10 @@
             "title": "R3KT promotion usergroup",
             "description": "New free promotion group (Ub3r, 1000+ rep, posts, and account age); rep cap raised to ±4; upgrades automatic.",
             "url": "http://hackforums.net/showthread.php?tid=5602178",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "groups",
@@ -45,6 +54,9 @@
                     "uid": "2448195",
                     "username": "thales"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -93,6 +105,9 @@
                     "uid": "3462434",
                     "username": "Izuku Midoriya"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -105,6 +120,9 @@
                     "uid": "2280806",
                     "username": "Octavia"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -124,6 +142,10 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "forums",
+                "rules"
             ]
         },
         {
@@ -136,6 +158,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "infrastructure"
             ]
         },
         {
@@ -148,6 +173,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -172,6 +200,9 @@
                     "uid": "401053",
                     "username": "-F0rsak3n-"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -220,6 +251,9 @@
                     "uid": "1754362",
                     "username": "'Vanilla"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

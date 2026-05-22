@@ -17,7 +17,10 @@
             "title": "E-Whoring Rebranded",
             "description": "The E-Whoring section was rebranded to Adult Content Management during Octoberfest, and its forum icon was replaced with a new design.",
             "url": "https://hackforums.net/showthread.php?tid=6253543",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays"
+            ]
         },
         {
             "category": "site",
@@ -72,6 +75,9 @@
                     "uid": "18",
                     "username": "Proof"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -92,6 +98,10 @@
                     "uid": "3995095",
                     "username": "Bastille"
                 }
+            ],
+            "tags": [
+                "features",
+                "milestones"
             ]
         },
         {
@@ -159,14 +169,20 @@
             "title": "Award Price Increase",
             "description": "The Bytes Bag award will be revalued to 30,000 bytes starting November 1st, with continued price increases planned over time.",
             "url": "https://hackforums.net/showthread.php?tid=6253533",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Captcha Removed",
             "description": "After complaints, the Cloudflare Captcha was removed to make posting and replying to PMs easier for newer members. The change may be reverted if problematic.",
             "url": "https://hackforums.net/showthread.php?tid=6254110",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",

@@ -14,6 +14,9 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -26,6 +29,9 @@
           "uid": "1320406",
           "username": "Froggy"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -38,6 +44,9 @@
           "uid": "175033",
           "username": "Xerotic"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -82,6 +91,9 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -166,6 +178,10 @@
           "uid": "121843",
           "username": "Spoderman"
         }
+      ],
+      "tags": [
+        "rkos",
+        "rules"
       ]
     },
     {
@@ -194,13 +210,19 @@
           "uid": "1492625",
           "username": "xVulnerable"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
       "category": "site",
       "title": "OMCWallet.com finally went offline after its hosting expired, ending the long-since-hacked online...",
       "description": "OMCWallet.com finally went offline after its hosting expired, ending the long-since-hacked online wallet that had caused user confusion and coin losses.",
-      "url": "http://hackforums.net/showthread.php?tid=4366601"
+      "url": "http://hackforums.net/showthread.php?tid=4366601",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "threads",

@@ -22,13 +22,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "The postbit buttons were converted to CSS to improve thread loading times.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "theme"
+      ]
     },
     {
       "category": "groups",
@@ -40,7 +46,10 @@
       "category": "site",
       "title": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the long...",
       "description": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the longest in a long time.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "users",
@@ -147,6 +156,10 @@
         {
           "username": "maniac"
         }
+      ],
+      "tags": [
+        "features",
+        "moderation"
       ]
     },
     {
@@ -182,6 +195,9 @@
           "username": "VeNoMz",
           "uid": "454600"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {

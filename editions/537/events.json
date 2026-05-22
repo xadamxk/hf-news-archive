@@ -5,14 +5,22 @@
             "title": "Hackúman Season 4",
             "description": "After a delay for updates and bug fixes, Hackúman returned with Season 4 and a new HUM. Members can post to earn an Amethyst Egg award and hatch the new HUM \"Vise.\"",
             "url": "https://hackforums.net/showthread.php?tid=6252681",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "bug-fixes"
+            ]
         },
         {
             "category": "site",
             "title": "Octoberfest 2023",
             "description": "Octoberfest 2023's award goal is the Purple Octoberfest Pumpkin, awarded for making 600 posts during October.",
             "url": "https://hackforums.net/showthread.php?tid=6252663",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "holidays"
+            ]
         },
         {
             "category": "groups",
@@ -39,6 +47,10 @@
                     "uid": "801999",
                     "username": "Biggs"
                 }
+            ],
+            "tags": [
+                "awards",
+                "holidays"
             ]
         },
         {

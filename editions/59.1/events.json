@@ -22,6 +22,9 @@
           "username": "SeaNanners™",
           "uid": "766442"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -38,6 +41,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -62,6 +68,9 @@
           "username": "Taylor Gang™",
           "uid": "92059"
         }
+      ],
+      "tags": [
+        "hf-news-ops"
       ]
     },
     {
@@ -94,13 +103,19 @@
           "username": "The Bawss",
           "uid": "161601"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
       "category": "site",
       "title": "Staff are cracking down on the new 'Non-Marketplace Post' rule with a wave of bans.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "threads",
@@ -199,6 +214,9 @@
         {
           "username": "Viral Dragon"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -210,6 +228,9 @@
         {
           "username": "Aero"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -221,13 +242,19 @@
         {
           "username": "Ron Paul"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Mentors have been promoted to Super Mods with significantly more power.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "users",
@@ -239,6 +266,9 @@
           "username": "ϟ!RespectIsEarned!ϟ",
           "uid": "371188"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -258,6 +288,9 @@
           "uid": "675453",
           "username": "Cyber-Security"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -269,6 +302,9 @@
         {
           "username": "Revoke"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {

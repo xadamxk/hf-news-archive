@@ -5,7 +5,10 @@
             "title": "Auto-close thread limit increased",
             "description": "On 9th February, our administrator Omniscient posted a thread stating that he has increased the Auto-close thread limit from 2.000 replies to 2.500 replies. You can read more about it here. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5547228",
-            "users": []
+            "users": [],
+            "tags": [
+                "moderation"
+            ]
         },
         {
             "category": "site",
@@ -36,6 +39,9 @@
                     "uid": "1193715",
                     "username": "BRΞNDΞN"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -92,6 +98,9 @@
                     "uid": "2662420",
                     "username": "Romping"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -104,6 +113,9 @@
                     "uid": "1033713",
                     "username": "Formula1"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -116,6 +128,9 @@
                     "uid": "502172",
                     "username": "Novica"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -128,6 +143,9 @@
                     "uid": "1900284",
                     "username": "Pacioli"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

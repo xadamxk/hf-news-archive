@@ -10,13 +10,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "VPN Hosting and Services section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=171"
+      "url": "http://hackforums.net/forumdisplay.php?fid=171",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
@@ -34,6 +40,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {

@@ -50,6 +50,9 @@
           "uid": "4066",
           "username": "Judge Dredd"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -70,13 +73,21 @@
           "uid": "128873",
           "username": "T3h Hack3r"
         }
+      ],
+      "tags": [
+        "awards",
+        "forums",
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Two new awards were added: the 'Gavel of Dredd' (limited to 10 recipients) and the 'HJT Graduate' aw...",
       "description": "Two new awards were added: the 'Gavel of Dredd' (limited to 10 recipients) and the 'HJT Graduate' award.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "awards"
+      ]
     },
     {
       "category": "site",
@@ -148,6 +159,9 @@
           "uid": "566671",
           "username": "panDa."
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -232,6 +246,9 @@
           "uid": "451192",
           "username": "Existence"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -256,6 +273,9 @@
           "uid": "7807",
           "username": "VipVince"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -287,6 +307,9 @@
           "uid": "62795",
           "username": "Tasemu"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

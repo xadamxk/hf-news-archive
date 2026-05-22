@@ -22,6 +22,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -41,7 +44,10 @@
             "title": "Awards",
             "description": "The Joker received the Flip Reaper award. Chronic. and Houtarou received the King Decade award.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -93,6 +99,9 @@
                     "uid": "57618",
                     "username": "Cap"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {

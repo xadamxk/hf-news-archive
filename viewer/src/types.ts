@@ -18,6 +18,8 @@ export type CompactEvent = {
   d?: string;
   l?: string;
   u?: CompactUser[];
+  /** Tags applied to the event. Omitted when empty. */
+  g?: string[];
   /** Index into EventsPayload.ed */
   x: number;
 };

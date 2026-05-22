@@ -5,7 +5,11 @@
             "title": "HF Octoberfest 2021",
             "description": "The Octoberfest 2021 award is live; making 500 posts in October earns the Pumpkin award (claimable through November 10). A new Hackuman monster, Vice, is coming. Donation awards rotated: Emerald Heart for $25 and Ruby Heart for $500.",
             "url": "https://hackforums.net/showthread.php?tid=6174771",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "holidays"
+            ]
         },
         {
             "category": "users",
@@ -17,6 +21,9 @@
                     "uid": "4899375",
                     "username": "guardian"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -52,6 +59,9 @@
                     "uid": "1357269",
                     "username": "Rin™"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -68,6 +78,10 @@
                     "uid": "1257324",
                     "username": "Demize"
                 }
+            ],
+            "tags": [
+                "awards",
+                "holidays"
             ]
         },
         {

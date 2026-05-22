@@ -5,14 +5,20 @@
             "title": "Recent downtime",
             "description": "Omniscient said intermittent outages were routine server issues (NGINX / PHP CGI), not attacks.",
             "url": "http://hackforums.net/showthread.php?tid=5555898",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",
             "title": "MariaDB SQL maintenance",
             "description": "Forum closed briefly while Omniscient updated MariaDB after a failed build.",
             "url": "http://hackforums.net/showthread.php?tid=5556408",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",
@@ -48,6 +54,9 @@
                     "uid": "275104",
                     "username": "ra1d"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -88,6 +97,9 @@
                     "uid": "2960032",
                     "username": "Zachary."
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -119,6 +131,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "infrastructure"
             ]
         },
         {
@@ -131,6 +146,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -179,6 +197,9 @@
                     "uid": "2177496",
                     "username": "bοxxy"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

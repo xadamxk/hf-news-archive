@@ -10,6 +10,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
       "category": "site",
       "title": "Member of the Month award reinstated.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=920442"
+      "url": "http://hackforums.net/showthread.php?tid=920442",
+      "tags": [
+        "awards"
+      ]
     },
     {
       "category": "threads",

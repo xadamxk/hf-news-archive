@@ -5,7 +5,10 @@
             "title": "Warning Forgiveness",
             "description": "A new feature lets members take a quiz to remove their warning level. Available once per warning type per member.",
             "url": "https://hackforums.net/showthread.php?tid=6073069",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -19,14 +22,20 @@
             "title": "Award Lotteries",
             "description": "Awards can now be won via lotteries, working similarly to the Bytes lottery.",
             "url": "https://hackforums.net/showthread.php?tid=6075066",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Staff Updates",
             "description": "Staff team changes were announced.",
             "url": "https://hackforums.net/showthread.php?tid=6073461",
-            "users": []
+            "users": [],
+            "tags": [
+                "moderation"
+            ]
         },
         {
             "category": "site",
@@ -45,6 +54,9 @@
                     "uid": "4357897",
                     "username": "AYMG"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

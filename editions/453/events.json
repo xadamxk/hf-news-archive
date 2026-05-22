@@ -5,7 +5,10 @@
             "title": "Altcoin Award Sale",
             "description": "Hack Forums is moving away from CoinPayments as a cryptocurrency processor; many altcoin awards (such as NEM and Dogecoin) may no longer be available for purchase. Switch expected in 2-3 weeks.",
             "url": "https://hackforums.net/showthread.php?tid=6042137",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",

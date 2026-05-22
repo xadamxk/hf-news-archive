@@ -32,6 +32,7 @@ type RawEvent = {
   description?: string;
   url?: string;
   users?: RawUser[];
+  tags?: string[];
 };
 
 type CompactUser = { i: string; n: string; r?: string };
@@ -51,6 +52,9 @@ type CompactEvent = {
   d?: string;
   l?: string;
   u?: CompactUser[];
+  /** Tags applied to this event. Short key `g` so it doesn't collide with `t`
+   *  (title). Omitted when the event has no tags. */
+  g?: string[];
   x: number;
 };
 
@@ -110,6 +114,12 @@ function compactEvent(ev: RawEvent, editionIdx: number): CompactEvent {
       if (r) row.r = r;
       return row;
     });
+  }
+  if (Array.isArray(ev.tags) && ev.tags.length > 0) {
+    const tags = ev.tags
+      .map((t) => (typeof t === "string" ? t.trim() : ""))
+      .filter(Boolean);
+    if (tags.length) out.g = tags;
   }
   return out;
 }

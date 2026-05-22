@@ -19,7 +19,10 @@
             "title": "New Policy Addition - Username Visible Characters",
             "description": "Omniscient has added a new rule for usernames that a member must have at least four visible characters in their username or else they risk penalties. If you do not meet the requirements of four visible characters, change your username right away before actions are taken against your account. >>Source http://i.imgur.com/W4AjjOA.png",
             "url": "http://hackforums.net/showthread.php?tid=5396293",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "groups",
@@ -51,6 +54,9 @@
                     "uid": "2752008",
                     "username": "tldr!"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -63,6 +69,9 @@
                     "uid": "502172",
                     "username": "Novica"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -151,6 +160,9 @@
                     "uid": "2772971",
                     "username": "Motiv"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -175,6 +187,9 @@
                     "uid": "2947999",
                     "username": "Viewsfromthe6ix"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -187,6 +202,9 @@
                     "uid": "2234857",
                     "username": "Jorthmo"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -199,6 +217,9 @@
                     "uid": "2861505",
                     "username": "unknowcrank"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

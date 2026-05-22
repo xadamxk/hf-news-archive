@@ -92,6 +92,7 @@ a:hover {
     minmax(12.5rem, 1fr)
     minmax(7rem, 1fr)
     minmax(9rem, 1.25fr)
+    minmax(8rem, 1fr)
     auto;
   /* Two explicit rows — every heading lives in row 1, every control in row 2.
      This is the source-of-truth that guarantees all headings share one
@@ -460,6 +461,27 @@ a:hover {
 
 .cat-dropdown-option-label {
   text-transform: capitalize;
+}
+
+/* Tag-specific overrides:
+ *
+ * The Tags filter cell is narrower than its longest tag label (e.g.
+ * `omniscient-personal`), so the dropdown panel needs to extend wider
+ * than the trigger. Right-anchor it so it grows leftward into the
+ * toolbar instead of off-screen on the right. Tags are kebab-case
+ * canonical strings, so capitalizing them produces "Hf-News-Ops" style
+ * mangling — disable the transform.
+ */
+.cat-dropdown-panel.is-tags {
+  right: auto;
+  min-width: 14rem;
+  width: max-content;
+  max-width: min(22rem, calc(100vw - 2rem));
+}
+
+.cat-dropdown-option.is-tag .cat-dropdown-option-label {
+  text-transform: none;
+  white-space: nowrap;
 }
 
 .cat-dropdown-clear {

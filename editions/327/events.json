@@ -5,7 +5,10 @@
             "title": "Site Downtime",
             "description": "Hack Forums recently had a 10 hour long downtime due to server conflicts. According to Omniscient , the server ran updates and the updates messed with the PHP service which resulted in the entire forum to be offline until Omniscient started the service back up. All good though, nothing serious. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5524036",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "groups",
@@ -45,6 +48,9 @@
                     "uid": "1522601",
                     "username": "ZuGgY"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -105,6 +111,9 @@
                     "uid": "2998667",
                     "username": "Oedipus"
                 }
+            ],
+            "tags": [
+                "bug-fixes"
             ]
         },
         {
@@ -197,6 +206,10 @@
                     "uid": "3011293",
                     "username": "๖ۣۜShady"
                 }
+            ],
+            "tags": [
+                "bug-fixes",
+                "rkos"
             ]
         },
         {
@@ -209,6 +222,9 @@
                     "uid": "3001796",
                     "username": "That One Random"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -221,6 +237,9 @@
                     "uid": "1655295",
                     "username": "#Doge"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

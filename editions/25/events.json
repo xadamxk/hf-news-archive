@@ -4,7 +4,11 @@
       "category": "site",
       "title": "Thanksgiving banner deployed.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=845534"
+      "url": "http://hackforums.net/showthread.php?tid=845534",
+      "tags": [
+        "holidays",
+        "theme"
+      ]
     },
     {
       "category": "site",
@@ -16,13 +20,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
       "category": "site",
       "title": "DNS issues cause access problems; guidance threads posted.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=854831"
+      "url": "http://hackforums.net/showthread.php?tid=854831",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",

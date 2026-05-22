@@ -5,7 +5,12 @@
             "title": "Cloudflare update",
             "description": "On October the 14th our administrator Omniscient announced that he enabled additional Cloudflare features on Hack Forums. These features could help prevent all sorts of advanced DDos attacks. Members have reacted in a very positive way to the new additional security measure for HF despite the fact that many members saw a temporarely banned by Cloudflare message when Omniscient was implementing this change to Hack Forums. >>Source https://i.imgur.com/wYi4ilf.jpg",
             "url": "http://hackforums.net/showthread.php?tid=5431584",
-            "users": []
+            "users": [],
+            "tags": [
+                "features",
+                "infrastructure",
+                "moderation"
+            ]
         },
         {
             "category": "groups",
@@ -37,6 +42,9 @@
                     "uid": "2808710",
                     "username": "kpown"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -133,6 +141,9 @@
                     "uid": "2384831",
                     "username": "Natalie Dormerr"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -145,6 +156,9 @@
                     "uid": "1743548",
                     "username": "Excah"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

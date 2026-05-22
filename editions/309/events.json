@@ -5,7 +5,11 @@
             "title": "Hack Forums under maintenance",
             "description": "On September the 18th our administrator Omniscient announced that he was working on a server which was causing HF to crash multiple times this past week. After a good few hours of researching what was causing the crashes Omniscient discovered that the recent crashes were probably due to a broken SSD drive in the RAID configuration. In the upcoming few days this is most likely going to be fixed by the hosting company.",
             "url": "http://hackforums.net/showthread.php?tid=5409220",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure",
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
@@ -88,6 +92,9 @@
                     "uid": "2265387",
                     "username": "Ventriloquism"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -104,6 +111,9 @@
                     "uid": "2015410",
                     "username": "MeshCollider"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

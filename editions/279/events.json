@@ -5,7 +5,10 @@
       "title": "PayPal Payments and Upgrades Temporarily Disabled",
       "description": "Omniscient announced that PayPal is no longer an accepted form of payment for payments and upgrades on HF, as PayPal made alterations to their TOS/AUP. HF will operate on crypto payments, primarily Bitcoin.",
       "url": "http://hackforums.net/showthread.php?tid=5169384",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -19,7 +22,10 @@
       "title": "Currency Exchange Sectional Rules and Words of Caution",
       "description": "After reopening the Currency Exchange section, Omniscient stickied a thread with rules and precautionary information for members dealing in the section.",
       "url": "http://hackforums.net/showthread.php?tid=5169477",
-      "users": []
+      "users": [],
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "groups",
@@ -81,6 +87,9 @@
           "uid": "411005",
           "username": "sonex"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -101,6 +110,9 @@
           "uid": "411005",
           "username": "sonex"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -113,6 +125,9 @@
           "uid": "561239",
           "username": "iHydra"
         }
+      ],
+      "tags": [
+        "hf-news-ops"
       ]
     },
     {
@@ -149,6 +164,9 @@
           "uid": "2153840",
           "username": "Pure Diamond"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -161,6 +179,9 @@
           "uid": "2969158",
           "username": "Silicon Valley"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -173,6 +194,9 @@
           "uid": "2829866",
           "username": "freepizza"
         }
+      ],
+      "tags": [
+        "holidays"
       ]
     },
     {

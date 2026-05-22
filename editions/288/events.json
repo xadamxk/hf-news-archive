@@ -5,14 +5,20 @@
       "title": "MyCode for Instagram",
       "description": "A new MyCode tag was introduced for Instagram following the launch of Omniscient's official Instagram account @hackforums. Users can wrap an Instagram post URL in 'ig' tags to embed it into a forum post.",
       "url": "http://hackforums.net/showthread.php?tid=5232199",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "Trust Scan Improvements",
       "description": "Hack Forums' Trust Scan feature underwent its third revision. Several entries received color coding (red, amber, and green), records were cut to consider only the last thirty days, and account age in days was added.",
       "url": "http://hackforums.net/showthread.php?tid=5241907",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "groups",
@@ -174,6 +180,9 @@
           "uid": "2719306",
           "username": "Romantic"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -214,6 +223,9 @@
           "uid": "182754",
           "username": "Orgy"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -274,6 +286,9 @@
           "uid": "1498262",
           "username": "White Noise"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {

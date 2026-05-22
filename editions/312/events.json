@@ -19,7 +19,10 @@
             "title": "Change your images to HTTPS",
             "description": "In another effort to make HF more secure, Omniscient has asked all members to review their profiles and threads to make sure all their images are using HTTPS instead of HTTP. Omniscient also stated that if you have an avatar, signature, or thread with images and image tags which are not HTTPS then they will either be deleted or not displayed correctly. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5424144",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -58,6 +61,9 @@
                     "uid": "2983477",
                     "username": "KA34"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -142,6 +148,9 @@
                     "uid": "2759618",
                     "username": "YayHar"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -154,6 +163,9 @@
                     "uid": "705074",
                     "username": "Arcanecfg"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -166,6 +178,9 @@
                     "uid": "776749",
                     "username": "Rodrigo Duterte"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

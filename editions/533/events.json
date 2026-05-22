@@ -5,21 +5,31 @@
             "title": "Return of HF News",
             "description": "Scribe has become the new home for Writ3rs on the forum and will be bringing monthly editions of the Hack Forums News, trimmed down to focus on material about the site itself.",
             "url": "https://hackforums.net/showthread.php?tid=6240819",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "site",
             "title": "Bytes Bonus Days",
             "description": "Until June 5th, upgraded members gain bonus bytes for posts and threads in celebration of HF's official holiday \"Goodwill Monday\" — L33t members earn 1.5x and Ub3r members earn 2x normal values.",
             "url": "https://hackforums.net/showthread.php?tid=6243034",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays"
+            ]
         },
         {
             "category": "site",
             "title": "Anniversary of Hack Forums",
             "description": "Hack Forums celebrated its 16th anniversary with a new award goal: King Decade for members who have been on the site for 10+ years.",
             "url": "https://hackforums.net/showthread.php?tid=6239331",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "milestones"
+            ]
         },
         {
             "category": "site",
@@ -117,6 +127,10 @@
                     "uid": "4813653",
                     "username": "【﻿ＯＭＥＧＡ】"
                 }
+            ],
+            "tags": [
+                "features",
+                "milestones"
             ]
         },
         {
@@ -169,6 +183,9 @@
                     "uid": "666",
                     "username": "DemonAsylum"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -188,6 +205,9 @@
                     "uid": "666",
                     "username": "DemonAsylum"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

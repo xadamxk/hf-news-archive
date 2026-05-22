@@ -14,6 +14,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -38,6 +41,9 @@
           "username": "tester",
           "uid": "42221"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -56,7 +62,10 @@
       "category": "site",
       "title": "Mentors confirmed to be implemented.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "threads",

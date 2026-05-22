@@ -5,14 +5,20 @@
             "title": "Snipta crypto calculator launched",
             "description": "Omniscient introduced Snipta as a Preev alternative with broader coin support; designed by Designer and mostly coded by TyrantKingBen.",
             "url": "http://hackforums.net/showthread.php?tid=5649317",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Blocks and Less of Them",
             "description": "Policies lifted many VPN/country blocks, including China and Russia, with datacenter handling shifting toward CAPTCHA.",
             "url": "http://hackforums.net/showthread.php?tid=5642995",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "groups",
@@ -48,6 +54,9 @@
                     "uid": "1915596",
                     "username": "Minimalist"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -75,6 +84,9 @@
                     "uid": "2439716",
                     "username": "Vyrez."
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -135,6 +147,9 @@
                     "uid": "2327983",
                     "username": "Amidst"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -159,6 +174,9 @@
                     "uid": "659087",
                     "username": "Kill Joy"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -171,6 +189,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "holidays"
             ]
         },
         {

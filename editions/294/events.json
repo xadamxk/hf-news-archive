@@ -5,14 +5,20 @@
       "title": "Goodwill Monday",
       "description": "Omniscient promoted Goodwill Monday for summer holidays—members were encouraged to give positive reputation broadly.",
       "url": "http://hackforums.net/showthread.php?tid=5289935",
-      "users": []
+      "users": [],
+      "tags": [
+        "holidays"
+      ]
     },
     {
       "category": "groups",
       "title": "Legends userbar updated",
       "description": "Legends switched to a new official userbar image hosted on Hack Forums.",
       "url": "",
-      "users": []
+      "users": [],
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "users",
@@ -40,6 +46,9 @@
           "uid": "2739889",
           "username": "$uicide"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -120,6 +129,9 @@
           "uid": "2447024",
           "username": "Boston"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -208,6 +220,9 @@
           "uid": "2494987",
           "username": "@beef"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {

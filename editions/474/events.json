@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -69,6 +72,11 @@
                     "uid": "3114397",
                     "username": "VisualSoft"
                 }
+            ],
+            "tags": [
+                "bug-fixes",
+                "features",
+                "milestones"
             ]
         },
         {
@@ -81,6 +89,9 @@
                     "uid": "2439716",
                     "username": "Vyrez."
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

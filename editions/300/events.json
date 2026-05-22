@@ -5,14 +5,21 @@
       "title": "Poké Ball award (Pokémon Go)",
       "description": "Omniscient added the Poké Ball award earned at random when posting in the Pokémon Go subforum (250:1 odds, similar mechanic to clover awards).",
       "url": "http://hackforums.net/showthread.php?tid=5339673",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards",
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Marketplace rule: multiple vouching",
       "description": "New violation: repeatedly vouching for the same product or seller in one thread counts as bumping/low-quality posting—report reason “Multiple Vouching” added.",
       "url": "http://hackforums.net/showthread.php?tid=5343520",
-      "users": []
+      "users": [],
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "groups",
@@ -112,6 +119,9 @@
           "uid": "1610871",
           "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -180,6 +190,9 @@
           "uid": "432770",
           "username": "Tanarif"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -208,6 +221,10 @@
           "uid": "2975563",
           "username": "mark leonardi"
         }
+      ],
+      "tags": [
+        "awards",
+        "features"
       ]
     },
     {
@@ -280,6 +297,9 @@
           "uid": "1900284",
           "username": "Branding"
         }
+      ],
+      "tags": [
+        "theme"
       ]
     },
     {
@@ -292,6 +312,9 @@
           "uid": "2305968",
           "username": "Meda"
         }
+      ],
+      "tags": [
+        "theme"
       ]
     },
     {

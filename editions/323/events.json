@@ -5,7 +5,11 @@
             "title": "New Year Banner",
             "description": "Calling all graphic designers! Hack Forums is in need of a New Year banner so if you got the time, get working on it. You've got until Thursday or Friday to come up with something - make sure it's awesome! There's been a few submissions so far but Omniscient is still looking for more entries to choose from. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5506107",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays",
+                "theme"
+            ]
         },
         {
             "category": "groups",
@@ -21,6 +25,9 @@
                     "uid": "103669",
                     "username": "Factor8™"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -41,6 +48,9 @@
                     "uid": "2667861",
                     "username": "#Skyline"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -97,6 +107,9 @@
                     "uid": "3224674",
                     "username": "Alprazolam"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -201,6 +214,9 @@
                     "uid": "3224674",
                     "username": "Alprazolam"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

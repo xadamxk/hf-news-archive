@@ -17,7 +17,11 @@
             "title": "Mobale Theme in Beta Testing",
             "description": "Mobale, a new mobile-friendly theme for Hack Forums, entered beta testing — accessible via UserCP > Edit Options. The team warned of broken/missing elements during heavy development.",
             "url": "https://hackforums.net/showthread.php?tid=5876644",
-            "users": []
+            "users": [],
+            "tags": [
+                "bug-fixes",
+                "theme"
+            ]
         },
         {
             "category": "users",
@@ -29,6 +33,9 @@
                     "uid": "3129680",
                     "username": "riyu"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -53,6 +60,9 @@
                     "uid": "3874844",
                     "username": "0riginalkillit"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -93,6 +103,9 @@
                     "uid": "547589",
                     "username": "Horus God"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

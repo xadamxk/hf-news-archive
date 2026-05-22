@@ -38,6 +38,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
@@ -62,6 +65,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums",
+        "infrastructure"
       ]
     },
     {
@@ -74,6 +81,9 @@
           "uid": "661940",
           "username": "bugga"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -86,6 +96,9 @@
           "uid": "330676",
           "username": "Diabolic"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -98,6 +111,9 @@
           "uid": "127956",
           "username": "Plutonium"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -226,6 +242,9 @@
           "uid": "734805",
           "username": "Glassy"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

@@ -12,7 +12,10 @@
             "title": "Coronavirus Limited Awards",
             "description": "Corona Virus and Asswipe awards are available for sale for a limited time at $50 and $25 BTC respectively.",
             "url": "https://hackforums.net/showthread.php?tid=6057524",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -39,6 +42,9 @@
                     "uid": "1087815",
                     "username": "Nate"
                 }
+            ],
+            "tags": [
+                "infrastructure"
             ]
         },
         {

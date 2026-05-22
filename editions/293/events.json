@@ -5,7 +5,11 @@
       "title": "Ethereum currency on Hack Forums",
       "description": "Ethereum was added as a cryptocurrency on Hack Forums. The Ethereist award launched at $15 for the first 48 hours before rising to $20 USD; Ethereum can also be used as upgrade payment and may extend to sticky purchases depending on uptake.",
       "url": "http://hackforums.net/showthread.php?tid=5285302",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards",
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -19,14 +23,20 @@
       "title": "Music Lover award",
       "description": "The Music Lover award was added (“For the lovers of music who have actual taste”). Requirements were still unclear; activity in Melody, Harmony, Rhythm, and MP3 was suggested.",
       "url": "http://hackforums.net/myawards.php?awid=91",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards"
+      ]
     },
     {
       "category": "groups",
       "title": "Group changes",
       "description": "Krave updated The Order’s userbar. ‘Remix became a leader of The Brotherhood.",
       "url": "",
-      "users": []
+      "users": [],
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "users",
@@ -118,6 +128,9 @@
           "uid": "3073350",
           "username": "Rikk‌a"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -158,6 +171,9 @@
           "uid": "1754362",
           "username": "Vanilla"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -182,6 +198,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -194,6 +213,9 @@
           "uid": "130086",
           "username": "Roytoy"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -230,6 +252,9 @@
           "uid": "716331",
           "username": "Cryptic™"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {

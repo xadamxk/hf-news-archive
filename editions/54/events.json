@@ -14,6 +14,9 @@
           "username": "T3h Hack3r",
           "uid": "128873"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -42,13 +45,19 @@
           "uid": "588781",
           "username": "Hуѕтєяιa X™"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "As a result of post count being enabled in all sections, the minimum post length was raised from 25...",
       "description": "As a result of post count being enabled in all sections, the minimum post length was raised from 25 to 50 characters and the LQP warning was raised from 10 to 25 points per month.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -66,6 +75,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -78,6 +90,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -102,13 +117,19 @@
           "username": "Crow",
           "uid": "2103"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
       "category": "site",
       "title": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing ...",
       "description": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing sub-forum under Marketplace Discussions.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -140,6 +161,9 @@
           "uid": "103669",
           "username": "Factor8™"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -160,6 +184,9 @@
           "username": "Mike.",
           "uid": "458073"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -172,6 +199,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "rkos"
       ]
     },
     {
@@ -184,6 +215,9 @@
           "uid": "295848",
           "username": "Qwazz"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -208,6 +242,9 @@
           "username": "C4Vendetta",
           "uid": "123584"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -220,6 +257,9 @@
           "username": "A N D R E W",
           "uid": "625689"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -236,6 +276,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "omniscient-personal"
       ]
     },
     {
@@ -248,6 +292,9 @@
           "uid": "619030",
           "username": "iNviZ"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -260,6 +307,9 @@
           "username": "Brawl",
           "uid": "640322"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -276,6 +326,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -292,6 +345,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

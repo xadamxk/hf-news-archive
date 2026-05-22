@@ -20,19 +20,28 @@
       "category": "site",
       "title": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a...",
       "description": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a staff userbar can have their profile activity viewed.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "site",
       "title": "Min.us image host has been blocked from HF after Avast added the domain to its blacklist.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
       "title": "The HF News team is recruiting for the first time; only two interviewer positions are open.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1825326"
+      "url": "http://hackforums.net/showthread.php?tid=1825326",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "interviews",

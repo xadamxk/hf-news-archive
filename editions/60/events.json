@@ -10,19 +10,30 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "moderation",
+        "site-maintenance"
       ]
     },
     {
       "category": "site",
       "title": "The Mentors usergroup now moderates more subforums.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1749008"
+      "url": "http://hackforums.net/showthread.php?tid=1749008",
+      "tags": [
+        "moderation",
+        "usergroups"
+      ]
     },
     {
       "category": "site",
       "title": "Administrator profile activity is now hidden; visitors only see 'Unknown location' on admin profiles...",
       "description": "Administrator profile activity is now hidden; visitors only see 'Unknown location' on admin profiles.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "site",
@@ -52,6 +63,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -68,6 +82,9 @@
           "uid": "515249",
           "username": "Sir"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {

@@ -16,13 +16,19 @@
           "username": "Braco22",
           "uid": "277061"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Batch coding subforum moved from Hacking to Coding.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=49"
+      "url": "http://hackforums.net/forumdisplay.php?fid=49",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",

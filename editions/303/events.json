@@ -5,14 +5,21 @@
             "title": "Paid Whitelisting?",
             "description": "Omniscient has posted a thread in the Rules, Announcements, News, and Feedback section asking members if they would like to have an option to white list an IP. Omniscient included this could be a VPN IP OR data center. If this came into implementation there would be a small fee of $10 for an example. Previously the data center's configuration where HacKForums is hosted wouldn't allow white listing, but the firewall is being reconfigured and Omniscient claims he will be able to implement this which will also increase the speed when browsing HackForums, preventing Cloudflare captchas and so forth. If you are interested in giving your feedback about this you can view the thread here .",
             "url": "http://hackforums.net/showthread.php?tid=5366920",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure",
+                "rules"
+            ]
         },
         {
             "category": "site",
             "title": "Awards Went on Sale",
             "description": "Earlier this week Omniscient put certain awards on a 20% sale due to the Bitcoin's that were stolen over at Bitfinex. Omniscient was informing members to \"cut their bitcoin losses\". This deal only went on for a limited time of 3 days. That thread can be viewed here .",
             "url": "http://hackforums.net/showthread.php?tid=5361641",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -36,6 +43,9 @@
                     "uid": "595279",
                     "username": "Prince of all Saiyans"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -132,6 +142,9 @@
                     "uid": "2819045",
                     "username": "Cʜᴀsᴇ"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -188,6 +201,9 @@
                     "uid": "1165241",
                     "username": "Krave"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

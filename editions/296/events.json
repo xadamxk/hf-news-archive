@@ -5,14 +5,20 @@
       "title": "Omniscient recovering from hernia surgery",
       "description": "Omniscient announced surgery for a double inguinal hernia; HF News wished him a speedy recovery with an NHS explainer link.",
       "url": "http://hackforums.net/showthread.php?tid=5314363",
-      "users": []
+      "users": [],
+      "tags": [
+        "omniscient-personal"
+      ]
     },
     {
       "category": "groups",
       "title": "Group leadership update",
       "description": "Narrate stepped down as a leader of The Order.",
       "url": "",
-      "users": []
+      "users": [],
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "users",
@@ -52,6 +58,9 @@
           "uid": "67412",
           "username": "Vigor"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -164,6 +173,9 @@
           "uid": "1666545",
           "username": "Prodigy"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -192,6 +204,9 @@
           "uid": "1494170",
           "username": "Nysta"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {

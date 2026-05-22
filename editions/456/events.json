@@ -10,6 +10,10 @@
                     "uid": "175033",
                     "username": "Xerotic"
                 }
+            ],
+            "tags": [
+                "awards",
+                "features"
             ]
         },
         {
@@ -17,7 +21,10 @@
             "title": "Secret Identity Member",
             "description": "A new feature allows members to use an identification number instead of their username for anonymity.",
             "url": "https://hackforums.net/showthread.php?tid=6046495",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",
@@ -65,6 +72,9 @@
                     "uid": "659087",
                     "username": "Kill Joy"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -77,6 +87,9 @@
                     "uid": "2682887",
                     "username": "Mr. Robot"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -93,6 +106,9 @@
                     "uid": "4398566",
                     "username": "Mercathlon"
                 }
+            ],
+            "tags": [
+                "infrastructure"
             ]
         },
         {

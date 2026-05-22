@@ -16,13 +16,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
       "category": "groups",
       "title": "Propitious leaders did a full group reformation, kicking many members; the group's userbar was chang...",
       "description": "Propitious leaders did a full group reformation, kicking many members; the group's userbar was changed and it was renamed 'Infamous'.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "site",
@@ -64,6 +70,9 @@
           "uid": "729494",
           "username": "Grumpy"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

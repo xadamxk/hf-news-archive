@@ -5,7 +5,10 @@
       "title": "Private Data Removed from the Orders Database",
       "description": "Omniscient officially removed nine columns of stored private data from the Orders Table: first names, last names, emails, addresses, cities, states, zip codes, countries, and phone numbers, including from previous orders.",
       "url": "http://hackforums.net/showthread.php?tid=5177902",
-      "users": []
+      "users": [],
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
@@ -57,6 +60,9 @@
           "uid": "825700",
           "username": "Staid"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -89,6 +95,9 @@
           "uid": "530032",
           "username": "Curt."
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -165,6 +174,9 @@
           "uid": "2539013",
           "username": "Illusionisten"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -181,6 +193,9 @@
           "uid": "1238642",
           "username": "Maximum"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -289,6 +304,9 @@
           "uid": "2772052",
           "username": "Demonic Form"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
