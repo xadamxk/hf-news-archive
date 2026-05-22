@@ -330,11 +330,15 @@ const EventCard = memo(function EventCard({
   edition,
   userHighlight,
   searchHighlight,
+  selectedTags,
+  onToggleTag,
 }: {
   ev: CompactEvent;
   edition: CompactEditionRow | undefined;
   userHighlight: string;
   searchHighlight: string;
+  selectedTags: Set<string>;
+  onToggleTag: (t: string) => void;
 }) {
   const sec = edition?.s ?? 0;
   const iso = useMemo(() => isoDateTime(sec), [sec]);
@@ -404,6 +408,25 @@ const EventCard = memo(function EventCard({
               <UserLine key={`${u.i}-${u.n}-${i}`} u={u} userHighlight={userHighlight} />
             ))}
           </div>
+        </div>
+      ) : null}
+      {ev.g?.length ? (
+        <div className="card-tags" aria-label="Tags">
+          {ev.g.map((t) => {
+            const active = selectedTags.has(t);
+            return (
+              <button
+                key={t}
+                type="button"
+                className={`card-tag${active ? " is-active" : ""}`}
+                aria-pressed={active}
+                title={active ? `Remove tag filter: ${t}` : `Filter by tag: ${t}`}
+                onClick={() => onToggleTag(t)}
+              >
+                #{t}
+              </button>
+            );
+          })}
         </div>
       ) : null}
     </article>
@@ -1795,6 +1818,8 @@ export default function App() {
             edition={raw.ed[ev.x]}
             userHighlight={userHighlight}
             searchHighlight={searchHighlight}
+            selectedTags={selectedTags}
+            onToggleTag={toggleTag}
           />
         ))}
       </div>

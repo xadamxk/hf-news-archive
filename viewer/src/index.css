@@ -718,6 +718,40 @@ input[type="search"] {
   margin-top: 0.25rem;
 }
 
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.75rem;
+  padding-top: 0.6rem;
+  border-top: 1px dashed var(--border-subtle);
+}
+
+.card-tag {
+  font: inherit;
+  font-size: 0.75rem;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--border-subtle);
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+  transition: color 0.1s ease, border-color 0.1s ease, background 0.1s ease;
+}
+
+.card-tag:hover {
+  color: var(--accent-bright);
+  border-color: var(--accent);
+  background: rgba(15, 87, 153, 0.12);
+}
+
+.card-tag.is-active {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent-bright);
+}
+
 .user-line {
   font-size: 0.88rem;
   line-height: 1.35;
