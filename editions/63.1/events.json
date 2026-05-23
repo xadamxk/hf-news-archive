@@ -196,7 +196,8 @@
       "url": "http://hackforums.net/showthread.php?tid=1793236",
       "users": [
         {
-          "username": "The MammoTh"
+          "username": "The MammoTh",
+          "uid": "572367"
         }
       ]
     },
@@ -214,15 +215,13 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with KillaMuvz and KillaMuvz conducted by Kyle FYI™.",
+      "title": "Interview with KillaMuvz conducted by Kyle FYI™.",
       "description": "Interview with KillaMuvz conducted by Kyle FYI™; covers his joining HF, Cryptex development with Baked, and views on the free groups potentially being removed.",
       "url": "https://hackforums.net/showthread.php?pid=16670032",
       "users": [
         {
-          "username": "KillaMuvz"
-        },
-        {
-          "username": "KillaMuvz"
+          "username": "KillaMuvz",
+          "uid": "579898"
         }
       ]
     },
