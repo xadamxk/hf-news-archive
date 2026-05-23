@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient added a statistics page to the HF IM XMPP showing total accounts, hourly logins, and...",
+      "title": "HF IM XMPP statistics page added; HFIM presence widget added to profiles",
       "description": "Omniscient added a statistics page to the HF IM XMPP showing total accounts, hourly logins, and 24-hour active accounts, plus an HFIM presence widget on profiles with online/away/DND status and an Add option.",
       "url": "http://hackforums.net/showthread.php?tid=4564952",
       "users": [
@@ -17,7 +17,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient reported an attempted bruteforce attack using the 2010 password dump against ~1,000...",
+      "title": "Bruteforce using 2010 dump hit ~1,000 accounts; <100 (no Ub3rs) compromised",
       "description": "Omniscient reported an attempted bruteforce attack using the 2010 password dump against ~1,000 accounts; fewer than 100 (all non-upgraded or closed) were compromised, no Ub3r accounts breached, and two inactive L33t accounts were closed.",
       "url": "http://hackforums.net/showthread.php?tid=4565551",
       "users": [
@@ -32,7 +32,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient added a feature so users on someone's ignore list cannot view that user's profile (and vi...",
+      "title": "Ignored users can no longer view your profile (and vice-versa)",
       "description": "Omniscient added a feature so users on someone's ignore list cannot view that user's profile (and vice-versa).",
       "url": "http://hackforums.net/showthread.php?tid=4567790",
       "users": [
@@ -47,7 +47,7 @@
     },
     {
       "category": "users",
-      "title": "Chrazy was banned and repfucked for multi-accounting; Horny was banned for leaking; Albus Percival...",
+      "title": "Mass bans/repfucks: multi-accounts, leaking, rep abuse, payment reversal",
       "description": "Chrazy was banned and repfucked for multi-accounting; Horny was banned for leaking; Albus Percival Dumbledore was banned for reputation abuse; iEatNoodlez_ was banned and repfucked for payment reversal; Socrates™ was banned for leaking; Rohz. was banned and repfucked for multi-accounting; Baljeet and Krew were repfucked.",
       "url": "",
       "users": [
@@ -90,7 +90,7 @@
     },
     {
       "category": "users",
-      "title": "Τrust received the Sushi Lover award; Trisomy 21 received the Jokester award; Aurа received the...",
+      "title": "Awards: Τrust Sushi Lover; Trisomy 21 Jokester; Roger Waters Royalty; more",
       "description": "Τrust received the Sushi Lover award; Trisomy 21 received the Jokester award; Aurа received the Sticky Man award; Perfec‪t received the Militant award; phybeя Jr. received the Green Apple award; Roger Waters received the new Royalty award.",
       "url": "http://hackforums.net/showthread.php?tid=4557247",
       "users": [
@@ -122,7 +122,7 @@
     },
     {
       "category": "groups",
-      "title": "Revolution was put up for sale by group owner beslim for $9,000 USD via Bitcoin, Western Union, Mone...",
+      "title": "beslim lists Revolution for sale at $9,000 USD via BTC/WU/MoneyGram/PerfectMoney",
       "description": "Revolution was put up for sale by group owner beslim for $9,000 USD via Bitcoin, Western Union, MoneyGram, or PerfectMoney.",
       "url": "http://hackforums.net/showthread.php?tid=4564102",
       "users": [

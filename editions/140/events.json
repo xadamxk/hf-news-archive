@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient temporarily disabled all forms of reputation while reworking the system to use a fixed...",
+      "title": "Reputation system temporarily disabled while moving to fixed-reason dropdown",
       "description": "Omniscient temporarily disabled all forms of reputation while reworking the system to use a fixed dropdown of reasons instead of custom comments, aimed at preventing future abuse and flaming.",
       "url": "http://hackforums.net/showthread.php?tid=3431258",
       "users": [
@@ -17,7 +17,7 @@
     },
     {
       "category": "users",
-      "title": "Multiple popular HF members including Tibit, iNviZ, and #Skyline had their Skype accounts hijacked...",
+      "title": "Tibit, iNviZ, #Skyline Skype accounts hijacked via Skype support SE flaw",
       "description": "Multiple popular HF members including Tibit, iNviZ, and #Skyline had their Skype accounts hijacked through a Skype support social engineering flaw, leaking business logs.",
       "url": "",
       "users": [
@@ -60,7 +60,7 @@
     },
     {
       "category": "users",
-      "title": "Administrator Judge Dredd was vacation banned from April 25th to May 5th and had his reputation...",
+      "title": "Judge Dredd vacation banned April 25–May 5 with reputation reset",
       "description": "Administrator Judge Dredd was vacation banned from April 25th to May 5th and had his reputation reset by Omniscient during the rep system rework.",
       "url": "http://hackforums.net/showthread.php?tid=3447379",
       "users": [
@@ -98,7 +98,7 @@
     },
     {
       "category": "users",
-      "title": "SonicB00M was repfucked and banned for low quality posting; TreeJay was repfucked and had his...",
+      "title": "SonicB00M banned (LQP); TreeJay/Σntei/Accident closed; mad banned for DDoSing",
       "description": "SonicB00M was repfucked and banned for low quality posting; TreeJay was repfucked and had his account closed; mad was banned for harassment and DDoSing member products; BaussHacker was repfucked; Σntei had her account closed; Accident had his account closed for the third time; 630, Feynman, and Krew were vacation banned.",
       "url": "",
       "users": [
@@ -145,7 +145,7 @@
     },
     {
       "category": "users",
-      "title": "MineSQL donated for the Master Donator award and received the Cat Lover award; Froggy received the C...",
+      "title": "Awards: MineSQL Master Donator/Cat Lover; Froggy Cool",
       "description": "MineSQL donated for the Master Donator award and received the Cat Lover award; Froggy received the Cool award.",
       "url": "",
       "users": [

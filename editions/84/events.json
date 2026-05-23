@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient embedded SoundCloud support; tracks can be added with [soundcloud][/soundcloud] BBCode ta...",
+      "title": "SoundCloud embed support added via [soundcloud] BBCode tags",
       "description": "Omniscient embedded SoundCloud support; tracks can be added with [soundcloud][/soundcloud] BBCode tags.",
       "url": "http://hackforums.net/showthread.php?tid=2314883",
       "users": [
@@ -32,7 +32,7 @@
     },
     {
       "category": "site",
-      "title": "An old moderator tool was revived: a black-and-red text box appears at the bottom of a post when a u...",
+      "title": "Revived moderator tool shows warning box on flagged posts",
       "description": "An old moderator tool was revived: a black-and-red text box appears at the bottom of a post when a user is warned for it.",
       "url": "",
       "tags": [

@@ -2,11 +2,12 @@
   "events": [
     {
       "category": "groups",
-      "title": "Sai manipulated his way to ownership of Graphic Masters, paying only $50 of his own money and...",
+      "title": "Sai takes Graphic Masters with $50 and swaps in two new leaders",
       "description": "Sai manipulated his way to ownership of Graphic Masters, paying only $50 of his own money and immediately removing past leaders to install two new ones. Omniscient confirmed: 'He is the groups new owner. End of story.'",
       "url": "http://hackforums.net/showthread.php?tid=2353862",
       "users": [
         {
+          "uid": "864480",
           "username": "Sai"
         },
         {
@@ -17,13 +18,13 @@
     },
     {
       "category": "groups",
-      "title": "The Minecrafters group was suspended at the owner's request, likely due to owner inactivity.",
+      "title": "Minecrafters suspended; BlackShades buys new support group",
       "description": "The Minecrafters group was suspended at the owner's request, likely due to owner inactivity. The BlackShades team purchased a new group for customer support and Blackshades discussion.",
       "url": ""
     },
     {
       "category": "site",
-      "title": "Omniscient banned 'Post here and PM me' threads in the Monetizing section and appointed php as moder...",
+      "title": "'Post here and PM me' banned in Monetizing; php appointed moderator",
       "description": "Omniscient banned 'Post here and PM me' threads in the Monetizing section and appointed php as moderator to enforce the rule. Violations may bring warnings, repfucks, or bans.",
       "url": "",
       "users": [
@@ -32,6 +33,7 @@
           "username": "Omniscient"
         },
         {
+          "uid": "113705",
           "username": "php"
         }
       ],
@@ -42,7 +44,7 @@
     },
     {
       "category": "site",
-      "title": "HackForums upgraded to MyBB 1.6.7; members can now log in using their email address (helpful for...",
+      "title": "HF upgraded to MyBB 1.6.7; email login now supported",
       "description": "HackForums upgraded to MyBB 1.6.7; members can now log in using their email address (helpful for accounts with special characters in usernames).",
       "url": "",
       "users": [
@@ -57,7 +59,7 @@
     },
     {
       "category": "site",
-      "title": "On April 1, Omniscient ran an April Fools joke: every member appeared to be repfucked from their own...",
+      "title": "April Fools: every member appeared repfucked from their own view",
       "description": "On April 1, Omniscient ran an April Fools joke: every member appeared to be repfucked from their own perspective (-10 + invisible past reps), but everyone else's profile looked normal.",
       "url": "",
       "users": [
@@ -72,7 +74,7 @@
     },
     {
       "category": "site",
-      "title": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory...",
+      "title": "BlackShades site link censored after being flagged dangerous",
       "description": "The BlackShades website link was censored on HF after being flagged as dangerous by site advisory websites; alternate domains have been recommended.",
       "url": "",
       "tags": [
@@ -100,7 +102,7 @@
     },
     {
       "category": "users",
-      "title": "Reptar ツ and Robbieava reached 1,000 reputation; Vitani's Mate reached 1,000 reputation and 1,000 pr...",
+      "title": "Reptar and Robbieava hit 1,000 rep; Vitani's Mate hits 1,000 prestige",
       "description": "Reptar ツ and Robbieava reached 1,000 reputation; Vitani's Mate reached 1,000 reputation and 1,000 prestige.",
       "url": "http://hackforums.net/showthread.php?tid=2354197",
       "users": [
@@ -226,7 +228,7 @@
     },
     {
       "category": "users",
-      "title": "Dan. received the Cat Lover award; bmendo received the GFX Guru award; Mich@ael received the...",
+      "title": "Awards: Dan. Cat Lover; bmendo GFX Guru; Mich@ael Militant; more",
       "description": "Dan. received the Cat Lover award; bmendo received the GFX Guru award; Mich@ael received the Militant award; Vitani's Mate received the Star award; *Drew Pickles*™ received the Asswipe award.",
       "url": "http://hackforums.net/showthread.php?tid=2354197",
       "users": [
