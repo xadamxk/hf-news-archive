@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "category": "site",
+            "category": "threads",
             "title": "HFX 3.0 Browser Extension",
             "description": "xadamxk rebuilt the HFX browser extension from scratch to support modern browsers (post Manifest v2 changes), packed with new features.",
             "url": "https://hackforums.net/showthread.php?tid=6312252",

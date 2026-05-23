@@ -1,15 +1,11 @@
 {
     "events": [
         {
-            "category": "site",
+            "category": "threads",
             "title": "HF News Notifier",
             "description": "On October the 30th, our favorite mentor xadamxk released the official HF News Notifier script. The purpose of this userscript is fairly simple but most usefull. It will create a notification when a new edition of the HF news is released. We would like to personally thank xadamxk for creating this userscript. Great work! >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5480003",
-            "users": [],
-            "tags": [
-                "features",
-                "moderation"
-            ]
+            "users": []
         },
         {
             "category": "site",
@@ -18,7 +14,7 @@
             "url": "http://hackforums.net/showthread.php?tid=5482543",
             "users": [],
             "tags": [
-                "moderation"
+                "features"
             ]
         },
         {
@@ -35,9 +31,6 @@
                     "uid": "2518836",
                     "username": "Mr. Burnham"
                 }
-            ],
-            "tags": [
-                "moderation"
             ]
         },
         {

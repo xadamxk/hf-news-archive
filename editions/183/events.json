@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient introduced the new HackerCraft Purple award, removing the chance to obtain the old green ...",
+      "title": "Omniscient introduced the new HackerCraft Purple award",
       "description": "Omniscient introduced the new HackerCraft Purple award, removing the chance to obtain the old green award; the new award costs 100,000 EM.",
       "url": "",
       "users": [
@@ -12,8 +12,7 @@
         }
       ],
       "tags": [
-        "awards",
-        "features"
+        "awards"
       ]
     },
     {

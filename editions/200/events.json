@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "HF News celebrated its 200th edition; the project was started by Yin on May 16, 2010 and has been...",
+      "title": "200th HF News Edition",
       "description": "HF News celebrated its 200th edition; the project was started by Yin on May 16, 2010 and has been led by Sir for over two years, with the team expanded and new sections (including a podcast) introduced for this milestone.",
       "url": "http://hackforums.net/showthread.php?tid=423656",
       "users": [
@@ -16,8 +16,8 @@
         }
       ],
       "tags": [
-        "features",
-        "milestones"
+        "milestones",
+        "hf-news-ops"
       ]
     },
     {
@@ -331,7 +331,8 @@
         }
       ],
       "tags": [
-        "features"
+        "features",
+        "rules"
       ]
     },
     {

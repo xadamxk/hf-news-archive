@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "category": "site",
+            "category": "threads",
             "title": "Hack Forums API Extension (HAX)",
             "description": "Xerotic released HAX, a JavaScript library for development using the Hack Forums API. The library covers a wide array of class methods (getUser, getPost, etc.) to simplify and speed up projects.",
             "url": "https://hackforums.net/showthread.php?tid=5801102",
@@ -10,9 +10,6 @@
                     "uid": "175033",
                     "username": "Xerotic"
                 }
-            ],
-            "tags": [
-                "features"
             ]
         },
         {

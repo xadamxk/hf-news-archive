@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "category": "site",
+      "category": "groups",
       "title": "White Hat Academy by The Brotherhood officially launched",
       "description": "After recruitment closed January 1st, the academy publicly launched January 13th with 25 accepted students from many applications.",
       "url": "http://hackforums.net/showthread.php?tid=4632365",
@@ -10,9 +10,6 @@
           "uid": "197132",
           "username": "-Hyperion"
         }
-      ],
-      "tags": [
-        "features"
       ]
     },
     {
