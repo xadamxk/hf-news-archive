@@ -14,7 +14,7 @@
     },
     {
       "category": "users",
-      "title": "Bread was banned until 10/22/11 with the reason 'Don't cross limits'; he is well known for his witty...",
+      "title": "Bread banned until 10/22 for crossing limits",
       "description": "Bread was banned until 10/22/11 with the reason 'Don't cross limits'; he is well known for his witty 'How to make Bread' guide.",
       "url": "http://hackforums.net/showthread.php?tid=790428",
       "users": [
@@ -26,7 +26,7 @@
     },
     {
       "category": "users",
-      "title": "Sync™ was banned after his account was possibly compromised; his username was also changed to 'psych...",
+      "title": "Sync™ banned after suspected compromise; renamed 'psycho buddy'",
       "description": "Sync™ was banned after his account was possibly compromised; his username was also changed to 'psycho buddy'.",
       "url": "",
       "users": [
@@ -77,7 +77,7 @@
     },
     {
       "category": "threads",
-      "title": "Gaming Thread: fl3x's relaunch of the well-known Minecraft Craftbukkit server 'Retribution-MC' on a ...",
+      "title": "Gaming Thread: fl3x relaunches 'Retribution-MC' Minecraft server",
       "description": "Gaming Thread: fl3x's relaunch of the well-known Minecraft Craftbukkit server 'Retribution-MC' on a 16GB RAM server.",
       "url": "http://hackforums.net/showthread.php?tid=1832605",
       "users": [
@@ -125,7 +125,7 @@
     },
     {
       "category": "threads",
-      "title": "Suggestion Compilation: Positive's 'Recently Suggested and Denied/Accepted Suggestions' thread,...",
+      "title": "Suggestion Compilation: Positive's suggestion-tracking thread",
       "description": "Suggestion Compilation: Positive's 'Recently Suggested and Denied/Accepted Suggestions' thread, helping members check whether their idea has been raised before.",
       "url": "http://hackforums.net/showthread.php?tid=1812957",
       "users": [
@@ -191,12 +191,13 @@
     },
     {
       "category": "users",
-      "title": "The MammoTh received the Drunk award ('You really don't deserve this particular award but it's the o...",
+      "title": "The MammoTh receives the Drunk award",
       "description": "The MammoTh received the Drunk award ('You really don't deserve this particular award but it's the one you wanted').",
       "url": "http://hackforums.net/showthread.php?tid=1793236",
       "users": [
         {
-          "username": "The MammoTh"
+          "username": "The MammoTh",
+          "uid": "572367"
         }
       ]
     },
@@ -214,15 +215,13 @@
     },
     {
       "category": "interviews",
-      "title": "Interview with KillaMuvz and KillaMuvz conducted by Kyle FYI™.",
+      "title": "Interview with KillaMuvz conducted by Kyle FYI™.",
       "description": "Interview with KillaMuvz conducted by Kyle FYI™; covers his joining HF, Cryptex development with Baked, and views on the free groups potentially being removed.",
       "url": "https://hackforums.net/showthread.php?pid=16670032",
       "users": [
         {
-          "username": "KillaMuvz"
-        },
-        {
-          "username": "KillaMuvz"
+          "username": "KillaMuvz",
+          "uid": "579898"
         }
       ]
     },

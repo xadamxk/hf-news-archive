@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient is considering a new POW3R usergroup with a 10,000-message PM box, 5-rep gives at a time,...",
+      "title": "Omniscient considers POW3R usergroup with heavy perks via LR",
       "description": "Omniscient is considering a new POW3R usergroup with a 10,000-message PM box, 5-rep gives at a time, 10 reps/day, and a 10-second flood time. Payments would only be acceptable through Liberty Reserve.",
       "url": "http://hackforums.net/showthread.php?tid=2034683",
       "users": [
@@ -17,7 +17,7 @@
     },
     {
       "category": "site",
-      "title": "The Social Engineering section was closed again due to repeated rule violations.",
+      "title": "Social Engineering closed; new DREDD sub-forum opens",
       "description": "The Social Engineering section was closed again due to repeated rule violations. A new DREDD section (Decompiling, Reverse Engineering, Disassembly, and Debugging) was opened in its place; Omniscient said he will be very strict about its rules.",
       "url": "http://hackforums.net/showthread.php?tid=2034683",
       "users": [
@@ -120,7 +120,7 @@
     },
     {
       "category": "users",
-      "title": "Civilizied (formerly Suhinder) had his account hacked; he has since changed his name back to Suhinde...",
+      "title": "Civilizied's account hacked; reverts to original name Suhinder",
       "description": "Civilizied (formerly Suhinder) had his account hacked; he has since changed his name back to Suhinder.",
       "url": "",
       "users": [
@@ -132,7 +132,7 @@
     },
     {
       "category": "users",
-      "title": "Zach, leader of Eminence and the RATs Crew, was repfucked and given a 3-month ban with reason 'It's...",
+      "title": "Eminence and RATs Crew leader Zach repfucked and banned 3 months",
       "description": "Zach, leader of Eminence and the RATs Crew, was repfucked and given a 3-month ban with reason 'It's when you crack a program.'",
       "url": "",
       "users": [
@@ -159,7 +159,7 @@
     },
     {
       "category": "threads",
-      "title": "Funny Thread: Obie Trice's 'All balls itch it's a fact' thread, referring to Omniscient's brief...",
+      "title": "Funny Thread: Obie Trice's 'All balls itch it's a fact'",
       "description": "Funny Thread: Obie Trice's 'All balls itch it's a fact' thread, referring to Omniscient's brief redirect of HackForums.net to allballsitch.ytmnd.com.",
       "url": "http://hackforums.net/showthread.php?tid=2034683",
       "users": [
@@ -207,7 +207,7 @@
     },
     {
       "category": "users",
-      "title": "DragScope received the Grammar Nazi award; Tay received the FPS Gawd award; Team Angeldust™ received...",
+      "title": "Awards: DragScope Grammar Nazi, Tay FPS Gawd, Team Angeldust Black Hatter",
       "description": "DragScope received the Grammar Nazi award; Tay received the FPS Gawd award; Team Angeldust™ received the Black Hatter award.",
       "url": "",
       "users": [
@@ -229,7 +229,8 @@
       "url": "https://hackforums.net/showthread.php?pid=18389509",
       "users": [
         {
-          "username": ".Infinity."
+          "username": ".Infinity.",
+          "uid": "121075"
         }
       ]
     },

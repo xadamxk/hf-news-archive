@@ -2,25 +2,27 @@
   "events": [
     {
       "category": "groups",
-      "title": "The HF Malware Removal Team (formerly HijackThis Team) opened public recruitment for the first time...",
+      "title": "HF Malware Removal Team opens public recruitment after year-long break",
       "description": "The HF Malware Removal Team (formerly HijackThis Team) opened public recruitment for the first time in over a year following a restructuring under leaders T3h Hacker, Paradoxum, and AsSaSs@iN.",
       "url": "",
       "users": [
         {
-          "username": "T3h Hacker"
+          "username": "T3h Hacker",
+          "uid": "128873"
         },
         {
           "username": "Paradoxum",
           "uid": "70881"
         },
         {
-          "username": "AsSaSs@iN"
+          "username": "AsSaSs@iN",
+          "uid": "70909"
         }
       ]
     },
     {
       "category": "groups",
-      "title": "The Guardians, formerly Beacon, was officially founded and opened recruitment, led by Plaтiпuм and M...",
+      "title": "Guardians (formerly Beacon) officially founded; led by Plaтiпuм and Morchid",
       "description": "The Guardians, formerly Beacon, was officially founded and opened recruitment, led by Plaтiпuм and Morchid.",
       "url": "http://hackforums.net/showthread.php?tid=3395221",
       "users": [
@@ -36,7 +38,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient deleted the PS Vita and PSP forums citing inactivity, merging their contents into a new c...",
+      "title": "PS Vita and PSP forums merged into new Sony Gaming subforum",
       "description": "Omniscient deleted the PS Vita and PSP forums citing inactivity, merging their contents into a new combined Sony Gaming subforum.",
       "url": "http://hackforums.net/showthread.php?tid=3395221",
       "users": [
@@ -66,7 +68,7 @@
     },
     {
       "category": "users",
-      "title": "Accident had his account closed and re-opened; Grin was promoted to moderator of the Pet Peeve...",
+      "title": "Accident closed/reopened; Grin moderates Pet Peeve; 1,000 rep milestones; more",
       "description": "Accident had his account closed and re-opened; Grin was promoted to moderator of the Pet Peeve section; Christy, Impulsee, MeaMeaJ, ViN, and Diabolic hit the 1,000 reputation mark; Sandshrew was demoted to L33T; redpois0n hit the 20,000 post mark.",
       "url": "http://hackforums.net/showthread.php?tid=3408748",
       "users": [
@@ -113,7 +115,7 @@
     },
     {
       "category": "users",
-      "title": "Maple ‎‎ was repfucked and banned for multiple accounts; Sir Dunya was repfucked twice; Insert...",
+      "title": "Maple banned (multi-account); Sir Dunya repfucked; LQP and vacation bans",
       "description": "Maple ‎‎ was repfucked and banned for multiple accounts; Sir Dunya was repfucked twice; Insert Clever Username, Skywalker, and Accident were banned for low quality posting; Positive, Mr. Snow, Harry Dresden, and BloodDrain were vacation banned.",
       "url": "http://hackforums.net/showthread.php?tid=3408748",
       "users": [
@@ -160,7 +162,7 @@
     },
     {
       "category": "users",
-      "title": "mad received the Da Bomb award; Draggin received the Fish Err Man award; Diabolic received the...",
+      "title": "Awards: mad Da Bomb; Draggin Fish Err Man; Diabolic Sticky Man and more",
       "description": "mad received the Da Bomb award; Draggin received the Fish Err Man award; Diabolic received the Sticky Man award; OSIRIS Security received the Silver Medal award; Kohsti and #Skyline donated for the Master Donator award; #Skyline also received the Rat Expert award.",
       "url": "http://hackforums.net/showthread.php?tid=3393255",
       "users": [
@@ -252,7 +254,7 @@
     },
     {
       "category": "groups",
-      "title": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for...",
+      "title": "Terror hosts freebuild build off competition with $30 prize",
       "description": "Terror hosted a freebuild build off competition on their official event server with a $30 prize for the winner and $10 each for two runner-ups.",
       "url": "http://hackforums.net/showthread.php?tid=3400010"
     },

@@ -17,7 +17,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient granted amnesty to banned members on the eve of his birthday, lifting their bans (excludi...",
+      "title": "Omniscient grants pre-birthday amnesty to non-scammer banned members",
       "description": "Omniscient granted amnesty to banned members on the eve of his birthday, lifting their bans (excluding scammers).",
       "url": "http://hackforums.net/showthread.php?tid=1616634",
       "users": [
@@ -32,7 +32,7 @@
     },
     {
       "category": "site",
-      "title": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups...",
+      "title": "New 'Custom User Groups' help doc published",
       "description": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups works.",
       "url": "",
       "tags": [
@@ -59,7 +59,7 @@
     },
     {
       "category": "site",
-      "title": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50...",
+      "title": "PM and signature post minimums adjusted; post length lowered to 40",
       "description": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50 posts; minimum post length lowered from 50 to 40 characters.",
       "url": "",
       "tags": [
@@ -83,7 +83,7 @@
     },
     {
       "category": "users",
-      "title": "Oldies (formerly Xypher), ex-leader of The Alliance and Black Knights, requested removal of his...",
+      "title": "Oldies requests removal of Master Donator, Ub3r, and Sapphire awards",
       "description": "Oldies (formerly Xypher), ex-leader of The Alliance and Black Knights, requested removal of his Master Donator award, the Ub3r usergroup, and the Sapphire of Ub3r award.",
       "url": "",
       "users": [
@@ -98,7 +98,7 @@
     },
     {
       "category": "groups",
-      "title": "Volenar was promoted to co-leader of Reverence, and Amp™ was promoted to co-leader of Red Lions and ...",
+      "title": "Volenar co-leads Reverence; Amp co-leads Red Lions and Black Knights",
       "description": "Volenar was promoted to co-leader of Reverence, and Amp™ was promoted to co-leader of Red Lions and Black Knights.",
       "url": "",
       "users": [
@@ -139,7 +139,7 @@
     },
     {
       "category": "users",
-      "title": "SeaNanners™ has the second-most reputation of any 2011 joiner; тнє Jσкєя has the most.",
+      "title": "SeaNanners and тнє Jσкєя top 2011-joiner reputation rankings",
       "description": "SeaNanners™ has the second-most reputation of any 2011 joiner; тнє Jσкєя has the most. Both are part of the 21 members above 1,000 reps.",
       "url": "",
       "users": [
@@ -155,7 +155,7 @@
     },
     {
       "category": "users",
-      "title": "Astonish is NJ started a Reverence Xbox 360 Tutorial thread, with many other Reverence members posti...",
+      "title": "Astonish is NJ launches Reverence Xbox 360 Tutorial thread",
       "description": "Astonish is NJ started a Reverence Xbox 360 Tutorial thread, with many other Reverence members posting their parts.",
       "url": "http://hackforums.net/showthread.php?tid=1611434",
       "users": [
@@ -183,7 +183,7 @@
     },
     {
       "category": "users",
-      "title": "CM Punk was demoted to l33t after Omniscient took issue with a comment he made about how easily Ub3r...",
+      "title": "CM Punk demoted to l33t over Ub3r access remark",
       "description": "CM Punk was demoted to l33t after Omniscient took issue with a comment he made about how easily Ub3r could be obtained.",
       "url": "http://hackforums.net/showthread.php?tid=1594482&pid=14596905#pid14596905",
       "users": [
@@ -241,7 +241,7 @@
     },
     {
       "category": "users",
-      "title": "n4z1 and the Eminence group created a tutorial on staying anonymous, covering VPNs, proxies, and gen...",
+      "title": "n4z1 and Eminence publish anonymity tutorial covering VPNs and OPSEC",
       "description": "n4z1 and the Eminence group created a tutorial on staying anonymous, covering VPNs, proxies, and general operational security.",
       "url": "http://hackforums.net/showthread.php?tid=1623742",
       "users": [
@@ -258,7 +258,8 @@
       "url": "https://hackforums.net/showthread.php?pid=14848387",
       "users": [
         {
-          "username": "Valiant"
+          "username": "Valiant",
+          "uid": "45246"
         }
       ]
     },

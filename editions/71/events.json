@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "groups",
-      "title": "Reverence changed their userbar but, after mostly negative feedback, reverted to the original;...",
+      "title": "Reverence reverts userbar change after negative feedback",
       "description": "Reverence changed their userbar but, after mostly negative feedback, reverted to the original; leader Astonish is NJ commented that the group symbolizes help, not looks.",
       "url": "",
       "users": [
@@ -26,7 +26,7 @@
     },
     {
       "category": "groups",
-      "title": "The unofficial group Team Qwazz reached 1,000 posts in their recruitment thread, one of the first un...",
+      "title": "Unofficial Team Qwazz hits 1,000 posts in recruitment thread",
       "description": "The unofficial group Team Qwazz reached 1,000 posts in their recruitment thread, one of the first unofficial groups to do so.",
       "url": "http://hackforums.net/showthread.php?tid=1258349",
       "tags": [
@@ -236,7 +236,8 @@
           "username": "Diabolic"
         },
         {
-          "username": "Skill"
+          "username": "Skill",
+          "uid": "65581"
         },
         {
           "uid": "622763",

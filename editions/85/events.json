@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient changed the minimum username length from 3 to 4 characters; existing 3-character username...",
+      "title": "Minimum username length raised from 3 to 4 characters",
       "description": "Omniscient changed the minimum username length from 3 to 4 characters; existing 3-character usernames are now considered rare.",
       "url": "",
       "users": [
@@ -17,7 +17,7 @@
     },
     {
       "category": "groups",
-      "title": "The Wraith group has been retired as official after declining to pay to stay; the group is...",
+      "title": "The Wraith retired as official; continues on WizardForums",
       "description": "The Wraith group has been retired as official after declining to pay to stay; the group is continuing on WizardForums (run by retired admin Crow).",
       "url": "http://hackforums.net/showthread.php?tid=2341177",
       "users": [
@@ -32,7 +32,7 @@
     },
     {
       "category": "groups",
-      "title": "After the free-group payment deadline, Omniscient raised the group price to $2,500 (+$500 per new...",
+      "title": "Group price raised to $2,500; $250 leadership change fee added",
       "description": "After the free-group payment deadline, Omniscient raised the group price to $2,500 (+$500 per new group sold) and now charges $250 for leadership changes to encourage stable leadership.",
       "url": "http://hackforums.net/showthread.php?tid=2347521",
       "users": [
@@ -122,7 +122,7 @@
     },
     {
       "category": "threads",
-      "title": "Award Thread: Alphonse's announcement that Omniscient is no longer giving out the Support Feather aw...",
+      "title": "Award Thread: Alphonse announces Support Feather award retired",
       "description": "Award Thread: Alphonse's announcement that Omniscient is no longer giving out the Support Feather award on HF.",
       "url": "http://hackforums.net/showthread.php?tid=2340970",
       "users": [
@@ -146,7 +146,7 @@
     },
     {
       "category": "threads",
-      "title": "Smoking Thread: Relapse™'s 'I'm 14 and am thinking of taking up smoking, can anyone recommend some...",
+      "title": "Smoking Thread: Relapse™'s 'I'm 14 and thinking of smoking' bait",
       "description": "Smoking Thread: Relapse™'s 'I'm 14 and am thinking of taking up smoking, can anyone recommend some good brands?' — used to gauge member reactions to cigarettes.",
       "url": "http://hackforums.net/showthread.php?tid=2341931",
       "users": [
@@ -198,7 +198,8 @@
       "url": "https://hackforums.net/showthread.php?pid=21201117",
       "users": [
         {
-          "username": "Sai"
+          "username": "Sai",
+          "uid": "864480"
         }
       ]
     },
@@ -209,7 +210,8 @@
       "url": "https://hackforums.net/showthread.php?pid=21201117",
       "users": [
         {
-          "username": "Inspector Gadget"
+          "username": "Inspector Gadget",
+          "uid": "134459"
         }
       ]
     },

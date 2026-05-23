@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient confirmed a Networking section will be added in the future after a 5-month-old suggestion...",
+      "title": "Omniscient confirms upcoming Networking section",
       "description": "Omniscient confirmed a Networking section will be added in the future after a 5-month-old suggestion thread.",
       "url": "http://hackforums.net/showthread.php?tid=2573045&pid=23432261#pid23432261",
       "users": [
@@ -17,7 +17,7 @@
     },
     {
       "category": "groups",
-      "title": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budgin...",
+      "title": "Coders' new userbar gets mixed reactions; leaders won't budge",
       "description": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budging.",
       "url": "",
       "tags": [
@@ -26,12 +26,13 @@
     },
     {
       "category": "groups",
-      "title": "The Root group was sold to an unknown buyer for $3,000 in an auction by Castle Bravo; all current...",
+      "title": "Root sold for $3,000 in Castle Bravo auction; members will be kicked",
       "description": "The Root group was sold to an unknown buyer for $3,000 in an auction by Castle Bravo; all current members will be kicked when the new leader takes over.",
       "url": "http://hackforums.net/showthread.php?tid=2574092",
       "users": [
         {
-          "username": "Castle Bravo"
+          "username": "Castle Bravo",
+          "uid": "559352"
         }
       ],
       "tags": [

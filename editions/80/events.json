@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient added a 'Server Stress Testing' subforum under Premium Sellers; currently closed to new t...",
+      "title": "New 'Server Stress Testing' subforum added under Premium Sellers",
       "description": "Omniscient added a 'Server Stress Testing' subforum under Premium Sellers; currently closed to new threads.",
       "url": "",
       "users": [
@@ -34,7 +34,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient added login security: IPs that repeatedly fail to log in to multiple accounts will be...",
+      "title": "Login security: IPs failing repeated logins now blocked from HF",
       "description": "Omniscient added login security: IPs that repeatedly fail to log in to multiple accounts will be blocked from HF, preventing account brute-forcing.",
       "url": "",
       "users": [
@@ -49,7 +49,7 @@
     },
     {
       "category": "site",
-      "title": "Factor8 (now admin) is in charge of stolen/lost account recovery; questions go to him via PM or the ...",
+      "title": "Factor8 takes charge of stolen/lost account recovery",
       "description": "Factor8 (now admin) is in charge of stolen/lost account recovery; questions go to him via PM or the contact form.",
       "url": "",
       "users": [
@@ -118,7 +118,7 @@
     },
     {
       "category": "users",
-      "title": "Fanatic was banned and repfucked for supporting Cataclysm and giving mfjc positive reputation on his...",
+      "title": "Fanatic banned and repfucked for supporting Cataclysm and mfjc",
       "description": "Fanatic was banned and repfucked for supporting Cataclysm and giving mfjc positive reputation on his new account.",
       "url": "",
       "users": [
@@ -148,7 +148,7 @@
     },
     {
       "category": "users",
-      "title": "mfjc was repfucked and placed in the dead account group after DOS attacking HF (42,000 page views) a...",
+      "title": "mfjc repfucked after DOS-ing HF and reversing payments",
       "description": "mfjc was repfucked and placed in the dead account group after DOS attacking HF (42,000 page views) and reversing all payments to Omniscient.",
       "url": "",
       "users": [
@@ -167,7 +167,7 @@
     },
     {
       "category": "threads",
-      "title": "MFJC Thread: Omniscient announced that all MFJC sales are banned following the DOS attack and charge...",
+      "title": "MFJC Thread: Omniscient bans MFJC sales after DOS and chargebacks",
       "description": "MFJC Thread: Omniscient announced that all MFJC sales are banned following the DOS attack and chargebacks.",
       "url": "http://hackforums.net/showthread.php?tid=2232752",
       "users": [
@@ -230,7 +230,7 @@
     },
     {
       "category": "users",
-      "title": "Invisus received the Master Donator and FPS Gawd awards; Purple Haze received the Fish Err Man award...",
+      "title": "Awards: Invisus Master Donator/FPS Gawd; Purple Haze Fish Err Man",
       "description": "Invisus received the Master Donator and FPS Gawd awards; Purple Haze received the Fish Err Man award; Chocothunda received the Gamer award.",
       "url": "",
       "users": [

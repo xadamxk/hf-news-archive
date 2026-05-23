@@ -17,7 +17,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient added a feature allowing members to filter their reputation by positives, negatives, and ...",
+      "title": "Reputation filter added: positives, negatives, neutrals via User CP",
       "description": "Omniscient added a feature allowing members to filter their reputation by positives, negatives, and neutrals via User CP.",
       "url": "",
       "users": [
@@ -44,7 +44,7 @@
     },
     {
       "category": "users",
-      "title": "Qwazz is stepping down as publisher of HF News and as moderator of the section, choosing Cobalt+ as ...",
+      "title": "Qwazz steps down as HF News publisher; Cobalt+ succeeds him",
       "description": "Qwazz is stepping down as publisher of HF News and as moderator of the section, choosing Cobalt+ as his successor.",
       "url": "",
       "users": [
@@ -63,7 +63,7 @@
     },
     {
       "category": "groups",
-      "title": "Deities was promoted from leader to moderator of The Alliance sub-forum, while Paradoxum is still co...",
+      "title": "Deities promoted to The Alliance sub-forum moderator",
       "description": "Deities was promoted from leader to moderator of The Alliance sub-forum, while Paradoxum is still considered the group's owner.",
       "url": "",
       "users": [
@@ -83,7 +83,7 @@
     },
     {
       "category": "users",
-      "title": "๖ۣۜPink ๖ۣۜFloyd was promoted to moderator of the Minecraft section after suggesting improvements an...",
+      "title": "๖ۣۜPink ๖ۣۜFloyd promoted to Minecraft section moderator",
       "description": "๖ۣۜPink ๖ۣۜFloyd was promoted to moderator of the Minecraft section after suggesting improvements and a new sub-forum.",
       "url": "http://hackforums.net/showthread.php?tid=1526218",
       "users": [
@@ -99,7 +99,7 @@
     },
     {
       "category": "users",
-      "title": "panDa. was repfucked for allegedly attempting to bribe a staff member, though it appears to be a mis...",
+      "title": "panDa. repfucked over alleged staff bribery (likely misunderstanding)",
       "description": "panDa. was repfucked for allegedly attempting to bribe a staff member, though it appears to be a misunderstanding.",
       "url": "",
       "users": [
@@ -115,7 +115,7 @@
     },
     {
       "category": "groups",
-      "title": "A new official group called Marketers was established, led by Codevade, focused on improving HF...",
+      "title": "New official group Marketers founded, led by Codevade",
       "description": "A new official group called Marketers was established, led by Codevade, focused on improving HF quality, decreasing scams, and selling better products.",
       "url": "",
       "users": [
@@ -161,7 +161,7 @@
     },
     {
       "category": "users",
-      "title": "Deities was given full ownership of the HackForums YouTube channel and hit the 1,000 reputation mile...",
+      "title": "Deities gains HF YouTube channel and crosses 1,000 reputation",
       "description": "Deities was given full ownership of the HackForums YouTube channel and hit the 1,000 reputation milestone.",
       "url": "",
       "users": [
@@ -176,7 +176,7 @@
     },
     {
       "category": "users",
-      "title": "Blackshadow was removed from the Member of the Month nominations because someone was vote-farming fo...",
+      "title": "Blackshadow removed from Member of the Month over vote-farming",
       "description": "Blackshadow was removed from the Member of the Month nominations because someone was vote-farming for him; it is unknown if he was involved.",
       "url": "",
       "users": [
@@ -216,7 +216,7 @@
     },
     {
       "category": "users",
-      "title": "nofear1999 released a new shell checker tool for booter creators to verify whether their shells are ...",
+      "title": "nofear1999 releases shell checker tool for booter creators",
       "description": "nofear1999 released a new shell checker tool for booter creators to verify whether their shells are private or public.",
       "url": "http://hackforums.net/showthread.php?tid=1506803",
       "users": [
@@ -284,7 +284,8 @@
       "url": "https://hackforums.net/showthread.php?pid=14078563",
       "users": [
         {
-          "username": "Skill"
+          "username": "Skill",
+          "uid": "65581"
         }
       ]
     },

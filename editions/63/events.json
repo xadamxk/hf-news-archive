@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "users",
-      "title": "Judge Dredd's account was compromised; the attacker created an account named 'Judge Dredd Hacked'...",
+      "title": "Judge Dredd's account compromised by 'Judge Dredd Hacked' attacker",
       "description": "Judge Dredd's account was compromised; the attacker created an account named 'Judge Dredd Hacked' and posted a thread describing what he did. Omniscient confirmed the account was secured and recovered with no damage to HF.",
       "url": "http://hackforums.net/showthread.php?tid=1818530",
       "users": [
@@ -21,7 +21,7 @@
     },
     {
       "category": "site",
-      "title": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a...",
+      "title": "Profile-stalking restrictions extended from admins to all staff",
       "description": "Profile-stalking restrictions were extended from administrators to all staff members; nobody with a staff userbar can have their profile activity viewed.",
       "url": "",
       "tags": [

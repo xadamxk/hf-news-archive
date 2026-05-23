@@ -111,7 +111,7 @@
     },
     {
       "category": "groups",
-      "title": "The Informers group was permanently dismantled after former leader Atthackers was unable to complete...",
+      "title": "The Informers dismantled after Atthackers fails to complete payment",
       "description": "The Informers group was permanently dismantled after former leader Atthackers was unable to complete payment.",
       "url": "",
       "users": [
@@ -230,7 +230,8 @@
       "url": "https://hackforums.net/showthread.php?pid=13809532",
       "users": [
         {
-          "username": "Rusty_v"
+          "username": "Rusty_v",
+          "uid": "47970"
         }
       ]
     },
@@ -241,7 +242,8 @@
       "url": "https://hackforums.net/showthread.php?pid=13809532",
       "users": [
         {
-          "username": "SeaNanners™"
+          "username": "SeaNanners™",
+          "uid": "766442"
         }
       ]
     },

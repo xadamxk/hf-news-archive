@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient removed thread view counts because botters were artificially inflating views (and effecti...",
+      "title": "Omniscient removes thread view counts due to botter inflation",
       "description": "Omniscient removed thread view counts because botters were artificially inflating views (and effectively DDoSing the site). Members can still view their own thread counts via User CP and subscribed threads.",
       "url": "http://hackforums.net/showthread.php?tid=1916117",
       "users": [
@@ -17,7 +17,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient added the MyTweets plugin to Hack Forums after its success on Support Forums; the...",
+      "title": "Omniscient adds MyTweets plugin; HF feed appears on his profile",
       "description": "Omniscient added the MyTweets plugin to Hack Forums after its success on Support Forums; the official HF Twitter feed now displays on his profile.",
       "url": "",
       "users": [
@@ -41,13 +41,13 @@
     },
     {
       "category": "groups",
-      "title": "The Reverence group dropped the Coders section completely, attributed to lack of commitment from the...",
+      "title": "Reverence drops its Coders section over lack of commitment",
       "description": "The Reverence group dropped the Coders section completely, attributed to lack of commitment from the coders.",
       "url": ""
     },
     {
       "category": "site",
-      "title": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the long...",
+      "title": "Hack Forums hit by 3 GB/s DDoS; about 9 hours of downtime",
       "description": "Hack Forums was DDoSed at 3 GB/s; the site experienced about nine hours of downtime, one of the longest in a long time.",
       "url": "",
       "tags": [
@@ -80,7 +80,7 @@
     },
     {
       "category": "users",
-      "title": "Tate was banned until 12-10-2011 with the reason 'Tired of your attention whoring,' triggered by his...",
+      "title": "Tate banned after thread defending thread view counts",
       "description": "Tate was banned until 12-10-2011 with the reason 'Tired of your attention whoring,' triggered by his thread defending thread view counts.",
       "url": "http://hackforums.net/showthread.php?tid=1908602",
       "users": [
@@ -104,7 +104,7 @@
     },
     {
       "category": "threads",
-      "title": "Contest Thread: Decoy's SE Nation giveaway — three Amazon Kindle DXs for posting on his Social Engin...",
+      "title": "Contest Thread: Decoy's SE Nation Amazon Kindle giveaway",
       "description": "Contest Thread: Decoy's SE Nation giveaway — three Amazon Kindle DXs for posting on his Social Engineering forum.",
       "url": "http://hackforums.net/showthread.php?tid=1895984",
       "users": [
@@ -116,7 +116,7 @@
     },
     {
       "category": "threads",
-      "title": "Informative Thread: Genuine's lengthy explanation of what the Bragging Rights section is, addressing...",
+      "title": "Informative Thread: Genuine explains the Bragging Rights section",
       "description": "Informative Thread: Genuine's lengthy explanation of what the Bragging Rights section is, addressing common misconceptions.",
       "url": "http://hackforums.net/showthread.php?tid=1920393",
       "users": [
@@ -152,7 +152,7 @@
     },
     {
       "category": "threads",
-      "title": "Runescape Thread: maniac compromised an RSbuddy.com moderator account and released the entire modera...",
+      "title": "Runescape Thread: maniac leaks RSbuddy.com moderator section",
       "description": "Runescape Thread: maniac compromised an RSbuddy.com moderator account and released the entire moderator section to the internet.",
       "url": "http://hackforums.net/showthread.php?tid=1925359",
       "users": [
@@ -171,7 +171,8 @@
       "url": "",
       "users": [
         {
-          "username": "N3w_2_H@Ck1n™"
+          "username": "N3w_2_H@Ck1n™",
+          "uid": "49806"
         },
         {
           "username": "Wolves",
@@ -181,7 +182,7 @@
     },
     {
       "category": "users",
-      "title": "Vanadium received the Businessman award; Spafic received the Gold Medal for 10,000 posts; VeNoMz rec...",
+      "title": "Awards: Vanadium Businessman, Spafic Gold Medal, VeNoMz RAT Expert",
       "description": "Vanadium received the Businessman award; Spafic received the Gold Medal for 10,000 posts; VeNoMz received the RAT Expert award.",
       "url": "",
       "users": [
@@ -206,7 +207,8 @@
       "url": "https://hackforums.net/showthread.php?pid=17421561",
       "users": [
         {
-          "username": "Reliable"
+          "username": "Reliable",
+          "uid": "1281340"
         }
       ]
     },

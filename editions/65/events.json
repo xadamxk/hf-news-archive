@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "HF News underwent a graphical overhaul; Cobalt+ has stepped down and left the news in Sir's hands;...",
+      "title": "HF News overhauled graphically; Cobalt+ exits, Sir takes over",
       "description": "HF News underwent a graphical overhaul; Cobalt+ has stepped down and left the news in Sir's hands; editions are now combined with the regular news in the first post and user news in the second.",
       "url": "",
       "users": [
@@ -21,7 +21,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient took a vacation to Disneyland (his fourth trip there) to spend time with his family; PMs...",
+      "title": "Omniscient returns from fourth Disneyland family vacation",
       "description": "Omniscient took a vacation to Disneyland (his fourth trip there) to spend time with his family; PMs and account upgrades have since been caught up.",
       "url": "http://hackforums.net/showthread.php?tid=1875183",
       "users": [
@@ -36,7 +36,7 @@
     },
     {
       "category": "site",
-      "title": "Omniscient set new rules for the Hacking Tutorials section regarding eBooks, off-site links, videos,...",
+      "title": "New Hacking Tutorials rules; Free Hacking eBooks sub-forum added",
       "description": "Omniscient set new rules for the Hacking Tutorials section regarding eBooks, off-site links, videos, and post format; a new sub-forum for Free Hacking Tutorials eBooks was also added.",
       "url": "http://hackforums.net/showthread.php?tid=1852486",
       "users": [
@@ -65,7 +65,8 @@
           "username": "Omniscient"
         },
         {
-          "username": "Emily"
+          "username": "Emily",
+          "uid": "535046"
         }
       ],
       "tags": [
@@ -75,7 +76,7 @@
     },
     {
       "category": "site",
-      "title": "The site suffered several hours of downtime while Omniscient was away on his hiatus; he has stated n...",
+      "title": "Several hours of HF downtime while Omniscient was away",
       "description": "The site suffered several hours of downtime while Omniscient was away on his hiatus; he has stated nothing serious occurred.",
       "url": "",
       "users": [
@@ -109,7 +110,7 @@
     },
     {
       "category": "groups",
-      "title": "The HF Minecrafters Group, led by Dylan, was made official this week after Dylan paid the final...",
+      "title": "HF Minecrafters becomes first fully-paid official group",
       "description": "The HF Minecrafters Group, led by Dylan, was made official this week after Dylan paid the final $1,000 to Omniscient — the first ever paid group to become official from a full payment.",
       "url": "http://hackforums.net/showthread.php?tid=1873326",
       "users": [
@@ -225,7 +226,7 @@
     },
     {
       "category": "threads",
-      "title": "TinyChat Thread: Storm Watch's 'Drug Cartel - HF Tinychat,' the largest TinyChat group to date and s...",
+      "title": "TinyChat Thread: Storm Watch's 'Drug Cartel - HF Tinychat'",
       "description": "TinyChat Thread: Storm Watch's 'Drug Cartel - HF Tinychat,' the largest TinyChat group to date and stickied in its section.",
       "url": "http://hackforums.net/showthread.php?tid=1823638",
       "users": [
@@ -237,7 +238,7 @@
     },
     {
       "category": "threads",
-      "title": "Member Returning Thread: Prokill's reintroduction thread; he is well known for hacking many social-n...",
+      "title": "Member Returning Thread: Prokill's reintroduction",
       "description": "Member Returning Thread: Prokill's reintroduction thread; he is well known for hacking many social-network accounts of celebrities.",
       "url": "http://hackforums.net/showthread.php?tid=1859597",
       "users": [
@@ -249,7 +250,7 @@
     },
     {
       "category": "threads",
-      "title": "Bragging Thread: mrwhich's claim of $63,000 in October 2011 earnings via undisclosed monetizing tech...",
+      "title": "Bragging Thread: mrwhich's claimed $63,000 October earnings",
       "description": "Bragging Thread: mrwhich's claim of $63,000 in October 2011 earnings via undisclosed monetizing techniques (with proof).",
       "url": "http://hackforums.net/showthread.php?tid=1829330",
       "users": [
@@ -292,7 +293,7 @@
     },
     {
       "category": "users",
-      "title": "Mostskillful received the GFX Guru award; The Operator received Speaker of the House; The MammoTh...",
+      "title": "October awards: GFX Guru, Speaker, Alien, Diamond, and more",
       "description": "Mostskillful received the GFX Guru award; The Operator received Speaker of the House; The MammoTh received The Alien; Diabolic received Grammar Nazi; Ignite. received Rat Expert; bugga received the Diamond award; Judge Dredd received Cuddly and Cute; Orgy received Businessman; RRain received Sticky Man.",
       "url": "",
       "users": [
@@ -303,7 +304,8 @@
           "username": "The Operator"
         },
         {
-          "username": "The MammoTh"
+          "username": "The MammoTh",
+          "uid": "572367"
         },
         {
           "username": "Diabolic",
@@ -326,7 +328,8 @@
           "username": "Orgy"
         },
         {
-          "username": "RRain"
+          "username": "RRain",
+          "uid": "89554"
         }
       ]
     },
@@ -349,7 +352,8 @@
       "url": "https://hackforums.net/showthread.php?pid=17063008",
       "users": [
         {
-          "username": "Riggs"
+          "username": "Riggs",
+          "uid": "402384"
         }
       ]
     },
