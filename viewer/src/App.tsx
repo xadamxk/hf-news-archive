@@ -1044,6 +1044,8 @@ function ContributorsPanel({ editions }: { editions: CompactEditionRow[] }) {
   /** Set of uids whose editions row is currently expanded. Multiple rows can
    *  be expanded in parallel. */
   const [expanded, setExpanded] = useState<Set<string>>(() => new Set());
+  const [userQ, setUserQ] = useState("");
+  const deferredUserQ = useDeferredValue(userQ);
 
   useEffect(() => {
     let cancelled = false;
@@ -1095,11 +1097,50 @@ function ContributorsPanel({ editions }: { editions: CompactEditionRow[] }) {
     );
   }
 
+  const uq = deferredUserQ.trim().toLowerCase();
+  const filteredContributors = uq
+    ? data.c.filter(
+        (row) =>
+          row.i.toLowerCase() === uq ||
+          (row.u && row.u.toLowerCase() === uq),
+      )
+    : data.c;
+
   return (
     <div id="panel-contributors" role="tabpanel" className="contributors-panel">
+      <section className="toolbar" aria-label="Contributor search">
+        <div className="filter-grid">
+          <div className="filter-cell filter-cell--search">
+            <label className="filter-heading" htmlFor="contrib-input-user">
+              User (Name or UID)
+            </label>
+            <input
+              id="contrib-input-user"
+              className="filter-input"
+              type="search"
+              placeholder="exact username or uid"
+              value={userQ}
+              onChange={(e) => setUserQ(e.target.value)}
+              autoComplete="off"
+            />
+          </div>
+        </div>
+      </section>
       <p className="meta" style={{ marginTop: 0 }}>
-        {data.n} contributors across HF News editions, sorted by editions
-        contributed to.
+        {uq ? (
+          <>
+            Showing <strong style={{ color: "var(--text)" }}>{filteredContributors.length}</strong> of{" "}
+            <strong style={{ color: "var(--text)" }}>{data.n}</strong> contributors
+            {deferredUserQ !== userQ ? (
+              <span className="meta-deferred" aria-live="polite"> (updating…)</span>
+            ) : null}
+          </>
+        ) : (
+          <>
+            {data.n} contributors across HF News editions, sorted by editions
+            contributed to.
+          </>
+        )}
       </p>
       <div className="contributors-table-wrap">
         <table className="contributors-table">
@@ -1112,7 +1153,7 @@ function ContributorsPanel({ editions }: { editions: CompactEditionRow[] }) {
             </tr>
           </thead>
           <tbody>
-            {data.c.map((row) => {
+            {filteredContributors.map((row) => {
               const isOpen = expanded.has(row.i);
               const eds = row.eds ?? [];
               return (
