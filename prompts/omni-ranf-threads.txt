@@ -1,0 +1,62 @@
+curl --location 'https://hackforums.net/api/v2/read/posts' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: ***' \
+--header 'Cookie: mybb[lastactive]=1779561602; mybb[lastvisit]=1779243143' \
+--data '{
+  "asks": {
+    "threads": {
+      "_uid": 1,
+      "_page": 1,
+      "_perpage": 30,
+      "tid": true,
+      "uid": true,
+      "subject": true,
+      "dateline": true,
+      "fid": true,
+      "prefix": true
+    }
+  }
+}'
+
+This API request will fetch all threads for the user with the uid 1 (30 entries max, per page)
+I want to query these threads and compile a list of all threads that are in the fid of "2"
+I want to save all of the properties in the threads array for these in a file called threads.json.
+I also want a temporary file that tracks which page we have stored results for, so by default it should be 1.
+
+Then in the next iteration when the _page goes to 2, and we save the results, the temp file writes 2 to the file.
+And so on and so forth until we have stored all pages for the user with the uid 1.
+
+
+The API has a response header of "x-rate-limit-remaining" that reeturns a number of remaining requests.
+Between each request, the script should wait for 2 seconds to ensure we don't exceed the rate limit.
+If we get a rate limit related error, the script should stop.
+
+Sample response:
+{
+    "threads": [
+        {
+            "tid": "6325757",
+            "uid": "1",
+            "subject": "JS Adjustments",
+            "dateline": "1779318725",
+            "fid": "2",
+            "prefix": "95"
+        },
+        {
+            "tid": "6325754",
+            "uid": "1",
+            "subject": "Dump T/A and use Trump Method",
+            "dateline": "1779306929",
+            "fid": "281",
+            "prefix": "0"
+        },
+        {
+            "tid": "6325751",
+            "uid": "1",
+            "subject": "Monero Explorer",
+            "dateline": "1779303104",
+            "fid": "380",
+            "prefix": "0"
+        }
+    ]
+}
