@@ -10,6 +10,10 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features",
+                "usergroups"
             ]
         },
         {
@@ -22,6 +26,9 @@
                     "uid": "175033",
                     "username": "Xerotic"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -34,6 +41,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -41,7 +51,10 @@
             "title": "400th Edition of HF News",
             "description": "The HF News team celebrates 400 editions, thanking past and current journalists, Writ3rs, and readers.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "groups",

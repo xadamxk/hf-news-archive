@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "category": "site",
+            "category": "threads",
             "title": "HF News Notifier",
             "description": "On October the 30th, our favorite mentor xadamxk released the official HF News Notifier script. The purpose of this userscript is fairly simple but most usefull. It will create a notification when a new edition of the HF news is released. We would like to personally thank xadamxk for creating this userscript. Great work! >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5480003",
@@ -12,7 +12,10 @@
             "title": "Ban reason on trust scan?",
             "description": "On December the 2nd, our administrator Omniscient hinted at wanting to add ban reason to the trust scan. This way upgraded users will no longe have to search in the bans list to see why a user got banned. Omniscient also mentioned wanting to add something for closed & inactive accounts as well. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5482543",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",
@@ -64,6 +67,9 @@
                     "uid": "2",
                     "username": "Nixhxlas"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -128,6 +134,9 @@
                     "uid": "2759618",
                     "username": "YayHar"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -224,6 +233,9 @@
                     "uid": "2759618",
                     "username": "YayHar"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

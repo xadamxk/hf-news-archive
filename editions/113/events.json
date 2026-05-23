@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient launched HackerCraft, a Minecraft Faction server tied to HF, in open beta with a...",
+      "title": "Omniscient launched HackerCraft in Open Beta",
       "description": "Omniscient launched HackerCraft, a Minecraft Faction server tied to HF, in open beta with a dedicated subforum and award; entry was free with paid donations and factions.",
       "url": "http://hackforums.net/showthread.php?tid=2631046",
       "users": [
@@ -10,6 +10,11 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "forums",
+        "infrastructure"
       ]
     },
     {
@@ -26,6 +31,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones",
+        "usergroups"
       ]
     },
     {
@@ -48,6 +57,10 @@
           "uid": "1371671",
           "username": "Third"
         }
+      ],
+      "tags": [
+        "awards",
+        "theme"
       ]
     },
     {
@@ -80,6 +93,9 @@
           "uid": "656453",
           "username": "Chris"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -96,6 +112,9 @@
           "uid": "245853",
           "username": "Gabber"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

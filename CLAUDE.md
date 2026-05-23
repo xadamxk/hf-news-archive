@@ -43,6 +43,13 @@ bun run build   # static build to viewer/dist/ (prebuild auto-runs `data`)
 - `edition` block: `number`, `date` (unix int from the first post), `pid`, `author_uid`, `subject`. For blog-sourced editions, also include `bid` and set `pid: ""`.
 - Skip off-site world/tech/gaming/anime/comics/horoscope columns — they are not HF events.
 - Notable threads are included as `threads` events **only when listed in the edition's notable-thread section.**
+- Events may carry an optional `tags: string[]` array. Canonical tags (kebab-case):
+  - `rules`, `awards`, `rkos`, `holidays`, `moderation`, `forums`,
+    `features`, `town-hall`, `site-maintenance`, `usergroups`,
+    `infrastructure`, `theme`, `bug-fixes`, `drama`, `hf-news-ops`,
+    `milestones`, `omniscient-personal`
+  - `interviews` and `news` events are intentionally not tagged (their category already provides the bucket).
+  - An auto-pass at `scripts/apply_tags.js` keyword-matched the initial set; the curator hand-adjusts via `TAG_AUDIT.md` and per-edition edits.
 
 ### Resolving usernames from `[mention=NNN]` tags
 
@@ -56,9 +63,9 @@ Compact short-key shape produced by `viewer/scripts/aggregate-events.ts`:
 
 - `ed[]` — edition rows: `{ e: number, s: subject, p: pid, a: author_uid, h: date }` (also `b: bid` for blog editions)
 - `n` — total event count
-- `a[]` — events: `{ c: category, t: title, d: description, l: url, u: users[], x: index into ed[] }`
+- `a[]` — events: `{ c: category, t: title, d: description, l: url, u: users[], g: tags[], x: index into ed[] }` (`g` omitted when no tags)
 
-The viewer (`viewer/src/App.tsx`) consumes this directly. Filters: search (substring on title+description, case-insensitive), category (exact), user (substring on uid OR username). Profile links resolve to `https://hackforums.net/member.php?action=profile&uid=<UID>`.
+The viewer (`viewer/src/App.tsx`) consumes this directly. Filters: search (substring on title+description, case-insensitive), category (exact), tag (OR across selected tags), user (substring on uid OR username). Profile links resolve to `https://hackforums.net/member.php?action=profile&uid=<UID>`.
 
 There are also one-off maintenance scripts in `viewer/scripts/` (`fix-interview-urls.ts`, `migrate-edition-meta.ts`, `normalize-role-separators.ts`, `standardize-interview-titles.ts`) — read them before running; they mass-rewrite `events.json` files.
 

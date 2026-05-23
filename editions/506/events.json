@@ -5,14 +5,20 @@
             "title": "New Feature: Branch Cite",
             "description": "A new \"Branch Cite\" feature lets members branch a cited post off into a new thread in the same or a different subforum (similar to Reddit crossposts or Twitter threads). Suggested subforums are offered when starting a branch cite.",
             "url": "https://hackforums.net/showthread.php?tid=6158061",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Bi-Weekly Editions",
             "description": "HF News will publish every other week for the next few editions while the team recruits more journalists and works on quality improvements behind the scenes.",
             "url": "https://hackforums.net/showthread.php?tid=5893696",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "site",
@@ -24,6 +30,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "holidays"
             ]
         },
         {
@@ -36,6 +45,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -112,6 +124,9 @@
                     "uid": "351249",
                     "username": "Futurama"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

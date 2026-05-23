@@ -17,14 +17,20 @@
             "title": "E-Whoring Rebranded",
             "description": "The E-Whoring section was rebranded to Adult Content Management during Octoberfest, and its forum icon was replaced with a new design.",
             "url": "https://hackforums.net/showthread.php?tid=6253543",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays"
+            ]
         },
         {
             "category": "site",
             "title": "Crew Userbars Update",
             "description": "The maximum file size for custom crew userbars was increased from 60k to 150k.",
             "url": "https://hackforums.net/showthread.php?tid=6252933",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "groups",
@@ -92,6 +98,9 @@
                     "uid": "3995095",
                     "username": "Bastille"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -108,6 +117,9 @@
                     "uid": "5185438",
                     "username": "Migos"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -159,21 +171,30 @@
             "title": "Award Price Increase",
             "description": "The Bytes Bag award will be revalued to 30,000 bytes starting November 1st, with continued price increases planned over time.",
             "url": "https://hackforums.net/showthread.php?tid=6253533",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Captcha Removed",
             "description": "After complaints, the Cloudflare Captcha was removed to make posting and replying to PMs easier for newer members. The change may be reverted if problematic.",
             "url": "https://hackforums.net/showthread.php?tid=6254110",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",
             "title": "Warning Level Changes",
             "description": "The Warning System was adjusted to be less harsh: posting limitation times and ban lengths were both reduced.",
             "url": "https://hackforums.net/showthread.php?tid=6253534",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "news",

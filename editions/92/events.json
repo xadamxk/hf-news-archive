@@ -10,13 +10,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
       "category": "groups",
       "title": "A new official invite-only group, Serenity, was created (debate/discussion focused, secretive).",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "groups",
@@ -28,6 +34,9 @@
           "uid": "940577",
           "username": "Honor Et Veritas"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -40,6 +49,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -56,6 +68,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -68,6 +83,9 @@
           "uid": "940577",
           "username": "Honor Et Veritas"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -80,6 +98,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -108,6 +129,9 @@
           "uid": "712426",
           "username": "Responsibility"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -136,6 +160,9 @@
           "uid": "1053743",
           "username": "Protein"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

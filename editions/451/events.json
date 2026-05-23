@@ -5,14 +5,20 @@
             "title": "Premium Tools and Programs Sticky Price Reduced",
             "description": "The sticky price for the Premium Tools and Programs subforum was reduced to $20/week or $75/month.",
             "url": "https://hackforums.net/showthread.php?tid=6038666",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
             "title": "Recent Downtime, Now Supporting Emojis",
             "description": "Hack Forums was offline for roughly 7 hours during a database change adding UTF8MB4 support — emojis now work site-wide.",
             "url": "https://hackforums.net/showthread.php?tid=6038176",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",
@@ -99,6 +105,9 @@
                     "uid": "900087",
                     "username": "Sir"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {

@@ -17,7 +17,10 @@
       "title": "Echo and Enigma leadership changes",
       "description": "Doxicity became an Echo leader; Billie Joe stepped down as Echo leader; Bandors became an Enigma leader; Realizm stepped down as Enigma leader.",
       "url": "",
-      "users": []
+      "users": [],
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "users",
@@ -45,6 +48,9 @@
           "uid": "1113153",
           "username": "Tando"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -133,6 +139,9 @@
           "uid": "2348369",
           "username": "Foundations"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

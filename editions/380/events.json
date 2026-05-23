@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "category": "site",
+            "category": "threads",
             "title": "Hack Forums API Extension (HAX)",
             "description": "Xerotic released HAX, a JavaScript library for development using the Hack Forums API. The library covers a wide array of class methods (getUser, getPost, etc.) to simplify and speed up projects.",
             "url": "https://hackforums.net/showthread.php?tid=5801102",
@@ -17,7 +17,10 @@
             "title": "Lounge Head Award Implemented",
             "description": "The Lounge Head award has been implemented. Requirements: make 1,000 posts in the Lounge within a 30 day period; if you receive a Post Etiquette warning the time period adjusts; posts moved out of Lounge or soft-deleted don't count. Members can check progress at hackforums.net/loungehead.php.",
             "url": "https://hackforums.net/showthread.php?tid=5801124",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "users",

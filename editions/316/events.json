@@ -5,7 +5,10 @@
             "title": "Proxy Selling Now Allowed",
             "description": "Since the SST subforum has now been deleted, Omniscient now allows proxy selling on the forum. For those who don't know what proxy selling is, it's when an Ub3r or L33t sells for a regular or non-member. It can be an eBook, product, service, etc. - it now is allowed on Hack Forums. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5452026",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "groups",
@@ -45,6 +48,9 @@
                     "uid": "1606375",
                     "username": "Horizon"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -129,6 +135,9 @@
                     "uid": "1100154",
                     "username": ".tls"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

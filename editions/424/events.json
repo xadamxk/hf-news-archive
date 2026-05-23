@@ -5,7 +5,10 @@
             "title": "Mosaic Background",
             "description": "The Mosaic background was added back from the old Modern theme.",
             "url": "https://hackforums.net/showthread.php?tid=5929496",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {

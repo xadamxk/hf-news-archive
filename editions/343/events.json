@@ -5,14 +5,20 @@
             "title": "Omniscient: Bitcoin near-term dip to ~$1300",
             "description": "Administrator posted a forward-looking Bitcoin price discussion in the cited thread.",
             "url": "http://hackforums.net/showthread.php?tid=5621556",
-            "users": []
+            "users": [],
+            "tags": [
+                "moderation"
+            ]
         },
         {
             "category": "site",
             "title": "Reputation purge for group rep abuse",
             "description": "Several users were rep killed over group/gang repping; context summarized with Weekly Reports link.",
             "url": "http://hackforums.net/showthread.php?tid=5470739",
-            "users": []
+            "users": [],
+            "tags": [
+                "rkos"
+            ]
         },
         {
             "category": "groups",
@@ -71,6 +77,9 @@
                     "uid": "1320406",
                     "username": "Froggy"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -191,6 +200,9 @@
                     "uid": "1823316",
                     "username": "Queen of Hearts"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -247,6 +259,9 @@
                     "uid": "787112",
                     "username": "Tonight"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

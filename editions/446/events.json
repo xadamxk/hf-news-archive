@@ -5,14 +5,20 @@
             "title": "Mentions Feature Added",
             "description": "After years of community suggestions, a Mentions feature went live. Members can now mention others by wrapping a username with @ symbols.",
             "url": "https://hackforums.net/showthread.php?tid=6018733",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Group Moderator Permissions Fix",
             "description": "Group moderator permissions were corrected. Group mods cannot edit posts, move threads outside their moderated subforums, view IPs, delete threads/posts, or use the ModCP.",
             "url": "https://hackforums.net/showthread.php?tid=5800486",
-            "users": []
+            "users": [],
+            "tags": [
+                "moderation"
+            ]
         },
         {
             "category": "site",
@@ -24,6 +30,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {

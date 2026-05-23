@@ -4,13 +4,19 @@
       "category": "site",
       "title": "Modern Warfare section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=169"
+      "url": "http://hackforums.net/forumdisplay.php?fid=169",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Halo section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=168"
+      "url": "http://hackforums.net/forumdisplay.php?fid=168",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -22,13 +28,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
       "category": "site",
       "title": "Pruning of private messages for regular members older than 6 months.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "news",

@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -17,7 +20,10 @@
             "title": "New Listing CE Feature",
             "description": "A new Listings feature was added to the CE marketplace: upgraded members can post a (H)ave or (W)ant offer that anyone can accept, automatically generating a contract on acceptance.",
             "url": "https://hackforums.net/showthread.php?tid=6167359",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

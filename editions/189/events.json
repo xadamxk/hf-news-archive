@@ -10,6 +10,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure",
+        "rkos"
       ]
     },
     {
@@ -54,7 +58,7 @@
     },
     {
       "category": "site",
-      "title": "OmniCoin v2 launched with difficulty rapidly increasing and prices fluctuating; Omniscient added a...",
+      "title": "OmniCoin v2 launched",
       "description": "OmniCoin v2 launched with difficulty rapidly increasing and prices fluctuating; Omniscient added a new OMC award and the OmniCoin team is working on cross-platform wallets, an exchange, and forum integration.",
       "url": "http://hackforums.net/showthread.php?tid=4156433",
       "users": [
@@ -62,6 +66,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -86,6 +93,9 @@
           "uid": "956054",
           "username": "Emylbus"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -130,6 +140,9 @@
           "uid": "91473",
           "username": "Coffee"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -158,6 +171,10 @@
           "uid": "2066492",
           "username": "Nina Dobrev ™"
         }
+      ],
+      "tags": [
+        "moderation",
+        "rkos"
       ]
     },
     {

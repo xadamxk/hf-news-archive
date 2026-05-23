@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "A new 'Premium Hacking Tutorials' section was created under the Hacking tab; only Staff can move...",
       "description": "A new 'Premium Hacking Tutorials' section was created under the Hacking tab; only Staff can move threads into it to highlight quality tutorials.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -72,6 +81,9 @@
           "uid": "329361",
           "username": "Valik ϟ"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

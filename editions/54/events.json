@@ -14,6 +14,9 @@
           "username": "T3h Hack3r",
           "uid": "128873"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -26,6 +29,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -42,19 +48,28 @@
           "uid": "588781",
           "username": "Hуѕтєяιa X™"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "As a result of post count being enabled in all sections, the minimum post length was raised from 25...",
       "description": "As a result of post count being enabled in all sections, the minimum post length was raised from 25 to 50 characters and the LQP warning was raised from 10 to 25 points per month.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "Changes were made to warning levels.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1589913"
+      "url": "http://hackforums.net/showthread.php?tid=1589913",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "site",
@@ -66,6 +81,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -78,6 +96,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -90,6 +111,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -102,13 +126,19 @@
           "username": "Crow",
           "uid": "2103"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
       "category": "site",
       "title": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing ...",
       "description": "A new Member Auctions section was added to the Marketplace, along with a new Appraisals and Pricing sub-forum under Marketplace Discussions.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -124,6 +154,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
@@ -140,6 +173,9 @@
           "uid": "103669",
           "username": "Factor8™"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -160,6 +196,9 @@
           "username": "Mike.",
           "uid": "458073"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -172,6 +211,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -208,6 +250,9 @@
           "username": "C4Vendetta",
           "uid": "123584"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -292,6 +337,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

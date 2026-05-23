@@ -5,7 +5,10 @@
             "title": "Game Update #4",
             "description": "HF Game added Missions, upgradable cloud drive storage in the shop, and a logs view for past actions. The jail system is being reworked into a more in-depth justice system.",
             "url": "https://hackforums.net/showthread.php?tid=5969664",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",
@@ -17,6 +20,9 @@
                     "uid": "2331053",
                     "username": "Mix"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

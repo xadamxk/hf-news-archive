@@ -10,6 +10,9 @@
           "username": "Kutmuskaturt",
           "uid": null
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -22,6 +25,9 @@
           "username": "VipVince",
           "uid": "7807"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -34,6 +40,9 @@
           "username": "Kewlhotrod",
           "uid": "82773"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -46,6 +55,9 @@
           "username": "Yin",
           "uid": "74244"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -58,6 +70,9 @@
           "username": "Hanzo",
           "uid": "4066"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -70,6 +85,9 @@
           "username": "Kr4z1",
           "uid": "143654"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -86,6 +104,9 @@
           "username": "The Elite",
           "uid": "136025"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -98,6 +119,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
@@ -110,6 +134,9 @@
           "username": "Cobija",
           "uid": "100071"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -128,7 +155,10 @@
       "category": "site",
       "title": "HF approaching 6,000,000 posts; remains #1 MyBB forum.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=653939"
+      "url": "http://hackforums.net/showthread.php?tid=653939",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "news",

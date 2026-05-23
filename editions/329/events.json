@@ -5,7 +5,10 @@
             "title": "Post Image Site Censored",
             "description": "On Feb. 2, Omniscient censored the image hosting site, \"Post Image\". This includes censorship of the .io and .org domains of Post Image. He states, \"Their HTTPS is invalid.\" Some members complained or reported that their thread designs, signatures, and avatars were broken, but soon realized what he had done. Omniscient added the HTTPS feature to the website back in October of last year. Since then, it has mostly been suggested by the community to upload their photos to Imgur, rather than another hosting service.",
             "url": "http://hackforums.net/showthread.php?tid=5541995",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
@@ -19,7 +22,11 @@
             "title": "Omniscient Being Threatened?",
             "description": "The member, Tommy, also known as the owner of the former Hack Forums group, Archive. Or the member known for having over five Black Hat awards granted has recently left the forum a message stating that Omniscient had gone out of the way to get Tommy arrested. In addition to that, Tommy says that he will be coming after Omniscient and then later states that although some might say he is bluffing, he actually is not. Omniscient has junked the thread and posted that matter on Twitter. That Tweet can be seen here.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",
@@ -31,6 +38,9 @@
                     "uid": "275104",
                     "username": "ra1d"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -55,6 +65,9 @@
                     "uid": "952566",
                     "username": "Armada"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -175,6 +188,9 @@
                     "uid": "2053724",
                     "username": "☕⚛Austin⚛☕"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

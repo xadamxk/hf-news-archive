@@ -5,7 +5,10 @@
             "title": "New Marketplace Feature - Featured Link",
             "description": "Members can now buy a 'Featured Link' for their threads to gain more exposure, with custom text up to 65 characters per forum.",
             "url": "https://hackforums.net/showthread.php?tid=6052653",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",

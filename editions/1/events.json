@@ -14,13 +14,19 @@
           "username": "Ph!sh",
           "uid": null
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
       "category": "site",
       "title": "Hack Forums upgraded to 4 servers.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
@@ -32,19 +38,28 @@
           "username": "ROTFL2",
           "uid": null
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
       "category": "site",
       "title": "Minimum character limit for posts increased from 20 to 25 characters.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "Non-upgraded members limited to 10 posts in the Lounge per day.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "users",

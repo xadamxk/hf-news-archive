@@ -14,6 +14,9 @@
           "uid": "42221",
           "username": "tester"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -46,6 +49,10 @@
           "uid": "1148878",
           "username": "Clique"
         }
+      ],
+      "tags": [
+        "milestones",
+        "moderation"
       ]
     },
     {
@@ -78,6 +85,9 @@
           "uid": "183072",
           "username": "Mr Kewl"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

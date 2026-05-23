@@ -4,7 +4,10 @@
       "category": "site",
       "title": "The HF News team revealed their previous edition's closure announcement was an April Fools prank,...",
       "description": "The HF News team revealed their previous edition's closure announcement was an April Fools prank, citing the volume of negative criticism they received.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "groups",
@@ -20,6 +23,9 @@
           "uid": "661940",
           "username": "bugga"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -32,6 +38,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -44,6 +53,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
@@ -59,7 +71,7 @@
       ]
     },
     {
-      "category": "site",
+      "category": "threads",
       "title": "Two new Sponsored Products and Services subforums launched: DeltaDude's 'Grim Booter & Grim API' and...",
       "description": "Two new Sponsored Products and Services subforums launched: DeltaDude's 'Grim Booter & Grim API' and Prince of Persia's 'Cyber-Software'.",
       "url": "",
@@ -104,6 +116,9 @@
           "uid": "956054",
           "username": "Emylbus"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -156,6 +171,9 @@
           "uid": "1137768",
           "username": "Kohsti"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

@@ -5,14 +5,20 @@
             "title": "New Zcash award",
             "description": "Omniscient added a purchasable Zcash cryptocurrency award.",
             "url": "http://hackforums.net/showthread.php?tid=5577600",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Gauth purge and paid account recovery",
             "description": "Omniscient reset Google Authenticator keys site-wide and said lost-account recovery would carry a fee going forward.",
             "url": "http://hackforums.net/showthread.php?tid=5578405",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",
@@ -115,6 +121,9 @@
                     "uid": "1476604",
                     "username": "๖ۣۜBusinessman™"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -163,6 +172,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -235,6 +247,9 @@
                     "uid": "3077324",
                     "username": "Mαxim"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -283,6 +298,9 @@
                     "uid": "502172",
                     "username": "Novica"
                 }
+            ],
+            "tags": [
+                "holidays"
             ]
         },
         {

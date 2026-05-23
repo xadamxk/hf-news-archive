@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -24,14 +27,20 @@
             "title": "The Game Beta",
             "description": "A new hacking-related game is on its way; the roadmap is detailed in a dedicated thread.",
             "url": "https://hackforums.net/showthread.php?tid=5937740",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "110k Closed Accounts Pruned",
             "description": "All accounts that had been closed for 7+ years were pruned from the database.",
             "url": "https://hackforums.net/showthread.php?tid=5937887",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "users",
@@ -47,6 +56,9 @@
                     "uid": "2875347",
                     "username": "Buildoman"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

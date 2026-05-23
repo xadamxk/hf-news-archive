@@ -10,6 +10,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
       "category": "site",
       "title": "Welcome-back username now links to profile; portal.php removed.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "users",
@@ -48,6 +57,9 @@
           "username": "Domasaurus",
           "uid": null
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

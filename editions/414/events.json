@@ -5,7 +5,10 @@
             "title": "Bonus Earning on Bytes Based on Usergroup",
             "description": "Members can now earn bonus Bytes based on their usergroup, with each usergroup having an allotted percentage.",
             "url": "https://hackforums.net/showthread.php?tid=5898991",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -24,7 +30,10 @@
             "title": "Dicey Gambler Award",
             "description": "The Dicey award is now randomly awarded when playing Slots or Blackjack — 1 in 2,500 chance per spin/hand, awarded only once per member.",
             "url": "https://hackforums.net/showthread.php?tid=5900273",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "users",

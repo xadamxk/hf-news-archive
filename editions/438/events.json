@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "forums"
             ]
         },
         {
@@ -17,21 +20,30 @@
             "title": "Discord Policy",
             "description": "Members can now only post their Discord username and may not promote channels, since Discord-based transactions can lead to scams.",
             "url": "https://hackforums.net/showthread.php?tid=5978942",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "site",
             "title": "HF Editor Theme poll",
             "description": "A poll was opened asking members which theme they prefer for the text editor.",
             "url": "https://hackforums.net/showthread.php?tid=5979808",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
             "title": "New Mobale Theme",
             "description": "A new default Mobale theme color was set; Mobale Purple is now reserved for upgraded members only.",
             "url": "https://hackforums.net/showthread.php?tid=5983303",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -43,6 +55,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {

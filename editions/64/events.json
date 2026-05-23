@@ -10,31 +10,46 @@
           "uid": "450827",
           "username": "The Holy"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
       "category": "site",
       "title": "New Ebook Bazaar rule: members are no longer allowed to ask for vouches or review copies.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1838556"
+      "url": "http://hackforums.net/showthread.php?tid=1838556",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "Strict new rule for the Hacking Tutorials section: members can no longer ask, PM, or post about eBoo...",
       "description": "Strict new rule for the Hacking Tutorials section: members can no longer ask, PM, or post about eBooks there.",
-      "url": "http://hackforums.net/showthread.php?tid=1852486"
+      "url": "http://hackforums.net/showthread.php?tid=1852486",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "A new 'Free Money Making Ebooks' section was added under Monetizing Techniques, with rules...",
       "description": "A new 'Free Money Making Ebooks' section was added under Monetizing Techniques, with rules forbidding referral links, marketplace selling, asking for reps, and illegal-activity ebooks.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "HF News editions have been combined; the regular news and user news now ship together.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "users",
@@ -46,6 +61,9 @@
           "username": "Brandenx781",
           "uid": "847499"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -82,6 +100,9 @@
           "username": "Krew",
           "uid": "1191"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {

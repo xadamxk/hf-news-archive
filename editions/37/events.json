@@ -10,6 +10,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "Official TinyChat plugin removed (impersonation, flaming).",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "threads",
@@ -40,6 +49,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
@@ -64,6 +76,9 @@
           "username": "Xch4ng3",
           "uid": "65784"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

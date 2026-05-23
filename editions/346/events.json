@@ -5,7 +5,10 @@
             "title": "Datacenter / VPN block policy under review",
             "description": "Omniscient discussed loosening datacenter blocks to help the future API and VPN access, with noted risks.",
             "url": "http://hackforums.net/showthread.php?tid=5634552",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "site",
@@ -55,6 +58,9 @@
                     "uid": "2945848",
                     "username": "Parks"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -119,6 +125,9 @@
                     "uid": "2484853",
                     "username": "Incapability"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

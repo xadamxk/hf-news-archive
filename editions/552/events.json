@@ -52,7 +52,10 @@
             "title": "Song of the Week / New Music Section",
             "description": "HF News introduced a new Music section, starting with a Song of the Week feature; the inaugural song was a Hi-Ren track.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "news",

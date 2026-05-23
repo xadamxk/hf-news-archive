@@ -26,10 +26,13 @@
           "uid": "1320406",
           "username": "Froggy"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
-      "category": "site",
+      "category": "threads",
       "title": "Xerotic relaunched his independent scammer database website and userscript at hfscammerdb.com, listi...",
       "description": "Xerotic relaunched his independent scammer database website and userscript at hfscammerdb.com, listing members with open deal disputes.",
       "url": "http://hackforums.net/showthread.php?tid=4388155",
@@ -82,6 +85,9 @@
           "uid": "608523",
           "username": "Sh1eld"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -166,6 +172,10 @@
           "uid": "121843",
           "username": "Spoderman"
         }
+      ],
+      "tags": [
+        "rkos",
+        "rules"
       ]
     },
     {
@@ -197,7 +207,7 @@
       ]
     },
     {
-      "category": "site",
+      "category": "threads",
       "title": "OMCWallet.com finally went offline after its hosting expired, ending the long-since-hacked online...",
       "description": "OMCWallet.com finally went offline after its hosting expired, ending the long-since-hacked online wallet that had caused user confusion and coin losses.",
       "url": "http://hackforums.net/showthread.php?tid=4366601"

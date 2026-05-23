@@ -5,7 +5,10 @@
             "title": "Convo Pruning",
             "description": "As a regular activity, Convos older than six months will be pruned. Members can export chats to PDF if they wish to save them.",
             "url": "https://hackforums.net/showthread.php?tid=6107094",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "users",
@@ -133,6 +136,9 @@
                     "uid": "1042439",
                     "username": "~HF~"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

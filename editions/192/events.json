@@ -10,6 +10,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features",
+        "usergroups"
       ]
     },
     {
@@ -22,10 +26,13 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
-      "category": "site",
+      "category": "threads",
       "title": "Viral Dragon launched his third IndieGoGo campaign to fund diagnosis of a 1.3cm brain lesion causing...",
       "description": "Viral Dragon launched his third IndieGoGo campaign to fund diagnosis of a 1.3cm brain lesion causing recurring seizures.",
       "url": "http://hackforums.net/showthread.php?tid=4192846",
@@ -134,6 +141,9 @@
           "uid": "561331",
           "username": "D4rKn3s5"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

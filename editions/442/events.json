@@ -5,21 +5,30 @@
             "title": "My Bio Box",
             "description": "Members can now add a short Bio (up to 2,048 characters) to their profile to show off skills and information.",
             "url": "https://hackforums.net/showthread.php?tid=5997509",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "GitHub Social Login",
             "description": "Members can now log in to HF using their GitHub account.",
             "url": "https://hackforums.net/showthread.php?tid=5997762",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Lounge Head Award Goal Lowered",
             "description": "The Lounge Head award goal was reduced from 1,000 posts to 500 posts in the Lounge section.",
             "url": "https://hackforums.net/showthread.php?tid=5997696",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
@@ -31,6 +40,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {

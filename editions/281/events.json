@@ -5,21 +5,30 @@
       "title": "Private Data Removed from the Orders Database",
       "description": "Omniscient officially removed nine columns of stored private data from the Orders Table: first names, last names, emails, addresses, cities, states, zip codes, countries, and phone numbers, including from previous orders.",
       "url": "http://hackforums.net/showthread.php?tid=5177902",
-      "users": []
+      "users": [],
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
       "title": "Trust Scan Updates",
       "description": "Omniscient made Trust Scan available to all members regardless of post count, and added a new 'Last Gauth/2FA Validation' line to help verify account ownership during transactions.",
       "url": "http://hackforums.net/showthread.php?tid=5180331",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "Thread Sort Order Changed in Deal Dispute",
       "description": "Omniscient changed the thread sort order in the Deal Dispute section so that the most recently created threads appear at the top, rather than threads with the most recent replies.",
       "url": "http://hackforums.net/showthread.php?tid=5178401",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "groups",
@@ -57,6 +66,9 @@
           "uid": "825700",
           "username": "Staid"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -89,6 +101,9 @@
           "uid": "530032",
           "username": "Curt."
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -165,6 +180,9 @@
           "uid": "2539013",
           "username": "Illusionisten"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

@@ -5,7 +5,11 @@
             "title": "Quick Convo",
             "description": "Members can now access the Convo feature via an icon at the bottom-right of the screen; under development with bugs being addressed.",
             "url": "https://hackforums.net/showthread.php?tid=6056019",
-            "users": []
+            "users": [],
+            "tags": [
+                "bug-fixes",
+                "features"
+            ]
         },
         {
             "category": "site",

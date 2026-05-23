@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -34,6 +37,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
@@ -62,6 +68,9 @@
           "uid": "752389",
           "username": "Soviet"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -90,6 +99,9 @@
           "uid": "613224",
           "username": "Conch"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

@@ -10,6 +10,10 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features",
+                "infrastructure"
             ]
         },
         {
@@ -17,7 +21,10 @@
             "title": "Hacker.IM Graphics Battle",
             "description": "A graphics battle is being held to determine the new web design for Hacker.IM. The contest runs for two weeks (shorter than the typical month) — winner receives the Graphic Master award.",
             "url": "https://hackforums.net/showthread.php?tid=5738473",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -53,6 +60,9 @@
                     "uid": "229769",
                     "username": "Effexion"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

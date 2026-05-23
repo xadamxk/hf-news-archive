@@ -5,7 +5,10 @@
             "title": "The Game Beta released",
             "description": "The new Hacking Game has been released in Beta phase. Some features are still under expansion.",
             "url": "https://hackforums.net/showthread.php?tid=5939137",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -24,21 +30,30 @@
             "title": "Share a Post via PM",
             "description": "Members can now quickly share posts with other members via PM using a share icon in the postbit.",
             "url": "https://hackforums.net/showthread.php?tid=5941909",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Major Contracts Update",
             "description": "Notable advances were made to the Contract System; details in the dedicated thread.",
             "url": "https://hackforums.net/showthread.php?tid=5941813",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
-            "category": "site",
+            "category": "news",
             "title": "HF News Podcast Returns",
             "description": "The HF News Podcast returned, hosted by -Nas, SoulZeh, and Thornzzz. A new Sports section was also introduced.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "groups",

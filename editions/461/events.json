@@ -5,14 +5,20 @@
             "title": "Account Recovery",
             "description": "Members who forget their password and lose access can now recover their accounts for a $20 BTC fee. Applies to inactive (closed) accounts, but not other closures.",
             "url": "https://hackforums.net/recovery.php",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Coronavirus Limited Awards",
             "description": "Corona Virus and Asswipe awards are available for sale for a limited time at $50 and $25 BTC respectively.",
             "url": "https://hackforums.net/showthread.php?tid=6057524",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",

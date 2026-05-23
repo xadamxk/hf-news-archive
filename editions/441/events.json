@@ -5,7 +5,10 @@
             "title": "Mobale Red Version",
             "description": "A red version of HF's Mobale theme is now available.",
             "url": "https://hackforums.net/showthread.php?tid=5995525",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "3329364",
                     "username": "Chief Bromden"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {

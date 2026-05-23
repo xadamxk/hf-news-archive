@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
@@ -22,31 +25,46 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
       "category": "site",
       "title": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups...",
       "description": "A new help doc titled 'Custom User Groups' was created, explaining how purchasing custom user groups works.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "The thread rating system was disabled forum-wide as it was found not useful.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1616863"
+      "url": "http://hackforums.net/showthread.php?tid=1616863",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "CloudFlare services are now being tested on HackForums to help thwart larger DDoS attacks.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1602484"
+      "url": "http://hackforums.net/showthread.php?tid=1602484",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
       "title": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50...",
       "description": "PM minimum-post requirement raised from 5 to 20 posts; signature minimum lowered from 100 to 50 posts; minimum post length lowered from 50 to 40 characters.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "users",
@@ -58,6 +76,9 @@
           "uid": "100071",
           "username": "cobija"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -70,6 +91,9 @@
           "username": "Oldies",
           "uid": "133256"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -86,6 +110,9 @@
           "username": "Amp™",
           "uid": "496906"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -168,6 +195,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -180,6 +210,9 @@
           "username": "Boots",
           "uid": "465769"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

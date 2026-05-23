@@ -17,6 +17,11 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "forums",
+                "rules",
+                "theme"
             ]
         },
         {
@@ -29,6 +34,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -48,14 +56,20 @@
             "title": "Free Vend0r Upgrade for 3p1c+l33t (April Fools)",
             "description": "April Fools announcement: members holding both 3p1c and L33t would get a free permanent Vend0r upgrade; 3p1c-only members would be moved to L33t — pitched as balancing power against Ub3r.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
             "title": "Writ3rs Evacuated (April Fools)",
             "description": "April Fools announcement: everyone in the Writ3rs HF News Team was kicked, with only Headlines remaining until new journalists were recruited.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "news",

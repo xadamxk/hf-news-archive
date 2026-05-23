@@ -5,21 +5,30 @@
             "title": "New Project?",
             "description": "Omniscient posted a thread with 3 images which resemble some type of characters.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "town-hall"
+            ]
         },
         {
             "category": "site",
             "title": "Roger Waters found the new project's hidden page",
             "description": "then eventually found the hidden page ( http://hackforums.net/battle.php ) that Omniscient teased at and after 12 pages of discussions, Omniscient told us there will be another thread for the next phase of the project. Who's excited for this next project? From my interpretation, I'm thinking a Pokemon Go style battle with 3 factions. Excited and eager to see what comes next! >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5398896",
-            "users": []
+            "users": [],
+            "tags": [
+                "drama"
+            ]
         },
         {
             "category": "site",
             "title": "New Policy Addition - Username Visible Characters",
             "description": "Omniscient has added a new rule for usernames that a member must have at least four visible characters in their username or else they risk penalties. If you do not meet the requirements of four visible characters, change your username right away before actions are taken against your account. >>Source http://i.imgur.com/W4AjjOA.png",
             "url": "http://hackforums.net/showthread.php?tid=5396293",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "groups",
@@ -51,6 +60,9 @@
                     "uid": "2752008",
                     "username": "tldr!"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -63,6 +75,9 @@
                     "uid": "502172",
                     "username": "Novica"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -151,6 +166,9 @@
                     "uid": "2772971",
                     "username": "Motiv"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

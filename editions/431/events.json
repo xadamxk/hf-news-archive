@@ -5,7 +5,10 @@
             "title": "Your Trusted Members",
             "description": "A new Market CP feature lets members mark others as 'Trusted' for personal use, currently restricted to r00t and V3ndor members.",
             "url": "https://hackforums.net/showthread.php?tid=5952921",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -29,6 +35,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -36,14 +45,20 @@
             "title": "Ub3r Upgrade Available",
             "description": "HF Ub3r returned, purchasable as a 1-year upgrade subscription. Existing Ub3r members retain their membership permanently.",
             "url": "https://hackforums.net/showthread.php?tid=5954114",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "Free Ub3r Upgrade for 3p1c+L33t",
             "description": "Members holding both 3p1c and L33t received a free permanent Ub3r upgrade; 3p1c-only members were moved to L33t.",
             "url": "https://hackforums.net/showthread.php?tid=5954394",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
@@ -55,6 +70,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

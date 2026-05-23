@@ -5,7 +5,10 @@
       "title": "Contact form overhaul",
       "description": "Omniscient improved contact-form handling with filters and canned replies—responding to roughly 100% of messages over two weeks versus ~20% previously.",
       "url": "http://hackforums.net/showthread.php?tid=5320862",
-      "users": []
+      "users": [],
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "groups",

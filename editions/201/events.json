@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -25,8 +28,8 @@
       ]
     },
     {
-      "category": "site",
-      "title": "Omniscient launched the official HF Fantasy Football League, accepting experienced players for a sma...",
+      "category": "threads",
+      "title": "Official HF Fantasy Football League",
       "description": "Omniscient launched the official HF Fantasy Football League, accepting experienced players for a small for-fun league.",
       "url": "http://hackforums.net/showthread.php?tid=4319292",
       "users": [
@@ -126,10 +129,13 @@
           "uid": "1245977",
           "username": "Kronk"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
-      "category": "site",
+      "category": "threads",
       "title": "Abraham Lincoln temporarily took Omnichain.info offline after suspicious actions by his partner...",
       "description": "Abraham Lincoln temporarily took Omnichain.info offline after suspicious actions by his partner ʜᴜʀʀʀ, including a $200 scam report, a vacation ban, and a suspicious server password reset request.",
       "url": "http://hackforums.net/showthread.php?tid=4321614",
@@ -158,6 +164,9 @@
           "uid": "651337",
           "username": "Tibit"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

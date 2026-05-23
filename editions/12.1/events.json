@@ -4,13 +4,19 @@
       "category": "site",
       "title": "Premium Seller's Section created (L33T/UB3R only).",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=107"
+      "url": "http://hackforums.net/forumdisplay.php?fid=107",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Secondary Seller's Market created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=176"
+      "url": "http://hackforums.net/forumdisplay.php?fid=176",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -22,13 +28,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
       "category": "threads",
       "title": "Reviewer applications opened.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=588051"
+      "url": "http://hackforums.net/showthread.php?tid=588051",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "news",

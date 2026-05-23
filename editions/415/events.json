@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -17,14 +20,21 @@
             "title": "MyAwards Upgraded to Sprites",
             "description": "Hack Forums' 110 awards were combined into a single sprite image with CSS positioning, improving SEO and reducing page load time.",
             "url": "https://hackforums.net/showthread.php?tid=5904526",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "theme"
+            ]
         },
         {
             "category": "site",
             "title": "Dark Ops section live",
             "description": "Dark Ops, a new HF News section, went live. Members can submit opinions on weekly topics either publicly or anonymously, with no IP tracking.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
@@ -36,6 +46,9 @@
                     "uid": "80618",
                     "username": "nokia2mon2"
                 }
+            ],
+            "tags": [
+                "drama"
             ]
         },
         {

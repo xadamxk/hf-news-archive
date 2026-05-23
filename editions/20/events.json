@@ -14,13 +14,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Help docs updated: When to Contact Staff and Who is on staff.",
       "description": "",
-      "url": "http://hackforums.net/misc.php?action=help&hid=27"
+      "url": "http://hackforums.net/misc.php?action=help&hid=27",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "site",
@@ -38,6 +44,9 @@
           "username": "tester",
           "uid": "42221"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -50,19 +59,28 @@
           "username": "Solidify",
           "uid": "176679"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Mentors confirmed to be implemented.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "threads",
       "title": "HF News invites member submissions for Misc edition.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=752356"
+      "url": "http://hackforums.net/showthread.php?tid=752356",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "news",

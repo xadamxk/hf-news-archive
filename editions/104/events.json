@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -22,6 +25,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "features"
       ]
     },
     {
@@ -38,6 +45,9 @@
           "uid": "651337",
           "username": "Tibit"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -50,6 +60,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -68,13 +81,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
       "category": "groups",
       "title": "The Alliance was forced to remove the animation from their userbar to meet the maximum file size req...",
       "description": "The Alliance was forced to remove the animation from their userbar to meet the maximum file size requirement.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "users",
@@ -166,6 +185,9 @@
           "uid": "816875",
           "username": "Daring"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

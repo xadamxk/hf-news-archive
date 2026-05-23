@@ -22,13 +22,19 @@
       "category": "groups",
       "title": "Propitious leaders did a full group reformation, kicking many members; the group's userbar was chang...",
       "description": "Propitious leaders did a full group reformation, kicking many members; the group's userbar was changed and it was renamed 'Infamous'.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "site",
       "title": "The Hacking Tools and Programs forum reached 1,000,000 total posts.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "users",
@@ -64,6 +70,9 @@
           "uid": "729494",
           "username": "Grumpy"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

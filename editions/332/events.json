@@ -5,7 +5,10 @@
             "title": "Bitcoinage award repriced",
             "description": "Omniscient lowered the Bitcoinage award from 1 BTC to $250 as Bitcoin rose far above the original ~$100 pricing.",
             "url": "http://hackforums.net/showthread.php?tid=5564217",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "groups",
@@ -17,6 +20,9 @@
                     "uid": "1165241",
                     "username": "Krave"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -41,6 +47,9 @@
                     "uid": "2181175",
                     "username": "Wander"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -133,6 +142,9 @@
                     "uid": "3092286",
                     "username": "Wrist"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "holidays"
       ]
     },
     {
       "category": "site",
       "title": "The 'Tinychat and other chat invites' section was renamed to 'Tinychat, Join.me, Skype and Other Cha...",
       "description": "The 'Tinychat and other chat invites' section was renamed to 'Tinychat, Join.me, Skype and Other Chat Invites'.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -64,6 +73,9 @@
           "uid": "33279",
           "username": "iBruteforce"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -104,6 +116,9 @@
           "uid": "989666",
           "username": "Gpizzle"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

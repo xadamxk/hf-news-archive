@@ -10,13 +10,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
       "category": "site",
       "title": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link tha...",
       "description": "Members are being warned about a phishing scam: a non-upgraded member PMs with a fake reply link that leads to a phishing login page.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "town-hall"
+      ]
     },
     {
       "category": "groups",
@@ -46,6 +52,9 @@
           "uid": "510569",
           "username": "SWAGSTER"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -98,6 +107,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
@@ -170,6 +182,9 @@
           "uid": "451192",
           "username": "Existence"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

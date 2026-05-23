@@ -4,7 +4,10 @@
       "category": "site",
       "title": "Suggestions & Ideas section re-opened; new sections approved.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=134"
+      "url": "http://hackforums.net/forumdisplay.php?fid=134",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -16,13 +19,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
       "category": "site",
       "title": "New Xbox Live Gamertag section launched.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=195"
+      "url": "http://hackforums.net/forumdisplay.php?fid=195",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -34,6 +43,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -46,6 +58,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -58,6 +73,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {

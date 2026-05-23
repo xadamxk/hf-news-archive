@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -22,6 +25,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -34,6 +40,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -70,13 +79,20 @@
           "uid": "128873",
           "username": "T3h Hack3r"
         }
+      ],
+      "tags": [
+        "forums",
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Two new awards were added: the 'Gavel of Dredd' (limited to 10 recipients) and the 'HJT Graduate' aw...",
       "description": "Two new awards were added: the 'Gavel of Dredd' (limited to 10 recipients) and the 'HJT Graduate' award.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "awards"
+      ]
     },
     {
       "category": "site",
@@ -88,6 +104,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
@@ -148,6 +167,9 @@
           "uid": "566671",
           "username": "panDa."
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -256,6 +278,9 @@
           "uid": "7807",
           "username": "VipVince"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -287,6 +312,9 @@
           "uid": "62795",
           "username": "Tasemu"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
       "category": "site",
       "title": "An old moderator tool was revived: a black-and-red text box appears at the bottom of a post when a u...",
       "description": "An old moderator tool was revived: a black-and-red text box appears at the bottom of a post when a user is warned for it.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "moderation"
+      ]
     },
     {
       "category": "users",
@@ -40,6 +49,9 @@
           "uid": "588781",
           "username": "Hуѕтєяιa X™"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -52,6 +64,9 @@
           "uid": "535046",
           "username": "Emily"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -76,6 +91,9 @@
           "uid": "560013",
           "username": "Peroxide"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -140,6 +158,9 @@
           "uid": "725160",
           "username": "McFlurry"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

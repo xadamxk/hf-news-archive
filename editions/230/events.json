@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
@@ -22,13 +25,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "HF IM XMPP service shut down; all accounts deleted",
       "description": "All XMPP accounts were deleted and the service became unavailable. Members speculated it was related to an upcoming major change rather than a security breach.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -40,6 +49,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -52,6 +64,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -172,6 +187,9 @@
           "uid": "2033432",
           "username": "Nostril"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -228,6 +246,9 @@
           "uid": "2561132",
           "username": "Fʀᴀɴᴋɪᴇ"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {

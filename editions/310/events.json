@@ -5,7 +5,10 @@
             "title": "No Marketplace Threads in GFX Contests",
             "description": "As a reminder, all marketplace threads should be kept in the Marketplace forum. For graphics, there is a dedicated subforum in the marketplace that users can request or offer their services for money. The GFX Contests subforum is strictly for contests just like how the regular contests subforum is (and giveaways).",
             "url": "http://hackforums.net/showthread.php?tid=5413804",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "groups",
@@ -49,6 +52,9 @@
                     "uid": "1093501",
                     "username": "Roger Waters"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -137,6 +143,9 @@
                     "uid": "96732",
                     "username": "exod"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient added a new Ub3r feature allowing members to view warnings issued in the past 48 hours, b...",
+      "title": "New Warning Log Feature",
       "description": "Omniscient added a new Ub3r feature allowing members to view warnings issued in the past 48 hours, based on a suggestion by Popstar Ahri.",
       "url": "http://hackforums.net/showthread.php?tid=4495182",
       "users": [
@@ -14,6 +14,9 @@
           "uid": "2031636",
           "username": "Popstar Ahri"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -26,6 +29,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -38,6 +44,9 @@
           "uid": "934881",
           "username": "Aceman"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -62,6 +71,9 @@
           "uid": "1751197",
           "username": "0x03a8"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

@@ -5,14 +5,20 @@
             "title": "HF Bug Bounty Program",
             "description": "Members will be awarded $1,000 in BTC for a working SQL injection exploit that gains access to the database for a dump. Proof is required before claiming the reward.",
             "url": "https://hackforums.net/showthread.php?tid=6244277",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "No More Egg Lotteries",
             "description": "After several months of users farming eggs in subforums to farm bytes via the Lottery, the ability to create Egg Lotteries has been removed. Only βytes lotteries can now be made.",
             "url": "https://hackforums.net/showthread.php?tid=6243566",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -24,6 +30,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -40,6 +49,9 @@
                     "uid": "2192831",
                     "username": "Lrrr"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -76,6 +88,9 @@
                     "uid": "646916",
                     "username": "Nostre"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -132,6 +147,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {

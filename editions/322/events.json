@@ -5,14 +5,20 @@
             "title": "National Crime Agency Surface on the site",
             "description": "It is no surprise that the government lurk this site for unethical and illegal practices. On Dec. 12, the National Crime Agency (NCA) were the very first to surface on Hack Forums and actually post. Not many took heed of the NCA until Omniscient proceeded to then post confirmation of the authoritative figures behind the account. The message/unintentional warning came shortly after law enforcement targeted over 100 people who took part in committing DDoS attacks. Congratulations on achieving L33t, NCA. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5491746",
-            "users": []
+            "users": [],
+            "tags": [
+                "drama"
+            ]
         },
         {
             "category": "site",
             "title": "On a Positive Note... Christmas is Almost Here!",
             "description": "Christmas being just around the corner, the Writers (both the Wiki and News Teams) wish you a very merry Christmas. The annual festival is the time to spread good cheer, spend time with your family and loved ones, receiving and giving. Omniscient has also been kind enough to leave us with a cheer Christmas message which reads \"Spend time with family and stop reading HF News\".",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays"
+            ]
         },
         {
             "category": "groups",
@@ -76,6 +82,9 @@
                     "uid": "3230991",
                     "username": "JoshuTee"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -136,6 +145,9 @@
                     "uid": "642769",
                     "username": "Infinity."
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -228,6 +240,9 @@
                     "uid": "642769",
                     "username": "Infinity."
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

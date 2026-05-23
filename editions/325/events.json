@@ -5,21 +5,30 @@
             "title": "Defunction of Inactive Accounts",
             "description": "Omniscient has closed all the accounts that are not logged into for a year. The precise number of closed accounts include 550 Ub3r , 2500 L33t and 25,000 Regular Members . The reason behind this is to refrain users from selling their accounts and evade future scams. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5515173",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "Trust Scan Update",
             "description": "Omniscient has added a new field in the Trust Scan page i.e., \"CLOSED REASON\". By this members will get to know the reason behind account termination. Currently, the following are the reasons that are rolled out: Trolling, Multiple Accounts, Ban Evasion, Low Quality Posting, Inactivity, Lost or Stolen, Reputation Abuse and Deal Disputes . >>Source https://i.imgur.com/W4AjjOA.png",
             "url": "http://hackforums.net/showthread.php?tid=5515173",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",
             "title": "Group leadership changes.",
             "description": "Eclipse now has an animated userbar. http://hackforums.net/images/modern_bl/groupimages/english/eclipse.gif",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "users",
@@ -31,6 +40,9 @@
                     "uid": "3380385",
                     "username": "NYCVN"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -67,6 +79,9 @@
                     "uid": "2758907",
                     "username": "Steve"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -167,6 +182,9 @@
                     "uid": "1101729",
                     "username": "King"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

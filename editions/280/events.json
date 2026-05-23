@@ -12,14 +12,20 @@
       "title": "200+ PMs and Workload",
       "description": "Omniscient posted about having a large backlog of PMs and requests due to his workload.",
       "url": "http://hackforums.net/showthread.php?tid=5173932",
-      "users": []
+      "users": [],
+      "tags": [
+        "omniscient-personal"
+      ]
     },
     {
       "category": "site",
       "title": "Removal of Private Data in Orders Database",
       "description": "Omniscient announced the removal of private data from the orders database, including names and addresses.",
       "url": "http://hackforums.net/showthread.php?tid=5177902",
-      "users": []
+      "users": [],
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "groups",
@@ -46,6 +52,9 @@
           "uid": "2636436",
           "username": "Raymond Reddington"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -98,6 +107,9 @@
           "uid": "1610871",
           "username": "Rʏᴀɴ Rᴇʏɴᴏʟᴅs ❤️"
         }
+      ],
+      "tags": [
+        "holidays"
       ]
     },
     {

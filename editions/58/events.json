@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
@@ -32,19 +35,28 @@
           "uid": "115612",
           "username": "-BoodyE-"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
       "category": "site",
       "title": "Members must now have a reputation greater than 0 to post in the Marketplace (excluding Marketplace ...",
       "description": "Members must now have a reputation greater than 0 to post in the Marketplace (excluding Marketplace Discussions). The change is intended to reduce scammers, sales trashers, and ban evaders.",
-      "url": "http://hackforums.net/showthread.php?tid=1691787"
+      "url": "http://hackforums.net/showthread.php?tid=1691787",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "Only l33ts and ub3rs may now post threads in the Gamertags section, and Gamertags may not be offered...",
       "description": "Only l33ts and ub3rs may now post threads in the Gamertags section, and Gamertags may not be offered in any other section.",
-      "url": "http://hackforums.net/showthread.php?tid=1691662"
+      "url": "http://hackforums.net/showthread.php?tid=1691662",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "groups",
@@ -60,25 +72,37 @@
           "uid": "215614",
           "username": "๖ۣۜPink ๖ۣۜFloyd"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
       "category": "site",
       "title": "Egypt is now country-blocked from HackForums.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "site",
       "title": "Double Posting was removed from the list of report options.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "site",
       "title": "The group named Dead has been renamed to Closed.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "users",
@@ -90,6 +114,9 @@
           "uid": "682150",
           "username": "Sтяιdєя"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -102,6 +129,9 @@
           "username": "Rhythm",
           "uid": "126704"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

@@ -10,13 +10,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
       "category": "groups",
       "title": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budgin...",
       "description": "The Coders changed their userbar as part of their revival; mixed reactions but leaders aren't budging.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "groups",
@@ -27,13 +33,19 @@
         {
           "username": "Castle Bravo"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
       "category": "site",
       "title": "Over one million posts were deleted from the Lounge, likely a routine post prune.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "site-maintenance"
+      ]
     },
     {
       "category": "users",
@@ -45,6 +57,9 @@
           "uid": "734805",
           "username": "Glassy"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -57,6 +72,9 @@
           "uid": "361543",
           "username": "Scooter"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

@@ -5,7 +5,10 @@
             "title": "RKO Is Out the Show",
             "description": "Omniscient officially removed the plugin allowing him to RKO also going so far as to alter all documentation in regards to RKO as a form of consequence. The reason for removing the plugin was due to its inability to communicate policy violations coupled with the lasting damage done to a veteran member's reputation.",
             "url": "http://hackforums.net/showthread.php?tid=5671360",
-            "users": []
+            "users": [],
+            "tags": [
+                "rkos"
+            ]
         },
         {
             "category": "groups",
@@ -88,6 +91,10 @@
                     "uid": "1754362",
                     "username": "vnla"
                 }
+            ],
+            "tags": [
+                "milestones",
+                "moderation"
             ]
         },
         {
@@ -184,6 +191,9 @@
                     "uid": "3134890",
                     "username": "Acosmism"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -196,6 +206,9 @@
                     "uid": "1999047",
                     "username": "Vitani"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -212,6 +225,9 @@
                     "uid": "1138866",
                     "username": "Rivalry"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {

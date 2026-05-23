@@ -38,6 +38,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
@@ -69,6 +72,9 @@
           "uid": "197132",
           "username": "-Hyperion"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -161,6 +167,9 @@
           "uid": "1514281",
           "username": "Wilstar"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -185,6 +194,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
@@ -305,7 +317,10 @@
       "category": "site",
       "title": "Site statistics snapshot: ~44.1M posts, ~3.19M threads, ~2.56M members; Lounge and RANF activity up...",
       "description": "Figures were as of the Friday before release; combined weekly bans 168 (+46) and staff bans 149 (+41) versus the prior edition.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "town-hall"
+      ]
     },
     {
       "category": "users",

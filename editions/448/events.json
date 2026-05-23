@@ -5,21 +5,30 @@
             "title": "Push Notifications",
             "description": "Hack Forums now has native push notification support across Chrome, Firefox, Edge, and Chrome for Android. Members are prompted to allow or deny notifications.",
             "url": "https://hackforums.net/showthread.php?tid=6022760",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Notification Bug Reports",
             "description": "A thread was opened to gather bug reports and suggestions for the renovated notification system.",
             "url": "https://hackforums.net/showthread.php?tid=6020465",
-            "users": []
+            "users": [],
+            "tags": [
+                "bug-fixes"
+            ]
         },
         {
             "category": "site",
             "title": "Vibes section introduced",
             "description": "A new 'Vibes' section was added to HF News, featuring spiritual, inspirational, and philosophical content along with weekly horoscopes.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",

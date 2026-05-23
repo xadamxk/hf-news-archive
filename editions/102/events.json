@@ -2,7 +2,7 @@
   "events": [
     {
       "category": "site",
-      "title": "Omniscient's hand cast was scheduled to be removed and replaced with a finger splint or open-hand ca...",
+      "title": "Omniscient's broken hand update",
       "description": "Omniscient's hand cast was scheduled to be removed and replaced with a finger splint or open-hand cast.",
       "url": "",
       "users": [
@@ -10,25 +10,37 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
       "category": "site",
       "title": "Hack Forums set a new record of 2,885 members online at one moment.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "groups",
       "title": "Illuminati changed its userbar; opinions in the community were divided over readability versus the o...",
       "description": "Illuminati changed its userbar; opinions in the community were divided over readability versus the original style.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "groups",
       "title": "Coders changed its name to Logic and adjusted its associated topic; the group is now invite only wit...",
       "description": "Coders changed its name to Logic and adjusted its associated topic; the group is now invite only with recruitment possibly opening soon.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "users",
@@ -48,6 +60,9 @@
           "uid": "454666",
           "username": "adampelletgun"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -60,6 +75,9 @@
           "uid": "115612",
           "username": "-BoodyE-"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -72,6 +90,10 @@
           "uid": "1011113",
           "username": "Dan."
         }
+      ],
+      "tags": [
+        "forums",
+        "moderation"
       ]
     },
     {
@@ -96,6 +118,9 @@
           "uid": "80754",
           "username": "Reminiscent"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -120,6 +145,9 @@
           "uid": "1220481",
           "username": "☆ Mark I. Mcclam ☆"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

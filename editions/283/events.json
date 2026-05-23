@@ -5,21 +5,30 @@
       "title": "Injuries and Losing My Mind",
       "description": "Omniscient shared an announcement about various personal injuries and his current state of mind, having been prescribed steroids for his injuries.",
       "url": "http://hackforums.net/showthread.php?tid=5198079",
-      "users": []
+      "users": [],
+      "tags": [
+        "omniscient-personal"
+      ]
     },
     {
       "category": "site",
       "title": "Hack Forums Going Instagrammy",
       "description": "Omniscient announced a new award called Instagrammy, awarded to members who create a post with an image, text, or video that includes Hack Forums' domain.",
       "url": "http://hackforums.net/showthread.php?tid=5205360",
-      "users": []
+      "users": [],
+      "tags": [
+        "awards"
+      ]
     },
     {
       "category": "site",
       "title": "Email Login Enabled and Multiple Email Registrations",
       "description": "Omniscient enabled multiple account registrations with a single email address, allowing members whose accounts were closed due to inactivity to re-register with the same email.",
       "url": "http://hackforums.net/showthread.php?tid=5199951",
-      "users": []
+      "users": [],
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "groups",
@@ -57,6 +66,9 @@
           "uid": "1680975",
           "username": "Regulus"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -253,6 +265,9 @@
           "uid": "2460166",
           "username": "Madara!"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -297,6 +312,9 @@
           "uid": "863752",
           "username": "Hexicidal"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

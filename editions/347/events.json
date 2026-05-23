@@ -5,14 +5,21 @@
             "title": "Server blocks have been adjusted",
             "description": "Omniscient updated datacenter blocking: China and Russia unblocked, VPN/proxy access improved with CAPTCHA-oriented policy per the announcement thread.",
             "url": "http://hackforums.net/showthread.php?tid=5642995",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure",
+                "rules"
+            ]
         },
         {
             "category": "site",
             "title": "See you next year, Good Will Monday!",
             "description": "Annual reputation holiday wrapped for the year; participants thanked until the next Good Will Monday.",
             "url": "http://hackforums.net/showthread.php?tid=5644986",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays"
+            ]
         },
         {
             "category": "groups",
@@ -71,6 +78,9 @@
                     "uid": "651773",
                     "username": "Vitani's Mate"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -171,6 +181,9 @@
                     "uid": "1959100",
                     "username": "Bronco"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {
@@ -215,6 +228,9 @@
                     "uid": "659087",
                     "username": "Kill Joy"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -251,6 +267,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "holidays"
             ]
         },
         {

@@ -330,11 +330,15 @@ const EventCard = memo(function EventCard({
   edition,
   userHighlight,
   searchHighlight,
+  selectedTags,
+  onToggleTag,
 }: {
   ev: CompactEvent;
   edition: CompactEditionRow | undefined;
   userHighlight: string;
   searchHighlight: string;
+  selectedTags: Set<string>;
+  onToggleTag: (t: string) => void;
 }) {
   const sec = edition?.s ?? 0;
   const iso = useMemo(() => isoDateTime(sec), [sec]);
@@ -404,6 +408,25 @@ const EventCard = memo(function EventCard({
               <UserLine key={`${u.i}-${u.n}-${i}`} u={u} userHighlight={userHighlight} />
             ))}
           </div>
+        </div>
+      ) : null}
+      {ev.g?.length ? (
+        <div className="card-tags" aria-label="Tags">
+          {ev.g.map((t) => {
+            const active = selectedTags.has(t);
+            return (
+              <button
+                key={t}
+                type="button"
+                className={`card-tag${active ? " is-active" : ""}`}
+                aria-pressed={active}
+                title={active ? `Remove tag filter: ${t}` : `Filter by tag: ${t}`}
+                onClick={() => onToggleTag(t)}
+              >
+                #{t}
+              </button>
+            );
+          })}
         </div>
       ) : null}
     </article>
@@ -1167,6 +1190,9 @@ export default function App() {
   const [selectedCats, setSelectedCats] = useState<Set<string>>(() => new Set());
   const [catMenuOpen, setCatMenuOpen] = useState(false);
   const catDropdownRef = useRef<HTMLDivElement>(null);
+  const [selectedTags, setSelectedTags] = useState<Set<string>>(() => new Set());
+  const [tagMenuOpen, setTagMenuOpen] = useState(false);
+  const tagDropdownRef = useRef<HTMLDivElement>(null);
   const [dateFilterOpen, setDateFilterOpen] = useState(false);
   const dateFilterRef = useRef<HTMLDivElement>(null);
   const [userQ, setUserQ] = useState("");
@@ -1215,6 +1241,20 @@ export default function App() {
     return [...s].sort();
   }, [raw]);
 
+  const tags = useMemo(() => {
+    if (!raw) return [] as string[];
+    const s = new Set<string>();
+    for (const ev of raw.a) {
+      if (Array.isArray(ev.g)) for (const t of ev.g) s.add(t);
+    }
+    return [...s].sort();
+  }, [raw]);
+
+  const selectedTagsSignature = useMemo(
+    () => [...selectedTags].sort().join(","),
+    [selectedTags],
+  );
+
   /** Highest edition number in the archive (tie-break by newer edition row timestamp). */
   const latestEditionHeadline = useMemo(() => {
     if (!raw?.ed.length) return null;
@@ -1238,6 +1278,10 @@ export default function App() {
     return raw.a.filter((ev) => {
       const sec = ed[ev.x]?.s ?? 0;
       if (selectedCats.size > 0 && !selectedCats.has(ev.c)) return false;
+      if (selectedTags.size > 0) {
+        const evTags = ev.g;
+        if (!evTags || !evTags.some((t) => selectedTags.has(t))) return false;
+      }
       if (qq) {
         const blob = `${ev.t} ${ev.d ?? ""}`.toLowerCase();
         if (!blob.includes(qq)) return false;
@@ -1262,7 +1306,7 @@ export default function App() {
       }
       return true;
     });
-  }, [raw, deferredQ, deferredUserQ, selectedCats, dateFilterMode, dateFilterA, dateFilterB]);
+  }, [raw, deferredQ, deferredUserQ, selectedCats, selectedTags, dateFilterMode, dateFilterA, dateFilterB]);
 
   const displayEvents = useMemo(() => {
     if (!raw) return [];
@@ -1333,13 +1377,25 @@ export default function App() {
     });
   }
 
+  function toggleTag(t: string) {
+    setSelectedTags((prev) => {
+      const n = new Set(prev);
+      if (n.has(t)) n.delete(t);
+      else n.add(t);
+      return n;
+    });
+  }
+
   useEffect(() => {
-    if (!catMenuOpen && !dateFilterOpen) return;
+    if (!catMenuOpen && !tagMenuOpen && !dateFilterOpen) return;
     /** Use mousedown (not pointerdown) so we do not unmount the calendar before react-datepicker receives the click. */
     function onMouseDown(e: MouseEvent) {
       const t = e.target as Node;
       if (catMenuOpen && catDropdownRef.current && !catDropdownRef.current.contains(t)) {
         setCatMenuOpen(false);
+      }
+      if (tagMenuOpen && tagDropdownRef.current && !tagDropdownRef.current.contains(t)) {
+        setTagMenuOpen(false);
       }
       if (dateFilterOpen && dateFilterRef.current && !dateFilterRef.current.contains(t)) {
         setDateFilterOpen(false);
@@ -1348,6 +1404,7 @@ export default function App() {
     function onKeyDown(e: KeyboardEvent) {
       if (e.key === "Escape") {
         setCatMenuOpen(false);
+        setTagMenuOpen(false);
         setDateFilterOpen(false);
       }
     }
@@ -1357,7 +1414,7 @@ export default function App() {
       document.removeEventListener("mousedown", onMouseDown);
       document.removeEventListener("keydown", onKeyDown);
     };
-  }, [catMenuOpen, dateFilterOpen]);
+  }, [catMenuOpen, tagMenuOpen, dateFilterOpen]);
 
   if (err) {
     return (
@@ -1577,9 +1634,6 @@ export default function App() {
               </button>
               {catMenuOpen ? (
                 <div className="cat-dropdown-panel">
-                  <p className="category-hint" id="cat-dropdown-hint">
-                    Choose none for all events, or several categories (combined with OR).
-                  </p>
                   <ul
                     className="cat-dropdown-list"
                     role="listbox"
@@ -1613,6 +1667,78 @@ export default function App() {
                       className="btn-text cat-dropdown-clear"
                       onClick={() => {
                         startTransition(() => setSelectedCats(new Set()));
+                      }}
+                    >
+                      Clear selection
+                    </button>
+                  ) : null}
+                </div>
+              ) : null}
+            </div>
+          </div>
+          <div className="filter-cell filter-cell--tag">
+            <span className="filter-heading" id="tag-dropdown-label">
+              Tags
+            </span>
+            <div className="cat-dropdown-anchor" ref={tagDropdownRef}>
+              <button
+                type="button"
+                className="cat-dropdown-trigger"
+                aria-labelledby="tag-dropdown-label tag-dropdown-value"
+                aria-expanded={tagMenuOpen}
+                aria-haspopup="listbox"
+                onClick={() => {
+                  setTagMenuOpen((o) => !o);
+                  setCatMenuOpen(false);
+                  setDateFilterOpen(false);
+                }}
+              >
+                <span id="tag-dropdown-value" className="cat-dropdown-value">
+                  {selectedTags.size === 0
+                    ? "All tags"
+                    : selectedTagsSignature.split(",").join(", ")}
+                </span>
+                <span className={`cat-chevron${tagMenuOpen ? " cat-chevron-open" : ""}`} aria-hidden>
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
+                  </svg>
+                </span>
+              </button>
+              {tagMenuOpen ? (
+                <div className="cat-dropdown-panel is-tags">
+                  <ul
+                    className="cat-dropdown-list"
+                    role="listbox"
+                    aria-labelledby="tag-dropdown-label"
+                    aria-describedby="tag-dropdown-hint"
+                    aria-multiselectable="true"
+                  >
+                    {tags.map((t) => {
+                      const selected = selectedTags.has(t);
+                      return (
+                        <li key={t} role="presentation">
+                          <button
+                            type="button"
+                            role="option"
+                            aria-selected={selected}
+                            className={`cat-dropdown-option is-tag${selected ? " cat-dropdown-option-selected" : ""}`}
+                            onClick={() => toggleTag(t)}
+                          >
+                            <span className="cat-dropdown-option-mark" aria-hidden>
+                              {selected ? "✓" : " "}
+                            </span>
+                            <span className="cat-dropdown-option-label">{t}</span>
+                          </button>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                  {selectedTags.size > 0 ? (
+                    <button
+                      type="button"
+                      className="btn-text cat-dropdown-clear"
+                      onClick={() => {
+                        startTransition(() => setSelectedTags(new Set()));
                       }}
                     >
                       Clear selection
@@ -1692,6 +1818,8 @@ export default function App() {
             edition={raw.ed[ev.x]}
             userHighlight={userHighlight}
             searchHighlight={searchHighlight}
+            selectedTags={selectedTags}
+            onToggleTag={toggleTag}
           />
         ))}
       </div>

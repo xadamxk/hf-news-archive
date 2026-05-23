@@ -10,6 +10,10 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "bug-fixes",
+        "infrastructure"
       ]
     },
     {
@@ -22,6 +26,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -38,13 +45,20 @@
           "username": "VipVince",
           "uid": "7807"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Halloween banner deployed; connectivity issues reported.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=779711"
+      "url": "http://hackforums.net/showthread.php?tid=779711",
+      "tags": [
+        "holidays",
+        "theme"
+      ]
     },
     {
       "category": "groups",
@@ -56,6 +70,9 @@
           "username": "Mendacious",
           "uid": null
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -92,6 +109,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {

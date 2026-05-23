@@ -5,21 +5,30 @@
             "title": "New Thread Notifications",
             "description": "Members can subscribe to a subforum to receive notifications for new threads created in that subforum.",
             "url": "https://hackforums.net/showthread.php?tid=6098696",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "site",
             "title": "Thread Reminder",
             "description": "Members can now set reminders for particular threads.",
             "url": "https://hackforums.net/showthread.php?tid=6098927",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Signature Market Changes",
             "description": "A number of changes were made to the Signature Market, which has also been added to the HF APIv2.",
             "url": "https://hackforums.net/showthread.php?tid=6100521",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",
@@ -75,6 +84,9 @@
                     "uid": "2815977",
                     "username": "God-Zeus"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

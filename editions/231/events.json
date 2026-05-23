@@ -4,7 +4,10 @@
       "category": "site",
       "title": "Weekly Reports merged into HF News editions; off-topic posts no longer accepted",
       "description": "The weekly report system was moved into each edition's thread to give the news a 'last week in review' format, with comments serving as the current week's live feed. Off-topic posts and quoting already-reported items are no longer permitted.",
-      "url": "http://hackforums.net/showthread.php?tid=4735087"
+      "url": "http://hackforums.net/showthread.php?tid=4735087",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "site",
@@ -16,13 +19,19 @@
           "uid": "458069",
           "username": "Ethereal"
         }
+      ],
+      "tags": [
+        "hf-news-ops"
       ]
     },
     {
       "category": "site",
       "title": "HFNT releases community-maintained unofficial Wiki",
       "description": "Dissatisfied with the official Wiki's direction, the HFNT created an alternative Wiki where any Verified member can make edits, with a team policing updates for quality.",
-      "url": "http://hackforums.net/showthread.php?tid=4734026"
+      "url": "http://hackforums.net/showthread.php?tid=4734026",
+      "tags": [
+        "hf-news-ops"
+      ]
     },
     {
       "category": "site",
@@ -68,6 +77,9 @@
           "uid": "458073",
           "username": "Chief."
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -180,6 +192,9 @@
           "uid": "1413772",
           "username": "Gambino™"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

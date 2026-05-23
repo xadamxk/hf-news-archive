@@ -10,6 +10,10 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rkos",
+        "rules"
       ]
     },
     {
@@ -22,6 +26,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
@@ -34,6 +41,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "omniscient-personal"
       ]
     },
     {
@@ -46,6 +56,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -58,13 +71,19 @@
           "username": "panDa.",
           "uid": "566671"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
       "category": "site",
       "title": "Display of section moderators re-enabled.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "groups",
@@ -80,6 +99,9 @@
           "username": "Etheryte",
           "uid": "32695"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

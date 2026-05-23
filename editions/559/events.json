@@ -1,7 +1,7 @@
 {
     "events": [
         {
-            "category": "site",
+            "category": "threads",
             "title": "HFX 3.0 Browser Extension",
             "description": "xadamxk rebuilt the HFX browser extension from scratch to support modern browsers (post Manifest v2 changes), packed with new features.",
             "url": "https://hackforums.net/showthread.php?tid=6312252",
@@ -10,6 +10,9 @@
                     "uid": "574588",
                     "username": "xadamxk"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -125,6 +128,9 @@
                     "uid": "666",
                     "username": "DemonAsylum"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -149,6 +155,9 @@
                     "uid": "5655318",
                     "username": "Oh_Well"
                 }
+            ],
+            "tags": [
+                "holidays"
             ]
         },
         {
@@ -161,6 +170,9 @@
                     "uid": "4225267",
                     "username": "Pimping"
                 }
+            ],
+            "tags": [
+                "holidays"
             ]
         },
         {

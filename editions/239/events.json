@@ -10,6 +10,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes",
+        "infrastructure"
       ]
     },
     {
@@ -22,6 +26,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -34,6 +41,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -46,6 +56,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -58,6 +71,9 @@
           "uid": "2529154",
           "username": "TommyD"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {
@@ -86,6 +102,9 @@
           "uid": "504910",
           "username": "๖ۣۜSith Lord"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -174,6 +193,9 @@
           "uid": "2334861",
           "username": "DamienVC"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

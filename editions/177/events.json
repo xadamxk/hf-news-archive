@@ -10,6 +10,9 @@
           "uid": "515249",
           "username": "Sir"
         }
+      ],
+      "tags": [
+        "hf-news-ops"
       ]
     },
     {
@@ -26,6 +29,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -42,13 +48,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
       "category": "site",
       "title": "The Lounge section reached 5,000,000 posts, accounting for nearly a sixth of all forum posts.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "users",
@@ -76,6 +88,10 @@
           "uid": "827711",
           "username": "Richard Grayson"
         }
+      ],
+      "tags": [
+        "moderation",
+        "site-maintenance"
       ]
     },
     {
@@ -100,6 +116,9 @@
           "uid": "1465028",
           "username": "Swirl"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -136,6 +155,9 @@
           "uid": "1008442",
           "username": "Phаraoh"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

@@ -4,13 +4,19 @@
       "category": "site",
       "title": "The Crew General Discussions forum was merged with the regular group recruitment forum into a new...",
       "description": "The Crew General Discussions forum was merged with the regular group recruitment forum into a new section called 'Group and Crew General Discussions' under Crews and Clans Private Forums.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Donation begging is now forbidden in the Group and Crew General Discussions section after a user...",
       "description": "Donation begging is now forbidden in the Group and Crew General Discussions section after a user collected money for a new group and ran with it.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "groups",
@@ -26,6 +32,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "usergroups"
       ]
     },
     {

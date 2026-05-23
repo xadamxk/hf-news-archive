@@ -5,7 +5,10 @@
             "title": "Official Vendor List",
             "description": "An official Vendor List was added to the Market CP. Vendors can edit their market profile, while other usergroups can browse the list to find reputable Vendors.",
             "url": "https://hackforums.net/showthread.php?tid=5948050",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "rules"
             ]
         },
         {
@@ -24,7 +30,10 @@
             "title": "HF Game Updates",
             "description": "HF Game Beta development continued with new lifelike features and additional shop items.",
             "url": "https://hackforums.net/showthread.php?tid=5945374",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

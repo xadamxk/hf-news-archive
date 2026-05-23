@@ -5,28 +5,41 @@
             "title": "Return of HF News",
             "description": "Scribe has become the new home for Writ3rs on the forum and will be bringing monthly editions of the Hack Forums News, trimmed down to focus on material about the site itself.",
             "url": "https://hackforums.net/showthread.php?tid=6240819",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "site",
             "title": "Bytes Bonus Days",
             "description": "Until June 5th, upgraded members gain bonus bytes for posts and threads in celebration of HF's official holiday \"Goodwill Monday\" — L33t members earn 1.5x and Ub3r members earn 2x normal values.",
             "url": "https://hackforums.net/showthread.php?tid=6243034",
-            "users": []
+            "users": [],
+            "tags": [
+                "holidays"
+            ]
         },
         {
             "category": "site",
             "title": "Anniversary of Hack Forums",
             "description": "Hack Forums celebrated its 16th anniversary with a new award goal: King Decade for members who have been on the site for 10+ years.",
             "url": "https://hackforums.net/showthread.php?tid=6239331",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards",
+                "milestones"
+            ]
         },
         {
             "category": "site",
             "title": "Users Viewing Threads",
             "description": "Ub3r and V3ndor members can now view which users are viewing a thread. Non-upgraded and L33t members lost the ability to view the Who's Online list.",
             "url": "https://hackforums.net/showthread.php?tid=6241971",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",
@@ -117,6 +130,9 @@
                     "uid": "4813653",
                     "username": "【﻿ＯＭＥＧＡ】"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -176,7 +192,10 @@
             "title": "Signatures and Custom Groups",
             "description": "Changes were made to reduce the requirements preventing non-upgraded members from displaying their signatures on their profiles.",
             "url": "https://hackforums.net/showthread.php?tid=6242134",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
@@ -188,6 +207,9 @@
                     "uid": "666",
                     "username": "DemonAsylum"
                 }
+            ],
+            "tags": [
+                "awards"
             ]
         },
         {
@@ -195,14 +217,20 @@
             "title": "Custom Groups and Bytes",
             "description": "After months of low-quality spam in custom usergroups, the ability to earn bytes through those subforums has been removed; bytes from posts/threads are now earned only in the public forum.",
             "url": "https://hackforums.net/showthread.php?tid=6242312",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "Bytes History Filters",
             "description": "Users can now change views when looking at their Bytes History to filter by wins/losses, donations, bumps, and other transfers and purchases.",
             "url": "https://hackforums.net/showthread.php?tid=6241730",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "news",

@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "forums"
       ]
     },
     {
@@ -22,6 +25,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -34,19 +40,28 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "groups",
       "title": "Techsperts has been revamped into 'Rhythm', a unique music-themed group.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "groups",
       "title": "The Coders group leaders finally paid off the remaining group payments.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "usergroups"
+      ]
     },
     {
       "category": "users",
@@ -58,6 +73,9 @@
           "uid": "74244",
           "username": "Yin"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -86,6 +104,9 @@
           "uid": "330676",
           "username": "Diabolic"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -126,6 +147,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {

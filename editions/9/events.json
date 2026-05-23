@@ -10,6 +10,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "holidays"
       ]
     },
     {
@@ -22,19 +25,28 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
       "category": "site",
       "title": "Giveaways section added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=174"
+      "url": "http://hackforums.net/forumdisplay.php?fid=174",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "Requests section (ub3r only) added.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=173"
+      "url": "http://hackforums.net/forumdisplay.php?fid=173",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -58,6 +70,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {

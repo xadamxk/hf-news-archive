@@ -14,6 +14,9 @@
                     "uid": "175033",
                     "username": "Xerotic"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -21,7 +24,10 @@
             "title": "Lounge Head with Bonus Bytes",
             "description": "Members who make 1,000 posts in 30 days will earn the Lounge Head award and 500 Bytes (subject to specific requirements).",
             "url": "https://hackforums.net/showthread.php?tid=5881854",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "users",
@@ -33,6 +39,9 @@
                     "uid": "928966",
                     "username": "Underdog"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

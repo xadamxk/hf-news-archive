@@ -5,7 +5,10 @@
             "title": "New Hack Forums header",
             "description": "Omniscient updated the forum header and hinted at a future theme refresh with MyBB 1.9.",
             "url": "http://hackforums.net/showthread.php?tid=5566295",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "groups",
@@ -17,6 +20,9 @@
                     "uid": "2947999",
                     "username": "Views"
                 }
+            ],
+            "tags": [
+                "moderation"
             ]
         },
         {
@@ -29,6 +35,9 @@
                     "uid": "3433475",
                     "username": "Infαmous"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -177,6 +186,9 @@
                     "uid": "400724",
                     "username": "Charger"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

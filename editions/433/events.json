@@ -5,7 +5,10 @@
             "title": "Reputation Archive",
             "description": "Members now have an option to view their Reputation Archive.",
             "url": "https://hackforums.net/showthread.php?tid=5964259",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -24,14 +27,20 @@
             "title": "Suggestions for Canned Popularity",
             "description": "Omniscient asked for suggestions for new messages to be included in the canned Popularity messages.",
             "url": "https://hackforums.net/showthread.php?tid=5965314",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "HF Game Update #3",
             "description": "Many new features were added to the HF Game, including the integration of Crew CP into Game CP.",
             "url": "https://hackforums.net/showthread.php?tid=5965438",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

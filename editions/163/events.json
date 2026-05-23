@@ -14,6 +14,9 @@
           "uid": "406243",
           "username": "WiFi."
         }
+      ],
+      "tags": [
+        "theme"
       ]
     },
     {
@@ -26,6 +29,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -38,13 +44,19 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
       "category": "site",
       "title": "The vouch counter under member post dates in the Marketplace was replaced with a reputation counter...",
       "description": "The vouch counter under member post dates in the Marketplace was replaced with a reputation counter to make trader feedback easier to assess.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
@@ -56,6 +68,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -80,6 +95,9 @@
           "uid": "797403",
           "username": "630"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -112,6 +130,9 @@
           "uid": "923962",
           "username": "24/7 Exchange"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -220,6 +241,9 @@
           "uid": "1653635",
           "username": "Debra Morgan"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -232,6 +256,9 @@
           "uid": "524451",
           "username": "Yellows"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -272,6 +299,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {

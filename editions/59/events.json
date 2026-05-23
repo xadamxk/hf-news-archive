@@ -4,43 +4,65 @@
       "category": "site",
       "title": "The ban on Runescape discussions has been lifted; a Runescape sub-forum was reopened with new rules.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=1734800"
+      "url": "http://hackforums.net/showthread.php?tid=1734800",
+      "tags": [
+        "forums",
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "A forum rules compilation page was created listing all forum-specific rules.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban;...",
       "description": "Creating threads involving buying/selling/trading outside the Marketplace will now result in a ban; a new 'Not In Marketplace' report option was added.",
-      "url": "http://hackforums.net/showthread.php?tid=1735211"
+      "url": "http://hackforums.net/showthread.php?tid=1735211",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "site",
       "title": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts ...",
       "description": "A Post Activity link was added to each member's profile, letting l33ts and ub3rs see how many posts a member has in individual sections.",
-      "url": ""
+      "url": "",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "site",
       "title": "A Hackintosh Help sub-forum was added under Apple Mac and OS X for setup help and build guides.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "A Partnerships, Hiring, and Personnel sub-forum was added under Service Offerings.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
       "title": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW...",
       "description": "A new Virtual Game Items section was added under the Marketplace for selling Runescape gold, WoW equipment, and similar items; account trading is not allowed there.",
-      "url": "http://hackforums.net/showthread.php?tid=1735211"
+      "url": "http://hackforums.net/showthread.php?tid=1735211",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "users",
@@ -52,6 +74,10 @@
           "username": "Rusty_v",
           "uid": "47970"
         }
+      ],
+      "tags": [
+        "moderation",
+        "rkos"
       ]
     },
     {
@@ -64,6 +90,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -84,6 +113,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -96,6 +128,9 @@
           "username": "Vitani's Mate",
           "uid": "651773"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {

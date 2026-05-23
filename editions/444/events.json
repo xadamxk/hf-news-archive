@@ -5,7 +5,10 @@
             "title": "EW IMG MyCode Enabled",
             "description": "The IMG MyCode tag has been enabled for the EW (E-Whoring) section.",
             "url": "https://hackforums.net/showthread.php?tid=6007278",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -29,6 +32,9 @@
                     "uid": "947940",
                     "username": "webdev77"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

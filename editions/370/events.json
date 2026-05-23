@@ -5,7 +5,10 @@
             "title": "HF News Twitter",
             "description": "The Writ3rs HF News team has launched a Twitter account (@HFWrit3rs) to deliver news as early as possible. Multiple team members have access and sign tweets with initials (HY = iHydra, FG = Froggy, SM = Soulmate). The account will tweet user news, bans, changes, and drama.",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -29,6 +35,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -41,6 +50,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "omniscient-personal"
             ]
         },
         {
@@ -77,6 +89,9 @@
                     "uid": "1320406",
                     "username": "Froggy"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

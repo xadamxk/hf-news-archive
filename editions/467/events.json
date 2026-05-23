@@ -5,35 +5,50 @@
             "title": "Warning Forgiveness",
             "description": "A new feature lets members take a quiz to remove their warning level. Available once per warning type per member.",
             "url": "https://hackforums.net/showthread.php?tid=6073069",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Icon Library Upgrade",
             "description": "HF changed its icon pack — slight changes to icon visuals throughout the site.",
             "url": "https://hackforums.net/showthread.php?tid=6073000",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
             "title": "Award Lotteries",
             "description": "Awards can now be won via lotteries, working similarly to the Bytes lottery.",
             "url": "https://hackforums.net/showthread.php?tid=6075066",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Staff Updates",
             "description": "Staff team changes were announced.",
             "url": "https://hackforums.net/showthread.php?tid=6073461",
-            "users": []
+            "users": [],
+            "tags": [
+                "moderation"
+            ]
         },
         {
             "category": "site",
             "title": "Thread Status Icons",
             "description": "Thread icons were updated.",
             "url": "https://hackforums.net/showthread.php?tid=6075112",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "users",

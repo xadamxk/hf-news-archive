@@ -5,21 +5,30 @@
             "title": "Award Goals",
             "description": "Members can now earn awards by completing specific goals; six goal awards are available initially with more to come.",
             "url": "https://hackforums.net/showthread.php?tid=5986499",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
             "title": "Cancel Active Contracts",
             "description": "Members can now cancel active contracts only if both parties agree; otherwise the contract remains active.",
             "url": "https://hackforums.net/showthread.php?tid=5986528",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "MoTM Automation",
             "description": "Member of the Month awards will now be granted automatically on the first of each month based on Popularity points. The winner receives a PM and a thread is auto-created by Help Bot.",
             "url": "https://hackforums.net/showthread.php?tid=5985440",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -40,7 +49,10 @@
             "title": "Game Tab Overhauled",
             "description": "The Game Tab was completely overhauled, with everything organized by Category and Genre.",
             "url": "https://hackforums.net/showthread.php?tid=5989792",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums"
+            ]
         },
         {
             "category": "news",

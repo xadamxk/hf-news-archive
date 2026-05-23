@@ -24,7 +24,10 @@
             "title": "Riot.IM community room",
             "description": "A new community room on Riot.im was set up for members to try, with the possibility of HF integration.",
             "url": "https://hackforums.net/showthread.php?tid=5978550",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

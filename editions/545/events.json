@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "drama"
             ]
         },
         {
@@ -22,6 +25,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "town-hall"
             ]
         },
         {
@@ -34,6 +40,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "theme"
             ]
         },
         {
@@ -46,6 +55,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "omniscient-personal"
             ]
         },
         {
@@ -93,7 +105,10 @@
             "title": "Group Userbar Bytes Multiplier",
             "description": "New exclusive perk: members wearing the H4CK3R$ userbar earn 10x bytes for posts and threads, while The Academy userbar earns 5x bytes. Succubus, Olympians, and Benevolence groups remain listed for sale.",
             "url": "https://hackforums.net/showthread.php?tid=6303358",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "news",

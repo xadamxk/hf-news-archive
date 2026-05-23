@@ -5,35 +5,52 @@
             "title": "Notifications To Be Implemented",
             "description": "Omniscient has announced that he intends to implement notifcations properly onto the site. Giving credit to this thread for realizing the change needed to happen, Omniscient has already laying out a plan to see this much wanted feature into fruition.",
             "url": "https://hackforums.net/showthread.php?tid=5675353",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "From Zero to Hero",
             "description": "The gates of the marketplace have finally been opened to newly opened accounts after Omniscient reduced the required reputation to post from one to zero.",
             "url": "https://hackforums.net/showthread.php?tid=5675443",
-            "users": []
+            "users": [],
+            "tags": [
+                "site-maintenance"
+            ]
         },
         {
             "category": "site",
             "title": "A New Smile For Your Profile",
             "description": "The following profile rules have been removed: 1) No religious, nationality, or political expression in your profile 2) No image rotation or scripts images (ip grabber) for your avatar or signature 3) No advertising of NFA (Non-Free Account) threads, sales, or services in your profile",
             "url": "https://hackforums.net/showthread.php?tid=5675449",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules",
+                "theme"
+            ]
         },
         {
             "category": "site",
             "title": "Post to PM Allowed Now",
             "description": "Omniscient has removed the rule dissallowing users to require a post before the item or service was sent via private message",
             "url": "http://hackforums.net/showthread.php?tid=5675446",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules"
+            ]
         },
         {
             "category": "site",
             "title": "New Meme Forum Added",
             "description": "A new section has been added, Meme Shit Meme, or the MSM section with the sole purpose of meme-ing. The section requires all threads to be meme oriented with anything else being closed or junked. low-quality posting (LQP) rules do not apply in this section.",
             "url": "http://hackforums.net/showthread.php?tid=5675385",
-            "users": []
+            "users": [],
+            "tags": [
+                "rules",
+                "site-maintenance"
+            ]
         },
         {
             "category": "groups",
@@ -56,6 +73,9 @@
                     "uid": "1618863",
                     "username": "Japanese"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

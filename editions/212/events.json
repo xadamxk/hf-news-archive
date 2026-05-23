@@ -30,6 +30,9 @@
           "uid": "506782",
           "username": "Tony Stark"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
@@ -42,11 +45,14 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards"
       ]
     },
     {
       "category": "site",
-      "title": "Omniscient posted a 'Dishes and Ranting' video discussing teen laziness, finding time for new...",
+      "title": "Omniscient posted a 'Dishes' Blog Video",
       "description": "Omniscient posted a 'Dishes and Ranting' video discussing teen laziness, finding time for new features, and upcoming work on account security tools and easier marketplace navigation.",
       "url": "http://hackforums.net/showthread.php?tid=4515001",
       "users": [
@@ -54,6 +60,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
@@ -70,6 +79,9 @@
           "uid": "1205532",
           "username": "Robust"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -86,6 +98,9 @@
           "uid": "44755",
           "username": "'Snorlax"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -126,6 +141,9 @@
           "uid": "1725481",
           "username": "gizmoguy"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {

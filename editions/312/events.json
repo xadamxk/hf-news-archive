@@ -5,28 +5,40 @@
             "title": "HTTPS Support Added",
             "description": "On October 4th Omniscient made the changes for HF to be served with HTTPS as opposed to HTTP which was what served HF before. This was done in an effort to make HF more secure by using the HTTPS (Hypertext Transfer Protocol Secure) instead of the HTTP (The Hypertext Transfer Protocol) protocol. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5424059",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",
             "title": "IMG tags require HTTPS",
             "description": "On the same day HTTPS was added Omniscient made several announcements on the new image formatting, one of which was requiring HTTPS in all IMG tags for the images to be displayed correctly. For our convenience Omniscient added a filter which automatically converts all i.imgur.com, the most popular image host, links to HTTPS. However, if the images in your thread are not hosted on imgur you must convert them to HTTPS manually. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5424165",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "site",
             "title": "Change your images to HTTPS",
             "description": "In another effort to make HF more secure, Omniscient has asked all members to review their profiles and threads to make sure all their images are using HTTPS instead of HTTP. Omniscient also stated that if you have an avatar, signature, or thread with images and image tags which are not HTTPS then they will either be deleted or not displayed correctly. >>Source",
             "url": "http://hackforums.net/showthread.php?tid=5424144",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
             "title": "Signature IMG tags require HTTPS",
             "description": "Relating to the previous announcements, Omniscient has deleted all image based signatures which did not have an HTTPS link. As with the regular IMG tags, all i.imgur.com images have been automatically converted but the the rest must be manually updated to HTTPS. >>Source https://i.imgur.com/wYi4ilf.jpg",
             "url": "http://hackforums.net/showthread.php?tid=5424266",
-            "users": []
+            "users": [],
+            "tags": [
+                "infrastructure"
+            ]
         },
         {
             "category": "groups",
@@ -58,6 +70,9 @@
                     "uid": "2983477",
                     "username": "KA34"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
@@ -142,6 +157,9 @@
                     "uid": "2759618",
                     "username": "YayHar"
                 }
+            ],
+            "tags": [
+                "rkos"
             ]
         },
         {

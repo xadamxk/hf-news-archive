@@ -4,13 +4,19 @@
       "category": "site",
       "title": "EU users experienced image server outages.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=699249"
+      "url": "http://hackforums.net/showthread.php?tid=699249",
+      "tags": [
+        "infrastructure"
+      ]
     },
     {
       "category": "site",
       "title": "Hack Forums reached 6,000,000 posts.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=701893"
+      "url": "http://hackforums.net/showthread.php?tid=701893",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "groups",
@@ -22,7 +28,11 @@
       "category": "site",
       "title": "Avatar upload bug reported by multiple users.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=704999"
+      "url": "http://hackforums.net/showthread.php?tid=704999",
+      "tags": [
+        "bug-fixes",
+        "theme"
+      ]
     },
     {
       "category": "users",

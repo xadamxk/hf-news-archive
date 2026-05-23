@@ -10,6 +10,9 @@
           "username": "Saged",
           "uid": "47360"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -22,6 +25,9 @@
           "username": "Soldier of Fortune",
           "uid": "8480"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -34,6 +40,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {
@@ -46,7 +55,10 @@
       "category": "site",
       "title": "UB3R-only Negative Reputation Log added.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=811622"
+      "url": "http://hackforums.net/showthread.php?tid=811622",
+      "tags": [
+        "features"
+      ]
     },
     {
       "category": "users",
@@ -58,13 +70,19 @@
           "username": "Solidify",
           "uid": "176679"
         }
+      ],
+      "tags": [
+        "drama"
       ]
     },
     {
       "category": "threads",
       "title": "Tinychat unbanned for HF room.",
       "description": "",
-      "url": "http://hackforums.net/showthread.php?tid=814419"
+      "url": "http://hackforums.net/showthread.php?tid=814419",
+      "tags": [
+        "rules"
+      ]
     },
     {
       "category": "threads",
@@ -76,6 +94,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {

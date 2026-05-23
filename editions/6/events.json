@@ -4,7 +4,10 @@
       "category": "site",
       "title": "HackForums reaches 4,000,000 posts.",
       "description": "",
-      "url": ""
+      "url": "",
+      "tags": [
+        "milestones"
+      ]
     },
     {
       "category": "site",
@@ -16,13 +19,19 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "rules"
       ]
     },
     {
       "category": "site",
       "title": "Sports World subforum created.",
       "description": "",
-      "url": "http://hackforums.net/forumdisplay.php?fid=167"
+      "url": "http://hackforums.net/forumdisplay.php?fid=167",
+      "tags": [
+        "forums"
+      ]
     },
     {
       "category": "site",
@@ -34,6 +43,9 @@
           "username": "Omniscient",
           "uid": "1"
         }
+      ],
+      "tags": [
+        "infrastructure"
       ]
     },
     {

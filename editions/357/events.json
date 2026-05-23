@@ -12,14 +12,21 @@
             "title": "Be Aware of Where You Post",
             "description": "Be aware of the rules in the subforum you are posting in - users recently banned for violating subforum specific rules.",
             "url": "https://hackforums.net/showthread.php?tid=5700502&pid=55680666",
-            "users": []
+            "users": [],
+            "tags": [
+                "forums",
+                "rules"
+            ]
         },
         {
             "category": "site",
             "title": "Support the Team!",
             "description": "The truth is that even though our forum has over three million members, there are actually some people who don't even know we exist. If you would like to support the team there are countless things you could do. One of the simplest ways of doing so is by wearing our support signatures made by one of our support members, Maxim. You can find those signatures in the second post of each news edition!\n\n       \n\nhttps://i.imgur.com/wYi4ilf.jpg",
             "url": "",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "groups",
@@ -35,6 +42,9 @@
                     "uid": "2292899",
                     "username": "Divined"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -42,7 +52,10 @@
             "title": "Wiki recruitment (Hack Forums Wiki)",
             "description": "Group Recruitments line: Writ3rs | Wiki Team | Official Recruitment.",
             "url": "http://hackforums.net/showthread.php?tid=5680175",
-            "users": []
+            "users": [],
+            "tags": [
+                "hf-news-ops"
+            ]
         },
         {
             "category": "users",
@@ -170,6 +183,9 @@
                     "uid": "3179306",
                     "username": "InjectorBoy"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -182,6 +198,9 @@
                     "uid": "3179306",
                     "username": "InjectorBoy"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -206,6 +225,9 @@
                     "uid": "1320406",
                     "username": "Froggy"
                 }
+            ],
+            "tags": [
+                "omniscient-personal"
             ]
         },
         {

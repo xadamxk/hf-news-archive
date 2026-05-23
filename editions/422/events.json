@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "bug-fixes"
             ]
         },
         {
@@ -17,14 +20,20 @@
             "title": "Automated Banner Ads Purchase System",
             "description": "Ad spots can now be acquired automatically via a link, and the Header Ad price was reduced from $200 to $150 per week.",
             "url": "https://hackforums.net/showthread.php?tid=5921421",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
             "title": "Quick Thread Beta",
             "description": "Members can create a Quick Thread by clicking 'Start a New Thread' in the top right corner — it helps members find the right forum category.",
             "url": "https://hackforums.net/showthread.php?tid=5922094",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -36,6 +45,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -43,7 +55,10 @@
             "title": "Crew Pricing Increase",
             "description": "All Crew Tier prices will go up in the first week of January 2019.",
             "url": "https://hackforums.net/showthread.php?tid=5923690",
-            "users": []
+            "users": [],
+            "tags": [
+                "usergroups"
+            ]
         },
         {
             "category": "site",
@@ -55,6 +70,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -62,7 +80,10 @@
             "title": "Awards Market Pricing",
             "description": "Minimum sale price in the Awards Market increased from β1,000 to β5,000.",
             "url": "https://hackforums.net/showthread.php?tid=5923891",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
@@ -74,6 +95,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -98,6 +122,9 @@
                     "uid": "1500389",
                     "username": "Meow"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

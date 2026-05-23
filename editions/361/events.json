@@ -5,7 +5,10 @@
             "title": "CCleaner Infected With Malware",
             "description": "Banner alert linking to a thread about CCleaner being infected with malware.",
             "url": "https://hackforums.net/showthread.php?tid=5720380",
-            "users": []
+            "users": [],
+            "tags": [
+                "theme"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "infrastructure"
             ]
         },
         {
@@ -29,6 +35,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "omniscient-personal"
             ]
         },
         {
@@ -81,6 +90,9 @@
                     "uid": "2360425",
                     "username": "FamousHater"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

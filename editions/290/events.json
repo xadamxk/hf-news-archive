@@ -10,6 +10,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -22,6 +25,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "infrastructure"
       ]
     },
     {
@@ -46,6 +53,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "awards",
+        "rules"
       ]
     },
     {
@@ -58,6 +69,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "town-hall"
       ]
     },
     {
@@ -70,6 +84,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -82,6 +99,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -94,6 +114,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -118,6 +141,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "features"
       ]
     },
     {
@@ -130,6 +156,10 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes",
+        "infrastructure"
       ]
     },
     {
@@ -142,6 +172,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "site-maintenance"
       ]
     },
     {
@@ -154,6 +187,9 @@
           "uid": "1",
           "username": "Omniscient"
         }
+      ],
+      "tags": [
+        "bug-fixes"
       ]
     },
     {
@@ -346,6 +382,9 @@
           "uid": "3100272",
           "username": "Ecto"
         }
+      ],
+      "tags": [
+        "rkos"
       ]
     },
     {
@@ -458,6 +497,9 @@
           "uid": "3025684",
           "username": "11.22.63"
         }
+      ],
+      "tags": [
+        "milestones"
       ]
     },
     {
@@ -530,6 +572,9 @@
           "uid": "2969158",
           "username": "Silicon Valley"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {
@@ -542,6 +587,9 @@
           "uid": "1450348",
           "username": "Walt Disney™"
         }
+      ],
+      "tags": [
+        "moderation"
       ]
     },
     {

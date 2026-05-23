@@ -10,6 +10,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "site-maintenance"
             ]
         },
         {
@@ -17,7 +20,10 @@
             "title": "HF Hack Game Update",
             "description": "Brand-new shop items and elements were added to the HF Hack Game. Due to the update, the game was reset — all levels, game cash, and XP set to 0.",
             "url": "https://hackforums.net/showthread.php?tid=5960605",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",

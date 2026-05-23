@@ -5,14 +5,20 @@
             "title": "Follow or Subscribe to Members",
             "description": "Members can now follow another member and choose the notification type to receive updates from them.",
             "url": "https://hackforums.net/showthread.php?tid=6104948",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "QR Login",
             "description": "A new feature lets members scan a QR code from their mobile device to log in seamlessly.",
             "url": "https://hackforums.net/showthread.php?tid=6104942",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "groups",
@@ -120,6 +126,9 @@
                     "uid": "46903",
                     "username": "✔ Soufian ✔"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {

@@ -5,7 +5,10 @@
             "title": "Member Blogs Beta",
             "description": "Hack Forums has launched its official Blogging System (Beta) for members. It accepts MyCode formatting; only L33t and Ub3r members can create blog posts.",
             "url": "https://hackforums.net/showthread.php?tid=5999434",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
@@ -17,6 +20,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "usergroups"
             ]
         },
         {
@@ -24,14 +30,20 @@
             "title": "Teaser Convo Chat Feature",
             "description": "Hack Forums teased upcoming live chat rooms called \"Convos\" that will support up to ten members per room.",
             "url": "https://hackforums.net/showthread.php?tid=6001600",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "2019 Check-In Thread",
             "description": "Members earn 25 βytes daily for posting in the check-in thread, can win 500 βytes for posting more than once a day, and earn a Goal Award for checking in 100 days in a row.",
             "url": "https://hackforums.net/forumdisplay.php?fid=25",
-            "users": []
+            "users": [],
+            "tags": [
+                "awards"
+            ]
         },
         {
             "category": "site",
@@ -74,6 +86,9 @@
                     "uid": "1",
                     "username": "Omniscient"
                 }
+            ],
+            "tags": [
+                "omniscient-personal"
             ]
         },
         {

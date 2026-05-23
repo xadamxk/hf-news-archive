@@ -10,6 +10,9 @@
                     "uid": "175033",
                     "username": "Xerotic"
                 }
+            ],
+            "tags": [
+                "features"
             ]
         },
         {
@@ -17,14 +20,20 @@
             "title": "Discord Postbit Button",
             "description": "A Discord postbit button now appears under posts of users who have authorized their Discord with HF, helping reduce off-site scams.",
             "url": "https://hackforums.net/showthread.php?tid=6095021",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "site",
             "title": "Bytes Flip via Convo",
             "description": "Members can now coin-flip Bytes within Convo conversations.",
             "url": "https://hackforums.net/showthread.php?tid=6095057",
-            "users": []
+            "users": [],
+            "tags": [
+                "features"
+            ]
         },
         {
             "category": "users",
@@ -52,6 +61,9 @@
                     "uid": "4079008",
                     "username": "Astrogen"
                 }
+            ],
+            "tags": [
+                "milestones"
             ]
         },
         {
