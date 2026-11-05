@@ -1,0 +1,177 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Server Move (Again)",
+            "description": "Omniscient secured a new server and datacenter for HF after the previous attempt was cut short when the old host shut down without notice, marking a major step toward full site upgrades.",
+            "url": "https://hackforums.net/showthread.php?tid=6329582",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Tether BTCPay Plugin",
+            "description": "A Tether plugin went live on HF's BTCPay server as a trial, allowing invoices to be paid in USDT on TRC-20. Because addresses don't rotate automatically, its future isn't guaranteed.",
+            "url": "https://hackforums.net/showthread.php?tid=6329911",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Armagedon. Diamond awarded to bandors.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2485210",
+                    "username": "Armagedon"
+                },
+                {
+                    "uid": "1189774",
+                    "username": "bandors"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How Much Of Your Code Is AI Generated Now?",
+            "description": "Mxstermind asked what share of members' code is AI-generated; several said nearly everything starts with AI while they focus on vision, troubleshooting, and final decisions.",
+            "url": "https://hackforums.net/showthread.php?tid=6329632",
+            "users": [
+                {
+                    "uid": "5576555",
+                    "username": "Mxstermind"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Project Rescue - Repair and Complete Your Broken AI-Generated Project",
+            "description": "Tha Sneak offered a free service to triage, repair, validate, and document broken vibe-coded projects instead of starting over.",
+            "url": "https://hackforums.net/showthread.php?tid=6329608",
+            "users": [
+                {
+                    "uid": "284502",
+                    "username": "Tha Sneak"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "UnityScraper - AI-Written XboxUnity Asset Scraper",
+            "description": "Null State released UnityScraper, an XboxUnity asset scraping and extraction framework built almost entirely through prompting, later expanded with ChatGPT and Codex to add Linux support.",
+            "url": "https://hackforums.net/showthread.php?tid=6325375",
+            "users": [
+                {
+                    "uid": "1545765",
+                    "username": "Null State"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "My cat wants say hey to HackForums!!!",
+            "description": "geoshot introduced his cats to HF, and the thread filled with compliments, requests for more pictures, and members' own cat stories.",
+            "url": "https://hackforums.net/showthread.php?tid=6329705",
+            "users": [
+                {
+                    "uid": "5770050",
+                    "username": "geoshot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Does anyone else feel like 90% of the internet is just bots talking to bots now?",
+            "description": "M1MON asked whether the internet is turning into bots talking to bots, sparking discussion of AI content, ragebait, political manipulation, and the Dead Internet Theory.",
+            "url": "https://hackforums.net/showthread.php?tid=6329435",
+            "users": [
+                {
+                    "uid": "5653236",
+                    "username": "M1MON"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[$100] Crypto Giveaway",
+            "description": "Froggerini is giving away $100 in crypto; ends August 16, 2026.",
+            "url": "https://hackforums.net/showthread.php?tid=6329974",
+            "users": [
+                {
+                    "uid": "5681639",
+                    "username": "Froggerini"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Contests / Music / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 599,
+        "date": 1786404898,
+        "pid": "62991263",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 60"
+    }
+}

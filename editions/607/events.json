@@ -1,0 +1,136 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "We're Moved",
+            "description": "HF completed its migration to the new server. Temporary PHP/MyBB bugs were expected, and socket features like Convo and notifications stayed offline for a few days; only critical issues needed reporting.",
+            "url": "https://hackforums.net/showthread.php?tid=6332729",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Chatwee Plugin",
+            "description": "With Convo down after the migration and needing a full rebuild, Omniscient considered the third-party Chatwee plugin (updated for PHP 8) as a short-term chat workaround.",
+            "url": "https://hackforums.net/showthread.php?tid=6332784",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Convo Returning",
+            "description": "After a few hours trying to integrate Chatwee, Omniscient confirmed HF's in-house Convo will return following a rebuild expected to take a few weeks.",
+            "url": "https://hackforums.net/showthread.php?tid=6332952",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Telegram Notification Bot",
+            "description": "With the notification socket offline, Omniscient began rebuilding alerts as an independent PHP plugin and proposed optional browser/desktop push notifications and an official HF Telegram bot for PMs, replies, mentions, and quotes.",
+            "url": "https://hackforums.net/showthread.php?tid=6332994",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to imvirtual, Theocritus, and Polo_.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1914234",
+                    "username": "imvirtual"
+                },
+                {
+                    "uid": "3159088",
+                    "username": "Theocritus"
+                },
+                {
+                    "uid": "2404356",
+                    "username": "Polo_"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "R00T got new graphics and a new information and recruitment thread.",
+            "url": "https://hackforums.net/showthread.php?tid=6332841",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Groups / Tech / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music / Comics)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 607,
+        "date": 1791240443,
+        "pid": "63011947",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 68"
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Upload Images App",
+            "description": "HF's sister project Uploadimages.org, an end-to-end encrypted image host, released an official Android app; Omniscient asked members to try it and leave feedback.",
+            "url": "https://hackforums.net/showthread.php?tid=6328135",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "SportsBook awarded to loadman. Green Apple to Mastercarder and NoodleBot™. Flip Reaper to Snowwy. King Decade to PURPPP, oscast, Wespa, PhilKelly95, and securer.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3128111",
+                    "username": "loadman"
+                },
+                {
+                    "uid": "4746120",
+                    "username": "Mastercarder"
+                },
+                {
+                    "uid": "974949",
+                    "username": "NoodleBot™"
+                },
+                {
+                    "uid": "1931788",
+                    "username": "Snowwy"
+                },
+                {
+                    "uid": "507518",
+                    "username": "PURPPP"
+                },
+                {
+                    "uid": "2664075",
+                    "username": "oscast"
+                },
+                {
+                    "uid": "2791600",
+                    "username": "Wespa"
+                },
+                {
+                    "uid": "2888625",
+                    "username": "PhilKelly95"
+                },
+                {
+                    "uid": "2479226",
+                    "username": "securer"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Chat Control 1.0 passed the European Parliament - through the back door",
+            "description": "CL1B covered the quiet extension of Chat Control 1.0, allowing voluntary scanning of private communications until April 2028 without a direct vote on its substance, and members raised concerns about Chat Control 2.0.",
+            "url": "https://hackforums.net/showthread.php?tid=6328317",
+            "users": [
+                {
+                    "uid": "5679562",
+                    "username": "CL1B"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Device Fingerprinting & Signature Matching System",
+            "description": "itcorp presented a C# device fingerprinting system using banners, HTTP headers, HTML, endpoints, ports, and configurable signatures, with parallel matching, confidence scoring, and vulnerability metadata.",
+            "url": "https://hackforums.net/showthread.php?tid=6327956",
+            "users": [
+                {
+                    "uid": "1763754",
+                    "username": "itcorp"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[EXPLAINED] The Lifecycle of a Card Payment",
+            "description": "Mastercarder walked through processors, card networks, issuing banks, fraud checks, authorization, clearing, settlement, and why transactions stay pending.",
+            "url": "https://hackforums.net/showthread.php?tid=6328042",
+            "users": [
+                {
+                    "uid": "4746120",
+                    "username": "Mastercarder"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Free] THE ONLY Hyper-Personalized AI Phishing & BEC Guide, You Will Ever Need!",
+            "description": "TheGuideGod's controversial guide showed how AI, OSINT, and automation make phishing and BEC far more convincing, which is useful defensively for showing why generic awareness training falls short.",
+            "url": "https://hackforums.net/showthread.php?tid=6327431",
+            "users": [
+                {
+                    "uid": "5765541",
+                    "username": "TheGuideGod"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "New to this",
+            "description": "cxwb's introduction became a beginner discussion on navigating HF safely: credibility, Bytes, marketplace reputation, contracts, and learning the forum before buying anything.",
+            "url": "https://hackforums.net/showthread.php?tid=6328335",
+            "users": [
+                {
+                    "uid": "5769697",
+                    "username": "cxwb"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Mastercarder's MASSIVE 10,000 Bytes Giveaway",
+            "description": "Mastercarder is giving away 10,000 Bytes to one winner who answers a question in the thread; ends July 29, 2026.",
+            "url": "https://hackforums.net/showthread.php?tid=6328397",
+            "users": [
+                {
+                    "uid": "4746120",
+                    "username": "Mastercarder"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Contests / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music / Movies)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 595,
+        "date": 1783985143,
+        "pid": "62979665",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 56"
+    }
+}

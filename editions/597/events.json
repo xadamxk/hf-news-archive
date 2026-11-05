@@ -1,0 +1,79 @@
+{
+    "events": [
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to nestoras1, Mr.Cat, and Aerospace.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "",
+                    "username": "nestoras1"
+                },
+                {
+                    "uid": "2606846",
+                    "username": "Mr.Cat"
+                },
+                {
+                    "uid": "2918765",
+                    "username": "Aerospace"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Contests / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 597,
+        "date": 1785197837,
+        "pid": "62985468",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 58"
+    }
+}

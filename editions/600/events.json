@@ -1,0 +1,126 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "CTF Challenge $1000+ Prize Pool [CanYouHack.Me and Virtualine.net]",
+            "description": "HF partnered with CanYouHack.Me on a CTF with over $1,000 in crypto, permanent L33t/Ub3r upgrades, and an exclusive CYHM award, plus hosting discounts from sponsor Virtualine for completing the first \"NotBB\" challenge. Sign-in uses HF accounts; deadline September 9, 2026, with up to $250 in crypto for the grand prize.",
+            "url": "https://hackforums.net/showthread.php?tid=6330078",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "5555096",
+                    "username": "Virtualine"
+                }
+            ],
+            "tags": [
+                "awards"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Shining Knight awarded to Froggerini. Green Apple, Businessman, and King Decade to Grim. King Decade also to Beherit, rox666, Ｉｓａｂｅｌｌｅ, Duck Duck, and Nuts.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5681639",
+                    "username": "Froggerini"
+                },
+                {
+                    "uid": "504910",
+                    "username": "Grim"
+                },
+                {
+                    "uid": "3233350",
+                    "username": "Beherit"
+                },
+                {
+                    "uid": "1054385",
+                    "username": "rox666"
+                },
+                {
+                    "uid": "2626679",
+                    "username": "Ｉｓａｂｅｌｌｅ"
+                },
+                {
+                    "uid": "1009083",
+                    "username": "Duck Duck"
+                },
+                {
+                    "uid": "317107",
+                    "username": "Nuts"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Scrub was added as leader of Mob.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5768107",
+                    "username": "Scrub"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 600,
+        "date": 1787005282,
+        "pid": "62993960",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 61"
+    }
+}

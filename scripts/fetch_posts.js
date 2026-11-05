@@ -193,8 +193,20 @@ async function fetchThreadPosts({ tid, token }) {
   ) {
     throw new RateLimitError(response.message);
   }
+  // HF API v2 returns a bare object instead of an array when exactly one row matches.
+  if (
+    response &&
+    response.posts &&
+    typeof response.posts === "object" &&
+    !Array.isArray(response.posts)
+  ) {
+    return [response.posts];
+  }
   if (!response || !Array.isArray(response.posts)) {
-    throw new Error("Unexpected API response shape (missing posts array)");
+    const snippet = JSON.stringify(response).slice(0, 500);
+    throw new Error(
+      `Unexpected API response shape (missing posts array): ${snippet}`
+    );
   }
   return response.posts;
 }

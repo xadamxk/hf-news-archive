@@ -1,0 +1,256 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Golden Scratcher Award Goal",
+            "description": "A new Golden Scratcher award goal unlocks for members who play 10 paid scratch cards within a year.",
+            "url": "https://hackforums.net/showthread.php?tid=6334985",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "awards"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "25k Scratchcard (Max win 1,000,000 Bytes)",
+            "description": "A new 25k Bytes scratch card was added for high rollers, with a maximum win of 1,000,000 Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=6334991",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Inactive Sellers [Report Reason]",
+            "description": "A new Inactive Seller report reason lets members flag abandoned Marketplace threads. Stanley PMs the seller a confirmation link, and threads not confirmed within 48 hours are auto-closed during the daily 2 a.m. maintenance task.",
+            "url": "https://hackforums.net/showthread.php?tid=6335223",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features",
+                "moderation"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Paid Stickies Page",
+            "description": "Paid advertisements returned after fixes, with a revamped Extras page showing all active Paid Stickies and a new queue listing pending placements and their ETAs.",
+            "url": "https://hackforums.net/showthread.php?tid=6335255",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Octoberfest 2026 awarded to jcole, DAL-SHA, Respect, The Pact, Jinu, Bastille, Pimping, and Th3HulK. King Decade to ๖ۣۜDøpe, redBeard, Anuta, anay, patrick, Аrthur, and devlin016. Golden Scratcher to DemonAsylum, sharn, Au Jus Demon, and Riggs. Dicey to Terry A. Davis. Flip Reaper to Undead. Bronze Tutorial Award to Respect. Lucky awarded to Roberto Scorpius Malfoy, Jinkow, kinnu543, Lefty, IForgorMyMain, Th3HulK, Collapse, ja2311, DryNode, BigDapx2, columbine, gamethechanger, eliotjames, and slippyduck.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "811",
+                    "username": "jcole"
+                },
+                {
+                    "uid": "5693200",
+                    "username": "DAL-SHA"
+                },
+                {
+                    "uid": "1631830",
+                    "username": "Respect"
+                },
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                },
+                {
+                    "uid": "463848",
+                    "username": "Jinu"
+                },
+                {
+                    "uid": "3995095",
+                    "username": "Bastille"
+                },
+                {
+                    "uid": "4225267",
+                    "username": "Pimping"
+                },
+                {
+                    "uid": "5773091",
+                    "username": "Th3HulK"
+                },
+                {
+                    "uid": "1976985",
+                    "username": "๖ۣۜDøpe"
+                },
+                {
+                    "uid": "1068473",
+                    "username": "redBeard"
+                },
+                {
+                    "uid": "3335358",
+                    "username": "Anuta"
+                },
+                {
+                    "uid": "2358883",
+                    "username": "anay"
+                },
+                {
+                    "uid": "5782108",
+                    "username": "patrick"
+                },
+                {
+                    "uid": "655609",
+                    "username": "Аrthur"
+                },
+                {
+                    "uid": "32307",
+                    "username": "devlin016"
+                },
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                },
+                {
+                    "uid": "5",
+                    "username": "sharn"
+                },
+                {
+                    "uid": "761578",
+                    "username": "Au Jus Demon"
+                },
+                {
+                    "uid": "402384",
+                    "username": "Riggs"
+                },
+                {
+                    "uid": "1237824",
+                    "username": "Terry A. Davis"
+                },
+                {
+                    "uid": "4577221",
+                    "username": "Undead"
+                },
+                {
+                    "uid": "3411137",
+                    "username": "Roberto Scorpius Malfoy"
+                },
+                {
+                    "uid": "3760587",
+                    "username": "Jinkow"
+                },
+                {
+                    "uid": "4753662",
+                    "username": "kinnu543"
+                },
+                {
+                    "uid": "5042090",
+                    "username": "Lefty"
+                },
+                {
+                    "uid": "5650805",
+                    "username": "IForgorMyMain"
+                },
+                {
+                    "uid": "5773712",
+                    "username": "Collapse"
+                },
+                {
+                    "uid": "5779216",
+                    "username": "ja2311"
+                },
+                {
+                    "uid": "5789641",
+                    "username": "DryNode"
+                },
+                {
+                    "uid": "5790295",
+                    "username": "BigDapx2"
+                },
+                {
+                    "uid": "5790609",
+                    "username": "columbine"
+                },
+                {
+                    "uid": "5791142",
+                    "username": "gamethechanger"
+                },
+                {
+                    "uid": "5791903",
+                    "username": "eliotjames"
+                },
+                {
+                    "uid": "5791424",
+                    "username": "slippyduck"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "The Brotherhood rebranded to INVICTUS.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Groups / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music / Comics)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 611,
+        "date": 1793670790,
+        "pid": "63030763",
+        "author_uid": "2331053",
+        "subject": "📰 Hack Forum News - Edition 72"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Attachments Review",
+            "description": "Omniscient began reviewing the MyBB attachment system and asked which new file types members want, with HTML and Python under consideration.",
+            "url": "https://hackforums.net/showthread.php?tid=6328648",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Python Attachments",
+            "description": "Upgraded members can now upload .py attachments, making it easier to share Python scripts.",
+            "url": "https://hackforums.net/showthread.php?tid=6328688",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Convo Images EXIF Data",
+            "description": "After an earlier attempt was shelved, EXIF stripping now works for images uploaded in both group and private convos.",
+            "url": "https://hackforums.net/showthread.php?tid=6328694",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Passkeys",
+            "description": "Omniscient asked for feedback on adding passkey login support to Hack Forums.",
+            "url": "https://hackforums.net/showthread.php?tid=6328635",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Declan, tzbb, Incomprehensible, wz34a, and SUI-3183372. Green Apple to Mastercarder. Flip Reaper to TB12.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2460055",
+                    "username": "Declan"
+                },
+                {
+                    "uid": "1427773",
+                    "username": "tzbb"
+                },
+                {
+                    "uid": "1577202",
+                    "username": "Incomprehensible"
+                },
+                {
+                    "uid": "3138697",
+                    "username": "wz34a"
+                },
+                {
+                    "uid": "3183372",
+                    "username": "SUI-3183372"
+                },
+                {
+                    "uid": "4746120",
+                    "username": "Mastercarder"
+                },
+                {
+                    "uid": "3402022",
+                    "username": "TB12"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "Charlie Sheen was added as leader of Vibe.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Building Your Own LLM Chatbot: The Ultimate Guide - 2026 Updated",
+            "description": "Oh_Well overhauled their LLM chatbot guide for 2026, covering reasoning models, local inference, RAG, tool calling, post-training, evaluation, and production serving.",
+            "url": "https://hackforums.net/showthread.php?tid=6328400",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Good books on GUI dessign?",
+            "description": "Phantom_NiNja asked how to make software interfaces feel cohesive and polished; members shared courses, inspiration platforms, web-based GUI approaches, and user-first design advice.",
+            "url": "https://hackforums.net/showthread.php?tid=6328596",
+            "users": [
+                {
+                    "uid": "5493911",
+                    "username": "Phantom_NiNja"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What is everyone up to lately?",
+            "description": "Dotexe's casual check-in drew updates on new IT jobs, projects, music, sports, financial pressure, and how AI is changing demand for services.",
+            "url": "https://hackforums.net/showthread.php?tid=6328691",
+            "users": [
+                {
+                    "uid": "2580014",
+                    "username": "Dotexe"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF Signal",
+            "description": "Charlie Sheen built HF Signal, which watches selected sections via the HF API, routes new threads to a Telegram bot for manual approval, then auto-posts approved content to X, Instagram, YouTube, and Bluesky.",
+            "url": "https://hackforums.net/showthread.php?tid=6328713",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Read this if you feel like giving up.",
+            "description": "geoshot shared how things improved after hitting a low point and encouraged others to focus on what they can control; replies turned into a supportive discussion of unemployment, family, and financial struggles.",
+            "url": "https://hackforums.net/showthread.php?tid=6328763",
+            "users": [
+                {
+                    "uid": "5770050",
+                    "username": "geoshot"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "OQTOPUS: The open-source software stack behind quantum computers",
+            "description": "Oh_Well introduced OQTOPUS, an open-source stack for running quantum computers as cloud systems (job management, device gateways, calibration, monitoring), built with familiar tools like Python, TypeScript, Go, and Docker.",
+            "url": "https://hackforums.net/showthread.php?tid=6328662",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[GIVEAWAY] $10 in ETH to one lucky member",
+            "description": "ServerBreaker is giving $10 in ETH to one random entrant; one entry per person, drawn July 30, 2026.",
+            "url": "https://hackforums.net/showthread.php?tid=6328649",
+            "users": [
+                {
+                    "uid": "5751676",
+                    "username": "ServerBreaker"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Contests / Music / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 596,
+        "date": 1784593004,
+        "pid": "62982460",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 57"
+    }
+}

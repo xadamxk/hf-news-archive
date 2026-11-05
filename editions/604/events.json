@@ -1,0 +1,176 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "BTCPay for Members (Vendors please read)",
+            "description": "Omniscient floated a dedicated BTCPay server for members: free for vendors, with store subscriptions around $10/month, potentially bringing non-custodial automated crypto invoicing to HF contracts.",
+            "url": "https://hackforums.net/showthread.php?tid=6331756",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "CTF Challenge Winners",
+            "description": "The CanYouHack.Me CTF drawings awarded $800 in crypto and 6 permanent upgrades. Money- took the top $250 prize, and Game, ALOMARI, and Sift won $100 each.",
+            "url": "https://hackforums.net/showthread.php?tid=6331761",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "3382541",
+                    "username": "Money-"
+                },
+                {
+                    "uid": "3539763",
+                    "username": "Game"
+                },
+                {
+                    "uid": "4568478",
+                    "username": "ALOMARI"
+                },
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                }
+            ],
+            "tags": [
+                "awards"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Flip Reaper awarded to Goldenboi. Dicey to CyberXero. King Decade to Quick. CYHM awarded to CanYouHack.Me challenge winners sharn, al5ina5, ScriptingVirtuoso, SIM-3980809, bonafide, pr1v3sc, TheScruff, ryanrl, Orgy, SUI-3183372, Sift, ALOMARI, Game, and Money-.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5721178",
+                    "username": "Goldenboi"
+                },
+                {
+                    "uid": "5775408",
+                    "username": "CyberXero"
+                },
+                {
+                    "uid": "2929583",
+                    "username": "Quick"
+                },
+                {
+                    "uid": "5",
+                    "username": "sharn"
+                },
+                {
+                    "uid": "1458891",
+                    "username": "al5ina5"
+                },
+                {
+                    "uid": "3283726",
+                    "username": "ScriptingVirtuoso"
+                },
+                {
+                    "uid": "3980809",
+                    "username": "SIM-3980809"
+                },
+                {
+                    "uid": "5777327",
+                    "username": "bonafide"
+                },
+                {
+                    "uid": "5774393",
+                    "username": "pr1v3sc"
+                },
+                {
+                    "uid": "1885838",
+                    "username": "TheScruff"
+                },
+                {
+                    "uid": "2000571",
+                    "username": "ryanrl"
+                },
+                {
+                    "uid": "182754",
+                    "username": "Orgy"
+                },
+                {
+                    "uid": "3183372",
+                    "username": "SUI-3183372"
+                },
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                },
+                {
+                    "uid": "4568478",
+                    "username": "ALOMARI"
+                },
+                {
+                    "uid": "3539763",
+                    "username": "Game"
+                },
+                {
+                    "uid": "3382541",
+                    "username": "Money-"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Tech / Movies / Comics / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Groups / Gaming / Music)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 604,
+        "date": 1789425798,
+        "pid": "63004133",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 65"
+    }
+}

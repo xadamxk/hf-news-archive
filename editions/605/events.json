@@ -1,0 +1,112 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Attachments Disabled",
+            "description": "Attachments were disabled for a few days during security updates and have since been re-enabled while testing continues.",
+            "url": "https://hackforums.net/showthread.php?tid=6332091",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "site-maintenance"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Scrolling Ads Live",
+            "description": "Scrolling text ads officially went live at $25 per week, with pricing adjusting to demand.",
+            "url": "https://hackforums.net/showthread.php?tid=6332064",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "theme"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Dafuq, oвѕervanт, Marcel Adams, kandhro, and Wide Awake.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1819718",
+                    "username": "Dafuq"
+                },
+                {
+                    "uid": "1199829",
+                    "username": "oвѕervanт"
+                },
+                {
+                    "uid": "3023551",
+                    "username": "Marcel Adams"
+                },
+                {
+                    "uid": "3187064",
+                    "username": "kandhro"
+                },
+                {
+                    "uid": "804883",
+                    "username": "Wide Awake"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Tech / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 605,
+        "date": 1790070250,
+        "pid": "63006803",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 66"
+    }
+}

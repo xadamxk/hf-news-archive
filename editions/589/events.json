@@ -1,0 +1,252 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Charlie Sheen Promoted to Admin",
+            "description": "After 13 years on Hack Forums, Charlie Sheen was promoted to Admin. The new role includes assisting with deal disputes, with access to PMs, convos, and logs, to reduce Omniscient's workload and free time for upcoming features.",
+            "url": "https://hackforums.net/showthread.php?tid=6326244",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ],
+            "tags": [
+                "usergroups",
+                "moderation"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "BustaByte Game",
+            "description": "Riggs launched BustaByte, a Bustabit-style crash betting game built on the HF API and Bytes. Members sign in with their HF account, deposit Bytes, and bet; an award goal tied to the game was teased.",
+            "url": "https://hackforums.net/showthread.php?tid=6326368",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "402384",
+                    "username": "Riggs"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Contest Ideas",
+            "description": "Cap began gathering community feedback on hosting a large site-wide contest, asking members which past events they'd like to see return.",
+            "url": "https://hackforums.net/showthread.php?tid=6326296",
+            "users": [
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                }
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Profile Follow Button Moved",
+            "description": "The follow (smiley) button moved into the profile header next to the PM icon. The old drop-down menu was removed, along with the rarely used \"Verify secret\" option.",
+            "url": "https://hackforums.net/showthread.php?tid=6325999",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "Kingsman"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Honoring HF News on Goodwill Monday - Past & Present Contributors",
+            "description": "For HF's 16th Goodwill Monday, xadamxk highlighted the history of HF News and its past and present contributors, encouraging members to give positive popularity to those who've shaped the community.",
+            "url": "https://hackforums.net/showthread.php?tid=6326375",
+            "users": [
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                }
+            ],
+            "tags": [
+                "holidays",
+                "hf-news-ops"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Notifier [Telegram + Discord Integration]",
+            "description": "Charlie Sheen released HFNotify (beta), which forwards HF notifications (replies, convos, mentions, PMs, quick loves, popularity, quotes, and contract updates) to Telegram or Discord via the HF API.",
+            "url": "https://hackforums.net/showthread.php?tid=6326376",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Psilocybe. Dicey awarded to Unknown. API Dev awarded to Riggs and Charlie Sheen.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2010424",
+                    "username": "Psilocybe"
+                },
+                {
+                    "uid": "2765535",
+                    "username": "Unknown"
+                },
+                {
+                    "uid": "402384",
+                    "username": "Riggs"
+                },
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "The Brotherhood got a brand new userbar.",
+            "url": "",
+            "users": []
+        },
+        {
+            "category": "threads",
+            "title": "Last game you genuinely enjoyed?",
+            "description": "Psilocybe talked about finding real enjoyment again through No Man's Sky, and replies turned into a nostalgic mix of old favorites and comfort games.",
+            "url": "https://hackforums.net/showthread.php?tid=6326120",
+            "users": [
+                {
+                    "uid": "2010424",
+                    "username": "Psilocybe"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Post a selfie",
+            "description": "ModernEHustle invited members to post what they look like, and the Lounge thread became a mix of jokes, hesitation, old photos, and profile-picture banter.",
+            "url": "https://hackforums.net/showthread.php?tid=6326069",
+            "users": [
+                {
+                    "uid": "5238577",
+                    "username": "ModernEHustle"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How Alcohol Tricks Your Primal Brain & Can Leave You Stuck in Fear Mode",
+            "description": "Rsynced wrote about alcohol, anxiety, and fear responses through the lens of the primal brain, sharing practical grounding and breathing methods.",
+            "url": "https://hackforums.net/showthread.php?tid=6326352",
+            "users": [
+                {
+                    "uid": "630163",
+                    "username": "Rsynced"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Been away from here to figure out what is wrong with me...",
+            "description": "Rsynced returned to explain his time away working through anxiety, health, and alcohol; members welcomed him back and shared their own progress.",
+            "url": "https://hackforums.net/showthread.php?tid=6326253",
+            "users": [
+                {
+                    "uid": "630163",
+                    "username": "Rsynced"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Where is the world heading?",
+            "description": "Mxstermind asked for predictions on the next 10 to 20 years (AI, automation, surveillance, inequality, climate, and geopolitics) and whether society is heading toward freedom or control.",
+            "url": "https://hackforums.net/showthread.php?tid=6326357",
+            "users": [
+                {
+                    "uid": "5576555",
+                    "username": "Mxstermind"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Groups / Music / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Journalist (Tech)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 589,
+        "date": 1780354187,
+        "pid": "62963580",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 50"
+    }
+}

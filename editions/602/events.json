@@ -1,0 +1,90 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "New BTCPay Server",
+            "description": "As part of the server move, a new BTCPay Server was rented and configured on its own VPS, with BTC and LTC syncing and XMR to follow. The migration saves $10 a month and gives HF more control and reliability.",
+            "url": "https://hackforums.net/showthread.php?tid=6331108",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Prepper. Flip Reaper awarded to Terry A. Davis.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "3104967",
+                    "username": "Prepper"
+                },
+                {
+                    "uid": "1237824",
+                    "username": "Terry A. Davis"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Groups / Gaming / Music)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 602,
+        "date": 1788212727,
+        "pid": "62999113",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 63"
+    }
+}
