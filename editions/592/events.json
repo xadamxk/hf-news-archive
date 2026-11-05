@@ -1,0 +1,198 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Bumps Fixed",
+            "description": "Some thread bumps were going through without the Bytes fee because a faulty IF statement skipped alter_bytes() under certain conditions. Omniscient fixed it.",
+            "url": "https://hackforums.net/showthread.php?tid=6327222",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "bug-fixes"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Fake AI Members",
+            "description": "Omniscient polled members on how AI should be integrated into HF. \"Don't bother with AI\" led at 60%, ahead of \"AI Designated Members\" (29%) and \"Fake Members\" (8%), with discussion centered on authenticity and Stanley cited as an acceptable model.",
+            "url": "https://hackforums.net/showthread.php?tid=6327300",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Dicey awarded to anua. Flip Reaper to Weekend Offender. King Decade to KING ROB and KeelanxHacks.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "5760485",
+                    "username": "anua"
+                },
+                {
+                    "uid": "1090333",
+                    "username": "Weekend Offender"
+                },
+                {
+                    "uid": "2119674",
+                    "username": "KING ROB"
+                },
+                {
+                    "uid": "1399003",
+                    "username": "KeelanxHacks"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "The Brotherhood had leadership changes: The Pact, xadamxk, and jcole were added as leaders.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1411092",
+                    "username": "The Pact"
+                },
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                },
+                {
+                    "uid": "811",
+                    "username": "jcole"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF Notifier [Telegram + Discord Integration]",
+            "description": "Charlie Sheen's HFNotify forwards HF notifications to Telegram and Discord via the HF API, Firebase, and a VPS worker. The tool evolved quickly with realtime convo support, duplicate prevention, encrypted sessions, and a Chrome/Brave helper extension.",
+            "url": "https://hackforums.net/showthread.php?tid=6326376",
+            "users": [
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "How are you using and or monetizing Clawdbot / Moltbot / Openclaw",
+            "description": "Digital Plug asked what real value members get from agent-style AI tools; replies covered personal agents, workflow automation, cold-calling, Agno, nanoclaw, zeroclaw, and AI agents in crypto.",
+            "url": "https://hackforums.net/showthread.php?tid=6319431",
+            "users": [
+                {
+                    "uid": "3416067",
+                    "username": "Digital Plug"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Win Bytes With This Tool That Shows Winning Probability Between Teams",
+            "description": "JoseMar released a Streamlit dashboard built on Python, pandas, and The Odds API that compares matches and estimates win probabilities, with a beginner-friendly setup guide and a reminder about betting risk.",
+            "url": "https://hackforums.net/showthread.php?tid=6327239",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Release] HFdle - the daily Hack Forums trivia game",
+            "description": "xadamxk released HFdle, a Wordle-style daily trivia game about HF history, awards, help docs, and culture, with HF sign-in, streaks, and leaderboards.",
+            "url": "https://hackforums.net/showthread.php?tid=6327134",
+            "users": [
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "ServerSearch.org: Your VPS might be too expensive!",
+            "description": "Rawl introduced ServerSearch.org, a hosting deal finder with curated promos, recurring discounts, provider reviews, and checks on whether deals are still live.",
+            "url": "https://hackforums.net/showthread.php?tid=6327327",
+            "users": [
+                {
+                    "uid": "1885212",
+                    "username": "Rawl"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Groups / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Music)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 592,
+        "date": 1782166769,
+        "pid": "62971725",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 53"
+    }
+}

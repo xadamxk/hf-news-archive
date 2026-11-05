@@ -1,0 +1,226 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Good Will Monday 2026",
+            "description": "HF celebrated Good Will Monday, the official holiday where members leave positive Popularity for each other. One random participant, Μinimalist, won 5,000 Bytes.",
+            "url": "https://hackforums.net/showthread.php?tid=6326400",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "807307",
+                    "username": "Μinimalist"
+                }
+            ],
+            "tags": [
+                "holidays"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF Summer Kickoff 2026 Winners",
+            "description": "Omniscient closed out the Summer Kickoff giveaway and announced the winners, thanking members for the increased activity during the event.",
+            "url": "https://hackforums.net/showthread.php?tid=6326430",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "holidays"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Banned and Closed Postbit Change",
+            "description": "Following a community suggestion, closed and banned accounts now show \"DO NOT DEAL WITH THIS MEMBER\" in place of their credibility and popularity, to protect newer members who find old contact info on threads.",
+            "url": "https://hackforums.net/showthread.php?tid=6326667",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features",
+                "moderation"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to TheWaifuHunter, Dr Dre, newQuery, and Fortunate. Bronze Tutorial Award to Mastercarder. Quickly Loved to Mix. Flip Reaper to Artisan. Lucky awarded to DramaKing, digital2key, N0TH1NG, bermaksindonasia, Edmond Dantes, Joocelar, EggsOverEasy, indirectsyscall, NotJinx, Adolfi, ModernEHustle, DeathPenalty666, JuceStar, Sheethal s, idkidkidk, Mai290, tradie101, StoClacson, and Eran.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1876286",
+                    "username": "TheWaifuHunter"
+                },
+                {
+                    "uid": "1789864",
+                    "username": "Dr Dre"
+                },
+                {
+                    "uid": "2602549",
+                    "username": "newQuery"
+                },
+                {
+                    "uid": "3123052",
+                    "username": "Fortunate"
+                },
+                {
+                    "uid": "4746120",
+                    "username": "Mastercarder"
+                },
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                },
+                {
+                    "uid": "3851797",
+                    "username": "Artisan"
+                },
+                {
+                    "uid": "5252466",
+                    "username": "DramaKing"
+                },
+                {
+                    "uid": "5614801",
+                    "username": "digital2key"
+                },
+                {
+                    "uid": "5761291",
+                    "username": "N0TH1NG"
+                },
+                {
+                    "uid": "5700255",
+                    "username": "bermaksindonasia"
+                },
+                {
+                    "uid": "5747134",
+                    "username": "Edmond Dantes"
+                },
+                {
+                    "uid": "5755211",
+                    "username": "Joocelar"
+                },
+                {
+                    "uid": "5757722",
+                    "username": "EggsOverEasy"
+                },
+                {
+                    "uid": "5753066",
+                    "username": "indirectsyscall"
+                },
+                {
+                    "uid": "5735655",
+                    "username": "NotJinx"
+                },
+                {
+                    "uid": "4453301",
+                    "username": "Adolfi"
+                },
+                {
+                    "uid": "5238577",
+                    "username": "ModernEHustle"
+                },
+                {
+                    "uid": "5617652",
+                    "username": "DeathPenalty666"
+                },
+                {
+                    "uid": "4498229",
+                    "username": "JuceStar"
+                },
+                {
+                    "uid": "5757833",
+                    "username": "Sheethal s"
+                },
+                {
+                    "uid": "5759868",
+                    "username": "idkidkidk"
+                },
+                {
+                    "uid": "5695019",
+                    "username": "Mai290"
+                },
+                {
+                    "uid": "5744511",
+                    "username": "tradie101"
+                },
+                {
+                    "uid": "5728675",
+                    "username": "StoClacson"
+                },
+                {
+                    "uid": "5064970",
+                    "username": "Eran"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Groups / Music)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 590,
+        "date": 1780960344,
+        "pid": "62966575",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 51"
+    }
+}

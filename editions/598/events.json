@@ -1,0 +1,177 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Steam Hacking Simulation Game",
+            "description": "Omniscient asked for feedback and interested developers for an HF-branded or partnered hacking simulation game on Steam, potentially integrating HF profiles, Bytes, and awards through the HF API.",
+            "url": "https://hackforums.net/showthread.php?tid=6329536",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "July Drawing Winners",
+            "description": "The $2k July contest wrapped up and winners of cash, Bytes, and upgrades were announced; thanks went to Omniscient and loadman for running it.",
+            "url": "https://hackforums.net/showthread.php?tid=6329538",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "3128111",
+                    "username": "loadman"
+                }
+            ],
+            "tags": [
+                "holidays"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to NavTech, Orgy, and team3d. Flip Reaper to Koyote. Lucky awarded to straightskillz, djdjjd, InGodMode, Th3HulK, Topia, TENBENDS, greekdev, am00, NordSecure, cltrade, mexicannachos, SUI-3183372, Flaming Hot Cheetos, Au Jus Demon, and Tha Sneak.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "659136",
+                    "username": "NavTech"
+                },
+                {
+                    "uid": "182754",
+                    "username": "Orgy"
+                },
+                {
+                    "uid": "1305019",
+                    "username": "team3d"
+                },
+                {
+                    "uid": "4932752",
+                    "username": "Koyote"
+                },
+                {
+                    "uid": "5774595",
+                    "username": "straightskillz"
+                },
+                {
+                    "uid": "5774581",
+                    "username": "djdjjd"
+                },
+                {
+                    "uid": "5773547",
+                    "username": "InGodMode"
+                },
+                {
+                    "uid": "5773091",
+                    "username": "Th3HulK"
+                },
+                {
+                    "uid": "5771603",
+                    "username": "Topia"
+                },
+                {
+                    "uid": "5769496",
+                    "username": "TENBENDS"
+                },
+                {
+                    "uid": "5747700",
+                    "username": "greekdev"
+                },
+                {
+                    "uid": "5737809",
+                    "username": "am00"
+                },
+                {
+                    "uid": "5502941",
+                    "username": "NordSecure"
+                },
+                {
+                    "uid": "4658676",
+                    "username": "cltrade"
+                },
+                {
+                    "uid": "3201203",
+                    "username": "mexicannachos"
+                },
+                {
+                    "uid": "3183372",
+                    "username": "SUI-3183372"
+                },
+                {
+                    "uid": "2485393",
+                    "username": "Flaming Hot Cheetos"
+                },
+                {
+                    "uid": "761578",
+                    "username": "Au Jus Demon"
+                },
+                {
+                    "uid": "284502",
+                    "username": "Tha Sneak"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Groups / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 598,
+        "date": 1785806206,
+        "pid": "62988410",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 59"
+    }
+}

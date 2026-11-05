@@ -1,0 +1,86 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Scrolling Text Ads",
+            "description": "Scrolling text ads were added to HF, an idea from Omniscient's wife, starting at $25 per week with pricing adjusted to demand.",
+            "url": "https://hackforums.net/showthread.php?tid=6331317",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "theme"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Black Hatter awarded to Sift.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 603,
+        "date": 1788824687,
+        "pid": "63001465",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 64"
+    }
+}

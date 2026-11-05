@@ -1,0 +1,122 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "$2k July Contest",
+            "description": "The July contest celebrates America's 250th anniversary with cash, Bytes, and permanent upgrades, and every winner also gets the Lucky Drawing award. Entries come from threads, posts, and L33t referrals made in July; sponsored by loadman and Virtualine, with drawings in the first week of August.",
+            "url": "https://hackforums.net/showthread.php?tid=6327870",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "3128111",
+                    "username": "loadman"
+                },
+                {
+                    "uid": "5555096",
+                    "username": "Virtualine"
+                }
+            ],
+            "tags": [
+                "holidays"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "America Award Sale",
+            "description": "The America award went on sale for $25 with no purchase limit; awards bought this month carry the description \"250 Years of America.\"",
+            "url": "https://hackforums.net/showthread.php?tid=6327906",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "awards",
+                "holidays"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Green Apple awarded to DarkVision. Shining Knight to loadman. King Decade to -Slick- and securer.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "4456683",
+                    "username": "DarkVision"
+                },
+                {
+                    "uid": "3128111",
+                    "username": "loadman"
+                },
+                {
+                    "uid": "1063565",
+                    "username": "-Slick-"
+                },
+                {
+                    "uid": "2479226",
+                    "username": "securer"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 594,
+        "date": 1783382763,
+        "pid": "62976795",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 55"
+    }
+}

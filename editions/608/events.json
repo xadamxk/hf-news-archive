@@ -1,0 +1,115 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Octoberfest 2026 w/new Award Goal",
+            "description": "HF kicked off Octoberfest 2026, sponsored by AnonRDP: $700 in cash, ten permanent upgrades, and the Lucky award for drawing winners on November 1, with entries earned by posting. Hitting 300 posts and 30 threads during the event unlocks the limited 2026 Red Pumpkin award.",
+            "url": "https://hackforums.net/showthread.php?tid=6333316",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                },
+                {
+                    "uid": "5451242",
+                    "username": "AnonRDP"
+                }
+            ],
+            "tags": [
+                "holidays",
+                "awards"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Site Notifications and Web-Push",
+            "description": "Omniscient rebuilt the notification system to modern standards, adding lightweight real-time on-site alerts plus native browser/OS push for PMs, mentions, quotes, and thread replies.",
+            "url": "https://hackforums.net/showthread.php?tid=6333311",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Header Icons",
+            "description": "After a Font Awesome update, Omniscient asked whether header icons should switch from solid to light variants; the PM icon already changed from a paper plane to an envelope.",
+            "url": "https://hackforums.net/showthread.php?tid=6333220",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "theme"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Paimon. SportsBook and Bytes Bag awarded to Respect.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1527088",
+                    "username": "Paimon"
+                },
+                {
+                    "uid": "1631830",
+                    "username": "Respect"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Gaming / Music / Comics)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 608,
+        "date": 1791844516,
+        "pid": "63016482",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 69"
+    }
+}

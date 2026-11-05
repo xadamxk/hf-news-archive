@@ -1,0 +1,249 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "1 Year of HF News",
+            "description": "HF News marked one year since Mix revived it in June 2025. A special section recounted how Cap lent a Warriors subforum to start the project, Omniscient's go-ahead, the HF Wiki sub-team formed after wiki permissions were granted on November 11, 2025, and thanks to past and present writers and Bytes donors. A giveaway with awards, Bytes, and crypto was teased.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap"
+                }
+            ],
+            "tags": [
+                "milestones",
+                "hf-news-ops"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "MyBB Update 1.8.4",
+            "description": "Omniscient finished manually reviewing and applying the relevant MyBB 1.8.4 changes and security patches to HF, which can't be updated in one click because it isn't a stock install.",
+            "url": "https://hackforums.net/showthread.php?tid=6326805",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "site-maintenance"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "SportsBook: World Cup Added",
+            "description": "Following a member suggestion, World Cup betting was added to the Bytes Sportsbook.",
+            "url": "https://hackforums.net/showthread.php?tid=6326871",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "SportsBook awarded to Weekend Offender. GFX Guru to bluewatertree. Flip Reaper to Motusora, Sift, and anua. King Decade to bοxxy and Unixroot™.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1090333",
+                    "username": "Weekend Offender"
+                },
+                {
+                    "uid": "5731263",
+                    "username": "bluewatertree"
+                },
+                {
+                    "uid": "776749",
+                    "username": "Motusora"
+                },
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                },
+                {
+                    "uid": "5760485",
+                    "username": "anua"
+                },
+                {
+                    "uid": "2177496",
+                    "username": "bοxxy"
+                },
+                {
+                    "uid": "276409",
+                    "username": "Unixroot™"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Statement on the US, suspend access to Fable 5 and Mythos 5",
+            "description": "JoseMar shared the announcement that access to Fable 5 and Mythos 5 was suspended after a US government directive, opening a discussion on frontier models, export controls, national security, and models being pulled from users.",
+            "url": "https://hackforums.net/showthread.php?pid=62968319#pid62968319",
+            "users": [
+                {
+                    "uid": "5568595",
+                    "username": "JoseMar"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "I have returned after 10 years inactive.",
+            "description": "Raijin came back after a decade away; older members welcomed him back and reminisced about old awards, groups, and reputation, with a dose of classic HF skepticism about returning accounts.",
+            "url": "https://hackforums.net/showthread.php?tid=6327059",
+            "users": [
+                {
+                    "uid": "176892",
+                    "username": "Raijin"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Macbook Air Installing Linux Mint",
+            "description": "Omniscient documented trying to install Linux Mint on a 2020 Intel MacBook Air, running into T2 chip, keyboard, and trackpad issues; members suggested Arch, Manjaro, UTM, VirtualBox, and rEFInd.",
+            "url": "https://hackforums.net/showthread.php?tid=6326551",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "omniscient-personal"
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "AI models are not just getting dumber - Prompting is changing",
+            "description": "Oh_Well argued that newer models feeling weaker is partly because prompting has changed: clear prompts now beat old-school mega prompts.",
+            "url": "https://hackforums.net/showthread.php?tid=6326453",
+            "users": [
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "{Tutorial} Scrape the DarkWeb With Robin, A Legit DarkWeb Search Tool",
+            "description": "Pr0m3th3us introduced Robin, an AI-assisted dark web search and scraping tool, covering local AI options, Docker, Tor requirements, and link liveness checks.",
+            "url": "https://hackforums.net/showthread.php?tid=6326833",
+            "users": [
+                {
+                    "uid": "2567248",
+                    "username": "Pr0m3th3us"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "WLGen Browser Based Custom Wordlist Generator",
+            "description": "Wake released WLGen, a lightweight, fully client-side custom wordlist generator that works on mobile and desktop with no installs.",
+            "url": "https://hackforums.net/showthread.php?tid=6326959",
+            "users": [
+                {
+                    "uid": "2745296",
+                    "username": "Wake"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "HF BBCode Formatter Create Clean & Creative Forum Posts Faster",
+            "description": "Wake released HF BBCode Formatter, with live preview, a formatting toolbar, templates, spoilers, code blocks, embeds, autosave, and one-click BBCode copying for HF posts.",
+            "url": "https://hackforums.net/showthread.php?tid=6326750",
+            "users": [
+                {
+                    "uid": "2745296",
+                    "username": "Wake"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Do Self-Help Products and Services Actually Work?",
+            "description": "TheNaturalBoy used Robert Kiyosaki as a starting point to ask whether self-help books, courses, and gurus actually help or just recycle vague advice.",
+            "url": "https://hackforums.net/showthread.php?tid=6326824",
+            "users": [
+                {
+                    "uid": "5628973",
+                    "username": "TheNaturalBoy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Special / Statistics / Awards / Music / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Journalist (Tech)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 591,
+        "date": 1781564257,
+        "pid": "62969134",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 52 [1 YEAR OF HF NEWS]"
+    }
+}

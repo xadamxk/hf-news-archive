@@ -1,0 +1,237 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Avatar Display Size Increased",
+            "description": "Following the avatar file size increase to 150KB, Omniscient noticed the in-thread display size had never been updated after the old jump from 100x100 to 120x150. Avatars on posts now render at the full 120x150 dimensions.",
+            "url": "https://hackforums.net/showthread.php?tid=6325695",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Mailing List / Newsletter",
+            "description": "Omniscient asked for feedback on an opt-in weekly email newsletter covering hot threads, announcements, and community highlights.",
+            "url": "https://hackforums.net/showthread.php?tid=6325703",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "JS Adjustments",
+            "description": "Omniscient minified two of HF's custom JavaScript files to cut page load size; members were asked to report any issues with tabs, convos, or notifications.",
+            "url": "https://hackforums.net/showthread.php?tid=6325757",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "site-maintenance"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Vibe $250 Crypto Giveaway - Crack The Seed V4",
+            "description": "Kingsman announced Crack the Seed V4: $250 of SOL locked in a wallet, with 12 daily riddles each revealing part of the seed phrase. The first to unlock the wallet claims the prize; applications open for 7 days.",
+            "url": "https://hackforums.net/showthread.php?tid=6325960",
+            "users": [
+                {
+                    "uid": "7",
+                    "username": "Kingsman"
+                }
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to 크러쉬가. Rat Expert awarded to Binance.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "981279",
+                    "username": "크러쉬가"
+                },
+                {
+                    "uid": "5130882",
+                    "username": "Binance"
+                }
+            ]
+        },
+        {
+            "category": "groups",
+            "title": "Group & Crew Changes",
+            "description": "5chn4pp and Unknown were added as leaders of Equilibrium.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2446418",
+                    "username": "5chn4pp"
+                },
+                {
+                    "uid": "2765535",
+                    "username": "Unknown"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[Release] HF News Archive Project",
+            "description": "xadamxk put together an offsite archive covering hundreds of HF News editions, thousands of events, notable threads, awards, group activity, and contributors, all searchable through a web viewer.",
+            "url": "https://hackforums.net/showthread.php?tid=6325220",
+            "users": [
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What are we doing",
+            "description": "ModernEHustle opened up about feeling lost and stressed, and the replies became a grounded discussion about purpose, money, social pressure, faith, mental health, and finding direction.",
+            "url": "https://hackforums.net/showthread.php?tid=6325726",
+            "users": [
+                {
+                    "uid": "5238577",
+                    "username": "ModernEHustle"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "[DISCUSSION] Does anyone feel life after 2020 has completely changed?",
+            "description": "Mastercarder pointed to the social, financial, and cultural shifts since 2020 (rising prices, short-form content, weaker social habits) and asked whether technology now uses us more than we use it.",
+            "url": "https://hackforums.net/showthread.php?tid=6325625",
+            "users": [
+                {
+                    "uid": "4746120",
+                    "username": "Mastercarder"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "If you'll give your son 1 advice what would it be?",
+            "description": "A simple question that turned into a collection of life lessons on ownership, family, money, relationships, bad habits, regret, and self-respect.",
+            "url": "https://hackforums.net/showthread.php?tid=6325642",
+            "users": [
+                {
+                    "uid": "5607021",
+                    "username": "Unknown"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "Finally coming to United States of America",
+            "description": "Adolfi asked for five places to visit on a 30-day first trip to the US; members suggested Miami, Las Vegas, national parks, NYC and more, alongside warnings about customs and electronics.",
+            "url": "https://hackforums.net/showthread.php?tid=6325646",
+            "users": [
+                {
+                    "uid": "4453301",
+                    "username": "Adolfi"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "You're not crazy, more than half of adults are borderline retarded",
+            "description": "Hackers brought up adult literacy statistics and tied them to online arguments, scams, short attention spans, and dopamine-driven content, arguing comprehension is becoming a major filter online.",
+            "url": "https://hackforums.net/showthread.php?tid=6325512",
+            "users": [
+                {
+                    "uid": "4931690",
+                    "username": "Hackers"
+                }
+            ]
+        },
+        {
+            "category": "threads",
+            "title": "What was your first job, what was it like, and what recommendations would you give?",
+            "description": "TheNaturalBoy asked members about their first jobs; replies covered retail, food service, accounting, and regrets about spending early paychecks instead of saving.",
+            "url": "https://hackforums.net/showthread.php?tid=6325668",
+            "users": [
+                {
+                    "uid": "5628973",
+                    "username": "TheNaturalBoy"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Music / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines)"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Journalist (Notable)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Journalist (Tech)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "4030013",
+                    "username": "Thoth",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 588,
+        "date": 1779750098,
+        "pid": "62960414",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 49"
+    }
+}

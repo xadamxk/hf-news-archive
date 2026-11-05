@@ -1,0 +1,108 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "HF Summer Kickoff Giveaway [$1500+ Prizes]",
+            "description": "Omniscient launched this year's annual summer giveaway for all members, with prizes ranging from l33t and Ub3r upgrades up to a fully custom award for one winner.",
+            "url": "https://hackforums.net/showthread.php?tid=325083",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "holidays"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "HF News Archive Project",
+            "description": "xadamxk released the HF News Archive, an offsite project that lets members browse and search past HF News editions. Billed as a first step toward future archive projects and a contribution to the HF Wiki.",
+            "url": "https://hackforums.net/showthread.php?tid=6325220",
+            "users": [
+                {
+                    "uid": "574588",
+                    "username": "xadamxk"
+                }
+            ],
+            "tags": [
+                "hf-news-ops"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Zink, Chazay, and NewGeek. Shining Knight awarded to Анастасия.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1844751",
+                    "username": "Zink"
+                },
+                {
+                    "uid": "894593",
+                    "username": "Chazay"
+                },
+                {
+                    "uid": "61435",
+                    "username": "NewGeek"
+                },
+                {
+                    "uid": "5663451",
+                    "username": "Анастасия"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Headlines / Statistics / Awards / Music / Movies / Publisher)"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Journalist (Groups)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "1871421",
+                    "username": "JoshAllen",
+                    "role": "Journalist (Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5465469",
+                    "username": "▄︻デ══━一一一一━",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 586,
+        "date": 1778541629,
+        "pid": "62954051",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 47"
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Convo Returns",
+            "description": "Omniscient brought Convo back after its post-migration rebuild, with minor bugs expected over the first few days.",
+            "url": "https://hackforums.net/showthread.php?tid=6333781",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Tether Payment Support",
+            "description": "Omniscient integrated Plisio for invoice payments, live for Features first and rolling out to all purchases, supporting TRON, BSC, ETH, and SOL plus Tether on those networks.",
+            "url": "https://hackforums.net/showthread.php?tid=6334034",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "/Dev/Null:Ports Game",
+            "description": "Omniscient asked whether the previously retired /Dev/Null:Ports game is worth reviving now that AI coding tools could fix its bugs in an estimated 1-2 days.",
+            "url": "https://hackforums.net/showthread.php?tid=6334081",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "Rack Attack",
+            "description": "Omniscient launched Rack Attack, a site-wide skill game with 10 escalating stages.",
+            "url": "https://hackforums.net/showthread.php?tid=6333691",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "Octoberfest 2026 awarded to DemonAsylum, Sift, oRequiem, Fish, Michael, Charlie Sheen, Yanix, Deany, and Hern. King Decade to Dark_Fire, HiddenModerator, and SIM-3140613.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "666",
+                    "username": "DemonAsylum"
+                },
+                {
+                    "uid": "2195096",
+                    "username": "Sift"
+                },
+                {
+                    "uid": "2359475",
+                    "username": "oRequiem"
+                },
+                {
+                    "uid": "2017813",
+                    "username": "Fish"
+                },
+                {
+                    "uid": "827750",
+                    "username": "Michael"
+                },
+                {
+                    "uid": "123",
+                    "username": "Charlie Sheen"
+                },
+                {
+                    "uid": "4273612",
+                    "username": "Yanix"
+                },
+                {
+                    "uid": "1618863",
+                    "username": "Deany"
+                },
+                {
+                    "uid": "762511",
+                    "username": "Hern"
+                },
+                {
+                    "uid": "1317089",
+                    "username": "Dark_Fire"
+                },
+                {
+                    "uid": "2750129",
+                    "username": "HiddenModerator"
+                },
+                {
+                    "uid": "3140613",
+                    "username": "SIM-3140613"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Statistics / Awards / Tech / Movies / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Groups / Gaming / Music / Comics)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "3929084",
+                    "username": "Chrome",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 609,
+        "date": 1792449468,
+        "pid": "63022830",
+        "author_uid": "2331053",
+        "subject": "Hack Forum News - Edition 70"
+    }
+}

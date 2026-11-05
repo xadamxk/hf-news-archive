@@ -1,0 +1,133 @@
+{
+    "events": [
+        {
+            "category": "site",
+            "title": "Notifications Reset",
+            "description": "After an accidental deletion, Omniscient rebuilt the Notify, Convo, Plisio, and Stripe configs. New VAPID keys meant all push tokens were reset, so members must re-enable push notifications in settings.",
+            "url": "https://hackforums.net/showthread.php?tid=6334597",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "site-maintenance"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "AI in Convo",
+            "description": "Omniscient proposed adding a Stanley command to Convo that runs on a site API key instead of members' own tokens, and asked for cheap model and provider recommendations.",
+            "url": "https://hackforums.net/showthread.php?tid=6334616",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "features"
+            ]
+        },
+        {
+            "category": "site",
+            "title": "APIv3 Development",
+            "description": "Citing lingering bugs, Omniscient announced the forum API will be rebuilt from scratch; APIv2 will be fully deprecated within 30 days of the new build going live.",
+            "url": "https://hackforums.net/showthread.php?tid=6334613",
+            "users": [
+                {
+                    "uid": "1",
+                    "username": "Omniscient"
+                }
+            ],
+            "tags": [
+                "infrastructure"
+            ]
+        },
+        {
+            "category": "users",
+            "title": "Awards",
+            "description": "King Decade awarded to Adzdon, Pikachu, Hertz-, Forward Slash, Avunit‌, and Strategist. Octoberfest 2026 awarded to Yin Yang, sharn, and Jamika.",
+            "url": "",
+            "users": [
+                {
+                    "uid": "1519843",
+                    "username": "Adzdon"
+                },
+                {
+                    "uid": "2890436",
+                    "username": "Pikachu"
+                },
+                {
+                    "uid": "1487182",
+                    "username": "Hertz-"
+                },
+                {
+                    "uid": "82952",
+                    "username": "Forward Slash"
+                },
+                {
+                    "uid": "1121882",
+                    "username": "Avunit‌"
+                },
+                {
+                    "uid": "930842",
+                    "username": "Strategist"
+                },
+                {
+                    "uid": "290801",
+                    "username": "Yin Yang"
+                },
+                {
+                    "uid": "5",
+                    "username": "sharn"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika"
+                }
+            ]
+        },
+        {
+            "category": "news",
+            "title": "Contributors to this edition.",
+            "description": "",
+            "url": "",
+            "users": [
+                {
+                    "uid": "2331053",
+                    "username": "Mix",
+                    "role": "Journalist (Special / Statistics / Awards / Tech / Comics / Publisher)"
+                },
+                {
+                    "uid": "2745296",
+                    "username": "Wake",
+                    "role": "Journalist (Headlines / Groups / Gaming / Music / Comics)"
+                },
+                {
+                    "uid": "5458992",
+                    "username": "Jamika",
+                    "role": "Journalist (Vibes)"
+                },
+                {
+                    "uid": "57618",
+                    "username": "Cap",
+                    "role": "Contributor"
+                },
+                {
+                    "uid": "5655318",
+                    "username": "Oh_Well",
+                    "role": "Contributor"
+                }
+            ]
+        }
+    ],
+    "edition": {
+        "number": 610,
+        "date": 1793067405,
+        "pid": "63026723",
+        "author_uid": "2331053",
+        "subject": "👻 Hack Forum News - Edition 71 - Halloween Special 🎃"
+    }
+}
